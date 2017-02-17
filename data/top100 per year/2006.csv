@@ -1,0 +1,101 @@
+;classement;titre;annee;durée;categorie
+0;1.;Pirates of the Caribbean: Dead Man's Chest;(2006);151 min;Action, Adventure, Fantasy            
+1;2.;Night at the Museum;(2006);108 min;Adventure, Comedy, Family            
+2;3.;Cars;(2006);117 min;Animation, Adventure, Comedy            
+3;4.;X-Men: L'affrontement final;(2006);104 min;Action, Adventure, Fantasy            
+4;5.;The Da Vinci Code;(2006);149 min;Mystery, Thriller            
+5;6.;300;(2006);117 min;Action, Fantasy            
+6;7.;Superman Returns;(2006);154 min;Action, Adventure, Sci-Fi            
+7;8.;Happy Feet;(2006);108 min;Animation, Comedy, Family            
+8;9.;Ice Age: The Meltdown;(2006);91 min;Animation, Action, Adventure            
+9;10.;Casino Royale;(2006);144 min;Action, Adventure, Thriller            
+10;11.;The Pursuit of Happyness;(2006);117 min;Biography, Drama            
+11;12.;Over the Hedge;(2006);83 min;Animation, Adventure, Comedy            
+12;13.;Talladega Nights: The Ballad of Ricky Bobby;(2006);108 min;Action, Comedy, Sport            
+13;14.;Click;(2006);107 min;Comedy, Drama, Fantasy            
+14;15.;Mission: Impossible III;(2006);126 min;Action, Adventure, Thriller            
+15;16.;The Departed;(2006);151 min;Crime, Drama, Thriller            
+16;17.;Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;(2006);84 min;Comedy            
+17;18.;The Devil Wears Prada;(2006);109 min;Comedy, Drama            
+18;19.;The Break-Up;(2006);106 min;Comedy, Drama, Romance            
+19;20.;Dreamgirls;(2006);130 min;Drama, Music, Musical            
+20;21.;Scary Movie 4;(2006);83 min;Comedy            
+21;22.;Failure to Launch;(2006);97 min;Comedy, Romance            
+22;23.;Inside Man;(2006);129 min;Crime, Drama, Mystery            
+23;24.;The Santa Clause 3: The Escape Clause;(2006);97 min;Adventure, Comedy, Family            
+24;25.;Open Season;(2006);86 min;Animation, Adventure, Comedy            
+25;26.;Charlotte's Web;(2006);97 min;Comedy, Family, Fantasy            
+26;27.;The Pink Panther;(2006);93 min;Adventure, Comedy, Crime            
+27;28.;Eight Below;(2006);120 min;Adventure, Drama, Family            
+28;29.;Super Nacho;(2006);92 min;Comedy, Family, Sport            
+29;30.;Saw III;(2006);108 min;Horror            
+30;31.;You, Me and Dupree;(2006);110 min;Comedy, Romance            
+31;32.;Eragon;(2006);104 min;Action, Adventure, Family            
+32;33.;Monster House;(2006);91 min;Animation, Comedy, Family            
+33;34.;Jackass Number Two;(2006);92 min;Documentary, Action, Comedy            
+34;35.;La ferme en folie;(2006);90 min;Animation, Comedy, Family            
+35;36.;RV;(2006);99 min;Adventure, Comedy, Family            
+36;37.;Rocky Balboa;(2006);102 min;Drama, Sport            
+37;38.;World Trade Center;(2006);129 min;Drama, History, Thriller            
+38;39.;Big Momma's House 2;(2006);99 min;Comedy, Crime            
+39;40.;Step Up;(2006);104 min;Crime, Drama, Music            
+40;41.;Flushed Away;(2006);85 min;Animation, Adventure, Comedy            
+41;42.;Deja Vu;(2006);126 min;Action, Sci-Fi, Thriller            
+42;43.;Unknown;(2006);85 min;Crime, Drama, Mystery            
+43;44.;Miami Vice;(2006);134 min;Action, Crime, Thriller            
+44;45.;Madea's Family Reunion;(2006);107 min;Comedy, Drama, Romance            
+45;46.;The Holiday;(2006);138 min;Comedy, Romance            
+46;47.;The Fast and the Furious: Tokyo Drift;(2006);104 min;Action, Crime, Romance            
+47;48.;Underworld: Evolution;(2006);106 min;Action, Adventure, Fantasy            
+48;49.;The Shaggy Dog;(2006);98 min;Comedy, Family, Fantasy            
+49;50.;Poseidon;(2006);98 min;Action, Adventure, Drama            
+50;51.;The Good Shepherd;(2006);167 min;Drama, History, Thriller            
+51;52.;Little Miss Sunshine;(2006);101 min;Comedy, Drama            
+52;53.;Curious George;(2006);86 min;Animation, Adventure, Comedy            
+53;54.;Littleman;(2006);98 min;Comedy, Crime            
+54;55.;Invincible;(2006);105 min;Biography, Drama, Sport            
+55;56.;The Benchwarmers;(2006);80 min;Comedy, Sport            
+56;57.;Blood Diamond;(2006);143 min;Adventure, Drama, Thriller            
+57;58.;The Queen;(2006);103 min;Biography, Drama            
+58;59.;The Guardian;(I) (2006);139 min;Action, Adventure, Drama            
+59;60.;The Omen;(2006);110 min;Horror            
+60;61.;Destination finale 3;(2006);93 min;Horror            
+61;62.;The Prestige;(2006);130 min;Drama, Mystery, Sci-Fi            
+62;63.;The Lake House;(2006);99 min;Drama, Fantasy, Romance            
+63;64.;Apocalypto;(2006);139 min;Action, Adventure, Drama            
+64;65.;Firewall;(2006);105 min;Crime, Thriller            
+65;66.;Date Movie;(2006);83 min;Comedy, Romance            
+66;67.;When a Stranger Calls;(2006);87 min;Horror, Thriller            
+67;68.;Silent Hill;(2006);125 min;Adventure, Horror, Mystery            
+68;69.;Deep Sea;(2006);41 min;Documentary, Short            
+69;70.;We Are Marshall;(2006);131 min;Drama, Sport            
+70;71.;Glory Road;(2006);118 min;Biography, Drama, Sport            
+71;72.;Lady in the Water;(2006);110 min;Drama, Fantasy, Mystery            
+72;73.;The Hills Have Eyes;(2006);107 min;Horror            
+73;74.;John Tucker Must Die;(2006);89 min;Comedy, Romance            
+74;75.;Stranger Than Fiction;(2006);113 min;Comedy, Drama, Fantasy            
+75;76.;The Illusionist;(2006);110 min;Drama, Mystery, Romance            
+76;77.;The Texas Chainsaw Massacre: The Beginning;(2006);91 min;Horror            
+77;78.;The Grudge 2;(2006);102 min;Horror, Thriller            
+78;79.;Gridiron Gang;(2006);125 min;Crime, Drama, Sport            
+79;80.;Last Holiday;(2006);112 min;Comedy            
+80;81.;Pan's Labyrinth;(2006);118 min;Drama, Fantasy, War            
+81;82.;The Nativity Story;(2006);101 min;Drama, Family, Fantasy            
+82;83.;Man of the Year;(2006);115 min;Comedy, Drama, Romance            
+83;84.;The Wild;(2006);82 min;Animation, Adventure, Comedy            
+84;85.;16 Blocks;(2006);102 min;Action, Crime, Drama            
+85;86.;Accepted;(2006);93 min;Comedy            
+86;87.;The Sentinel;(2006);108 min;Action, Crime, Thriller            
+87;88.;Smokin' Aces;(2006);108 min;Action, Crime, Drama            
+88;89.;Children of Men;(2006);109 min;Drama, Sci-Fi, Thriller            
+89;90.;Deck the Halls;(2006);93 min;Comedy, Family            
+90;91.;Take the Lead;(2006);118 min;Drama, Music            
+91;92.;Babel;(I) (2006);143 min;Drama            
+92;93.;Des serpents dans l'avion;(2006);105 min;Action, Adventure, Crime            
+93;94.;Flags of Our Fathers;(2006);135 min;Drama, History, War            
+94;95.;United 93;(2006);111 min;Drama, History, Thriller            
+95;96.;Deliver Us from Evil;(2006);101 min;Documentary, Crime            
+96;97.;Employee of the Month;(2006);103 min;Comedy, Romance            
+97;98.;Garfield 2;(2006);86 min;Animation, Comedy, Family            
+98;99.;The Ant Bully;(2006);88 min;Animation, Adventure, Comedy            
+99;100.;Crank;(2006);88 min;Action, Crime, Thriller            

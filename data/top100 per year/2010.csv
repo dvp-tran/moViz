@@ -1,0 +1,101 @@
+;classement;titre;annee;durée;categorie
+0;1.;Toy Story 3;(2010);103 min;Animation, Adventure, Comedy            
+1;2.;Alice in Wonderland;(I) (2010);108 min;Adventure, Family, Fantasy            
+2;3.;Iron Man 2;(2010);124 min;Action, Adventure, Sci-Fi            
+3;4.;The Twilight Saga: Eclipse;(2010);124 min;Adventure, Drama, Fantasy            
+4;5.;Harry Potter and the Deathly Hallows: Part 1;(2010);146 min;Adventure, Family, Fantasy            
+5;6.;Inception;(2010);148 min;Action, Adventure, Sci-Fi            
+6;7.;Despicable Me;(2010);95 min;Animation, Adventure, Comedy            
+7;8.;Shrek Forever After;(2010);93 min;Animation, Adventure, Comedy            
+8;9.;How to Train Your Dragon;(2010);98 min;Animation, Action, Adventure            
+9;10.;Tangled;(2010);100 min;Animation, Adventure, Comedy            
+10;11.;The Karate Kid;(2010);140 min;Action, Drama, Family            
+11;12.;TRON: Legacy;(2010);125 min;Action, Adventure, Sci-Fi            
+12;13.;True Grit;(2010);110 min;Adventure, Drama, Western            
+13;14.;Clash of the Titans;(2010);106 min;Action, Adventure, Fantasy            
+14;15.;Grown Ups;(2010);102 min;Comedy, Family            
+15;16.;Little Fockers;(2010);98 min;Comedy, Romance            
+16;17.;Megamind;(2010);95 min;Animation, Action, Comedy            
+17;18.;The King's Speech;(2010);118 min;Biography, Drama            
+18;19.;The Last Airbender;(2010);103 min;Action, Adventure, Family            
+19;20.;Shutter Island;(2010);138 min;Mystery, Thriller            
+20;21.;The Other Guys;(2010);107 min;Action, Comedy, Crime            
+21;22.;Salt;(2010);100 min;Action, Crime, Mystery            
+22;23.;Jackass 3D;(2010);94 min;Documentary, Action, Comedy            
+23;24.;Valentine's Day;(I) (2010);125 min;Comedy, Romance            
+24;25.;Black Swan;(2010);108 min;Drama, Thriller            
+25;26.;Robin Hood;(2010);140 min;Action, Adventure, Drama            
+26;27.;The Chronicles of Narnia: The Voyage of the Dawn Treader;(2010);113 min;Adventure, Family, Fantasy            
+27;28.;The Expendables;(2010);103 min;Action, Adventure, Thriller            
+28;29.;Due Date;(2010);95 min;Comedy, Drama            
+29;30.;Yogi Bear;(2010);80 min;Animation, Adventure, Comedy            
+30;31.;Date Night;(2010);88 min;Comedy, Crime, Romance            
+31;32.;The Social Network;(2010);120 min;Biography, Drama            
+32;33.;Sex and the City 2;(2010);146 min;Comedy, Drama, Romance            
+33;34.;The Book of Eli;(2010);118 min;Action, Adventure, Drama            
+34;35.;The Fighter;(I) (2010);116 min;Biography, Drama, Sport            
+35;36.;The Town;(2010);125 min;Crime, Drama, Thriller            
+36;37.;Prince of Persia: The Sands of Time;(2010);116 min;Action, Adventure, Fantasy            
+37;38.;RED;(2010);111 min;Action, Comedy, Crime            
+38;39.;Percy Jackson & the Olympians: The Lightning Thief;(2010);118 min;Adventure, Family, Fantasy            
+39;40.;Paranormal Activity 2;(2010);91 min;Horror            
+40;41.;Unstoppable;(2010);98 min;Action, Thriller            
+41;42.;Eat Pray Love;(2010);133 min;Drama, Romance            
+42;43.;Dear John;(I) (2010);108 min;Drama, Romance, War            
+43;44.;The A-Team;(2010);117 min;Action, Adventure, Comedy            
+44;45.;Knight and Day;(2010);109 min;Action, Comedy, Romance            
+45;46.;Dinner for Schmucks;(2010);114 min;Comedy            
+46;47.;The Tourist;(2010);103 min;Action, Romance, Thriller            
+47;48.;The Bounty Hunter;(I) (2010);110 min;Action, Comedy, Romance            
+48;49.;Diary of a Wimpy Kid;(2010);94 min;Comedy, Family            
+49;50.;The Sorcerer's Apprentice;(2010);109 min;Action, Adventure, Family            
+50;51.;A Nightmare on Elm Street;(2010);95 min;Horror, Mystery, Thriller            
+51;52.;The Last Song;(2010);107 min;Drama, Family, Music            
+52;53.;The Wolfman;(2010);103 min;Drama, Fantasy, Horror            
+53;54.;Get Him to the Greek;(2010);109 min;Comedy, Music            
+54;55.;Resident Evil: Afterlife;(2010);97 min;Action, Adventure, Horror            
+55;56.;Why Did I Get Married Too?;(2010);121 min;Comedy, Drama, Romance            
+56;57.;Tooth Fairy;(I) (2010);101 min;Comedy, Family, Fantasy            
+57;58.;Secretariat;(2010);123 min;Biography, Drama, Family            
+58;59.;Easy A;(2010);92 min;Comedy, Drama, Romance            
+59;60.;Takers;(2010);107 min;Action, Crime, Thriller            
+60;61.;Legend of the Guardians: The Owls of Ga'Hoole;(2010);97 min;Animation, Action, Adventure            
+61;62.;Insidious;(I) (2010);103 min;Horror, Mystery, Thriller            
+62;63.;Life as We Know It;(2010);114 min;Comedy, Drama, Romance            
+63;64.;Letters to Juliet;(2010);105 min;Comedy, Drama, Romance            
+64;65.;Wall Street: Money Never Sleeps;(2010);133 min;Drama            
+65;66.;Predators;(2010);107 min;Action, Adventure, Sci-Fi            
+66;67.;Hubble;(2010);44 min;Documentary            
+67;68.;Hot Tub Time Machine;(2010);101 min;Comedy, Sci-Fi            
+68;69.;Kick-Ass;(2010);117 min;Action, Comedy            
+69;70.;Killers;(2010);100 min;Action, Comedy, Romance            
+70;71.;Saw 3D: The Final Chapter;(2010);90 min;Horror, Mystery            
+71;72.;Cop Out;(2010);107 min;Action, Comedy, Crime            
+72;73.;Cats & Dogs: The Revenge of Kitty Galore;(2010);82 min;Action, Comedy, Family            
+73;74.;Edge of Darkness;(2010);117 min;Crime, Drama, Mystery            
+74;75.;Gulliver's Travels;(2010);85 min;Adventure, Comedy, Family            
+75;76.;Death at a Funeral;(2010);92 min;Comedy            
+76;77.;Step Up 3D;(2010);107 min;Drama, Music, Romance            
+77;78.;Le dernier exorcisme;(2010);87 min;Drama, Horror, Thriller            
+78;79.;Legion;(2010);100 min;Action, Fantasy, Horror            
+79;80.;Burlesque;(I) (2010);119 min;Drama, Music, Musical            
+80;81.;The Crazies;(2010);101 min;Horror, Thriller            
+81;82.;For Colored Girls;(2010);133 min;Drama            
+82;83.;The Back-up Plan;(2010);104 min;Comedy, Romance            
+83;84.;Vampires Suck;(2010);82 min;Comedy            
+84;85.;The American;(2010);105 min;Crime, Drama, Thriller            
+85;86.;Green Zone;(2010);115 min;Action, Drama, Thriller            
+86;87.;Marmaduke;(2010);87 min;Comedy, Family            
+87;88.;Devil;(2010);80 min;Horror, Mystery, Thriller            
+88;89.;Hereafter;(2010);129 min;Drama, Fantasy            
+89;90.;When in Rome;(2010);91 min;Comedy, Romance            
+90;91.;Love & Other Drugs;(2010);112 min;Comedy, Drama, Romance            
+91;92.;She's Out of My League;(2010);104 min;Comedy, Romance            
+92;93.;Scott Pilgrim vs. the World;(2010);112 min;Action, Comedy, Fantasy            
+93;94.;The Debt;(I) (2010);113 min;Drama, Thriller            
+94;95.;Charlie St. Cloud;(2010);99 min;Drama, Fantasy, Romance            
+95;96.;Morning Glory;(2010);107 min;Comedy, Drama, Romance            
+96;97.;How Do You Know;(2010);121 min;Comedy, Drama, Romance            
+97;98.;Nanny McPhee Returns;(2010);109 min;Comedy, Family, Fantasy            
+98;99.;The Switch;(I) (2010);101 min;Comedy, Drama, Romance            
+99;100.;Machete;(2010);105 min;Action, Crime, Thriller            

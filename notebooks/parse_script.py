@@ -25,7 +25,7 @@ def get_script(url):
             request = urllib2.Request(script_url, headers=request_headers)
             contents = urllib2.urlopen(request)#.read()
             soup = BeautifulSoup(contents, 'lxml')
-            print('Detected encoding is ', soup.original_encoding)
+            #print('Detected encoding is ', soup.original_encoding)
             is_webpage_fetched = True
         except urllib2.URLError as err:
             print('Catched an URLError while fetching the URL:', err)

@@ -53,10 +53,10 @@ def get_top100(year,path):
     print('Done saving for year %s in %s s' %(year,elapsed))
     return df
 
-def read_top100(year,path)
+def read_top100(year,path):
     return pd.read_csv(path+"%s.csv"%(year), sep=";",encoding='latin1',index_col=0)
 
-def get_curated(year,path)
+def get_curated(year,path):
     return pd.read_csv(path+"%s.csv"%(year), sep=";",encoding='latin1',index_col=0)
 
 

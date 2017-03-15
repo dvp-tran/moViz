@@ -8,7 +8,7 @@ from socket import timeout
 import timeout_decorator #pip install timeout-decorator
 import os
 import re
-
+from parse_script import *
 
 
 
@@ -59,6 +59,17 @@ def read_top100(year,path):
 def get_curated(year,path):
     return pd.read_csv(path+"%s.csv"%(year), sep=";",encoding='latin1',index_col=0)
 
+def read_all_files(path,sep):
+    #store them in a list
+    l=[]
+    out=[]
+    for file_ in os.listdir(path):
+        if file_.endswith(".csv"):
+            l.append(str(file_))
+    for element in l:
+        out.append(pd.read_csv(path+element,sep=sep,encoding='latin1',index_col=0))
+                   
+    return out
 
 def compare_top_vs_script(year,path_origin,path_destination):
     time_start=time.time()
@@ -100,5 +111,34 @@ def compare_top_vs_script(year,path_origin,path_destination):
     
     
     
-    
+def scripts_by_genre(genre,path_destination):
+    #time_start=time.time()
+    url_site="http://www.imsdb.com/genre/"   
+    liste_script = urllib2.Request(url_site+genre)
+    page = urllib2.urlopen(liste_script).read()
+    soup = BeautifulSoup(page,"html.parser")
+    a = soup.findAll('a', href=re.compile('^/Movie Scripts/'))
+    if len(a)==0:
+        print('Did not find scriptfile for %s.' %(url_site))
+    else:
+        l=range(0,len(a))
+        for i in l:
+            url_film="http://www.imsdb.com"+a[i]['href']   
+            url_film=url_film.replace(' ','%20')
+            script = urllib2.Request(url_film)
+            page_ = urllib2.urlopen(script).read()
+            soup_ = BeautifulSoup(page_,"html.parser")
+            a_ = soup_.findAll('a', href=re.compile('^/scripts/'))
+            if len(a_)==0:
+                print('----Did not find scriptfile for %s.' %(url_film))
+            else:
+                url="http://www.imsdb.com"+a_[0]['href']
+                name=url.replace(':','').replace('/','')
+                print(url)
+                try:
+                    parse(url,path_destination,name)
+                except Exception as e:
+                    print('Found exception %s in parsing.' %(e))
+            
+    return     
   

@@ -1,4 +1,4 @@
-;classement;titre;annee;durée;categorie;realisateur
+;classement;titre;annee;duree;categorie;realisateur
 0;1.;Rogue One;(2016);133 min;"
 Action, Adventure, Sci-Fi            ";Gareth Edwards
 1;2.;Finding Dory;(2016);97 min;"
@@ -145,7 +145,7 @@ Comedy, Romance            ";Christian Ditter
 Adventure, Comedy, Romance            ";Jake Szymanski
 72;73.;War Dogs;(2016);114 min;"
 Comedy, Crime, Drama            ";Todd Phillips
-73;74.;La Grande Muraille;(I) (2016);103 min;"
+73;74.;The Great Wall;(I) (2016);103 min;"
 Action, Adventure, Fantasy            ";Yimou Zhang
 74;75.;Almost Christmas;(2016);111 min;"
 Comedy, Drama            ";David E. Talbert
@@ -193,7 +193,7 @@ Action, Drama, History            ";Craig Gillespie
 Biography, Comedy, Drama            ";Stephen Frears
 96;97.;Hell or High Water;(II) (2016);102 min;"
 Crime, Drama, Western            ";David Mackenzie
-97;98.;Resident Evil: Chapitre final;(2016);106 min;"
+97;98.;Resident Evil: The Final Chapter;(2016);106 min;"
 Action, Horror, Sci-Fi            ";Paul W.S. Anderson
 98;99.;The Forest;(I) (2016);93 min;"
 Horror, Mystery, Thriller            ";Jason Zada

@@ -86,7 +86,7 @@ def compare_top_vs_script(year,path_origin,path_destination):
         titre_top=top['titre'][j]
         for film in soup.body.findAll('table')[1].tr.find('td', valign='top').findAll('p'):
             titre=film.a.string
-            if titre_top==titre:
+            if titre_top==titre: #here normalize string
                 url_film=url_site+film.a.get('href')
                 top['url'][j]=url_film
                 url_film=url_film.replace(" ","%20")

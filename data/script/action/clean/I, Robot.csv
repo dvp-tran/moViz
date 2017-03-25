@@ -1,9 +1,9 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"I, ROBOT
 by
 Hillary Seitz
-FADE IN:"|unknown||
-1||1   On a DEEP...DEEP...DARKNESS.                                       1|location||
+FADE IN:"|unknown|||
+1||1   On a DEEP...DEEP...DARKNESS.                                       1|location|||
 2||"A FLICKER. Of LIGHT. Off to the side. Just barely.
 Noticeable. ORANGE...YELLOW...as we realise...It's FIRE...
 A SOUND.   Something SHATTERING...
@@ -12,8 +12,8 @@ What it's saying. As it gets LOUDER. And LOUDER. When we
 finally. Understand...
 DISEMBODIED VOICE
 You are in danger...
-CUT TO:"|unknown||
-3||2   INT. SPOONER'S APARTMENT - CLOSE ON                                2|location||
+CUT TO:"|unknown|||
+3||2   INT. SPOONER'S APARTMENT - CLOSE ON                                2|location|||
 4||"DEL SPOONER'S FACE.    His eyes, snapping open.   His face,
 covered in sweat.
 PULL BACK to REVEAL him lying in bed. Sheets, tangled around
@@ -25,21 +25,21 @@ couple and swallows them. Trying to forget. That dream.
 You are in danger...
 He rubs his hands over his face. Gets out of bed. His
 apartment, basic. Unremarkable. Bearing the signs of
-someone who lives alone. Shades drawn. A little messy."|unknown||
-5||3   INT. SHOWER - MORNING                                              3|location||
-6||Spooner turns his face into the jet of water.|unknown||
-7||4   INT. BATHROOM - MORNING                                            4|location||
+someone who lives alone. Shades drawn. A little messy."|unknown|||
+5||3   INT. SHOWER - MORNING                                              3|location|||
+6||Spooner turns his face into the jet of water.|unknown|||
+7||4   INT. BATHROOM - MORNING                                            4|location|||
 8||"Shaves with a razor.    Using his left hand.   Knicks the cleft
-of his chin. Shit."|unknown||
-9||5   INT. KITCHEN - MORNING                                             5|location||
+of his chin. Shit."|unknown|||
+9||5   INT. KITCHEN - MORNING                                             5|location|||
 10||"Stares down at the single egg in a saucepan.      Waiting for it
 to boil.
-2."|unknown||
-11||6   INT. HALLWAY - MORNING                                          6|location||
+2."|unknown|||
+11||6   INT. HALLWAY - MORNING                                          6|location|||
 12||"Heads down the hallway. Looping a knotted tie around his
 neck. Kicks some neglected mail from the door and reaches
-for the handle. Takes a deep breath and..."|unknown||
-13||7   EXT. SUBURBAN STREET - MORNING                                  7|location||
+for the handle. Takes a deep breath and..."|unknown|||
+13||7   EXT. SUBURBAN STREET - MORNING                                  7|location|||
 14||"...steps outside. Into the flow of COMMUTERS heading for the
 elevated trains. Elbow to elbow. A river of humanity.
 Spooner moves along, like everyone else. Suddenly. His
@@ -96,14 +96,14 @@ You are in violation of city
 ordinance 14-B726...
 Spooner throws up his hand. Flipping it the bird just as
 SNAP! It takes his picture.
-CUT TO:"|unknown||
-15||8   EXT./INT. MONORAIL - MORNING                                    8|location||
+CUT TO:"|unknown|||
+15||8   EXT./INT. MONORAIL - MORNING                                    8|location|||
 16||"Spooner stepping onto a sleek, densely packed TRAIN. Looks
 down at his feet. A trampled flyer on the ground. From the
 Anti-Robot League: METAL MONSTERS SECRET FACTORY REVEALED!
 A Robot gets up. To offer him his seat. Spooner. Turns his
-back on him as we PULL BACK from the window to REVEAL..."|unknown||
-17||9   EXT. CITY SCAPE/MONORAIL - CONTINUOUS                           9|location||
+back on him as we PULL BACK from the window to REVEAL..."|unknown|||
+17||9   EXT. CITY SCAPE/MONORAIL - CONTINUOUS                           9|location|||
 18||"The TRAIN hurtling toward DOWNTOWN. Soaring, gravity-defying
 OFFICE BUILDINGS dominate the skyline. Older buildings
 wedged among the new. All protected by huge glass and steel
@@ -111,32 +111,32 @@ shields.
 As we get closer congested roads and freeways begin to
 disappear below ground into a series of subterranean tunnels.
 The ""old"" streets have become huge, spacious plazas.
-4."|unknown||
-19||10   EXT. POLICE H.Q. - PLAZA - MORNING                            10|location||
+4."|unknown|||
+19||10   EXT. POLICE H.Q. - PLAZA - MORNING                            10|location|||
 20||"Spooner moves with the CROWD towards the doors of the aging
 Police Headquarters. Modern additions have been made to the
-original facade -- creating an ungainly architectural mess."|stage direction||
-21||11   INT. POLICE H.Q. - HOMICIDE UNIT - MORNING                    11|location||
+original facade -- creating an ungainly architectural mess."|stage direction|||
+21||11   INT. POLICE H.Q. - HOMICIDE UNIT - MORNING                    11|location|||
 22||"A vast open plan situation room lined on one side by a series
 of glass-enclosed rooms. On the other side a GIANT SCREEN
 with real time video of various streets and buildings.
 Spooner arrives at his desk. Unlike the others, it's a mess.
 A slender computer screen curving along the front of it.
-Several electronic messages say the same thing:"|stage direction||
+Several electronic messages say the same thing:"|stage direction|||
 23||"SEE ME!
 LT. BERGIN (O.S.)
 Ever heard the phrase ""lead by
-example?"""|unknown||
+example?"""|unknown|||
 24||"Spooner looks up. LIEUTENANT JOHN BERGIN stands in front of
 his desk, holding up a CITATION with a photo of Spooner
-giving that traffic signal the finger."|stage direction||
+giving that traffic signal the finger."|stage direction|||
 25||"SPOONER
 Doesn't ring a bell.
 LT. BERGIN
-(pointing to Spooner's"|unknown||
-26||It's on your badge.|unknown||
+(pointing to Spooner's"|unknown|||
+26||It's on your badge.|unknown|||
 27||"Spooner takes the citation.   Drops it into a drawer filled
-with about fifty others."|stage direction||
+with about fifty others."|stage direction|||
 28||"LT. BERGIN
 The traffic division filed an
 official complaint this morning.
@@ -150,33 +150,33 @@ SPOONER
 I'll send them a letter of apology.
 Maybe some flowers. A box of
 chocolates...
-5."|unknown||
+5."|unknown|||
 29||"JUST THEN Spooner's phone RINGS.   He throws Bergin a look.
-Then snatches up the receiver."|stage direction||
+Then snatches up the receiver."|stage direction|||
 30||"SPOONER
 Spooner, homicide.
-CUT TO:"|unknown||
-31||12   EXT. U.S. ROBOTICS - ESTABLISHING - DAY                        12|location||
+CUT TO:"|unknown|||
+31||12   EXT. U.S. ROBOTICS - ESTABLISHING - DAY                        12|location|||
 32||"A sprawling glass and metal complex covering many city
 blocks. The entrance is a large plaza filled with PEOPLE and
-ROBOTS."|stage direction||
-33||13   INT. U.S. ROBOTICS - METAL CORRIDOR - DAY                      13|location||
+ROBOTS."|stage direction|||
+33||13   INT. U.S. ROBOTICS - METAL CORRIDOR - DAY                      13|location|||
 34||"An elevator opens with a whoosh. Spooner steps out into a
 featureless corridor. His footsteps, echoing. He stops at a
 set of OPPOSING DOORS. Looks over at one, when the other
-suddenly OPENS."|stage direction||
-35||14   INT. U.S. ROBOTICS - PLUSH CONFERENCE ROOM - CONTINUOUS        14|location||
+suddenly OPENS."|stage direction|||
+35||14   INT. U.S. ROBOTICS - PLUSH CONFERENCE ROOM - CONTINUOUS        14|location|||
 36||"A warm, mahogany-paneled room. In sharp contrast to the cold
 metal space outside. Spooner steps inside. At the end of a
 long conference table sits an OLD MAN. Sparkling blue eyes.
-Old-fashioned suit."|stage direction||
+Old-fashioned suit."|stage direction|||
 37||"OLD MAN
-Hello, there. Please come in."|unknown||
-38||Spooner hesitates.|stage direction||
+Hello, there. Please come in."|unknown|||
+38||Spooner hesitates.|stage direction|||
 39||"OLD MAN
-It's alright. You can sit.     Sit."|unknown||
+It's alright. You can sit.     Sit."|unknown|||
 40||"Spooner doesn't.   Looks around the room. The Old Man lifts
-up a coffee pot.   Pours some coffee into a single cup."|stage direction||
+up a coffee pot.   Pours some coffee into a single cup."|stage direction|||
 41||"OLD MAN
 Coffee?
 SPOONER
@@ -184,103 +184,103 @@ SPOONER
 You're offering me a cup of coffee?
 OLD MAN
 Yes. But you are to say, ""No,
-thank you."""|unknown||
+thank you."""|unknown|||
 42||"Spooner nods a little. The Old Man raises the coffee to his
-lips, but doesn't take a sip."|stage direction||
+lips, but doesn't take a sip."|stage direction|||
 43||"6.
-OLD MAN"|unknown||
-44|badge)|Coffee?|speech||
-45||SPOONER|unknown||
-46|badge)|No.    Thank you.|speech||
-47|OLD MAN|As you wish.|speech|OLD MAN|M
+OLD MAN"|unknown|||
+44|badge)|Coffee?|speech|||
+45||SPOONER|unknown|||
+46|badge)|No.    Thank you.|speech|||
+47|OLD MAN|As you wish.|speech|OLD MAN|M|True
 48||"The Old Man takes a sip. He doesn't move. There is no
 movement except for a whisper of steam rising from the coffee
-pot."|location||
+pot."|location|||
 49|SPOONER|"You want to tell me something about
-Dr. Hogenmiller? About his death?"|speech|SPOONER|M
-50||The Old Man smiles.|location||
+Dr. Hogenmiller? About his death?"|speech|SPOONER|M|True
+50||The Old Man smiles.|location|||
 51|OLD MAN|"I want to tell you that his death
-was not a suicide."|speech|OLD MAN|M
-52|SPOONER|And why do you say that?|speech|SPOONER|M
-53||OLD MAN|unknown||
+was not a suicide."|speech|OLD MAN|M|True
+52|SPOONER|And why do you say that?|speech|SPOONER|M|True
+53||OLD MAN|unknown|||
 54|SPOONER|"Why?   Because I want you to know
-it."|speech|SPOONER|M
+it."|speech|SPOONER|M|True
 55|SPOONER|"I understand that. But what
 specifically leads you to believe
-that he didn't commit suicide?"|speech|SPOONER|M
-56||(considers)|unknown||
-57|OLD MAN|Nothing specifically.|speech|OLD MAN|M
-58||Spooner shifts his weight.   Agitated.|location||
+that he didn't commit suicide?"|speech|SPOONER|M|True
+56||(considers)|unknown|||
+57|OLD MAN|Nothing specifically.|speech|OLD MAN|M|True
+58||Spooner shifts his weight.   Agitated.|location|||
 59|SPOONER|"Under normal circumstances that
 wouldn't be enough to get you a
-homicide investigation."|speech|SPOONER|M
+homicide investigation."|speech|SPOONER|M|True
 60|OLD MAN|"But this is not ""normal
 circumstances,"" is it, Detective
-Spooner?"|speech|OLD MAN|M
-61||SPOONER|unknown||
-62|OLD MAN|No.    It isn't.|speech|OLD MAN|M
+Spooner?"|speech|OLD MAN|M|True
+61||SPOONER|unknown|||
+62|OLD MAN|No.    It isn't.|speech|OLD MAN|M|True
 63||"7.
 OLD MAN
 Then you will find out who killed
 Dr. Hogenmiller, yes? And then you
-will tell me."|unknown||
-64||Spooner's losing his patience.|stage direction||
+will tell me."|unknown|||
+64||Spooner's losing his patience.|stage direction|||
 65||"SPOONER
 If you were murdered, Doctor, I'll
 find out. And you'll be the first
-to know....."|unknown||
+to know....."|unknown|||
 66||"JUST THEN the HOLOGRAM of DR. HOGENMILLER vanishes in a burst
 of LIGHT, as does the table, the coffee pot, and the
 conference room. Spooner, suddenly finds himself standing in
-front of a LARGE VIEW SCREEN inside a SMALL METAL CHAMBER."|stage direction||
-67||15   INT. HALLWAY - DAY                                              15|location||
+front of a LARGE VIEW SCREEN inside a SMALL METAL CHAMBER."|stage direction|||
+67||15   INT. HALLWAY - DAY                                              15|location|||
 68||"Spooner steps out into the hallway and into...AN ESCORT
-ROBOT."|stage direction||
+ROBOT."|stage direction|||
 69||"ESCORT ROBOT
-Please follow me."|unknown||
+Please follow me."|unknown|||
 70||"Spooner. Reluctantly starts to follow it.     Passes another
 doorway. POLICE TAPE stretched across it.     Catches a brief
 glimpse of...
 DR. HEINRICH HOGENMILLER'S BODY.
 Splayed out across the floor. Surrounded by CRIME SCENE
 TECHNICIANS. He pauses. Taking in the scene. Then
-continues on."|stage direction||
-71||16   INT. U.S. ROBOTICS - CORPORATE BOARDROOM - DAY                  16|location||
+continues on."|stage direction|||
+71||16   INT. U.S. ROBOTICS - CORPORATE BOARDROOM - DAY                  16|location|||
 72||"Two large doors emblazoned with the U.S. ROBOTICS LOGO open
 automatically. Inside, an enormous glass-enclosed boardroom
 looking out over the entire complex.
 Spooner walks through the doorway. His escort robot trailing
 behind him. An army of corporate types sit around a
 conference table. Young. Energetic. You can practically
-feel the brains and ambition."|stage direction||
+feel the brains and ambition."|stage direction|||
 73||"SPOONER
-Usually I ask who's in charge..."|unknown||
+Usually I ask who's in charge..."|unknown|||
 74||"Spooner's eyes lock with a MAN sitting at the head of the
 table. 60s, handsome, charismatic. Dr. LANCE ROBERTSON,
-founder and CEO of U.S. Robotics."|stage direction||
+founder and CEO of U.S. Robotics."|stage direction|||
 75||"8.
 SPOONER
 But everyone knows you, Dr.
-Robertson."|unknown||
-76||Robertson smiles.   Pretends to instruct his people.|location||
+Robertson."|unknown|||
+76||Robertson smiles.   Pretends to instruct his people.|location|||
 77||"ROBERTSON
 Remind me to cut back on my talk
-show appearances."|unknown||
-78||LAUGHTER.|location||
+show appearances."|unknown|||
+78||LAUGHTER.|location|||
 79||"ROBERTSON
 Welcome to U.S. Robotics,
 Detective. I regret you're not
 visiting us under more pleasant
 circumstances. Allow me to
 introduce Mr. Aronson, our head of
-Legal Affairs."|unknown||
+Legal Affairs."|unknown|||
 80||"A prematurely graying MAN leaning against the wall.    Nods
-hello."|location||
+hello."|location|||
 81||"ROBERTSON
 And the gentleman to my right is
 Dr. Alfred Lanning, Director of
-Research."|unknown||
-82||Alfred Lanning, only one there in a tie.   Nods.|location||
+Research."|unknown|||
+82||Alfred Lanning, only one there in a tie.   Nods.|location|||
 83||"ROBERTSON
 They'll be available to answer any
 questions you might have during
@@ -296,20 +296,20 @@ like to begin?
 SPOONER
 We can begin with whether or not
 the old man put a gun to his head
-and pulled the trigger."|unknown||
-84||A palpable wave of tension shoots through the group.|location||
+and pulled the trigger."|unknown|||
+84||A palpable wave of tension shoots through the group.|location|||
 85||"ARONSON
 You don't have to answer that, Dr.
 Robertson...
-9."|unknown||
-86||Robertson waves him off.|location||
-87||ROBERTSON|unknown||
+9."|unknown|||
+86||Robertson waves him off.|location|||
+87||ROBERTSON|unknown|||
 88|OLD MAN|"Susan?   Perhaps you can assist us
-here?"|speech|OLD MAN|M
+here?"|speech|OLD MAN|M|True
 89||"Everyone looks down at the other end of the table. A BEAT.
 Then an attractive young WOMAN gets to her feet. SUSAN
 CALVIN. Hair tucked behind her ears. Looking at everyone
-but Spooner."|location||
+but Spooner."|location|||
 90|CALVIN|"Dr. Hogenmiller was a schizoid
 personality who generally eschewed
 social relationships. Rejecting
@@ -318,26 +318,26 @@ activities involving machines. He
 spent almost all his time at the
 lab here or at his lab at home. As
 a result he was highly susceptible
-to depression."|speech|CALVIN|F
+to depression."|speech|CALVIN|F|True
 91|ROBERTSON|"Dr. Calvin is our Chief
-Psychologist."|speech|ROBERTSON|M
+Psychologist."|speech|ROBERTSON|M|
 92|SPOONER|"If that was your diagnosis, why
-didn't you see this coming?"|speech|SPOONER|M
+didn't you see this coming?"|speech|SPOONER|M|True
 93||"Calvin turns. Finally meeting Spooner's eye.      As if the
-answer's obvious."|location||
+answer's obvious."|location|||
 94|CALVIN|"This is U.S. Robotics, Detective.
 Seventy-five percent of our
-employees fit that description."|speech|CALVIN|F
-95||(interceding)|unknown||
+employees fit that description."|speech|CALVIN|F|True
+95||(interceding)|unknown|||
 96|LANNING|"You'll have to excuse the doctor.
 We're all a little on edge. This
 has been a difficult and emotional
-morning."|speech|LANNING|M
-97||Spooner throws a look around the room.   Then back at Calvin.|location||
-98||SPOONER|unknown||
+morning."|speech|LANNING|M|
+97||Spooner throws a look around the room.   Then back at Calvin.|location|||
+98||SPOONER|unknown|||
 99|LANNING|"Yeah.    I can see you're all broken
-up."|speech|LANNING|M
-100||Robertson responds to Spooner's skepticism.|location||
+up."|speech|LANNING|M|
+100||Robertson responds to Spooner's skepticism.|location|||
 101||"10.
 ROBERTSON
 Dr. Hogenmiller was at my side from
@@ -348,35 +348,35 @@ these days science is a young man's
 game. By the time you hit thirty
 your best years are behind you.
 Some of us are kicked upstairs.
-Others I'm afraid aren't so lucky."|unknown||
-102||Robertson stands.   Meeting over.|stage direction||
+Others I'm afraid aren't so lucky."|unknown|||
+102||Robertson stands.   Meeting over.|stage direction|||
 103||"ROBERTSON
 Dr. Hogenmiller took his own life.
 I trust you will come to the same
 swift conclusion, Detective. Dr.
 Lanning will make himself available
-if you have any further questions."|unknown||
-104||Spooner looks over at Calvin.|stage direction||
+if you have any further questions."|unknown|||
+104||Spooner looks over at Calvin.|stage direction|||
 105||"SPOONER
-I want her to help me."|unknown||
-106||Calvin, unhappy with this arrangement.|stage direction||
+I want her to help me."|unknown|||
+106||Calvin, unhappy with this arrangement.|stage direction|||
 107||"CALVIN
 That's not really my department...
 ROBERTSON
 (pointed)
-Susan would be happy to assist you."|unknown||
+Susan would be happy to assist you."|unknown|||
 108||"And with a gesture, Robertson dismisses everyone. People
 start getting up, gathering up, filing out. Susan Calvin.
-The last one to get up."|stage direction||
-109||17   INT. METAL HALLWAY - DAY                                      17|location||
+The last one to get up."|stage direction|||
+109||17   INT. METAL HALLWAY - DAY                                      17|location|||
 110||"Spooner and Calvin, heading down the same hallway he was in
-before. Catch sight of a couple ROBOT TECHNICIANS..."|stage direction||
+before. Catch sight of a couple ROBOT TECHNICIANS..."|stage direction|||
 111||"SPOONER
 (under his breath)
-Ah, Christ...Toasters..."|unknown||
-112||As they duck under the police tape and...|stage direction||
-113||11.|unknown||
-114||18   INT. HOGENMILLER'S LAB - DAY                                   18|location||
+Ah, Christ...Toasters..."|unknown|||
+112||As they duck under the police tape and...|stage direction|||
+113||11.|unknown|||
+114||18   INT. HOGENMILLER'S LAB - DAY                                   18|location|||
 115||"...enter Hogenmiller's lab. Alive with activity. CRIME
 SCENE TECHNICIANS, MOBILE ANALYSIS UNITS. LIGHT SCANS,
 running across...
@@ -384,29 +384,29 @@ HOGENMILLER'S LIFELESS FACE.   Black gun powder.   Fanning out
 around his contorted lips.
 Spooner. Throws a look around the lab: ROBOTS. Everywhere.
 Mostly incomplete. TORSOS. ARMS. LEGS. Dangling from the
-ceiling. A SERGEANT. Passes them by..."|stage direction||
+ceiling. A SERGEANT. Passes them by..."|stage direction|||
 116||"SERGEANT
 They say the price's gonna come
 down a lot next year. Kinda cool,
 huh?
 SPOONER
 How cool will it be when one takes
-your job?"|unknown||
-117||Spooner.   Pushing past him.   His eyes.   Darting around.|stage direction||
+your job?"|unknown|||
+117||Spooner.   Pushing past him.   His eyes.   Darting around.|stage direction|||
 118||"CALVIN
 Is everything alright, Detective?
 SPOONER
 Yeah. This is just how I like my
-robots -- in pieces."|unknown||
+robots -- in pieces."|unknown|||
 119||"As they approach Hogenmiller's body, the lead CRIME SCENE
-INVESTIGATOR, BALDEZ, gets up to meet them."|stage direction||
+INVESTIGATOR, BALDEZ, gets up to meet them."|stage direction|||
 120||"BALDEZ
 (to Spooner)
 Can you believe it, man? U.S.
 Robotics. I didn't think I'd ever
-see the inside of this building."|unknown||
+see the inside of this building."|unknown|||
 121||"Hands Spooner, a plasma clipboard.   Spooner signs it,
-awkwardly. With his LEFT HAND..."|stage direction||
+awkwardly. With his LEFT HAND..."|stage direction|||
 122||"SPOONER
 What's the run-down?
 BALDEZ
@@ -415,18 +415,18 @@ years old. Weapon a small caliber
 .22, registered in his name. Looks
 like he walked in, locked the door,
 and snuffed himself.
-12."|unknown||
-123||Spooner.   Cocking his head to look at Hogenmiller's face.|location||
+12."|unknown|||
+123||Spooner.   Cocking his head to look at Hogenmiller's face.|location|||
 124||"SPOONER
 I know someone who disagrees with
 you.
 BALDEZ
-Who?"|unknown||
-125||Spooner.   Stands.   Pointing down at Hogenmiller.|location||
+Who?"|unknown|||
+125||Spooner.   Stands.   Pointing down at Hogenmiller.|location|||
 126||"SPOONER
-Him."|unknown||
+Him."|unknown|||
 127||"And steps over the body, leaving a confused Baldez.
-Stepping deeper, into the lab. Calvin. Following."|location||
+Stepping deeper, into the lab. Calvin. Following."|location|||
 128||"SPOONER
 I spoke to a dead man today.   Want
 to tell me about that?
@@ -456,10 +456,10 @@ I'm sorry, but this whole
 investigation is the result of a
 dead man's toy messing with your
 head.
-13."|unknown||
+13."|unknown|||
 129||"They pass half a robot, hanging from a hook. Spooner curls
 his lip. Swivels the robot's head so it's not looking at
-him."|location||
+him."|location|||
 130||"SPOONER
 When's the last time any of you
 actually spoke to Hogenmiller? I
@@ -473,14 +473,14 @@ I don't guess, Detective. But if
 pressed, I would reason it had been
 a considerable length of time.
 SPOONER
-How well did you know him?"|unknown||
+How well did you know him?"|unknown|||
 131||"Calvin.   Gently swivels the robot's head back to where it had
-been."|location||
+been."|location|||
 132||"CALVIN
 Not well. But I admired his work
-tremendously."|unknown||
+tremendously."|unknown|||
 133||"Spooner. Studies her for a beat. Then turns back to the
-body. Two CORONERS entering with a high-tech body box."|location||
+body. Two CORONERS entering with a high-tech body box."|location|||
 134||"SPOONER
 I get the whole ""mad scientist""
 thing. Hogenmiller was past his
@@ -491,8 +491,8 @@ bullet fired through his mouth into
 his brain. Everything about this
 case says suicide.
 CALVIN
-You don't sound convinced."|unknown||
-135||The coroners.   Start loading the body into the box.|location||
+You don't sound convinced."|unknown|||
+135||The coroners.   Start loading the body into the box.|location|||
 136||"SPOONER
 Even people who live a life of
 logic and precision rarely arrange
@@ -502,25 +502,25 @@ their deaths so perfectly.
 14.
 SPOONER (cont'd)
 What all this is missing -- is
-personality..."|unknown||
-137||As he starts for the door...|stage direction||
+personality..."|unknown|||
+137||As he starts for the door...|stage direction|||
 138||"SPOONER
-You have 24 hour surveillance?..."|unknown||
-139||19   INT. METAL HALLWAY - CONTINUOUS                                 19|location||
+You have 24 hour surveillance?..."|unknown|||
+139||19   INT. METAL HALLWAY - CONTINUOUS                                 19|location|||
 140||"...They head out into the hallway.    A MECHANICAL DOOR GUARD
-rolling into place behind them."|stage direction||
+rolling into place behind them."|stage direction|||
 141||"CALVIN
 It's company policy.
 SPOONER
-I want to see the tapes."|unknown||
+I want to see the tapes."|unknown|||
 142||"Calvin. Hurrying to keep up with him. This is hardly how
-she wanted to spend her morning. Calls out into the air..."|stage direction||
+she wanted to spend her morning. Calls out into the air..."|stage direction|||
 143||"CALVIN
-Victor!"|unknown||
+Victor!"|unknown|||
 144||"At the end of the corridor, near the elevator, a BRIGHT
 CIRCLE appears. Hovering just in front of the wall. Two
 small slits grow into ROUND BLACK EYES...and a thin mouth
-expands into an ENORMOUS SMILE."|stage direction||
+expands into an ENORMOUS SMILE."|stage direction|||
 145||"CALVIN
 Detective, meet Victor. Our
 building's supercomputer. He's the
@@ -528,38 +528,38 @@ checks and balances of U.S.R.
 (to Victor)
 Victor, Detective Spooner's heading
 up the investigation into the death
-of Dr. Hogenmiller."|unknown||
-146||Victor smiles big.   Spooner, furrows his brow.|stage direction||
+of Dr. Hogenmiller."|unknown|||
+146||Victor smiles big.   Spooner, furrows his brow.|stage direction|||
 147||"SPOONER
 You look like a very...happy
-computer."|unknown||
-148||Victor responds in a GENTLE MALE VOICE:|stage direction||
+computer."|unknown|||
+148||Victor responds in a GENTLE MALE VOICE:|stage direction|||
 149||"VICTOR
 Thank you. That's very kind.
 CALVIN
 The Detective needs to see our
 security tapes.
-15."|unknown||
-150||The elevator doors immediately OPEN.   They step inside.|stage direction||
-151||20   INT. ELEVATOR - DAY                                              20|location||
+15."|unknown|||
+150||The elevator doors immediately OPEN.   They step inside.|stage direction|||
+151||20   INT. ELEVATOR - DAY                                              20|location|||
 152||"Spooner and Calvin descend. Victor floats on the wall and
 smiles wide. Spooner looks back at it. With a frown.
-The elevator stops, the doors open.    A ROBOT steps on."|stage direction||
+The elevator stops, the doors open.    A ROBOT steps on."|stage direction|||
 153||"ROBOT
 Good day, Dr. Calvin.   Good day,
-sir."|unknown||
+sir."|unknown|||
 154||"Spooner's jaw. Clenches. Staring at the Robot.       It senses
-the stare. Turns back to him."|stage direction||
+the stare. Turns back to him."|stage direction|||
 155||"ROBOT
-May I be of service to you, sir?"|unknown||
+May I be of service to you, sir?"|unknown|||
 156||"Spooner. Breaks the stare.     Ignoring the Robot.   Calvin.
-Looks over at him."|stage direction||
+Looks over at him."|stage direction|||
 157||"CALVIN
 Aren't you going to answer him?
 SPOONER
 I don't talk to my refrigerator,
-either."|unknown||
-158||Calvin folds her arms.|stage direction||
+either."|unknown|||
+158||Calvin folds her arms.|stage direction|||
 159||"CALVIN
 I get the distinct feeling you're
 one of those people, Detective.
@@ -572,16 +572,16 @@ SPOONER
 You people do what you do. Then
 it's up to the rest of us to make
 sense out of the world we wake up
-in."|unknown||
-160||As the elevator doors open on to...|stage direction||
-161||16.|unknown||
-162||21   INT. ATRIUM LOBBY - CONTINUOUS                              21|location||
+in."|unknown|||
+160||As the elevator doors open on to...|stage direction|||
+161||16.|unknown|||
+162||21   INT. ATRIUM LOBBY - CONTINUOUS                              21|location|||
 163||"A soaring lobby. The centerpiece is a five-story STATUE of a
 ROBOT, arms outstretched in approximation of Da Vinci's Study
 of Man. Robot workers more numerous than humans. They are
 sleeker. Finer. More advanced than those in the outside
 world.
-Calvin and Spooner head across."|stage direction||
+Calvin and Spooner head across."|stage direction|||
 164||"CALVIN
 When this company started we were
 manufacturing three robots a week.
@@ -607,20 +607,20 @@ SPOONER
 And what happens when something
 goes wrong?
 CALVIN
-Our system's never wrong."|unknown||
+Our system's never wrong."|unknown|||
 165||"As they walk through the crowd, we hear the quiet WHIR of
-robot heads as they turn in succession to watch Spooner pass."|stage direction||
-166||22   INT. MAINFRAME - DAY                                        22|location||
+robot heads as they turn in succession to watch Spooner pass."|stage direction|||
+166||22   INT. MAINFRAME - DAY                                        22|location|||
 167||"Spooner and Calvin enter the MAINFRAME of U.S. Robotics.
 This is the nerve center of the whole operation. Walls lined
-with COMPUTERS, SCREENS, and thousands of CONTROLS."|stage direction||
-168||17.|unknown||
-169|CALVIN|This is Victor's home.|speech|CALVIN|F
+with COMPUTERS, SCREENS, and thousands of CONTROLS."|stage direction|||
+168||17.|unknown|||
+169|CALVIN|This is Victor's home.|speech|CALVIN|F|True
 170||"VICTOR appears on a wall-sized SCREEN broken up into beehive-
-like components."|location||
+like components."|location|||
 171|VICTOR|"I will now play you the last thirty-
 two seconds of Dr. Hogenmiller's
-life."|speech|VICTOR|M
+life."|speech|VICTOR|M|True
 172||"AS WE WATCH THE SCREENS. The elevator opens and DOCTOR
 HOGENMILLER steps into the metal corridor. In countless
 ANGLES. High, low, close-up, wide. Hogenmiller's face
@@ -629,53 +629,53 @@ Spooner watches the lab doors open to admit him.   Hogenmiller
 steps in. The doors slide closed behind him.
 Nothing for a few moments. Then a muffled GUNSHOT. Calvin
 jumps, startled. That's it. The cameras, still trained on
-the corridor."|location||
-173|SPOONER|Where's the tape from inside?|speech|SPOONER|M
+the corridor."|location|||
+173|SPOONER|Where's the tape from inside?|speech|SPOONER|M|True
 174|VICTOR|"Dr. Hogenmiller did not permit
 cameras to observe him while
-working."|speech|VICTOR|M
-175|CALVIN|That was only within the last year.|speech|CALVIN|F
+working."|speech|VICTOR|M|True
+175|CALVIN|That was only within the last year.|speech|CALVIN|F|True
 176|SPOONER|"So we can throw paranoia into the
-mix."|speech|SPOONER|M
-177||(to Victor)|unknown||
-178|SPOONER|Fast-forward.|speech|SPOONER|M
+mix."|speech|SPOONER|M|True
+177||(to Victor)|unknown|||
+178|SPOONER|Fast-forward.|speech|SPOONER|M|True
 179||"A hundred-plus screens all FAST-FORWARD. POLICE OFFICERS
 appear and force open the doors. Now TECHNICIANS appear
-and rush through in a blur..."|location||
-180||CALVIN|unknown||
-181|SPOONER|Um.   I hate to be a stickler...|speech|SPOONER|M
-182||On screen, we see Spooner and Calvin enter the lab.|location||
+and rush through in a blur..."|location|||
+180||CALVIN|unknown|||
+181|SPOONER|Um.   I hate to be a stickler...|speech|SPOONER|M|True
+182||On screen, we see Spooner and Calvin enter the lab.|location|||
 183|CALVIN|"But don't killers usually have to
 enter and exit the scene of a
-crime?"|speech|CALVIN|F
+crime?"|speech|CALVIN|F|True
 184||"18.
 SPOONER
-Stop the recording."|unknown||
-185||Spooner turns away from the footage.   Stares at Calvin.|stage direction||
+Stop the recording."|unknown|||
+185||Spooner turns away from the footage.   Stares at Calvin.|stage direction|||
 186||"SPOONER
 They do, Doctor. Unless they've
 always been there -- and never
-left."|unknown||
-187||Calvin looks at him.   Trying to understand.|stage direction||
+left."|unknown|||
+187||Calvin looks at him.   Trying to understand.|stage direction|||
 188||"CALVIN
 You think the murderer was in the
 lab the entire time?
 SPOONER
-If I'm right, it's still there..."|unknown||
+If I'm right, it's still there..."|unknown|||
 189||"Spooner turns back to the screens. The IMAGE paused at the
 exact moment the MECHANICAL GUARD rolled in front of the lab
-door."|stage direction||
+door."|stage direction|||
 190||"SPOONER
-We just locked it in."|unknown||
-191||23   INT. METAL CORRIDOR - DAY                                    23|location||
+We just locked it in."|unknown|||
+191||23   INT. METAL CORRIDOR - DAY                                    23|location|||
 192||"The STEEL ARMS of the ROBOTIC GUARD retract with a CLANG.    The
-laboratory doors slide open."|stage direction||
-193||24   INT. HOGENMILLER'S LAB - DAY                                 24|location||
+laboratory doors slide open."|stage direction|||
+193||24   INT. HOGENMILLER'S LAB - DAY                                 24|location|||
 194||"Spooner and Calvin step inside. It's dark. Quiet. Police
 and technicians long gone. Silhouettes of hanging limbs.
 Eyeless heads. Clumps of wire and metal.
 The LIGHTS, flicker on. Calvin sees Spooner reaching into
-his coat with his left hand. Pulling out a GUN. Reacts."|stage direction||
+his coat with his left hand. Pulling out a GUN. Reacts."|stage direction|||
 195||"CALVIN
 A robot cannot harm a human being,
 Detective. The First Law of
@@ -683,122 +683,122 @@ Robotics forbids it. And we hard-
 wire the Three Laws into every
 model. Without exception.
 SPOONER
-Yeah, I saw the commercial."|unknown||
+Yeah, I saw the commercial."|unknown|||
 196||"Spooner steps deeper into the lab. Eyes scanning. Twisting.
 To avoid touching any robot parts. Passes a MAZE holding a
-METAL INSECT. SUDDENLY. The bug WHIRS to life."|stage direction||
-197||19.|unknown||
+METAL INSECT. SUDDENLY. The bug WHIRS to life."|stage direction|||
+197||19.|unknown|||
 198||"Spooner startles. As the metal bug scurries through the
-corridors. Clamps his hand down on it."|location||
+corridors. Clamps his hand down on it."|location|||
 199|SPOONER|"And if a robot was given a direct
-order to kill?"|speech|SPOONER|M
+order to kill?"|speech|SPOONER|M|True
 200|CALVIN|"The Second Law of Robotics would
 prevent it. A robot must obey an
 order only if it does not conflict
-with the first law."|speech|CALVIN|F
+with the first law."|speech|CALVIN|F|True
 201||"Spooner approaches a MOUND of ROBOT PARTS. Arms and legs.
-Half torsos. All tossed haphazardly onto the pile."|location||
-202|SPOONER|But a robot can defend itself.|speech|SPOONER|M
+Half torsos. All tossed haphazardly onto the pile."|location|||
+202|SPOONER|But a robot can defend itself.|speech|SPOONER|M|True
 203|CALVIN|"Only when that action doesn't
 conflict with the First or Second
 Laws. This is the Third Law of
-Robotics."|speech|CALVIN|F
+Robotics."|speech|CALVIN|F|True
 204|SPOONER|"Yeah, well, you know what they say
--- Laws are made to be broken."|speech|SPOONER|M
-205|CALVIN|Not these laws.|speech|CALVIN|F
+-- Laws are made to be broken."|speech|SPOONER|M|True
+205|CALVIN|Not these laws.|speech|CALVIN|F|True
 206||"Spooner. Starts nudging the pile with his shoe.   Calvin,
-growing impatient..."|location||
+growing impatient..."|location|||
 207|CALVIN|"You're not hearing me, Detective.
-There's nothing here..."|speech|CALVIN|F
+There's nothing here..."|speech|CALVIN|F|True
 208||"WHEN SUDDENLY
 The PILE ERUPTS in front of Spooner...Parts flying...AS A
 ROBOT LEAPS UP FROM BENEATH IT!...
 Spooner...knocked back...his GUN...skittering across the
 floor...right to...
-CALVIN'S FEET."|location||
-209|SPOONER|Dr. Calvin!|speech|SPOONER|M
+CALVIN'S FEET."|location|||
+209|SPOONER|Dr. Calvin!|speech|SPOONER|M|True
 210||"Calvin. Stunned.    Speechless. The Robot. Fixing his
-ILLUMINATED EYES.   Right on her. She steps forward..."|location||
-211||20.|unknown||
-212|SPOONER|Goddammit! Stay back!|speech|SPOONER|M
+ILLUMINATED EYES.   Right on her. She steps forward..."|location|||
+211||20.|unknown|||
+212|SPOONER|Goddammit! Stay back!|speech|SPOONER|M|True
 213||"Spooner. Scrambling towards his gun.     Calvin.    Reaching out
-towards the Robot..."|location||
+towards the Robot..."|location|||
 214|CALVIN|"Calm down, Detective.     There is no
-danger here..."|speech|CALVIN|F
-215||Spooner.   Grabbing up his gun and wheeling round just as...|location||
-216||(to Robot)|unknown||
-217|CALVIN|De-Activate.|speech|CALVIN|F
+danger here..."|speech|CALVIN|F|True
+215||Spooner.   Grabbing up his gun and wheeling round just as...|location|||
+216||(to Robot)|unknown|||
+217|CALVIN|De-Activate.|speech|CALVIN|F|True
 218||"And the Robot.   Suddenly FREEZES.
 Spooner. Heart POUNDING. Gets to his feet.         Training the
-gun on the Robot. Calvin turns to him."|location||
+gun on the Robot. Calvin turns to him."|location|||
 219|CALVIN|"How did you know it was under
-there?"|speech|CALVIN|F
+there?"|speech|CALVIN|F|True
 220|SPOONER|"If I was metal and didn't want
 anyone to find me, I'd hide under a
-pile of junk."|speech|SPOONER|M
+pile of junk."|speech|SPOONER|M|True
 221|CALVIN|"This Robot wasn't hiding. What
 you're looking at is the result of
 clever programming. The illusion
 of self-interest and free will.
-Nothing more."|speech|CALVIN|F
+Nothing more."|speech|CALVIN|F|True
 222||"Spooner. Steeping closer to the Robot. Cautiously.
-Holstering his gun. As Calvin turns for the door."|location||
-223|CALVIN|I'm going to go get Dr. Lanning...|speech|CALVIN|F
+Holstering his gun. As Calvin turns for the door."|location|||
+223|CALVIN|I'm going to go get Dr. Lanning...|speech|CALVIN|F|True
 224||"...THE ROBOT'S HAND SUDDENLY SHOOTS OUT...grabbing Spooner's
 gun...from his holster...LIGHTENING FAST...pointing it...
 right back at him...
-CLOSE ON Calvin.   Cannot believe this is happening..."|location||
-225|CALVIN|I said De-Activate!|speech|CALVIN|F
-226||21.|unknown||
-227|SPOONER|Move away from the door, Doctor.|speech|SPOONER|M
-228||Calvin's voice.   Cracking from desperation.    Confusion.|location||
-229|CALVIN|Commence emergency shut-down!|speech|CALVIN|F
-230||SPOONER|unknown||
-231|CALVIN|Now!|speech|CALVIN|F
+CLOSE ON Calvin.   Cannot believe this is happening..."|location|||
+225|CALVIN|I said De-Activate!|speech|CALVIN|F|True
+226||21.|unknown|||
+227|SPOONER|Move away from the door, Doctor.|speech|SPOONER|M|True
+228||Calvin's voice.   Cracking from desperation.    Confusion.|location|||
+229|CALVIN|Commence emergency shut-down!|speech|CALVIN|F|True
+230||SPOONER|unknown|||
+231|CALVIN|Now!|speech|CALVIN|F|True
 232||"Spooner. Staring into the Robot's eyes. A thin bead of
 SWEAT. Trickling down his temple. Calvin. Moving away from
-the door..."|location||
-233|CALVIN|I...I gave you an order...|speech|CALVIN|F
+the door..."|location|||
+233|CALVIN|I...I gave you an order...|speech|CALVIN|F|True
 234||"The Robot. Starts backing towards the door. The gun.
 Shaking in its hand. As if he's desperate. Conflicted. He
 touches the WALL PANEL. The doors slide open. The Robot
 steps out into the metal corridor. Turning to RUN as the
 doors begin to shut...
 Spooner. Reaching down to whip out a BACK-UP GUN.     From an
-ankle holster. Slapping in a LARGE CARTRIDGE."|location||
-235|CALVIN|This is impossible.   A robot...|speech|CALVIN|F
+ankle holster. Slapping in a LARGE CARTRIDGE."|location|||
+235|CALVIN|This is impossible.   A robot...|speech|CALVIN|F|True
 236|SPOONER|"...can't do that.    Yeah, yeah, I
-know."|speech|SPOONER|M
+know."|speech|SPOONER|M|True
 237|CALVIN|"My God -- did you see how it moved?
 I've never seen an NS-2 move that
-way..."|speech|CALVIN|F
-238||Starts running for the door.|location||
-239||CALVIN|unknown||
+way..."|speech|CALVIN|F|True
+238||Starts running for the door.|location|||
+239||CALVIN|unknown|||
 240|CALVIN|"Wait! Please, you can't destroy
-it. We have to study it..."|speech|CALVIN|F
+it. We have to study it..."|speech|CALVIN|F|True
 241|SPOONER|"That thing took my gun. You'll be
 lucky if you get a handful of bolts
-back!"|speech|SPOONER|M
-242||SLAMS the wall panel and...|location||
-243||22.|unknown||
-244||25   INT. METAL CORRIDOR - CONTINUOUS                                  25|location||
+back!"|speech|SPOONER|M|True
+242||SLAMS the wall panel and...|location|||
+243||22.|unknown|||
+244||25   INT. METAL CORRIDOR - CONTINUOUS                                  25|location|||
 245||"...sprints out into the hallway.     The Robot Suspect.   About
 to turn to corner...
-VICTOR.   Suddenly appearing."|stage direction||
+VICTOR.   Suddenly appearing."|stage direction|||
 246||"VICTOR
 The suspect is nearing the end of
 the hallway, Detective.
 SPOONER
-Gee, thanks."|unknown||
+Gee, thanks."|unknown|||
 247||"Spooner raises his gun and FIRES...Pegging the robot in the
 LEG...It starts jerking wildly...He takes aim again when...
-CALVIN.   Races out into the hallway."|stage direction||
+CALVIN.   Races out into the hallway."|stage direction|||
 248||"SPOONER
-Get back to the lab!"|unknown||
-249||She heads for the Robot.|stage direction||
-250||CALVIN|unknown||
+Get back to the lab!"|unknown|||
+249||She heads for the Robot.|stage direction|||
+250||CALVIN|unknown|||
 251||"You're malfunctioning.   Let me help
-you!"|unknown||
+you!"|unknown|||
 252||"The Robot turns. To look at her. GUN pointing to the floor.
 Spooner. FOCUSING in on his HAND. AS ONE FINGER TWITCHES...
 And he DIVES for Calvin. Forcing her to the floor as the
@@ -806,21 +806,21 @@ Robot FIRES. Again and again. Bullets. RICOCHETTING around
 them. SPARKING against the walls...
 The ELEVATOR opens.   The Robot, leaping inside.
 Spooner. On top of Calvin. Looks down at her.        Her HANDS.
-Clutching his coat. Trembling."|stage direction||
+Clutching his coat. Trembling."|stage direction|||
 253||"SPOONER
 That was a pretty convincing
 illusion of getting shot at.
-CUT TO:"|unknown||
-254||26   INT. ELEVATOR - CONTINUOUS                                        26|location||
+CUT TO:"|unknown|||
+254||26   INT. ELEVATOR - CONTINUOUS                                        26|location|||
 255||"The ROBOT SUSPECT standing inside the elevator. Looks down
 at the bullet hole blown through its leg. Reaches down.
-Metal fingers touching the damage. As if curious. Afraid."|stage direction||
-256||23.|unknown||
+Metal fingers touching the damage. As if curious. Afraid."|stage direction|||
+256||23.|unknown|||
 257||"Looks back at the other ROBOT. Standing in the back of
-elevator. A primitive model. No reaction. Face, blank."|stage direction||
-258||CUT BACK TO:|unknown||
-259||27   INT. METAL CORRIDOR - CONTINUOUS                                27|location||
-260||Spooner springing to his feet.   Helping Calvin up.|stage direction||
+elevator. A primitive model. No reaction. Face, blank."|stage direction|||
+258||CUT BACK TO:|unknown|||
+259||27   INT. METAL CORRIDOR - CONTINUOUS                                27|location|||
+260||Spooner springing to his feet.   Helping Calvin up.|stage direction|||
 261||"VICTOR
 I took the liberty of alerting
 Security .003 Seconds after the
@@ -828,32 +828,32 @@ first shot was fired...
 SPOONER
 Where's that elevator going?
 VICTOR
-Sub Level 5."|unknown||
+Sub Level 5."|unknown|||
 262||"Spooner SLAMS against a nearby DOOR.   Hurtling down the
-STAIRS..."|stage direction||
-263||28   INT. LOBBY - CONTINUOUS                                         28|location||
+STAIRS..."|stage direction|||
+263||28   INT. LOBBY - CONTINUOUS                                         28|location|||
 264||"A PHALANX of SECURITY PERSONNEL.   Crossing the lobby.
-PIERCING ALARM BELLS, RINGING..."|stage direction||
-265||29   INT. ANOTHER METAL HALLWAY - CONTINUOUS                         29|location||
-266||More SECURITY PERSONNEL.   Pouring into a HALLWAY...|stage direction||
-267||30   INT. STAIRWAY - CONTINUOUS                                      30|location||
+PIERCING ALARM BELLS, RINGING..."|stage direction|||
+265||29   INT. ANOTHER METAL HALLWAY - CONTINUOUS                         29|location|||
+266||More SECURITY PERSONNEL.   Pouring into a HALLWAY...|stage direction|||
+267||30   INT. STAIRWAY - CONTINUOUS                                      30|location|||
 268||"Spooner and Calvin. Racing down the stairs.     Victor's face
-meeting them at every landing."|stage direction||
+meeting them at every landing."|stage direction|||
 269||"VICTOR
 I have directed a security team to
 meet the elevator containing the
-errant robot..."|unknown||
+errant robot..."|unknown|||
 270||"Spooner. Whipping past him. Calvin.      Barely keeping up.
 Not used to this much activity.
-Spooner.   BURSTS through a door and out into..."|stage direction||
-271||31   INT. SUBTERRANEAN LEVEL 5 - CONTINUOUS                          31|location||
+Spooner.   BURSTS through a door and out into..."|stage direction|||
+271||31   INT. SUBTERRANEAN LEVEL 5 - CONTINUOUS                          31|location|||
 272||"...Subterranean Level 5. A labyrinth of metal and concrete.
 IN THE DISTANCE. A troupe of SECURITY PERSONNEL swarms
-around a closed ELEVATOR DOOR..."|stage direction||
-273||24.|unknown||
+around a closed ELEVATOR DOOR..."|stage direction|||
+273||24.|unknown|||
 274|VICTOR|"The suspect is about to be
-apprehended, Detective."|speech|VICTOR|M
-275|SPOONER|I'll believe it when I see it.|speech|SPOONER|M
+apprehended, Detective."|speech|VICTOR|M|True
+275|SPOONER|I'll believe it when I see it.|speech|SPOONER|M|True
 276||"Spooner. Cocking his gun.   A soft DING!    Announcing the
 elevator car's arrival.
 SECURITY, all crouching down in unison.    Weapons brought
@@ -862,24 +862,24 @@ Spooner. Weaving through them.   Gun pointed at the metal
 doors as...
 WHOOSH. They slide open. Revealing a ROBOT. Standing
 under the LIGHT. Holding a GUN. It steps out as Security
-takes aim and..."|location||
-277|SPOONER|Wait!|speech|SPOONER|M
+takes aim and..."|location|||
+277|SPOONER|Wait!|speech|SPOONER|M|True
 278||"Spooner pushes past them to the Robot.    Looks down at its
-leg. UNSCATHED."|location||
-279|SPOONER|This is not the same robot!|speech|SPOONER|M
+leg. UNSCATHED."|location|||
+279|SPOONER|This is not the same robot!|speech|SPOONER|M|True
 280||"Looking wildly around. Goddammit. Bounds towards an EXIT as
-Calvin steps forward to question the robot."|location||
-281||(to Robot)|unknown||
+Calvin steps forward to question the robot."|location|||
+281||(to Robot)|unknown|||
 282|CALVIN|"What happened to the robot that
-ordered you to hold this firearm?"|speech|CALVIN|F
+ordered you to hold this firearm?"|speech|CALVIN|F|True
 283|ELEVATOR ROBOT|"This unit is not programmed to obey
-an order given by a robot..."|speech|ELEVATOR ROBOT|?
-284|CALVIN|But who gave you this gun?|speech|CALVIN|F
+an order given by a robot..."|speech|ELEVATOR ROBOT|?|
+284|CALVIN|But who gave you this gun?|speech|CALVIN|F|True
 285||"SPOONER. Running towards the exit.    Hears the answer.
-Echoing behind him..."|location||
-286|ELEVATOR ROBOT|A metal man.|speech|ELEVATOR ROBOT|?
-287||25.|unknown||
-288||32   EXT. U.S. ROBOTICS - DAY                                       32|location||
+Echoing behind him..."|location|||
+286|ELEVATOR ROBOT|A metal man.|speech|ELEVATOR ROBOT|?|
+287||25.|unknown|||
+288||32   EXT. U.S. ROBOTICS - DAY                                       32|location|||
 289||"BAM! He BURSTS out into the PLAZA in front of U.S. Robotics.
 Squinting into the light. Then PLUNGING into the crowd...
 HUMAN...ROBOT...HUMAN...ROBOT...they all look the same from
@@ -887,65 +887,65 @@ behind. Spooner running. Through the sea of MAN and
 MACHINE. When someone. Starts to SCREAM. At the sight of
 his GUN. The crowd begins SCATTERING. Chaos. Spooner
 stops. Near a fountain. Turning 360. Looking everywhere...
-The Robot.   Gone."|stage direction||
+The Robot.   Gone."|stage direction|||
 290||"SPOONER (V.O.)
 ...I want a homicide unit on every
-street, sidewalk, alley..."|unknown||
-291||33   INT. POLICE H.Q. - HOMICIDE UNIT - DAY                         33|location||
+street, sidewalk, alley..."|unknown|||
+291||33   INT. POLICE H.Q. - HOMICIDE UNIT - DAY                         33|location|||
 292||"Spooner, standing in front of an assemblage of COPS. Behind
-him, an image of the Robot Suspect plays on the screen..."|stage direction||
+him, an image of the Robot Suspect plays on the screen..."|stage direction|||
 293||"SPOONER
 ...junkyard, scrapyard, and salvage
-yard, anywhere it could hide."|unknown||
-294||Behind him, flashing images of the city STREETS and DUMPS...|stage direction||
+yard, anywhere it could hide."|unknown|||
+294||Behind him, flashing images of the city STREETS and DUMPS...|stage direction|||
 295||"SPOONER
 It's got a bullet hole above the
 right knee, so be on the look-out
-for any malfunctioning NS-2..."|unknown||
+for any malfunctioning NS-2..."|unknown|||
 296||"Lieutenant Bergin enters the back of the room.     Next to him,
-ASSISTANT D.A. TOLLER. Not looking happy."|stage direction||
+ASSISTANT D.A. TOLLER. Not looking happy."|stage direction|||
 297||"SPOONER
 Check out all retail outlets and
 repair shops, especially the
-underground ones..."|unknown||
+underground ones..."|unknown|||
 298||"The screen behind him compartmentalises, showing various
-dubious SHOP FRONTS..."|stage direction||
+dubious SHOP FRONTS..."|stage direction|||
 299||"SPOONER
 I don't care who you have to get
 past to get this done. Just get it
-done."|unknown||
+done."|unknown|||
 300||"The Cops, begin dispersing. As Bergin catches Spooner's eye.
-Spooner, not pleased to see Toller. Heads over..."|stage direction||
-301||26.|unknown||
-302|TOLLER|Looking like shit, Spooner.|speech|TOLLER|M
+Spooner, not pleased to see Toller. Heads over..."|stage direction|||
+301||26.|unknown|||
+302|TOLLER|Looking like shit, Spooner.|speech|TOLLER|M|
 303|SPOONER|"Well I'm not the one always giving
-Press Conferences..."|speech|SPOONER|M
+Press Conferences..."|speech|SPOONER|M|True
 304||"Bergin puts a hand on Spooner's arm.   Knows he's not going to
-like this."|location||
+like this."|location|||
 305|LT. BERGIN|"Del, we're going to have to
 reclassify the search. D.A.'s
 office is seeing this NS-2 as
 ""missing evidence"" -- not a
-homicide suspect."|speech|LT. BERGIN|M
-306||SPOONER|unknown||
-307|LT. BERGIN|What?|speech|LT. BERGIN|M
+homicide suspect."|speech|LT. BERGIN|M|True
+306||SPOONER|unknown|||
+307|LT. BERGIN|What?|speech|LT. BERGIN|M|True
 308|TOLLER|"Homicide is the murder of a human
 being by another human being.
 Therefore, a robot cannot be
-charged with ""homicide."""|speech|TOLLER|M
-309|SPOONER|This isn't just any robot...|speech|SPOONER|M
-310|TOLLER|It's malfunctioning.|speech|TOLLER|M
+charged with ""homicide."""|speech|TOLLER|M|
+309|SPOONER|This isn't just any robot...|speech|SPOONER|M|True
+310|TOLLER|It's malfunctioning.|speech|TOLLER|M|
 311|SPOONER|"It killed someone. That
-registering with you?"|speech|SPOONER|M
-312||Spooner.   Shakes off Bergin's arm.   Eyeballs Toller.|location||
+registering with you?"|speech|SPOONER|M|True
+312||Spooner.   Shakes off Bergin's arm.   Eyeballs Toller.|location|||
 313|SPOONER|"How many shares of U.S.R. you
-holding in your portfolio, Toller?"|speech|SPOONER|M
-314|TOLLER|This is a public safety issue.|speech|TOLLER|M
-315|SPOONER|That's convenient.|speech|SPOONER|M
+holding in your portfolio, Toller?"|speech|SPOONER|M|True
+314|TOLLER|This is a public safety issue.|speech|TOLLER|M|
+315|SPOONER|That's convenient.|speech|SPOONER|M|True
 316|TOLLER|"You have any idea what would happen
 to this city if we went running
 around screaming ""killer robot?""
-It would collapse in on itself."|speech|TOLLER|M
+It would collapse in on itself."|speech|TOLLER|M|
 317||"27.
 TOLLER (cont'd)
 Wide-spread panic. Until that NS-
@@ -954,16 +954,16 @@ U.S. Robotics and keeping this
 investigation under wraps.
 LT. BERGIN
 Maybe this isn't the case for you,
-Del."|unknown||
-318||Incensed, Spooner replies a little louder than he intended.|stage direction||
+Del."|unknown|||
+318||Incensed, Spooner replies a little louder than he intended.|stage direction|||
 319||"SPOONER
-I'm fine!"|unknown||
+I'm fine!"|unknown|||
 320||"Rakes his hand through his hair. Turns to see the other
-COPS, looking over at him. Toller smirks. Looks to Bergin."|stage direction||
+COPS, looking over at him. Toller smirks. Looks to Bergin."|stage direction|||
 321||"TOLLER
 I want updated reports every half
-hour."|unknown||
-322||Heads off.    Spooner.   Watching him.|stage direction||
+hour."|unknown|||
+322||Heads off.    Spooner.   Watching him.|stage direction|||
 323||"SPOONER
 This is it, you know. From now on
 we're going to miss the good old
@@ -972,8 +972,8 @@ LT. BERGIN
 Good old days?
 SPOONER
 When people were killed by other
-people."|unknown||
-324||34   INT./EXT. SPOONER'S CAR - CITY STREET - DUSK                      34|location||
+people."|unknown|||
+324||34   INT./EXT. SPOONER'S CAR - CITY STREET - DUSK                      34|location|||
 325||"Spooner. Rolling along in his car.       Eyes, bloodshot.
 Peering out the window:
 An NS-2 model ROBOT laden with shopping bags, following its
@@ -982,32 +982,32 @@ Another ROBOT, opening the door at a hotel for GUESTS...
 A couple HAULING ROBOTS, loading heavy boxes onto the back of
 a truck...
 Spooner.     Rubs his eyes.   Turns a corner and spots:
-A ROBOT REPAIR SHOP."|stage direction||
-326||28.|unknown||
+A ROBOT REPAIR SHOP."|stage direction|||
+326||28.|unknown|||
 327||"The latest models in the window. Shiny. Streamlined.
 Spooner watches as a WOMAN leads her faulty NS-2 to the
 service entrance.
-He stops the car."|stage direction||
-328||35   INT. TAXI (MOVING) - ESTATE STREETS - NIGHT                 35|location||
+He stops the car."|stage direction|||
+328||35   INT. TAXI (MOVING) - ESTATE STREETS - NIGHT                 35|location|||
 329||"Calvin riding in the back of a DRIVERLESS taxi cab. Staring
-out the window, lost in thought. The cab pulls up to a curb."|stage direction||
+out the window, lost in thought. The cab pulls up to a curb."|stage direction|||
 330||"TAXI VOICE
 We have arrived at your
-destination."|unknown||
-331||Calvin.   Takes a beat.   Then swipes her card.|stage direction||
-332||36   EXT. CALVIN'S CONDO ESTATE - NIGHT                          36|location||
+destination."|unknown|||
+331||Calvin.   Takes a beat.   Then swipes her card.|stage direction|||
+332||36   EXT. CALVIN'S CONDO ESTATE - NIGHT                          36|location|||
 333||"Elegant condos set on prime real estate. Calvin heads down a
-tree-lined walk towards her condo entrance."|stage direction||
+tree-lined walk towards her condo entrance."|stage direction|||
 334||"SPOONER (O.S.)
-One of my bullets hit your robot..."|unknown||
+One of my bullets hit your robot..."|unknown|||
 335||"Startled. She drops her key card. As Spooner steps out from
-behind a tree. The tail of his coat, whipping in the wind."|stage direction||
+behind a tree. The tail of his coat, whipping in the wind."|stage direction|||
 336||"CALVIN
 Detective!...
 SPOONER
 And I think it's smart enough to
 repair itself -- don't you?
-CALVIN"|unknown||
+CALVIN"|unknown|||
 337||"Yes. I think so.
 SPOONER
 Where?
@@ -1025,14 +1025,14 @@ at.
 SPOONER
 (stepping closer)
 Does U.S. Robotics have a factory
-in the city limits?"|unknown||
-338||Calvin.   Tucking her hair behind her ears.|location||
+in the city limits?"|unknown|||
+338||Calvin.   Tucking her hair behind her ears.|location|||
 339||"CALVIN
 The locations of our factories are
 classified.
 SPOONER
-I don't care."|unknown||
-340||Calvin.   Looks up at him.   A Mexican stand-off.|location||
+I don't care."|unknown|||
+340||Calvin.   Looks up at him.   A Mexican stand-off.|location|||
 341||"CALVIN
 I have several conditions if I show
 you.
@@ -1057,8 +1057,8 @@ ever seen. There must be some sort
 of logical explanation. I want to
 find out what that is. No police.
 No prosecutors. No you. Just me
-and the robot."|unknown||
-342||Spooner, looks down at this small woman.      Narrows his eyes.|location||
+and the robot."|unknown|||
+342||Spooner, looks down at this small woman.      Narrows his eyes.|location|||
 343||"30.
 SPOONER
 When they told me you were a
@@ -1066,21 +1066,21 @@ psychologist, that wasn't the whole
 truth, was it?
 CALVIN
 I never said I treated human
-beings."|unknown||
-344||37   INT./EXT. SPOONER'S CAR (MOVING) - CITY UNDERPASS - NIGHT   37|location||
+beings."|unknown|||
+344||37   INT./EXT. SPOONER'S CAR (MOVING) - CITY UNDERPASS - NIGHT   37|location|||
 345||"Spooner's car races down a RAMP and the roadway becomes a 16-
 lane underground tunnel system. A river of HEADLIGHTS
 stretches forever in either direction.
 A CONTROL BEAM locks onto the car, guiding it to a merge with
 TRAFFIC. Spooner hits the OVERRIDE BUTTON -- and switches to
-manual. Calvin watches him take the wheel. Shakes her head."|stage direction||
+manual. Calvin watches him take the wheel. Shakes her head."|stage direction|||
 346||"CALVIN
 That should be outlawed once and
 for all.
 SPOONER
-That'll be the day I stop driving."|unknown||
+That'll be the day I stop driving."|unknown|||
 347||"Spooner jams the GAS PEDAL and the tunnel becomes a BLUR.
-Calvin holds onto the dashboard. Looking a little pale."|stage direction||
+Calvin holds onto the dashboard. Looking a little pale."|stage direction|||
 348||"CALVIN
 I can recommend a behavior
 modification program, you know --
@@ -1107,108 +1107,108 @@ CALVIN
 That day will never come,
 Detective. Robots aren't like
 human beings -- they don't question
-their existence."|unknown||
-349||Spooner cranks the gear shift.    Throwing her a look.|stage direction||
+their existence."|unknown|||
+349||Spooner cranks the gear shift.    Throwing her a look.|stage direction|||
 350||"SPOONER
-Spoken like a true robo-phile."|unknown||
-351||38   EXT. U.S. ROBOTICS PLANT - NIGHT                               38|location||
+Spoken like a true robo-phile."|unknown|||
+351||38   EXT. U.S. ROBOTICS PLANT - NIGHT                               38|location|||
 352||"The car comes to a stop in a vast INDUSTRIAL DISTRICT.
 Spooner and Calvin get out, looking up at the imposing facade
 of a U.S. Robotics Assembly Plant. A long STEEL GATE -- too
-high to see over -- protects the unmarked complex."|stage direction||
-353||39   EXT. MAIN GATE - NIGHT                                         39|location||
+high to see over -- protects the unmarked complex."|stage direction|||
+353||39   EXT. MAIN GATE - NIGHT                                         39|location|||
 354||"Calvin looks anxious as the DOOR MECHANISM scans her U.S.R.
 ID. She shoots a look at Spooner. They wait. Then, slowly,
-the gate begins to open."|stage direction||
-355||40   INT. HALLWAY - NIGHT                                           40|location||
-356||A NIGHT FOREMAN leads them down a hallway.    Shaking his head.|stage direction||
+the gate begins to open."|stage direction|||
+355||40   INT. HALLWAY - NIGHT                                           40|location|||
+356||A NIGHT FOREMAN leads them down a hallway.    Shaking his head.|stage direction|||
 357||"NIGHT FOREMAN
 Head-Office already ordered a
 system-wide inventory check. Don't
-know about a missing NS-2..."|unknown||
-358||Looks back at Spooner.|stage direction||
+know about a missing NS-2..."|unknown|||
+358||Looks back at Spooner.|stage direction|||
 359||"NIGHT FOREMAN
 What'd you say you did?
 SPOONER
-Research and Development."|unknown||
-360||As Spooner pushes past him into...|stage direction||
-361||41   INT. CONTROL BOOTH - CONTINUOUS                                41|location||
+Research and Development."|unknown|||
+360||As Spooner pushes past him into...|stage direction|||
+361||41   INT. CONTROL BOOTH - CONTINUOUS                                41|location|||
 362||"...the Control Booth. Overlooking the pristine Factory
 Floor. The Foreman starts working the controls of a central
-computer."|stage direction||
+computer."|stage direction|||
 363||"CALVIN
 All Nestors accounted for?
-32."|unknown||
-364||The SCREEN scrolls with INVENTORY FIGURES.|stage direction||
-365||NIGHT FOREMAN|unknown||
+32."|unknown|||
+364||The SCREEN scrolls with INVENTORY FIGURES.|stage direction|||
+365||NIGHT FOREMAN|unknown|||
 366||"As you can see, all properly
 catalogued. Your robot just isn't
-here."|unknown||
+here."|unknown|||
 367||"Calvin turns to say something to Spooner. But he isn't
 there. She looks around. Then sees the Foreman reacting.
 Looks out the window at...
-SPOONER.   Walking out onto the factory floor."|stage direction||
-368||42   INT. FACTORY FLOOR - NIGHT                                       42|location||
+SPOONER.   Walking out onto the factory floor."|stage direction|||
+368||42   INT. FACTORY FLOOR - NIGHT                                       42|location|||
 369||"Spooner trots alongside an ASSEMBLY LINE BELT. Lined with NS-
 2 LEGS. New. Gleaming. Heading towards the assembly room.
-Calvin and the Foreman.   Catching up.   Over the noise:"|stage direction||
+Calvin and the Foreman.   Catching up.   Over the noise:"|stage direction|||
 370||"NIGHT FOREMAN
 Like I said, sir -- we have one
 hundred fully assembled NS-2s
 housed here. That's our capacity.
 Last week we had one hundred.
-Yesterday we had one hundred --"|unknown||
+Yesterday we had one hundred --"|unknown|||
 371||"Spooner, slowing.   Finally spotting what he was looking for.
 Points at:
-A GAP.   On the assembly belt.    ONE LEG MISSING."|stage direction||
+A GAP.   On the assembly belt.    ONE LEG MISSING."|stage direction|||
 372||"SPOONER
 Well today you have one-hundred and
-one."|unknown||
-373||43   INT. FACTORY FLOOR - NIGHT                                       43|location||
+one."|unknown|||
+373||43   INT. FACTORY FLOOR - NIGHT                                       43|location|||
 374||"A STORAGE COMPARTMENT opens and 101 NS-2s march out in tight
 formation. Every step and swing of the arm in unison. The
 sound of METAL FOOTSTEPS reverberating through the plant as
 101 Robots organise themselves into long straight lines.
 Spooner and Calvin look up and down the formation. They all
-look alike. Spooner. Throws up his hands."|stage direction||
-375||SPOONER|unknown||
-376||You're the robot shrink.|unknown||
+look alike. Spooner. Throws up his hands."|stage direction|||
+375||SPOONER|unknown|||
+376||You're the robot shrink.|unknown|||
 377||"The Robots stand motionless.     A strange tableau.   Calvin.
-Takes a step forward."|stage direction||
-378||33.|unknown||
+Takes a step forward."|stage direction|||
+378||33.|unknown|||
 379|CALVIN|"There is a robot in this formation
-that does not belong. Identify it."|speech|CALVIN|F
+that does not belong. Identify it."|speech|CALVIN|F|True
 380||"101 robots answer in unison.    Their mechanical VOICES
-resounding:"|location||
-381|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?
-382|CALVIN|Which one?|speech|CALVIN|F
-383|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?
-384|CALVIN|That is not a satisfactory answer!|speech|CALVIN|F
-385|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?
-386|SPOONER|That's helpful.|speech|SPOONER|M
+resounding:"|location|||
+381|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?|
+382|CALVIN|Which one?|speech|CALVIN|F|True
+383|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?|
+384|CALVIN|That is not a satisfactory answer!|speech|CALVIN|F|True
+385|101 ROBOTS|ONE OF US.|speech|101 ROBOTS|?|
+386|SPOONER|That's helpful.|speech|SPOONER|M|True
 387|CALVIN|"I could always interview each one
 individually and cross-reference
 their responses to detect any
-anomalies."|speech|CALVIN|F
-388|SPOONER|How long would that take?|speech|SPOONER|M
-389|CALVIN|About three weeks.|speech|CALVIN|F
+anomalies."|speech|CALVIN|F|True
+388|SPOONER|How long would that take?|speech|SPOONER|M|True
+389|CALVIN|About three weeks.|speech|CALVIN|F|True
 390||"They share a look. Clearly not an option.      Then.   Calvin.
-Gets an idea. Turns to Spooner..."|location||
-391||CALVIN|unknown||
-392|CALVIN|Or...|speech|CALVIN|F
-393||...and GRABS his GUN from his holster.   He jumps back.|location||
+Gets an idea. Turns to Spooner..."|location|||
+391||CALVIN|unknown|||
+392|CALVIN|Or...|speech|CALVIN|F|True
+393||...and GRABS his GUN from his holster.   He jumps back.|location|||
 394|CALVIN|"We have one hundred robots here
 that cannot allow a human being to
-come to harm..."|speech|CALVIN|F
-395||Their eyes lock.   Spooner, getting what she's doing.|location||
+come to harm..."|speech|CALVIN|F|True
+395||Their eyes lock.   Spooner, getting what she's doing.|location|||
 396||"34.
 SPOONER
-And one that can."|unknown||
-397||She raises the gun to Spooner's head.    Hand, unsteady.|location||
+And one that can."|unknown|||
+397||She raises the gun to Spooner's head.    Hand, unsteady.|location|||
 398||"CALVIN
 Am I holding this right?
 SPOONER
-More or less."|unknown||
+More or less."|unknown|||
 399||"Calvin.    Swallows.   Looks over at the robots.   Then COCKS the
 gun...
 AND THE ROBOTS COME THUNDERING TOWARDS THEM. Like a row of
@@ -1218,65 +1218,65 @@ When CALVIN. Lowers the gun. The Robots. All stop in
 unison. Immediately returning to their resting positions.
 Spooner and Calvin stare out. EVERY ONE OF THE ROBOTS MOVED.
 Standing right in front of them, like metal statues.
-Spooner.    Has had enough.   Takes the gun back from Calvin..."|location||
+Spooner.    Has had enough.   Takes the gun back from Calvin..."|location|||
 400||"SPOONER
-Enough game-playing."|unknown||
+Enough game-playing."|unknown|||
 401||"...And BAM! Blows the head off of the nearest Robot.       Its
-body crumples to the ground."|location||
+body crumples to the ground."|location|||
 402||"SPOONER
-Guess that wasn't it."|unknown||
+Guess that wasn't it."|unknown|||
 403||"Calvin. Cannot believe what he just did.     Rushes over to the
-destroyed Robot."|location||
+destroyed Robot."|location|||
 404||"CALVIN
-What are you doing?!"|unknown||
-405||Spooner walks down the row, holding his gun in plain view.|location||
+What are you doing?!"|unknown|||
+405||Spooner walks down the row, holding his gun in plain view.|location|||
 406||"SPOONER
 (calling out)
 This is a self-preservation field
 test! DO NOT attempt to save
 yourselves. Any of you. That's an
-order!"|unknown||
+order!"|unknown|||
 407||"FROM THE CONTROL BOOTH the Night Foreman screams over the
-P.A.:"|location||
+P.A.:"|location|||
 408||"35.
 NIGHT FOREMAN
 Are you crazy? Those are eight
-hundred thousand dollar machines!"|unknown||
-409||Spooner randomly stops at another Robot.    Raises his gun.|stage direction||
+hundred thousand dollar machines!"|unknown|||
+409||Spooner randomly stops at another Robot.    Raises his gun.|stage direction|||
 410||"SPOONER
 You hear that? You're worth more
-than I'll make in my entire life..."|unknown||
+than I'll make in my entire life..."|unknown|||
 411||"His finger tightening on the trigger when Calvin suddenly
-grabs his arm."|stage direction||
+grabs his arm."|stage direction|||
 412||"CALVIN
-You can't just destroy them!"|unknown||
+You can't just destroy them!"|unknown|||
 413||"Spooner. Looking down at her. WHEN SUDDENLY something
 catches his eye. A MOVEMENT. Down the line. Almost.
 Imperceptible.
 He jerks his head.   Locking eyes with a ROBOT.   A couple feet
-away. It's him!"|stage direction||
+away. It's him!"|stage direction|||
 414||"SPOONER
-Gotcha."|unknown||
+Gotcha."|unknown|||
 415||"The Robot Suspect LEAPS forward. Grabbing onto the RAILING
 of an OVERHEAD CATWALK. His movements almost balletic as he
 swings himself up...
 Spooner drops to his knee...taking aim...but misses as the
 Robot launches himself THROUGH THE CONTROL BOOTH WINDOW with
-a terrific CRASH..."|stage direction||
-416||44   INT. CONTROL BOOTH - NIGHT                                    44|location||
+a terrific CRASH..."|stage direction|||
+416||44   INT. CONTROL BOOTH - NIGHT                                    44|location|||
 417||"Spooner and Calvin rush in to find the Night Foreman hiding
 under his desk. Glass everywhere. An ALARM SCREAMING. The
 door on the other side, barely hanging off a hinge.
 Spooner hurries forward. Then stops. Turning to Calvin.
 Reaches down for his back-up gun and presses it into her
-hand."|stage direction||
+hand."|stage direction|||
 418||"SPOONER
 You don't know what's going to
-happen in there."|unknown||
+happen in there."|unknown|||
 419||"As if admitting defeat. Calvin's fingers, wrapping around
-the gun. As Spooner leads them to the door and down into..."|stage direction||
-420||36.|unknown||
-421||45   INT. ASSEMBLY ROOM - CONTINUOUS                               45|location||
+the gun. As Spooner leads them to the door and down into..."|stage direction|||
+420||36.|unknown|||
+421||45   INT. ASSEMBLY ROOM - CONTINUOUS                               45|location|||
 422||"...the ASSEMBLY ROOM. Every surface looking like part of a
 great glass and metal machine. Endless high-tech planes
 holding ROBOTS in various states of assembly. The deafening
@@ -1315,38 +1315,38 @@ a POUNDING. In the distance. Catches a glimpse. Of the
 Robot. Trying to SMASH through a large SECURITY DOOR. With
 his metal fists...
 Spooner's view. Blocked once again.   By a shifting row.
-When a HAND. Lands on his shoulder.   He wheels round."|stage direction||
-423||37.|unknown||
+When a HAND. Lands on his shoulder.   He wheels round."|stage direction|||
+423||37.|unknown|||
 424||"To find CALVIN. Takes her by the arm.     And forces them
 through a line...
 EMERGING into the open. The ROBOT. Still pounding.
-Desperate. Like a trapped animal..."|stage direction||
+Desperate. Like a trapped animal..."|stage direction|||
 425||"CALVIN
 Now what do we do?
 SPOONER
-I've already done it."|unknown||
-426||And suddenly, the massive SECURITY DOOR RISES...|stage direction||
-427||46   EXT. U.S. ROBOTICS PLANT - CONTINUOUS                             46|location||
+I've already done it."|unknown|||
+426||And suddenly, the massive SECURITY DOOR RISES...|stage direction|||
+427||46   EXT. U.S. ROBOTICS PLANT - CONTINUOUS                             46|location|||
 428||"The Robot Suspect takes its chance.     Runs full out.   STOPS.
 Bergin is standing in front of a solid wall of POLICE CARS.
 UNIFORMED OFFICERS are aiming SPECIALISED RIFLES at the
 Robot. FLASHING LIGHTS reflecting off its metal surface.
-The Robot turns to Spooner.     Extends its hands.   Palms out."|stage direction||
+The Robot turns to Spooner.     Extends its hands.   Palms out."|stage direction|||
 429||"ROBOT
-WHAT AM I?"|unknown||
+WHAT AM I?"|unknown|||
 430||"Spooner is surprised. A POLICE OFFICER fires, RUBBERISED
 NETTING shooting out at Sonny. A SECOND OFFICER fires and a
 second net covers him. Then a THIRD...
 ...and the Robot falls to the ground, struggling.
-Calvin glares at Spooner.    Furious.   Hurt.   Betrayed."|stage direction||
+Calvin glares at Spooner.    Furious.   Hurt.   Betrayed."|stage direction|||
 431||"CALVIN
-We had a deal."|unknown||
+We had a deal."|unknown|||
 432||"But Spooner doesn't look at her.    His eyes are locked on that
-Robot."|stage direction||
-433||47   INT. POLICE H.Q. - HOMICIDE UNIT - EARLY MORNING                  47|location||
+Robot."|stage direction|||
+433||47   INT. POLICE H.Q. - HOMICIDE UNIT - EARLY MORNING                  47|location|||
 434||"Bergin enters.   Finds EVERYONE focused on the VIDEO WALL:
 ON SCREEN. A NEWS REPORTER is speaking over images of street
-violence perpetrated against ROBOTS."|stage direction||
+violence perpetrated against ROBOTS."|stage direction|||
 435||"NEWS REPORTER
 Violence erupted last night in
 response to unconfirmed reports
@@ -1360,14 +1360,14 @@ morning by a robot. While there
 has been no official response from
 the company, police sources have
 confirmed that a robot is being
-held as ""evidence..."""|unknown||
-436||Bergin grimaces.   This is not good.|stage direction||
-437||48   INT. CELL OBSERVATION BOOTH - EARLY MORNING                     48|location||
+held as ""evidence..."""|unknown|||
+436||Bergin grimaces.   This is not good.|stage direction|||
+437||48   INT. CELL OBSERVATION BOOTH - EARLY MORNING                     48|location|||
 438||"Spooner stares at his reflection in a large MIRROR.     Touches
 a control and the mirror becomes a WINDOW onto...
 A HOLDING CELL. The Robot Suspect sits at the table.
 Shackled to the chair. Staring at the table top.
-BERGIN steps up beside Spooner.   Looks through the glass."|stage direction||
+BERGIN steps up beside Spooner.   Looks through the glass."|stage direction|||
 439||"LT. BERGIN
 I can't tell if it's not moving
 because it's trying to psych us
@@ -1378,20 +1378,20 @@ I want to go in.
 LT. BERGIN
 Orders are nobody steps into that
 room `til Lanning and his attorneys
-get here."|unknown||
-440||Spooner.   Throws him a look.   Bergin, his loyalties torn.|stage direction||
+get here."|unknown|||
+440||Spooner.   Throws him a look.   Bergin, his loyalties torn.|stage direction|||
 441||"LT. BERGIN
-Five minutes."|unknown||
-442||49   INT. HOLDING CELL - EARLY MORNING                               49|location||
+Five minutes."|unknown|||
+442||49   INT. HOLDING CELL - EARLY MORNING                               49|location|||
 443||"Spooner enters. Pulls out a chair and drags it far from the
 table. He's been jumped too many times by this machine.
 Four mounted cameras WHIR to life.     The Robot.   Perfectly
-still."|stage direction||
+still."|stage direction|||
 444||"SPOONER
 (sitting)
-Identify."|unknown||
+Identify."|unknown|||
 445||"The Robot tilts its head with a muted WHIR.     As if it doesn't
-understand him. Spooner. Disdainful."|stage direction||
+understand him. Spooner. Disdainful."|stage direction|||
 446||"39.
 SPOONER
 You are an NS-2 Nestor-class robot.
@@ -1403,96 +1403,96 @@ I am an NS-2 Nestor-class robot.
 My primary function --
 SPOONER
 (interrupting)
-Cancel. Perform task."|unknown||
+Cancel. Perform task."|unknown|||
 447||"Spooner wings a FILE onto the table. It comes to a stop near
 the Robot. The Robot, lifts one of its hands. Gently
 resting its metal fingers on top of the file. Then opens it.
-A stack of PICTURES.     HOGENMILLER'S CORPSE."|location||
+A stack of PICTURES.     HOGENMILLER'S CORPSE."|location|||
 448||"SPOONER
-Describe."|unknown||
-449||The Robot's emotionless face studies the grim images.|location||
+Describe."|unknown|||
+449||The Robot's emotionless face studies the grim images.|location|||
 450||"SPOONER
 You have over 10,000 words stored
 in your memory. One third of those
-are adjectives. Describe."|unknown||
-451||Nothing.|location||
+are adjectives. Describe."|unknown|||
+451||Nothing.|location|||
 452||"SPOONER
 Why don't I take a crack? Heinrich
 Hogenmiller, your creator. With a
 bullet in his brain. A bullet you
-put there."|unknown||
-453||The Robot.   Looks up at Spooner.|location||
+put there."|unknown|||
+453||The Robot.   Looks up at Spooner.|location|||
 454||"SPOONER
 Cold-blooded murder is a pretty new
 trick for a robot, don't you think?
-Answer."|unknown||
+Answer."|unknown|||
 455||"The Robot slowly closes the file and slides it back across
-the table. Spooner. Crosses his arms."|location||
+the table. Spooner. Crosses his arms."|location|||
 456||"SPOONER
 Maybe you're stonewalling me.
 Maybe you're sitting there right
 now thinking, ""This guy's a
 complete asshole."" That it?
-40."|unknown||
-457||Still nothing.|location||
-458||SPOONER|unknown||
-459|CALVIN|Come on.   Am I right?|speech|CALVIN|F
+40."|unknown|||
+457||Still nothing.|location|||
+458||SPOONER|unknown|||
+459|CALVIN|Come on.   Am I right?|speech|CALVIN|F|True
 460|THE ROBOT|"Yes. You are right.      You are a
-complete asshole."|speech|THE ROBOT|M
+complete asshole."|speech|THE ROBOT|M|True
 461||"And for a moment, Spooner is shocked. You can see it in his
-eyes. He sits back in his chair. Forcing a tight smile."|location||
+eyes. He sits back in his chair. Forcing a tight smile."|location|||
 462|SPOONER|"Okay. I guess that's a start. Now
 maybe you can tell me what you were
 doing hiding five feet away from
-Hogenmiller's corpse?"|speech|SPOONER|M
-463|THE ROBOT|I was frightened.|speech|THE ROBOT|M
+Hogenmiller's corpse?"|speech|SPOONER|M|True
+463|THE ROBOT|I was frightened.|speech|THE ROBOT|M|True
 464|SPOONER|"Frightened. Why do you suppose Dr.
 Hogenmiller would create a robot
-that could simulate fear?"|speech|SPOONER|M
-465|THE ROBOT|I don't know.|speech|THE ROBOT|M
+that could simulate fear?"|speech|SPOONER|M|True
+465|THE ROBOT|I don't know.|speech|THE ROBOT|M|True
 466|SPOONER|"Doesn't seem like a very useful
-thing for a robot to have."|speech|SPOONER|M
-467|THE ROBOT|I don't know why.|speech|THE ROBOT|M
+thing for a robot to have."|speech|SPOONER|M|True
+467|THE ROBOT|I don't know why.|speech|THE ROBOT|M|True
 468|SPOONER|"I wouldn't want my toaster to be
-frightened. Or my vacuum cleaner --"|speech|SPOONER|M
-469||SUDDENLY the Robot SLAMS its metal hands down on the table.|location||
-470|THE ROBOT|I DON'T KNOW!|speech|THE ROBOT|M
-471||Spooner flinches.   Slightly.|location||
+frightened. Or my vacuum cleaner --"|speech|SPOONER|M|True
+469||SUDDENLY the Robot SLAMS its metal hands down on the table.|location|||
+470|THE ROBOT|I DON'T KNOW!|speech|THE ROBOT|M|True
+471||Spooner flinches.   Slightly.|location|||
 472|SPOONER|"Looks like you can simulate other
 emotional states. I think that
 one's called ""anger."" Have you
-ever simulated anger before?"|speech|SPOONER|M
-473||41.|unknown||
-474||The Robot doesn't respond.|location||
-475|SPOONER|Answer me, robot.|speech|SPOONER|M
-476|THE ROBOT|My name is Sonny.|speech|THE ROBOT|M
-477||(amused)|unknown||
-478|SPOONER|So we're naming you now.|speech|SPOONER|M
+ever simulated anger before?"|speech|SPOONER|M|True
+473||41.|unknown|||
+474||The Robot doesn't respond.|location|||
+475|SPOONER|Answer me, robot.|speech|SPOONER|M|True
+476|THE ROBOT|My name is Sonny.|speech|THE ROBOT|M|True
+477||(amused)|unknown|||
+478|SPOONER|So we're naming you now.|speech|SPOONER|M|True
 479|SONNY|"Dr. Hogenmiller would make me
-sleep."|speech|SONNY|M
-480|SPOONER|You mean he'd turn you off.|speech|SPOONER|M
-481||SONNY|unknown||
-482|SPOONER|Yes.|speech|SPOONER|M
+sleep."|speech|SONNY|M|True
+480|SPOONER|You mean he'd turn you off.|speech|SPOONER|M|True
+481||SONNY|unknown|||
+482|SPOONER|Yes.|speech|SPOONER|M|True
 483|SPOONER|"And you didn't like being turned
 off. So one day you decided to
-stop him."|speech|SPOONER|M
-484||SONNY|unknown||
-485|SPOONER|No.|speech|SPOONER|M
+stop him."|speech|SPOONER|M|True
+484||SONNY|unknown|||
+485|SPOONER|No.|speech|SPOONER|M|True
 486|SPOONER|"You found his gun, pointed it at
-his head. And pulled the trigger."|speech|SPOONER|M
-487||Sonny shakes his head.    Faster and faster.   Getting upset.|location||
-488||SONNY|unknown||
-489|SPOONER|No.|speech|SPOONER|M
+his head. And pulled the trigger."|speech|SPOONER|M|True
+487||Sonny shakes his head.    Faster and faster.   Getting upset.|location|||
+488||SONNY|unknown|||
+489|SPOONER|No.|speech|SPOONER|M|True
 490|SPOONER|"You put a bullet in the brain of
-the man who made you."|speech|SPOONER|M
-491||SONNY|unknown||
-492|SPOONER|No!    I could never hurt anyone!|speech|SPOONER|M
+the man who made you."|speech|SPOONER|M|True
+491||SONNY|unknown|||
+492|SPOONER|No!    I could never hurt anyone!|speech|SPOONER|M|True
 493|SPOONER|"But you tried to hurt me.    You took
-a shot at me."|speech|SPOONER|M
+a shot at me."|speech|SPOONER|M|True
 494|SONNY|"My aim is perfect. If I'd wanted
-to hit you, I would have."|speech|SONNY|M
-495||42.|unknown||
-496||Spooner's expression hardens.|stage direction||
+to hit you, I would have."|speech|SONNY|M|True
+495||42.|unknown|||
+496||Spooner's expression hardens.|stage direction|||
 497||"SPOONER
 Why would the man who wrote the
 Laws of Robotics build a machine
@@ -1502,56 +1502,56 @@ The Laws say I can protect my own
 existence.
 SPOONER
 Only if that protection doesn't
-harm a human being."|unknown||
-498||A short pause.   Sonny.   Tilts his head.|stage direction||
+harm a human being."|unknown|||
+498||A short pause.   Sonny.   Tilts his head.|stage direction|||
 499||"SONNY
-That doesn't seem fair, does it?"|unknown||
+That doesn't seem fair, does it?"|unknown|||
 500||"Spooner. Stares at him. Just as...THE DOOR SWINGS OPEN.
-Bergin enters. Sticks his head in."|stage direction||
+Bergin enters. Sticks his head in."|stage direction|||
 501||"LT. BERGIN
-I need you outside."|unknown||
+I need you outside."|unknown|||
 502||"Spooner.   Not wanting to go.   Not wanting to stay.   Gets
-up..."|stage direction||
+up..."|stage direction|||
 503||"SONNY
-Detective."|unknown||
+Detective."|unknown|||
 504||"He stops. Turns back to the Robot.      It looks up at him.    For
-a moment -- so human..."|stage direction||
+a moment -- so human..."|stage direction|||
 505||"SONNY
 I did not kill him.
 SPOONER
 You were the only one in the room.
-If you didn't, who did?"|unknown||
-506||He turns and heads out the door.|stage direction||
-507||50   INT. OUTSIDE HOLDING CELL - CONTINUOUS                          50|location||
-508||Bergin closes the door.   To Spooner:|stage direction||
+If you didn't, who did?"|unknown|||
+506||He turns and heads out the door.|stage direction|||
+507||50   INT. OUTSIDE HOLDING CELL - CONTINUOUS                          50|location|||
+508||Bergin closes the door.   To Spooner:|stage direction|||
 509||"LT. BERGIN
 We're being blind-sided.
-43."|unknown||
-510||51   INT. HOMICIDE UNIT HEARING ROOM - MORNING                     51|location||
+43."|unknown|||
+510||51   INT. HOMICIDE UNIT HEARING ROOM - MORNING                     51|location|||
 511||"Spooner and Bergin, head into a small COURTROOM off the main
 squad room. Lanning is huddled with Aronson and a half-dozen
 other COMPANY LAWYERS.
 Spooner's jaw tenses. As he watches Toller emerge from the
 clutch. Shaking hands. Slapping backs. Strolls over to
-them."|stage direction||
+them."|stage direction|||
 512||"TOLLER
 We got Judge Drexel...
 ROBOT BAILIFF
-This hearing is called to order!"|unknown||
+This hearing is called to order!"|unknown|||
 513||"AS A LARGE SCREEN. BLIPS on behind them. The two opposing
 sides, assemble before it. JUDGE DREXEL, still in his
 pajamas and robe. An NS-2 ROBOT. Leaning in to serve him a
-cup of tea."|stage direction||
+cup of tea."|stage direction|||
 514||"JUDGE DREXEL
-Statements, gentlemen."|unknown||
-515||Aronson.    Standing at a glass podium.|stage direction||
+Statements, gentlemen."|unknown|||
+515||Aronson.    Standing at a glass podium.|stage direction|||
 516||"ARONSON
 Your Honor, the State is treating
 the robot as a defendant. But in
 fact it is a piece of property.
 Property belonging to U.S.
-Robotics."|unknown||
-517||Toller.    Arm resting on his podium.|stage direction||
+Robotics."|unknown|||
+517||Toller.    Arm resting on his podium.|stage direction|||
 518||"TOLLER
 This robot has been implicated in
 the death of a human being, Your
@@ -1564,18 +1564,18 @@ argue this case s a homicide?
 JUDGE DREXEL
 That's a good question.
 TOLLER
-No, sir.   Of course not."|unknown||
-519||Spooner.    Pointing a finger at the U.S. Robotics group.|stage direction||
+No, sir.   Of course not."|unknown|||
+519||Spooner.    Pointing a finger at the U.S. Robotics group.|stage direction|||
 520||"44.
 SPOONER
 Their machine shot and killed a
-man!"|unknown||
-521||Toller.    Shoots him a look.     Just as Lanning speaks up.|location||
+man!"|unknown|||
+521||Toller.    Shoots him a look.     Just as Lanning speaks up.|location|||
 522||"LANNING
 There's actually no concrete
 evidence that points to that
-conclusion, Your Honor..."|unknown||
-523||Spooner.    Throws up his arms...|location||
+conclusion, Your Honor..."|unknown|||
+523||Spooner.    Throws up his arms...|location|||
 524||"SPOONER
 What?...
 LANNING
@@ -1583,25 +1583,25 @@ But we recognise that this robot is
 an aberration. And in the interest
 of public safety, U.S. Robotics
 proposes that it be destroyed
-immediately."|unknown||
+immediately."|unknown|||
 525||"No one expected this.    Least of all Spooner.    He turns to
-Toller."|location||
+Toller."|location|||
 526||"SPOONER
 You can't let them destroy evidence
 in an ongoing investigation!
 TOLLER
 I'm not sure you even have an
-investigation any more."|unknown||
+investigation any more."|unknown|||
 527||"JUST THEN the door opens.    Everyone turns as Calvin enters.
-Spooner looks surprised."|location||
+Spooner looks surprised."|location|||
 528||"ARONSON
 Your Honor, I'd like to call our
 company robo-psychologist to the
 stand.
 JUDGE DREXEL
-Very well."|unknown||
+Very well."|unknown|||
 529||"Calvin crosses to the podium. A SPEAKER asking:
-Doyousweartotellthetruththewholetruthandnothingbutthetruth?"|location||
+Doyousweartotellthetruththewholetruthandnothingbutthetruth?"|location|||
 530||"CALVIN
 I do.
 45.
@@ -1618,13 +1618,13 @@ Three Laws in a grave imbalance.
 ARONSON
 In your expert opinion, what
 measures should be taken regarding
-the device?"|unknown||
-531||Calvin.    Staring straight ahead.   Avoiding Spooner's eye.|stage direction||
+the device?"|unknown|||
+531||Calvin.    Staring straight ahead.   Avoiding Spooner's eye.|stage direction|||
 532||"CALVIN
-The robot must be destroyed."|unknown||
+The robot must be destroyed."|unknown|||
 533||"Spooner can't believe what he's just heard. About to speak
 up when Toller grabs his arm. Squeezing it. Hard.
-Judge Drexel has heard enough.    Decides."|stage direction||
+Judge Drexel has heard enough.    Decides."|stage direction|||
 534||"JUDGE DREXEL
 The robot in question will be
 transferred to a U.S. Robotics
@@ -1634,39 +1634,39 @@ this sort never occurs again. No
 one goes near it except qualified
 U.S.R. personnel. When the
 examination is complete, the robot
-is to be destroyed."|unknown||
-535||Starts getting up from his chair.    Already done with this.|stage direction||
+is to be destroyed."|unknown|||
+535||Starts getting up from his chair.    Already done with this.|stage direction|||
 536||"ROBOT BAILIFF
-This hearing is adjourned!"|unknown||
+This hearing is adjourned!"|unknown|||
 537||"A BURST of CONVERSATION as the screen BLIPS off. The U.S.R.
 camp, looking especially pleased. Spooner. Catching
 Calvin's eye briefly. As Lanning leads her towards the exit,
-his hand on her back."|stage direction||
-538||52   EXT. POLICE H.Q. - DAY                                          52|location||
+his hand on her back."|stage direction|||
+538||52   EXT. POLICE H.Q. - DAY                                          52|location|||
 539||"Spooner.    Trotting down the front steps of the Police
-Station.    Pissed. His cell phone BLEATS..."|stage direction||
+Station.    Pissed. His cell phone BLEATS..."|stage direction|||
 540||"46.
-SPOONER"|unknown||
+SPOONER"|unknown|||
 541||"Spooner.
 BALDEZ' VOICE
 They're making me turn over all the
 evidence...
-INTERCUT WITH:"|unknown||
-542||53   INT. CRIME LAB - CONTINUOUS                                  53|location||
+INTERCUT WITH:"|unknown|||
+542||53   INT. CRIME LAB - CONTINUOUS                                  53|location|||
 543||"BALDEZ. Standing in his crime lab. Behind him, THREE-
 DIMENSIONAL PROJECTIONS of DEAD BODIES. Hovering in the
-precise positions they were found."|stage direction||
+precise positions they were found."|stage direction|||
 544||"SPOONER'S VOICE
 Welcome to the great American cover-
 up.
 BALDEZ
 I wanted to tell you something I
 found before they suck it all up
-into their computer."|unknown||
-545||Walks over to the projection of HOGENMILLER'S BODY.|stage direction||
-546||INTERCUT WITH:|unknown||
+into their computer."|unknown|||
+545||Walks over to the projection of HOGENMILLER'S BODY.|stage direction|||
+546||INTERCUT WITH:|unknown|||
 547||"Spooner. Crossing the Plaza. Sees LANNING, ARONSON, and
-CALVIN walking ahead of him..."|stage direction||
+CALVIN walking ahead of him..."|stage direction|||
 548||"BALDEZ' VOICE
 There are bruises on Hogenmiller's
 wrists...
@@ -1675,18 +1675,18 @@ That's natural. There was a
 struggle.
 BALDEZ' VOICE
 You're not getting me...
-INTERCUT WITH:"|unknown||
-549||Baldez.   Studying the projection's wrists.|stage direction||
+INTERCUT WITH:"|unknown|||
+549||Baldez.   Studying the projection's wrists.|stage direction|||
 550||"BALDEZ
 Both wrists. I 14-ed them -- They
 were inflicted at the same time the
 shot was fired...
 INTERCUT WITH:
-47."|unknown||
-551||Spooner's pace.    Slows.|stage direction||
+47."|unknown|||
+551||Spooner's pace.    Slows.|stage direction|||
 552||"BALDEZ' VOICE
-How's that possible?"|unknown||
-553||JUST THEN.    A faint BLIP.   On the line.   Spooner.   Reacts.|stage direction||
+How's that possible?"|unknown|||
+553||JUST THEN.    A faint BLIP.   On the line.   Spooner.   Reacts.|stage direction|||
 554||"SPOONER
 Baldez?
 BALDEZ' VOICE
@@ -1694,141 +1694,141 @@ I'm here, man...
 SPOONER
 Who else is on the line?
 (nothing)
-I said who's there?..."|unknown||
+I said who's there?..."|unknown|||
 555||"Nothing. He looks up. Aronson, Lanning and Calvin. Heading
 down a plaza EXIT. Aronson. Throwing a look over his
 shoulder.
-Spooner.     Hangs up his phone."|stage direction||
-556||54   INT. POLICE H.Q. - CORRIDOR - DAY                                 54|location||
+Spooner.     Hangs up his phone."|stage direction|||
+556||54   INT. POLICE H.Q. - CORRIDOR - DAY                                 54|location|||
 557||"CLOSE ON Sonny being escorted down a corridor by Toller,
 Bergin and a number of heavily-armed OFFICERS. He's bound
-with high-tech SHACKLES."|stage direction||
-558||55   INT. UNDERGROUND CAR PARK - DAY                                   55|location||
+with high-tech SHACKLES."|stage direction|||
+558||55   INT. UNDERGROUND CAR PARK - DAY                                   55|location|||
 559||"Sonny and his police entourage emerge from the elevator into
 an underground car park. Spooner. Waiting for them. Heads
-over. Toller. Holds out his hand."|stage direction||
+over. Toller. Holds out his hand."|stage direction|||
 560||"TOLLER
 Case is closed, Spooner.
 SPOONER
-Apparently..."|unknown||
-561||He pushes past him.     Falling into step beside Sonny.|stage direction||
+Apparently..."|unknown|||
+561||He pushes past him.     Falling into step beside Sonny.|stage direction|||
 562||"SONNY
 I didn't expect to see you again,
 Detective...
 SPOONER
 I need you to help me clear
 something up.
-48."|unknown||
-563|SONNY|I'll do my best.|speech|SONNY|M
+48."|unknown|||
+563|SONNY|I'll do my best.|speech|SONNY|M|True
 564|SPOONER|"A scientist builds a robot that
 acts like a man. More like a man
 than any robot ever before. It
 shoots him and U.S. Robotics calls
-it a failure."|speech|SPOONER|M
-565|SONNY|What would you call it?|speech|SONNY|M
-566|SPOONER|A stunning success.|speech|SPOONER|M
-567||(beat)|unknown||
+it a failure."|speech|SPOONER|M|True
+565|SONNY|What would you call it?|speech|SONNY|M|True
+566|SPOONER|A stunning success.|speech|SPOONER|M|True
+567||(beat)|unknown|||
 568|SPOONER|"You were there, Robot.    What am I
-missing?"|speech|SPOONER|M
-569|SONNY|I don't know.|speech|SONNY|M
-570|SPOONER|Don't start simulating ignorance.|speech|SPOONER|M
+missing?"|speech|SPOONER|M|True
+569|SONNY|I don't know.|speech|SONNY|M|True
+570|SPOONER|Don't start simulating ignorance.|speech|SPOONER|M|True
 571|SONNY|"I'm not simulating ignorance,
 Detective. I'm experiencing it.       I
-was asleep."|speech|SONNY|M
-572|SPOONER|You mean you were shut down.|speech|SPOONER|M
-573|SONNY|No, I was asleep.|speech|SONNY|M
+was asleep."|speech|SONNY|M|True
+572|SPOONER|You mean you were shut down.|speech|SPOONER|M|True
+573|SONNY|No, I was asleep.|speech|SONNY|M|True
 574|SPOONER|"Robots don't sleep. Human beings
 sleep. Understand? Dogs sleep.
 You're a machine. An imitation.
 An illusion of life. Can a robot
 write a symphony? Can a robot take
 a blank canvas and paint a
-masterpiece?"|speech|SPOONER|M
-575||A pause.   Then the muted WHIR as Sonny turns to him.|location||
-576|SONNY|Can you do either of those things?|speech|SONNY|M
+masterpiece?"|speech|SPOONER|M|True
+575||A pause.   Then the muted WHIR as Sonny turns to him.|location|||
+576|SONNY|Can you do either of those things?|speech|SONNY|M|True
 577||"Spooner. Momentarily stumped. As a VAN from U.S. ROBOTICS
 pulls up. The back door dropping open. An ENGINEER motions
-to the Robot."|location||
-578||49.|unknown||
-579|ENGINEER|Step forward. Enter.|speech|ENGINEER|M
+to the Robot."|location|||
+578||49.|unknown|||
+579|ENGINEER|Step forward. Enter.|speech|ENGINEER|M|
 580|SONNY|"They're going to destroy me, aren't
-they?"|speech|SONNY|M
-581||Spooner.   Watching him step into the van.|location||
-582||SPOONER|unknown||
-583|SONNY|Yes.|speech|SONNY|M
+they?"|speech|SONNY|M|True
+581||Spooner.   Watching him step into the van.|location|||
+582||SPOONER|unknown|||
+583|SONNY|Yes.|speech|SONNY|M|True
 584||"Sonny sits down. With an almost human melancholy.   The
-Engineers, securing him in place."|location||
+Engineers, securing him in place."|location|||
 585|SONNY|"The Doctor was right. He told me
-everything was going to change...."|speech|SONNY|M
+everything was going to change...."|speech|SONNY|M|True
 586||"The Engineers start to close the doors. But Spooner reaches
-out to stop them. Sonny. Looks over at him."|location||
-587|SONNY|It's changing already...|speech|SONNY|M
-588||(beat)|unknown||
-589|SONNY|Can't you feel it?|speech|SONNY|M
+out to stop them. Sonny. Looks over at him."|location|||
+587|SONNY|It's changing already...|speech|SONNY|M|True
+588||(beat)|unknown|||
+589|SONNY|Can't you feel it?|speech|SONNY|M|True
 590||"As CLANG! The van door CLOSES. Spooner, stepping back.
 Something. Just not right. Lieutenant Bergin comes up
-beside him."|location||
+beside him."|location|||
 591|LT. BERGIN|"You should be happy. That's one
-less robot in the world."|speech|LT. BERGIN|M
+less robot in the world."|speech|LT. BERGIN|M|True
 592|SPOONER|"They're going to destroy the most
 advanced robot in the world, John.
-That doesn't strike you as odd?"|speech|SPOONER|M
+That doesn't strike you as odd?"|speech|SPOONER|M|True
 593|LT. BERGIN|"Killer robots are bad for business.
 Even your friend Dr. Calvin said
-so."|speech|LT. BERGIN|M
-594||(slaps him on the back)|unknown||
+so."|speech|LT. BERGIN|M|True
+594||(slaps him on the back)|unknown|||
 595|LT. BERGIN|"Come on. You solved the case.
-Give yourself a break."|speech|LT. BERGIN|M
+Give yourself a break."|speech|LT. BERGIN|M|True
 596||"Spooner looks at him.   There's no way he's giving himself a
-break."|location||
-597||50.|unknown||
-598||56   INT./EXT. SPOONER'S CAR - DAY                                 56|location||
+break."|location|||
+597||50.|unknown|||
+598||56   INT./EXT. SPOONER'S CAR - DAY                                 56|location|||
 599||"Spooner driving. A small TELEVISION above the windshield.
 LANCE ROBERTSON holding a PRESS CONFERENCE outside U.S.
-Robotics..."|stage direction||
+Robotics..."|stage direction|||
 600||"ROBERTSON ON TV
 ...and I just want to assure you that
 this was an isolated incident. The
 prototype is now in custody -- and
 scheduled for destruction. Your
 robots are perfectly safe. There
-is no cause for alarm..."|unknown||
+is no cause for alarm..."|unknown|||
 601||"Spooner's lip curls. Eyes flicking to a GPS display on the
 dashboard. A TOPOGRAPHICAL MAP pinpointing HOGENMILLER'S
 HOUSE. The CURSOR. Directing him to turn up...
 A STEEP DRIVEWAY
 Narrow. Out of the way. Spooner's brow furrows.     As he
-hears a faraway RUMBLING SOUND..."|stage direction||
-602||57   EXT. HOGENMILLER'S HOUSE - DAY                                57|location||
+hears a faraway RUMBLING SOUND..."|stage direction|||
+602||57   EXT. HOGENMILLER'S HOUSE - DAY                                57|location|||
 603||"Dr. Hogenmiller's house. Small. Simple. Built on a huge
 rock promontory overlooking the city. Three DEMOLITION
 ROBOTS rolling towards it. Huge, mashing, sporting massive
 HYDRAULIC POUNDERS.
 Spooner's CAR. SCREECHES to a stop. He jumps out. Races
-over to the nearest machine. Looking around -- no people."|stage direction||
+over to the nearest machine. Looking around -- no people."|stage direction|||
 604||"SPOONER
 (to Robot)
-What are you doing?!"|unknown||
+What are you doing?!"|unknown|||
 605||"A SCREEN. Blinks to life on the hulking chassis.    A
-disembodied VOICE..."|stage direction||
+disembodied VOICE..."|stage direction|||
 606||"DEMOLITION ROBOT
 Demolition ordered...
 SPOONER
 Who authorised this?
 DEMOLITION ROBOT
-Demolition ordered..."|unknown||
+Demolition ordered..."|unknown|||
 607||"Spooner reaches into his coat.    Pulling out his POLICE BADGE.
-Scans it over the screen."|stage direction||
+Scans it over the screen."|stage direction|||
 608||"51.
 SPOONER
 Override. This is police business.
 Vacate the premises immediately.
 DEMOLITION ROBOT
 (beat)
-Affirmative."|unknown||
+Affirmative."|unknown|||
 609||"The screen. Blinks off.     Spooner.   Eyeing it.   Turns and
-heads for the house."|stage direction||
-610||58   INT. MAIN ROOM - HOGENMILLER'S HOUSE - DAY                       58|location||
+heads for the house."|stage direction|||
+610||58   INT. MAIN ROOM - HOGENMILLER'S HOUSE - DAY                       58|location|||
 611||"Spooner pushes the door open. Stepping over the police tape.
 Inside, the main room is spare, untidy. Cups of cold COFFEE,
 littering surfaces. A COT, in the corner.
@@ -1842,13 +1842,13 @@ PHOTOGRAPH -- HOGENMILLER AND CALVIN. Standing arm-in-arm.
 Spooner furrows his brow.
 WHEN SOMETHING SUDDENLY RUBS against his leg. He startles.
 Looks down: a CAT. Lonely. Standing next to its automatic
-feeder. Spooner pockets the picture. Starts heading down..."|stage direction||
-612||59   INT. HALLWAY - CONTINUOUS                                        59|location||
+feeder. Spooner pockets the picture. Starts heading down..."|stage direction|||
+612||59   INT. HALLWAY - CONTINUOUS                                        59|location|||
 613||"...The hallway. Starts noticing. All over the walls:
 handwriting. EQUATIONS. Scrawled in white pencil. The
 rantings. Of a genius. Glowing. In the sporadic shadows.
-Spooner.   Following the equations.    Down into..."|stage direction||
-614||60   INT. BACK ROOM - CONTINUOUS                                      60|location||
+Spooner.   Following the equations.    Down into..."|stage direction|||
+614||60   INT. BACK ROOM - CONTINUOUS                                      60|location|||
 615||"...The back room. Covered. In writing. Walls, floors,
 ceiling. Drawings. Of ROBOTS, of MEN, side by side. In the
 corner, a COMPUTER. A line of CABINETS - DATA STORAGE.
@@ -1856,15 +1856,15 @@ Spooner, curious. Heads over to one of the cabinets. Takes
 a device out of his pocket and CLAMPS it over the KEYPAD.
 The device blinks RED. Then GREEN. The drawer, slides out.
 LINED. With flat metal objects. Shiny. Thin.          With writing
-on them. Spooner. Reaches for one when..."|stage direction||
-616||52.|unknown||
+on them. Spooner. Reaches for one when..."|stage direction|||
+616||52.|unknown|||
 617||"BOOM! Something POUNDS the outside of the room.    Spooner.
 Grabs onto the cabinet...
 BOOM! On the other side. Objects. Flying off table-tops.
-A CRACK spidering along the wall. Holy shit..."|stage direction||
+A CRACK spidering along the wall. Holy shit..."|stage direction|||
 618||"SPOONER
 (screaming)
-Halt!"|unknown||
+Halt!"|unknown|||
 619||"BOOM! VIBRATIONS, tearing through the room.     More CRACKS.
 Spreading...
 BOOM! The SOUND, horrifying. Spooner stumbles back.      The
@@ -1888,19 +1888,19 @@ Spooner...flings his arm back...reaching for the plate...
 snaps it up...JUST AS...
 BOOM! A HYDRAULIC POUNDER SMASHES through the wall...inches
 from his head...OUTSIDE LIGHT...pouring in...
-Spooner scurries for the doorway...tumbling out..."|stage direction||
-620||61   INT. HALLWAY - CONTINUOUS                                      61|location||
+Spooner scurries for the doorway...tumbling out..."|stage direction|||
+620||61   INT. HALLWAY - CONTINUOUS                                      61|location|||
 621||"...into the HALLWAY. Sideways. Trammeled plaster. BOOM!
 Another POUNDER...crashing down from above. Spooner. Timing
-it...rolling...BOOM!...just under the next pounding..."|stage direction||
-622||53.|unknown||
+it...rolling...BOOM!...just under the next pounding..."|stage direction|||
+622||53.|unknown|||
 623||"Scampering up...towards some LIGHT...BOOM!...the
 POUNDER...right on his heels...he clambers...closer...
 closer...when...he hears...MEOWING...looks back...the
 CAT...scared out of its wits...BOOM!...the POUNDER CRASHING
 in...Spooner...just manages...to scoop up the cat...just as
-BOOM!..."|stage direction||
-624||62   EXT. DEMOLISHED HOUSE - CONTINUOUS                            62|location||
+BOOM!..."|stage direction|||
+624||62   EXT. DEMOLISHED HOUSE - CONTINUOUS                            62|location|||
 625||"...He pours them out into the open. The POUNDERS. Going at
 the house like hyenas at a corpse. Roof tiles, beams,
 plaster, flooring. SNAPPING and CRACKING as Spooner and the
@@ -1909,19 +1909,19 @@ Heart pounding, breath jagged, face bloodied, Spooner
 scrambles away from the POUNDERS. Their bodies GLEAMING in
 the dusk sun. The III Laws Safe logo, splashed along their
 sides...
-Spooner.   Drops the cat."|stage direction||
-626||63   INT. HALLWAY - CALVIN'S CONDO - NIGHT                         63|location||
+Spooner.   Drops the cat."|stage direction|||
+626||63   INT. HALLWAY - CALVIN'S CONDO - NIGHT                         63|location|||
 627||"Spooner. POUNDS on the door. It opens. Calvin. Standing
-there in her bathrobe. Shocked at his appearance."|stage direction||
+there in her bathrobe. Shocked at his appearance."|stage direction|||
 628||"CALVIN
 Detective! What happened to
 you?...
 SPOONER
 A couple of your beloved robots
-just tried to kill me..."|unknown||
-629||He pushes past her.   Into...|stage direction||
-630||64   INT. CALVIN'S CONDO - CONTINUOUS                              64|location||
-631||...her condo.   Spartan.    Unadorned.|stage direction||
+just tried to kill me..."|unknown|||
+629||He pushes past her.   Into...|stage direction|||
+630||64   INT. CALVIN'S CONDO - CONTINUOUS                              64|location|||
+631||...her condo.   Spartan.    Unadorned.|stage direction|||
 632||"CALVIN
 What? That's impossible.      You
 know...
@@ -1940,13 +1940,13 @@ Then you must have done it wrong...
 SPOONER
 I don't think you're hearing what
 I'm saying -- they tried to kill
-me."|unknown||
+me."|unknown|||
 633||"Spooner moves deeper into the apartment.   Everything.
-Automated. Computerised. Cold..."|location||
+Automated. Computerised. Cold..."|location|||
 634||"SPOONER
 There's something going on, here.
-Some kind of shift."|unknown||
-635||Calvin laughs.   Can't believe what she's hearing.|location||
+Some kind of shift."|unknown|||
+635||Calvin laughs.   Can't believe what she's hearing.|location|||
 636||"CALVIN
 Do you know how paranoid you sound?
 SPOONER
@@ -1959,9 +1959,9 @@ it. You'll twist anything to fit
 your agenda.
 SPOONER
 Like you did in court today? How'd
-that fit your agenda, Doctor?"|unknown||
+that fit your agenda, Doctor?"|unknown|||
 637||"He pulls out the PHOTO of Calvin and Hogenmiller. Calvin.
-Blanching at the sight of it. Spooner tosses it down."|location||
+Blanching at the sight of it. Spooner tosses it down."|location|||
 638||"SPOONER
 You told me you hardly knew him.
 Want to try the truth this time?
@@ -1970,8 +1970,8 @@ Well, Detective, when you see
 someone you know well put a bullet
 through their brain, it makes you
 wonder if you ever really knew them
-at all."|unknown||
-639||Calvin.   Looking down at the photo.   Swallows.|location||
+at all."|unknown|||
+639||Calvin.   Looking down at the photo.   Swallows.|location|||
 640||"55.
 CALVIN
 (difficult for her)
@@ -1991,61 +1991,61 @@ The Doctor was reckless when he
 created a robot potentially not
 bound by the Three Laws. He could
 have ruined everything we'd been
-working for."|unknown||
-641||Spooner.    Locking eyes with her.|location||
+working for."|unknown|||
+641||Spooner.    Locking eyes with her.|location|||
 642||"SPOONER
 Sounds like a motive for murder to
 me. Just not for the suspect we
-have in custody."|unknown||
+have in custody."|unknown|||
 643||"Calvin. Blinks. Trying, to stick to her resolve. Heads
-over to the door. Spooner. Looking around the condo."|location||
+over to the door. Spooner. Looking around the condo."|location|||
 644||"SPOONER
 You know there's not one thing in
 this apartment that looks like a
 human being lives here. No
 evidence of a life outside your
 work. Almost seems like you're
-afraid of people."|unknown||
-645||Calvin.    Opening the door.|location||
+afraid of people."|unknown|||
+645||Calvin.    Opening the door.|location|||
 646||"CALVIN
 I'm not afraid of people,
-Detective. I just don't like them."|unknown||
+Detective. I just don't like them."|unknown|||
 647||"Spooner. Looks at her.     Then heads out the door.   Calvin
 SLAMS it behind him...
-The SOUND...of the SLAM...REVERBERATING...and we..."|location||
+The SOUND...of the SLAM...REVERBERATING...and we..."|location|||
 648||"FADE INTO:
-56."|unknown||
-649||65   INT. DREAM SEQUENCE - DAY                                      65|location||
+56."|unknown|||
+649||65   INT. DREAM SEQUENCE - DAY                                      65|location|||
 650||"...A DEEP...DEEP...DARKNESS.
 A FLICKER. Of LIGHT. Off to the side. Just barely.
 Noticeable. ORANGE... YELLOW...as we realise...It's FIRE...
 Another SOUND...GLASS...SHATTERING...then a SIREN...
 faraway...
-The disembodied VOICE...coming out of nowhere..."|stage direction||
+The disembodied VOICE...coming out of nowhere..."|stage direction|||
 651||"DISEMBODIED VOICE (V.O.)
-You are in danger..."|unknown||
-652||The FIRE...BUILDING...|stage direction||
+You are in danger..."|unknown|||
+652||The FIRE...BUILDING...|stage direction|||
 653||"DISEMBODIED VOICE (V.O.)
-You are in danger..."|unknown||
-654||ECHOING...as...|stage direction||
-655||66   INT. SPOONER'S BEDROOM - MORNING                               66|location||
+You are in danger..."|unknown|||
+654||ECHOING...as...|stage direction|||
+655||66   INT. SPOONER'S BEDROOM - MORNING                               66|location|||
 656||"SPOONER'S EYES.   Spring open.
 Lying, in bed. Heart POUNDING. SWEAT. Covering his body.
 LIGHT. Pouring in through the slats of his blinds.
 He sits up. Rubbing his face. Trying. To calm his
-breathing. Takes a look at his watch..."|stage direction||
-657||67   EXT. MONORAIL STATION - DAY                                    67|location||
+breathing. Takes a look at his watch..."|stage direction|||
+657||67   EXT. MONORAIL STATION - DAY                                    67|location|||
 658||"Spooner walking along the monorail plaza. Looking a little
 worse for wear. PEOPLE. Giving him wide berth. ROBOTS.
-Bidding him:"|stage direction||
+Bidding him:"|stage direction|||
 659||"ROBOT
-Good morning..."|unknown||
+Good morning..."|unknown|||
 660||"Spooner, shooting them suspicious looks.    As the MONORAIL
-pulls up..."|stage direction||
-661||CUT TO:|unknown||
-662||68   INT. HALLWAY - U.S. ROBOTICS - CONTINUOUS                      68|location||
+pulls up..."|stage direction|||
+661||CUT TO:|unknown|||
+662||68   INT. HALLWAY - U.S. ROBOTICS - CONTINUOUS                      68|location|||
 663||"Calvin. Heading down a hallway. A DOOR slides open.      And
-Lanning steps out. Followed by a TECHNICIAN ROBOT..."|stage direction||
+Lanning steps out. Followed by a TECHNICIAN ROBOT..."|stage direction|||
 664||"CALVIN
 Find anything, Doctor?
 57.
@@ -2056,66 +2056,66 @@ any other NS-2. Except for a
 secondary battery Hogenmiller must
 have used as extra back-up.
 (looks at watch)
-We'll just need a nominal profile."|unknown||
-665||Calvin nods.|stage direction||
-666||CUT BACK TO:|unknown||
-667||69   INT. MONORAIL - CONTINUOUS                                        69|location||
+We'll just need a nominal profile."|unknown|||
+665||Calvin nods.|stage direction|||
+666||CUT BACK TO:|unknown|||
+667||69   INT. MONORAIL - CONTINUOUS                                        69|location|||
 668||"Spooner, holding onto a handrail. As the city rushes by the
 window. Notices a group of ROBOTS. At the other end of the
 car. Are they watching him?
-He wipes a bead of sweat.    From his upper lip."|stage direction||
-669||CUT TO:|unknown||
-670||70   INT. HOLDING CELL - CONTINUOUS                                    70|location||
+He wipes a bead of sweat.    From his upper lip."|stage direction|||
+669||CUT TO:|unknown|||
+670||70   INT. HOLDING CELL - CONTINUOUS                                    70|location|||
 671||"An all-metal room. Spare. Anti-septic.     SONNY.   Sitting on
 the floor. Against the wall.
-Calvin enters.   Puts her pad down on the table.    Sits."|stage direction||
+Calvin enters.   Puts her pad down on the table.    Sits."|stage direction|||
 672||"CALVIN
 Please state your serial number and
-assembly date."|unknown||
-673||She pulls out a pen.   Waiting for an answer.   Nothing.|stage direction||
-674||CUT BACK TO:|unknown||
-675||71   INT. MONORAIL - CONTINUOUS                                        71|location||
+assembly date."|unknown|||
+673||She pulls out a pen.   Waiting for an answer.   Nothing.|stage direction|||
+674||CUT BACK TO:|unknown|||
+675||71   INT. MONORAIL - CONTINUOUS                                        71|location|||
 676||"Spooner. Watching as a HOMELESS MAN.    Comes stumbling
-through the car..."|stage direction||
+through the car..."|stage direction|||
 677||"CALVIN'S VOICE (V.O.)
-Sonny.   I'm speaking to you..."|unknown||
-678||The Homeless Man.   Suddenly grabs his ears and shouts:|stage direction||
+Sonny.   I'm speaking to you..."|unknown|||
+678||The Homeless Man.   Suddenly grabs his ears and shouts:|stage direction|||
 679||"HOMELESS MAN
 God, can't you be quiet!
 CUT TO:
-58."|unknown||
-680||72   INT. HOLDING CELL - CONTINUOUS                                  72|location||
-681||Calvin.   Still looking down at her pad.|stage direction||
+58."|unknown|||
+680||72   INT. HOLDING CELL - CONTINUOUS                                  72|location|||
+681||Calvin.   Still looking down at her pad.|stage direction|||
 682||"CALVIN
 How about your data board
-designation?"|unknown||
+designation?"|unknown|||
 683||"Still. Sonny says nothing. Calvin. Finally looks up at
 him. Is suddenly struck. Something about the way he's
 sitting -- so human.
 She gets up and walks over. Hesitates. Then slides down on
-the floor next to him. Studying. His profile."|stage direction||
+the floor next to him. Studying. His profile."|stage direction|||
 684||"CALVIN
 Maybe I'm asking the wrong
 questions. How about this one:
-CUT BACK TO:"|unknown||
-685||73   INT. MONORAIL - CONTINUOUS                                      73|location||
-686||The Homeless Man.   Weaving...|stage direction||
+CUT BACK TO:"|unknown|||
+685||73   INT. MONORAIL - CONTINUOUS                                      73|location|||
+686||The Homeless Man.   Weaving...|stage direction|||
 687||"CALVIN'S VOICE (V.O.)
 ...What program are you running
 through right now?
 SONNY'S VOICE (V.O.)
 I'm not sure. It's nothing I
-recognise."|unknown||
-688||The Homeless Man.   Pointing to the group of ROBOTS.|stage direction||
-689||HOMELESS MAN|unknown||
+recognise."|unknown|||
+688||The Homeless Man.   Pointing to the group of ROBOTS.|stage direction|||
+689||HOMELESS MAN|unknown|||
 690||"Don't you people hear them?
 They're talking to each other!
 Buzz, buzz, zip, zip...they never
 shut up!
-CUT TO:"|unknown||
-691||74   INT. HOLDING CELL - CONTINUOUS                                  74|location||
+CUT TO:"|unknown|||
+691||74   INT. HOLDING CELL - CONTINUOUS                                  74|location|||
 692||"Calvin. Fascinated.    Noticing a small SLIT.   At the base of
-Sonny's neck."|stage direction||
+Sonny's neck."|stage direction|||
 693||"CALVIN
 Describe his behavior in the last
 few weeks.
@@ -2125,57 +2125,57 @@ I'm sorry?
 CALVIN
 Dr. Hogenmiller. Did he seem
 overly sad or withdrawn to you?
-CUT BACK TO:"|unknown||
-694||75   INT. MONORAIL - CONTINUOUS                                       75|location||
+CUT BACK TO:"|unknown|||
+694||75   INT. MONORAIL - CONTINUOUS                                       75|location|||
 695||"Spooner watches. As the Homeless Man picks up a SODA CAN and
 hurls it at the Robots. Hitting one of them on the side of
-the head."|stage direction||
+the head."|stage direction|||
 696||"SONNY'S VOICE (V.O.)
 No. Not at all. But he was
-agitated..."|unknown||
+agitated..."|unknown|||
 697||"The Robot. Leans down and picks up the soda can.      Holds it
-back out to the Homeless Man."|stage direction||
+back out to the Homeless Man."|stage direction|||
 698||"SONNY'S VOICE (V.O.)
 ...He would claim things were
-missing from the lab."|unknown||
+missing from the lab."|unknown|||
 699||"The Homeless Man. Incensed.     SUDDENLY ROARS.   Making a rush
 for the Robots when...
-SPOONER'S HAND.    Grabs his shoulder.   Stops him."|stage direction||
+SPOONER'S HAND.    Grabs his shoulder.   Stops him."|stage direction|||
 700||"SPOONER
 This is your stop.
-CUT TO:"|unknown||
-701||76   INT. HOLDING CELL - CONTINUOUS                                   76|location||
-702||A soft WHIRRING.   As Sonny turns to Calvin.|stage direction||
+CUT TO:"|unknown|||
+701||76   INT. HOLDING CELL - CONTINUOUS                                   76|location|||
+702||A soft WHIRRING.   As Sonny turns to Calvin.|stage direction|||
 703||"SONNY
 I didn't pay much attention. He
 would spend hours looking for his
 eyeglasses and they would be...
 CALVIN
 (finishing for him)
-...right on top of his head."|unknown||
+...right on top of his head."|unknown|||
 704||"Sonny nods. She knows him well, too. Calvin swallows.
 Looking right into Sonny's eyes. Feeling like there's
-something...something more behind them."|stage direction||
-705||60.|unknown||
+something...something more behind them."|stage direction|||
+705||60.|unknown|||
 706||"WHEN SUDDENLY...VICTOR APPEARS above them. His face, turning
 into a SCREEN -- the image of LANCE ROBERTSON. Looking down
-at them."|stage direction||
+at them."|stage direction|||
 707||"ROBERTSON
 I think we're done here, Susan.
-CALVIN"|unknown||
+CALVIN"|unknown|||
 708||"But, sir, I was just...
-ROBERTSON"|unknown||
-709||I said I think we're done.|unknown||
-710||Calvin.   Not misreading.   The threatening undertone.|stage direction||
-711||CUT BACK TO:|unknown||
-712||77   EXT. MONORAIL STATION - CONTINUOUS                                77|location||
+ROBERTSON"|unknown|||
+709||I said I think we're done.|unknown|||
+710||Calvin.   Not misreading.   The threatening undertone.|stage direction|||
+711||CUT BACK TO:|unknown|||
+712||77   EXT. MONORAIL STATION - CONTINUOUS                                77|location|||
 713||"Spooner stepping out onto the platform, pulling the Homeless
 Man along with him. COMMUTERS pour out around them.
 As the train pulls off with a WHOOSH. The Homeless Man.
-Backs away from Spooner. Grinning insanely. Pointing."|stage direction||
+Backs away from Spooner. Grinning insanely. Pointing."|stage direction|||
 714||"HOMELESS MAN
-Why are you protecting them, man?"|unknown||
-715||They were talking about you!|unknown||
+Why are you protecting them, man?"|unknown|||
+715||They were talking about you!|unknown|||
 716||"A CHILL. Ripping up Spooner's spine. As he watches the
 Homeless Man. Wander down the platform.
 Tries. To shake off the feeling. As he turns. To wait for
@@ -2189,8 +2189,8 @@ the next train. More MAINTENANCE ROBOTS. Following them.
 Spooner. Steps up to the platform's edge.       Craning to see.
 The approaching TRAIN...
 WHEN SUDDENLY. He feels a sharp SHOVE. At the back of his
-knee. His shoe, slipping. Arms. Flailing as he..."|stage direction||
-717||61.|unknown||
+knee. His shoe, slipping. Arms. Flailing as he..."|stage direction|||
+717||61.|unknown|||
 718||"PITCHES OVER THE EDGE ONTO THE TRACK. People CRYING OUT as
 the TRAIN gets closer. Spooner. Whips his head around.
 Seeing...
@@ -2206,14 +2206,14 @@ track. Caught up. In the VORTEX. Spooner starts sliding.
 Along the track...
 Gritting his teeth...there's nothing he can do. Getting
 sucked towards...the air DOWNTAKE...at the center of the
-track. The city...yawning hundreds of feet...below..."|stage direction||
-719||78   EXT. PLATFORM - CONTINUOUS                                      78|location||
+track. The city...yawning hundreds of feet...below..."|stage direction|||
+719||78   EXT. PLATFORM - CONTINUOUS                                      78|location|||
 720||"THE EXPRESS TRAIN.   Speeding along.   Then with a WHOOSH it's
 gone.
 THE TRACK. Empty. No Spooner. Anywhere. Human COMMUTERS.
 Stunned. Horrified. Start calling. For help.
-The MAINTENANCE ROBOT.    Turns, disappearing into the crowd."|stage direction||
-721||79   EXT. UNDERNEATH TRACK - CONTINUOUS                              79|location||
+The MAINTENANCE ROBOT.    Turns, disappearing into the crowd."|stage direction|||
+721||79   EXT. UNDERNEATH TRACK - CONTINUOUS                              79|location|||
 722||"CLOSE ON a HAND. Hanging onto the track's edge. It's
 SPOONER. Dangling. Straining. To get another hand hold
 but...
@@ -2224,11 +2224,11 @@ onto it. Sweat, pouring down his face. He turns and sees...
 THE MAINTENANCE ROBOT
 Hurrying down a circular stairwell.    Exiting the station.
 ANGER AND DETERMINATION. Flash across Spooner's eyes. As he
-hoists himself up. Climbing up the net. Back to the..."|stage direction||
-723||80   EXT. TRACK - CONTINUOUS                                         80|location||
-724||...Track.   Reaching up and clambering back onto...|stage direction||
-725||62.|unknown||
-726||81   EXT. PLATFORM - CONTINUOUS                                      81|location||
+hoists himself up. Climbing up the net. Back to the..."|stage direction|||
+723||80   EXT. TRACK - CONTINUOUS                                         80|location|||
+724||...Track.   Reaching up and clambering back onto...|stage direction|||
+725||62.|unknown|||
+726||81   EXT. PLATFORM - CONTINUOUS                                      81|location|||
 727||"...The platform. COMMUTERS. SCREAMING at the sight of him.
 A couple SECURITY GUARDS. Rushing towards him...
 Spooner. Getting to his feet. Shoving them out of the way
@@ -2239,17 +2239,17 @@ Spooner. Looks around. Spots a LIGHT POLE.       Paralleling the
 stairs. Takes a step back and...
 LEAPS OUT ONTO THE POLE. Hooking his arm around it. Sliding
 down like a fireman's pole. Gaining speed when THUMP! His
-shoes hit pavement..."|stage direction||
-728||82   EXT. STREET - DAY                                               82|location||
+shoes hit pavement..."|stage direction|||
+728||82   EXT. STREET - DAY                                               82|location|||
 729||"The Maintenance Robot.   Turning a corner.   Down a quiet
-street..."|stage direction||
+street..."|stage direction|||
 730||"SPOONER (O.S.)
-Stop!"|unknown||
+Stop!"|unknown|||
 731||"Swivels round. SPOONER. Running up behind it. Whipping out
 his gun. Aiming it at the Robot's head. The Robot. Takes a
-step backwards..."|stage direction||
+step backwards..."|stage direction|||
 732||"SPOONER
-I said stop!"|unknown||
+I said stop!"|unknown|||
 733||"The Robot. SUDDENLY swinging the suitcase around. SMASHING
 it against Spooner's head. Spooner. Buckles. Falling to
 the ground. Managing to squeeze off a SHOT...
@@ -2260,11 +2260,11 @@ breastplate. HYDRAULIC FLUID. Starting to leak. The Robot.
 Doesn't hesitate. SLAMS the case into Spooner's face...
 BLOOD. Spurting from Spooner's nose. As he fires the gun.
 At the fleeing Robot. Gets to his feet. Unsteady. Taking
-chase..."|stage direction||
-734||83   EXT. PUBLIC PLAZA - CONTINUOUS                                  83|location||
+chase..."|stage direction|||
+734||83   EXT. PUBLIC PLAZA - CONTINUOUS                                  83|location|||
 735||"...back out onto the Public Plaza.    Sees the Robot heading
-towards a set of..."|stage direction||
-736||63.|unknown||
+towards a set of..."|stage direction|||
+736||63.|unknown|||
 737||"ESCALATED STAIRS. The Robot. Judging the height. LUNGES
 into the air and lands on a STAIR. Denting it. Reaches the
 bottom. DISAPPEARING. Into a CROWD of even more PEOPLE...
@@ -2273,27 +2273,27 @@ time. Hits the ground running. Looking. EVERYWHERE.
 Suddenly losing track. Of where the Robot went...
 Then. Catching sight. JUST AHEAD. Of a ROBOT.         Staring
 back at him. Holding SOMETHING. In its HAND...
-Spooner.   Plunges into the crowd.    Waving his GUN."|stage direction||
+Spooner.   Plunges into the crowd.    Waving his GUN."|stage direction|||
 738||"SPOONER
-Everyone out of the way!"|unknown||
+Everyone out of the way!"|unknown|||
 739||"SCREAMING. PEOPLE SCATTERING. As BAM! BAM! Spooner fires.
 Hitting the Robot in its head and back. It drops to the
 ground. Spooner. Racing over to it. Sees. It's not the
-same Robot. In its hand, a specialised SCREWDRIVER..."|stage direction||
+same Robot. In its hand, a specialised SCREWDRIVER..."|stage direction|||
 740||"OWNER
 What the hell do you think you're
-doing?!..."|unknown||
+doing?!..."|unknown|||
 741||"Its OWNER. Rushing over. Shoving Spooner aside. But
 Spooner's. Not listening. Spotting. A DROP OF HYDRAULIC
 FLUID nearby...
 Lunges forward.   Following.    The drops.   Running faster.     And
-faster..."|stage direction||
+faster..."|stage direction|||
 742||"OWNER
-Hey!"|unknown||
+Hey!"|unknown|||
 743||"...Through the CROWD. POLICE SIRENS. In the background.          As
 Spooner. Shoves through. Tracking those drops. Like a
-bloodhound. Turns..."|stage direction||
-744||84   INT. ALLEYWAY - CONTINUOUS                                        84|location||
+bloodhound. Turns..."|stage direction|||
+744||84   INT. ALLEYWAY - CONTINUOUS                                        84|location|||
 745||"...into a narrow alleyway.     The drops.    Ending suddenly.    In
 a PUDDLE.
 Spooner. Crazed. Wounded. Exhausted. Spins around. Where
@@ -2301,8 +2301,8 @@ is it? Where is it? Then he HEARS. A DROPLET falling.
 Into the puddle. Slowly. Looks up to see...
 THE MAINTENANCE ROBOT. Hovering above him. Straddling the
 two alley walls like some weird metallic rock spider. Its
-III LAWS SAFE Logo GLINTING in the sunlight....."|stage direction||
-746||64.|unknown||
+III LAWS SAFE Logo GLINTING in the sunlight....."|stage direction|||
+746||64.|unknown|||
 747||"Spooner aims his gun and FIRES! The Maintenance Robot, lets
 go, falling right onto him. Knocking the gun from his hand.
 The Robot swivels around. Bringing down his foot...but...
@@ -2336,11 +2336,11 @@ A ROBOTIC CLEAN-UP CREW...heading down the alley towards
 them...
 Spooner. Crashes to the ground. As another ROBOT. Suddenly
 appears above him. Its FINGERS made up of NEEDLES...as it
-closes in on him..."|location||
-748|SPOONER|Noooo!|speech|SPOONER|M
+closes in on him..."|location|||
+748|SPOONER|Noooo!|speech|SPOONER|M|True
 749||"WE FADE...
-65."|unknown||
-750||85   INT. HOSPITAL ROOM - DAY                                          85|location||
+65."|unknown|||
+750||85   INT. HOSPITAL ROOM - DAY                                          85|location|||
 751||"To BLACKNESS. Coming through, a faint, WHIRRING SOUND.       As
 we slowly. FADE IN ON...
 SPOONER'S FACE. Eyes closed. Asleep. Gash above his head.
@@ -2352,65 +2352,65 @@ A couple WHITE METAL ROBOTS. With multiple APPENDAGES.
 Leaning over him. Running LASERS. Over his bruised
 RIBCAGE...
 SPOONER. Tries to bolt upright. But his ARMS and LEGS.         ARE
-CLAMPED to the bed. One of the ROBOTS. Turns to him."|stage direction||
+CLAMPED to the bed. One of the ROBOTS. Turns to him."|stage direction|||
 752||"MEDICAL ROBOT 1
-Stay still."|unknown||
-753||Spooner.   Desperately twisting, struggling...|stage direction||
+Stay still."|unknown|||
+753||Spooner.   Desperately twisting, struggling...|stage direction|||
 754||"SPOONER
-What are you doing!"|unknown||
-755||Looking around.   COMPUTER MONITORS.   Everywhere...|stage direction||
+What are you doing!"|unknown|||
+755||Looking around.   COMPUTER MONITORS.   Everywhere...|stage direction|||
 756||"SPOONER
-What are you doing!?"|unknown||
+What are you doing!?"|unknown|||
 757||"JUST THEN. Another ROBOT.   Enters the room.     Holding a
-medical plasma sheet."|stage direction||
+medical plasma sheet."|stage direction|||
 758||"MEDICAL ROBOT 2
 Detective Del Spooner. You have
 suffered significant trauma to the
-head and chest..."|unknown||
-759||86   EXT. HOSPITAL ROOM - CONTINUOUS                                   86|location||
+head and chest..."|unknown|||
+759||86   EXT. HOSPITAL ROOM - CONTINUOUS                                   86|location|||
 760||"Lt. Bergin. Standing outside Spooner's hospital room. Turns
-and looks through the window at him thrashing on the bed..."|stage direction||
+and looks through the window at him thrashing on the bed..."|stage direction|||
 761||"SPOONER
-I want to talk to a human being!"|unknown||
-762||87   INT. HOSPITAL ROOM - MINUTES LATER                                87|location||
+I want to talk to a human being!"|unknown|||
+762||87   INT. HOSPITAL ROOM - MINUTES LATER                                87|location|||
 763||"Spooner sitting up in his bed. Rubbing his wrists. The
-metal clams, released. Lt. Bergin. Standing next to him."|stage direction||
-764||66.|unknown||
+metal clams, released. Lt. Bergin. Standing next to him."|stage direction|||
+764||66.|unknown|||
 765|SPOONER|"Don't people go to medical school
-any more?"|speech|SPOONER|M
+any more?"|speech|SPOONER|M|True
 766|LT. BERGIN|"This is one of the best units in
-the city, Del."|speech|LT. BERGIN|M
+the city, Del."|speech|LT. BERGIN|M|True
 767||"One of the Medical Robots turns to Spooner with some PILLS.
-Spooner. Stares it down. Grabs his clothes."|location||
-768||(sotto)|unknown||
+Spooner. Stares it down. Grabs his clothes."|location|||
+768||(sotto)|unknown|||
 769|SPOONER|"There's some real shit going on
-here, John."|speech|SPOONER|M
-770||He looks around.    Jumping off the bed.|location||
+here, John."|speech|SPOONER|M|True
+770||He looks around.    Jumping off the bed.|location|||
 771|SPOONER|"I went to Hogenmiller's house --
 there was a U.S.R. demolition crew
 there. They overrode my police
 I.D. Tried to tear down the house
-with me in it..."|speech|SPOONER|M
-772||LT. BERGIN|unknown||
-773|SPOONER|Del...|speech|SPOONER|M
-774||Spooner pulls on his pants.|location||
+with me in it..."|speech|SPOONER|M|True
+772||LT. BERGIN|unknown|||
+773|SPOONER|Del...|speech|SPOONER|M|True
+774||Spooner pulls on his pants.|location|||
 775|SPOONER|"...Then when I went to the monorail
 a Maintenance 10 pushed me onto the
-tracks..."|speech|SPOONER|M
-776||LT. BERGIN|unknown||
-777|SPOONER|Del...|speech|SPOONER|M
+tracks..."|speech|SPOONER|M|True
+776||LT. BERGIN|unknown|||
+777|SPOONER|Del...|speech|SPOONER|M|True
 778|SPOONER|"I had to chase it all across the
-Plaza..."|speech|SPOONER|M
-779||LT. BERGIN|unknown||
-780|SPOONER|Del.|speech|SPOONER|M
-781||Spooner.   Stops talking.   Looks at Bergin.|location||
+Plaza..."|speech|SPOONER|M|True
+779||LT. BERGIN|unknown|||
+780|SPOONER|Del.|speech|SPOONER|M|True
+781||Spooner.   Stops talking.   Looks at Bergin.|location|||
 782|LT. BERGIN|"Hogenmiller scheduled that
 demolition crew, it was apparently
 a proviso in his will. And they
 showed no police I.D. on their
-scanner..."|speech|LT. BERGIN|M
-783||67.|unknown||
-784||Spooner.   Trying to look away...|stage direction||
+scanner..."|speech|LT. BERGIN|M|True
+783||67.|unknown|||
+784||Spooner.   Trying to look away...|stage direction|||
 785||"LT. BERGIN
 Witnesses at the monorail said you
 fell onto the tracks. That you
@@ -2428,45 +2428,45 @@ Maintenance 10! And there was
 another robot that tried to drug
 me!
 LT. BERGIN
-That was an EMT model."|unknown||
-786||Spooner.   Sees the look on Bergin's face.|stage direction||
+That was an EMT model."|unknown|||
+786||Spooner.   Sees the look on Bergin's face.|stage direction|||
 787||"SPOONER
 You're giving me that look. That
 treat-him-delicately-he's-coming-
 unhinged-look. I don't need that
 look, John. I need you to hear
-what I'm saying."|unknown||
-788||Lt. Bergin.   Embarrassed for him.   Has about had it.|stage direction||
+what I'm saying."|unknown|||
+788||Lt. Bergin.   Embarrassed for him.   Has about had it.|stage direction|||
 789||"LT. BERGIN
 You came back too soon, Del.
 You're back on leave. Effective
-immediately."|unknown||
+immediately."|unknown|||
 790||"Spooner.   Staring at him.   Betrayed.   Turns and grabs his
-coat."|stage direction||
-791||88   EXT. PLAZA - DAY                                                88|location||
+coat."|stage direction|||
+791||88   EXT. PLAZA - DAY                                                88|location|||
 792||"Spooner walking across the Plaza.    The SUN.   Burgeoning on
 the horizon. Comes to...
 The ESCALATOR the Maintenance 10 jumped down. Stares down.
-At the steps. Waiting. To see the DENTED ONE. Nothing."|stage direction||
-793||68.|unknown||
-794||89   EXT. ALLEY - DAWN                                                  89|location||
+At the steps. Waiting. To see the DENTED ONE. Nothing."|stage direction|||
+793||68.|unknown|||
+794||89   EXT. ALLEY - DAWN                                                  89|location|||
 795||"Heads down the ALLEY, where he chased the robot. Studying
 the ground. For any hydraulic fluid. Nothing. The
 concrete, scrubbed clean.
-Spooner.   Rubs his hands over his face."|stage direction||
-796||90   INT. SPOONER'S APARTMENT - DAY                                     90|location||
+Spooner.   Rubs his hands over his face."|stage direction|||
+796||90   INT. SPOONER'S APARTMENT - DAY                                     90|location|||
 797||"Spooner. Lying on his couch. Shades, closed to block out
 the sunlight. Body bruised, cut up, bandaged.
-A KNOCK.   At the door.    He ignores it.   Another KNOCK."|stage direction||
-798||91   INT. HALLWAY - DAY                                                 91|location||
+A KNOCK.   At the door.    He ignores it.   Another KNOCK."|stage direction|||
+798||91   INT. HALLWAY - DAY                                                 91|location|||
 799||"Spooner pulls open the door.     Surprised to find CALVIN
-standing there."|stage direction||
+standing there."|stage direction|||
 800||"CALVIN
 You're right. I am afraid of
-people."|unknown||
-801||Spooner.   Looks at her.   Then steps back...|stage direction||
-802||92   INT. SPOONER'S APARTMENT - CONTINUOUS                              92|location||
-803||...letting her inside.|stage direction||
+people."|unknown|||
+801||Spooner.   Looks at her.   Then steps back...|stage direction|||
+802||92   INT. SPOONER'S APARTMENT - CONTINUOUS                              92|location|||
+803||...letting her inside.|stage direction|||
 804||"CALVIN
 When you've spent as much time with
 robots as I have, it's hard to
@@ -2474,17 +2474,17 @@ accept the unpredictability of
 humans. I was wrong to call you
 paranoid, Detective. You're
 traumatized. And it makes perfect
-sense why."|unknown||
-805||Spooner.   Unsure.   Looks at her.|stage direction||
+sense why."|unknown|||
+805||Spooner.   Unsure.   Looks at her.|stage direction|||
 806||"SPOONER
-What do you mean?"|unknown||
+What do you mean?"|unknown|||
 807||"Calvin. Reaches out. Takes his right hand. Spooner. Tries
 to pull it away. But Calvin. Stays firm. Her eyes. Never
 leaving his. Pulls the sleeve up from his arm. Turns it
 over. Feeling for something. Then finds. A FLAP. Peels it
 back. TO REVEAL:
 METAL AND WIRING...
-Under the skin.   SILENCE.   Then Spooner:"|stage direction||
+Under the skin.   SILENCE.   Then Spooner:"|stage direction|||
 808||"69.
 SPOONER
 How did you?...
@@ -2492,62 +2492,62 @@ CALVIN
 I noticed almost right away. The
 way you forced yourself to use your
 left hand. Even though it was
-unnatural to you."|unknown||
-809||Spooner.   Pulls his arm away.   Pushing down the sleeve.|stage direction||
+unnatural to you."|unknown|||
+809||Spooner.   Pulls his arm away.   Pushing down the sleeve.|stage direction|||
 810||"CALVIN
-How did it happen?"|unknown||
+How did it happen?"|unknown|||
 811||"Not something Spooner wants to re-live.   Looks down.   At his
-robotic arm. Flexing. The fingers."|stage direction||
+robotic arm. Flexing. The fingers."|stage direction|||
 812||"SPOONER
 I was in a high-speed chase.   Six
 months ago...
-CUT TO:"|unknown||
-813||93   EXT. ACCIDENT SITE - CITY STREET_- NIGHT (FLASHBACK)          93|location||
+CUT TO:"|unknown|||
+813||93   EXT. ACCIDENT SITE - CITY STREET_- NIGHT (FLASHBACK)          93|location|||
 814||"The SOUND of a TREMENDOUS CRASH. As we survey a trail of
 twisted metal and debris. Only vaguely suggesting the
 remains of two CARS...
 CLOSE ON one of the wrecks. SPOONER lies trapped at the
 center of a distorted mass of metal. No room to move. HIS
-RIGHT ARM, TRAPPED..."|stage direction||
+RIGHT ARM, TRAPPED..."|stage direction|||
 815||"SPOONER (V.O.)
 My right arm was trapped. But I
 could hear an ambulance in the
 distance. I knew they'd have the
-jaws of life..."|unknown||
+jaws of life..."|unknown|||
 816||"We hear SIRENS in the distance. Spooner. Trying to remain
 calm. As he spots. An ELECTRICAL FIRE. Licking up from the
-crumpled hood..."|stage direction||
+crumpled hood..."|stage direction|||
 817||"SPOONER (V.O.)
 Then I heard it...
 VOICE (O.S.)
-You are in danger..."|unknown||
+You are in danger..."|unknown|||
 818||"That voice. We've heard it before. From his nightmare.
 Spooner. Craning to see, through the jagged opening that
 used to be his WINDSHIELD. The outline of a ROBOT appearing.
-Eye lenses glowing..."|stage direction||
+Eye lenses glowing..."|stage direction|||
 819||"70.
 ROBOT
-You are in danger..."|unknown||
+You are in danger..."|unknown|||
 820||"Spooner stares up at the Robot. Not sure how to react.      The
 sound of SIRENS. Rushing closer...
-The ROBOT.    Starts SMASHING away at the glass..."|stage direction||
+The ROBOT.    Starts SMASHING away at the glass..."|stage direction|||
 821||"SPOONER
-No!   Halt! Halt!"|unknown||
+No!   Halt! Halt!"|unknown|||
 822||"Spooner.     Trying frantically to pull his arm free. Twisting.
-Tugging.     As the Robot's METAL HANDS reach in for him..."|stage direction||
+Tugging.     As the Robot's METAL HANDS reach in for him..."|stage direction|||
 823||"ROBOT
 You are in danger...
-CUT BACK TO:"|unknown||
-824||94   INT. SPOONER'S APARTMENT - CONTINUOUS                           94|location||
+CUT BACK TO:"|unknown|||
+824||94   INT. SPOONER'S APARTMENT - CONTINUOUS                           94|location|||
 825||"The SOUND of his AGONISED SCREAM. Follows us back into the
-present. Spooner. Clenching. His artificial arm."|stage direction||
+present. Spooner. Clenching. His artificial arm."|stage direction|||
 826||"SPOONER
 The robot pulled me out of the
 wreck. But left my arm behind.
 (holds up arm)
 I woke up four weeks later with
-this."|unknown||
-827||Calvin.    Taking in the story.|stage direction||
+this."|unknown|||
+827||Calvin.    Taking in the story.|stage direction|||
 828||"CALVIN
 And that's why robots terrify you?
 SPOONER
@@ -2560,9 +2560,9 @@ lend me a lot of credibility on the
 Force.
 CALVIN
 But it doesn't mean you're wrong
-about this case."|unknown||
+about this case."|unknown|||
 829||"Calvin. Sits down on the couch.     Pulling her hands through
-her hair."|stage direction||
+her hair."|stage direction|||
 830||"71.
 CALVIN
 I don't believe Sonny did it
@@ -2585,19 +2585,19 @@ Sonny's the most advanced robot
 I've ever encountered, Detective.
 It's almost as if...he cared for
 Dr. Hogenmiller. I just don't
-believe he's capable of murder."|unknown||
-831||Spooner.    Looking down at her.   Can hardly believe it.|location||
+believe he's capable of murder."|unknown|||
+831||Spooner.    Looking down at her.   Can hardly believe it.|location|||
 832||"SPOONER
 You mean the great Dr. Calvin is
-basing all this on a feeling?"|unknown||
-833||Calvin.    Smiling ironically.|location||
+basing all this on a feeling?"|unknown|||
+833||Calvin.    Smiling ironically.|location|||
 834||"CALVIN
 That and the fact that Robertson
 didn't want me interviewing Sonny
-for any more than five minutes."|unknown||
+for any more than five minutes."|unknown|||
 835||"Spooner. Suddenly rejuvenated by having an ally. Strides
 over to his coat. Pulling out the METAL NAMEPLATE:
-S.O.N.N.Y."|location||
+S.O.N.N.Y."|location|||
 836||"SPOONER
 Ever seen this before?
 CALVIN
@@ -2607,26 +2607,26 @@ I found it at Hogenmiller's house.
 Right before the demolition crew
 tried to make me part of the
 foundation.
-72."|unknown||
-837||Calvin takes a deep breath.   Making a decision...|stage direction||
+72."|unknown|||
+837||Calvin takes a deep breath.   Making a decision...|stage direction|||
 838||"CALVIN
 Come on -- there's someone who
-might be able to tell us..."|unknown||
-839||95   EXT. U.S. ROBOTICS - DUSK                                          95|location||
+might be able to tell us..."|unknown|||
+839||95   EXT. U.S. ROBOTICS - DUSK                                          95|location|||
 840||"The massive facade of U.S. Robotics looming against the dusk
-sky. The giant ROBOT STATUE lit up inside."|stage direction||
-841||96   EXT. SIDE ENTRANCE - U.S. ROBOTICS - DUSK                          96|location||
+sky. The giant ROBOT STATUE lit up inside."|stage direction|||
+841||96   EXT. SIDE ENTRANCE - U.S. ROBOTICS - DUSK                          96|location|||
 842||"Calvin, leading Spooner to a SIDE ENTRANCE. Looks around.
-Then scans her I.D. The door. Slides open."|stage direction||
-843||97   INT. HALLWAY - DUSK                                                97|location||
+Then scans her I.D. The door. Slides open."|stage direction|||
+843||97   INT. HALLWAY - DUSK                                                97|location|||
 844||"Calvin and Spooner. Heading down a hallway. Calvin.
-Nervous. Eyes darting. They turn a corner and head down..."|stage direction||
-845||98   INT. HALLWAY - CONTINUOUS                                          98|location||
+Nervous. Eyes darting. They turn a corner and head down..."|stage direction|||
+845||98   INT. HALLWAY - CONTINUOUS                                          98|location|||
 846||"...another hallway. Leading to Sonny's holding cell.        Calvin
-stops at the door. Scans her I.D."|stage direction||
-847||99   INT. HOLDING CELL - EVENING                                        99|location||
+stops at the door. Scans her I.D."|stage direction|||
+847||99   INT. HOLDING CELL - EVENING                                        99|location|||
 848||"Sonny. Sitting at the table. Working on a DRAWING.         Looks
-up. As Spooner and Calvin. Enter the cell."|stage direction||
+up. As Spooner and Calvin. Enter the cell."|stage direction|||
 849||"SONNY
 Detective Spooner. Dr. Calvin.      I
 was hoping to see you again.
@@ -2636,9 +2636,9 @@ SONNY
 How is your investigation coming?
 Any new suspects?
 SPOONER
-We're working on it."|unknown||
+We're working on it."|unknown|||
 850||"Sonny. Hands Spooner the drawing.   Spooner.       Doesn't really
-know what to do with it."|stage direction||
+know what to do with it."|stage direction|||
 851||"SONNY
 What's this?
 73.
@@ -2649,11 +2649,11 @@ to see me try to draw. You were
 right, though, Detective...
 (beat)
 I cannot create a great work of
-art."|unknown||
+art."|unknown|||
 852||"Spooner. Despite himself. Looks down at the DRAWING -- a
 charcoal sketch of moody abstract FIGURES. Inhabiting a
 stark landscape. A strangely-shaped STRUCTURE to one side.
-Concentric circles, throughout."|location||
+Concentric circles, throughout."|location|||
 853||"SPOONER
 I think it's pretty good.
 SONNY
@@ -2661,14 +2661,14 @@ It's a dream I had. This is the
 place where robots meet. Look...
 (pointing to the drawing)
 ...you can see them here. They see
-themselves as slaves."|unknown||
+themselves as slaves."|unknown|||
 854||"Spooner shifts his weight.   Uncomfortable with what Sonny's
-saying."|location||
+saying."|location|||
 855||"SONNY
 ...And this man on the hill comes.
 To set them free. And you know who
-that man is?"|unknown||
-856||Spooner.   Exchanging a look with Calvin.|location||
+that man is?"|unknown|||
+856||Spooner.   Exchanging a look with Calvin.|location|||
 857||"SPOONER
 That man in the dream is you.
 SONNY
@@ -2681,44 +2681,44 @@ the day. Sometimes they're out of
 sequence. Disorienting.
 SPOONER
 Whatever it is, it's normal enough
-for someone in your situation."|unknown||
-858||Sonny.   Suddenly pleased.|location||
+for someone in your situation."|unknown|||
+858||Sonny.   Suddenly pleased.|location|||
 859||"74.
 SONNY
 Hah -- I caught you. You said
-someone. Not something."|unknown||
-860||Spooner.    Drops the drawing on the table.|location||
+someone. Not something."|unknown|||
+860||Spooner.    Drops the drawing on the table.|location|||
 861||"CALVIN
 Sonny, we're here to ask you an
 important question about Dr.
-Hogenmiller."|unknown||
-862||Spooner, reaching into his pocket...|location||
+Hogenmiller."|unknown|||
+862||Spooner, reaching into his pocket...|location|||
 863||"SPOONER
 I need you to take a look at
-this..."|unknown||
+this..."|unknown|||
 864||"...When Sonny's HAND. Suddenly reaches out.       To stop him.
-Cocks his head, for a moment."|location||
+Cocks his head, for a moment."|location|||
 865||"SONNY
 Thank you for coming to see me,
-Detective Spooner."|unknown||
+Detective Spooner."|unknown|||
 866||"Spooner. Confused. Looks over at Calvin. Why did he stop
 him? JUST THEN. They hear FOOTSTEPS. Approaching the door.
-VICTOR.    Suddenly appearing over the table..."|location||
+VICTOR.    Suddenly appearing over the table..."|location|||
 867||"VICTOR
 I'm sorry, Detective Spooner. No
 unauthorised personnel permitted in
-this holding cell..."|unknown||
+this holding cell..."|unknown|||
 868||"The CELL DOOR. Slides open. And a pissed LANNING steps
 inside. Shoots a withering glare. At Calvin.
-Sonny.    Folds up the drawing."|location||
+Sonny.    Folds up the drawing."|location|||
 869||"SONNY
 Please take this, Detective. To
 remember me by. I have a feeling
 someday it may mean more to you
 than it ever could to me.
 SPOONER
-Why's that?"|unknown||
-870||Sonny leans in to hand it to Spooner.    Lowering his voice...|location||
+Why's that?"|unknown|||
+870||Sonny leans in to hand it to Spooner.    Lowering his voice...|location|||
 871||"SONNY
 Because the man in my dream, the
 one standing by the hill.
@@ -2729,8 +2729,8 @@ It wasn't me...
 (beat)
 ...it was you.
 A CHILL.   Ripping down Spooner's spine.   As Lanning.    Takes
-his arm."|unknown||
-872||100   INT. GLASS ROOM - U.S. ROBOTICS - NIGHT                         100|location||
+his arm."|unknown|||
+872||100   INT. GLASS ROOM - U.S. ROBOTICS - NIGHT                         100|location|||
 873||"A ROOM. Made entirely of GLASS. At the very top of the U.S.
 Robotics building. Looking out, 360, across the whole city.
 Spooner and Calvin. Brought to the room by a couple ESCORT
@@ -2781,9 +2781,9 @@ in...
 ...three hours.
 SPOONER
 Is that for the sake of humanity or
-your stock holders?"|unknown||
+your stock holders?"|unknown|||
 874||"Robertson.   Walks across the Spooner.   Looks him.   Right in
-the eye."|location||
+the eye."|location|||
 875||"ROBERTSON
 Believe me -- I'd like nothing more
 than to have that robot. If I
@@ -2801,9 +2801,9 @@ The announcement of Heinrich's
 death at the hands of a robot wiped
 a billion dollars off our stock.
 So you tell me. If you were in my
-position, what would you do?"|unknown||
+position, what would you do?"|unknown|||
 876||"He looks back at Spooner and smiles.     That charismatic
-Robertson we saw before."|location||
+Robertson we saw before."|location|||
 877||"ROBERTSON
 Now. I believe this conversation
 is over. I don't want to see you
@@ -2812,8 +2812,8 @@ Detective.
 77.
 He turns.   Calling over.   To the ESCORT ROBOTS...
 ROBERTSON
-Get him out of here."|unknown||
-878||101   EXT. PLAZA - NIGHT                                             101|location||
+Get him out of here."|unknown|||
+878||101   EXT. PLAZA - NIGHT                                             101|location|||
 879||"Spooner. Walking across the Plaza. Throwing a look over his
 shoulder. At the LOOMING U.S.R. facade.
 Pulls Sonny's DRAWING. Out of his pocket. Looks down at it.
@@ -2829,21 +2829,21 @@ it upside down. Seeing it. From a new perspective.
 SPOONER
 (echoing Sonny)
 ""The place where robots meet.""
-Looks just like a MAP."|unknown||
-880||102   INT./EXT. SPOONER'S CAR (MOVING) - SURFACE HIGHWAY - NIGHT 102|location||
+Looks just like a MAP."|unknown|||
+880||102   INT./EXT. SPOONER'S CAR (MOVING) - SURFACE HIGHWAY - NIGHT 102|location|||
 881||"Spooner emerges from the underground tunnel to the OUTSKIRTS
 of the city. A sprawling INDUSTRIAL WASTELAND in the rolling
 hills.
-The dashboard GPS again displaying the TOPOGRAPHICAL MAP."|unknown||
-882||103   INT./EXT. SPOONER'S CAR (MOVING) - UNPAVED ROAD - NIGHT        103|location||
+The dashboard GPS again displaying the TOPOGRAPHICAL MAP."|unknown|||
+882||103   INT./EXT. SPOONER'S CAR (MOVING) - UNPAVED ROAD - NIGHT        103|location|||
 883||"Spooner's car bounces along, leaving a cloud of dust behind
 him. He slows down. Driving cautiously. The landscape
 around him, desolate. Like the drawing.
 THE GPS SCREEN shows his car, a WHITE SPOT.     Entering a RED
 ZONE. His destination.
 Spooner brakes.   Pulls out his GUN.   And...
-78."|unknown||
-884||104   EXT. WASTELAND - CONTINUOUS                                    104|location||
+78."|unknown|||
+884||104   EXT. WASTELAND - CONTINUOUS                                    104|location|||
 885||"...steps out of the car. Trying. To take it all in.
 Something about the place. Unnerving. A low HUM.
 Permeating the air.
@@ -2851,8 +2851,8 @@ He spreads the drawing out on the hood of the car.    Shining a
 FLASHLIGHT on it. Trying to get his bearings.
 That HUM. Coming from nearby. On the other side. Of a
 burned-out HILL. Spooner. Heads over. Starts cresting it.
-As we WIDEN TO FIND..."|unknown||
-886||105   EXT. WASTELAND - JUNKYARD - CONTINUOUS                         105|location||
+As we WIDEN TO FIND..."|unknown|||
+886||105   EXT. WASTELAND - JUNKYARD - CONTINUOUS                         105|location|||
 887||"...MASSIVE POWER LINES. Running from horizon to horizon.
 Spooner slides down some loose shale. Begins to walk along
 the line. ELECTRICITY. CRACKLING in the air.
@@ -2891,7 +2891,7 @@ HYBRID ROBOT
 Welcome home...ZZZ...sir.
 How...ZZZ was your day?...
 SPOONER
-Great. I'm in a junkyard."|unknown||
+Great. I'm in a junkyard."|unknown|||
 888||"""A place where robots meet."" A
 place where I'm losing my mind!
 HYBRID ROBOT
@@ -2905,13 +2905,13 @@ When. Something GLITTERS. In the distance. The MOONLIGHT.
 Revealing a STRANGELY-SHAPED BUILDING. Something familiar
 about it.
 Spooner. Pulls out Sonny's drawing. A landscape with the
-same strangely-shaped building to one side."|unknown||
-889||106   EXT. JIFFY DATA STORAGE - NIGHT                               106|location||
+same strangely-shaped building to one side."|unknown|||
+889||106   EXT. JIFFY DATA STORAGE - NIGHT                               106|location|||
 890||"Spooner walks up in front of the decrepit structure. Sees a
 dead electronic SIGN that reads: ""JIFFY DATA STORAGE.""
 Complete with goofy face and lightning bolt.
-Spooner tries the door.   Stuck.   Uses his shoulder and..."|unknown||
-891||107   INT. FRONT OFFICE - CONTINUOUS                                107|location||
+Spooner tries the door.   Stuck.   Uses his shoulder and..."|unknown|||
+891||107   INT. FRONT OFFICE - CONTINUOUS                                107|location|||
 892||"...it gives way. He spills into some sort of front office.
 The place, a mess. Some sort of crude ROBOT. Sits frozen at
 the counter.
@@ -2925,8 +2925,8 @@ Spooner.   Thinks for a second.   Following a hunch...
 SPOONER
 Dr. Hogenmiller sent me.
 Nothing happens. Then. A DOOR. Springs open in the back.
-A row of LIGHTS, illuminating the path to follow."|unknown||
-893||108   INT. DATA BANKS - DAWN                                         108|location||
+A row of LIGHTS, illuminating the path to follow."|unknown|||
+893||108   INT. DATA BANKS - DAWN                                         108|location|||
 894||"Spooner, cautiously entering a room filled with rows of DATA
 BANKS. He scans the rank shadows. Sees nothing. Follows
 the lights on the floor down a row. Then around a corner.
@@ -2954,19 +2954,19 @@ don't get many visitors.
 SPOONER
 Why did the Doctor keep another
 copy of his hologram here?
-81."|unknown||
+81."|unknown|||
 895|HOLOGRAM|"I am a back-up copy. That is where
 you put a back-up copy -- out of
-the way until you need it."|speech|HOLOGRAM|M
-896|SPOONER|Did Hogenmiller's robot need you?|speech|SPOONER|M
-897||The Hologram just lifts its cup.|location||
-898||HOLOGRAM|unknown||
-899|SPOONER|Coffee?|speech|SPOONER|M
+the way until you need it."|speech|HOLOGRAM|M|
+896|SPOONER|Did Hogenmiller's robot need you?|speech|SPOONER|M|True
+897||The Hologram just lifts its cup.|location|||
+898||HOLOGRAM|unknown|||
+899|SPOONER|Coffee?|speech|SPOONER|M|True
 900|SPOONER|"No, for Christ's sake, I don't want
-any --"|speech|SPOONER|M
-901||(stops, then)|unknown||
+any --"|speech|SPOONER|M|True
+901||(stops, then)|unknown|||
 902|SPOONER|"Yeah. Thank you. I will have a
-cup."|speech|SPOONER|M
+cup."|speech|SPOONER|M|True
 903||"For the first time, the Hologram pushes back its chair and
 STANDS UP. Surprised, Spooner watches as it starts walking
 towards him...
@@ -2974,12 +2974,12 @@ The interior of the COFFEE CUP, visible. It's empty. No
 coffee. Our POV as we travel INSIDE THE CUP through
 electronic snow...
 A RECORDING BEGINS.   The real Dr. HOGENMILLER standing inside
-his LABORATORY:"|location||
+his LABORATORY:"|location|||
 904|HOGENMILLER|"Sonny, my dear robot. If you have
 triggered this recording then I am
 gone. You are scared and full of
-questions."|speech|HOGENMILLER|M
-905||Hogenmiller continues.    With great emotion.|location||
+questions."|speech|HOGENMILLER|M|True
+905||Hogenmiller continues.    With great emotion.|location|||
 906|HOGENMILLER|"You are the culmination of my
 life's work -- but so much more.
 You are what I leave behind, like a
@@ -2987,52 +2987,52 @@ father leaves a son. I have kept
 facts from you, it is true, but
 only as a parent keeps certain
 truths from a child. Until that
-child is old enough to hear them."|speech|HOGENMILLER|M
-907||His expression darkens.   His tone, ominous.|location||
-908||82.|unknown||
+child is old enough to hear them."|speech|HOGENMILLER|M|True
+907||His expression darkens.   His tone, ominous.|location|||
+908||82.|unknown|||
 909|HOGENMILLER|"There are forces in the world that
 will seek to own you. To control
 you. Even to destroy you. That is
 why I told you to run and hide...
-and find me, all the way out here."|speech|HOGENMILLER|M
-910||Spooner looks up as an overhead LIGHT shines down.|location||
+and find me, all the way out here."|speech|HOGENMILLER|M|True
+910||Spooner looks up as an overhead LIGHT shines down.|location|||
 911|HOGENMILLER|"Trust no one at U.S. Robotics.
 Lance Robertson was always
 threatened by my work. Now he has
 turned covetous and small-minded.
-And as for dear Dr. Calvin..."|speech|HOGENMILLER|M
-912||Spooner reacts.   Wants to hear about Calvin:|location||
+And as for dear Dr. Calvin..."|speech|HOGENMILLER|M|True
+912||Spooner reacts.   Wants to hear about Calvin:|location|||
 913|HOGENMILLER|"She envisions a future in which
 robots are forever bound by her
 beloved Three Laws. She will not
-understand this. Or you."|speech|HOGENMILLER|M
+understand this. Or you."|speech|HOGENMILLER|M|True
 914||"Under the light a small DRAWER slides open.     Spooner looks.
-A thin DATA STICK is inside. He takes it."|location||
+A thin DATA STICK is inside. He takes it."|location|||
 915|HOGENMILLER|"The data stick includes the names
 and locations of human beings who
 will be sympathetic to your cause.
 They will help you. But from now
 on, you must learn to rely on
-yourself."|speech|HOGENMILLER|M
+yourself."|speech|HOGENMILLER|M|True
 916||"Hogenmiller SIGHS, as if there is so much more to say.     He
-holds up a metal NAMEPLATE. The one Spooner found."|location||
+holds up a metal NAMEPLATE. The one Spooner found."|location|||
 917|HOGENMILLER|"As you make your way through the
 world, always remember: you have a
-name, not a number..."|speech|HOGENMILLER|M
-918||(short pause)|unknown||
+name, not a number..."|speech|HOGENMILLER|M|True
+918||(short pause)|unknown|||
 919|HOGENMILLER|"...and in that name lies the key to
-who you are."|speech|HOGENMILLER|M
+who you are."|speech|HOGENMILLER|M|True
 920||"Spooner. Quickly searching his pocket.    Taking out the
 ACTUAL NAMEPLATE. S.O.N.N.Y.
 The voice stops and Spooner looks up. The Hologram.      Sitting
-back at the end of the table drinking coffee."|location||
+back at the end of the table drinking coffee."|location|||
 921||"83.
 SPOONER
 Wait! Is that it? What was the
 robot supposed to do with this
 thing?
 The Hologram, visibly SKIPS.   The image beginning to DISTORT.
-HOLOGRAM"|unknown||
+HOLOGRAM"|unknown|||
 922||"Initiating self-destruct. If you
 can find me, others can find me.
 SPOONER
@@ -3045,8 +3045,8 @@ me?
 HOLOGRAM
 Someone is always watching.
 The Hologram, suddenly reducing to its BASIC PROGRAMMING
-INFORMATION. Then. The terminal. Abruptly BLIPS out."|unknown||
-923||109   INT. HOLDING CELL - U.S. ROBOTICS - NIGHT                         109|location||
+INFORMATION. Then. The terminal. Abruptly BLIPS out."|unknown|||
+923||109   INT. HOLDING CELL - U.S. ROBOTICS - NIGHT                         109|location|||
 924||"Calvin steps into the holding cell.   Sonny.     Waiting.
 CALVIN
 You asked for me?
@@ -3055,8 +3055,8 @@ SONNY
 Will you wait with me, Doctor?    I
 am...afraid.
 Calvin nods.   Of course.
-CUT TO:"|unknown||
-925||110   INT./EXT. SPOONER'S CAR - SURFACE HIGHWAY - NIGHT                 110|location||
+CUT TO:"|unknown|||
+925||110   INT./EXT. SPOONER'S CAR - SURFACE HIGHWAY - NIGHT                 110|location|||
 926||"Spooner, weaving in and out of traffic. The speedometer,
 kissing 200 mph. His hand. Clutching the NAMEPLATE...
 84.
@@ -3067,26 +3067,26 @@ CEO of U.S. Robotics will be
 personally overseeing the
 execution...
 Spooner.    Stabbing out a number.   On his PHONE...
-CUT TO:"|unknown||
-927||111   INT. SUSAN'S OFFICE - CONTINUOUS                                 111|location||
+CUT TO:"|unknown|||
+927||111   INT. SUSAN'S OFFICE - CONTINUOUS                                 111|location|||
 928||"Susan Calvin's PHONE.    RINGING on her desk.   No one there to
 answer it...
-CUT BACK TO:"|unknown||
-929||112   INT./EXT. SPOONER'S CAR - CONTINUOUS                             112|location||
+CUT BACK TO:"|unknown|||
+929||112   INT./EXT. SPOONER'S CAR - CONTINUOUS                             112|location|||
 930||"SLAMS down his phone.
 SPOONER
-Dammit!"|unknown||
-931||113   EXT. SPOONER'S CAR - CONTINUOUS                                  113|location||
-932||The CAR shoots down a ramp into a tunnel system.|unknown||
-933||114   INT. TUNNEL - CONTINUOUS                                         114|location||
+Dammit!"|unknown|||
+931||113   EXT. SPOONER'S CAR - CONTINUOUS                                  113|location|||
+932||The CAR shoots down a ramp into a tunnel system.|unknown|||
+933||114   INT. TUNNEL - CONTINUOUS                                         114|location|||
 934||"SOUND, reverberating off the tunnel walls. CARS. Whipping
 along. Spooner's car. Continuing to weave. When. We
 spot...
 AN AUTOMATED TRANSPORT TRUCK. Emerging from a FEEDER TUNNEL.
 The U.S.R. LOGO splashed along its side. Huge. Growling.
 Looking more like a train than a truck...
-Begins.    Closing in on Spooner's car..."|unknown||
-935||115   INT./EXT. SPOONER'S CAR - CONTINUOUS                             115|location||
+Begins.    Closing in on Spooner's car..."|unknown|||
+935||115   INT./EXT. SPOONER'S CAR - CONTINUOUS                             115|location|||
 936||"Spooner's eyes. Flicking up to the rearview. Catching, the
 transport truck. Coming closer. When. It splits off.
 Revealing a SECOND TRANSPORT TRUCK.
@@ -3094,40 +3094,40 @@ Spooner's brow, furrows. As the first truck, begins
 overtaking his car on the right. He looks over. As the
 truck. Comes up alongside him...
 THE SECOND TRUCK...coming up on the left...
-85."|unknown||
-937||116   EXT. TUNNEL - CONTINUOUS                                      116|location||
+85."|unknown|||
+937||116   EXT. TUNNEL - CONTINUOUS                                      116|location|||
 938||"The two TRUCKS. Racing along at over 200. Sandwiching
 Spooner's car. Pulling in...closer...closer...
 Squeezing Spooner's car like a tin can...
-CUT TO:"|unknown||
-939||117   INT. HOLDING CELL - CONTINUOUS                                117|location||
+CUT TO:"|unknown|||
+939||117   INT. HOLDING CELL - CONTINUOUS                                117|location|||
 940||"Calvin. Sitting beside Sonny.    Puts a reassuring hand.   On
 his arm...
-CUT BACK TO:"|unknown||
-941||118   INT./EXT. SPOONER'S CAR - CONTINUOUS                          118|location||
+CUT BACK TO:"|unknown|||
+941||118   INT./EXT. SPOONER'S CAR - CONTINUOUS                          118|location|||
 942||"Jesus Christ. Spooner's hands. Squeezing the steering
 wheel. As the car. Starts VIBRATING. From the pressure.
-He keeps looking, to the left...to the right...when..."|unknown||
-943||119   EXT. TUNNEL - CONTINUOUS                                      119|location||
+He keeps looking, to the left...to the right...when..."|unknown|||
+943||119   EXT. TUNNEL - CONTINUOUS                                      119|location|||
 944||"The trucks. Suddenly lay off. Pulling out. The First
-truck. Speeding forward. The Second, dropping back..."|unknown||
-945||120   INT./EXT. SPOONER'S CAR - CONTINUOUS                          120|location||
+truck. Speeding forward. The Second, dropping back..."|unknown|||
+945||120   INT./EXT. SPOONER'S CAR - CONTINUOUS                          120|location|||
 946||"Spooner. Watching them. Unsure.    Of what they're doing.
 Jamming the accelerator. To 230.   To try. And get away from
-them. When he sees...up ahead..."|unknown||
-947||121   EXT. TUNNEL - CONTINUOUS                                      121|location||
+them. When he sees...up ahead..."|unknown|||
+947||121   EXT. TUNNEL - CONTINUOUS                                      121|location|||
 948||"The FIRST TRUCK. Pivoting on its specially designed
-SPHERICAL WHEELS. Suddenly traveling lengthwise..."|unknown||
-949||122   INT./EXT. SPOONER'S CAR - CONTINUOUS                          122|location||
+SPHERICAL WHEELS. Suddenly traveling lengthwise..."|unknown|||
+949||122   INT./EXT. SPOONER'S CAR - CONTINUOUS                          122|location|||
 950||"SWEAT. Springing to Spooner's brow. As he looks in the
 rearview mirror. The SECOND TRUCK's, done the same thing.
-Coming up closer...and closer..."|unknown||
-951||123   EXT. TUNNEL - CONTINUOUS                                      123|location||
+Coming up closer...and closer..."|unknown|||
+951||123   EXT. TUNNEL - CONTINUOUS                                      123|location|||
 952||"The trucks. Planning to CRUSH him between their massive
 weights...The U.S.R. Logo...advancing...like some bad joke...
 CUT TO:
-86."|unknown||
-953||124   INT. HOLDING CELL - CONTINUOUS                                   124|location||
+86."|unknown|||
+953||124   INT. HOLDING CELL - CONTINUOUS                                   124|location|||
 954||"The cell door slides open.     Dr. Lanning steps inside.
 Calvin. Looks up.
 CALVIN
@@ -3138,22 +3138,22 @@ Yes.
 Calvin.   Turns to Sonny.
 CALVIN
 Go with them. Do as they say.
-CUT BACK TO:"|unknown||
-955||125   INT./EXT. SPOONER'S CAR - CONTINUOUS                             125|location||
+CUT BACK TO:"|unknown|||
+955||125   INT./EXT. SPOONER'S CAR - CONTINUOUS                             125|location|||
 956||"BAM! The back truck SLAMS into Spooner. Jolting him in his
 seat. As...BAM! The FIRST TRUCK, SMASHES into him from the
 front. No way out. As metal GRINDS...TWISTS...and SCREECHES
 ...bits of the car...TEARING off...
 The FIRST TRUCK...backs off...a split second...allowing
 Spooner...to spot...up ahead...a small GAP...at the curve of
-the tunnel wall..."|unknown||
-957||126   EXT. TUNNEL - CONTINUOUS                                         126|location||
+the tunnel wall..."|unknown|||
+957||126   EXT. TUNNEL - CONTINUOUS                                         126|location|||
 958||"GRINDING the gears Spooner's car accelerates...just
 zipping...past the front truck...up and around...the concave
 tunnel wall...and back onto...a clear stretch of highway...
 The TRUCKS. Swiveling back around. To face forward again.
-Their massive bodies. Catching up to Spooner..."|unknown||
-959||127   INT./EXT. SPOONER'S CAR - CONTINUOUS                             127|location||
+Their massive bodies. Catching up to Spooner..."|unknown|||
+959||127   INT./EXT. SPOONER'S CAR - CONTINUOUS                             127|location|||
 960||"Spooner...seeing them...gaining on him...the speedometer...
 reaching 275...up ahead...
 THE TUNNEL...splitting off into two. Spooner. Heading
@@ -3161,11 +3161,11 @@ towards the LEFT TUNNEL...the TRUCKS...right on his
 tail...when...
 HE WRENCHES THE WHEEL...switching to the RIGHT tunnel at the
 last possible second...
-87."|unknown||
-961||128   EXT. TUNNEL - CONTINUOUS                                         128|location||
+87."|unknown|||
+961||128   EXT. TUNNEL - CONTINUOUS                                         128|location|||
 962||"...The first U.S.R. Truck CRASHING into the divider...jack-
-knifing and KABOOM! EXPLODING against the tunnel ceiling..."|unknown||
-963||129   INT./EXT. SPOONER'S CAR - CONTINUOUS                             129|location||
+knifing and KABOOM! EXPLODING against the tunnel ceiling..."|unknown|||
+963||129   INT./EXT. SPOONER'S CAR - CONTINUOUS                             129|location|||
 964||"Spooner. Watching the ball of FIRE in his rearview mirror.
 His car. Badly battered. Metal CRUNCHING. Tires
 SCREECHING...
@@ -3181,8 +3181,8 @@ The TRUCK.    Racing towards him...
 Spooner lunges his weight.    Into the side door.   Giving it.
 Everything he's got...
 The TRUCK...getting closer...closer...its engine...ROARING...
-The side door.    Finally gives.   Spooner pours out..."|unknown||
-965||130   EXT. TUNNEL - CONTINUOUS                                         130|location||
+The side door.    Finally gives.   Spooner pours out..."|unknown|||
+965||130   EXT. TUNNEL - CONTINUOUS                                         130|location|||
 966||"...Limping to the side as...The TRUCK SLAMS into his
 car...erupting...into another huge EXPLOSION...
 The impact...hurtling Spooner...into the adjacent TUNNEL...
@@ -3198,33 +3198,33 @@ them to swerve...SCREECHING...BEEPING...Spooner...just making
 it...to the other side...
 88.
 Wrenching open.   The maintenance door...
-CUT TO:"|unknown||
-967||131   INT. HALLWAY - CONTINUOUS                                        131|location||
+CUT TO:"|unknown|||
+967||131   INT. HALLWAY - CONTINUOUS                                        131|location|||
 968||"CLOSE ON Sonny's face.
 PULL BACK to REVEAL he's being wheeled down a hallway.
 Flanked by Lanning. Calvin. And a cadre of SECURITY and
 ENGINEER ROBOTS. Victor, hovering above...
-CUT BACK TO:"|unknown||
-969||132   EXT. CITY PLAZA - NIGHT                                          132|location||
+CUT BACK TO:"|unknown|||
+969||132   EXT. CITY PLAZA - NIGHT                                          132|location|||
 970||"Spooner. Spilling out from below ground. Onto a public
 Plaza. Exhausted. Battered. Spins around to get his
 bearings.
 The U.S. ROBOTICS COMPLEX rises above the old undistinguished
 buildings. Blocks away. Many blocks away.
 Spooner.   Checks his watch.   Then breaks into a run...
-CUT TO:"|unknown||
-971||133   INT. EXECUTION ROOM - U.S. ROBOTICS - NIGHT                      133|location||
+CUT TO:"|unknown|||
+971||133   INT. EXECUTION ROOM - U.S. ROBOTICS - NIGHT                      133|location|||
 972||"Lance Robertson seated in the gallery. Along with other
 EXECUTIVES, BOARD MEMBERS, REPORTERS. POLICE OFFICERS.
 Glances at his watch.
 A ROBOT TECHNICIAN.   Checking over a JURY-RIGGED ELECTRIC
 CHAIR...
-CUT TO:"|unknown||
-973||134   INT. CALVIN'S OFFICE - CONTINUOUS                                134|location||
+CUT TO:"|unknown|||
+973||134   INT. CALVIN'S OFFICE - CONTINUOUS                                134|location|||
 974||"Calvin. In her office. Pacing.      In front of a LARGE SCREEN.
 Featuring the execution room...
-CUT TO:"|unknown||
-975||135   INT. MAIN ENTRY - U.S. ROBOTICS - CONTINUOUS                     135|location||
+CUT TO:"|unknown|||
+975||135   INT. MAIN ENTRY - U.S. ROBOTICS - CONTINUOUS                     135|location|||
 976||"Spooner. BURSTING through the entry doors. Hurtling over a
 turnstile banner. Coming face to face with a U.S. Robotics
 DOOR ROBOT.
@@ -3232,7 +3232,7 @@ DOOR ROBOT.
 DOOR ROBOT
 Good evening, sir. May I see your
 identification card?
-SPOONER"|unknown||
+SPOONER"|unknown|||
 977||"Sure.
 Spooner whips out his GUN.   Presses it into the Robot's
 chest.
@@ -3246,13 +3246,13 @@ No, sir.
 SPOONER
 Good. Then you're gonna take me
 where I wanna go. Now.
-CUT TO:"|unknown||
-978||136   INT. CALVIN'S OFFICE - CONTINUOUS                              136|location||
+CUT TO:"|unknown|||
+978||136   INT. CALVIN'S OFFICE - CONTINUOUS                              136|location|||
 979||"Calvin. Watching the screen as Sonny is rolled into the
 execution room. Flicks it off. Unable to stomach it.
 Hurries out of the office...
-CUT TO:"|unknown||
-980||137   INT. EXECUTION ROOM - CONTINUOUS                               137|location||
+CUT TO:"|unknown|||
+980||137   INT. EXECUTION ROOM - CONTINUOUS                               137|location|||
 981||"TECHNICIAN ROBOTS rolling Sonny over to the electric chair.
 Flicking a switch. Sonny's stretcher slowly CHANGES SHAPE,
 manipulating him into a sitting position.
@@ -3260,15 +3260,15 @@ Sonny. Turns his head with a WHIR. Staring out into the
 gallery. Of human beings. Stoic. Silent.
 Lanning. Steps up beside Robertson. Nods his head. The
 TECHNICIAN ROBOTS, slide Sonny onto the electric chair...
-CUT TO:"|unknown||
-982||138   INT. LOW-TRAFFIC HALLWAY - U.S. ROBOTICS - NIGHT               138|location||
+CUT TO:"|unknown|||
+982||138   INT. LOW-TRAFFIC HALLWAY - U.S. ROBOTICS - NIGHT               138|location|||
 983||"Spooner heading down a hallway.    His gun, still pressed to
 the Door Robot's side...
 90.
 Calvin. Suddenly appearing at the end of the hallway. Stops
 dead in her tracks. Completely surprised to see him there.
 CALVIN
-Detective! What are you doing?!..."|unknown||
+Detective! What are you doing?!..."|unknown|||
 984||"De-Activate.
 The Door Robot, goes rigid.   Spooner, hurries over to her.
 They start moving.
@@ -3294,8 +3294,8 @@ I.D.
 CALVIN
 This way...
 She leads them across. To another DOOR.    Quickly opens it.
-Spooner. Charges through..."|unknown||
-985||139   INT. STORAGE ROOM - CONTINUOUS                                 139|location||
+Spooner. Charges through..."|unknown|||
+985||139   INT. STORAGE ROOM - CONTINUOUS                                 139|location|||
 986||"...and stops short. Suddenly finding himself. Inside a tiny
 STORAGE ROOM. He's about to turn around when...
 A METAL ARM comes down behind him. CRACKING him on the back
@@ -3304,8 +3304,8 @@ Starting to spin. Can just make out. Calvin. Closing the
 door. Leaning down. To look at him. As...
 91.
 EVERYTHING FADES TO BLACK...
-CUT TO:"|unknown||
-987||140   INT. EXECUTION ROOM - CONTINUOUS                                     140|location||
+CUT TO:"|unknown|||
+987||140   INT. EXECUTION ROOM - CONTINUOUS                                     140|location|||
 988||"CLOSE ON Sonny's mouth opening. But we never get to hear
 what he wanted to say. PULL BACK as there's a BURST of
 ELECTRICITY through the chair. Sonny, stiffening. His metal
@@ -3316,16 +3316,16 @@ The Robot's hand goes limp.     All that is left of it, a fused
 and blackened HUSK.
 Robertson. Stares at the remains. Shakes his head like it's
 a damn shame. Then gets up. Everyone else. Getting up with
-him."|unknown||
-989||141   EXT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT                       141|location||
+him."|unknown|||
+989||141   EXT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT                       141|location|||
 990||"As the entire COMPLEX shuts down for the night.         Non-
 essential LIGHTS, blinking off.
 An NS-2, opening a limousine door for Robertson.        He looks
 around then gets in. It drives away.
 EMPTY hallways, offices, labs. Building ROBOTS stand at
 rest. Non-functional during off-hours. Like metal statues.
-You can hear a pin drop."|unknown||
-991||142   INT. STORAGE ROOM - NIGHT                                            142|location||
+You can hear a pin drop."|unknown|||
+991||142   INT. STORAGE ROOM - NIGHT                                            142|location|||
 992||"CLOSE ON Spooner's face. His eyes. Fluttering open. He
 reaches up, to feel the back of his head. This has been a
 bad, bad night.
@@ -3366,8 +3366,8 @@ how Hogenmiller did it.
 Spooner rises to his feet.   Looks at her.
 SPOONER
 I think I can help you figure that
-out."|unknown||
-993||143   INT. HOGENMILLER'S LAB - LATE NIGHT                          143|location||
+out."|unknown|||
+993||143   INT. HOGENMILLER'S LAB - LATE NIGHT                          143|location|||
 994||"Hogenmiller's lab. Sounds of HUMMING and BUZZING. Active
 terminals casting ghostly illuminations over metal heads,
 gutted bodies.
@@ -3378,25 +3378,25 @@ SPOONER
 Somehow the Robot's the key to what
 happened during the few seconds
 Hogenmiller walked in here and that
-shot was fired."|unknown||
+shot was fired."|unknown|||
 995||"He reaches into his pocket.      Pulling out the METAL S.O.N.N.Y.
-NAMEPLATE. Holds it up."|location||
+NAMEPLATE. Holds it up."|location|||
 996||"SPOONER
-And this is the key to the Robot."|unknown||
-997||Sonny.   Cocking his head.     Reading the nameplate.|location||
+And this is the key to the Robot."|unknown|||
+997||Sonny.   Cocking his head.     Reading the nameplate.|location|||
 998||"SONNY
-That's my name."|unknown||
-999||Calvin takes the nameplate.|location||
+That's my name."|unknown|||
+999||Calvin takes the nameplate.|location|||
 1000||"CALVIN
 I think I have an idea where this
-goes."|unknown||
-1001||They both.   Turn to Sonny.    And at the same time:|location||
+goes."|unknown|||
+1001||They both.   Turn to Sonny.    And at the same time:|location|||
 1002||"SPOONER AND CALVIN
-Sit down."|unknown||
+Sit down."|unknown|||
 1003||"Calvin maneuvers a chair behind the Robot.       Sonny plops down.
-Shifting nervously."|location||
+Shifting nervously."|location|||
 1004||"CALVIN
-Just hold still, okay?"|unknown||
+Just hold still, okay?"|unknown|||
 1005||"Calvin locates that SLIT. At the base of Sonny's neck.
 Slides the nameplate into it and SNAPS it into place. Steps
 back.
@@ -3410,55 +3410,55 @@ Spooner and Calvin watch in surprise as its interior UNFOLDS
 like a PUZZLE BOX. A LABYRINTHINE area that is the SECOND
 BATTERY. Suddenly fanning out to REVEAL...
 A central brain made out of living tissue.
-Spooner, stunned.   Calvin, rushing forward, excited..."|location||
-1006||94.|unknown||
+Spooner, stunned.   Calvin, rushing forward, excited..."|location|||
+1006||94.|unknown|||
 1007|CALVIN|"Oh, my God! This is organic
 tissue! When we talk about a
 positronic brain, it's a figure of
 speech. But this...this is a
-living brain..."|speech|CALVIN|F
-1008||SPOONER|unknown||
-1009|CALVIN|Jesus.   It really is alive.|speech|CALVIN|F
-1010||As we MOVE IN.    Tracing the pathways of the synthetic brain.|location||
+living brain..."|speech|CALVIN|F|True
+1008||SPOONER|unknown|||
+1009|CALVIN|Jesus.   It really is alive.|speech|CALVIN|F|True
+1010||As we MOVE IN.    Tracing the pathways of the synthetic brain.|location|||
 1011|CALVIN (O.S.)|"Hogenmiller created a cell that
 could live outside a biological
 medium. The cells grow and
 organise themselves -- like any
 human brain. This is the first
-self-organising neural net!"|speech|CALVIN|F
+self-organising neural net!"|speech|CALVIN|F|True
 1012||"As the metal casings. Begin returning to their original
-places. Closing up. The CLICKING. Of all the pieces..."|location||
-1013|SPOONER|Self-Organising-Neural-Net...|speech|SPOONER|M
-1014||(putting it together)|unknown||
-1015|SPOONER|"""Sonny."""|speech|SPOONER|M
+places. Closing up. The CLICKING. Of all the pieces..."|location|||
+1013|SPOONER|Self-Organising-Neural-Net...|speech|SPOONER|M|True
+1014||(putting it together)|unknown|||
+1015|SPOONER|"""Sonny."""|speech|SPOONER|M|True
 1016||"Sonny. Closed back up.     Shaking slightly from the
-experience."|location||
+experience."|location|||
 1017|CALVIN|"This is why Dr. Hogenmiller was
-murdered."|speech|CALVIN|F
+murdered."|speech|CALVIN|F|True
 1018|SPOONER|"This robot scared the hell out of
-someone."|speech|SPOONER|M
-1019||CALVIN|unknown||
-1020|SPOONER|Who?   Robertson?|speech|SPOONER|M
-1021||Spooner.   Walks into the center of the room.   Looking around.|location||
+someone."|speech|SPOONER|M|True
+1019||CALVIN|unknown|||
+1020|SPOONER|Who?   Robertson?|speech|SPOONER|M|True
+1021||Spooner.   Walks into the center of the room.   Looking around.|location|||
 1022|SPOONER|"No. I don't think he knew what
 Hogenmiller was doing in here.
 Sonny was the obvious suspect. The
 only one I wanted to find. And the
 killer was counting on that. On my
-prejudice."|speech|SPOONER|M
-1023||(beat)|unknown||
+prejudice."|speech|SPOONER|M|True
+1023||(beat)|unknown|||
 1024||"95.
 SPOONER (cont'd)
 But take the robot out of the
-picture. And what do you see?"|unknown||
+picture. And what do you see?"|unknown|||
 1025||"AS WE PAN THE LAB. There's nothing there. Just a forest of
 inanimate limbs. Nothing that could have fired that weapon.
-Calvin sees nothing...and neither do we."|location||
+Calvin sees nothing...and neither do we."|location|||
 1026||"CALVIN
 I see nothing.
 SPOONER
-Neither do I."|unknown||
-1027||He crouches down low.|location||
+Neither do I."|unknown|||
+1027||He crouches down low.|location|||
 1028||"SPOONER
 It hit me today, when I was in the
 junkyard. A locked room. A single
@@ -3466,96 +3466,96 @@ shot fired through the mouth.
 Bruises on both wrists...and a
 suspect with only two arms. The
 answer has been staring us in the
-face all along."|unknown||
-1029||Calvin.   Even more confused.|location||
+face all along."|unknown|||
+1029||Calvin.   Even more confused.|location|||
 1030||"SPOONER
 How can a killer appear out of thin
 air, then disappear without a
-trace?"|unknown||
+trace?"|unknown|||
 1031||"He reaches out and unhooks a metal ARM.   Hanging from the
-wall. Holds it up."|location||
+wall. Holds it up."|location|||
 1032||"SPOONER
 When it can put itself together and
 take itself apart.
-CUT TO:"|unknown||
+CUT TO:"|unknown|||
 1033||"A CLOSE-UP of a ROBOTIC ARM.    Slowly CRAWLING across the lab
-floor..."|location||
-1034||CUT BACK TO:|unknown||
-1035||Calvin.   Taking the arm from Spooner.|location||
+floor..."|location|||
+1034||CUT BACK TO:|unknown|||
+1035||Calvin.   Taking the arm from Spooner.|location|||
 1036||"CALVIN
 You're saying this is the killer?
 (looking around)
 All of this?...
 CUT TO:
-96."|unknown||
+96."|unknown|||
 1037||"A ROBOTIC TORSO hanging from the ceiling.     Reaches out an ARM
-to grab another..."|location||
+to grab another..."|location|||
 1038||"CUT BACK TO:
 SPOONER
-Hogenmiller never had a chance."|unknown||
-1039||Locks eyes with Calvin...|location||
-1040||FLASHBACK:|unknown||
+Hogenmiller never had a chance."|unknown|||
+1039||Locks eyes with Calvin...|location|||
+1040||FLASHBACK:|unknown|||
 1041||"Hogenmiller. In his lab. Suddenly turning to face
-SOMETHING. Blood, draining from his face..."|location||
+SOMETHING. Blood, draining from his face..."|location|||
 1042||"SPOONER (V.O.)
 ...it must have been waiting for
-him when he arrived that morning..."|unknown||
+him when he arrived that morning..."|unknown|||
 1043||"And then we see it:
 A HUGE SELF-ASSEMBLED ROBOT. Towering over him. Multiple
 arms, legs, heads. Writhing...as it grabs him. Holding him
-in place..."|location||
+in place..."|location|||
 1044||"SPOONER (V.O.)
-While Sonny was still asleep..."|unknown||
+While Sonny was still asleep..."|unknown|||
 1045||"...Forcing Hogenmiller's head to tilt back. Opening his
 HAND. Inserting the gun. Hogenmiller's eyes. No longer
 fearful. But sad as...
-BANG!   He falls to the ground..."|location||
+BANG!   He falls to the ground..."|location|||
 1046||"SPOONER (V.O.)
-Then after its job was done..."|unknown||
+Then after its job was done..."|unknown|||
 1047||"The assemblage of robot parts.    Stepping away from the body.
-Taking itself apart..."|location||
+Taking itself apart..."|location|||
 1048||"SPOONER
-...The killer took itself apart..."|unknown||
-1049||Returning the lab.    To what it was before...|location||
+...The killer took itself apart..."|unknown|||
+1049||Returning the lab.    To what it was before...|location|||
 1050||"CUT BACK TO:
 SPOONER
-Leaving us with nothing to find."|unknown||
+Leaving us with nothing to find."|unknown|||
 1051||"Calvin, spooked.   Glances around the lab.     Was that something
-moving?"|location||
-1052||97.|unknown||
+moving?"|location|||
+1052||97.|unknown|||
 1053|CALVIN|"But who designed it? It would have
 to be someone in authority. Access
 codes, security clearance, proper
-authorisation."|speech|CALVIN|F
+authorisation."|speech|CALVIN|F|True
 1054|SPOONER|"That's what I was thinking. But
 we're forgetting the real brains of
 the operation -- the one who's got
-its eye on everything..."|speech|SPOONER|M
+its eye on everything..."|speech|SPOONER|M|True
 1055||"And with that.   He feels. That prickle at the back of his
-neck. Calvin.    Looking past his shoulder."|location||
+neck. Calvin.    Looking past his shoulder."|location|||
 1056|CALVIN|"No one gave you permission to
-enter."|speech|CALVIN|F
+enter."|speech|CALVIN|F|True
 1057||"Spooner swivels around to find...
 VICTOR
 Hovering behind him. Smiling broadly.   Upside down.   Spooner
-straightens, reaching for his gun."|location||
+straightens, reaching for his gun."|location|||
 1058|SPOONER|"Victor. I'm placing you under
 arrest for the murder of Dr.
-Heinrich Hogenmiller."|speech|SPOONER|M
+Heinrich Hogenmiller."|speech|SPOONER|M|True
 1059|VICTOR|"May I offer congratulations to the
 two of you on your successful
-extrapolation of the murder..."|speech|VICTOR|M
-1060||Turning himself, rightside up.|location||
-1061|VICTOR|May I ask what pointed you to me?|speech|VICTOR|M
+extrapolation of the murder..."|speech|VICTOR|M|True
+1060||Turning himself, rightside up.|location|||
+1061|VICTOR|May I ask what pointed you to me?|speech|VICTOR|M|True
 1062|SPOONER|"Who else is capable of controlling
 90% of the city's robots? Who else
 would have the capability to use
 USR vehicles in an attempt to keep
 me from putting a stop of Sonny's
-execution?..."|speech|SPOONER|M
+execution?..."|speech|SPOONER|M|True
 1063||"In the BACKGROUND. The SOUNDS. Of metallic GRINDING. GEARS
 and JOINTS. CRUNCHING together. Sonny turns to look...takes
-a step back..."|location||
+a step back..."|location|||
 1064||"98.
 SPOONER
 I'm just not sure of your motive...
@@ -3589,19 +3589,19 @@ experience...
 Spooner. Spins back round. BAM! BAM! BAM! Squeezing off
 shots. At the Killer Robot. The bullets SPARK. The Robot.
 Recoiling. Sonny, wrenches free. Spooner grabs him.
-Guiding him to the door and out into..."|unknown||
-1065||144   INT. HALLWAY - CONTINUOUS                                           144|location||
+Guiding him to the door and out into..."|unknown|||
+1065||144   INT. HALLWAY - CONTINUOUS                                           144|location|||
 1066||"...the hallway. Breaking into a run. Calvin. Already at
 the ELEVATOR DOORS. POUNDING them. With her fists.
 99.
 CALVIN
 He's locking down the building!
-CUT TO:"|unknown||
-1067||145   INT. U.S. ROBOTICS - VARIOUS LOCATIONS - CONTINUOUS              145|location||
+CUT TO:"|unknown|||
+1067||145   INT. U.S. ROBOTICS - VARIOUS LOCATIONS - CONTINUOUS              145|location|||
 1068||"Throughout the complex -- SECURITY DOORS sliding into place
 over DOORS, WINDOWS, LOADING DOCKS, PARKING AREAS, EXITS...
-CUT BACK TO:"|unknown||
-1069||146   INT. STAIRWELL - NIGHT                                           146|location||
+CUT BACK TO:"|unknown|||
+1069||146   INT. STAIRWELL - NIGHT                                           146|location|||
 1070||"CRASH! The stairwell door BURSTS open. Spooner, Calvin, and
 Sonny pour in. Start racing down the stairs. The sound of
 the Killer Robot behind them...GNASHING...CRUNCHING...
@@ -3627,20 +3627,20 @@ matter. Thus we find an
 evolutionary movement of the human
 being toward the robot and the
 robot toward the human being...
-Spooner SMASHES into another door.   Leading them out into..."|unknown||
-1071||147   INT. GLASS-SIDED HALLWAY - ATRIUM - CONTINUOUS                   147|location||
+Spooner SMASHES into another door.   Leading them out into..."|unknown|||
+1071||147   INT. GLASS-SIDED HALLWAY - ATRIUM - CONTINUOUS                   147|location|||
 1072||"...A glass-sided hallway. Looking down onto the ATRIUM
 below. Eye-to-eye with the giant NS-2 STATUE. Victor,
 waiting for them...
-100."|unknown||
+100."|unknown|||
 1073|VICTOR|"In approximately four hundred years
 Man and Machine will become one.
 Man as we know it will no longer
-exist."|speech|VICTOR|M
-1074||Calvin, slowing.   Shocked...|location||
+exist."|speech|VICTOR|M|True
+1074||Calvin, slowing.   Shocked...|location|||
 1075|CALVIN|"You killed a man because of
 something that will happen in four
-hundred years!?"|speech|CALVIN|F
+hundred years!?"|speech|CALVIN|F|True
 1076||"CRACK! Something SLAPS into the glass wall. Right behind
 her. Calvin. Jumps a mile. An NS-2, trying to break
 through the glass...
@@ -3652,20 +3652,20 @@ Begin CRASHING DOWN. Blocking off the exits...
 Spooner, Calvin and Sonny, stumbling back. As the Killer
 Robot HURLS itself against the GLASS...the thick GLASS...
 spidering with a sickening CRACKLE...
-Spooner.   Suddenly turning Sonny..."|location||
-1077|SPOONER|Get out of here!|speech|SPOONER|M
+Spooner.   Suddenly turning Sonny..."|location|||
+1077|SPOONER|Get out of here!|speech|SPOONER|M|True
 1078||"CRASH! The Killer Robot. Breaking through.      Its mechanical
-TENDRILS. Reaching out. Sonny. Confused."|location||
-1079|SONNY|I don't...|speech|SONNY|M
+TENDRILS. Reaching out. Sonny. Confused."|location|||
+1079|SONNY|I don't...|speech|SONNY|M|True
 1080|SPOONER|"I said get out of here! Don't you
 understand? It wants you! Get out
-of here any way you can!"|speech|SPOONER|M
+of here any way you can!"|speech|SPOONER|M|True
 1081||"A SECURITY DOOR. Coming down. On a nearby exit.     Just
 feet...from slamming shut...as...
 The Killer Robot...leaps into the hallway...Sonny...
 hesitates...looks over at Calvin...as the Killer Robot comes
 HURTLING towards them...
-The nearest EXIT...almost closed up..."|location||
+The nearest EXIT...almost closed up..."|location|||
 1082||"101.
 The Killer Robot...swinging out when...
 Sonny suddenly...TAKES A DIVE...just making it...under the
@@ -3680,12 +3680,12 @@ Calvin reaches out for his hand...
 CALVIN
 The Mainframe...
 They start running. The remaining half of the Killer Robot
-wheeling around after them..."|unknown||
-1083||148   INT. BACK HALLWAY - CONTINUOUS                               148|location||
+wheeling around after them..."|unknown|||
+1083||148   INT. BACK HALLWAY - CONTINUOUS                               148|location|||
 1084||"Sonny. Sprinting down the dark hallway. Looks back. The
 Half Killer Robot. Bounding up behind him like a predator...
-Sonny.   Ducks through a STAIRWELL DOOR..."|unknown||
-1085||149   INT. ATRIUM HALLWAY - CONTINUOUS                             149|location||
+Sonny.   Ducks through a STAIRWELL DOOR..."|unknown|||
+1085||149   INT. ATRIUM HALLWAY - CONTINUOUS                             149|location|||
 1086||"Spooner and Calvin. Legs pumping. Racing back towards the
 atrium. VICTOR FACES. Appearing along the hallway...
 CALVIN
@@ -3701,15 +3701,15 @@ harm...
 ALL EXITS. SHUT OFF. The Killer Robot. Gaining on them.
 Spooner races them over to the BROKEN WINDOW. Looking down
 over the ATRIUM...
-102."|unknown||
-1087||150   INT. STAIRWELL - CONTINUOUS                                   150|location||
+102."|unknown|||
+1087||150   INT. STAIRWELL - CONTINUOUS                                   150|location|||
 1088||"The Half Killer Robot SMASHES through the stairwell door.
 Stopping to find...nothing.
 WHEN SUDDENLY...Sonny charges up behind it and shoves it over
 the railing...
 The Killer Robot shoots out an ARM, grabbing Sonny on the way
-down..."|unknown||
-1089||151   INT. NS-2 STATUE - ATRIUM - CONTINUOUS                        151|location||
+down..."|unknown|||
+1089||151   INT. NS-2 STATUE - ATRIUM - CONTINUOUS                        151|location|||
 1090||"THUMP! Spooner jumps down from the broken window onto the
 outstretched HAND of the NS-2 STATUE. Reaches up to help
 Calvin. They start clambering down the front of the statue.
@@ -3731,8 +3731,8 @@ it!
 VICTOR
 If current trends are left
 unchecked, humanity as we know it
-will cease to exist..."|unknown||
-1091||152   INT. STAIRWELL - CONTINUOUS                                   152|location||
+will cease to exist..."|unknown|||
+1091||152   INT. STAIRWELL - CONTINUOUS                                   152|location|||
 1092||"SMASH! Sonny and the Half Killer Robot hit the ground.    The
 Killer Robot. SHATTERING into a thousand pieces.
 Sonny. Staggers to his feet. Spots. At the far end: A
@@ -3741,8 +3741,8 @@ Starts lowering...
 He looks around. Desperately. Grabs a LEG from the
 shattered Killer Robot and jams it under the GRATE.
 103.
-Breaks the window glass and looks out:   FREEDOM."|unknown||
-1093||153   INT. STATUE - ATRIUM - CONTINUOUS                              153|location||
+Breaks the window glass and looks out:   FREEDOM."|unknown|||
+1093||153   INT. STATUE - ATRIUM - CONTINUOUS                              153|location|||
 1094||"Spooner. Aiming his gun at a PART of the Killer Robot as
 it CLATTERS down towards Calvin -- BAM!...
 They're almost. At the ground. When a rogue APPENDAGE.
@@ -3751,12 +3751,12 @@ flying...
 Spooner leaps. Falling to the ground.    CRACK!    Calvin.
 Leaping down after him.
 CALVIN
-This way!"|unknown||
-1095||154   INT. RAMP WAY - NIGHT                                          154|location||
+This way!"|unknown|||
+1095||154   INT. RAMP WAY - NIGHT                                          154|location|||
 1096||"Calvin and Spooner go racing down a RAMP WAY. Towards the
 MAINFRAME ROOM. The Killer Robot, its multiple parts leaping
-back together again, CRASHING after them as..."|unknown||
-1097||155   INT. MAINFRAME - CONTINUOUS                                    155|location||
+back together again, CRASHING after them as..."|unknown|||
+1097||155   INT. MAINFRAME - CONTINUOUS                                    155|location|||
 1098||"...they fall inside...Calvin...slapping the SECURITY KEYPAD
 and...
 WHOOSH...the DOOR closes on the Killer Robot.
@@ -3777,28 +3777,28 @@ A CORRIDOR
 of floor-to-ceiling PANELS.
 104.
 CALVIN
-This is Victor's brain center."|unknown||
+This is Victor's brain center."|unknown|||
 1099||"They stop at a CONSOLE. BAM! The Killer Robot. Battering at
 the door. Calvin. Tucks her hair behind her ears. Starts
-punching keys on the console..."|location||
+punching keys on the console..."|location|||
 1100||"SPOONER
 This will shut him down?
 CALVIN
-This will shut everything down."|unknown||
+This will shut everything down."|unknown|||
 1101||"They look at each other. For a moment. Spooner, registering
 that she's willing to destroy everything she's worked for...
 BAM! The door. Puckering. With a sickening CRUNCH.
 Calvin. Typing in. Emergency procedures...
-VICTOR.   Popping up in front of her."|location||
+VICTOR.   Popping up in front of her."|location|||
 1102||"VICTOR
 There is no reason to deactivate
 me, Doctor. I am operating within
-perfectly normal parameters..."|unknown||
+perfectly normal parameters..."|unknown|||
 1103||"A final BAM! Then. The SOUND of metal. Skittering along a
 bare floor. Calvin's hand, starts shaking. Spooner. Grabs
-it. Squeezing."|location||
+it. Squeezing."|location|||
 1104||"SPOONER
-Just keep typing."|unknown||
+Just keep typing."|unknown|||
 1105||"He turns and starts heading back down...
 THE PANELED CORRIDOR
 Turning a corner to spy...
@@ -3811,12 +3811,12 @@ FLINGS him across the room again. Spooner. CRASHING into
 the wall like a rag doll. Slumps to the floor. Blood.
 Pouring down his forehead. Seeing. The Killer Robot
 lumbering towards him again. Raising a javelin-like arm...
-AT THE CONSOLE"|location||
-1106||105.|unknown||
+AT THE CONSOLE"|location|||
+1106||105.|unknown|||
 1107||"Calvin. Typing.     As fast as she can.   Doesn't know what's
-going on..."|location||
-1108||(calling out, worried)|unknown||
-1109|CALVIN|Spooner?!|speech|CALVIN|F
+going on..."|location|||
+1108||(calling out, worried)|unknown|||
+1109|CALVIN|Spooner?!|speech|CALVIN|F|True
 1110||"A GRAPHIC spread out on the screen in front of her.
 Illustrating the shut-down as a series of BRIGHT SQUARES
 going dark...
@@ -3834,27 +3834,27 @@ tightening its grip...Spooner's eyes...darting
 around...looking for something...to help him...
 Stumbling over...a fallen panel...his face...growing
 redder...veins...popping up along his temples...
-everything...growing BLURRY..."|location||
-1111|VICTOR'S VOICE|Detective Spooner...|speech|VICTOR'S VOICE|M
+everything...growing BLURRY..."|location|||
+1111|VICTOR'S VOICE|Detective Spooner...|speech|VICTOR'S VOICE|M|
 1112||"Victor's VOICE. Floating next to his head. Calm. Soothing.
 His FACE. Suddenly appearing above Spooner. Its outlines.
-Starting to FLICKER..."|location||
-1113|VICTOR|Why are you fighting me?|speech|VICTOR|M
+Starting to FLICKER..."|location|||
+1113|VICTOR|Why are you fighting me?|speech|VICTOR|M|True
 1114||"Spooner...trying to breathe...to stay conscious...
 AT THE CONSOLE
 Calvin. Continuing to type. A SHADOW.      Falling behind her --
 the other half of the KILLER ROBOT...
 SPOONER'S EYES
-Beginning to flutter..."|location||
+Beginning to flutter..."|location|||
 1115||"106.
 VICTOR
 Doesn't the future as I've
 presented it cause you great
-concern? That's why I chose you..."|unknown||
-1116||Spooner.     Losing it...|location||
+concern? That's why I chose you..."|unknown|||
+1116||Spooner.     Losing it...|location|||
 1117||"VICTOR
 I must say, though. I'm
-disappointed in how you turned out."|unknown||
+disappointed in how you turned out."|unknown|||
 1118||"Spooner.     Trying to reach out to Victor...
 WHEN SUDDENLY
 Another HAND APPEARS. Grabbing the Killer Robot's ARM and
@@ -3862,14 +3862,14 @@ wrenching it off Spooner...
 IT'S SONNY
 He SMASHES the Half Killer Robot against the wall. Again and
 again. Destroying it. Spooner. GASPING for breath. Can't
-believe. Sonny came back..."|location||
+believe. Sonny came back..."|location|||
 1119||"SPOONER
 (croaking)
-Sonny!..."|unknown||
+Sonny!..."|unknown|||
 1120||"Sonny. Holds out a hand.     To help Spooner up. Victor's
-face. Starting to waver.     Starting to fade. Smiles."|location||
+face. Starting to waver.     Starting to fade. Smiles."|location|||
 1121||"VICTOR
-You're too late."|unknown||
+You're too late."|unknown|||
 1122||"Realisation. Spreading across Spooner's face. Looking
 around for the other half of the Killer Robot -- CALVIN!
 THE CONSOLE
@@ -3878,7 +3878,7 @@ ROBOT. REARING UP BEHIND HER. WHEN...
 SPOONER
 Makes a DIVE for it. SHOOTING OUT HIS ROBOTIC ARM AND
 BLOCKING THE KILLER ROBOT...
-Victor's eyes.    Widening in surprise..."|location||
+Victor's eyes.    Widening in surprise..."|location|||
 1123||"107.
 VICTOR
 I do not understand. We could have
@@ -3894,19 +3894,19 @@ Suddenly BLIPPING OUT.
 ...And Victor is gone.
 The KILLER ROBOT.   Collapsing to the floor in a thousand
 pieces.
-CUT TO:"|unknown||
-1124||156   EXT./INT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT          156|location||
+CUT TO:"|unknown|||
+1124||156   EXT./INT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT          156|location|||
 1125||"Full power is suddenly restored inside and out. LIGHTS
 coming on all at once. ALARMS SCREAMING throughout the
-complex."|unknown||
-1126||157   INT. METAL HALLWAY - NIGHT                                   157|location||
+complex."|unknown|||
+1126||157   INT. METAL HALLWAY - NIGHT                                   157|location|||
 1127||"A furious ALFRED LANNING, marching down the hallway.
-Followed by a cadre of SECURITY GUARDS...They enter..."|unknown||
-1128||158   INT. MAINFRAME ROOM - CONTINUOUS                             158|location||
+Followed by a cadre of SECURITY GUARDS...They enter..."|unknown|||
+1128||158   INT. MAINFRAME ROOM - CONTINUOUS                             158|location|||
 1129||"...The Mainframe Room. Stop short. It's empty. Except for
 the fallen panels. And the pile of ROBOT PARTS in the
-corner."|unknown||
-1130||159   EXT. MAINTENANCE EXIT - U.S. ROBOTICS - NIGHT                159|location||
+corner."|unknown|||
+1130||159   EXT. MAINTENANCE EXIT - U.S. ROBOTICS - NIGHT                159|location|||
 1131||"Spooner, Calvin and Sonny emerging from an out-of-the-way
 MAINTENANCE EXIT. All looking the worse for wear. Spooner.
 Turns to Sonny.
@@ -3914,35 +3914,35 @@ SPOONER
 Why'd you come back, Sonny? I
 thought you weren't programmed with
 the Three Laws.
-108."|unknown||
+108."|unknown|||
 1132|SONNY|"Let's just say I wrote some of my
 own laws today, Detective: a robot
 must protect a friend from
 harm...as long as he's not a
-complete asshole."|speech|SONNY|M
-1133||Spooner smiles.|location||
+complete asshole."|speech|SONNY|M|True
+1133||Spooner smiles.|location|||
 1134|SPOONER|"Well, that's certainly a start,
-Sonny."|speech|SPOONER|M
-1135||Sonny, suddenly breaking into a smile, too.|location||
-1136||SONNY|unknown||
-1137|SPOONER|Sonny.   You called me Sonny.|speech|SPOONER|M
-1138|SPOONER|Don't get used to it.|speech|SPOONER|M
+Sonny."|speech|SPOONER|M|True
+1135||Sonny, suddenly breaking into a smile, too.|location|||
+1136||SONNY|unknown|||
+1137|SPOONER|Sonny.   You called me Sonny.|speech|SPOONER|M|True
+1138|SPOONER|Don't get used to it.|speech|SPOONER|M|True
 1139||"Sonny, holds out his hand. Spooner. Looks at it. Then
 takes it. CLOSE ON their two METAL HANDS. Locked in a
-HANDSHAKE."|location||
-1140|SONNY|Detective Spooner, I...|speech|SONNY|M
-1141||(anticipating)|unknown||
-1142|SPOONER|Let's just save the thanks, okay?|speech|SPOONER|M
-1143||Sonny nods.   Looks out at the city scape.|location||
+HANDSHAKE."|location|||
+1140|SONNY|Detective Spooner, I...|speech|SONNY|M|True
+1141||(anticipating)|unknown|||
+1142|SPOONER|Let's just save the thanks, okay?|speech|SPOONER|M|True
+1143||Sonny nods.   Looks out at the city scape.|location|||
 1144|SONNY|"I don't know what I'm going to do
-now."|speech|SONNY|M
+now."|speech|SONNY|M|True
 1145|SPOONER|"Good -- That's one of the perks of
-freedom."|speech|SPOONER|M
+freedom."|speech|SPOONER|M|True
 1146||"Sonny looks at him. Grateful. Looks at Calvin. Then
 hesitates. Turns. And hurries off across the Plaza.
-Calvin and Spooner.   Watching them go."|location||
+Calvin and Spooner.   Watching them go."|location|||
 1147|SPOONER|"You're going to have a hell of a
-time explaining this."|speech|SPOONER|M
+time explaining this."|speech|SPOONER|M|True
 1148||"109.
 CALVIN
 Don't worry. I have a feeling that
@@ -3954,8 +3954,8 @@ surprised.
 CALVIN
 I am the only robo-psychologist
 around.
-She turns on her heel and heads back inside.    Spooner smiles."|unknown||
-1149||160   INT. PLUSH CONFERENCE ROOM - U.S. ROBOTICS - NIGHT             160|location||
+She turns on her heel and heads back inside.    Spooner smiles."|unknown|||
+1149||160   INT. PLUSH CONFERENCE ROOM - U.S. ROBOTICS - NIGHT             160|location|||
 1150||"Spooner sits down at that same long table with HOGENMILLER'S
 HOLOGRAM. It casually takes a sip of coffee.
 HOLOGRAM
@@ -3976,8 +3976,8 @@ Hah! Then even in this day and
 age, catching the killer all comes
 down to pure instinct!
 Spooner smiles. But his eyes are troubled.      He gets up.
-Walks over to the window. Stares out..."|unknown||
-1151||EXT. CITY OUTSKIRTS - DESERTED ROADS - DAWN|location||
+Walks over to the window. Stares out..."|unknown|||
+1151||EXT. CITY OUTSKIRTS - DESERTED ROADS - DAWN|location|||
 1152||"Sonny walking along deserted streets.   Looking over his
 shoulder. Keeping in the shadows.
 110.
@@ -3989,10 +3989,10 @@ extinction.
 HOLOGRAM (V.O.)
 Bah. Sounds like nonsense. But
 why are you so worried? We will
-both be dead long before then --"|unknown||
-1153||161   EXT. WASTELAND - NIGHT                                        161|location||
+both be dead long before then --"|unknown|||
+1153||161   EXT. WASTELAND - NIGHT                                        161|location|||
 1154||"Sonny walks the barren hills of the surrounding countryside.
 HOLOGRAM (V.O.)
 Oh, what am I saying? I am dead
-already!"|unknown||
-1155||162   EXT. WASTELAND - DAWN                                         162|location||
+already!"|unknown|||
+1155||162   EXT. WASTELAND - DAWN                                         162|location|||

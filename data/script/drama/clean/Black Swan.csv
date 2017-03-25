@@ -1,9 +1,9 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"BLACK SWAN
 Written by
 Mark Heyman, Andres Heinz & John McLaughlin
-January 11, 2010"|unknown||
-1||1 INT. DARK STAGE - NIGHT 1|stage direction||
+January 11, 2010"|unknown|||
+1||1 INT. DARK STAGE - NIGHT 1|stage direction|||
 2|OPENING CREDITS:|"A SPOTLIGHT slices black space.
 In its beam, a DANCER materializes. She is fair-skinned.
 Beautiful and pure.
@@ -24,8 +24,8 @@ She spins, panicking, but it's too late. She disappears
 beneath the beast's cape.
 She emerges as the WHITE SWAN, the iconic protagonist of SWAN
 LAKE.
-CUT TO BLACK."|speech|OPENING CREDITS:|?
-3||2 INT. NINA'S BEDROOM - MORNING 2|stage direction||
+CUT TO BLACK."|speech|OPENING CREDITS:|?|
+3||2 INT. NINA'S BEDROOM - MORNING 2|stage direction|||
 4|OPENING CREDITS:|"In the darkness, a pair of EYES. They belong to NINA, the
 same dancer. She lies awake in bed, thinking about her dream.
 The room looks like it hasn't been redecorated since she was
@@ -36,8 +36,8 @@ Nina sits up and hangs her BARE FEET off the side of the bed.
 Like all ballerinas, she's beautiful and her feet are
 atrocious. Covered in corns, broken blisters and bunions. She
 arches them, doing her first extensions of the day.
-2."|speech|OPENING CREDITS:|?
-5||3 INT. LIVING ROOM - MORNING 3|stage direction||
+2."|speech|OPENING CREDITS:|?|
+5||3 INT. LIVING ROOM - MORNING 3|stage direction|||
 6|OPENING CREDITS:|"The room is empty of furniture to leave space for dancing. A
 large mirror covers the opposite wall entirely.
 Nina rubs her knees to get them warm, and then begins her
@@ -48,44 +48,44 @@ Defined vertebrae run up her back, sinewy muscles contract as
 she moves. Her slender neck leads into her hair, contained
 in a ballerina's bun.
 Nina looks serene as she moves, completely in her element.
-She hears someone fussing about in the kitchen."|speech|OPENING CREDITS:|?
+She hears someone fussing about in the kitchen."|speech|OPENING CREDITS:|?|
 7|"NINA
 (WHILE STRETCHING)"|"I had the most amazing dream last
 night. I was dancing the White
 Swan.
-No answer."|speech|NINA|F
+No answer."|speech|NINA|F|True
 8|NINA (CONT'D)|"Different choreography, like the
 Bolshoi's. It was the prologue,
 when Rothbart casts his spell.
 Still no answer.
-Nina continues to stretch."|speech|NINA|F
-9||4 INT. KITCHEN - MORNING 4|stage direction||
+Nina continues to stretch."|speech|NINA|F|True
+9||4 INT. KITCHEN - MORNING 4|stage direction|||
 10|NINA (CONT'D)|"Nina sits at the table. An older woman, ERICA, places a
-POACHED EGG and a QUARTER-GRAPEFRUIT in front of her."|speech|NINA|F
-11|ERICA|You're in a good mood.|speech|ERICA|F
-12|NINA|I'm just excited to get back.|speech|NINA|F
-13|ERICA|Off-season always makes you grumpy.|speech|ERICA|F
+POACHED EGG and a QUARTER-GRAPEFRUIT in front of her."|speech|NINA|F|True
+11|ERICA|You're in a good mood.|speech|ERICA|F|True
+12|NINA|I'm just excited to get back.|speech|NINA|F|True
+13|ERICA|Off-season always makes you grumpy.|speech|ERICA|F|True
 14|"NINA
 (RE: GRAPEFRUIT)"|"Look how pink. So pretty.
-2A."|speech|NINA|F
-15|ERICA NINA|(inside joke) (inside joke)|speech|ERICA NINA|?
+2A."|speech|NINA|F|True
+15|ERICA NINA|(inside joke) (inside joke)|speech|ERICA NINA|?|
 16||"Pretty. Pretty.
 They giggle and Erica resumes packing Nina's shoulder bag
 with extra clothing, shoes, snack filled tupperware, duct
-tape, ribbon, thread, etc."|stage direction||
+tape, ribbon, thread, etc."|stage direction|||
 17|NINA (CONT'D)|"Plus he promised to feature me
-more."|speech|NINA|F
+more."|speech|NINA|F|True
 18|ERICA|"He certainly should. You're the
 most dedicated dancer in the
-company."|speech|ERICA|F
+company."|speech|ERICA|F|True
 19||"Nina smiles, comforted, and begins taking her vitamins.
 Erica walks over with a SWEATSHIRT and holds it above her.
 Nina pulls it over her head and starts to push her arms
-through the sleeves."|stage direction||
-20|ERICA|3.|speech|ERICA|F
+through the sleeves."|stage direction|||
+20|ERICA|3.|speech|ERICA|F|True
 21|"ERICA (CONT'D)
-(NOTICING SOMETHING)"|What's that?|speech|ERICA|F
-22|NINA|What?|speech|NINA|F
+(NOTICING SOMETHING)"|What's that?|speech|ERICA|F|True
+22|NINA|What?|speech|NINA|F|True
 23|ERICA|"There.
 Erica points to her shoulder. Nina feels and finds a small
 SCRATCH MARK.
@@ -93,10 +93,10 @@ She shrugs and shakes her head.
 Erica gives her a suspicious look, but lets it go and smiles.
 Nina finishes pulling down the sweatshirt.
 Erica hugs Nina into her chest and kisses the top of her
-head."|speech|ERICA|F
+head."|speech|ERICA|F|True
 24|ERICA (CONT'D)|"Sweet girl.
-Erica releases her and Nina begins eating."|speech|ERICA|F
-25||5 INT. SUBWAY TRAIN - DAY 5|stage direction||
+Erica releases her and Nina begins eating."|speech|ERICA|F|True
+25||5 INT. SUBWAY TRAIN - DAY 5|stage direction|||
 26|ERICA (CONT'D)|"Nina rides inside a crowded subway, staring absentmindedly at
 her faint reflection in the train's window.
 Suddenly, another train roars by on the opposite track,
@@ -116,9 +116,9 @@ sees the girl head to the exit. She cranes to see her face,
 but her view's obscured.
 The doors slide shut and the train pulls out. Nina watches
 the platform whisk by, keeping her eyes peeled, but she
-doesn't see the girl."|speech|ERICA|F
-27||6 OMITTED 6|location||
-28||7 EXT. LINCOLN CENTER - DAY 7|stage direction||
+doesn't see the girl."|speech|ERICA|F|True
+27||6 OMITTED 6|location|||
+28||7 EXT. LINCOLN CENTER - DAY 7|stage direction|||
 29|ERICA (CONT'D)|"Nina emerges from the subway station onto a city street.
 She arrives at the MAJESTIC-LOOKING THEATER, where a few
 other BALLERINAS likewise trickle towards the entrance. They
@@ -127,43 +127,43 @@ wearing leggings and loose sweatshirts.
 She passes a ROW OF POSTERS featuring the company's prima
 ballerina, BETH MACINTYRE.
 Nina looks at them, a little envious, before continuing on to
-the STAGE DOOR."|speech|ERICA|F
-30||8 INT. SOLOIST DRESSING ROOM - DAY 8|stage direction||
+the STAGE DOOR."|speech|ERICA|F|True
+30||8 INT. SOLOIST DRESSING ROOM - DAY 8|stage direction|||
 31|ERICA (CONT'D)|"Crammed into a single dressing room, Nina and the company's 5
 SOLOISTS get ready for rehearsal. Chatting, sewing ribbon
 onto shoes, applying makeup, putting band-aids on blisters.
 Nina removes a new pair of BALLET SHOES, admires them for a
 moment, before cutting off the satin toe with scissors.
-In the background, catty VERONICA and Russian GALINA gossip."|speech|ERICA|F
-32|VERONICA|Can't believe she's back.|speech|VERONICA|F
-33|GALINA|Of course she is.|speech|GALINA|F
+In the background, catty VERONICA and Russian GALINA gossip."|speech|ERICA|F|True
+32|VERONICA|Can't believe she's back.|speech|VERONICA|F|True
+33|GALINA|Of course she is.|speech|GALINA|F|
 34|VERONICA|"She can't take a hint? Company's
 broke. No one comes to see her
-anymore."|speech|VERONICA|F
+anymore."|speech|VERONICA|F|True
 35|SOLOIST 1|"No one comes to see ballet period.
-5."|speech|SOLOIST 1|?
+5."|speech|SOLOIST 1|?|
 36|VERONICA|"That's not true, I heard the Royal
-had one of their best seasons yet."|speech|VERONICA|F
-37|GALINA|He needs to try something new.|speech|GALINA|F
-38|VERONICA|No, someone new.|speech|VERONICA|F
-39|SOLOIST 1|Like who?|speech|SOLOIST 1|?
+had one of their best seasons yet."|speech|VERONICA|F|True
+37|GALINA|He needs to try something new.|speech|GALINA|F|
+38|VERONICA|No, someone new.|speech|VERONICA|F|True
+39|SOLOIST 1|Like who?|speech|SOLOIST 1|?|
 40|VERONICA|"Like someone who's not approaching
-menopause."|speech|VERONICA|F
-41||They snicker.|stage direction||
-42|NINA|I think it's sad.|speech|NINA|F
-43|VERONICA|What's sad?|speech|VERONICA|F
-44|NINA|Beth's such an amazing dancer.|speech|NINA|F
-45|GALINA|So's my grand-mother.|speech|GALINA|F
-46|NINA|Fonteyn danced into her 50's...|speech|NINA|F
+menopause."|speech|VERONICA|F|True
+41||They snicker.|stage direction|||
+42|NINA|I think it's sad.|speech|NINA|F|True
+43|VERONICA|What's sad?|speech|VERONICA|F|True
+44|NINA|Beth's such an amazing dancer.|speech|NINA|F|True
+45|GALINA|So's my grand-mother.|speech|GALINA|F|
+46|NINA|Fonteyn danced into her 50's...|speech|NINA|F|True
 47|"VERONICA
-(ROLLING EYES)"|Yeah, we know.|speech|VERONICA|F
+(ROLLING EYES)"|Yeah, we know.|speech|VERONICA|F|True
 48||"Irked, Nina starts POUNDING the shoes against the floor to
 soften the toe.
 Her eyes are drawn to a NEW GIRL standing in the doorway.
 Nina pauses to scrutinize her. She wears vampy make-up, hair
-down. Dark and sexy."|stage direction||
-49|NEW GIRL|Soloists?|speech|NEW GIRL|F
-50||Wary, the girls mumble mmm-hmm's and nod.|stage direction||
+down. Dark and sexy."|stage direction|||
+49|NEW GIRL|Soloists?|speech|NEW GIRL|F|
+50||Wary, the girls mumble mmm-hmm's and nod.|stage direction|||
 51|NEW GIRL|"NEW GIRL (CONT'D)
 Great.
 6.
@@ -174,13 +174,13 @@ Fucking got off the wrong stop and
 had to hoof it from 79th.
 Nina exchanges glances with the other girls, taken aback.
 The new girl notices the looks, smirks to herself and starts
-getting ready."|speech|NEW GIRL|F
-52||9 INT. LARGE REHEARSAL SPACE - DAY 9|stage direction||
+getting ready."|speech|NEW GIRL|F|
+52||9 INT. LARGE REHEARSAL SPACE - DAY 9|stage direction|||
 53|NEW GIRL|"Nina wears a look of intense concentration as the entire
 company warms up, including the pubescent CORPS MEMBERS and a
 handful of MALE DANCERS.
 LEGS, HANDS, and FEET repeat the same movements all around
-her, led by a severe BALLET MISTRESS."|speech|NEW GIRL|F
+her, led by a severe BALLET MISTRESS."|speech|NEW GIRL|F|
 54|BALLET MISTRESS|"To the back, fondu, to the back,
 plie. Fourth, fourth, and one and
 fifth, to the back...
@@ -204,56 +204,56 @@ Leroy walks around the room, judging his flock. Smiles and
 glances are thrown his way.
 He goes up to the ballet mistress, takes her hand and kisses
 her on the cheek. Even she manages a smile.
-7."|speech|BALLET MISTRESS|F
-55||He heads to the line of soloists, studying them.|stage direction||
+7."|speech|BALLET MISTRESS|F|
+55||He heads to the line of soloists, studying them.|stage direction|||
 56|LEROY|"We all know the story: virginal
 girl, pure and sweet, trapped in
 the body of a swan. She desires
 freedom, but only true love can
-break the spell."|speech|LEROY|F
+break the spell."|speech|LEROY|F|True
 57||"He taps a dancer on the shoulder, she lights up. He walks,
 then taps another. A selection process of some kind.
-Nina looks nervous, has an inkling of what it means."|stage direction||
+Nina looks nervous, has an inkling of what it means."|stage direction|||
 58|LEROY (CONT'D)|"Her wish is granted in the form of
-a prince."|speech|LEROY|F
+a prince."|speech|LEROY|F|True
 59||"He nears Nina. She sneaks peeks at him, eager and hopeful.
 He acknowledges her with a small nod and a smile.
-But he walks on without tapping her. She deflates."|stage direction||
+But he walks on without tapping her. She deflates."|stage direction|||
 60|LEROY (CONT'D)|"But before he can declare his love,
 her lustful twin, the Black Swan,
-tricks and seduces him."|speech|LEROY|F
+tricks and seduces him."|speech|LEROY|F|True
 61||"He approaches the New Girl. Nina watches, threatened.
-But he doesn't tap her either."|stage direction||
+But he doesn't tap her either."|stage direction|||
 62|LEROY (CONT'D)|"Devastated, the White Swan leaps
 off a cliff, killing herself. But,
-in death, finds freedom."|speech|LEROY|F
+in death, finds freedom."|speech|LEROY|F|True
 63||"He taps one more soloist and then CLAPS.
-The music stops and all the girls face him, attentive."|stage direction||
-64|LEROY (CONT'D)|Good morning, company.|speech|LEROY|F
-65||"They respond ""Good morning"" in nervous, unsure voices."|stage direction||
+The music stops and all the girls face him, attentive."|stage direction|||
+64|LEROY (CONT'D)|Good morning, company.|speech|LEROY|F|True
+65||"They respond ""Good morning"" in nervous, unsure voices."|stage direction|||
 66|LEROY (CONT'D)|"We open our season with Swan Lake.
 Done to death, I know. But not like
 this. We strip it down. Make it
-visceral and real."|speech|LEROY|F
-67||He pauses for effect.|stage direction||
-68|LEROY (CONT'D)|8.|speech|LEROY|F
+visceral and real."|speech|LEROY|F|True
+67||He pauses for effect.|stage direction|||
+68|LEROY (CONT'D)|8.|speech|LEROY|F|True
 69|LEROY (CONT'D)|"And a new production needs a new
 Swan Queen. A fresh face to present
 to the world.
 Surprised, the soloists glance at each other, trying to keep
-their cool."|speech|LEROY|F
+their cool."|speech|LEROY|F|True
 70|LEROY (CONT'D)|"But which of you can embody both
 swans? The white and the black?
-Nina prepares for disappointment."|speech|LEROY|F
+Nina prepares for disappointment."|speech|LEROY|F|True
 71|LEROY (CONT'D)|"All the soloists I touched...
 Please go to your scheduled
 rehearsals this afternoon.
-The girls are confused."|speech|LEROY|F
+The girls are confused."|speech|LEROY|F|True
 72|LEROY (CONT'D)|"And the girls I didn't touch, meet
 me in studio B at five.
 Nina breathes, realizing the girls he didn't tap are the ones
-he's selected, purposefully toying with them."|speech|LEROY|F
-73||10 INT. BACKSTAGE HALLWAY - DAY 10|stage direction||
+he's selected, purposefully toying with them."|speech|LEROY|F|True
+73||10 INT. BACKSTAGE HALLWAY - DAY 10|stage direction|||
 74|LEROY (CONT'D)|"Hidden inside a nook, Nina has her eyes closed, nervously
 HUMMING the score to Swan Lake.
 She makes small motions with her feet and hands, going
@@ -266,7 +266,7 @@ cautiously approaches.
 Inside, she can see someone moving around the room in a fury,
 trashing it.
 Suddenly, the door swings open and BETH MACINTYRE bursts out.
-She makes brief eye-contact with Nina."|speech|LEROY|F
+She makes brief eye-contact with Nina."|speech|LEROY|F|True
 75|BETH|"What?!
 9.
 Nina just shakes her head.
@@ -274,8 +274,8 @@ Beth scoffs as she slams the door behind her. She clips down
 the hall in the opposite direction.
 Nina waits until she's gone, then moves closer to the door
 and peeks inside, curious.
-She checks to make sure no one's around and quickly enters."|speech|BETH|F
-76||11 INT. PRINCIPAL DRESSING ROOM - SAME 11|stage direction||
+She checks to make sure no one's around and quickly enters."|speech|BETH|F|True
+76||11 INT. PRINCIPAL DRESSING ROOM - SAME 11|stage direction|||
 77|BETH|"Large and comfortable. Beth's presence is everywhere.
 Photographs, clothing, and personal belongings scattered
 across the space.
@@ -287,8 +287,8 @@ She moves to the vanity counter and touches Beth's
 belongings in reverence. The items are neatly laid out:
 ballet supplies, jewelry, and makeup.
 Her fingers brush a tube of LIPSTICK. She picks it up.
-Nina slips the lipstick into her bag and exits the room."|speech|BETH|F
-78||12 INT. PRINCIPAL REHEARSAL SPACE - DAY 12|stage direction||
+Nina slips the lipstick into her bag and exits the room."|speech|BETH|F|True
+78||12 INT. PRINCIPAL REHEARSAL SPACE - DAY 12|stage direction|||
 79|BETH|"In the middle of her audition, Nina dances Odette's Variation
 from Act II of the ballet, a frightened look on her face.
 Although her movement is incredibly precise, there's a
@@ -296,20 +296,20 @@ definite vulnerability. Exactly as the White Swan should be:
 fear tinged with melancholy.
 Leroy waves his arm. The music and Nina stop abruptly.
 He approaches her and, when he gets close, taps on her
-sternum with two of his fingers."|speech|BETH|F
+sternum with two of his fingers."|speech|BETH|F|True
 80|LEROY|"So Nina, would you like to be the
-Swan Queen?"|speech|LEROY|F
+Swan Queen?"|speech|LEROY|F|True
 81|NINA|"If you want me to be.
 He leans in and talks softly so the other girls can't hear.
-10."|speech|NINA|F
+10."|speech|NINA|F|True
 82|LEROY|"Well, if I was just casting the
-White Swan, she'd be yours."|speech|LEROY|F
-83||She can't help but smile, flattered. He pulls away from her.|stage direction||
-84|LEROY (CONT'D)|But I'm not.|speech|LEROY|F
-85||He turns to the PIANO PLAYER.|stage direction||
-86|LEROY (CONT'D)|Maestro, Odile's Coda.|speech|LEROY|F
-87||The piano player rifles through the song book.|stage direction||
-88|LEROY (CONT'D)|Show me your Black Swan, Nina.|speech|LEROY|F
+White Swan, she'd be yours."|speech|LEROY|F|True
+83||She can't help but smile, flattered. He pulls away from her.|stage direction|||
+84|LEROY (CONT'D)|But I'm not.|speech|LEROY|F|True
+85||He turns to the PIANO PLAYER.|stage direction|||
+86|LEROY (CONT'D)|Maestro, Odile's Coda.|speech|LEROY|F|True
+87||The piano player rifles through the song book.|stage direction|||
+88|LEROY (CONT'D)|Show me your Black Swan, Nina.|speech|LEROY|F|True
 89||"Nervous, she glances over at Veronica and Galina, who
 anxiously await their turn.
 She takes a few breaths, then looks towards the piano player
@@ -317,53 +317,53 @@ and nods.
 The music begins.
 Nina dances a few steps, and then launches into the most
 difficult and famous part of Swan Lake: The Black Swan's
-Coda. It consists of 32 consecutive fouettes (spins)."|stage direction||
-90|LEROY (CONT'D)|Come on, not so controlled.|speech|LEROY|F
+Coda. It consists of 32 consecutive fouettes (spins)."|stage direction|||
+90|LEROY (CONT'D)|Come on, not so controlled.|speech|LEROY|F|True
 91||"The music builds in intensity, she pushes herself into the
-next turn."|stage direction||
+next turn."|stage direction|||
 92|LEROY (CONT'D)|"Seduce us! Not just the Prince, but
 the court, the audience, the entire
 world! The fouettes are like a
 spider spinning her web. Come on!
-Attack it! Attack it!"|speech|LEROY|F
+Attack it! Attack it!"|speech|LEROY|F|True
 93||"Leroy runs his hand through his hair, dismayed.
 A look of worry spreads across Nina's face. Knows she's
 blowing it.
 The door CLANGS open and throws Nina's focus completely. She
-stumbles, several spins short of finishing."|stage direction||
+stumbles, several spins short of finishing."|stage direction|||
 94|LEROY (CONT'D)|"11.
 The New Girl obliviously marches into the room, listening to
-an iPod."|speech|LEROY|F
+an iPod."|speech|LEROY|F|True
 95|"LEROY (CONT'D)
 (SARCASTIC)"|"Good of you to join us.
 The New Girl notices everyone staring and pulls out her
-earphones to talk."|speech|LEROY|F
-96|NEW GIRL|Sorry.|speech|NEW GIRL|F
+earphones to talk."|speech|LEROY|F|True
+96|NEW GIRL|Sorry.|speech|NEW GIRL|F|
 97|LEROY|"Girls, this is Lily. Straight off
 the plane from San Francisco. She's
 filling Rebecca's old spot.
 LILY gives a small wave. Nina eyes her with scorn as she
-catches her breath."|speech|LEROY|F
-98|LEROY (CONT'D)|Go on, get warmed up.|speech|LEROY|F
+catches her breath."|speech|LEROY|F|True
+98|LEROY (CONT'D)|Go on, get warmed up.|speech|LEROY|F|True
 99|LILY|"I'm good.
 Lily starts stripping off her layers, revealing her lithe
-body. On her back, she has a TATTOO OF LILIES."|speech|LILY|F
-100|NINA|Should I go again?|speech|NINA|F
+body. On her back, she has a TATTOO OF LILIES."|speech|LILY|F|True
+100|NINA|Should I go again?|speech|NINA|F|True
 101|LEROY|"(distracted by Lily)
 I've seen enough. Thank you, Nina.
-She looks down, getting his meaning."|speech|LEROY|F
+She looks down, getting his meaning."|speech|LEROY|F|True
 102|LEROY (CONT'D)|"Okay, Veronica. Your turn. The
 White Swan's variation...
-Furious, Nina marches out of the room."|speech|LEROY|F
-103||A13 INT. THEATER BATHROOM STALL - NIGHT A13|stage direction||
+Furious, Nina marches out of the room."|speech|LEROY|F|True
+103||A13 INT. THEATER BATHROOM STALL - NIGHT A13|stage direction|||
 104|LEROY (CONT'D)|"Nina stands up from a kneeled position and flushes the
 toilet. She wipes her mouth with the back of her hand and
-exits the stall."|speech|LEROY|F
-105||13 OMITTED 13|location||
-106|LEROY (CONT'D)|11A.|speech|LEROY|F
-107||14 OMITTED 14|location||
-108|LEROY (CONT'D)|12.|speech|LEROY|F
-109||15 EXT. STREET - NIGHT 15|stage direction||
+exits the stall."|speech|LEROY|F|True
+105||13 OMITTED 13|location|||
+106|LEROY (CONT'D)|11A.|speech|LEROY|F|True
+107||14 OMITTED 14|location|||
+108|LEROY (CONT'D)|12.|speech|LEROY|F|True
+109||15 EXT. STREET - NIGHT 15|stage direction|||
 110|LEROY (CONT'D)|"Nina walks along a quiet side street. She clutches her
 jacket, for warmth and comfort.
 Her CELL PHONE starts ringing. She digs it out of her bag and
@@ -388,29 +388,29 @@ The woman looks EXACTLY LIKE HER.
 But the moment passes as the woman continues walking.
 Nina stares after her, perturbed.
 Her cell phone starts RINGING again, piercing the silence.
-Nina continues out, ignoring the phone."|speech|LEROY|F
-111||16 INT. UPPER WEST SIDE APARTMENT - NIGHT 16|stage direction||
+Nina continues out, ignoring the phone."|speech|LEROY|F|True
+111||16 INT. UPPER WEST SIDE APARTMENT - NIGHT 16|stage direction|||
 112|LEROY (CONT'D)|"Nina enters and locks the deadbolt and chain-lock behind her.
-She turns and is startled to see Erica standing right there."|speech|LEROY|F
+She turns and is startled to see Erica standing right there."|speech|LEROY|F|True
 113|ERICA|"How did it go?
-Nina looks at her confused. Erica helps take off her coat."|speech|ERICA|F
+Nina looks at her confused. Erica helps take off her coat."|speech|ERICA|F|True
 114|ERICA (CONT'D)|"You were late, so I called Susie in
 the office. An audition?! Can't
 believe he just sprung that on you.
-Nina nods."|speech|ERICA|F
-115|ERICA (CONT'D)|So?|speech|ERICA|F
-116|NINA|It went okay.|speech|NINA|F
+Nina nods."|speech|ERICA|F|True
+115|ERICA (CONT'D)|So?|speech|ERICA|F|True
+116|NINA|It went okay.|speech|NINA|F|True
 117|ERICA|"Just okay?
-Erica hangs up her coat, turns and sees Nina tearing up."|speech|ERICA|F
+Erica hangs up her coat, turns and sees Nina tearing up."|speech|ERICA|F|True
 118|ERICA (CONT'D)|"Darling?
 The tears start falling now.
-Erica goes to her and wraps her in an embrace."|speech|ERICA|F
+Erica goes to her and wraps her in an embrace."|speech|ERICA|F|True
 119|ERICA (CONT'D)|"Shhh, shhh, tell me what happened.
-14."|speech|ERICA|F
-120||17 INT. LIVING ROOM - NIGHT 17|stage direction||
+14."|speech|ERICA|F|True
+120||17 INT. LIVING ROOM - NIGHT 17|stage direction|||
 121|ERICA (CONT'D)|"Nina lies on the floor, stewing. Her legs straight in the air
 to drain the lactic acid in her muscles.
-ERICA (O.S.)"|speech|ERICA|F
+ERICA (O.S.)"|speech|ERICA|F|True
 122|(FROM KITCHEN)|"I told them it doesn't matter how
 talented their daughter is, if she
 misses any more classes, she's out.
@@ -425,11 +425,11 @@ the waters.
 She takes a breath and spins again, then again, then again.
 Each spin is punctuated by a jab of her foot into the floor.
 THWACK, THWACK. THWACK.
-She jabs her toe down, hard..."|speech||
+She jabs her toe down, hard..."|speech|||
 123|NINA|"Ow!
 She winces in pain and automatically grabs her foot.
 ERICA (O.S.)
-Everything alright?"|speech|NINA|F
+Everything alright?"|speech|NINA|F|True
 124|NINA|"I'm fine!
 Nina leans her back against the mirror and removes her shoe.
 Her right big toenail has split, oozing blood.
@@ -440,161 +440,161 @@ Her toe jabs into the floor. She winces a little with pain,
 but keeps pushing.
 Her face grows more determined, focused. 20, 21, 22 spins....
 She starts to look powerful, willing herself to succeed.
-14A."|speech|NINA|F
+14A."|speech|NINA|F|True
 125||"At the end of the 32nd spin, Nina jabs her foot down hard.
 She's done it!
 Nina looks at herself in the mirror, glazed in sweat, a
-slight smile of satisfaction."|stage direction||
-126|NINA|15.|speech|NINA|F
-127||18 INT. NINA'S BEDROOM - NIGHT 18|stage direction||
+slight smile of satisfaction."|stage direction|||
+126|NINA|15.|speech|NINA|F|True
+127||18 INT. NINA'S BEDROOM - NIGHT 18|stage direction|||
 128|NINA|"Nina sits on the edge of the bed, as Erica douses some GAUZE
 with PEROXIDE and dabs it on the split toenail. Nina reacts
-to the sting."|speech|NINA|F
+to the sting."|speech|NINA|F|True
 129|ERICA|"Shhh. Almost done...You're working
 yourself too hard. We all have off
-days."|speech|ERICA|F
-130|NINA|If that girl hadn't barged in.|speech|NINA|F
+days."|speech|ERICA|F|True
+130|NINA|If that girl hadn't barged in.|speech|NINA|F|True
 131|ERICA|"I'm sure she didn't mean to.
 Remember when you started? If I
 hadn't taken you to each of your
 classes, you would have been
-completely lost."|speech|ERICA|F
+completely lost."|speech|ERICA|F|True
 132|NINA|"I'm gonna talk to him. Tell him I
-finished it."|speech|NINA|F
+finished it."|speech|NINA|F|True
 133|ERICA|"He knows you can do the coda. It
 won't convince him one way or the
 other.
-Annoyed, Nina lies down, looking away from her mother."|speech|ERICA|F
+Annoyed, Nina lies down, looking away from her mother."|speech|ERICA|F|True
 134|ERICA (CONT'D)|"Oh, sweetheart, I know it's
 disappointing. When you start to
 get older, there's all this
 ridiculous pressure. God knows, I
 understand.
 Erica squeezes some arnica gel into her palm and massages it
-into Nina's calves."|speech|ERICA|F
+into Nina's calves."|speech|ERICA|F|True
 135|ERICA (CONT'D)|"But it's alright. No matter what.
 You'll probably get to dance the
 Pas de Quatre again. That's such a
 wonderful part. Or maybe he'll make
 you a Big Swan. Either way, you'll
-shine."|speech|ERICA|F
+shine."|speech|ERICA|F|True
 136|NINA|"I know, mom.
-15A."|speech|NINA|F
+15A."|speech|NINA|F|True
 137||"Erica removes Nina's EARRINGS, then opens a JEWELRY BOX
 sitting on the night stand and drops them inside. A TOY
 BALLERINA spins to TINNY MUSIC.
 Nina gets under the covers. Erica tucks her in and sits down
-on the edge of the bed."|stage direction||
-138|NINA|16.|speech|NINA|F
+on the edge of the bed."|stage direction|||
+138|NINA|16.|speech|NINA|F|True
 139|ERICA|"Everything will be better in the
 morning. It always is.
 She strokes Nina's hair, humming along to the music.
 Nina watches the ballerina spin and spin with a determined
-stare."|speech|ERICA|F
+stare."|speech|ERICA|F|True
 140||"19 OMITTED 19
-20 OMITTED 20"|location||
-141||21 INT. SUBWAY - DAY 21|stage direction||
+20 OMITTED 20"|location|||
+141||21 INT. SUBWAY - DAY 21|stage direction|||
 142|ERICA|"Nina applies the lipstick she stole from Beth, using the side
 window as a mirror. The jerky motion of the train makes it
-difficult, but she manages."|speech|ERICA|F
-143||22 INT. BACKSTAGE HALLWAY - DAY 22|stage direction||
+difficult, but she manages."|speech|ERICA|F|True
+143||22 INT. BACKSTAGE HALLWAY - DAY 22|stage direction|||
 144|ERICA|"Nina waits anxiously outside Leroy's office.
 She hears someone approach, looks up and sees Leroy coming
 down the hall.
-She puts on a nervous smile. He doesn't reciprocate."|speech|ERICA|F
-145|LEROY|Yes, Nina?|speech|LEROY|F
+She puts on a nervous smile. He doesn't reciprocate."|speech|ERICA|F|True
+145|LEROY|Yes, Nina?|speech|LEROY|F|True
 146|NINA|"Do you have a minute?
 He doesn't answer, just opens the door to the office and
 walks in.
-She takes a breath and then follows."|speech|NINA|F
-147||23 INT. LEROY'S OFFICE - SAME 23|stage direction||
+She takes a breath and then follows."|speech|NINA|F|True
+147||23 INT. LEROY'S OFFICE - SAME 23|stage direction|||
 148|NINA|"Nina closes the door and faces the cozy, dark space. Large
 couch, posters from the ballet on the wall--several featuring
 Beth.
 Leroy lights a cigarette, quietly studying her and not making
 this easy. He takes a drag, and exhales.
-17."|speech|NINA|F
-149|NINA|If now's not a good time...|speech|NINA|F
-150|LEROY|Now's fine, what is it?|speech|LEROY|F
+17."|speech|NINA|F|True
+149|NINA|If now's not a good time...|speech|NINA|F|True
+150|LEROY|Now's fine, what is it?|speech|LEROY|F|True
 151|NINA|"I just wanted to tell you, I
 practiced the coda last night, and
-I did it."|speech|NINA|F
-152|LEROY|How thrilling for you.|speech|LEROY|F
+I did it."|speech|NINA|F|True
+152|LEROY|How thrilling for you.|speech|LEROY|F|True
 153|"NINA
-(THROWN)"|Well...|speech|NINA|F
+(THROWN)"|Well...|speech|NINA|F|True
 154|LEROY|"Okay, Nina, listen, I honestly
 don't care about your technique,
-you should know that by now."|speech|LEROY|F
-155|NINA|Yes, but-|speech|NINA|F
+you should know that by now."|speech|LEROY|F|True
+155|NINA|Yes, but-|speech|NINA|F|True
 156|LEROY|"Anyway, I've already chosen
-Veronica, so..."|speech|LEROY|F
-157||"He lifts his hands in the air, ""there you go."""|stage direction||
+Veronica, so..."|speech|LEROY|F|True
+157||"He lifts his hands in the air, ""there you go."""|stage direction|||
 158|"NINA
-(DEVASTATED)"|I see.|speech|NINA|F
-159||She makes a move towards the door.|stage direction||
+(DEVASTATED)"|I see.|speech|NINA|F|True
+159||She makes a move towards the door.|stage direction|||
 160|LEROY|"You're not going to try and change
-my mind?"|speech|LEROY|F
+my mind?"|speech|LEROY|F|True
 161||"She looks back at him, uncertain.
-Leroy nonchalantly stubs out his cigarette."|stage direction||
+Leroy nonchalantly stubs out his cigarette."|stage direction|||
 162|LEROY (CONT'D)|"You must have thought it was
 possible, coming to find me like
-this."|speech|LEROY|F
+this."|speech|LEROY|F|True
 163||"He pauses, looks her up and down as if trying to decipher
-her."|stage direction||
-164|LEROY (CONT'D)|18.|speech|LEROY|F
-165|LEROY (CONT'D)|Why are you here? All dolled up?|speech|LEROY|F
+her."|stage direction|||
+164|LEROY (CONT'D)|18.|speech|LEROY|F|True
+165|LEROY (CONT'D)|Why are you here? All dolled up?|speech|LEROY|F|True
 166|"NINA
 (UNSURE)"|"I came to ask you to give me the
-part."|speech|NINA|F
-167|LEROY|That all?|speech|LEROY|F
+part."|speech|NINA|F|True
+167|LEROY|That all?|speech|LEROY|F|True
 168||"She doesn't know what he means. He comes around his desk and
-approaches her."|stage direction||
+approaches her."|stage direction|||
 169|LEROY (CONT'D)|"Truth is, when I look at you, all I
 see is the White Swan. Yes, you're
 beautiful, fragile, fearful. Ideal
 casting. But the Black Swan...it's
-a hard fucking job to dance both."|speech|LEROY|F
-170|NINA|I can be the Black Swan too.|speech|NINA|F
+a hard fucking job to dance both."|speech|LEROY|F|True
+170|NINA|I can be the Black Swan too.|speech|NINA|F|True
 171|LEROY|"Really? She's hungry, volatile. In
 four years, every time you dance, I
 see you obsess over getting each
 move exactly right, but I never see
-you lose yourself."|speech|LEROY|F
-172||Insecure, she looks like she wants to run out of the room.|stage direction||
-173|LEROY (CONT'D)|All that discipline, for what?|speech|LEROY|F
-174|NINA|I want to be perfect.|speech|NINA|F
-175||He laughs.|stage direction||
+you lose yourself."|speech|LEROY|F|True
+172||Insecure, she looks like she wants to run out of the room.|stage direction|||
+173|LEROY (CONT'D)|All that discipline, for what?|speech|LEROY|F|True
+174|NINA|I want to be perfect.|speech|NINA|F|True
+175||He laughs.|stage direction|||
 176|LEROY|"Perfection's not just about
 control. It's also about letting
 go. Surprising the audience.
-Surprising yourself. Transcendence."|speech|LEROY|F
-177||He considers her for a moment.|stage direction||
-178|LEROY (CONT'D)|Very few have it in them.|speech|LEROY|F
+Surprising yourself. Transcendence."|speech|LEROY|F|True
+177||He considers her for a moment.|stage direction|||
+178|LEROY (CONT'D)|Very few have it in them.|speech|LEROY|F|True
 179|"NINA
-I-"|18A.|speech|NINAI-|?
+I-"|18A.|speech|NINAI-|?|
 180||"Without warning, he slowly plants a kiss on her mouth.
-It lasts for a moment, but he suddenly jerks away."|stage direction||
-181|LEROY|Ow! Fuck!|speech|LEROY|F
-182||He touches his lip, stunned.|stage direction||
+It lasts for a moment, but he suddenly jerks away."|stage direction|||
+181|LEROY|Ow! Fuck!|speech|LEROY|F|True
+182||He touches his lip, stunned.|stage direction|||
 183|LEROY (CONT'D)|"You bit me.
 19.
-She's too scared to respond."|speech|LEROY|F
+She's too scared to respond."|speech|LEROY|F|True
 184|"LEROY (CONT'D)
 (AMUSED)"|"I can't believe it. That fucking
 hurt.
 He goes to the mirror to check for damage. He glances back at
-Nina."|speech|LEROY|F
+Nina."|speech|LEROY|F|True
 185|"NINA
 (MUMBLED)"|"Sorry.
-She quickly leaves, shell-shocked."|speech|NINA|F
-186||24 INT. LARGE REHEARSAL SPACE - DAY 24|stage direction||
+She quickly leaves, shell-shocked."|speech|NINA|F|True
+186||24 INT. LARGE REHEARSAL SPACE - DAY 24|stage direction|||
 187|"NINA
 (MUMBLED)"|"The company stretch and go through their usual warm-up
 routine, a tension in the air. The casting decision still
 uncertain.
 Nina touches her lips, thinking about the encounter. Then
 looks over at Veronica, knowing the good news in store.
-Veronica notices. Nina looks away."|speech|NINA|F
+Veronica notices. Nina looks away."|speech|NINA|F|True
 188|"VERONICA
 (IRKED)"|"What?
 Nina shakes her head.
@@ -602,10 +602,10 @@ A sudden energy sweeps the room, and she hears the sound of
 scuffling feet and whispering. ""It's up."" ""She just posted
 it."" ""C'mon.""
 The dancers start exiting into the hallway. Veronica turns to
-follow."|speech|VERONICA|F
+follow."|speech|VERONICA|F|True
 189|NINA|"Veronica?
 Veronica turns around. It's hard, but Nina decides to be a
-good loser."|speech|NINA|F
+good loser."|speech|NINA|F|True
 190|NINA (CONT'D)|"Congratulations.
 Nina subtly glances at the exiting girls and Veronica
 immediately gets it.
@@ -614,18 +614,18 @@ see for herself.
 20.
 Knowing the outcome already, Nina continues stretching in the
 deserted space, resigned to her fate. She finishes, grabs
-her belongings and walks out."|speech|NINA|F
-191||25 INT. BACKSTAGE HALLWAY - SAME 25|stage direction||
+her belongings and walks out."|speech|NINA|F|True
+191||25 INT. BACKSTAGE HALLWAY - SAME 25|stage direction|||
 192|NINA (CONT'D)|"A crowd of dancers surround the bulletin board, jostling to
 get a look.
 Nina starts walking down the hall in the opposite direction.
 Behind her, she can hear a small commotion and then:
 VERONICA (O.S.)
 Why did you tell me that?
-She turns and sees Veronica, her face flushed with anger."|speech|NINA|F
-193|VERONICA (CONT'D)|Your idea of a joke?|speech|VERONICA|F
+She turns and sees Veronica, her face flushed with anger."|speech|NINA|F|True
+193|VERONICA (CONT'D)|Your idea of a joke?|speech|VERONICA|F|True
 194|"NINA
-(CONFUSED)"|What?|speech|NINA|F
+(CONFUSED)"|What?|speech|NINA|F|True
 195|VERONICA|"Fuck you.
 Veronica storms away.
 The group of girls stares at Nina, making her very self-
@@ -634,28 +634,28 @@ Nina tentatively approaches the bulletin board, to see what
 Veronica's outburst was all about.
 First a few, then more and more of the girls smile at her.
 They make room for her as she pushes through.
-She finally gets to the CASTING NOTICE, finds ""Swan Queen"""|speech|VERONICA|F
+She finally gets to the CASTING NOTICE, finds ""Swan Queen"""|speech|VERONICA|F|True
 196|"AND UNDERNEATH:
 NINA SAYERS"|"Stunned, she turns around to face the mass of ballerinas.
 She sees Lily eyeing her with a flat expression, which turns
 into a smile to mask her disappointment.
 The other girls start congratulating and hugging Nina, some
 more sincerely than others.
-21."|speech|AND UNDERNEATH:NINA SAYERS|?
-197||26 INT. THEATER BATHROOM - DAY 26|stage direction||
+21."|speech|AND UNDERNEATH:NINA SAYERS|?|
+197||26 INT. THEATER BATHROOM - DAY 26|stage direction|||
 198|"AND UNDERNEATH:
 NINA SAYERS"|"Nina bursts in through the door and heads directly for one of
 the stalls.
 She locks herself in for privacy and dials a number on her
 CELL PHONE. She holds it to her ear, anxiously waiting for
-the person to answer."|speech|AND UNDERNEATH:NINA SAYERS|?
+the person to answer."|speech|AND UNDERNEATH:NINA SAYERS|?|
 199|NINA|"Hey...Everything's fine...He picked
 me, mommy.
-She waits for a response."|speech|NINA|F
+She waits for a response."|speech|NINA|F|True
 200|NINA (CONT'D)|"Did you hear me?...Yes, I'm going
 to be the Swan Queen.
 Nina laughs at her mother's response and can't help but start
-crying."|speech|NINA|F
+crying."|speech|NINA|F|True
 201|NINA (CONT'D)|"I'll be home soon, okay? I just had
 to tell you.
 Nina hangs up and the tears really start flowing. She's
@@ -666,12 +666,12 @@ Horrified to discover ""WHORE"" written on the mirror in RED
 LIPSTICK.
 Nina looks around the bathroom, to make sure she's alone.
 She snags a paper towel and wipes off the insult, smearing
-the mirror with red streaks."|speech|NINA|F
-202||27 INT. UPPER WEST SIDE APARTMENT - AFTERNOON 27|stage direction||
-203|NINA (CONT'D)|Nina unlocks the door to the apartment.|speech|NINA|F
+the mirror with red streaks."|speech|NINA|F|True
+202||27 INT. UPPER WEST SIDE APARTMENT - AFTERNOON 27|stage direction|||
+203|NINA (CONT'D)|Nina unlocks the door to the apartment.|speech|NINA|F|True
 204|NINA|"Mom?
-Nina looks around, puzzled she isn't there."|speech|NINA|F
-205||28 INT. ERICA'S BEDROOM - LATER 28|stage direction||
+Nina looks around, puzzled she isn't there."|speech|NINA|F|True
+205||28 INT. ERICA'S BEDROOM - LATER 28|stage direction|||
 206|NINA|"Nina opens the door and pokes her head in.
 22.
 But Erica's not in there either. Nina glances at the walls.
@@ -681,8 +681,8 @@ the ORIGINAL PHOTOGRAPH is clipped to a painting in progress.
 Out of the corner of her eye, one of the portraits seems to
 shift. Nina turns towards it, but the painting's now
 perfectly still.
-Unsettled, Nina withdraws."|speech|NINA|F
-207||29 INT. APARTMENT BATHROOM - NIGHT 29|stage direction||
+Unsettled, Nina withdraws."|speech|NINA|F|True
+207||29 INT. APARTMENT BATHROOM - NIGHT 29|stage direction|||
 208|NINA|"Post-shower, Nina's fuzzy reflection stares back in a steam
 covered mirror.
 Nina takes her hand and wipes a streak across, to see herself
@@ -700,37 +700,37 @@ Nina slides the hamper in front of the door to block it.
 In the mirror now, one of the bumps is scratched and
 bleeding.
 Nina quickly wipes the blood off with her finger.
-The sound of the front door opening steals her attention."|speech|NINA|F
-209||30 INT. UPPER WEST SIDE APARTMENT - NIGHT 30|stage direction||
+The sound of the front door opening steals her attention."|speech|NINA|F|True
+209||30 INT. UPPER WEST SIDE APARTMENT - NIGHT 30|stage direction|||
 210|NINA|"Nina exits the bathroom wearing a robe.
 In the kitchen, she sees a CAKE with a lit SPARKLER sitting
 on the table. Her mother smiles anxiously.
-23."|speech|NINA|F
+23."|speech|NINA|F|True
 211|ERICA|"My daughter, the Swan Queen.
 She opens her arms and Nina falls into a hug.
 She looks at the cake. It has a ballerina sketched with
-frosting. Nina hides her disdain."|speech|ERICA|F
-212|NINA|Oh, mom.|speech|NINA|F
+frosting. Nina hides her disdain."|speech|ERICA|F|True
+212|NINA|Oh, mom.|speech|NINA|F|True
 213|ERICA|"It's our favorite, vanilla with
 strawberry filling.
-Erica picks up a knife and slices into the cake."|speech|ERICA|F
+Erica picks up a knife and slices into the cake."|speech|ERICA|F|True
 214|NINA|"Just a little piece.
-Erica ignores her and starts cutting a very large piece."|speech|NINA|F
-215|NINA (CONT'D)|That's way too much.|speech|NINA|F
-216|ERICA|It's a celebration.|speech|ERICA|F
-217|NINA|My stomach's still in knots.|speech|NINA|F
+Erica ignores her and starts cutting a very large piece."|speech|NINA|F|True
+215|NINA (CONT'D)|That's way too much.|speech|NINA|F|True
+216|ERICA|It's a celebration.|speech|ERICA|F|True
+217|NINA|My stomach's still in knots.|speech|NINA|F|True
 218|"ERICA
 (OFFENDED)"|"Fine then.
-Erica grabs the whole cake and heads towards the trash."|speech|ERICA|F
+Erica grabs the whole cake and heads towards the trash."|speech|ERICA|F|True
 219|"NINA
 (GUILTY)"|"Mom, don't. I'm sorry.
-Erica hesitates, but returns. She sets the cake back down."|speech|NINA|F
+Erica hesitates, but returns. She sets the cake back down."|speech|NINA|F|True
 220|ERICA|"I'm just so proud of you.
-Erica lifts the slice onto a plate."|speech|ERICA|F
-221|NINA|It looks yummy.|speech|NINA|F
-222||31 OMITTED 31|location||
-223|NINA|24.|speech|NINA|F
-224||32 INT. PRINCIPAL REHEARSAL SPACE - DAY 32|stage direction||
+Erica lifts the slice onto a plate."|speech|ERICA|F|True
+221|NINA|It looks yummy.|speech|NINA|F|True
+222||31 OMITTED 31|location|||
+223|NINA|24.|speech|NINA|F|True
+224||32 INT. PRINCIPAL REHEARSAL SPACE - DAY 32|stage direction|||
 225|NINA|"First day in the new role, Nina stretches alone.
 Muffled sounds of other ballerinas chatting and giggling
 drift in from the large rehearsal space. Makes Nina feel a
@@ -738,15 +738,15 @@ little isolated.
 DAVID (O.S.)
 Hey there...
 Nina turns and sees DAVID, the high-cheeked, cocky dancer
-playing Prince Siegfried."|speech|NINA|F
+playing Prince Siegfried."|speech|NINA|F|True
 226|DAVID (CONT'D)|"It is so full, where do I stand.
-It is his version of a joke. Nina politely laughs."|speech|DAVID|F
-227|NINA|Yeah...good luck finding a spot.|speech|NINA|F
-228|DAVID|I am David.|speech|DAVID|F
-229|NINA|I know you are. I'm Nina.|speech|NINA|F
+It is his version of a joke. Nina politely laughs."|speech|DAVID|F|True
+227|NINA|Yeah...good luck finding a spot.|speech|NINA|F|True
+228|DAVID|I am David.|speech|DAVID|F|True
+229|NINA|I know you are. I'm Nina.|speech|NINA|F|True
 230|DAVID|"Yes. Here we go, huh?
-She nods, nervous."|speech|DAVID|F
-231||33 INT. PRINCIPAL REHEARSAL SPACE - LATER 33|stage direction||
+She nods, nervous."|speech|DAVID|F|True
+231||33 INT. PRINCIPAL REHEARSAL SPACE - LATER 33|stage direction|||
 232|DAVID|"David dances around the space, miming a hunt with a cross-
 bow.
 Nina enters, stretches her body to illustrate her
@@ -757,23 +757,23 @@ undulating her arms to resemble a bird's flapping.
 David gives chase, but Nina spins out of his grasp,
 disentangles from him.
 But he eventually snags her, and they come very close
-together."|speech|DAVID|F
+together."|speech|DAVID|F|True
 233|LEROY|"Okay!
 The music stops. Nina breaks out of character and looks at
 Leroy, anxious for his reaction.
-The Russian ballet mistress nods and smiles, clearly pleased."|speech|LEROY|F
+The Russian ballet mistress nods and smiles, clearly pleased."|speech|LEROY|F|True
 234|LEROY (CONT'D)|"Okay, Nina. Very good.
 Nina smiles, relieved. Leroy hops out of his chair and
-approaches."|speech|LEROY|F
+approaches."|speech|LEROY|F|True
 235|LEROY (CONT'D)|"But I knew the White Swan wouldn't
 be a problem. The real work will be
 your metamorphosis into the Black
-Swan."|speech|LEROY|F
-236|NINA|Okay.|speech|NINA|F
+Swan."|speech|LEROY|F|True
+236|NINA|Okay.|speech|NINA|F|True
 237|LEROY|"I saw a flash of her yesterday. Get
 ready to show me more of that bite.
-He gives her an impish smirk. She looks down, embarrassed."|speech|LEROY|F
-238||34 INT. BACKSTAGE HALLWAY - DAY 34|stage direction||
+He gives her an impish smirk. She looks down, embarrassed."|speech|LEROY|F|True
+238||34 INT. BACKSTAGE HALLWAY - DAY 34|stage direction|||
 239|LEROY|"Nina takes a drink from the water fountain. She hears music
 emanating from the large rehearsal studio.
 Curious, she walks to the open doorway and stops to watch.
@@ -785,48 +785,48 @@ LEROY (O.S.)
 Watch the way she moves...
 26.
 Leroy has snuck up behind Nina at the doorway and gets very
-close to her."|speech|LEROY|F
+close to her."|speech|LEROY|F|True
 240|LEROY (CONT'D)|"Imprecise, but sensual. She's not
 faking it. Pay attention.
 Lily makes a small mistake, but cracks up laughing, amused
 rather than bothered by her blunder.
-Nina stares at her, attracted and threatened."|speech|LEROY|F
-241||A35 INT. PRINCIPAL DRESSING ROOM - DAY A35|stage direction||
-242|LEROY (CONT'D)|The company's administrator, SUSIE, shows Nina into the room.|speech|LEROY|F
+Nina stares at her, attracted and threatened."|speech|LEROY|F|True
+241||A35 INT. PRINCIPAL DRESSING ROOM - DAY A35|stage direction|||
+242|LEROY (CONT'D)|The company's administrator, SUSIE, shows Nina into the room.|speech|LEROY|F|True
 243|SUSIE|"You share with Beth from now on, so
-be considerate."|speech|SUSIE|M
+be considerate."|speech|SUSIE|M|
 244|NINA|"Thanks, Susie.
 Awed, Nina looks around the room. She scans Beth's
 photographs and personal belongings, and lands on a large
-bouquet of FRESH FLOWERS."|speech|NINA|F
-245|SUSIE|Those are for you. From Mr. Leroy.|speech|SUSIE|M
+bouquet of FRESH FLOWERS."|speech|NINA|F|True
+245|SUSIE|Those are for you. From Mr. Leroy.|speech|SUSIE|M|
 246|NINA|"Beautiful.
 Susie leaves.
 Nina pulls a card out from the flowers and reads. A faint
 smile curls her lips.
 She opens her shoulder bag and removes a SMALL SATCHEL. She
-pulls out a pair of DIAMOND STUD EARRINGS and puts them on."|speech|NINA|F
-247||35 INT. PATRON OF THE ARTS APARTMENT - NIGHT 35|stage direction||
+pulls out a pair of DIAMOND STUD EARRINGS and puts them on."|speech|NINA|F|True
+247||35 INT. PATRON OF THE ARTS APARTMENT - NIGHT 35|stage direction|||
 248|NINA|"Leroy pulls Nina through a fundraiser gala, filled with rich
 looking PATRONS and some DANCERS from the company.
 Bewildered, Nina takes in her high-society surroundings,
 getting the occasional curious glance as she passes.
 Leroy grabs a couple CHAMPAGNE glasses off a WAITER'S tray.
 He hands a glass to Nina with a smile.
-27."|speech|NINA|F
+27."|speech|NINA|F|True
 249||"He leads her up a staircase to a landing that overlooks the
-party."|stage direction||
+party."|stage direction|||
 250|LEROY|"Ready to be thrown to the wolves?
-We need their cash, so smile."|speech|LEROY|F
-251||She smiles, as instructed.|stage direction||
-252|LEROY (CONT'D)|Ladies and gentlemen, good evening.|speech|LEROY|F
-253||The crowd turns their gaze towards them. All eyes on her.|stage direction||
+We need their cash, so smile."|speech|LEROY|F|True
+251||She smiles, as instructed.|stage direction|||
+252|LEROY (CONT'D)|Ladies and gentlemen, good evening.|speech|LEROY|F|True
+253||The crowd turns their gaze towards them. All eyes on her.|stage direction|||
 254|LEROY (CONT'D)|"As I stand here tonight, I see so
 many familiar faces. Your
 contribution to the art we all
 cherish profoundly goes straight to
-my heart and I am very grateful."|speech|LEROY|F
-255||Polite applause.|stage direction||
+my heart and I am very grateful."|speech|LEROY|F|True
+255||Polite applause.|stage direction|||
 256|LEROY (CONT'D)|"Let me begin with a very important
 announcement. You all have had the
 chance to be enchanted,
@@ -837,28 +837,28 @@ an exceptional inspiration to my
 work, a role model to our dancers
 and a deeply satisfying presence on
 our stage. You all know who I am
-talking about...Beth Macintyre"|speech|LEROY|F
+talking about...Beth Macintyre"|speech|LEROY|F|True
 257||"More applause. Nervous, Nina unconsciously picks at her
-cuticles."|stage direction||
+cuticles."|stage direction|||
 258|LEROY (CONT'D)|"As we all know, every great career
 comes to an end. Beth is retiring
 at the end of the season. She will
 be giving her farewell performance
 as Melpomene, the role she
-originated in my first ballet."|speech|LEROY|F
+originated in my first ballet."|speech|LEROY|F|True
 259||"People start whispering, stunned by the news. Nina sees Beth
 in the crowd, giving a sad smile to the surrounding guests.
-Trying to remain dignified."|stage direction||
-260|LEROY (CONT'D)|28.|speech|LEROY|F
+Trying to remain dignified."|stage direction|||
+260|LEROY (CONT'D)|28.|speech|LEROY|F|True
 261|LEROY (CONT'D)|"She will be greatly missed, but she
 will always be remembered. My
 little princess.
 Amidst the mummering, Nina sees Beth quietly sneak out of the
-crowd and out the front door. Leroy quickly covers."|speech|LEROY|F
+crowd and out the front door. Leroy quickly covers."|speech|LEROY|F|True
 262|LEROY (CONT'D)|"But as we bid adieu to one star, we
 welcome another!
 He looks at Nina. She stops picking her nails, self-
-conscious."|speech|LEROY|F
+conscious."|speech|LEROY|F|True
 263|LEROY (CONT'D)|"As you know, we open our season
 with my new version of Swan Lake.
 Taking the role of our new Swan
@@ -868,32 +868,32 @@ Restrained APPLAUSE.
 Nina steps forward and curtseys. Someone seems to GIGGLE at
 her. Insecure, Nina glances towards the source and sees Lily
 flirting with a RICH GENT, uninterested in the official
-proceedings."|speech|LEROY|F
+proceedings."|speech|LEROY|F|True
 264|LEROY (CONT'D)|"Soon you will have the pleasure of
 seeing her perform, tonight we
 raise a glass. To all of you, to
 Nina, to Beth, to beauty!
-He downs his drink and the crowd follows suit."|speech|LEROY|F
-265||36 INT. LIVING ROOM, PATRON OF THE ARTS APARTMENT - LATER 36|stage direction||
+He downs his drink and the crowd follows suit."|speech|LEROY|F|True
+265||36 INT. LIVING ROOM, PATRON OF THE ARTS APARTMENT - LATER 36|stage direction|||
 266|LEROY (CONT'D)|"PARTY GUESTS surround Nina and Leroy, trying to meet the
-company's newest star. Nina basks in all the attention."|speech|LEROY|F
+company's newest star. Nina basks in all the attention."|speech|LEROY|F|True
 267|LEROY|"Dr. Brinson and his lovely wife,
 Ellen, tonight's sponsors.
-She shakes DR. BRINSON'S hand and curtseys to MRS. BRINSON."|speech|LEROY|F
+She shakes DR. BRINSON'S hand and curtseys to MRS. BRINSON."|speech|LEROY|F|True
 268|NINA|"Such a beautiful event.
 29.
 MRS. BRINSON
 Not as beautiful as you, dear.
-Nina demurs. They're replaced by another HUSBAND and WIFE."|speech|NINA|F
+Nina demurs. They're replaced by another HUSBAND and WIFE."|speech|NINA|F|True
 269|LEROY|"And this is Mr. and Mrs. Stein.
 Nina repeats the pleasantries, this time noticing that one of
 her cuticles is bleeding. She awkwardly pulls her hand away.
-Leroy leans in and whispers in her ear."|speech|LEROY|F
-270|LEROY (CONT'D)|Relax, you're doing great.|speech|LEROY|F
-271||37 INT. BATHROOM - LATER 37|stage direction||
+Leroy leans in and whispers in her ear."|speech|LEROY|F|True
+270|LEROY (CONT'D)|Relax, you're doing great.|speech|LEROY|F|True
+271||37 INT. BATHROOM - LATER 37|stage direction|||
 272|CUT TO:|"Nina washes her hands. She looks at herself in the mirror and
 takes a deep breath.
-Someone KNOCKS on the door."|speech|CUT TO:|?
+Someone KNOCKS on the door."|speech|CUT TO:|?|
 273|NINA|"Just a second.
 She turns off the water and wipes her damp hands on the back
 of her neck, trying to cool herself.
@@ -906,119 +906,119 @@ LILY (O.S.)
 Come on! I'm about to burst!
 Nina quickly balls up the peeled skin and throws it away.
 She opens the door.
-30."|speech|NINA|F
-274||Lily pushes in.|stage direction||
-275|LILY (CONT'D)|Hey! Look who it is.|speech|LILY|F
-276||Lily closes the door behind her and locks it.|stage direction||
+30."|speech|NINA|F|True
+274||Lily pushes in.|stage direction|||
+275|LILY (CONT'D)|Hey! Look who it is.|speech|LILY|F|True
+276||Lily closes the door behind her and locks it.|stage direction|||
 277|LILY (CONT'D)|"I'm Lily, by the way. Don't think
-we've officially met."|speech|LILY|F
+we've officially met."|speech|LILY|F|True
 278|"NINA
-(RATTLED)"|Nina.|speech|NINA|F
+(RATTLED)"|Nina.|speech|NINA|F|True
 279|LILY|"Our New Swan Queen! That is so
-huge! You must be freaking out."|speech|LILY|F
-280|NINA|Yeah...|speech|NINA|F
+huge! You must be freaking out."|speech|LILY|F|True
+280|NINA|Yeah...|speech|NINA|F|True
 281||"Lily slides her PANTIES out from under her dress and puts
-them in her clutch."|stage direction||
-282|NINA (CONT'D)|I should probably get back.|speech|NINA|F
-283|LILY|Stay. Keep me company.|speech|LILY|F
+them in her clutch."|stage direction|||
+282|NINA (CONT'D)|I should probably get back.|speech|NINA|F|True
+283|LILY|Stay. Keep me company.|speech|LILY|F|True
 284||"Lily starts to refresh her makeup.
-Nina stays put for a second, uncertain."|stage direction||
+Nina stays put for a second, uncertain."|stage direction|||
 285|NINA|"Excuse me.
 31.
 She opens the door and steps out, where she's immediately met
 by Leroy.
 LEROY (O.S.)
 Ah, there you are.
-Lily closes the door behind her."|speech|NINA|F
-286||38 EXT. UPPER EAST SIDE APARTMENT BUILDING - NIGHT 38|stage direction||
+Lily closes the door behind her."|speech|NINA|F|True
+286||38 EXT. UPPER EAST SIDE APARTMENT BUILDING - NIGHT 38|stage direction|||
 287|NINA|"Leroy escorts Nina out. It's a couple hours later and she's
-tipsy. She stumbles a little and grabs onto Leroy."|speech|NINA|F
+tipsy. She stumbles a little and grabs onto Leroy."|speech|NINA|F|True
 288|NINA|"I think I drank too much. All those
-toasts..."|speech|NINA|F
-289|LEROY|You did well.|speech|LEROY|F
-290|NINA|Really?|speech|NINA|F
+toasts..."|speech|NINA|F|True
+289|LEROY|You did well.|speech|LEROY|F|True
+290|NINA|Really?|speech|NINA|F|True
 291|LEROY|"They tried to eat you alive, but
-here you are, in one piece."|speech|LEROY|F
+here you are, in one piece."|speech|LEROY|F|True
 292|"NINA
-(MELTING)"|I guess.|speech|NINA|F
+(MELTING)"|I guess.|speech|NINA|F|True
 293|LEROY|"I'll get you a cab. Where you
-going?"|speech|LEROY|F
-294|NINA|Oh, Upper West Side.|speech|NINA|F
+going?"|speech|LEROY|F|True
+294|NINA|Oh, Upper West Side.|speech|NINA|F|True
 295|LEROY|"Why don't you come to my place
 first? It's on the way.
 She gives him a coy glance, reading between the lines and
-hiding her excitement."|speech|LEROY|F
+hiding her excitement."|speech|LEROY|F|True
 296|LEROY (CONT'D)|"For a drink. Unless you've had
-enough."|speech|LEROY|F
+enough."|speech|LEROY|F|True
 297|NINA|"No, that's good.
 He starts to look for a cab.
 32.
 MRS. BRINSON (O.S.)
-Thomas!!!"|speech|NINA|F
+Thomas!!!"|speech|NINA|F|True
 298||"They turn, see Mrs. Brinson, the host of the party, standing
-at the door."|stage direction||
+at the door."|stage direction|||
 299|NINA|"MRS. BRINSON (CONT'D)
 You need to say hello to Karen
 Halloway before you disappear.
 She's from Texas. Correction: she
-is Texas."|speech|NINA|F
+is Texas."|speech|NINA|F|True
 300|"LEROY
 (TO NINA)"|"A minute more of ass-kissing. Wait
-here."|speech|LEROY|F
+here."|speech|LEROY|F|True
 301||"He runs back inside to say his goodbyes.
 Nina smiles after him, giddy and anxious.
 She notices a slender figure watching her from the shadows of
-the adjoining doorway. In the dark, she looks like Nina."|stage direction||
+the adjoining doorway. In the dark, she looks like Nina."|stage direction|||
 302|"NINA
-(CONCERNED)"|Hello?|speech|NINA|F
+(CONCERNED)"|Hello?|speech|NINA|F|True
 303||"Spotted, the figure backs up, seeming to disappear.
 Nina cautiously approaches, but can't see anyone.
 She gets closer to the doorway...and someone JUMPS OUT,
 startling her.
-It's Beth, drunk and shivering. Cheeks streaked with mascara."|stage direction||
-304|NINA (CONT'D)|Beth? What are you doing out here?|speech|NINA|F
+It's Beth, drunk and shivering. Cheeks streaked with mascara."|stage direction|||
+304|NINA (CONT'D)|Beth? What are you doing out here?|speech|NINA|F|True
 305||"Beth stares her down. Nina backs up, nervously grabbing her
-earlobe."|stage direction||
+earlobe."|stage direction|||
 306|NINA (CONT'D)|"I was crushed to hear that you're
-leaving."|speech|NINA|F
+leaving."|speech|NINA|F|True
 307|BETH|"What'd you do to get the role?
-33."|speech|BETH|F
-308||Nina shakes her head, confused.|stage direction||
+33."|speech|BETH|F|True
+308||Nina shakes her head, confused.|stage direction|||
 309|BETH (CONT'D)|"He always said you were a frigid
-little girl."|speech|BETH|F
-310||Her words needle Nina, too close to the truth.|stage direction||
+little girl."|speech|BETH|F|True
+310||Her words needle Nina, too close to the truth.|stage direction|||
 311|BETH (CONT'D)|"So what did you do to make him
-change his mind? Suck his cock?"|speech|BETH|F
-312|NINA|Some of us don't need to do that.|speech|NINA|F
-313||Nina's struck a nerve. Beth starts to come at her.|stage direction||
-314|BETH|You fucking little whore.|speech|BETH|F
+change his mind? Suck his cock?"|speech|BETH|F|True
+312|NINA|Some of us don't need to do that.|speech|NINA|F|True
+313||Nina's struck a nerve. Beth starts to come at her.|stage direction|||
+314|BETH|You fucking little whore.|speech|BETH|F|True
 315|"NINA
 (GUILTY)"|"Beth, I'm-
 LEROY (O.S.)
-What's going on?"|speech|NINA|F
-316||They both turn to see Leroy returned.|stage direction||
-317|BETH|I need to talk to you.|speech|BETH|F
-318|LEROY|You're drunk. You should go home.|speech|LEROY|F
+What's going on?"|speech|NINA|F|True
+316||They both turn to see Leroy returned.|stage direction|||
+317|BETH|I need to talk to you.|speech|BETH|F|True
+318|LEROY|You're drunk. You should go home.|speech|LEROY|F|True
 319|BETH|"Don't do that! Don't just dismiss
-me!"|speech|BETH|F
+me!"|speech|BETH|F|True
 320|"LEROY
 (EXASPERATED)"|"Poor, poor little princess. Try to
-hold it together."|speech|LEROY|F
+hold it together."|speech|LEROY|F|True
 321|BETH|"I'm going to drop by later, okay? I
-have something I want to give you."|speech|BETH|F
+have something I want to give you."|speech|BETH|F|True
 322|"LEROY
-(IGNORING HER)"|Come on.|speech|LEROY|F
-323||He puts his arm around Nina, starts to lead her away.|stage direction||
+(IGNORING HER)"|Come on.|speech|LEROY|F|True
+323||He puts his arm around Nina, starts to lead her away.|stage direction|||
 324|"LEROY
 (IGNORING HER)"|"34.
 BETH (O.S.)
 A token of my appreciation.
 He ignores her and raises his arm to hail a cab. As they
-enter the cab, Beth calls after them."|speech|LEROY|F
+enter the cab, Beth calls after them."|speech|LEROY|F|True
 325|BETH (CONT'D)|"Make the most of it Nina.
 Through the cab window Nina looks at Beth, troubled by her
-words."|speech|BETH|F
-326||39 INT. LEROY'S APARTMENT - NIGHT 39|stage direction||
+words."|speech|BETH|F|True
+326||39 INT. LEROY'S APARTMENT - NIGHT 39|stage direction|||
 327|BETH (CONT'D)|"Tasteful but spare loft. Modern and expensive furniture.
 Large windows.
 Nina stands alone, looking around his inner sanctum, wide-
@@ -1028,96 +1028,96 @@ some of it, in awe.
 LEROY (O.S.)
 Here.
 She turns, finds Leroy holding out yet another flute of
-champagne. For himself, a scotch."|speech|BETH|F
+champagne. For himself, a scotch."|speech|BETH|F|True
 328|NINA|"Thanks.
 She looks up at him, expecting him to make a move. Instead,
 he walks away, and sits in a chair. He gestures for her to
 sit as well.
 Confused, she sits across from him, alone on the large couch.
 He takes an unceremonious sip of his drink and studies her.
-Uncomfortable, she takes a drink as well."|speech|NINA|F
+Uncomfortable, she takes a drink as well."|speech|NINA|F|True
 329|LEROY|"I thought it'd be good to talk
-about the role. Ground us a little."|speech|LEROY|F
-330|NINA|Yes.|speech|NINA|F
+about the role. Ground us a little."|speech|LEROY|F|True
+330|NINA|Yes.|speech|NINA|F|True
 331|LEROY|"The better we get to know each
 other, the more productive we'll
 be. I don't want there to be any
 boundaries between us.
-35."|speech|LEROY|F
-332|NINA|Me neither.|speech|NINA|F
-333|LEROY|Good. So, do you have a boyfriend?|speech|LEROY|F
+35."|speech|LEROY|F|True
+332|NINA|Me neither.|speech|NINA|F|True
+333|LEROY|Good. So, do you have a boyfriend?|speech|LEROY|F|True
 334||"She's caught off guard by his question and just smiles
 uncomfortably. He waits for an answer. Finally she manages a
-reply."|stage direction||
-335|NINA|No...|speech|NINA|F
-336|LEROY|Have you had many in the past?|speech|LEROY|F
-337|NINA|A few. But no one serious.|speech|NINA|F
-338|LEROY|You're not a virgin, are you?|speech|LEROY|F
+reply."|stage direction|||
+335|NINA|No...|speech|NINA|F|True
+336|LEROY|Have you had many in the past?|speech|LEROY|F|True
+337|NINA|A few. But no one serious.|speech|NINA|F|True
+338|LEROY|You're not a virgin, are you?|speech|LEROY|F|True
 339||"Her expression sours at this line of questioning. She shakes
-her head."|stage direction||
+her head."|stage direction|||
 340|LEROY (CONT'D)|"Then there's nothing to be
 embarrassed about, is there?
 (she shakes her head)
-And you enjoy making love?"|speech|LEROY|F
-341|NINA|Excuse me?|speech|NINA|F
-342|LEROY|Sex. Do you enjoy it?|speech|LEROY|F
-343||Blushing and feeling awkward, she takes a sip of champagne.|stage direction||
+And you enjoy making love?"|speech|LEROY|F|True
+341|NINA|Excuse me?|speech|NINA|F|True
+342|LEROY|Sex. Do you enjoy it?|speech|LEROY|F|True
+343||Blushing and feeling awkward, she takes a sip of champagne.|stage direction|||
 344|LEROY (CONT'D)|"We need to be able to talk about
-this."|speech|LEROY|F
-345|NINA|Okay.|speech|NINA|F
-346|LEROY|So?|speech|LEROY|F
+this."|speech|LEROY|F|True
+345|NINA|Okay.|speech|NINA|F|True
+346|LEROY|So?|speech|LEROY|F|True
 347||"Nina looks at him, embarrassed, and shrugs.
-He smirks, and joins her on the couch."|stage direction||
-348|LEROY|36.|speech|LEROY|F
+He smirks, and joins her on the couch."|stage direction|||
+348|LEROY|36.|speech|LEROY|F|True
 349|LEROY (CONT'D)|"I have a homework assignment for
-you."|speech|LEROY|F
-350|NINA|Yes?|speech|NINA|F
+you."|speech|LEROY|F|True
+350|NINA|Yes?|speech|NINA|F|True
 351|LEROY|"Go home and masturbate. Live a
 little.
 She blanches, scandalized. He finishes off his scotch and
-stands."|speech|LEROY|F
+stands."|speech|LEROY|F|True
 352|LEROY (CONT'D)|"It's late. Lots of work tomorrow.
 The doorman will find you a cab.
-He leaves her alone in the living room."|speech|LEROY|F
-353||40 INT. NINA'S BEDROOM - NIGHT 40|stage direction||
+He leaves her alone in the living room."|speech|LEROY|F|True
+353||40 INT. NINA'S BEDROOM - NIGHT 40|stage direction|||
 354|LEROY (CONT'D)|"Nina looks at herself in the mirror, removing bobbie-pins, as
-Erica folds clothing and puts it away."|speech|LEROY|F
+Erica folds clothing and puts it away."|speech|LEROY|F|True
 355|ERICA|"Sounds like quite an evening. Wish
-I could have been there."|speech|ERICA|F
-356|NINA|You know I asked.|speech|NINA|F
+I could have been there."|speech|ERICA|F|True
+356|NINA|You know I asked.|speech|NINA|F|True
 357|ERICA|"I know, Susie told me. Guess he
-wanted you all to himself."|speech|ERICA|F
+wanted you all to himself."|speech|ERICA|F|True
 358|NINA|"That's not why.
-Erica looks adoringly at Nina's reflection in the mirror."|speech|NINA|F
+Erica looks adoringly at Nina's reflection in the mirror."|speech|NINA|F|True
 359|ERICA|"I don't blame him.
-Erica starts to remove Nina's DIAMOND EARRINGS, but pauses."|speech|ERICA|F
-360|ERICA (CONT'D)|Where did you get these?|speech|ERICA|F
+Erica starts to remove Nina's DIAMOND EARRINGS, but pauses."|speech|ERICA|F|True
+360|ERICA (CONT'D)|Where did you get these?|speech|ERICA|F|True
 361|NINA|"They're fake.
-37."|speech|NINA|F
+37."|speech|NINA|F|True
 362|ERICA|"Fooled me.
 Erica removes the earrings, then walks behind Nina to unzip
-her. Nina faces her."|speech|ERICA|F
-363|NINA|I can do it.|speech|NINA|F
+her. Nina faces her."|speech|ERICA|F|True
+363|NINA|I can do it.|speech|NINA|F|True
 364|ERICA|"Turn.
 Nina turns back around, reticent.
 ERICA (O.S.) (CONT'D)
 He must have been at your side all
 night, showing you off.
 Erica finishes unzipping the red dress and sees Nina's
-shoulder."|speech|ERICA|F
+shoulder."|speech|ERICA|F|True
 365|ERICA (CONT'D)|"Oh Nina...
-Remembering, Nina pulls away from her."|speech|ERICA|F
+Remembering, Nina pulls away from her."|speech|ERICA|F|True
 366|NINA|"It's just a rash.
-Erica gruffly pulls Nina to the mirror and turns her around."|speech|NINA|F
+Erica gruffly pulls Nina to the mirror and turns her around."|speech|NINA|F|True
 367|ERICA|"What are you talking about?
 Nina checks her reflection and sees the RASH, red and
-irritated from scratching."|speech|ERICA|F
+irritated from scratching."|speech|ERICA|F|True
 368|NINA|"It was worse a couple days ago.
-It's already getting better."|speech|NINA|F
-369|ERICA|You've been scratching again.|speech|ERICA|F
+It's already getting better."|speech|NINA|F|True
+369|ERICA|You've been scratching again.|speech|ERICA|F|True
 370|"NINA
-NO-"|Erica yanks her out of the room.|speech|NINANO-|?
-371||41 INT. APARTMENT BATHROOM - NIGHT 41|stage direction||
+NO-"|Erica yanks her out of the room.|speech|NINANO-|?|
+371||41 INT. APARTMENT BATHROOM - NIGHT 41|stage direction|||
 372|"NINA
 NO-"|"Nina sits on the toilet, stripped to her underwear. She does
 her best to cover herself.
@@ -1125,18 +1125,18 @@ her best to cover herself.
 Erica finishes dabbing her back with HYDROGEN PEROXIDE and
 replaces the cap on the bottle.
 She pulls out NAIL CLIPPERS and cuts Nina's nails down to
-their base. Each CLICK makes Nina twitch."|speech|NINANO-|?
+their base. Each CLICK makes Nina twitch."|speech|NINANO-|?|
 373|ERICA|"I thought you'd outgrown this
 disgusting habit.(click) You
-haven't done it for years. (click)"|speech|ERICA|F
+haven't done it for years. (click)"|speech|ERICA|F|True
 374|NINA|"Mom, please.
-Erica grabs Nina's other hand."|speech|NINA|F
+Erica grabs Nina's other hand."|speech|NINA|F|True
 375|ERICA|"It's the role, isn't it? All this
 pressure... I was worried it'd be
 too much.
-Nina stares at her, seething."|speech|ERICA|F
-376||42 INT. NINA'S BEDROOM - LATER 42|stage direction||
-377|ERICA|Nina crawls into bed, avoiding her mother's eyes.|speech|ERICA|F
+Nina stares at her, seething."|speech|ERICA|F|True
+376||42 INT. NINA'S BEDROOM - LATER 42|stage direction|||
+377|ERICA|Nina crawls into bed, avoiding her mother's eyes.|speech|ERICA|F|True
 378|ERICA|"Don't be mad at me. You know I love
 you, you know I want what's best.
 But we have to take care of you.
@@ -1145,8 +1145,8 @@ Erica opens the JEWELRY BOX and the tinny music begins
 playing.
 She hums and starts to stroke Nina's hair.
 Nina tries to brush her hand away.
-But Erica brings it back and keeps stroking."|speech|ERICA|F
-379||43 INT. NINA'S BEDROOM - MORNING 43|stage direction||
+But Erica brings it back and keeps stroking."|speech|ERICA|F|True
+379||43 INT. NINA'S BEDROOM - MORNING 43|stage direction|||
 380|ERICA|"Nina lies wide awake after a restless night.
 She slowly reaches down under the covers, down between her
 legs, to complete Leroy's ""homework assignment.""
@@ -1155,8 +1155,8 @@ She closes her eyes and starts to maneuver.
 She suddenly hears a RUSTLING sound and a short SNORE.
 She freezes and opens her eyes. She slowly sits up in bed and
 sees Erica SLEEPING on a chair in the corner of the room.
-Nina glares at her."|speech|ERICA|F
-381||44 INT. LARGE REHEARSAL SPACE - DAY 44|stage direction||
+Nina glares at her."|speech|ERICA|F|True
+381||44 INT. LARGE REHEARSAL SPACE - DAY 44|stage direction|||
 382|ERICA|"Nina waits her turn as a row of DANCERS perform grand jetes
 diagonally across the room.
 She watches Veronica perform her leaps. She rejoins the
@@ -1174,35 +1174,35 @@ The piano music trickles to a halt.
 Nina exchanges glances with some of the other dancers.
 First a few, then more dancers approach the two women,
 wanting to find out what's happened.
-Nina hangs back, filled with a sinking feeling."|speech|ERICA|F
-383||45 EXT. LINCOLN CENTER FOUNTAIN - DAY 45|stage direction||
+Nina hangs back, filled with a sinking feeling."|speech|ERICA|F|True
+383||45 EXT. LINCOLN CENTER FOUNTAIN - DAY 45|stage direction|||
 384|ERICA|"Nina sits as Leroy, worse for the wear, stares at the jets of
-water."|speech|ERICA|F
+water."|speech|ERICA|F|True
 385|NINA|"What happened?
-40."|speech|NINA|F
+40."|speech|NINA|F|True
 386|LEROY|"She walked into the street, got hit
-by a car."|speech|LEROY|F
-387|NINA|Oh my god...|speech|NINA|F
-388|LEROY|I'm sure she did it on purpose.|speech|LEROY|F
-389|NINA|How do you know?|speech|NINA|F
+by a car."|speech|LEROY|F|True
+387|NINA|Oh my god...|speech|NINA|F|True
+388|LEROY|I'm sure she did it on purpose.|speech|LEROY|F|True
+389|NINA|How do you know?|speech|NINA|F|True
 390|LEROY|"Everything Beth ever did came from
 within. From some dark impulse.
 It's what could make her so
 thrilling to watch. Even perfect at
 times. But also destructive.
-Nina hesitates, but has to ask."|speech|LEROY|F
-391|NINA|Was it right after we saw her?|speech|NINA|F
+Nina hesitates, but has to ask."|speech|LEROY|F|True
+391|NINA|Was it right after we saw her?|speech|NINA|F|True
 392|LEROY|"It's not your problem. This has
 nothing to do with you.
-She looks away, not so sure."|speech|LEROY|F
+She looks away, not so sure."|speech|LEROY|F|True
 393|LEROY (CONT'D)|"Nina, don't let yourself be
 distracted. Dance is not
 immortalized like music, poetry or
 art. It lives for now. For this
 moment only. And this is your
 moment.
-She attempts a nod."|speech|LEROY|F
-394||A46 INT. PRINCIPAL DRESSING ROOM - DAY A46|stage direction||
+She attempts a nod."|speech|LEROY|F|True
+394||A46 INT. PRINCIPAL DRESSING ROOM - DAY A46|stage direction|||
 395|LEROY (CONT'D)|"Beth's belongings have already been packed up and cleared.
 Guilt-ridden, Nina tries to get ready.
 She picks up her duffel bag, and removes her SATCHEL. She
@@ -1210,15 +1210,15 @@ unpacks its contents onto the counter: needle and thread,
 cigarettes, a makeup compact, and the tube of lipstick.
 She looks over at the vase of flowers. A few have wilted.
 She pulls them out to make the bouquet look fresh again.
-41."|speech|LEROY|F
-396||46 INT. HOSPITAL - DAY 46|stage direction||
+41."|speech|LEROY|F|True
+396||46 INT. HOSPITAL - DAY 46|stage direction|||
 397|LEROY (CONT'D)|"Nina exits the elevator with a BROWN SHOPPING BAG. She walks
 down a stark hallway and approaches Beth's hospital room.
 Members of BETH'S FAMILY surround the bed, blocking Beth from
 view.
 Nina considers going in, but shyly sulks past, drawing the
-attention of an OLDER NURSE."|speech|LEROY|F
-398|OLDER NURSE|You can go in.|speech|OLDER NURSE|F
+attention of an OLDER NURSE."|speech|LEROY|F|True
+398|OLDER NURSE|You can go in.|speech|OLDER NURSE|F|
 399|NINA|"It's okay.
 The older nurse gives her a skeptical glance and continues on
 her rounds.
@@ -1227,8 +1227,8 @@ wait.
 She hears the sound of shuffling feet, looks over, and sees
 the group of people exit the room and walk down the hall,
 comforting one another.
-Nina steps out from hiding and goes inside."|speech|NINA|F
-400||47 INT. HOSPITAL ROOM- DAY 47|stage direction||
+Nina steps out from hiding and goes inside."|speech|NINA|F|True
+400||47 INT. HOSPITAL ROOM- DAY 47|stage direction|||
 401|NINA|"Beth is bandaged and unconscious, attached to MACHINES.
 Nina stands at a distance, too intimidated to approach at
 first.
@@ -1248,10 +1248,10 @@ The legs are bloated and horribly bruised, pierced with large
 pins to reset the shattered bones.
 She looks lower and lower, and discovers MAGGOTS feeding on
 her ankles.
-Nina turns away, confronted by the Older Nurse."|speech|NINA|F
+Nina turns away, confronted by the Older Nurse."|speech|NINA|F|True
 402|OLDER NURSE|"What are you doing?!
-Nina doesn't have an answer. She just stumbles out the door."|speech|OLDER NURSE|F
-403||A48 INT. UPPER WEST SIDE APARTMENT BUILDING - NIGHT A48|stage direction||
+Nina doesn't have an answer. She just stumbles out the door."|speech|OLDER NURSE|F|
+403||A48 INT. UPPER WEST SIDE APARTMENT BUILDING - NIGHT A48|stage direction|||
 404|OLDER NURSE|"Nina steps out of her apartment into the dim hallway, lugging
 a bag of trash.
 She notices some WOODEN DEBRIS from an apartment renovation
@@ -1259,8 +1259,8 @@ sitting near the trash chute.
 Nina drops the trash bag in the chute, then picks up a piece
 of BROKEN WOOD.
 She considers it for a moment, and hides it inside the sleeve
-of her sweatshirt."|speech|OLDER NURSE|F
-405||B48 INT. UPPER WEST SIDE APARTMENT - LATER B48|stage direction||
+of her sweatshirt."|speech|OLDER NURSE|F|
+405||B48 INT. UPPER WEST SIDE APARTMENT - LATER B48|stage direction|||
 406|OLDER NURSE|"Nina quietly steps inside and heads towards her bedroom.
 Through Erica's open bedroom door, Nina can see Erica busily
 sewing ribbon onto pointe shoes, humming to herself.
@@ -1272,91 +1272,91 @@ She hears a creek. FOOTSTEPS approach. She removes the wood
 and sticks it inside her dresser, not ready just yet.
 She quickly lies down on her bed and waits to be tucked in.
 The door SQUEAKS open, and Nina looks towards it.
-42A."|speech|OLDER NURSE|F
-407||48A INT. PRINCIPAL REHEARSAL SPACE - DAY 48A|stage direction||
+42A."|speech|OLDER NURSE|F|
+407||48A INT. PRINCIPAL REHEARSAL SPACE - DAY 48A|stage direction|||
 408|OLDER NURSE|"Nina, David, and the dancer playing ROTHBART rehearse the
 Black Swan and Prince Siegfried's Pas De Deux from Act 3.
 David lifts her, then sets her down, and they lean-in towards
-each other, almost kissing."|speech|OLDER NURSE|F
+each other, almost kissing."|speech|OLDER NURSE|F|
 409|LEROY|"No, no, not so stiff. Don't be
 scared of him.
 She pulls away from David, not at all coyly. Leroy exhales,
 frustrated.
-43-46."|speech|LEROY|F
-410||48B INT. LARGE REHEARSAL SPACE - ANOTHER DAY 48B|stage direction||
+43-46."|speech|LEROY|F|True
+410||48B INT. LARGE REHEARSAL SPACE - ANOTHER DAY 48B|stage direction|||
 411|LEROY|"Nina and David dance the next part of the section, looking
-more worn out."|speech|LEROY|F
+more worn out."|speech|LEROY|F|True
 412|LEROY|"Forget about control. I want to see
 passion.
-She still looks tense, not getting it."|speech|LEROY|F
-413|LEROY (CONT'D)|Let it out!|speech|LEROY|F
-414||48C INT. LARGE REHEARSAL SPACE - ANOTHER DAY 48C|stage direction||
+She still looks tense, not getting it."|speech|LEROY|F|True
+413|LEROY (CONT'D)|Let it out!|speech|LEROY|F|True
+414||48C INT. LARGE REHEARSAL SPACE - ANOTHER DAY 48C|stage direction|||
 415|LEROY (CONT'D)|"Nina practices with an OLDER BALLET MISTRESS. She
 demonstrates a movement, and Nina mimics her. The mistress
-scrutinizes, unimpressed."|speech|LEROY|F
-416||A49 INT. PHYSICAL THERAPIST'S OFFICE - ANOTHER DAY A49|stage direction||
+scrutinizes, unimpressed."|speech|LEROY|F|True
+416||A49 INT. PHYSICAL THERAPIST'S OFFICE - ANOTHER DAY A49|stage direction|||
 417|LEROY (CONT'D)|"Nina is worked over by a PHYSICAL THERAPIST. Every joint and
-muscle aches, but Nina breathes through the pain."|speech|LEROY|F
-418||49A INT. PRINCIPAL REHEARSAL SPACE - YET ANOTHER DAY 49A|stage direction||
+muscle aches, but Nina breathes through the pain."|speech|LEROY|F|True
+418||49A INT. PRINCIPAL REHEARSAL SPACE - YET ANOTHER DAY 49A|stage direction|||
 419|LEROY (CONT'D)|"Nina and David finish the section, completely soaked with
 sweat.
-They look at Leroy, heaving breaths."|speech|LEROY|F
+They look at Leroy, heaving breaths."|speech|LEROY|F|True
 420|LEROY|"David, answer me this question: are
 you interested in fucking her?
-David snickers, embarrassed, shakes his head."|speech|LEROY|F
+David snickers, embarrassed, shakes his head."|speech|LEROY|F|True
 421|LEROY (CONT'D)|"No, of course not. No one would be.
-Leroy comes face to face with her."|speech|LEROY|F
+Leroy comes face to face with her."|speech|LEROY|F|True
 422|LEROY (CONT'D)|"Nina, your Black Swan still looks
 no different than your White Swan.
-She's's just as...frigid."|speech|LEROY|F
-423||49B Suddenly, the lights turn off, throwing them into total 49B|stage direction||
+She's's just as...frigid."|speech|LEROY|F|True
+423||49B Suddenly, the lights turn off, throwing them into total 49B|stage direction|||
 424|LEROY (CONT'D)|"darkness.
-43-46A."|speech|LEROY|F
+43-46A."|speech|LEROY|F|True
 425|LEROY (CONT'D)|"Fuck!
-Leroy angrily marches to the door and whips it open."|speech|LEROY|F
+Leroy angrily marches to the door and whips it open."|speech|LEROY|F|True
 426|LEROY (CONT'D)|"(to someone in hall)
 Hey! We're still working in here.
 Lights back on.
-There's a momentary pause, and then the lights return."|speech|LEROY|F
+There's a momentary pause, and then the lights return."|speech|LEROY|F|True
 427|LEROY (CONT'D)|"Thank you!
 (to David, Piano Player)
 Okay, you guys can go. Thank you
-for your patience."|speech|LEROY|F
+for your patience."|speech|LEROY|F|True
 428|(TO NINA)|"You stay.
 David gives her an insinuating glance, then shakes his head.
-Very used to Leroy's ""methods."""|speech||
+Very used to Leroy's ""methods."""|speech|||
 429|DAVID|"Have fun.
-David and the Piano Player leave them alone."|speech|DAVID|F
-430||49C Leroy approaches Nina and takes her hands in his. 49C|stage direction||
+David and the Piano Player leave them alone."|speech|DAVID|F|True
+430||49C Leroy approaches Nina and takes her hands in his. 49C|stage direction|||
 431|LEROY|"I'll be the Prince.
 Made nervous by his touch, she nods.
 He walks behind her and puts his hands on her waist.
 He starts humming the score. And then they begin.
 They do a series of lifts and spins, Leroy bracing her.
-He lets go, she moves away from him."|speech|LEROY|F
+He lets go, she moves away from him."|speech|LEROY|F|True
 432|LEROY|"Use each finger, your face, your
 tits, everything. Entice me!
 He grabs her wrist. She spins. He lets go. He grabs her other
 wrist, she spins to face him.
 They get very close.
 Just before they kiss she dips, pulls away.
-43-46B."|speech|LEROY|F
+43-46B."|speech|LEROY|F|True
 433||"He grabs her arm again, she spins, then he stops her, her
 back to him.
 He runs his hands down her arms. Slowly, seductively. She
-trembles."|stage direction||
-434|LEROY (CONT'D)|Just feel my touch and respond.|speech|LEROY|F
+trembles."|stage direction|||
+434|LEROY (CONT'D)|Just feel my touch and respond.|speech|LEROY|F|True
 435||"She turns and leans in close, as though to kiss him... almost
 touching lips...but then she tries to push off again. He
 tightens his grip, holds her there.
 She looks back at him, questioning. He looks at her
 intently, pulls her to him, and kisses her.
 She melts and eagerly kisses him back. He pulls away,
-momentarily."|stage direction||
-436|LEROY (CONT'D)|Slow down. Open your mouth.|speech|LEROY|F
-437||She doesn't.|stage direction||
+momentarily."|stage direction|||
+436|LEROY (CONT'D)|Slow down. Open your mouth.|speech|LEROY|F|True
+437||She doesn't.|stage direction|||
 438|"LEROY (CONT'D)
-(INSISTENT)"|Open it.|speech|LEROY|F
+(INSISTENT)"|Open it.|speech|LEROY|F|True
 439||"Nina follows his instruction.
 The kiss grows more heated and he wraps his arms around her.
 He pushes her back against the mirror. She whimpers.
@@ -1365,62 +1365,62 @@ legs. She GASPS, tries to pull his hand out, but he persists.
 She throws her head back as he kisses her neck. She breathes
 deep, emits short MOANS, succumbing...
 Suddenly, he pulls away from her. She looks at him confused,
-flushed and breathing hard."|stage direction||
+flushed and breathing hard."|stage direction|||
 440|LEROY (CONT'D)|"That was me seducing you. It needs
-to be the other way around."|speech|LEROY|F
-441||He turns and starts to walk away. She can't believe it.|stage direction||
-442|NINA|Please don't...|speech|NINA|F
-443||He ignores her and walks out of the room.|stage direction||
-444|NINA|47.|speech|NINA|F
-445||50A INT. PRINCIPAL REHEARSAL SPACE - LATER 50A|stage direction||
+to be the other way around."|speech|LEROY|F|True
+441||He turns and starts to walk away. She can't believe it.|stage direction|||
+442|NINA|Please don't...|speech|NINA|F|True
+443||He ignores her and walks out of the room.|stage direction|||
+444|NINA|47.|speech|NINA|F|True
+445||50A INT. PRINCIPAL REHEARSAL SPACE - LATER 50A|stage direction|||
 446|NINA|"Nina sits on the floor, head in hands.
 VOICE (O.S.)
 Hey...
 Nina startles and looks up. Sees the dark figure of somebody
-watching her from the doorway. Looks like HERSELF."|speech|NINA|F
+watching her from the doorway. Looks like HERSELF."|speech|NINA|F|True
 447|NINA|"Who's that?
-Lily emerges from the darkness, dressed to leave."|speech|NINA|F
-448|LILY|You okay?|speech|LILY|F
-449|NINA|I'm fine.|speech|NINA|F
-450|LILY|You sure?|speech|LILY|F
-451||50B Lily sits down beside her, oblivious of Nina's desire 50B|stage direction||
+Lily emerges from the darkness, dressed to leave."|speech|NINA|F|True
+448|LILY|You okay?|speech|LILY|F|True
+449|NINA|I'm fine.|speech|NINA|F|True
+450|LILY|You sure?|speech|LILY|F|True
+451||50B Lily sits down beside her, oblivious of Nina's desire 50B|stage direction|||
 452|LILY|"to be left alone.
 She digs out a cigarette from her bag. Offers it to Nina.
-Nina doesn't take it."|speech|LILY|F
-453|NINA|We can't smoke in here.|speech|NINA|F
+Nina doesn't take it."|speech|LILY|F|True
+453|NINA|We can't smoke in here.|speech|NINA|F|True
 454|LILY|"I won't tell if you won't.
-48."|speech|LILY|F
+48."|speech|LILY|F|True
 455||"Nina reluctantly takes the cigarette, holds it a little
 awkwardly, clearly not a regular smoker.
 Lily sparks a flame for her and then lights one for herself.
-Nina puffs, but doesn't inhale. Lily smirks."|stage direction||
+Nina puffs, but doesn't inhale. Lily smirks."|stage direction|||
 456|LILY (CONT'D)|"Big day's getting closer and
 closer, huh? I can't wait. You're
-going to be amazing."|speech|LILY|F
-457|NINA|Thanks...|speech|NINA|F
-458||Nina wipes off her tears with her hand.|stage direction||
-459|LILY|So, want to talk about it?|speech|LILY|F
-460|NINA|Just had a hard day.|speech|NINA|F
-461|LILY|Leroy play too rough?|speech|LILY|F
-462||Nina looks at her surprised.|stage direction||
-463|LILY (CONT'D)|He seems like a prick.|speech|LILY|F
-464|NINA|He's brilliant.|speech|NINA|F
+going to be amazing."|speech|LILY|F|True
+457|NINA|Thanks...|speech|NINA|F|True
+458||Nina wipes off her tears with her hand.|stage direction|||
+459|LILY|So, want to talk about it?|speech|LILY|F|True
+460|NINA|Just had a hard day.|speech|NINA|F|True
+461|LILY|Leroy play too rough?|speech|LILY|F|True
+462||Nina looks at her surprised.|stage direction|||
+463|LILY (CONT'D)|He seems like a prick.|speech|LILY|F|True
+464|NINA|He's brilliant.|speech|NINA|F|True
 465|LILY|"Sure, but not exactly warm and
-fuzzy."|speech|LILY|F
-466|NINA|You don't know him.|speech|NINA|F
-467||Lily smirks with a realization.|stage direction||
-468|LILY|Someone's hot for teacher.|speech|LILY|F
-469||Nina gives her a withering glance.|stage direction||
-470|LILY (CONT'D)|It's okay. I don't blame you.|speech|LILY|F
-471||Nina stands up.|stage direction||
-472|LILY (CONT'D)|49.|speech|LILY|F
-473|NINA|I should go. It's getting late.|speech|NINA|F
+fuzzy."|speech|LILY|F|True
+466|NINA|You don't know him.|speech|NINA|F|True
+467||Lily smirks with a realization.|stage direction|||
+468|LILY|Someone's hot for teacher.|speech|LILY|F|True
+469||Nina gives her a withering glance.|stage direction|||
+470|LILY (CONT'D)|It's okay. I don't blame you.|speech|LILY|F|True
+471||Nina stands up.|stage direction|||
+472|LILY (CONT'D)|49.|speech|LILY|F|True
+473|NINA|I should go. It's getting late.|speech|NINA|F|True
 474|LILY|"Hey, I was only playing.
-Nina walks towards the door."|speech|LILY|F
+Nina walks towards the door."|speech|LILY|F|True
 475|LILY (CONT'D)|"Nina?
-She ignores Lily and exits."|speech|LILY|F
-476||51 OMITTED 51|location||
-477||52A INT. APARTMENT BATHROOM - NIGHT 52A|stage direction||
+She ignores Lily and exits."|speech|LILY|F|True
+476||51 OMITTED 51|location|||
+477||52A INT. APARTMENT BATHROOM - NIGHT 52A|stage direction|||
 478|LILY (CONT'D)|"Nina lies in the bath, eyes closed, concentrating.
 Her body jostles slightly, moving her hand between her legs,
 seeking release.
@@ -1438,8 +1438,8 @@ lip of the tub.
 Then a few drops of RED land on the white porcelain.
 Worried, she examines her fingernails, which have started to
 grow back. She discovers blood and bits of skin.
-50."|speech|LILY|F
-479||52B LATER 52B|stage direction||
+50."|speech|LILY|F|True
+479||52B LATER 52B|stage direction|||
 480|LILY (CONT'D)|"Out of the tub, Nina checks herself in the mirror. Her
 shoulder is streaked with deep SCRATCHES.
 She grabs a pair of little SCISSORS from the medicine cabinet
@@ -1448,86 +1448,86 @@ She looks up at the mirror and sees her reflection snip off
 the tip of her index finger.
 Nina GASPS and drops the scissors, CLANGING in the sink. Two
 of her fingers are bleeding, their tips sliced.
-ERICA (O.S.)"|speech|LILY|F
+ERICA (O.S.)"|speech|LILY|F|True
 481|(CONCERNED)|"Nina?
-Nina looks at the door, already blocked by the hamper."|speech||
+Nina looks at the door, already blocked by the hamper."|speech|||
 482|NINA|"I'll be out in a second.
 She stays still, hoping she won't try to come in.
 Footsteps recede and Nina breathes.
-She runs her hands under some water to clean off the blood."|speech|NINA|F
+She runs her hands under some water to clean off the blood."|speech|NINA|F|True
 483||"53 OMITTED 53
-54 OMITTED 54"|location||
-484||55 INT. LARGE REHEARSAL SPACE - DAY 55|stage direction||
+54 OMITTED 54"|location|||
+484||55 INT. LARGE REHEARSAL SPACE - DAY 55|stage direction|||
 485|NINA|"David and Nina dance the Black Swan's Pas de Deux. Once
 again, Nina's rigid and self-conscious.
-51."|speech|NINA|F
-486|LEROY|Try it again.|speech|LEROY|F
+51."|speech|NINA|F|True
+486|LEROY|Try it again.|speech|LEROY|F|True
 487||"They resume dancing. She finishes, out of breath, and looks
-at Leroy and the Russian ballet mistress."|stage direction||
-488|LEROY (CONT'D)|Again.|speech|LEROY|F
+at Leroy and the Russian ballet mistress."|stage direction|||
+488|LEROY (CONT'D)|Again.|speech|LEROY|F|True
 489||"The piano music starts up again, and she begins dancing.
-When she finishes, she looks at him, eager for feedback."|stage direction||
-490|LEROY (CONT'D)|Again.|speech|LEROY|F
-491||The music starts up again. Nina stays still, frustrated.|stage direction||
-492|NINA|Do you have any corrections?|speech|NINA|F
-493|LEROY|No.|speech|LEROY|F
+When she finishes, she looks at him, eager for feedback."|stage direction|||
+490|LEROY (CONT'D)|Again.|speech|LEROY|F|True
+491||The music starts up again. Nina stays still, frustrated.|stage direction|||
+492|NINA|Do you have any corrections?|speech|NINA|F|True
+493|LEROY|No.|speech|LEROY|F|True
 494||"She doesn't understand. He gets up from his chair and goes to
-her."|stage direction||
+her."|stage direction|||
 495|LEROY (CONT'D)|"Lily talked to me. Said she saw you
-crying."|speech|LEROY|F
-496||Nina looks away. Can't believe Lily talked to him.|stage direction||
+crying."|speech|LEROY|F|True
+496||Nina looks away. Can't believe Lily talked to him.|stage direction|||
 497|LEROY (CONT'D)|"She said you were upset and I
-should ""take it easy"" on you."|speech|LEROY|F
-498|NINA|I didn't tell her that.|speech|NINA|F
+should ""take it easy"" on you."|speech|LEROY|F|True
+498|NINA|I didn't tell her that.|speech|NINA|F|True
 499|LEROY|"Maybe you'd like a break for a day
 or two.
-52."|speech|LEROY|F
+52."|speech|LEROY|F|True
 500|"NINA
 THOMAS-
-LEROY"|Or a fucking month.|speech|NINATHOMAS-LEROY|?
-501|NINA|She shouldn't have said anything!|speech|NINA|F
+LEROY"|Or a fucking month.|speech|NINATHOMAS-LEROY|?|
+501|NINA|She shouldn't have said anything!|speech|NINA|F|True
 502|LEROY|"I don't care! You shouldn't be
-whining to her!"|speech|LEROY|F
-503|NINA|I didn't.|speech|NINA|F
+whining to her!"|speech|LEROY|F|True
+503|NINA|I didn't.|speech|NINA|F|True
 504|LEROY|"You could be brilliant. Taking it
 easy would be a betrayal.
-He walks away from her."|speech|LEROY|F
-505|NINA|I'm sorry. I'm sorry.|speech|NINA|F
+He walks away from her."|speech|LEROY|F|True
+505|NINA|I'm sorry. I'm sorry.|speech|NINA|F|True
 506|LEROY|"Stop saying that! Stop being so
 damn weak!
-He tosses his chair across the room. SMASHING into the wall."|speech|LEROY|F
-507||56 INT. BACKSTAGE HALLWAY - DAY 56|stage direction||
+He tosses his chair across the room. SMASHING into the wall."|speech|LEROY|F|True
+507||56 INT. BACKSTAGE HALLWAY - DAY 56|stage direction|||
 508|LEROY|"Furious, Nina heads towards the soloists' dressing room.
 Hears them chatting in their usual manner.
-Nina KNOCKS loudly at the door, interrupting them."|speech|LEROY|F
+Nina KNOCKS loudly at the door, interrupting them."|speech|LEROY|F|True
 509|"VERONICA
 (RESENTFUL)"|"Look who's gracing us with her
-presence..."|speech|VERONICA|F
-510|NINA|Lily, I need to talk to you.|speech|NINA|F
-511|LILY|Okay...|speech|LILY|F
+presence..."|speech|VERONICA|F|True
+510|NINA|Lily, I need to talk to you.|speech|NINA|F|True
+511|LILY|Okay...|speech|LILY|F|True
 512|NINA|"Now.
-53."|speech|NINA|F
+53."|speech|NINA|F|True
 513|VERONICA|"(you're in trouble)
 Ooooh.
-The other girls giggle."|speech|VERONICA|F
+The other girls giggle."|speech|VERONICA|F|True
 514|LILY|"Shut up.
-And they do."|speech|LILY|F
-515||57 INT. BACKSTAGE HALLWAY - DAY 57|stage direction||
-516|LILY|Nina leads Lily to a private nook, fuming.|speech|LILY|F
-517|LILY|What's wrong?|speech|LILY|F
+And they do."|speech|LILY|F|True
+515||57 INT. BACKSTAGE HALLWAY - DAY 57|stage direction|||
+516|LILY|Nina leads Lily to a private nook, fuming.|speech|LILY|F|True
+517|LILY|What's wrong?|speech|LILY|F|True
 518|NINA|"You told Thomas about last night?
-Lily falters, guilty."|speech|NINA|F
+Lily falters, guilty."|speech|NINA|F|True
 519|LILY|"I ran into him this morning. He
 said you guys were having some
-trouble."|speech|LILY|F
-520|NINA|Why would he talk to you?|speech|NINA|F
+trouble."|speech|LILY|F|True
+520|NINA|Why would he talk to you?|speech|NINA|F|True
 521|LILY|"Whoa your highness, I just told him
 you're working your ass off and I'm
-sure you'll be great."|speech|LILY|F
-522|NINA|You shouldn't have done that.|speech|NINA|F
+sure you'll be great."|speech|LILY|F|True
+522|NINA|You shouldn't have done that.|speech|NINA|F|True
 523|LILY|"I didn't fucking do anything.
-Lily takes off. Nina stares after her, at a loss."|speech|LILY|F
-524||A58 INT. SUBWAY - NIGHT A58|stage direction||
+Lily takes off. Nina stares after her, at a loss."|speech|LILY|F|True
+524||A58 INT. SUBWAY - NIGHT A58|stage direction|||
 525|LILY|"Nina sits on the subway, going home. She notices that one of
 her fingernails has a jagged edge. She removes an EMORY BOARD
 from her bag and begins filing it down.
@@ -1536,185 +1536,185 @@ A SKEEZY MAN across the aisle ogles her.
 Nina keeps her eyes down, trying to ignore him. He starts to
 sing an OLD LOVE SONG from the 20's.
 Nina stands and goes to the other end of the car. He
-continues singing, undeterred."|speech|LILY|F
-526||58 OMITTED 58|location||
-527||59 INT. UPPER WEST SIDE APARTMENT - NIGHT 59|stage direction||
+continues singing, undeterred."|speech|LILY|F|True
+526||58 OMITTED 58|location|||
+527||59 INT. UPPER WEST SIDE APARTMENT - NIGHT 59|stage direction|||
 528|LILY|"Nina sits on the floor in a loose sweatshirt, sewing ribbon
 onto pointe shoes.
-Erica sits across from her, sewing ribbon onto another pair."|speech|LILY|F
+Erica sits across from her, sewing ribbon onto another pair."|speech|LILY|F|True
 529|ERICA|"Has he tried anything with you?
-Nina doesn't respond."|speech|ERICA|F
+Nina doesn't respond."|speech|ERICA|F|True
 530|ERICA (CONT'D)|"He has a reputation...
-Nina tries to ignore her."|speech|ERICA|F
+Nina tries to ignore her."|speech|ERICA|F|True
 531|ERICA (CONT'D)|"I have a right to be concerned,
 Nina. You've been staying late so
 many nights. ""Rehearsing."" I hope
 he's not taking advantage, that's
-all."|speech|ERICA|F
-532|NINA|He's not.|speech|NINA|F
+all."|speech|ERICA|F|True
+532|NINA|He's not.|speech|NINA|F|True
 533|ERICA|"Good. I don't want you making the
-same mistake I did."|speech|ERICA|F
+same mistake I did."|speech|ERICA|F|True
 534|"NINA
-(INSULTED)"|Thanks.|speech|NINA|F
+(INSULTED)"|Thanks.|speech|NINA|F|True
 535|ERICA|"Not like that. I just mean as far
-as my career was concerned."|speech|ERICA|F
-536|NINA|What career?|speech|NINA|F
+as my career was concerned."|speech|ERICA|F|True
+536|NINA|What career?|speech|NINA|F|True
 537|ERICA|"The one I gave up to have you.
-55."|speech|ERICA|F
-538|NINA|You were 28.|speech|NINA|F
-539|ERICA|So?|speech|ERICA|F
-540|NINA|And only...|speech|NINA|F
-541||Nina bites her tongue.|stage direction||
-542|ERICA|Only what?|speech|ERICA|F
-543|NINA|Nothing.|speech|NINA|F
-544|ERICA|What?|speech|ERICA|F
+55."|speech|ERICA|F|True
+538|NINA|You were 28.|speech|NINA|F|True
+539|ERICA|So?|speech|ERICA|F|True
+540|NINA|And only...|speech|NINA|F|True
+541||Nina bites her tongue.|stage direction|||
+542|ERICA|Only what?|speech|ERICA|F|True
+543|NINA|Nothing.|speech|NINA|F|True
+544|ERICA|What?|speech|ERICA|F|True
 545|"NINA
-(DEFIANT)"|Nothing.|speech|NINA|F
-546||Erica glares at her.|stage direction||
-547|ERICA|How's your skin?|speech|ERICA|F
-548|NINA|It's fine.|speech|NINA|F
-549|ERICA|We leaving it alone?|speech|ERICA|F
-550|NINA|Yes.|speech|NINA|F
-551|ERICA|Let me see.|speech|ERICA|F
-552||Nina stares back defiantly.|stage direction||
-553|ERICA (CONT'D)|Take off your shirt.|speech|ERICA|F
-554|NINA|No.|speech|NINA|F
+(DEFIANT)"|Nothing.|speech|NINA|F|True
+546||Erica glares at her.|stage direction|||
+547|ERICA|How's your skin?|speech|ERICA|F|True
+548|NINA|It's fine.|speech|NINA|F|True
+549|ERICA|We leaving it alone?|speech|ERICA|F|True
+550|NINA|Yes.|speech|NINA|F|True
+551|ERICA|Let me see.|speech|ERICA|F|True
+552||Nina stares back defiantly.|stage direction|||
+553|ERICA (CONT'D)|Take off your shirt.|speech|ERICA|F|True
+554|NINA|No.|speech|NINA|F|True
 555||"Erica starts to come towards her.
 The DOORBELL RINGS.
-Erica looks at Nina questioningly. Nina shakes her head."|stage direction||
+Erica looks at Nina questioningly. Nina shakes her head."|stage direction|||
 556|NINA|"56.
 Erica goes to the door and cracks it open, keeping the chain
-engaged."|speech|NINA|F
+engaged."|speech|NINA|F|True
 557|ERICA|"(to person outside)
 Can I help you? (pause) I'm sorry,
 she's not in.
-Erica shuts the door. Nina rushes out to see who it was."|speech|ERICA|F
+Erica shuts the door. Nina rushes out to see who it was."|speech|ERICA|F|True
 558|NINA|"Who was it?
 Erica doesn't answer.
 Irritated, Nina walks around Erica and quickly opens the door
-to find out."|speech|NINA|F
-559|ERICA|It's no one.|speech|ERICA|F
-560||60 INT. BUILDING HALLWAY- NIGHT 60|stage direction||
-561|ERICA|Nina sees a ballerina walking away from the door.|speech|ERICA|F
+to find out."|speech|NINA|F|True
+559|ERICA|It's no one.|speech|ERICA|F|True
+560||60 INT. BUILDING HALLWAY- NIGHT 60|stage direction|||
+561|ERICA|Nina sees a ballerina walking away from the door.|speech|ERICA|F|True
 562|NINA|"Hello?
-Lily turns."|speech|NINA|F
-563|LILY|Hey.|speech|LILY|F
+Lily turns."|speech|NINA|F|True
+563|LILY|Hey.|speech|LILY|F|True
 564|"NINA
 (SUSPICIOUS)"|"What are you doing here?
-Nina steps out of her apartment and closes the door."|speech|NINA|F
+Nina steps out of her apartment and closes the door."|speech|NINA|F|True
 565|LILY|"I wanted to apologize.
-Nina just stares, incredulous."|speech|LILY|F
+Nina just stares, incredulous."|speech|LILY|F|True
 566|LILY (CONT'D)|"You were right, I shouldn't have
 talked to him about you.
-Erica opens the door and sticks her head out."|speech|LILY|F
+Erica opens the door and sticks her head out."|speech|LILY|F|True
 567|ERICA|"Sweetheart?
-57."|speech|ERICA|F
-568|NINA|Give me a second.|speech|NINA|F
-569|ERICA|Your dinner...|speech|ERICA|F
-570|NINA|Mom, please!|speech|NINA|F
-571||Erica closes the door.|stage direction||
-572|LILY|She's a trip...|speech|LILY|F
-573|NINA|How did you know where I live?|speech|NINA|F
-574|LILY|I have my ways.|speech|LILY|F
-575||Nina looks at her, darkly.|stage direction||
+57."|speech|ERICA|F|True
+568|NINA|Give me a second.|speech|NINA|F|True
+569|ERICA|Your dinner...|speech|ERICA|F|True
+570|NINA|Mom, please!|speech|NINA|F|True
+571||Erica closes the door.|stage direction|||
+572|LILY|She's a trip...|speech|LILY|F|True
+573|NINA|How did you know where I live?|speech|NINA|F|True
+574|LILY|I have my ways.|speech|LILY|F|True
+575||Nina looks at her, darkly.|stage direction|||
 576|LILY (CONT'D)|"Relax, I got it from Susie in the
 office. I feel really shitty. Can I
 make it up to you? Take you out to
-dinner?"|speech|LILY|F
-577|NINA|I don't think-|speech|NINA|F
-578|LILY|A drink?|speech|LILY|F
-579||Nina's tempted. Erica pokes her head out again.|stage direction||
-580|ERICA|Sweetie, you need to rest.|speech|ERICA|F
-581|LILY|Jesus.|speech|LILY|F
-582||Nina pushes the elevator call button.|stage direction||
+dinner?"|speech|LILY|F|True
+577|NINA|I don't think-|speech|NINA|F|True
+578|LILY|A drink?|speech|LILY|F|True
+579||Nina's tempted. Erica pokes her head out again.|stage direction|||
+580|ERICA|Sweetie, you need to rest.|speech|ERICA|F|True
+581|LILY|Jesus.|speech|LILY|F|True
+582||Nina pushes the elevator call button.|stage direction|||
 583|"NINA
-(TO LILY)"|Wait.|speech|NINA|F
-584||Nina walks to the door, and grabs her coat.|stage direction||
+(TO LILY)"|Wait.|speech|NINA|F|True
+584||Nina walks to the door, and grabs her coat.|stage direction|||
 585|ERICA|"What are you doing?
-58."|speech|ERICA|F
-586|NINA|I'm going out.|speech|NINA|F
+58."|speech|ERICA|F|True
+586|NINA|I'm going out.|speech|NINA|F|True
 587|ERICA|"What?
-Nina ignores her and shuts the door."|speech|ERICA|F
+Nina ignores her and shuts the door."|speech|ERICA|F|True
 588|"NINA
-(TO LILY)"|Let's go.|speech|NINA|F
-589||61 INT. CORNER BISTRO - NIGHT 61|stage direction||
+(TO LILY)"|Let's go.|speech|NINA|F|True
+589||61 INT. CORNER BISTRO - NIGHT 61|stage direction|||
 590|"NINA
 (TO LILY)"|"A noisy bar and burger joint, packed to the brim. Lily and
-Nina sit at a small table."|speech|NINA|F
+Nina sit at a small table."|speech|NINA|F|True
 591|LILY|"Can't believe that's what he called
-her. So gross!"|speech|LILY|F
-592|NINA|I think it's sweet.|speech|NINA|F
+her. So gross!"|speech|LILY|F|True
+592|NINA|I think it's sweet.|speech|NINA|F|True
 593|LILY|"Little princess? He probably calls
-every girl that."|speech|LILY|F
-594|NINA|Only Beth.|speech|NINA|F
+every girl that."|speech|LILY|F|True
+594|NINA|Only Beth.|speech|NINA|F|True
 595|LILY|"Well, I'm sure she lost the title
 after her game of chicken.
-Nina's smile fades."|speech|LILY|F
+Nina's smile fades."|speech|LILY|F|True
 596|LILY (CONT'D)|"Bet he'll be calling you little
-princes any day now."|speech|LILY|F
+princes any day now."|speech|LILY|F|True
 597|NINA|"I don't think so.
-59."|speech|NINA|F
+59."|speech|NINA|F|True
 598|LILY|"Sure, just gotta let him eat the
-pussy."|speech|LILY|F
+pussy."|speech|LILY|F|True
 599||"Nina blushes, embarrassed, and Lily cracks up. A WAITER drops
-a plate in front of her."|stage direction||
+a plate in front of her."|stage direction|||
 600|"WAITER
-(TO LILY)"|Cheese burger, extra bloody.|speech|WAITER|?
-601|LILY|Danke schoen.|speech|LILY|F
+(TO LILY)"|Cheese burger, extra bloody.|speech|WAITER|?|
+601|LILY|Danke schoen.|speech|LILY|F|True
 602|WAITER|"Let me know if it's not juicy
-enough."|speech|WAITER|?
-603|LILY|Oh, I will.|speech|LILY|F
+enough."|speech|WAITER|?|
+603|LILY|Oh, I will.|speech|LILY|F|True
 604||"He smiles, keeping his eyes locked on Lily, as he rudely
-plops down Nina's plate."|stage direction||
-605|WAITER|Enjoy.|speech|WAITER|?
-606||Lily watches him go, then notices Nina looking annoyed.|stage direction||
-607|LILY|What?|speech|LILY|F
-608|NINA|Guess I'm invisible.|speech|NINA|F
+plops down Nina's plate."|stage direction|||
+605|WAITER|Enjoy.|speech|WAITER|?|
+606||Lily watches him go, then notices Nina looking annoyed.|stage direction|||
+607|LILY|What?|speech|LILY|F|True
+608|NINA|Guess I'm invisible.|speech|NINA|F|True
 609||"Lily studies her and digs into her purse. Pulls out a SEXY
-SHIRT."|stage direction||
-610|LILY|Here, wanna spruce up?|speech|LILY|F
-611||Nina gives her a puzzled look.|stage direction||
+SHIRT."|stage direction|||
+610|LILY|Here, wanna spruce up?|speech|LILY|F|True
+611||Nina gives her a puzzled look.|stage direction|||
 612|LILY (CONT'D)|"I always carry a spare, case I wake
-up somewhere unexpected."|speech|LILY|F
+up somewhere unexpected."|speech|LILY|F|True
 613||"Lily picks up her ungainly burger and takes a big bite, a
 little grease dripping down her chin. Nina cuts into her dry
-chicken breast."|stage direction||
+chicken breast."|stage direction|||
 614|LILY (CONT'D)|"Not like you need more attention
 these days. How is he?
-60."|speech|LILY|F
-615||Nina doesn't understand the question.|stage direction||
-616|LILY (CONT'D)|Thomas?|speech|LILY|F
-617|NINA|I wouldn't know.|speech|NINA|F
-618|LILY|Yeah, right.|speech|LILY|F
-619|NINA|I don't want to talk about it.|speech|NINA|F
-620|LILY|Relax, you're so tense.|speech|LILY|F
+60."|speech|LILY|F|True
+615||Nina doesn't understand the question.|stage direction|||
+616|LILY (CONT'D)|Thomas?|speech|LILY|F|True
+617|NINA|I wouldn't know.|speech|NINA|F|True
+618|LILY|Yeah, right.|speech|LILY|F|True
+619|NINA|I don't want to talk about it.|speech|NINA|F|True
+620|LILY|Relax, you're so tense.|speech|LILY|F|True
 621||"Lily pulls out a cigarette case and clicks it open. Inside,
-CIGARETTES and a couple PILLS."|stage direction||
-622|LILY (CONT'D)|One for you...|speech|LILY|F
-623||Lily grabs one of the pills and slides it over.|stage direction||
-624|LILY (CONT'D)|And one for me.|speech|LILY|F
+CIGARETTES and a couple PILLS."|stage direction|||
+622|LILY (CONT'D)|One for you...|speech|LILY|F|True
+623||Lily grabs one of the pills and slides it over.|stage direction|||
+624|LILY (CONT'D)|And one for me.|speech|LILY|F|True
 625||"Lily grabs her pill and downs it with a beer.
 Nina stares at her pill, too embarrassed to admit she doesn't
-know what it is."|stage direction||
+know what it is."|stage direction|||
 626|LILY (CONT'D)|"Don't worry, it's pure. Brought it
 with me straight from San
-Francisco."|speech|LILY|F
-627|NINA|What is it?|speech|NINA|F
-628|LILY|You're kidding? You never rolled?|speech|LILY|F
-629||Nina blinks.|stage direction||
+Francisco."|speech|LILY|F|True
+627|NINA|What is it?|speech|NINA|F|True
+628|LILY|You're kidding? You never rolled?|speech|LILY|F|True
+629||Nina blinks.|stage direction|||
 630|LILY (CONT'D)|"Oh boy. It'll just make you have a
 good time. Loosen up. See the night
-sky."|speech|LILY|F
+sky."|speech|LILY|F|True
 631|"NINA
 (CURIOUS)"|"How long does it last?
-61."|speech|NINA|F
+61."|speech|NINA|F|True
 632|LILY|"Couple hours. Tops.
-Nina looks at the pill, thinks about it for a second..."|speech|LILY|F
-633|NINA|That's okay.|speech|NINA|F
+Nina looks at the pill, thinks about it for a second..."|speech|LILY|F|True
+633|NINA|That's okay.|speech|NINA|F|True
 634|LILY|"Sure?
 Nina nods. Lily puts the pill back, and SNAPS the case
-closed."|speech|LILY|F
-635||62 INT. GRUNGY BATHROOM - NIGHT 62|stage direction||
+closed."|speech|LILY|F|True
+635||62 INT. GRUNGY BATHROOM - NIGHT 62|stage direction|||
 636|LILY|"Wearing the SKIMPY SHIRT Lily offered her, Nina rinses her
 mouth out with water from the sink, then checks herself out
 in the mirror.
@@ -1722,8 +1722,8 @@ It's broken and covered with graffiti and stickers. One
 particularly bright one says, ""Seize the Day-glo.""
 Nina's cell phone RINGS. She checks the ID--""MOM""--and
 silences it.
-Nina puts her SWEATSHIRT back on over the shirt, and exits."|speech|LILY|F
-637||63 INT. CORNER BISTRO - NIGHT 63|stage direction||
+Nina puts her SWEATSHIRT back on over the shirt, and exits."|speech|LILY|F|True
+637||63 INT. CORNER BISTRO - NIGHT 63|stage direction|||
 638|LILY|"Nina returns to her table, but when she gets there, Lily is
 gone and the table is cleared.
 She looks around the crowded room, doesn't see her anywhere.
@@ -1738,121 +1738,121 @@ the pill.
 Nina looks on, suspicious.
 Lily opens the pill, and dumps its contents into the drink.
 She stirs it with her finger.
-62."|speech|LILY|F
+62."|speech|LILY|F|True
 639||"She holds out her finger to one of the men, he sucks off the
 liquid.
 Lily looks over and catches Nina watching. She waves for her
 to join them.
-Nina reluctantly walks to her."|stage direction||
+Nina reluctantly walks to her."|stage direction|||
 640|LILY|"Heeey, thought we could use some
-drinks."|speech|LILY|F
-641|NINA|I'm gonna go.|speech|NINA|F
-642|LILY|This is Tom and this is Jerry.|speech|LILY|F
-643||The guys laugh.|stage direction||
-644|ANDREW|Actually it's Andrew.|speech|ANDREW|F
-645|TOM|Tom.|speech|TOM|F
-646|NINA|Hi.|speech|NINA|F
+drinks."|speech|LILY|F|True
+641|NINA|I'm gonna go.|speech|NINA|F|True
+642|LILY|This is Tom and this is Jerry.|speech|LILY|F|True
+643||The guys laugh.|stage direction|||
+644|ANDREW|Actually it's Andrew.|speech|ANDREW|F|True
+645|TOM|Tom.|speech|TOM|F|True
+646|NINA|Hi.|speech|NINA|F|True
 647|LILY|"You can't leave, I bought you a
-drink."|speech|LILY|F
+drink."|speech|LILY|F|True
 648||"Lily holds out the doctored beverage. Nina eyes it, tempted
-to go down the rabbit hole..."|stage direction||
+to go down the rabbit hole..."|stage direction|||
 649|NINA|"I really shouldn't, we're on the
-stage tomorrow."|speech|NINA|F
+stage tomorrow."|speech|NINA|F|True
 650|LILY|"What, you gonna go home to mommy?
-Live a little."|speech|LILY|F
-651||Nina grins sheepishly and takes the drink. Lily smiles.|stage direction||
-652|NINA|Just a couple of hours?|speech|NINA|F
-653|LILY|Tops.|speech|LILY|F
-654||Nina takes a tiny sip.|stage direction||
-655|LILY|63.|speech|LILY|F
+Live a little."|speech|LILY|F|True
+651||Nina grins sheepishly and takes the drink. Lily smiles.|stage direction|||
+652|NINA|Just a couple of hours?|speech|NINA|F|True
+653|LILY|Tops.|speech|LILY|F|True
+654||Nina takes a tiny sip.|stage direction|||
+655|LILY|63.|speech|LILY|F|True
 656|LILY (CONT'D)|"Go on.
-Nina takes another sip and smiles."|speech|LILY|F
+Nina takes another sip and smiles."|speech|LILY|F|True
 657|LILY (CONT'D)|"Let's go sit somewhere a little
 more comfortable. Gentlemen?
 She gets up and holds out her hands. The two men each grab
-one and she leads them deeper into the bar."|speech|LILY|F
-658||64 INT. CORNER BISTRO - MOMENTS LATER 64|stage direction||
+one and she leads them deeper into the bar."|speech|LILY|F|True
+658||64 INT. CORNER BISTRO - MOMENTS LATER 64|stage direction|||
 659|LILY (CONT'D)|"Nina's drink is half gone. The foursome sits snugly at a
 booth. Nina next to Andrew, shyly avoiding his gaze. She
-takes another tentative sip of her drink."|speech|LILY|F
-660|ANDREW|You haven't told me who you are.|speech|ANDREW|F
-661|NINA|Oh, I'm a dancer.|speech|NINA|F
-662|ANDREW|No, I mean your name.|speech|ANDREW|F
-663|NINA|Nina.|speech|NINA|F
-664|TOM|You two sisters?|speech|TOM|F
-665|LILY NINA|Yes. No.|speech|LILY NINA|?
-666|ANDREW|Well?|speech|ANDREW|F
-667|LILY|We're blood sisters.|speech|LILY|F
-668|NINA|We dance in the same company.|speech|NINA|F
+takes another tentative sip of her drink."|speech|LILY|F|True
+660|ANDREW|You haven't told me who you are.|speech|ANDREW|F|True
+661|NINA|Oh, I'm a dancer.|speech|NINA|F|True
+662|ANDREW|No, I mean your name.|speech|ANDREW|F|True
+663|NINA|Nina.|speech|NINA|F|True
+664|TOM|You two sisters?|speech|TOM|F|True
+665|LILY NINA|Yes. No.|speech|LILY NINA|?|
+666|ANDREW|Well?|speech|ANDREW|F|True
+667|LILY|We're blood sisters.|speech|LILY|F|True
+668|NINA|We dance in the same company.|speech|NINA|F|True
 669|"TOM
 (PLEASED)"|"Ahh, ballerinas. So that's why you
-look alike."|speech|TOM|F
+look alike."|speech|TOM|F|True
 670|LILY|"Tom and Jerry are gay lovers.
-64."|speech|LILY|F
-671|TOM|Very funny.|speech|TOM|F
-672|LILY|Oh, I just assumed.|speech|LILY|F
-673|ANDREW|I've never been to the ballet.|speech|ANDREW|F
+64."|speech|LILY|F|True
+671|TOM|Very funny.|speech|TOM|F|True
+672|LILY|Oh, I just assumed.|speech|LILY|F|True
+673|ANDREW|I've never been to the ballet.|speech|ANDREW|F|True
 674|LILY|"In that case you're definitely NOT
-gay."|speech|LILY|F
-675|TOM|It's pretty boring, isn't it?|speech|TOM|F
+gay."|speech|LILY|F|True
+675|TOM|It's pretty boring, isn't it?|speech|TOM|F|True
 676|"NINA
-(OFFENDED)"|No, it's not.|speech|NINA|F
+(OFFENDED)"|No, it's not.|speech|NINA|F|True
 677|"LILY
 (FLIRTY)"|"It's not for everyone. You probably
-aren't sophisticated enough."|speech|LILY|F
+aren't sophisticated enough."|speech|LILY|F|True
 678|TOM|"You've got some mouth, you know
-that?"|speech|TOM|F
+that?"|speech|TOM|F|True
 679|LILY|"Isn't that compliment a little
-premature?"|speech|LILY|F
-680||Lily sips her drink, staring at Tom flirtatiously.|stage direction||
+premature?"|speech|LILY|F|True
+680||Lily sips her drink, staring at Tom flirtatiously.|stage direction|||
 681|NINA|"You guys should come sometime. I
-can comp you tickets."|speech|NINA|F
-682||Tom laughs, amused by Nina's earnestness.|stage direction||
-683|TOM|Yeah...that'd be neat.|speech|TOM|F
+can comp you tickets."|speech|NINA|F|True
+682||Tom laughs, amused by Nina's earnestness.|stage direction|||
+683|TOM|Yeah...that'd be neat.|speech|TOM|F|True
 684|LILY|"I think we all need another round.
-Bottom's up."|speech|LILY|F
+Bottom's up."|speech|LILY|F|True
 685||"She looks at Nina and sucks down her drink, challenging her
 to follow suit. Nina takes a breath of courage and empties
 her glass.
-She waits for something to kick in."|stage direction||
-686|LILY|65.|speech|LILY|F
-687|LILY (CONT'D)|Tom, come with me?|speech|LILY|F
+She waits for something to kick in."|stage direction|||
+686|LILY|65.|speech|LILY|F|True
+687|LILY (CONT'D)|Tom, come with me?|speech|LILY|F|True
 688||"Lily slips out of the booth and Tom follows, leaving Nina and
-Andrew alone. She avoids his gaze, nervous."|stage direction||
+Andrew alone. She avoids his gaze, nervous."|stage direction|||
 689|ANDREW|"So...what are you guys working on
-these days?"|speech|ANDREW|F
+these days?"|speech|ANDREW|F|True
 690||"Her cell phone RINGS, interrupting him. She quickly turns it
-off and gives him an embarrassed smile."|stage direction||
-691|NINA|Sorry. Swan Lake.|speech|NINA|F
-692|ANDREW|Yeah?|speech|ANDREW|F
-693|NINA|You know it?|speech|NINA|F
+off and gives him an embarrassed smile."|stage direction|||
+691|NINA|Sorry. Swan Lake.|speech|NINA|F|True
+692|ANDREW|Yeah?|speech|ANDREW|F|True
+693|NINA|You know it?|speech|NINA|F|True
 694|ANDREW|"Oh, no, not really. Heard of it
-though. What's it about?"|speech|ANDREW|F
+though. What's it about?"|speech|ANDREW|F|True
 695|NINA|"It's about a girl who's been turned
 into a swan. She needs love to
-break the spell."|speech|NINA|F
-696|ANDREW|Okay.|speech|ANDREW|F
+break the spell."|speech|NINA|F|True
+696|ANDREW|Okay.|speech|ANDREW|F|True
 697|NINA|"Yeah, but her prince falls for the
-wrong girl and she kills herself."|speech|NINA|F
-698|ANDREW|So a happy ending, then?|speech|ANDREW|F
-699|NINA|It's beautiful, actually.|speech|NINA|F
-700|ANDREW|Like you.|speech|ANDREW|F
-701||She starts to feel the initial tingles of the drug.|stage direction||
-702|NINA|Huh?|speech|NINA|F
+wrong girl and she kills herself."|speech|NINA|F|True
+698|ANDREW|So a happy ending, then?|speech|ANDREW|F|True
+699|NINA|It's beautiful, actually.|speech|NINA|F|True
+700|ANDREW|Like you.|speech|ANDREW|F|True
+701||She starts to feel the initial tingles of the drug.|stage direction|||
+702|NINA|Huh?|speech|NINA|F|True
 703|ANDREW|"I said you're beautiful.
 66.
-She giggles."|speech|ANDREW|F
+She giggles."|speech|ANDREW|F|True
 704|ANDREW (CONT'D)|"That funny?
-She gives him a flirtatious glance."|speech|ANDREW|F
+She gives him a flirtatious glance."|speech|ANDREW|F|True
 705|NINA|"My hands are all sweaty.
 Andrew touches them. She grabs onto his hands. She looks at
 his face. His eyes twinkle at her.
 Lily slides in next to her. Nina sees her and melts into her
-body. Lily hugs her back."|speech|NINA|F
+body. Lily hugs her back."|speech|NINA|F|True
 706|LILY|"Uh oh! Looks like someone's
-rolling. Let's get you dancing."|speech|LILY|F
+rolling. Let's get you dancing."|speech|LILY|F|True
 707||"A65 OMITTED A65
-65 INT. DANCE CLUB - NIGHT 65"|stage direction||
+65 INT. DANCE CLUB - NIGHT 65"|stage direction|||
 708|LILY|"Nina kisses Tom on the floor of a crowded dance club. The
 drug is in full effect.
 The world has soft edges, colors are vivid and bleed into one
@@ -1860,29 +1860,29 @@ another.
 Lily twirls her around.
 Nina attaches herself to her, hungry for the attention. A
 cheering section of guys surrounds them.
-Nina lets loose. Dances with abandon."|speech|LILY|F
-709||66 INT. CLUB BATHROOM - LATER 66|stage direction||
+Nina lets loose. Dances with abandon."|speech|LILY|F|True
+709||66 INT. CLUB BATHROOM - LATER 66|stage direction|||
 710|LILY|"Nina makes out with someone, her back pushed up against the
 wall. Her eyes are closed, she's shiny with sweat.
 She opens her eyes, confused to find that it's not Andrew or
 even Tom, just a STRANGE MAN.
 She backs away. He reaches for her, but she swats him off.
-67."|speech|LILY|F
-711||67 INT. DANCE CLUB - SAME 67|stage direction||
+67."|speech|LILY|F|True
+711||67 INT. DANCE CLUB - SAME 67|stage direction|||
 712|LILY|"She stumbles around the dance floor, looking for Lily, but
 only sees a mass of moving bodies.
 She finally spots a girl that looks like her from behind.
-Nina grabs her shoulder and the GIRL spins around. Not Lily."|speech|LILY|F
-713||68 EXT. DANCE CLUB - LATER 68|stage direction||
+Nina grabs her shoulder and the GIRL spins around. Not Lily."|speech|LILY|F|True
+713||68 EXT. DANCE CLUB - LATER 68|stage direction|||
 714|LILY|"Nina pushes her way out of the club, starting to panic. She
 looks around, trying to figure out where she is, but the city
 is dark and non-descript.
 LILY (O.S.)
 Nina!
 Nina turns towards the voice and, with relief, sees Lily exit
-the club."|speech|LILY|F
-715|LILY (CONT'D)|Where you goin'?|speech|LILY|F
-716||69 INT. TAXI - NIGHT 69|stage direction||
+the club."|speech|LILY|F|True
+715|LILY (CONT'D)|Where you goin'?|speech|LILY|F|True
+716||69 INT. TAXI - NIGHT 69|stage direction|||
 717|LILY (CONT'D)|"Nina stares adoringly at Lily, who has her eyes closed,
 enjoying the cool air blowing in from her open window.
 Lily opens her eyes and catches Nina staring. Lily smirks.
@@ -1900,60 +1900,60 @@ Nina shudders, but pulls Lily's hand back out and holds it.
 Lily snickers and looks out her window.
 Nina looks at their clasped hands, then out her own window,
 happy.
-68."|speech|LILY|F
-718||70 INT. UPPER WEST SIDE APARTMENT HALLWAY - LATER 70|stage direction||
+68."|speech|LILY|F|True
+718||70 INT. UPPER WEST SIDE APARTMENT HALLWAY - LATER 70|stage direction|||
 719|LILY (CONT'D)|"Nina quietly opens the front door.
 Lily GIGGLES. Nina SHUSHES her.
-They slip off their shoes and tip-toe inside."|speech|LILY|F
-720||71 INT. UPPER WEST SIDE APARTMENT - SAME 71|stage direction||
+They slip off their shoes and tip-toe inside."|speech|LILY|F|True
+720||71 INT. UPPER WEST SIDE APARTMENT - SAME 71|stage direction|||
 721|LILY (CONT'D)|"Nina eases the door shut.
 Lily taps her on the shoulder and points towards the hallway.
 Erica emerges from the darkness, approaching them slowly.
-Distraught."|speech|LILY|F
+Distraught."|speech|LILY|F|True
 722|ERICA|"Do you have any idea what time it
-is?"|speech|ERICA|F
-723|NINA|Mmm-hmm. Late.|speech|NINA|F
-724|ERICA|Where have you been?|speech|ERICA|F
-725|NINA|To the moon and back.|speech|NINA|F
-726|ERICA|You've been drinking.|speech|ERICA|F
+is?"|speech|ERICA|F|True
+723|NINA|Mmm-hmm. Late.|speech|NINA|F|True
+724|ERICA|Where have you been?|speech|ERICA|F|True
+725|NINA|To the moon and back.|speech|NINA|F|True
+726|ERICA|You've been drinking.|speech|ERICA|F|True
 727|"NINA
 (CORRECT ANSWER)"|"Ding ding ding.
 Lily snickers, Nina tries to keep a straight face, but ends
-up laughing."|speech|NINA|F
-728|ERICA|What else?|speech|ERICA|F
-729|NINA|Huh?|speech|NINA|F
+up laughing."|speech|NINA|F|True
+728|ERICA|What else?|speech|ERICA|F|True
+729|NINA|Huh?|speech|NINA|F|True
 730|ERICA|"What else have you been doing?
-Nina smiles coyly."|speech|ERICA|F
+Nina smiles coyly."|speech|ERICA|F|True
 731|NINA|"You want to know their names?
 69.
-Erica grabs Nina's wrist."|speech|NINA|F
-732|ERICA|You need to sleep it off.|speech|ERICA|F
-733|NINA|There were two. Tom and Jerry...|speech|NINA|F
-734|ERICA|Be quiet, Nina.|speech|ERICA|F
+Erica grabs Nina's wrist."|speech|NINA|F|True
+732|ERICA|You need to sleep it off.|speech|ERICA|F|True
+733|NINA|There were two. Tom and Jerry...|speech|NINA|F|True
+734|ERICA|Be quiet, Nina.|speech|ERICA|F|True
 735|"NINA
-(GIGGLING)"|I fucked both of them.|speech|NINA|F
+(GIGGLING)"|I fucked both of them.|speech|NINA|F|True
 736|ERICA|"Shut your mouth!
 Erica violently jams her fingers over Nina's lips, trying to
 silence her.
-Nina runs into her room and SLAMS the door."|speech|ERICA|F
-737||72A INT. NINA'S BEDROOM - SAME 72A|stage direction||
+Nina runs into her room and SLAMS the door."|speech|ERICA|F|True
+737||72A INT. NINA'S BEDROOM - SAME 72A|stage direction|||
 738|ERICA|"She grabs the broken PIECE OF WOOD from the dresser and jams
-the door. She backs Lily away, preparing for the storm."|speech|ERICA|F
+the door. She backs Lily away, preparing for the storm."|speech|ERICA|F|True
 739|NINA|"Don't come in here!
 Erica tries to open the door, but it gets stuck. She peers
-her eye through the crack."|speech|NINA|F
-740|ERICA|What's this?|speech|ERICA|F
+her eye through the crack."|speech|NINA|F|True
+740|ERICA|What's this?|speech|ERICA|F|True
 741|NINA|"It's called privacy! I'm not
 fucking twelve years old anymore!
 Erica struggles a little with the door, but can't get it to
-budge."|speech|NINA|F
+budge."|speech|NINA|F|True
 742|ERICA|"You're not my Nina right now!
-70."|speech|ERICA|F
+70."|speech|ERICA|F|True
 743|NINA|"LEAVE ME ALONE!!!
 Nina SHOVES the door shut.
 Erica's FOOTSTEPS retreat, followed by the SLAM of her
-bedroom door."|speech|NINA|F
-744||72B Nina is worked up, breathing hard. 72B|stage direction||
+bedroom door."|speech|NINA|F|True
+744||72B Nina is worked up, breathing hard. 72B|stage direction|||
 745|NINA|"LILY (O.S.)
 Whoa...
 Nina turns around and sees her Double smiling at her.
@@ -1988,108 +1988,108 @@ She closes her eyes, allows the sensation to invade her body
 and CLIMAXES.
 She breathes her way back to earth. Slowly her eyes open.
 She rolls over towards Lily. But Lily is gone.
-Instead her DOUBLE hovers over her."|speech|NINA|F
+Instead her DOUBLE hovers over her."|speech|NINA|F|True
 746|DOUBLE|"Sweet girl.
-She SMASHES a pillow over Nina's face."|speech|DOUBLE|F
+She SMASHES a pillow over Nina's face."|speech|DOUBLE|F|
 747||"A73 OMITTED A73
-73 INT. NINA'S BEDROOM - MORNING 73"|stage direction||
+73 INT. NINA'S BEDROOM - MORNING 73"|stage direction|||
 748|CUT TO:|"Nina lies alone in bed, the sheets and comforter in disarray.
 She sits up, clutches her head in pain.
 She looks around, but there's no sign of Lily or the Double.
 Then her eyes drift to the alarm clock: 11:36.
 72.
-She snaps out of bed."|speech|CUT TO:|?
-749||74 INT. UPPER WEST SIDE APARTMENT - MORNING 74|stage direction||
+She snaps out of bed."|speech|CUT TO:|?|
+749||74 INT. UPPER WEST SIDE APARTMENT - MORNING 74|stage direction|||
 750|CUT TO:|"Dishevelled, Nina races towards the front door. She sees
-Erica brooding at the kitchen table, watching her."|speech|CUT TO:|?
+Erica brooding at the kitchen table, watching her."|speech|CUT TO:|?|
 751|NINA|"Why didn't you wake me up?
-Erica just stares at her, devastated."|speech|NINA|F
+Erica just stares at her, devastated."|speech|NINA|F|True
 752|NINA (CONT'D)|"I'm moving out.
-Nina whips out the front door and leaves her."|speech|NINA|F
-753||75 INT. BACKSTAGE - DAY 75|stage direction||
+Nina whips out the front door and leaves her."|speech|NINA|F|True
+753||75 INT. BACKSTAGE - DAY 75|stage direction|||
 754|NINA (CONT'D)|"Nina races. She hears muffled Black Swan music playing,
-rehearsal clearly in progress."|speech|NINA|F
+rehearsal clearly in progress."|speech|NINA|F|True
 755|"NINA
 (TO HERSELF)"|"My music.
 She runs into the wings and sees the full company rehearsing
 on stage for the first time...
 Another girl dancing her part.
 The girl spins and Nina sees her face. It's Lily!
-Horrified, Nina runs onto"|speech|NINA|F
-756||76 STAGE 76|location||
+Horrified, Nina runs onto"|speech|NINA|F|True
+756||76 STAGE 76|location|||
 757|"NINA
 (TO HERSELF)"|"and makes a beeline for Leroy, looking beyond apologetic.
-The dancers and piano player stop at the interruption."|speech|NINA|F
+The dancers and piano player stop at the interruption."|speech|NINA|F|True
 758|LEROY|"Keep going. Let's finish the Act.
 The piano music resumes, and the dancers pick up where they
 left off.
-73."|speech|LEROY|F
+73."|speech|LEROY|F|True
 759||"Nina meets Lily's eyes. She makes a sorry face, but then
 continues dancing.
 Nina is forced to watch from the sidelines as Lily and David
-finish the Black Swan's Pas de Deux."|stage direction||
+finish the Black Swan's Pas de Deux."|stage direction|||
 760|LEROY (CONT'D)|"That was good. Let's take 10, then
-we'll move on to Act 4."|speech|LEROY|F
-761||He turns to Nina and his smile fades.|stage direction||
-762|LEROY (CONT'D)|Get warmed up.|speech|LEROY|F
-763|NINA|Thomas, I'm sor-|speech|NINA|F
+we'll move on to Act 4."|speech|LEROY|F|True
+761||He turns to Nina and his smile fades.|stage direction|||
+762|LEROY (CONT'D)|Get warmed up.|speech|LEROY|F|True
+763|NINA|Thomas, I'm sor-|speech|NINA|F|True
 764||"He ignores her, and walks off stage.
-Lily tentatively approaches with the PRACTICE TUTU."|stage direction||
-765|LILY|Hey...|speech|LILY|F
-766||Nina snatches it, avoiding eye contact. She puts it on.|stage direction||
+Lily tentatively approaches with the PRACTICE TUTU."|stage direction|||
+765|LILY|Hey...|speech|LILY|F|True
+766||Nina snatches it, avoiding eye contact. She puts it on.|stage direction|||
 767|LILY (CONT'D)|"He wanted to go through the
-spacing. Asked me to step in."|speech|LILY|F
-768||Nina starts stretching.|stage direction||
+spacing. Asked me to step in."|speech|LILY|F|True
+768||Nina starts stretching.|stage direction|||
 769|"NINA
-(LOADED)"|I overslept.|speech|NINA|F
+(LOADED)"|I overslept.|speech|NINA|F|True
 770|LILY|"Oops... Least you had a good time,
-right?"|speech|LILY|F
-771||Nina doesn't answer.|stage direction||
-772|LILY (CONT'D)|Hello?|speech|LILY|F
+right?"|speech|LILY|F|True
+771||Nina doesn't answer.|stage direction|||
+772|LILY (CONT'D)|Hello?|speech|LILY|F|True
 773|NINA|"You put something in my drink.
-74-76."|speech|NINA|F
+74-76."|speech|NINA|F|True
 774|"LILY
-(OBVIOUSLY)"|Yeah...|speech|LILY|F
-775|NINA|And took off this morning.|speech|NINA|F
-776|LILY|This morning?|speech|LILY|F
-777|NINA|Yeah, you slept over.|speech|NINA|F
+(OBVIOUSLY)"|Yeah...|speech|LILY|F|True
+775|NINA|And took off this morning.|speech|NINA|F|True
+776|LILY|This morning?|speech|LILY|F|True
+777|NINA|Yeah, you slept over.|speech|NINA|F|True
 778|LILY|"Uh, no. Unless your name's Tom and
-you have a dick."|speech|LILY|F
-779|NINA|But we...|speech|NINA|F
-780||Nina stops herself.|stage direction||
-781|LILY|We what, Nina?|speech|LILY|F
-782||Lily can read something on her face.|stage direction||
+you have a dick."|speech|LILY|F|True
+779|NINA|But we...|speech|NINA|F|True
+780||Nina stops herself.|stage direction|||
+781|LILY|We what, Nina?|speech|LILY|F|True
+782||Lily can read something on her face.|stage direction|||
 783|LILY (CONT'D)|"What, you have some kind of lezzy
-wet dream?"|speech|LILY|F
-784||Nina glances at the dancers, nervous they've heard.|stage direction||
-785|NINA|You're lying.|speech|NINA|F
+wet dream?"|speech|LILY|F|True
+784||Nina glances at the dancers, nervous they've heard.|stage direction|||
+785|NINA|You're lying.|speech|NINA|F|True
 786|"LILY
 (TICKLED)"|"Oh my god, you totally fantasized
-about me."|speech|LILY|F
-787|NINA|Stop.|speech|NINA|F
-788|LILY|Was I good?|speech|LILY|F
+about me."|speech|LILY|F|True
+787|NINA|Stop.|speech|NINA|F|True
+788|LILY|Was I good?|speech|LILY|F|True
 789|"NINA
-(BARKS)"|Shut up!|speech|NINA|F
+(BARKS)"|Shut up!|speech|NINA|F|True
 790||"Other dancers look over.
-Nina resumes stretching. Lily just walks away."|stage direction||
+Nina resumes stretching. Lily just walks away."|stage direction|||
 791|"NINA
-(BARKS)"|74-76A.|speech|NINA|F
-792||A77 INT. STAGE - DAY A77|stage direction||
+(BARKS)"|74-76A.|speech|NINA|F|True
+792||A77 INT. STAGE - DAY A77|stage direction|||
 793|"NINA
-(BARKS)"|Nina dances the end of the ballet, the White Swan's suicide.|speech|NINA|F
+(BARKS)"|Nina dances the end of the ballet, the White Swan's suicide.|speech|NINA|F|True
 794|LEROY|"The Black Swan has stolen your
 love. There's only one way to end
 the pain.
 Nina climbs the stairs of the set and arrives at the ""cliff,""
-stopping at the precipice."|speech|LEROY|F
+stopping at the precipice."|speech|LEROY|F|True
 795|LEROY (CONT'D)|"You're not at all fearful. Filled
 with acceptance.
 Nina looks down. It's a short drop to a stack of pads, but a
-HARD FLOOR surrounds it."|speech|LEROY|F
+HARD FLOOR surrounds it."|speech|LEROY|F|True
 796|LEROY (CONT'D)|"You look at the Prince, then down
 at Rothbart, and, yes, up at the
 audience...And jump!
-She hesitates, fearful."|speech|LEROY|F
+She hesitates, fearful."|speech|LEROY|F|True
 797|LEROY (CONT'D)|"Go ahead. You'll be fine.
 Nina takes a breath and leaps in a swan dive.
 She falls...and lands in the pads, unhurt. Slight applause
@@ -2097,8 +2097,8 @@ from the other dancers.
 LEROY (O.S.) (CONT'D)
 Everybody get a drink then it's
 notes.
-Nina lies in the pads, completely exhausted."|speech|LEROY|F
-798||B77 INT. BACKSTAGE - LATER B77|stage direction||
+Nina lies in the pads, completely exhausted."|speech|LEROY|F|True
+798||B77 INT. BACKSTAGE - LATER B77|stage direction|||
 799|LEROY (CONT'D)|"Nina sits backstage, toweling herself off.
 She pauses, noticing Leroy and Lily conversing near the
 doorway.
@@ -2107,39 +2107,39 @@ Nina watching. His serious demeanor returns and he pulls
 away. He says goodbye to Lily.
 Lily follows his gaze and smirks at Nina, rubbing it in,
 before exiting herself.
-74-76B."|speech|LEROY|F
-800||77 OMITTED 77|location||
-801|LEROY (CONT'D)|77-78.|speech|LEROY|F
-802||78A-B OMITTED 78A-B|stage direction||
+74-76B."|speech|LEROY|F|True
+800||77 OMITTED 77|location|||
+801|LEROY (CONT'D)|77-78.|speech|LEROY|F|True
+802||78A-B OMITTED 78A-B|stage direction|||
 803||"79 OMITTED 79
-80 OMITTED 80"|location||
-804||A81 INT. BATHROOM - NIGHT A81|stage direction||
+80 OMITTED 80"|location|||
+804||A81 INT. BATHROOM - NIGHT A81|stage direction|||
 805|LEROY (CONT'D)|"Nina kneels in front of the toilet, a finger down her throat.
 She gags, but nothing comes up.
 Her eyes tear up, and she tries again, but still just heaves.
-Frustrated, she wipes her mouth and flushes."|speech|LEROY|F
-806||81 INT. UPPER WEST SIDE APARTMENT - NIGHT 81|stage direction||
+Frustrated, she wipes her mouth and flushes."|speech|LEROY|F|True
+806||81 INT. UPPER WEST SIDE APARTMENT - NIGHT 81|stage direction|||
 807|LEROY (CONT'D)|"Nina exits the bathroom and approaches her mother's bedroom
 door. It's closed, but the light's on underneath.
 She's about to knock, but hesitates. Through the door, she
 can hear the sound of her mother watching an INFOMERCIAL on
 TV. An unfamiliar, lonely noise.
 Nina stands there for a moment, just breathing. She
-strengthens her resolve and backs away from the door."|speech|LEROY|F
-808||82 INT. NINA'S BEDROOM - NIGHT 82|stage direction||
+strengthens her resolve and backs away from the door."|speech|LEROY|F|True
+808||82 INT. NINA'S BEDROOM - NIGHT 82|stage direction|||
 809|LEROY (CONT'D)|"Nina collapses on her bed.
 She opens the JEWELRY BOX sitting on her night stand.
 She watches the ballerina spin for a moment...
 Then suddenly SLAMS the lid shut and throws the box hard
 against the wall.
 She shoots out of bed and starts gathering all her childish
-possessions--stuffed animals, dolls, keepsakes, etc."|speech|LEROY|F
-810||83 INT. APARTMENT CORRIDOR - NIGHT 83|stage direction||
+possessions--stuffed animals, dolls, keepsakes, etc."|speech|LEROY|F|True
+810||83 INT. APARTMENT CORRIDOR - NIGHT 83|stage direction|||
 811|LEROY (CONT'D)|"Nina shoves her belongings into the TRASH CHUTE, a pile of
 her next victims strewn at her feet.
 She grabs a TEDDY BEAR IN A TUTU, and jams him in.
-77-78A."|speech|LEROY|F
-812||A84 INT. STAGE - DAY A84|stage direction||
+77-78A."|speech|LEROY|F|True
+812||A84 INT. STAGE - DAY A84|stage direction|||
 813|LEROY (CONT'D)|"Nina dances the Black Swan in front of the nearly completed
 scenery.
 A few TECHNICIANS complete last minute touch-ups.
@@ -2151,9 +2151,9 @@ Fueled by the competition, Nina pushes herself. Her dancing
 becomes more impassioned and aggressive.
 She finishes the section, breathing deeply, covered in sweat.
 The company enthusiastically claps.
-She stares intently at Leroy, awaiting his response."|speech|LEROY|F
-814|LEROY|At last, I saw the Black Swan.|speech|LEROY|F
-815||B84 INT. COSTUME SHOP - DAY B84|stage direction||
+She stares intently at Leroy, awaiting his response."|speech|LEROY|F|True
+814|LEROY|At last, I saw the Black Swan.|speech|LEROY|F|True
+815||B84 INT. COSTUME SHOP - DAY B84|stage direction|||
 816|LEROY|"Nina wears the BLACK SWAN COSTUME, facing a mirror. Another
 mirror behind her creates an infinite array of reflections.
 The overworked COSTUMER checks each seam, pulling the costume
@@ -2163,11 +2163,11 @@ She hears a sharp RUSTLE. Like someone's scratching.
 She looks up at the mirror. Her reflection stares back.
 Behind the first reflection, another Nina has her arm behind
 her back, like she's scratching her shoulder.
-Nina leans to get a better look..."|speech|LEROY|F
+Nina leans to get a better look..."|speech|LEROY|F|True
 817|COSTUMER|"Sit still, I'm almost done.
 Nina startles. The reflection has returned to normal, its
 hand back at its side.
-Costumer checks one more thing, makes one more note."|speech|COSTUMER|F
+Costumer checks one more thing, makes one more note."|speech|COSTUMER|F|
 818|COSTUMER (CONT'D)|"Okay, all set.
 77-78B.
 The costumer leaves her to change.
@@ -2181,65 +2181,65 @@ COSTUMER (O.S.)
 Yeah, need to get you measured for
 your Swan Queen costumes.
 Nina steps out from behind the privacy curtain, and finds
-Lily waiting."|speech|COSTUMER|F
+Lily waiting."|speech|COSTUMER|F|
 819|"NINA
-(TO COSTUMER)"|What's she doing here?|speech|NINA|F
+(TO COSTUMER)"|What's she doing here?|speech|NINA|F|True
 820|LILY|"He made me your alternate.
 (can't help it)
 Just in case...
-Nina pushes past her."|speech|LILY|F
-821||C84 INT. BACKSTAGE HALLWAY - DAY C84|stage direction||
+Nina pushes past her."|speech|LILY|F|True
+821||C84 INT. BACKSTAGE HALLWAY - DAY C84|stage direction|||
 822|LILY|"Nina chases after Leroy, in mid-conversation with the STAGE
-MANAGER and two STAGEHANDS."|speech|LILY|F
+MANAGER and two STAGEHANDS."|speech|LILY|F|True
 823|NINA|"Thomas!
-He stops and faces her."|speech|NINA|F
-824|NINA (CONT'D)|She's trying to replace me.|speech|NINA|F
-825|LEROY|(to stage manager,|speech|LEROY|F
+He stops and faces her."|speech|NINA|F|True
+824|NINA (CONT'D)|She's trying to replace me.|speech|NINA|F|True
+825|LEROY|(to stage manager,|speech|LEROY|F|True
 826|STAGEHANDS)|"Go ahead. I'll catch up.
-They continue walking."|speech||
+They continue walking."|speech|||
 827|LEROY (CONT'D)|"What's going on?
-77-78C."|speech|LEROY|F
-828|NINA|Lily. You made her my alternate.|speech|NINA|F
+77-78C."|speech|LEROY|F|True
+828|NINA|Lily. You made her my alternate.|speech|NINA|F|True
 829|LEROY|"There's always an alternate, you
-know that. Lily's the best choice."|speech|LEROY|F
-830|NINA|She wants my role.|speech|NINA|F
+know that. Lily's the best choice."|speech|LEROY|F|True
+830|NINA|She wants my role.|speech|NINA|F|True
 831|LEROY|"Every dancer in the world wants
-your role."|speech|LEROY|F
+your role."|speech|LEROY|F|True
 832|NINA|"No, she's different. She's after
-me. She's trying to replace me."|speech|NINA|F
+me. She's trying to replace me."|speech|NINA|F|True
 833|"LEROY
-(CONDESCENDING)"|Nina...|speech|LEROY|F
+(CONDESCENDING)"|Nina...|speech|LEROY|F|True
 834|NINA|"Please believe me.
-He studies her for a moment, not sure what to make of this."|speech|NINA|F
+He studies her for a moment, not sure what to make of this."|speech|NINA|F|True
 835|LEROY|"Listen, I know it's been a
 struggle. But you had a
 breakthrough this morning.
-Nina starts to speak, he holds up his hand to silence her."|speech|LEROY|F
+Nina starts to speak, he holds up his hand to silence her."|speech|LEROY|F|True
 836|LEROY (CONT'D)|"Tomorrow is yours. Give a great
 performance, and you won't have to
-worry about Lily, or anyone else."|speech|LEROY|F
+worry about Lily, or anyone else."|speech|LEROY|F|True
 837|"NINA
 THOMAS-
 LEROY"|"No more. Go home and rest.
-Shut down, she watches him walk away."|speech|NINATHOMAS-LEROY|?
-838||84 OMITTED 84|location||
+Shut down, she watches him walk away."|speech|NINATHOMAS-LEROY|?|
+838||84 OMITTED 84|location|||
 839|"NINA
 THOMAS-
-LEROY"|79.|speech|NINATHOMAS-LEROY|?
-840||85A INT. PRINCIPAL REHEARSAL SPACE - NIGHT 85A|stage direction||
+LEROY"|79.|speech|NINATHOMAS-LEROY|?|
+840||85A INT. PRINCIPAL REHEARSAL SPACE - NIGHT 85A|stage direction|||
 841|"NINA
 THOMAS-
 LEROY"|"Nina practices the Black Swan, alone with the jaded piano
 player, working herself hard.
-He suddenly stops playing."|speech|NINATHOMAS-LEROY|?
-842|NINA|What happened?|speech|NINA|F
+He suddenly stops playing."|speech|NINATHOMAS-LEROY|?|
+842|NINA|What happened?|speech|NINA|F|True
 843|PIANO PLAYER|"I gotta life, deary.
 He closes the music book and stands.
 PIANO PLAYER (CONT'D)
 Don't work too hard. It's your big
 day tomorrow.
-Annoyed, she watches him leave."|speech|PIANO PLAYER|F
-844||85B She faces herself in the mirror and takes a breath. 85B|stage direction||
+Annoyed, she watches him leave."|speech|PIANO PLAYER|F|
+844||85B She faces herself in the mirror and takes a breath. 85B|stage direction|||
 845|PIANO PLAYER|"She resumes dancing without music, her feet CLICKING on the
 floor.
 As she moves, she notices something strange out of the corner
@@ -2250,25 +2250,25 @@ She stares at the mirror...troubled.
 The door to the room BANGS shut.
 She whips towards it and she's suddenly plunged into
 DARKNESS.
-Freaked, she stumbles towards the door, and pushes out into"|speech|PIANO PLAYER|F
-846|THE|80.|speech|THE|F
-847||86A INT. STAGE - NIGHT 86A|stage direction||
+Freaked, she stumbles towards the door, and pushes out into"|speech|PIANO PLAYER|F|
+846|THE|80.|speech|THE|F|
+847||86A INT. STAGE - NIGHT 86A|stage direction|||
 848|THE|"Where it's equally dark. Lit only by the stage's ""ghost
-light,"" a single bulb on a stand."|speech|THE|F
+light,"" a single bulb on a stand."|speech|THE|F|
 849|NINA|"Hey! Hey! I'm still in here.
 No one answers.
 She looks at the cavernous auditorium. All those empty
 seats, faced towards her. Very overwhelming...
-She hears a noise in the wings."|speech|NINA|F
+She hears a noise in the wings."|speech|NINA|F|True
 850|NINA (CONT'D)|"Hey! Turn the lights back on!
 She gets to the other side of the stage, but the wings seem
-empty. Quiet."|speech|NINA|F
-851||86B Then she hears the faint sound of MUFFLED BANGING. 86B|stage direction||
+empty. Quiet."|speech|NINA|F|True
+851||86B Then she hears the faint sound of MUFFLED BANGING. 86B|stage direction|||
 852|NINA (CONT'D)|"Hello?
 No one answers.
 She heads towards the noise. The banging now accompanied by a
-GIGGLE."|speech|NINA|F
-853||87 INT. WINGS - SAME 87|stage direction||
+GIGGLE."|speech|NINA|F|True
+853||87 INT. WINGS - SAME 87|stage direction|||
 854|NINA (CONT'D)|"It's pretty dark but the sound is unmistakable: two people
 going at it.
 Nina tiptoes past some off-stage SETS and LIGHTING EQUIPMENT.
@@ -2281,20 +2281,20 @@ She meets Nina's eyes and smiles.
 Nina jumps back, knocking into a piece of the set. The
 lovemaking pauses at the sound.
 Nina flees.
-81."|speech|NINA|F
-855||A88 INT. PRINCIPAL DRESSING ROOM - NIGHT A88|stage direction||
+81."|speech|NINA|F|True
+855||A88 INT. PRINCIPAL DRESSING ROOM - NIGHT A88|stage direction|||
 856|NINA (CONT'D)|"Nina runs in and quickly jams her belongings into her bag.
 She notices her reflection in the mirror and removes her
 diamond earrings.
 Then gathers the other trinkets sitting on the counter and
-puts them all inside her bag."|speech|NINA|F
-857||B88 EXT. THEATER - NIGHT B88|stage direction||
+puts them all inside her bag."|speech|NINA|F|True
+857||B88 EXT. THEATER - NIGHT B88|stage direction|||
 858|NINA (CONT'D)|"Nina pushes out the stage door, and passes the ROW OF
 POSTERS.
 They now advertise Swan Lake and feature a beautiful
 photograph of Nina.
-Nina stops and looks at them."|speech|NINA|F
-859||88 INT. HOSPITAL - NIGHT 88|stage direction||
+Nina stops and looks at them."|speech|NINA|F|True
+859||88 INT. HOSPITAL - NIGHT 88|stage direction|||
 860|NINA (CONT'D)|"Nina slowly enters Beth's room, but remains at the threshold.
 Beth sits in a wheelchair faced towards the window. Sleeping.
 Nina gets up the nerve and quietly walks further in, trying
@@ -2305,64 +2305,64 @@ She pulls out the diamond earrings, sets them down.
 Followed by the makeup compact, the pack of cigarettes, a
 needle and thread, and an emory board.
 A hand suddenly GRABS Nina's arm.
-Awake, Beth stares Nina down."|speech|NINA|F
+Awake, Beth stares Nina down."|speech|NINA|F|True
 861|BETH|"What are you doing here?
 Stunned, Nina's unable to answer.
-Beth follows her gaze to the random items on her table."|speech|BETH|F
+Beth follows her gaze to the random items on her table."|speech|BETH|F|True
 862|NINA|"I'm so sorry.
 Beth begins touching the objects, vaguely remembering.
-82."|speech|NINA|F
+82."|speech|NINA|F|True
 863|NINA (CONT'D)|"I didn't mean to make you feel this
 way. It's happening to me now.
-She's trying to replace me."|speech|NINA|F
-864||Beth sees the earrings and it all clicks in.|stage direction||
-865|BETH|You stole all these things?|speech|BETH|F
+She's trying to replace me."|speech|NINA|F|True
+864||Beth sees the earrings and it all clicks in.|stage direction|||
+865|BETH|You stole all these things?|speech|BETH|F|True
 866|NINA|"I just wanted to be like you.
-Perfect."|speech|NINA|F
-867||Beth shoots Nina a dark look and turns away.|stage direction||
-868|BETH|I'm not perfect. I'm nothing.|speech|BETH|F
-869|NINA|It's not true.|speech|NINA|F
-870|BETH|Fucking nothing!|speech|BETH|F
-871||Beth grabs the emory board and stabs herself in the face.|stage direction||
-872|BETH (CONT'D)|Nothing! Nothing!!!|speech|BETH|F
-873|NINA|Beth?!|speech|NINA|F
+Perfect."|speech|NINA|F|True
+867||Beth shoots Nina a dark look and turns away.|stage direction|||
+868|BETH|I'm not perfect. I'm nothing.|speech|BETH|F|True
+869|NINA|It's not true.|speech|NINA|F|True
+870|BETH|Fucking nothing!|speech|BETH|F|True
+871||Beth grabs the emory board and stabs herself in the face.|stage direction|||
+872|BETH (CONT'D)|Nothing! Nothing!!!|speech|BETH|F|True
+873|NINA|Beth?!|speech|NINA|F|True
 874||"Nina spins Beth around. She is now a bloody version of THE
 DOUBLE! She continues stabbing herself.
-Nina grabs the Double's hand and struggles to restrain her."|stage direction||
-875|DOUBLE|NOTHING!|speech|DOUBLE|F
-876|NINA|Stop it! Stop!|speech|NINA|F
+Nina grabs the Double's hand and struggles to restrain her."|stage direction|||
+875|DOUBLE|NOTHING!|speech|DOUBLE|F|
+876|NINA|Stop it! Stop!|speech|NINA|F|True
 877||"The emory board stabs into Nina's arm.
-Nina rushes from the room."|stage direction||
-878|NINA|83.|speech|NINA|F
-879||89 INT. HALLWAY - SAME 89|stage direction||
+Nina rushes from the room."|stage direction|||
+878|NINA|83.|speech|NINA|F|True
+879||89 INT. HALLWAY - SAME 89|stage direction|||
 880|NINA|"She BANGS into a empty stretcher sitting in the hallway,
 causing a CLAMOR.
 The older nurse looks up.
-Nina jumps into an open elevator."|speech|NINA|F
-881||90 INT. HOSPITAL ELEVATOR - SAME 90|stage direction||
+Nina jumps into an open elevator."|speech|NINA|F|True
+881||90 INT. HOSPITAL ELEVATOR - SAME 90|stage direction|||
 882|NINA|"She hits the GROUND FLOOR BUTTON, and hides in the corner.
 As the doors close, she looks down and sees that, in one
 hand, she holds the BLOODY EMORY BOARD.
-She drops it, disgusted."|speech|NINA|F
-883||91 INT. UPPER WEST SIDE APARTMENT - NIGHT 91|stage direction||
+She drops it, disgusted."|speech|NINA|F|True
+883||91 INT. UPPER WEST SIDE APARTMENT - NIGHT 91|stage direction|||
 884|NINA|"Nina runs in and quickly shuts the door behind her. Takes a
-breath, and notices some blood still on her hands."|speech|NINA|F
-885||A92 INT. KITCHEN - SAME A92|stage direction||
+breath, and notices some blood still on her hands."|speech|NINA|F|True
+885||A92 INT. KITCHEN - SAME A92|stage direction|||
 886|NINA|"She flips on the light. The room's empty.
 She goes to the sink and washes her hands.
 She finishes, and flips the light off as she walks out of the
 room.
 She pauses, rushes back and flips on the light. The Double
 stares at her from the corner, her face covered in blood.
-Terrified, Nina runs."|speech|NINA|F
-887||B92 INT. BATHROOM - SAME B92|stage direction||
+Terrified, Nina runs."|speech|NINA|F|True
+887||B92 INT. BATHROOM - SAME B92|stage direction|||
 888|NINA|"She goes straight to the toilet and VOMITS.
 She hears a creaking sound in the apartment and looks towards
-the open door."|speech|NINA|F
+the open door."|speech|NINA|F|True
 889|NINA|"Mommy?!
 She goes out to investigate.
-83A."|speech|NINA|F
-890||92 INT. ERICA'S BEDROOM - SAME 92|stage direction||
+83A."|speech|NINA|F|True
+890||92 INT. ERICA'S BEDROOM - SAME 92|stage direction|||
 891|NINA|"Nina flings open the door, but Erica's not in there.
 She hears RUSTLING, then WHISPERING.
 Nina looks around the room. The paintings of herself seem to
@@ -2375,10 +2375,10 @@ She glimpses the mirror, which reflects down the hallway. She
 sees her Double rushing towards the room.
 Scared, Nina whips around, just as her mother arrives in the
 doorway.
-84."|speech|NINA|F
+84."|speech|NINA|F|True
 892|ERICA|"What are you doing?
-Nina pushes past her, in a frenzy."|speech|ERICA|F
-893||93 INT. BEDROOM - SAME 93|stage direction||
+Nina pushes past her, in a frenzy."|speech|ERICA|F|True
+893||93 INT. BEDROOM - SAME 93|stage direction|||
 894|ERICA|"Nina closes the door. Sticks in the broken piece of wood.
 A pain shoots through her shoulder. She SCREAMS,
 instinctively reaching for it.
@@ -2386,10 +2386,10 @@ She quickly yanks off the sweater and looks at the vanity
 mirror.
 Her back pulsates unnaturally. Tiny black tips poke through.
 The door opens and catches on the doorjamb.
-Erica starts POUNDING."|speech|ERICA|F
+Erica starts POUNDING."|speech|ERICA|F|True
 895|NINA|"GO AWAY!
 She digs into the open bump on her shoulder with her
-fingernails."|speech|NINA|F
+fingernails."|speech|NINA|F|True
 896|ERICA|"Open the door!!!
 Erica violently pushes and pulls, jostling the piece of wood.
 Nina concentrates, takes hold of the growth and yanks.
@@ -2398,11 +2398,11 @@ Nina looks at the object held in her fingers: a sharp, TINY
 BLACK SPINE. Like that of a sea urchin. Damp, feathery wisps
 hang off of it.
 The door flings open.
-Erica rushes in and finds Nina half-naked, her skin inflamed."|speech|ERICA|F
+Erica rushes in and finds Nina half-naked, her skin inflamed."|speech|ERICA|F|True
 897|ERICA (CONT'D)|"Oh my god...
 Nina starts forcing her out the door. Erica pushes back.
-85."|speech|ERICA|F
-898|ERICA (CONT'D)|Stop, you're sick!|speech|ERICA|F
+85."|speech|ERICA|F|True
+898|ERICA (CONT'D)|Stop, you're sick!|speech|ERICA|F|True
 899|NINA|"Get OUT!
 She manages to get her all the way out the door.
 But ROTHBART'S HAND grabs the door frame.
@@ -2416,86 +2416,86 @@ that of a bird. Then the other knee SNAPS back.
 Nina stumbles and falls.
 And SLAMS her head into the radiator.
 SMASH TO BLACK.
-TINNY MUSIC plays in the darkness."|speech|NINA|F
-900||94 INT. NINA'S BEDROOM - EVENING 94|stage direction||
+TINNY MUSIC plays in the darkness."|speech|NINA|F|True
+900||94 INT. NINA'S BEDROOM - EVENING 94|stage direction|||
 901|FADE IN:|"Nina flutters open her eyes. The world comes into focus and
-she sees her mother hovering over her, stroking her hair."|speech|FADE IN:|?
+she sees her mother hovering over her, stroking her hair."|speech|FADE IN:|?|
 902|ERICA|"Sshh, shhh, it's okay. I'm here.
 Nina looks around, disoriented. Sees her hands jammed inside
 thick socks, held on by rubber bands. Groggy, she tries to
-pull them off."|speech|ERICA|F
+pull them off."|speech|ERICA|F|True
 903|ERICA (CONT'D)|"You were scratching all night.
 Erica helps remove the socks, her smashed hand wrapped in
 bandages.
 Nina weakly tries to sit up, but Erica pushes her back down.
-86."|speech|ERICA|F
-904|ERICA (CONT'D)|Rest. Shhh, rest.|speech|ERICA|F
+86."|speech|ERICA|F|True
+904|ERICA (CONT'D)|Rest. Shhh, rest.|speech|ERICA|F|True
 905||"Nina gives in, too tired to fight her. Her eyes drift to the
 source of the tinny music: the open jewelry box. The
 ballerina's been broken off, all that remains is a single
-amputated leg, spinning morbidly on the base."|stage direction||
+amputated leg, spinning morbidly on the base."|stage direction|||
 906|ERICA (CONT'D)|"ERICA (O.S.) (CONT'D)
-That's good. Rest."|speech|ERICA|F
-907||Nina's eyes drift to the alarm clock. It's gone.|stage direction||
-908|NINA|Where's the clock?|speech|NINA|F
-909|ERICA|Don't worry.|speech|ERICA|F
-910||Nina looks at the dark window.|stage direction||
-911|NINA|It's dark. What night is it?|speech|NINA|F
-912||Nina reads Erica's face. Reality clicks in.|stage direction||
+That's good. Rest."|speech|ERICA|F|True
+907||Nina's eyes drift to the alarm clock. It's gone.|stage direction|||
+908|NINA|Where's the clock?|speech|NINA|F|True
+909|ERICA|Don't worry.|speech|ERICA|F|True
+910||Nina looks at the dark window.|stage direction|||
+911|NINA|It's dark. What night is it?|speech|NINA|F|True
+912||Nina reads Erica's face. Reality clicks in.|stage direction|||
 913|"NINA (CONT'D)
-(PANICKING)"|What time is it?!|speech|NINA|F
-914||Nina tries to sit up, but her mother pushes her back down.|stage direction||
-915|NINA (CONT'D)|I have to go.|speech|NINA|F
+(PANICKING)"|What time is it?!|speech|NINA|F|True
+914||Nina tries to sit up, but her mother pushes her back down.|stage direction|||
+915|NINA (CONT'D)|I have to go.|speech|NINA|F|True
 916|ERICA|"Don't worry. I called the theater
 and told them you weren't feeling
-well."|speech|ERICA|F
-917||Nina freaks, struggles more violently.|stage direction||
-918|NINA|No, I want to.|speech|NINA|F
-919|ERICA|Lie down!|speech|ERICA|F
-920|NINA|Get off me!|speech|NINA|F
+well."|speech|ERICA|F|True
+917||Nina freaks, struggles more violently.|stage direction|||
+918|NINA|No, I want to.|speech|NINA|F|True
+919|ERICA|Lie down!|speech|ERICA|F|True
+920|NINA|Get off me!|speech|NINA|F|True
 921||"Nina squirms free of Erica's grasp and gets out of bed. She
-gets to the door..."|stage direction||
-922|NINA|87.|speech|NINA|F
+gets to the door..."|stage direction|||
+922|NINA|87.|speech|NINA|F|True
 923||"But the doorknob's been knocked-off, leaving just a metal
-post sticking out of the hole."|stage direction||
+post sticking out of the hole."|stage direction|||
 924|ERICA|"We're staying in here until you
-feel better."|speech|ERICA|F
+feel better."|speech|ERICA|F|True
 925||"Nina grips the metal post and pulls and pulls, shaking the
-door."|stage direction||
-926|NINA|Where is it?|speech|NINA|F
+door."|stage direction|||
+926|NINA|Where is it?|speech|NINA|F|True
 927||"Erica calmly sits down in her CHAIR, waiting for the storm to
-pass."|stage direction||
-928|ERICA|This role is destroying you.|speech|ERICA|F
+pass."|stage direction|||
+928|ERICA|This role is destroying you.|speech|ERICA|F|True
 929||"Nina rifles through her dresser drawers.
-She notices her mother sitting calmly."|stage direction||
-930|NINA|Move.|speech|NINA|F
-931|ERICA|Nina...|speech|ERICA|F
-932||Nina grabs her by the wrist.|stage direction||
-933|ERICA (CONT'D)|Stop it.|speech|ERICA|F
-934|NINA|You're crazy!|speech|NINA|F
-935|ERICA|What happened to my sweet girl?|speech|ERICA|F
-936||Nina yanks Erica off the chair onto the floor.|stage direction||
-937|NINA|She's gone.|speech|NINA|F
-938|ERICA|Please, you're not well.|speech|ERICA|F
+She notices her mother sitting calmly."|stage direction|||
+930|NINA|Move.|speech|NINA|F|True
+931|ERICA|Nina...|speech|ERICA|F|True
+932||Nina grabs her by the wrist.|stage direction|||
+933|ERICA (CONT'D)|Stop it.|speech|ERICA|F|True
+934|NINA|You're crazy!|speech|NINA|F|True
+935|ERICA|What happened to my sweet girl?|speech|ERICA|F|True
+936||Nina yanks Erica off the chair onto the floor.|stage direction|||
+937|NINA|She's gone.|speech|NINA|F|True
+938|ERICA|Please, you're not well.|speech|ERICA|F|True
 939||"Under the cushion Nina grabs the hidden brass DOORKNOB.
-Erica lunges for her daughter's legs."|stage direction||
+Erica lunges for her daughter's legs."|stage direction|||
 940|NINA|"Let go!
-87A."|speech|NINA|F
-941|ERICA|You can't handle it!|speech|ERICA|F
+87A."|speech|NINA|F|True
+941|ERICA|You can't handle it!|speech|ERICA|F|True
 942|NINA|"I can't?! I'm the fucking swan
 queen! You never even got out of
-the corps."|speech|NINA|F
-943|ERICA|You fucking ungrateful-|speech|ERICA|F
-944||Nina jams the knob onto the post, opens the door.|stage direction||
+the corps."|speech|NINA|F|True
+943|ERICA|You fucking ungrateful-|speech|ERICA|F|True
+944||Nina jams the knob onto the post, opens the door.|stage direction|||
 945|ERICA|"ERICA (O.S.) (CONT'D)
 Don't leave! Nina!
-88."|speech|ERICA|F
-946||95 EXT. THEATER - EVENING 95|stage direction||
+88."|speech|ERICA|F|True
+946||95 EXT. THEATER - EVENING 95|stage direction|||
 947|ERICA|"Nina approaches the theater with harried steps.
 Quickly past the row of SWAN LAKE posters.
 She reaches the side of the building, flings open the stage
-door and enters."|speech|ERICA|F
-948||96 INT. BACKSTAGE HALLWAY - EVENING 96|stage direction||
+door and enters."|speech|ERICA|F|True
+948||96 INT. BACKSTAGE HALLWAY - EVENING 96|stage direction|||
 949|ERICA|"Nina frantically makes her way down the bustling hallway,
 chaotic with dancers. Excitement in the air.
 She nears the soloists' dressing room.
@@ -2503,53 +2503,53 @@ Just outside of it, she spots a group of DANCERS excitedly
 chatting around a smiling Lily.
 Nina stops in her tracks.
 Lily glances in her direction, and her smile quickly fades
-into a sneer."|speech|ERICA|F
+into a sneer."|speech|ERICA|F|True
 950|LILY|"What are you doing here?
 The other girls follow her gaze towards Nina, and their
 smiles turn to confusion.
 LEROY (O.S.)
 Nina?
 She turns and finds that Leroy has approached from behind
-her."|speech|LILY|F
-951|LILY|You're supposed to be sick.|speech|LILY|F
+her."|speech|LILY|F|True
+951|LILY|You're supposed to be sick.|speech|LILY|F|True
 952|LEROY|"Lily, give us a minute.
 Leroy pulls Nina towards her room. Lily glares at Nina as she
-passes."|speech|LEROY|F
-953||97 INT. PRINCIPAL DRESSING ROOM - SAME 97|stage direction||
+passes."|speech|LEROY|F|True
+953||97 INT. PRINCIPAL DRESSING ROOM - SAME 97|stage direction|||
 954|LEROY|"Leroy closes the door behind them. He looks at Nina, wheels
 spinning.
-89."|speech|LEROY|F
-955|LEROY|Are you okay?|speech|LEROY|F
-956|NINA|I'm fine.|speech|NINA|F
+89."|speech|LEROY|F|True
+955|LEROY|Are you okay?|speech|LEROY|F|True
+956|NINA|I'm fine.|speech|NINA|F|True
 957||"Nina goes to her wardrobe, finds her two costumes hanging.
-One for the White Swan, one for the Black Swan."|stage direction||
-958|LEROY|Nina?|speech|LEROY|F
+One for the White Swan, one for the Black Swan."|stage direction|||
+958|LEROY|Nina?|speech|LEROY|F|True
 959||"She doesn't heed him, pulls out the White Swan leotard and
-sets it on her chair."|stage direction||
-960|LEROY (CONT'D)|Nina!|speech|LEROY|F
-961|NINA|What?|speech|NINA|F
-962|LEROY|I already asked Lily-|speech|LEROY|F
-963|NINA|Fuck. Have you announced it?|speech|NINA|F
-964||He hasn't.|stage direction||
+sets it on her chair."|stage direction|||
+960|LEROY (CONT'D)|Nina!|speech|LEROY|F|True
+961|NINA|What?|speech|NINA|F|True
+962|LEROY|I already asked Lily-|speech|LEROY|F|True
+963|NINA|Fuck. Have you announced it?|speech|NINA|F|True
+964||He hasn't.|stage direction|||
 965|NINA (CONT'D)|"After Beth, do you need more
-controversy?"|speech|NINA|F
-966||Leroy smirks at her directness.|stage direction||
-967|NINA (CONT'D)|I'm here, Thomas. I'm doing it.|speech|NINA|F
+controversy?"|speech|NINA|F|True
+966||Leroy smirks at her directness.|stage direction|||
+967|NINA (CONT'D)|I'm here, Thomas. I'm doing it.|speech|NINA|F|True
 968||"He looks at her, considering, and gives her a reluctant nod.
-She smiles."|stage direction||
-969|NINA (CONT'D)|90.|speech|NINA|F
+She smiles."|stage direction|||
+969|NINA (CONT'D)|90.|speech|NINA|F|True
 970|LEROY|"The only person standing in your
 way is you. It's time to let her
 go. Lose yourself.
 She nods. He takes one last look at her and leaves. She
 breathes a sigh of relief.
-Curious, she cracks open the door and peeks outside:"|speech|LEROY|F
-971||98 INT. BACKSTAGE HALLWAY (NINA'S POV) 98|stage direction||
+Curious, she cracks open the door and peeks outside:"|speech|LEROY|F|True
+971||98 INT. BACKSTAGE HALLWAY (NINA'S POV) 98|stage direction|||
 972|LEROY|"Leroy has pulled Lily down the corridor to break the news.
-Lily takes off, furious."|speech|LEROY|F
-973||99 OMITTED 99|location||
-974|LEROY|91.|speech|LEROY|F
-975||100 INT. PRINCIPLE'S DRESSING ROOM - LATER 100|stage direction||
+Lily takes off, furious."|speech|LEROY|F|True
+973||99 OMITTED 99|location|||
+974|LEROY|91.|speech|LEROY|F|True
+975||100 INT. PRINCIPLE'S DRESSING ROOM - LATER 100|stage direction|||
 976|LEROY|"Through the PA, music from ACT 1 plays.
 Nina sits at her vanity in a robe, wearing the full White
 Swan makeup and FEATHER CROWN. Pale, with red lipstick and
@@ -2566,8 +2566,8 @@ She removes her other slipper and finds the same toes
 completely FUSED, forming two large toes with double toenails
 on either side of the middle toe.
 She touches the bird-like foot, concerned, but slips on her
-tights and hides the feet."|speech|LEROY|F
-977||101 INT. BACKSTAGE - NIGHT 101|stage direction||
+tights and hides the feet."|speech|LEROY|F|True
+977||101 INT. BACKSTAGE - NIGHT 101|stage direction|||
 978|LEROY|"Nina stretches nervously in the wings, awaiting her entrance.
 She peeks out through a small hole in the wall, sees the
 AUDIENCE sitting expectantly in their seats.
@@ -2575,18 +2575,18 @@ The music begins and they shift and mummer in anticipation.
 Nina pulls away, taking deep breaths and clenching her hands,
 trying to stay calm.
 On stage, David enters, beginning the Act. He traverses the
-stage, ""hunting"" with a crossbow."|speech|LEROY|F
+stage, ""hunting"" with a crossbow."|speech|LEROY|F|True
 979|"STAGE MANAGER
 (TO NINA)"|"Go.
-Nina takes a last breath and runs on."|speech|STAGE MANAGER|?
-980||102 STAGE 102|location||
+Nina takes a last breath and runs on."|speech|STAGE MANAGER|?|True
+980||102 STAGE 102|location|||
 981|"STAGE MANAGER
 (TO NINA)"|"Under the spotlight, she begins dancing her intro.
 92.
 David runs towards her and she startles away from him,
 afraid.
-He grabs her and they begin their first Pas de Deux."|speech|STAGE MANAGER|?
-982||103 INT. BACKSTAGE - LATER 103|stage direction||
+He grabs her and they begin their first Pas de Deux."|speech|STAGE MANAGER|?|True
+982||103 INT. BACKSTAGE - LATER 103|stage direction|||
 983|"STAGE MANAGER
 (TO NINA)"|"Nina comes offstage, catching her breath. All around her,
 CORPS MEMBERS dressed as little swans rush back on stage,
@@ -2603,10 +2603,10 @@ Suspicious, Nina moves to get a better look.
 Revealing that David's flirting with Lily.
 Nina tenses.
 Then the Four Little Swans rush offstage past Nina. She
-watches them go, unsettled."|speech|STAGE MANAGER|?
+watches them go, unsettled."|speech|STAGE MANAGER|?|True
 984|STAGE MANAGER|"What are you doing? You're on!
-He gently nudges her, and she has to run back on."|speech|STAGE MANAGER|?
-985||104 STAGE 104|location||
+He gently nudges her, and she has to run back on."|speech|STAGE MANAGER|?|True
+985||104 STAGE 104|location|||
 986|STAGE MANAGER|"Nina rushes from the wings, directly into David's arms.
 All the swans are frozen in two rows on each side of the
 stage, looking downstage.
@@ -2621,7 +2621,7 @@ It's a horrific moment that feels like an eternity.
 Gritting her teeth, Nina looks up around her, sees the faces
 of the other ballerinas. Staring at her sadistically.
 Nina finds Lily, glancing at David. He snaps to and quickly
-helps Nina up."|speech|STAGE MANAGER|?
+helps Nina up."|speech|STAGE MANAGER|?|True
 987|DAVID|"What the fuck?
 She's too freaked to respond.
 They resume dancing, Nina barely keeping it together.
@@ -2631,10 +2631,10 @@ Leaving Nina and David alone.
 David tries to pull her in one direction, but the dark hand
 of Rothbart summons her, transforming her back into a swan.
 She pulls away from David, frantically flapping, until she
-disappears into the wings."|speech|DAVID|F
-988||105 INT. BACKSTAGE - SAME 105|stage direction||
+disappears into the wings."|speech|DAVID|F|True
+988||105 INT. BACKSTAGE - SAME 105|stage direction|||
 989|DAVID|"As soon as she's off, she breaks down, hyperventilating. The
-dancer playing ROTHBART eyes her with concern."|speech|DAVID|F
+dancer playing ROTHBART eyes her with concern."|speech|DAVID|F|True
 990|ROTHBART|"You alright?
 She looks up, sees his creepy MASK, and backs away.
 Rothbart has to go back on stage to finish the Act.
@@ -2642,7 +2642,7 @@ Other CORPS MEMBERS surround her, chirping ""You okay?, ""What
 happened?"" etc.
 Dazed, Nina doesn't answer. The music ends and there's a weak
 smattering of applause.
-94."|speech|ROTHBART|F
+94."|speech|ROTHBART|F|
 991|STAGE MANAGER|"That's intermission! Act 3 in
 fifteen.
 The other dancers scurry to get ready, abandoning her.
@@ -2650,38 +2650,38 @@ Nina sees Leroy on stage chewing David out, behind the closed
 curtain.
 David spots Nina, glares at her, and sulks away.
 Leroy runs his fingers through his hair, his back to Nina.
-Nina cautiously approaches."|speech|STAGE MANAGER|?
+Nina cautiously approaches."|speech|STAGE MANAGER|?|True
 992|NINA|"It wasn't my fault. He dropped me.
-He can't even look at her."|speech|NINA|F
+He can't even look at her."|speech|NINA|F|True
 993|"LEROY
 (RAGING)"|"What a fucking disaster!
 He walks away.
 All alone, Nina sees everyone backstage looking at her.
-She runs, escaping their stares."|speech|LEROY|F
-994||106 OMITTED 106|location||
-995||107 INT. PRINCIPLE'S DRESSING ROOM - SAME 107|stage direction||
+She runs, escaping their stares."|speech|LEROY|F|True
+994||106 OMITTED 106|location|||
+995||107 INT. PRINCIPLE'S DRESSING ROOM - SAME 107|stage direction|||
 996|"LEROY
 (RAGING)"|"She closes the door behind her, ready to cry.
 She looks up, and finds Lily putting on makeup and wearing
-the Black Swan costume."|speech|LEROY|F
+the Black Swan costume."|speech|LEROY|F|True
 997|LILY|"Rough start, huh? Pretty
 humiliating...
-95."|speech|LILY|F
-998|NINA|Get out of here.|speech|NINA|F
-999|LILY|Wow...rude.|speech|LILY|F
-1000||Lily coyly smiles, and continues applying makeup.|stage direction||
+95."|speech|LILY|F|True
+998|NINA|Get out of here.|speech|NINA|F|True
+999|LILY|Wow...rude.|speech|LILY|F|True
+1000||Lily coyly smiles, and continues applying makeup.|stage direction|||
 1001|LILY (CONT'D)|"I'm worried about the next act. Not
-sure you're feeling up to it."|speech|LILY|F
-1002|NINA|Stop. Just stop.|speech|NINA|F
+sure you're feeling up to it."|speech|LILY|F|True
+1002|NINA|Stop. Just stop.|speech|NINA|F|True
 1003|LILY|"How about...I dance the Black Swan
-for you?"|speech|LILY|F
+for you?"|speech|LILY|F|True
 1004||"Nina looks into the mirror. Instead of Lily's reflection
-there's the Double."|stage direction||
-1005|NINA|Leave me alone. Leave me alone.|speech|NINA|F
+there's the Double."|stage direction|||
+1005|NINA|Leave me alone. Leave me alone.|speech|NINA|F|True
 1006|"DOUBLE
-(IN MIRROR)"|But it's my turn.|speech|DOUBLE|F
-1007||Nina's fury rises up from inside.|stage direction||
-1008|NINA|Leave me alone!!!|speech|NINA|F
+(IN MIRROR)"|But it's my turn.|speech|DOUBLE|F|
+1007||Nina's fury rises up from inside.|stage direction|||
+1008|NINA|Leave me alone!!!|speech|NINA|F|True
 1009||"She charges...
 And smashes her into the WALL LENGTH MIRROR, shattering it.
 Shards fall everywhere.
@@ -2691,7 +2691,7 @@ Nina does her best to block the onslaught.
 They scuffle, knocking things over, bumping into walls.
 The Double gets her hands around Nina's neck...
 Gasping for air, Nina tries to pull the hands free, but she's
-too strong."|stage direction||
+too strong."|stage direction|||
 1010|NINA|"96.
 Her hands frantically scramble along the surface of the
 floor. The fingers barely touch the edge of a MIRROR SHARD,
@@ -2704,15 +2704,15 @@ Finally grabbing the SHARD.
 And DRIVES it into the Double's stomach.
 Nina glances at her hand, cut by the mirror, then back up.
 The Double is now LILY. Stunned, Lily looks down and touches
-the stab wound."|speech|NINA|F
+the stab wound."|speech|NINA|F|True
 1011|NINA (CONT'D)|"It's my turn.
 Lily coughs up blood and collapses, dead.
 Nina stares at her, breathing heavily, high on adrenaline.
 A KNOCK on the door.
 STAGE MANAGER (O.S.)
 Black Swan, places in 5.
-Nina drags the stiffening body into the wardrobe closet."|speech|NINA|F
-1012||108 INT. PRINCIPAL DRESSING ROOM - MOMENTS LATER 108|stage direction||
+Nina drags the stiffening body into the wardrobe closet."|speech|NINA|F|True
+1012||108 INT. PRINCIPAL DRESSING ROOM - MOMENTS LATER 108|stage direction|||
 1013|NINA (CONT'D)|"Nina zips up the back to the Black Swan costume.
 She deliberately applies the Black Swan makeup. Dark eye
 shadow and rouge, maroon lipstick.
@@ -2720,16 +2720,16 @@ Dressed in black and wearing the dark make-up of the Black
 Swan, she looks fierce.
 She stares at her reflection, her eyes burning RED. New
 rash bumps pop up on her arms, the intensity building within.
-97."|speech|NINA|F
+97."|speech|NINA|F|True
 1014||"109 OMITTED 109
-110 OMITTED 110"|location||
-1015||111A INT. STAGE - NIGHT 111A|stage direction||
+110 OMITTED 110"|location|||
+1015||111A INT. STAGE - NIGHT 111A|stage direction|||
 1016|NINA (CONT'D)|"Nina bursts onto stage as the Black Swan, accompanied by
 Rothbart.
 She looks powerful, intense as she moves towards David.
 His face shows his surprise.
-Nina dances the first Pas de Deux with him. They finish and"|speech|NINA|F
-1017||111B BACKSTAGE 111B|stage direction||
+Nina dances the first Pas de Deux with him. They finish and"|speech|NINA|F|True
+1017||111B BACKSTAGE 111B|stage direction|||
 1018|"DAVID
 WOW-"|"She walks away from him.
 Alone, she looks at her arms, sees black points trying to
@@ -2737,10 +2737,10 @@ push through again.
 Some fully emerge as shiny BLACK FEATHERS.
 She just watches them, not panicking, but accepting the
 transformation taking place. Even beckoning it.
-Her second entrance cue is played."|speech|DAVIDWOW-|?
+Her second entrance cue is played."|speech|DAVIDWOW-|?|
 1019|STAGE MANAGER|"That's you!
-She leaps back on"|speech|STAGE MANAGER|?
-1020||111C STAGE 111C|stage direction||
+She leaps back on"|speech|STAGE MANAGER|?|True
+1020||111C STAGE 111C|stage direction|||
 1021|STAGE MANAGER|"For the Coda. She takes a brief pause, closing her eyes once
 more, and then completely lets herself go.
 She spins with ferocity. More BLACK FEATHERS burst out from
@@ -2750,8 +2750,8 @@ At last, she truly embodies the Black Swan.
 She finishes the Coda, punctuating her last spin with a sharp
 step that echoes through the theater.
 The audience looks on, mesmerized. Too stunned to clap at
-first."|speech|STAGE MANAGER|?
-1022||111D Nina looks down at the stage, her face glazed with sweat 111D|stage direction||
+first."|speech|STAGE MANAGER|?|True
+1022||111D Nina looks down at the stage, her face glazed with sweat 111D|stage direction|||
 1023|STAGE MANAGER|"She has returned to normal. No feathers. Normal eyes. A
 woman.
 She finally looks up at the audience, and they ERUPT in a
@@ -2760,54 +2760,54 @@ Nina walks to the front of the stage, takes her bow.
 Nina looks up at the MASS OF BODIES filling the auditorium,
 vibrating with applause.
 Proud, Nina smiles and bows again. Again and again.
-She finally runs off stage, the applause still going strong."|speech|STAGE MANAGER|?
-1024||112 INT. BACKSTAGE - SAME 112|stage direction||
+She finally runs off stage, the applause still going strong."|speech|STAGE MANAGER|?|True
+1024||112 INT. BACKSTAGE - SAME 112|stage direction|||
 1025|STAGE MANAGER|"Nina enters the wings, other dancers cheer loudly. Even
 Veronica and Galina.
 She pushes past all the smiling faces. It feels very
 surreal.
-She sees Leroy clapping and shaking his head. Blown away."|speech|STAGE MANAGER|?
+She sees Leroy clapping and shaking his head. Blown away."|speech|STAGE MANAGER|?|True
 1026|LEROY|"Get back out there! Get back-
 She stops his mouth with a kiss. The kind of kiss that you
 can't stop. Not desperate, but adamant.
 Finally she disengages, staring at him in the eyes, but
 before he can say anything...
 She turns and rushes back on stage. He's stunned. Like he's
-been run over by a truck."|speech|LEROY|F
-1027||113 INT. BACKSTAGE HALLWAY - LATER 113|stage direction||
+been run over by a truck."|speech|LEROY|F|True
+1027||113 INT. BACKSTAGE HALLWAY - LATER 113|stage direction|||
 1028|LEROY|"She walks towards her dressing room, a satisfied smile on her
 face.
 She passes the stage manager.
-99."|speech|LEROY|F
+99."|speech|LEROY|F|True
 1029|STAGE MANAGER|"Great job. You got fifteen til the
 last act.
 She nods and arrives at her room.
 She opens the door, makes sure no ones looking, and enters
-quickly."|speech|STAGE MANAGER|?
-1030||114 INT. PRINCIPAL DRESSING ROOM - SAME 114|stage direction||
+quickly."|speech|STAGE MANAGER|?|True
+1030||114 INT. PRINCIPAL DRESSING ROOM - SAME 114|stage direction|||
 1031|STAGE MANAGER|"She closes the door behind her, locks it. Turns and sees the
 broken glass all over the floor.
 She eyes the closed wardrobe. A pool of blood drips out from
 under the door.
 She picks up a towel and lays it over the blood.
-She starts to undress."|speech|STAGE MANAGER|?
-1032||115 INT. PRINCIPAL DRESSING ROOM - MOMENTS LATER 115|stage direction||
+She starts to undress."|speech|STAGE MANAGER|?|True
+1032||115 INT. PRINCIPAL DRESSING ROOM - MOMENTS LATER 115|stage direction|||
 1033|STAGE MANAGER|"Back in the White Swan costume, she re-applies the makeup.
 There's a KNOCK on the door. She looks towards it, her face
-only halfway made-up."|speech|STAGE MANAGER|?
+only halfway made-up."|speech|STAGE MANAGER|?|True
 1034|NINA|"One second.
 She goes to the door, opens it just a crack.
 She peeks through and finds...
-LILY looking back at her."|speech|NINA|F
+LILY looking back at her."|speech|NINA|F|True
 1035|LILY|"Hey...you were amazing.
-Nina's petrified."|speech|LILY|F
+Nina's petrified."|speech|LILY|F|True
 1036|LILY (CONT'D)|"Seriously. I'm sorry things got so
 messed up between us. Just, holy
 shit, totally blown away...
-100."|speech|LILY|F
-1037||Nina barely manages a nod.|stage direction||
+100."|speech|LILY|F|True
+1037||Nina barely manages a nod.|stage direction|||
 1038|LILY (CONT'D)|"Anyway, wanted to tell you. I'll
-let you finish. Merde."|speech|LILY|F
+let you finish. Merde."|speech|LILY|F|True
 1039||"Lily turns and walks away.
 Nina swiftly shuts the door.
 She turns around, stares at the wardrobe.
@@ -2829,14 +2829,14 @@ She feels inside for confirmation.
 And discovers a stab wound, in her own stomach.
 She pulls out the sharp tip of mirror still stuck inside.
 Blood begins flowing more rapidly.
-She drops the mirror."|stage direction||
+She drops the mirror."|stage direction|||
 1040|LILY (CONT'D)|"STAGE MANAGER (V.O.)
 (On the PA)
-White Swan in 5."|speech|LILY|F
+White Swan in 5."|speech|LILY|F|True
 1041||"In a daze, she sits down at the vanity, and finishes applying
-the rest of the White Swan's makeup."|stage direction||
-1042|LILY (CONT'D)|101.|speech|LILY|F
-1043||116A INT. STAGE - LATER 116A|stage direction||
+the rest of the White Swan's makeup."|stage direction|||
+1042|LILY (CONT'D)|101.|speech|LILY|F|True
+1043||116A INT. STAGE - LATER 116A|stage direction|||
 1044|LILY (CONT'D)|"Nina dances the final Pas de Deux as the White Swan. Losing
 blood by the second, everything is woozy and blurry.
 She can't do all the steps, but her performance is pained,
@@ -2855,33 +2855,33 @@ She notices a familiar face in the audience: HER MOTHER. She
 watches with a profound sadness, tears streaking her cheeks.
 In the front of Nina's costume, a dark circle has started to
 form. Her blood fully seeping through.
-And Nina leaps..."|speech|LILY|F
-1045||116B INTO BLACKNESS 116B|stage direction||
+And Nina leaps..."|speech|LILY|F|True
+1045||116B INTO BLACKNESS 116B|stage direction|||
 1046|LILY (CONT'D)|"She falls through an endless void, her eyes closed.
 She slowly twists around in the air, so that she's falling
 backwards.
 She hears something. Soft and muffled.
-The faint sound of applause."|speech|LILY|F
-1047||116C She lands slowly and comfortably on PADDING. 116C|stage direction||
+The faint sound of applause."|speech|LILY|F|True
+1047||116C She lands slowly and comfortably on PADDING. 116C|stage direction|||
 1048|LILY (CONT'D)|"The sound of applause is now loud, uproarious.
 A group of BALLERINAS surround the mattress, clapping for
 her, each one dressed as a WHITE SWAN.
-Leroy pushes through the group to get to her."|speech|LILY|F
+Leroy pushes through the group to get to her."|speech|LILY|F|True
 1049|LEROY|"Listen to them! They love you! Get
-up, get up!"|speech|LEROY|F
-1050|(MORE)|102.|speech||
+up, get up!"|speech|LEROY|F|True
+1050|(MORE)|102.|speech|||
 1051|LEROY (CONT'D)|"I always knew you had it in you,
-little princess. Go take your bow!"|speech|LEROY|F
+little princess. Go take your bow!"|speech|LEROY|F|True
 1052||"Nina is too weak to move.
 Lily pushes her way into the group and GASPS, pointing at
 Nina's abdomen.
 Leroy follows her gaze and discovers the spot of blood, which
-has grown in size."|stage direction||
-1053|LEROY (CONT'D)|What did you do?|speech|LEROY|F
-1054|NINA|I felt it.|speech|NINA|F
-1055|LEROY|Oh my god.|speech|LEROY|F
-1056|NINA|...perfect.|speech|NINA|F
-1057|LEROY|Someone, get help.|speech|LEROY|F
-1058|NINA|Shhh...|speech|NINA|F
-1059||Leroy looks back at her. She smiles.|stage direction||
-1060|NINA (CONT'D)|It was perfect.|speech|NINA|F
+has grown in size."|stage direction|||
+1053|LEROY (CONT'D)|What did you do?|speech|LEROY|F|True
+1054|NINA|I felt it.|speech|NINA|F|True
+1055|LEROY|Oh my god.|speech|LEROY|F|True
+1056|NINA|...perfect.|speech|NINA|F|True
+1057|LEROY|Someone, get help.|speech|LEROY|F|True
+1058|NINA|Shhh...|speech|NINA|F|True
+1059||Leroy looks back at her. She smiles.|stage direction|||
+1060|NINA (CONT'D)|It was perfect.|speech|NINA|F|True

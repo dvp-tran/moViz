@@ -1,7 +1,7 @@
-|character|text|type|character_clean|gender
-0||HOT TUB TIME MACHINE|unknown||
+|character|text|type|character_clean|gender|principal_character
+0||HOT TUB TIME MACHINE|unknown|||
 1||"Written by
-Josh Heald"|location||
+Josh Heald"|location|||
 2|unknown|"Hot Tub Time Machine Theme
 Lyrics by Josh Heald
 Music by Def Leppard, Styx, Journey, Poison, or Whitesnake
@@ -18,11 +18,11 @@ When you're soakin in your Hot Tub Time Machine
 Yeah!
 Hot Tub - Time Machine!
 Hot Tub - Time Machine!
-C'mon!"|speech|unknown|?
+C'mon!"|speech|unknown|?|
 3||"(Sweet guitar solo - 16 measures]
-Relaxed as hell when you're goin through time"|stage direction||
-4|unknown|That's the 54 jets workin' on your spine|speech|unknown|?
-5||(Yeah) you gotta be loose and you gotta be lean|stage direction||
+Relaxed as hell when you're goin through time"|stage direction|||
+4|unknown|That's the 54 jets workin' on your spine|speech|unknown|?|
+5||(Yeah) you gotta be loose and you gotta be lean|stage direction|||
 6|unknown|"When you roll up in your Hot Tub Time Machine
 Yeah your shirt's a little psychedelic...
 And you're lookin kinda like Tom Selleck...
@@ -33,15 +33,15 @@ In the college of the Hot Tub Time Machine
 Yeah!
 Hot Tub - Time Machine!
 Hot Tub - Time Machine!
-Yeah!"|speech|unknown|?
-7||EXT. POOL DECK - DAY|location||
+Yeah!"|speech|unknown|?|
+7||EXT. POOL DECK - DAY|location|||
 8|FADE IN:|"BLUE SKIES. A BEAUTIFUL SUNNY DAY.
 CAMERA PANS DOWN to reveal A HOT TUB FULL OF HOT CHICKS IN
 BIKINIS. They splash about playfully. Then--
 A FUCKING LION JUMPS IN THE HOT TUB!
 As the girls SCREAM and scramble for safety, the BEAST ROARS
-and it becomes the:"|speech|FADE IN:|?
-9||INT. BEDROOM - DAY|location||
+and it becomes the:"|speech|FADE IN:|?|
+9||INT. BEDROOM - DAY|location|||
 10|"MGM LOGO
 DISSOLVE TO:"|"ADAM COLEMAN (late 30s, good-looking, sweet-natured face) is
 in a great mood as he packs a SUITCASE.
@@ -49,18 +49,18 @@ LILY (O.S.)
 Ready for the wildest bachelor
 party of all time?
 LILY (early 30s, shirt and jeans, hot in a smart and classy
-sense) walks in the room, smiling."|speech|MGM LOGODISSOLVE TO:|?
+sense) walks in the room, smiling."|speech|MGM LOGODISSOLVE TO:|?|
 11|ADAM|"You know it. I'm gonna bang all
-sorts of chicks this weekend!"|speech|ADAM|M
+sorts of chicks this weekend!"|speech|ADAM|M|True
 12|LILY|"That's not the answer I was looking
-for."|speech|LILY|F
+for."|speech|LILY|F|True
 13|ADAM|"Sorry, honey.
 Adam gives his beautiful fiancee a playful kiss.
-She shows him some PHOTOS."|speech|ADAM|M
+She shows him some PHOTOS."|speech|ADAM|M|True
 14|LILY|"Look what I found...
-2."|speech|LILY|F
+2."|speech|LILY|F|True
 15|ANGLE: PHOTO|"A BUNCH OF TEENAGERS and 20-SOMETHINGS PARTY IN A LARGE HOT
-TUB at a SKI RESORT. It looks like the most fun ever."|speech|ANGLE: PHOTO|?
+TUB at a SKI RESORT. It looks like the most fun ever."|speech|ANGLE: PHOTO|?|
 16|ADAM|"Check out that young stud. Can you
 believe he's about to get married?
 Lily and Adam look through more PHOTOS of a YOUNG ADAM (17)
@@ -69,91 +69,91 @@ partying at a SKI RESORT with his FRIENDS:
 -- Eating PIZZA at ""Papa Enzo's,"" stuffing their faces...
 -- Drinking BEERS at the ""Brew Haus,"" an awesome pub...
 -- In the HOT TUB with SIX GIRLS...
-Adam snatches the last photo from her."|speech|ADAM|M
-17|ADAM (CONT'D)|Ignore that one. Nothing happened.|speech|ADAM|M
+Adam snatches the last photo from her."|speech|ADAM|M|True
+17|ADAM (CONT'D)|Ignore that one. Nothing happened.|speech|ADAM|M|True
 18|(BEAT)|"I love you.
-Lily laughs."|speech||
+Lily laughs."|speech|||
 19|LILY|"Adam, you didn't know me yet.
 As Adam goes back to packing, Lily leafs through some more of
-the photos. She stops at one and her EXPRESSION CHANGES."|speech|LILY|F
+the photos. She stops at one and her EXPRESSION CHANGES."|speech|LILY|F|True
 20|LILY (CONT'D)|"Who's this?
 Lily shows Adam a PHOTO:
--- A SMOKING HOT SKI BUNNY (23, blonde, svelte, leg warmers)."|speech|LILY|F
-21|ADAM|I'm not sure.|speech|ADAM|M
+-- A SMOKING HOT SKI BUNNY (23, blonde, svelte, leg warmers)."|speech|LILY|F|True
+21|ADAM|I'm not sure.|speech|ADAM|M|True
 22|LILY|"Really?
 Lily shows Adam another PHOTO:
 -- YOUNG ADAM with his arm around the SKI BUNNY, who looks
 like she was ambushed for the photo.
-3."|speech|LILY|F
-23|ADAM|Oh! Jennie.|speech|ADAM|M
-24|LILY|Who's Jennie?|speech|LILY|F
+3."|speech|LILY|F|True
+23|ADAM|Oh! Jennie.|speech|ADAM|M|True
+24|LILY|Who's Jennie?|speech|LILY|F|True
 25|ADAM|"She's nobody. Ski instructor.
 (off her look)
 You didn't know me yet.
-Lily still looks at him a little hard."|speech|ADAM|M
+Lily still looks at him a little hard."|speech|ADAM|M|True
 26|ADAM (CONT'D)|"Lily, I was 17. She had boobs and
 a face. Of course I'm gonna take
 her picture.
-Lily still looks a little bothered."|speech|ADAM|M
-27|LILY|Do you still think of her?|speech|LILY|F
+Lily still looks a little bothered."|speech|ADAM|M|True
+27|LILY|Do you still think of her?|speech|LILY|F|True
 28|ADAM|"Of course not! I think of you.
-As Adam goes to EMBRACE her:"|speech|ADAM|M
+As Adam goes to EMBRACE her:"|speech|ADAM|M|True
 29|LILY|"Hold on...
-Lily goes into the CLOSET."|speech|LILY|F
+Lily goes into the CLOSET."|speech|LILY|F|True
 30|ADAM|"Sweetie?
 She comes out a moment later with a CARDBOARD BOX, which she
 empties onto the BED. About FIFTY PORNO MAGAZINES spill out,
-ranging from TITS MONTHLY to BLACK ASS."|speech|ADAM|M
+ranging from TITS MONTHLY to BLACK ASS."|speech|ADAM|M|True
 31|ADAM (CONT'D)|"How did you know where I hid my...
 treasure?
 Lily carefully picks up a BROCHURE from the pile, holding it
-by the corner, not wanting to touch it."|speech|ADAM|M
+by the corner, not wanting to touch it."|speech|ADAM|M|True
 32|LILY|"Explain this.
 From ADAM'S POV, we see the brochure:
 -- A ski brochure featuring Jennie on the cover.
-4."|speech|LILY|F
+4."|speech|LILY|F|True
 33|ADAM|"OK! You caught me! I
 occasionally... reminisce... about
-Jennie O'Keefe!"|speech|ADAM|M
-34|LILY|That's gross.|speech|LILY|F
-35|(THEN)|"What's ""occasionally?"""|speech||
+Jennie O'Keefe!"|speech|ADAM|M|True
+34|LILY|That's gross.|speech|LILY|F|True
+35|(THEN)|"What's ""occasionally?"""|speech|||
 36|ADAM|"(without missing a beat)
 About two hours ago when you were
-on the phone with your mother."|speech|ADAM|M
+on the phone with your mother."|speech|ADAM|M|True
 37|LILY|"Jesus. Tell me how I'm supposed to
 let you go to your bachelor party
-and not be a basket case?"|speech|LILY|F
-38|ADAM|What are you so worried about?|speech|ADAM|M
+and not be a basket case?"|speech|LILY|F|True
+38|ADAM|What are you so worried about?|speech|ADAM|M|True
 39|LILY|"I'm worried that you're still
-thinking about this girl."|speech|LILY|F
+thinking about this girl."|speech|LILY|F|True
 40|ADAM|"Baby, the girl in that picture was
 nothing more than a crush. I could
 never get her and there's no
 possibility I'll ever be with her.
 She was a total stranger.
-Lily gets a CURIOUS LOOK on her face."|speech|ADAM|M
-41|LILY|So... you're into strangers?|speech|LILY|F
+Lily gets a CURIOUS LOOK on her face."|speech|ADAM|M|True
+41|LILY|So... you're into strangers?|speech|LILY|F|True
 42|ADAM|"Well not the creepy ""your mom was
 in an accident, now come with me""
 kind. But yeah, the hot lady in
 the supermarket kind of stranger.
-You have to admit - it's kinda hot."|speech|ADAM|M
+You have to admit - it's kinda hot."|speech|ADAM|M|True
 43|LILY|"So you're saying if you and I
 didn't know each other, it would be
-pretty hot if we fooled around?"|speech|LILY|F
+pretty hot if we fooled around?"|speech|LILY|F|True
 44|ADAM|"You kidding me? It would be
 fucking incredible.
 5.
-Lily smiles seductively, as Adam starts to get it."|speech|ADAM|M
+Lily smiles seductively, as Adam starts to get it."|speech|ADAM|M|True
 45|ADAM (CONT'D)|"Wait a minute. Are you
 suggesting... yes. YES!
-Adam excitedly heads for the door."|speech|ADAM|M
+Adam excitedly heads for the door."|speech|ADAM|M|True
 46|ADAM (CONT'D)|"OK, I'll go down the hall. You get
 into character.
 (points at her)
 This fucking rules.
 Adam leaves the room and Lily REMOVES HER SHIRT, talking sexy
-and slowly building the fantasy..."|speech|ADAM|M
+and slowly building the fantasy..."|speech|ADAM|M|True
 47|LILY|"Oh I'm all alone in this big house.
 Cheerleading camp just ended and I
 need to get out of these sweaty
@@ -161,113 +161,113 @@ clothes...
 ADAM (O.S.)
 Love where you're going with this,
 baby! Keep it up!
-She unbuttons her pants and SLIDES DOWN HER JEANS."|speech|LILY|F
+She unbuttons her pants and SLIDES DOWN HER JEANS."|speech|LILY|F|True
 48|LILY|"Mmmm. My panties are so tight
 against my firm naked body...
 ADAM (O.S.)
-You should probably take them off!"|speech|LILY|F
+You should probably take them off!"|speech|LILY|F|True
 49|LILY|"Are you gonna let me do this?
 ADAM (O.S.)
 Sorry! Continue! You were just
 about to take off your panties!
 She slowly slides out of her panties, kicking them away. Now
-she's TOTALLY NAKED. She continues to role play."|speech|LILY|F
+she's TOTALLY NAKED. She continues to role play."|speech|LILY|F|True
 50|LILY|"It feels so good to be so naked. I
 hope no one can see me...
 Just then a BLACK MAN (late 30s, handsome, J Crew) saunters
 through the bedroom door, holding a coffee and all riled up.
-6."|speech|LILY|F
+6."|speech|LILY|F|True
 51|BLACK MAN|"OK, so this asshole in front of me
 at the donut place is -- WHOA!
-Lily covers up and SCREAMS."|speech|BLACK MAN|M
+Lily covers up and SCREAMS."|speech|BLACK MAN|M|
 52|LILY|"Get out of here!!
-He SPILLS the coffee on his hands and their rug as he turns."|speech|LILY|F
+He SPILLS the coffee on his hands and their rug as he turns."|speech|LILY|F|True
 53|BLACK MAN|"Fuck! Ow! I'm sorry. I'll clean
-it up. That's gonna stain, though."|speech|BLACK MAN|M
+it up. That's gonna stain, though."|speech|BLACK MAN|M|
 54|LILY|"Just leave!
 He heads for the door, just as:
-Adam comes in, wearing a MAILMAN hat and NOTHING ELSE."|speech|LILY|F
+Adam comes in, wearing a MAILMAN hat and NOTHING ELSE."|speech|LILY|F|True
 55|ADAM|"Special delivery for -- Jesus
 Christ!
 The black man doesn't know which way to look. He covers his
-eyes and drips coffee, as he blindly steps toward the door."|speech|ADAM|M
+eyes and drips coffee, as he blindly steps toward the door."|speech|ADAM|M|True
 56|"BLACK MAN
-(NOT LOOKING)"|Just tell me when I'm in the clear.|speech|BLACK MAN|M
-57||EXT. ADAM'S HOUSE - DAY|location||
+(NOT LOOKING)"|Just tell me when I'm in the clear.|speech|BLACK MAN|M|
+57||EXT. ADAM'S HOUSE - DAY|location|||
 58|CUT TO:|"Adam wheels his suitcase down the front path of this modest,
 well-kept suburban home, as a recovered, dressed, embarrassed
 and somewhat shell-shocked Lily follows with a small bag.
 They both stop 10 yards short of a RANGE ROVER, where the
-black man, NICK, waits in the car, waving."|speech|CUT TO:|?
+black man, NICK, waits in the car, waving."|speech|CUT TO:|?|True
 59|LILY|"I can't wait for you to come back
 and marry me. Wow, that's crazy.
 Adam looks almost like it just hit him.
-7."|speech|LILY|F
-60|ADAM|Yeah.|speech|ADAM|M
-61|(REALIZATION)|Wow.|speech||
+7."|speech|LILY|F|True
+60|ADAM|Yeah.|speech|ADAM|M|True
+61|(REALIZATION)|Wow.|speech|||
 62|LILY|"Tell me again I have nothing to
-worry about."|speech|LILY|F
+worry about."|speech|LILY|F|True
 63|ADAM|"Babe, look at Nick...
-In the car, Nick air drums to whatever's on the radio."|speech|ADAM|M
+In the car, Nick air drums to whatever's on the radio."|speech|ADAM|M|True
 64|ADAM (CONT'D)|"You think with him in charge, we're
 gonna get into any kind of trouble?
 We'll probably eat too much pizza
 and I'll twist my ankle getting off
-the ski lift."|speech|ADAM|M
+the ski lift."|speech|ADAM|M|True
 65|LILY|"OK. Have an awesome bachelor
 party. Not too awesome.
 (hands him bag)
 I got you something.
-Adam looks in the bag."|speech|LILY|F
+Adam looks in the bag."|speech|LILY|F|True
 66|ADAM|"Sandwich. Thanks.
 He puts it in his BACKPACK. She looks like she was expecting
-a different reaction, but she lets it go. He kisses her."|speech|ADAM|M
+a different reaction, but she lets it go. He kisses her."|speech|ADAM|M|True
 67|LILY|"Let me see your phone.
-He takes it out."|speech|LILY|F
+He takes it out."|speech|LILY|F|True
 68|ADAM|"I told you, I'll call you when--
 She snatches it out of his hands. Adam looks confused, as
-she pockets the phone."|speech|ADAM|M
+she pockets the phone."|speech|ADAM|M|True
 69|LILY|"Despite my anxiety, I'm not gonna
 be one of those women who wants an
 update every ten minutes. Even
 though I do want an update every
 ten minutes.
 Adam smiles. Lily looks a bit trepidatious.
-8."|speech|LILY|F
+8."|speech|LILY|F|True
 70|LILY (CONT'D)|"Just make sure whatever happens,
 you're back for the rehearsal
-dinner."|speech|LILY|F
-71|(SHOWING CONCERN)|I totally trust you.|speech||
-72|ADAM|You should. I'm a lame-o.|speech|ADAM|M
+dinner."|speech|LILY|F|True
+71|(SHOWING CONCERN)|I totally trust you.|speech|||
+72|ADAM|You should. I'm a lame-o.|speech|ADAM|M|True
 73|LILY|"Well at least you're a cute lame-o.
 Lily leans in and they NUZZLE their noses together in a
 disgusting display of affection. A FLASH goes off.
-From the car, Nick holds up his iPhone."|speech|LILY|F
+From the car, Nick holds up his iPhone."|speech|LILY|F|True
 74|NICK|"I'm more than willing to forget
 about earlier, but this shit's
-going on Facebook."|speech|NICK|M
-75||INT. NICK'S CAR - DAY - DRIVING|location||
-76|NICK|Nick drives through SUBURBIA, while Adam rides shotgun.|speech|NICK|M
+going on Facebook."|speech|NICK|M|True
+75||INT. NICK'S CAR - DAY - DRIVING|location|||
+76|NICK|Nick drives through SUBURBIA, while Adam rides shotgun.|speech|NICK|M|True
 77|NICK|"I have no idea what Facebook is.
 My phone has a button that says
 Send To Facebook. I've been
 sending shit there for months.
-Adam looks out the window, smiling."|speech|NICK|M
-78|ADAM|I'm so psyched about this weekend!|speech|ADAM|M
+Adam looks out the window, smiling."|speech|NICK|M|True
+78|ADAM|I'm so psyched about this weekend!|speech|ADAM|M|True
 79|NICK|"Ditto, buddy. I'm gonna help you
 make up for all the good times you
 missed when you were being a
-responsible member of society."|speech|NICK|M
+responsible member of society."|speech|NICK|M|True
 80|ADAM|"You're a good friend. I'm sorry
 for putting my career and self
-sufficiency above bowling night."|speech|ADAM|M
+sufficiency above bowling night."|speech|ADAM|M|True
 81|NICK|"This trip represents everything
-awesome about being a dude."|speech|NICK|M
-82|(MORE)|9.|speech||
+awesome about being a dude."|speech|NICK|M|True
+82|(MORE)|9.|speech|||
 83|NICK (CONT'D)|"We're gonna drink too much, eat
-whatever we want..."|speech|NICK|M
-84|(FANTASIZING)|I might not even change my socks.|speech||
-85|ADAM|Live the dream.|speech|ADAM|M
+whatever we want..."|speech|NICK|M|True
+84|(FANTASIZING)|I might not even change my socks.|speech|||
+85|ADAM|Live the dream.|speech|ADAM|M|True
 86|NICK|"Best of all, we don't have to
 answer to anyone.
 Nick's PHONE rings and he answers it with his built-in
@@ -292,7 +292,7 @@ NICK (ON PHONE)
 I bought three bags of pretzels.
 But I'm gonna eat them...
 COURTNEY (V.0.)
-That's not the point."|speech|NICK|M
+That's not the point."|speech|NICK|M|True
 87|(ADMONISHING)|"Don't do it again.
 Nick and Adam exchange an embarrassing glance.
 NICK (ON PHONE)
@@ -303,118 +303,118 @@ hi to Lily.
 10.
 ADAM (ON PHONE)
 OK, I sure wi--
-CLICK. For a moment, there is an uncomfortable silence."|speech||
+CLICK. For a moment, there is an uncomfortable silence."|speech|||
 88|ADAM (CONT'D)|"Don't her parents own the
-supermarket?"|speech|ADAM|M
-89|NICK|The whole damn chain.|speech|NICK|M
+supermarket?"|speech|ADAM|M|True
+89|NICK|The whole damn chain.|speech|NICK|M|True
 90|(THEN)|"Just be thankful Lily doesn't have
 any family money. Nothing makes
-your dick softer."|speech||
-91||EXT. MOTEL -- DAY|location||
-92|(THEN)|Nick's car pulls into the lot of a rundown motel.|speech||
-93||INT./EXT. NICK'S CAR - DAY|location||
-94|(THEN)|Adam looks confused and slightly nervous.|speech||
+your dick softer."|speech|||
+91||EXT. MOTEL -- DAY|location|||
+92|(THEN)|Nick's car pulls into the lot of a rundown motel.|speech|||
+93||INT./EXT. NICK'S CAR - DAY|location|||
+94|(THEN)|Adam looks confused and slightly nervous.|speech|||
 95|ADAM|"This looks like a place where
 people die. Mostly from murder.
 A BALD, miserable-looking GUY in his late 30s (LOU) exits a
 room, carrying TWO SHOPPING BAGS. He gets in the back seat.
-Adam looks happy to see him."|speech|ADAM|M
-96|ADAM (CONT'D)|Lou!|speech|ADAM|M
+Adam looks happy to see him."|speech|ADAM|M|True
+96|ADAM (CONT'D)|Lou!|speech|ADAM|M|True
 97|LOU|"Yes, I'm living in a transient
 motel. Let's get that purple
-elephant out of the room."|speech|LOU|M
-98|ADAM|Dude, it looks nice.|speech|ADAM|M
-99|LOU|Thank you. I hate your guts.|speech|LOU|M
+elephant out of the room."|speech|LOU|M|True
+98|ADAM|Dude, it looks nice.|speech|ADAM|M|True
+99|LOU|Thank you. I hate your guts.|speech|LOU|M|True
 100|ADAM|"(re: the bags)
 What'd you bring?
-11."|speech|ADAM|M
-101|LOU|All my belongings.|speech|LOU|M
+11."|speech|ADAM|M|True
+101|LOU|All my belongings.|speech|LOU|M|True
 102|NICK|"So you're sorta like a bum now,
-huh?"|speech|NICK|M
-103|LOU|In a sense.|speech|LOU|M
-104||INT. NICK'S CAR - DAY - DRIVING|location||
+huh?"|speech|NICK|M|True
+103|LOU|In a sense.|speech|LOU|M|True
+104||INT. NICK'S CAR - DAY - DRIVING|location|||
 105|LOU|"Lou sits in the backseat, voraciously eating a bowl of
-cereal, as the other guys are up front."|speech|LOU|M
+cereal, as the other guys are up front."|speech|LOU|M|True
 106|LOU|"Our system is fucked, gentlemen.
 You tell me how a whore wife can
 fuck some black dude - no offense -
 and still take her cuckold of a
-husband for all he's got."|speech|LOU|M
-107|NICK|Why would I take offense to that?|speech|NICK|M
-108|LOU|It's offensive.|speech|LOU|M
-109|NICK|Because he's black?|speech|NICK|M
+husband for all he's got."|speech|LOU|M|True
+107|NICK|Why would I take offense to that?|speech|NICK|M|True
+108|LOU|It's offensive.|speech|LOU|M|True
+109|NICK|Because he's black?|speech|NICK|M|True
 110|LOU|"And because he's fucking my wife.
 And because you're black. And
 because of all the oversensitive
 horrible garbage... you know what?
 Forget no offense. Just offense.
-Are you offended?"|speech|LOU|M
-111|NICK|Not really.|speech|NICK|M
-112|LOU|Then shut the fuck up.|speech|LOU|M
-113|ADAM|She's got a hell of an attorney.|speech|ADAM|M
+Are you offended?"|speech|LOU|M|True
+111|NICK|Not really.|speech|NICK|M|True
+112|LOU|Then shut the fuck up.|speech|LOU|M|True
+113|ADAM|She's got a hell of an attorney.|speech|ADAM|M|True
 114|LOU|"Yes and thank you so very much for
 giving her the referral.
-12."|speech|LOU|M
-115|ADAM|She told me it was for a friend.|speech|ADAM|M
+12."|speech|LOU|M|True
+115|ADAM|She told me it was for a friend.|speech|ADAM|M|True
 116|NICK|"So... what? Your wife likes black
-dick now?"|speech|NICK|M
+dick now?"|speech|NICK|M|True
 117|LOU|"I'm gonna slaughter you in your
-sleep tonight."|speech|LOU|M
+sleep tonight."|speech|LOU|M|True
 118|ADAM|"(turns to Lou, genuine)
-Thanks for coming, man."|speech|ADAM|M
-119||EXT. UPSCALE APARTMENT BUILDING - DAY|location||
+Thanks for coming, man."|speech|ADAM|M|True
+119||EXT. UPSCALE APARTMENT BUILDING - DAY|location|||
 120|ADAM|"Nick's car pulls up across from a nice apartment building, as
 a well-dressed, well-groomed, overly polished-looking YOUNG
-GUY in his 20s (JACOB) comes out, carrying a MESSENGER BAG."|speech|ADAM|M
-121||INT. NICK'S CAR -- SAME TIME|location||
-122|ADAM|The guys watch Jacob carefully cross the street.|speech|ADAM|M
+GUY in his 20s (JACOB) comes out, carrying a MESSENGER BAG."|speech|ADAM|M|True
+121||INT. NICK'S CAR -- SAME TIME|location|||
+122|ADAM|The guys watch Jacob carefully cross the street.|speech|ADAM|M|True
 123|LOU|"Oh, Adam's stupid brother's coming?
 Boo! Drive away before he gets in
-the car!"|speech|LOU|M
+the car!"|speech|LOU|M|True
 124|ADAM|"Be nice. I know Jacob's kind of a
 douche, but I'm trying to be closer
 to him since Mom died.
-Jacob gets in the back next to Lou."|speech|ADAM|M
+Jacob gets in the back next to Lou."|speech|ADAM|M|True
 125|"LOU
 (VERY INSINCERE)"|"Hey buddy! How's it going? Good
-to see you!"|speech|LOU|M
-126|JACOB|You look dirty and you smell bad.|speech|JACOB|M
+to see you!"|speech|LOU|M|True
+126|JACOB|You look dirty and you smell bad.|speech|JACOB|M|True
 127|LOU|"You look gay and you smell like a
 basket of fancy soaps. Advantage
-me."|speech|LOU|M
+me."|speech|LOU|M|True
 128|JACOB|"How is that to your advantage?
-13."|speech|JACOB|M
+13."|speech|JACOB|M|True
 129|ADAM|"He's not gay. He's just... what
-are you again?"|speech|ADAM|M
-130|JACOB|Metrosexual.|speech|JACOB|M
-131|LOU|You have sex with trains?|speech|LOU|M
+are you again?"|speech|ADAM|M|True
+130|JACOB|Metrosexual.|speech|JACOB|M|True
+131|LOU|You have sex with trains?|speech|LOU|M|True
 132|JACOB|"For your information, I fuck
-chicks. Hot ones."|speech|JACOB|M
+chicks. Hot ones."|speech|JACOB|M|True
 133|LOU|"For your information, you fuck
-dudes. Gay ones."|speech|LOU|M
+dudes. Gay ones."|speech|LOU|M|True
 134|JACOB|"Yeah, well at least I'm young and
 my life's full of potential. I
-hear you're homeless now?"|speech|JACOB|M
+hear you're homeless now?"|speech|JACOB|M|True
 135|LOU|"(to Nick and Adam)
-You told him?!"|speech|LOU|M
-136|(GRIMACES)|I hate all you people.|speech||
+You told him?!"|speech|LOU|M|True
+136|(GRIMACES)|I hate all you people.|speech|||
 137|ADAM|"Will you two please shake hands and
 make up? We're gonna be spending a
 lot of time together.
-Jacob distractedly TEXTS on his phone."|speech|ADAM|M
+Jacob distractedly TEXTS on his phone."|speech|ADAM|M|True
 138|JACOB|"Yeah, about that. Why aren't we
-going to Aspen? Vermont's lame."|speech|JACOB|M
-139|ADAM|It's gonna be fun.|speech|ADAM|M
+going to Aspen? Vermont's lame."|speech|JACOB|M|True
+139|ADAM|It's gonna be fun.|speech|ADAM|M|True
 140|JACOB|"Yeah, whatever.
 And with that, the guys travel in silence for a few moments,
-the lifeblood drained from the car. Finally..."|speech|JACOB|M
+the lifeblood drained from the car. Finally..."|speech|JACOB|M|True
 141|LOU|"I've gotta take a shit.
-14."|speech|LOU|M
-142||INT. BURGER KING REST STOP - DAY|location||
+14."|speech|LOU|M|True
+142||INT. BURGER KING REST STOP - DAY|location|||
 143|LOU|"Lou walks from the bathroom back to the TABLE where Adam,
-Nick, and Jacob sit and eat."|speech|LOU|M
-144|LOU|That was an ugly experience.|speech|LOU|M
-145|NICK|I don't wanna hear about it.|speech|NICK|M
+Nick, and Jacob sit and eat."|speech|LOU|M|True
+144|LOU|That was an ugly experience.|speech|LOU|M|True
+145|NICK|I don't wanna hear about it.|speech|NICK|M|True
 146|LOU|"In a few years, when I'm dying of
 an exotic disease that causes my
 penis to bleed until it falls off,
@@ -422,245 +422,245 @@ someone remember to tell the
 hospital to check out the filthy
 crapper at the Albany Rest Stop.
 It's the AIDS monkey of toilets.
-The guys put down their sandwiches."|speech|LOU|M
-147|ADAM|Thank you.|speech|ADAM|M
+The guys put down their sandwiches."|speech|LOU|M|True
+147|ADAM|Thank you.|speech|ADAM|M|True
 148|LOU|"I don't know how you're doing it,
 man. I mean, Laurie's hot, don't
-get me wrong."|speech|LOU|M
+get me wrong."|speech|LOU|M|True
 149|"ADAM
-(CORRECTING)"|Lily.|speech|ADAM|M
+(CORRECTING)"|Lily.|speech|ADAM|M|True
 150|LOU|"Right. Lily. But one vagina?
-Forever?"|speech|LOU|M
+Forever?"|speech|LOU|M|True
 151|ADAM|"That's the sacrifice.
-Jacob nods, agreeing with Lou's concern."|speech|ADAM|M
+Jacob nods, agreeing with Lou's concern."|speech|ADAM|M|True
 152|JACOB|"And you're OK with that? I don't
 know your sexual history, but you
-sure you got it out of your system?"|speech|JACOB|M
-153|ADAM|I did OK for myself.|speech|ADAM|M
+sure you got it out of your system?"|speech|JACOB|M|True
+153|ADAM|I did OK for myself.|speech|ADAM|M|True
 154|LOU|"He didn't do that well for himself.
-15."|speech|LOU|M
-155|NICK|Yeah, isn't Lily your fourth?|speech|NICK|M
-156|ADAM|Fifth. Thank you.|speech|ADAM|M
+15."|speech|LOU|M|True
+155|NICK|Yeah, isn't Lily your fourth?|speech|NICK|M|True
+156|ADAM|Fifth. Thank you.|speech|ADAM|M|True
 157|JACOB|"So you're averaging like one girl
-every eight years."|speech|JACOB|M
+every eight years."|speech|JACOB|M|True
 158|ADAM|"Assuming I got laid when I was
-zero."|speech|ADAM|M
+zero."|speech|ADAM|M|True
 159|LOU|"That would be awesome.
-Adam gives Lou a distasteful look."|speech|LOU|M
+Adam gives Lou a distasteful look."|speech|LOU|M|True
 160|ADAM|"I'm fine. Maybe some cold feet,
 but that's normal. Thank you
-everyone for your concern."|speech|ADAM|M
+everyone for your concern."|speech|ADAM|M|True
 161|JACOB|"Just looking out for you. That's
 what brothers do, right? They look
-out for each other?"|speech|JACOB|M
+out for each other?"|speech|JACOB|M|True
 162|ADAM|"(takes a moment)
-Is this about something else?"|speech|ADAM|M
-163|JACOB|Forget it.|speech|JACOB|M
+Is this about something else?"|speech|ADAM|M|True
+163|JACOB|Forget it.|speech|JACOB|M|True
 164|ADAM|"No, let's do this. I'm sorry I
 wasn't around when you were growing
 up, OK? I was in college. And
 then I was working. Dad left.
-Someone had to take responsibility."|speech|ADAM|M
-165|LOU|Boooooring!|speech|LOU|M
+Someone had to take responsibility."|speech|ADAM|M|True
+165|LOU|Boooooring!|speech|LOU|M|True
 166|"ADAM
-(TO LOU)"|Shut up.|speech|ADAM|M
+(TO LOU)"|Shut up.|speech|ADAM|M|True
 167|JACOB|"I said forget it.
-16."|speech|JACOB|M
+16."|speech|JACOB|M|True
 168|NICK|"Guys, come on. Let's move past it.
-This is gonna be a fun weekend."|speech|NICK|M
-169|JACOB|I still say Vermont sucks.|speech|JACOB|M
+This is gonna be a fun weekend."|speech|NICK|M|True
+169|JACOB|I still say Vermont sucks.|speech|JACOB|M|True
 170|LOU|"You're confusing Vermont with
 yourself. This weekend is going to
 be incredible and you will not ruin
-it for me."|speech|LOU|M
+it for me."|speech|LOU|M|True
 171|ADAM|"(softens, to Jacob)
 You might like it. Havenhurst is
 pretty awesome.
-Jacob shrugs, but Lou gets excited."|speech|ADAM|M
+Jacob shrugs, but Lou gets excited."|speech|ADAM|M|True
 172|LOU|"Fuck yeah it is! We're gonna ski
-the trail and bone some tail!"|speech|LOU|M
+the trail and bone some tail!"|speech|LOU|M|True
 173|"ADAM
 (LAUGHS)"|"You'll have to bone some of that
-tail for me, man."|speech|ADAM|M
-174|LOU|Fuck that. You'll bone your own.|speech|LOU|M
-175|ADAM|No I won't.|speech|ADAM|M
+tail for me, man."|speech|ADAM|M|True
+174|LOU|Fuck that. You'll bone your own.|speech|LOU|M|True
+175|ADAM|No I won't.|speech|ADAM|M|True
 176|LOU|"Adam, trust me. Biggest mistake of
 my life - not fucking a whore at my
-bachelor party."|speech|LOU|M
+bachelor party."|speech|LOU|M|True
 177|NICK|"That's the biggest mistake of your
-life?"|speech|NICK|M
+life?"|speech|NICK|M|True
 178|LOU|"Fuck yeah. And he's not making
-that same mistake."|speech|LOU|M
+that same mistake."|speech|LOU|M|True
 179|ADAM|"Uh... I'm not having sex with
 anyone this weekend.
 Lou looks at Adam, trying to figure things out.
-17."|speech|ADAM|M
-180|LOU|Ohhhh. I gotcha.|speech|LOU|M
-181|(WINKING)|You're not having sex this weekend.|speech||
+17."|speech|ADAM|M|True
+180|LOU|Ohhhh. I gotcha.|speech|LOU|M|True
+181|(WINKING)|You're not having sex this weekend.|speech|||
 182|ADAM|"I'm not having sex this weekend.
-Without the winking."|speech|ADAM|M
+Without the winking."|speech|ADAM|M|True
 183|"LOU
-(WINKING)"|Right. No winking.|speech|LOU|M
-184|(WINKS AGAIN)|I understand.|speech||
-185|ADAM|I'm pretty sure you don't.|speech|ADAM|M
-186||INT./EXT. NICK'S CAR - DAY - DRIVING|location||
+(WINKING)"|Right. No winking.|speech|LOU|M|True
+184|(WINKS AGAIN)|I understand.|speech|||
+185|ADAM|I'm pretty sure you don't.|speech|ADAM|M|True
+186||INT./EXT. NICK'S CAR - DAY - DRIVING|location|||
 187|ADAM|"Nick's car transitions from the HIGHWAY to the MOUNTAINS to
 the WOODS, as we track the drive.
-Finally, the car passes a ""Welcome to Havenhurst"" sign."|speech|ADAM|M
-188|NICK|Gentlemen... welcome to Havenhurst.|speech|NICK|M
-189|ADAM|Yes!|speech|ADAM|M
-190||EXT. HAVENHURST MAIN DRAG - AFTERNOON|location||
+Finally, the car passes a ""Welcome to Havenhurst"" sign."|speech|ADAM|M|True
+188|NICK|Gentlemen... welcome to Havenhurst.|speech|NICK|M|True
+189|ADAM|Yes!|speech|ADAM|M|True
+190||EXT. HAVENHURST MAIN DRAG - AFTERNOON|location|||
 191|ADAM|"The car winds through the main thoroughfare. Rather than a
 quaint ski town, this place resembles a suburban nightmare,
 with STRIP MALLS and CHAIN RESTAURANTS. It's the exact
-opposite of the fun town we saw in Adam's photos."|speech|ADAM|M
-192||INT./EXT. NICK'S CAR - AFTERNOON - DRIVING|location||
-193|ADAM|The guys look out the windows, wearing bummed expressions.|speech|ADAM|M
-194|JACOB|so this is the coolest town ever?|speech|JACOB|M
+opposite of the fun town we saw in Adam's photos."|speech|ADAM|M|True
+192||INT./EXT. NICK'S CAR - AFTERNOON - DRIVING|location|||
+193|ADAM|The guys look out the windows, wearing bummed expressions.|speech|ADAM|M|True
+194|JACOB|so this is the coolest town ever?|speech|JACOB|M|True
 195|ADAM|"Oh man. The Brew Haus is a PF
 Chang's.
 Lou notices a TGI Friday's, with a sign advertising a ""Hannah
 Montana 3-D Experience!"" He looks utterly disgusted.
-18."|speech|ADAM|M
+18."|speech|ADAM|M|True
 196|LOU|"I don't even have the heart to tell
 you what I just fucking saw. But
 say goodbye to Papa Enzo's. This
-town sucks."|speech|LOU|M
+town sucks."|speech|LOU|M|True
 197|NICK|"What the fuck is going on?
-The car climbs a twisty part of the road."|speech|NICK|M
-198|NICK (CONT'D)|Please god let it still be there...|speech|NICK|M
-199|JACOB|What?|speech|JACOB|M
+The car climbs a twisty part of the road."|speech|NICK|M|True
+198|NICK (CONT'D)|Please god let it still be there...|speech|NICK|M|True
+199|JACOB|What?|speech|JACOB|M|True
 200|ADAM|"Pink Paradise. Best strip club
 ever.
 The car rounds the corner and a SIGN comes into view. The
-beginning reads ""Pink."""|speech|ADAM|M
+beginning reads ""Pink."""|speech|ADAM|M|True
 201|NICK|"Yes! It lives!
 The car continues to climb and the whole sign comes into
-view: ""Pinkberry."""|speech|NICK|M
-202|LOU|I wanna die.|speech|LOU|M
+view: ""Pinkberry."""|speech|NICK|M|True
+202|LOU|I wanna die.|speech|LOU|M|True
 203|"JACOB
-(OBLIVIOUS)"|Sweet, there's a Pinkberry here.|speech|JACOB|M
-204||EXT. PINE VALLEY INN - AFTERNOON|location||
+(OBLIVIOUS)"|Sweet, there's a Pinkberry here.|speech|JACOB|M|True
+204||EXT. PINE VALLEY INN - AFTERNOON|location|||
 205|"JACOB
-(OBLIVIOUS)"|The car pulls into the parking lot of this RUNDOWN lodge.|speech|JACOB|M
-206||INT. PINE VALLEY INN / LOBBY - AFTERNOON|location||
+(OBLIVIOUS)"|The car pulls into the parking lot of this RUNDOWN lodge.|speech|JACOB|M|True
+206||INT. PINE VALLEY INN / LOBBY - AFTERNOON|location|||
 207|"JACOB
 (OBLIVIOUS)"|"The guys walk in and the first thing they notice is a bunch
 of CATS that wander anywhere they want.
 The large ""living room"" area off the lobby features a FIRE
 PLACE that has been BRICKED SHUT.
 TODDLERS and ELDERLY PEOPLE lounge and cry and nap.
-19."|speech|JACOB|M
+19."|speech|JACOB|M|True
 208|"LOU
-(TO NICK)"|What have you done to us?|speech|LOU|M
+(TO NICK)"|What have you done to us?|speech|LOU|M|True
 209|ADAM|"I'm not playing drinking games with
-my grandma."|speech|ADAM|M
+my grandma."|speech|ADAM|M|True
 210|NICK|"OK so the place skews a little
 older. Let's check in. We're not
-spending our time inside anyway."|speech|NICK|M
-211||INT. PINE VALLEY INN / HALLWAY - MINUTES LATER|location||
+spending our time inside anyway."|speech|NICK|M|True
+211||INT. PINE VALLEY INN / HALLWAY - MINUTES LATER|location|||
 212|NICK|"The guys walk silently behind a MIDDLE-AGED BELLHOP (PHIL),
 who struggles to wrangle their bags on a shaky hand truck.
 His job is made more difficult because he only has ONE ARM.
 He grunts and curses his way down the hall on the slow and
-laborious journey. But when Adam tries to pick up a bag..."|speech|NICK|M
+laborious journey. But when Adam tries to pick up a bag..."|speech|NICK|M|True
 213|"PHIL
 (CURT)"|"Hey buddy. I'm not gonna tell you
 again. I fuckin' got it.
-Adam backs off."|speech|PHIL|M
-214|LOU|This guy's a dick.|speech|LOU|M
+Adam backs off."|speech|PHIL|M|
+214|LOU|This guy's a dick.|speech|LOU|M|True
 215|"NICK
 SHH--
-LOU"|No, fuck that.|speech|NICKSHH--LOU|?
+LOU"|No, fuck that.|speech|NICKSHH--LOU|?|
 216|(LOUDER)|"He's a dick. Oooh tough guy. He's
-gotta be Mister America."|speech||
-217|JACOB|Captain America.|speech|JACOB|M
+gotta be Mister America."|speech|||
+217|JACOB|Captain America.|speech|JACOB|M|True
 218|LOU|"Go fuck yourself.
-Phil finally drops their bags at their room and then:"|speech|LOU|M
+Phil finally drops their bags at their room and then:"|speech|LOU|M|True
 219|PHIL|"I'm ready to be tipped.
-20."|speech|PHIL|M
+20."|speech|PHIL|M|
 220|"LOU
 (SELF UNAWARE)"|"You, sir, have no tact.
 Nick gives Phil a bill and he walks off down the hall,
-leaving the guys outside their room."|speech|LOU|M
+leaving the guys outside their room."|speech|LOU|M|True
 221|NICK|"Gentlemen... in this room lies the
-beginning of our awesome weekend."|speech|NICK|M
+beginning of our awesome weekend."|speech|NICK|M|True
 222|JACOB|"Or a continuation of everything
-that's sucked so far."|speech|JACOB|M
+that's sucked so far."|speech|JACOB|M|True
 223|LOU|"Yeah, I bet it's gonna be lame as
 shit in there. The furniture
-probably smells like mold."|speech|LOU|M
-224|JACOB|I say we go to Foxwoods.|speech|JACOB|M
-225|LOU|I actually kinda like that idea.|speech|LOU|M
+probably smells like mold."|speech|LOU|M|True
+224|JACOB|I say we go to Foxwoods.|speech|JACOB|M|True
+225|LOU|I actually kinda like that idea.|speech|LOU|M|True
 226|ADAM|"Guys!
-Everyone looks at Adam."|speech|ADAM|M
+Everyone looks at Adam."|speech|ADAM|M|True
 227|ADAM (CONT'D)|"Let's give it a chance. We don't
 know for sure that the room sucks.
-Nick nods, appreciating the optimism. He opens the door:"|speech|ADAM|M
-228||INT. PINE VALLEY INN / SUITE - AFTERNOON|location||
+Nick nods, appreciating the optimism. He opens the door:"|speech|ADAM|M|True
+228||INT. PINE VALLEY INN / SUITE - AFTERNOON|location|||
 229|ADAM (CONT'D)|"The room SUCKS. The ancient furniture looks like it smells
-like mold and there is nothing redeemable about the place."|speech|ADAM|M
+like mold and there is nothing redeemable about the place."|speech|ADAM|M|True
 230|"ADAM
 (SHRUGS)"|"OK, so now we know.
 The guys drag their bags in and depressingly take stock of
-the situation -- presently the dirty old room."|speech|ADAM|M
+the situation -- presently the dirty old room."|speech|ADAM|M|True
 231|JACOB|"What the hell is with this place?
-21."|speech|JACOB|M
+21."|speech|JACOB|M|True
 232|LOU|"It's like a Stephen King novel,
-except not as cool."|speech|LOU|M
+except not as cool."|speech|LOU|M|True
 233|NICK|"We'll feel a lot better once we hit
-the slopes."|speech|NICK|M
+the slopes."|speech|NICK|M|True
 234|(SMILES)|"Plus, I know there's one thing to
-look forward to."|speech||
-235||EXT. PINE VALLEY INN / PATIO - AFTERNOON|location||
+look forward to."|speech|||
+235||EXT. PINE VALLEY INN / PATIO - AFTERNOON|location|||
 236|(SMILES)|"On a patio outside their suite, our guys stare at a KICK-ASS
 TOP OF THE LINE HOT TUB. Spacious seating, plenty of jets,
 underwater lighting. It's amazing.
-Adam, Nick, and Lou look energized."|speech||
-237|LOU|Thank. God.|speech|LOU|M
-238|ADAM|At least some things never change.|speech|ADAM|M
+Adam, Nick, and Lou look energized."|speech|||
+237|LOU|Thank. God.|speech|LOU|M|True
+238|ADAM|At least some things never change.|speech|ADAM|M|True
 239|JACOB|"What's the big deal about a hot
-tub?"|speech|JACOB|M
-240|ADAM|Shame on you.|speech|ADAM|M
+tub?"|speech|JACOB|M|True
+240|ADAM|Shame on you.|speech|ADAM|M|True
 241|NICK|"There's plenty of time for tubbin'.
-Let's ski."|speech|NICK|M
-242||EXT. MOUNTAIN - AFTERNOON|location||
+Let's ski."|speech|NICK|M|True
+242||EXT. MOUNTAIN - AFTERNOON|location|||
 243|NICK|"At the top of the mountain, Adam, Nick, and Lou look
 ridiculous in TIGHT, RETRO-STYLE NEON SKI JUMPSUITS. Jacob,
-on a snowboard, is the only one dressed in current attire."|speech|NICK|M
+on a snowboard, is the only one dressed in current attire."|speech|NICK|M|True
 244|JACOB|"(re: their outfits)
 When's the last time you guys
-actually went skiing?"|speech|JACOB|M
-245|ADAM|It's been a few years.|speech|ADAM|M
+actually went skiing?"|speech|JACOB|M|True
+245|ADAM|It's been a few years.|speech|ADAM|M|True
 246|NICK|"I think we look good.
-22."|speech|NICK|M
-247|JACOB|Then you're an idiot.|speech|JACOB|M
+22."|speech|NICK|M|True
+247|JACOB|Then you're an idiot.|speech|JACOB|M|True
 248|NICK|"All right, we race down the
 mountain. Loser buys first round.
-Premium shit only."|speech|NICK|M
-249|JACOB|You gonna be all right?|speech|JACOB|M
-250|NICK|What does that mean?|speech|NICK|M
-251|JACOB|I dunno - do black dudes ski?|speech|JACOB|M
+Premium shit only."|speech|NICK|M|True
+249|JACOB|You gonna be all right?|speech|JACOB|M|True
+250|NICK|What does that mean?|speech|NICK|M|True
+251|JACOB|I dunno - do black dudes ski?|speech|JACOB|M|True
 252|NICK|"Of course black dudes ski. Aren't
-I wearing skis?"|speech|NICK|M
+I wearing skis?"|speech|NICK|M|True
 253|JACOB|"I'm just not sure you're
-representative."|speech|JACOB|M
-254|NICK|You're calling me an Uncle Tom?|speech|NICK|M
-255|JACOB|I don't even know what that means.|speech|JACOB|M
+representative."|speech|JACOB|M|True
+254|NICK|You're calling me an Uncle Tom?|speech|NICK|M|True
+255|JACOB|I don't even know what that means.|speech|JACOB|M|True
 256|NICK|"It means black dudes ski.
 (pulls down goggles)
 Catch ya at the bottom.
 Nick takes off and... gets about 15 FEET, before he hits a
-GRASSY PATCH and falls over."|speech|NICK|M
-257|LOU|Black dudes don't ski.|speech|LOU|M
+GRASSY PATCH and falls over."|speech|NICK|M|True
+257|LOU|Black dudes don't ski.|speech|LOU|M|True
 258|"ADAM
-(MOCK YELLING)"|How's the bottom?|speech|ADAM|M
-259|CUT TO:|ADAM HITS A BAD PATCH AND FALLS DOWN.|speech|CUT TO:|?
+(MOCK YELLING)"|How's the bottom?|speech|ADAM|M|True
+259|CUT TO:|ADAM HITS A BAD PATCH AND FALLS DOWN.|speech|CUT TO:|?|True
 260|CUT TO:|"23.
-JACOB AND LOU COLLIDE, BOTH TRYING TO AVOID A BARE PATCH."|speech|CUT TO:|?
+JACOB AND LOU COLLIDE, BOTH TRYING TO AVOID A BARE PATCH."|speech|CUT TO:|?|True
 261|CUT TO:|"NICK PICKS UP SPEED, BEFORE HITTING A BARE PATCH AND FALLING.
-A LITTLE OLD LADY SLOWLY SKIS PAST HIM, KICKING UP POWDER."|speech|CUT TO:|?
-262||EXT. HAVENHURST MAIN DRAG - NIGHT|location||
+A LITTLE OLD LADY SLOWLY SKIS PAST HIM, KICKING UP POWDER."|speech|CUT TO:|?|True
+262||EXT. HAVENHURST MAIN DRAG - NIGHT|location|||
 263|CUT TO:|"Nick wears his ""going out clothes"" and walks along the main
 drag talking into his PHONE. It is clear that he is being
 CONSTANTLY INTERRUPTED on the other end of the conversation.
@@ -672,36 +672,36 @@ Amex... Because I'm the best man...
 I know, but I'm organizing... I'm
 gonna get cash fr-- I'm gonna get--
 I'm gonna collect cash from the
-guys... Yes... Yes... Yes."|speech|CUT TO:|?
+guys... Yes... Yes... Yes."|speech|CUT TO:|?|True
 264|(LONG PAUSE)|"I love you too.
 Nick hangs up and we see that Adam, Lou, and Jacob have been
-walking with him, listening to his end of the conversation."|speech||
+walking with him, listening to his end of the conversation."|speech|||
 265|"ADAM
-(SYMPATHETIC)"|Dude...|speech|ADAM|M
+(SYMPATHETIC)"|Dude...|speech|ADAM|M|True
 266|"NICK
 (CLAPS HANDS)"|"OK, who's ready to sink their teeth
-into a delicious dinner?"|speech|NICK|M
-267||INT. P.F. CHANG'S - NIGHT|location||
+into a delicious dinner?"|speech|NICK|M|True
+267||INT. P.F. CHANG'S - NIGHT|location|||
 268||"Our four guys looks MISERABLE, as they sit around a table at
-this popular Chinese food chain restaurant. Their"|stage direction||
+this popular Chinese food chain restaurant. Their"|stage direction|||
 269|"NICK
 (CLAPS HANDS)"|"overzealous WAITER (AIDEN) makes a big production of MIXING
-SAUCES, like he's Emeril."|speech|NICK|M
+SAUCES, like he's Emeril."|speech|NICK|M|True
 270|AIDEN|"You fellas look like you can handle
 some spice. I'm gonna knock it up
 a bit... throw some chili sauce in
 there... oh yeah, there it is.
 This is gonna knock your socks off.
 24.
-Nick's expression looks like he wants to kill the guy."|speech|AIDEN|M
+Nick's expression looks like he wants to kill the guy."|speech|AIDEN|M|
 271|NICK|"Thank you.
-The waiter walks away and Nick RAISES HIS GLASS in a toast."|speech|NICK|M
+The waiter walks away and Nick RAISES HIS GLASS in a toast."|speech|NICK|M|True
 272|NICK (CONT'D)|"I'd like to propose a toast. To my
 best friend, Adam. He may be
 throwing his life away, but at
 least he's throwing it away with a
 hot chick at his side.
-The guys LAUGH and clink glasses."|speech|NICK|M
+The guys LAUGH and clink glasses."|speech|NICK|M|True
 273|NICK (CONT'D)|"And so what if you only have one
 vagina for the rest of your life.
 Speaking as someone who's seen your
@@ -709,102 +709,102 @@ wife's vagina -- it's definitely
 one of the good ones.
 Lou and Jacob look confused, but clink glasses anyway, as
 Adam mouths ""What the fuck"" to Nick.
-Jacob raises his glass."|speech|NICK|M
+Jacob raises his glass."|speech|NICK|M|True
 274|JACOB|"To my brother, I say thank you for
 including me. I promise to try to
 make the most of it.
-The guys look confused at the backhanded graciousness."|speech|JACOB|M
+The guys look confused at the backhanded graciousness."|speech|JACOB|M|True
 275|ADAM|"Thanks for coming, man. It means a
 lot to me.
-Jacob nods halfheartedly."|speech|ADAM|M
-276|NICK|To Adam!|speech|NICK|M
+Jacob nods halfheartedly."|speech|ADAM|M|True
+276|NICK|To Adam!|speech|NICK|M|True
 277|GUYS|"To Adam!
 The guys hug and clink glasses and excitedly CHATTER. Just
-then, a MANAGER appears at the table and CLEARS HIS THROAT."|speech|GUYS|M
+then, a MANAGER appears at the table and CLEARS HIS THROAT."|speech|GUYS|M|
 278|MANAGER|"Gentlemen. You're going to have to
-keep it down."|speech|MANAGER|?
+keep it down."|speech|MANAGER|?|
 279|"25
 NICK"|"Come on, man. It's our friend's
 bachelor party. We're just trying
-to roast him a little bit."|speech|25NICK|?
+to roast him a little bit."|speech|25NICK|?|
 280|MANAGER|"Well if you like roasts, I suggest
 the roast peking duck. It's out of
 this world and as I'm sure Aiden
 has told you, he can make it quite
 spicy.
-The guys look bothered."|speech|MANAGER|?
+The guys look bothered."|speech|MANAGER|?|
 281|MANAGER (CONT'D)|"But as for the noisy kind of roast,
 that's going to have to stop. We
 have many other guests trying to
 enjoy the P.F. Chang's experience.
 The manager walks away. For a moment, the guys are quiet.
-Lou takes a bite of his food, chewing slowly."|speech|MANAGER|?
+Lou takes a bite of his food, chewing slowly."|speech|MANAGER|?|
 282|LOU|"This kung pau chicken pairs very
 nicely with the 97 cab. Very
-impressive choice, Nick."|speech|LOU|M
-283|NICK|Thank you.|speech|NICK|M
+impressive choice, Nick."|speech|LOU|M|True
+283|NICK|Thank you.|speech|NICK|M|True
 284|LOU|"Also, this is the worst bachelor
 party I've ever been to.
-Everyone puts down their forks, cathartically fed up."|speech|LOU|M
-285|JACOB|Totally agree.|speech|JACOB|M
+Everyone puts down their forks, cathartically fed up."|speech|LOU|M|True
+285|JACOB|Totally agree.|speech|JACOB|M|True
 286|ADAM|"Nick, look. You had great
-intentions. No one's blaming you."|speech|ADAM|M
-287|LOU|I'm blaming him.|speech|LOU|M
+intentions. No one's blaming you."|speech|ADAM|M|True
+287|LOU|I'm blaming him.|speech|LOU|M|True
 288|JACOB|"I'm totally blaming him. I didn't
 even want to go skiing.
-26."|speech|JACOB|M
+26."|speech|JACOB|M|True
 289|NICK|"OK I'll admit this trip is not off
 to the best start. But we're due
 for a victory!
-Nick thinks and actually gets an idea. He SNAPS his fingers."|speech|NICK|M
+Nick thinks and actually gets an idea. He SNAPS his fingers."|speech|NICK|M|True
 290|NICK (CONT'D)|"Hot tub!
-A lightbulb goes off for Adam too."|speech|NICK|M
+A lightbulb goes off for Adam too."|speech|NICK|M|True
 291|ADAM|"Yes!
-Lou gets up and throws down his napkin."|speech|ADAM|M
+Lou gets up and throws down his napkin."|speech|ADAM|M|True
 292|LOU|"Why did we even bother with dinner?
-Adam and Nick get up too."|speech|LOU|M
-293|JACOB|Guys, I'm still hungry.|speech|JACOB|M
+Adam and Nick get up too."|speech|LOU|M|True
+293|JACOB|Guys, I'm still hungry.|speech|JACOB|M|True
 294|LOU|"Quiet, men are talking.
-Aiden approaches."|speech|LOU|M
-295|AIDEN|Get you guys some to-go boxes?|speech|AIDEN|M
+Aiden approaches."|speech|LOU|M|True
+295|AIDEN|Get you guys some to-go boxes?|speech|AIDEN|M|
 296|LOU|"I would like you to die. And then
 I would like you to leave.
-Aiden walks away, freaked out. Lou turns back to the guys."|speech|LOU|M
-297|LOU (CONT'D)|It's tub time.|speech|LOU|M
-298||EXT. PINE VALLEY INN / PATIO - NIGHT|location||
+Aiden walks away, freaked out. Lou turns back to the guys."|speech|LOU|M|True
+297|LOU (CONT'D)|It's tub time.|speech|LOU|M|True
+298||EXT. PINE VALLEY INN / PATIO - NIGHT|location|||
 299|LOU (CONT'D)|"Lou, Adam, and Nick all have HUGE SMILES, as they gaze at the
 tub. They each hold a TON OF BOOZE.
 Jacob looks indifferent and a little turned off by it all.
-Lou strips down to his underwear and CLIMBS IN."|speech|LOU|M
+Lou strips down to his underwear and CLIMBS IN."|speech|LOU|M|True
 300|LOU|"Oh my god. The water is perfect.
 27.
 He POURS A VODKA and SLAMS IT BACK.
-Adam climbs in with Lou, pouring his own drink."|speech|LOU|M
+Adam climbs in with Lou, pouring his own drink."|speech|LOU|M|True
 301|JACOB|"I really don't see the appeal.
-It's like a glorified bath."|speech|JACOB|M
+It's like a glorified bath."|speech|JACOB|M|True
 302|NICK|"Jacob. Son. The hot tub is the
 whole thing! You ski all day.
 Then you hit the town, get trashed,
 and lure some fine ladies back to
 the lodge for some good old
 fashioned tubbin'.
-Nick CRACKS A BEER and pats Jacob on the back."|speech|NICK|M
+Nick CRACKS A BEER and pats Jacob on the back."|speech|NICK|M|True
 303|NICK (CONT'D)|"So the town's dead? Fine, we skip
 that part and go right to the tub.
 Trust me. If there's fun to be
 had, the tub is a good start.
-Nick gets in."|speech|NICK|M
+Nick gets in."|speech|NICK|M|True
 304|NICK (CONT'D)|"Yes! It's amazing.
 Now it's just Jacob outside the hot tub. The other three
 guys are already starting to look more energized and happy,
-splashing around. After another beat of consideration..."|speech|NICK|M
+splashing around. After another beat of consideration..."|speech|NICK|M|True
 305|JACOB|"Fuck it.
 Jacob strips down and gets in. As he submerges, he actually
-starts to loosen up a bit and smiles."|speech|JACOB|M
-306|LOU|Well?|speech|LOU|M
+starts to loosen up a bit and smiles."|speech|JACOB|M|True
+306|LOU|Well?|speech|LOU|M|True
 307|JACOB|"I'm not convinced this is anything
-more than a bath, but it's nice."|speech|JACOB|M
-308|NICK|Hit him with some bubbles.|speech|NICK|M
+more than a bath, but it's nice."|speech|JACOB|M|True
+308|NICK|Hit him with some bubbles.|speech|NICK|M|True
 309|ADAM|"Coming right up.
 Adam CRANKS A KNOB. As the BUBBLES comes to life, we begin a
 TUBBIN' MONTAGE over Reel 2 Real's ""I Like to Move It.""
@@ -837,43 +837,43 @@ dangerously jumps in, attached to a SNOWBOARD.
 -- The CUTS get QUICKER and QUICKER, as hands reach into the
 backpack. More vodka. More Dew. More Red Bull. More
 Bacardi... The cuts SPEED UP and INTENSIFY until finally in a
-BRILLIANT FLASH OF LIGHT, we"|speech|ADAM|M
-310|EXPLODE TO:|THE SUN RISING JUST ABOVE THE MOUNTAIN PEAKS.|speech|EXPLODE TO:|?
-311||EXT. PINE VALLEY INN / PATIO - DAWN|location||
+BRILLIANT FLASH OF LIGHT, we"|speech|ADAM|M|True
+310|EXPLODE TO:|THE SUN RISING JUST ABOVE THE MOUNTAIN PEAKS.|speech|EXPLODE TO:|?|
+311||EXT. PINE VALLEY INN / PATIO - DAWN|location|||
 312|EXPLODE TO:|"As the light of a new day spills into Havenhurst, we find all
 four of our guys PASSED OUT in the hot tub, the water calm.
 A KITTEN licks Lou's face. It's adorable. Until...
 29.
 Lou JOLTS AWAKE and PUKES ON THE KITTEN, sending it FLYING!
 This wakes up everyone and they stir to life, inspecting the
-carnage, mostly hangover-related."|speech|EXPLODE TO:|?
-313|NICK|Oh my god, I wanna die.|speech|NICK|M
+carnage, mostly hangover-related."|speech|EXPLODE TO:|?|
+313|NICK|Oh my god, I wanna die.|speech|NICK|M|True
 314|JACOB|"I need a vitamin water.
-Adam reaches in his backpack, taking out two choices."|speech|JACOB|M
+Adam reaches in his backpack, taking out two choices."|speech|JACOB|M|True
 315|ADAM|"Red Bull or Fresca?
-Jacob takes the Fresca, as Lou inspects the CLAW MARKS."|speech|ADAM|M
-316|LOU|That fucking bear got me good.|speech|LOU|M
-317|ADAM|Yeah he did.|speech|ADAM|M
-318|LOU|But we showed him, didn't we?|speech|LOU|M
+Jacob takes the Fresca, as Lou inspects the CLAW MARKS."|speech|ADAM|M|True
+316|LOU|That fucking bear got me good.|speech|LOU|M|True
+317|ADAM|Yeah he did.|speech|ADAM|M|True
+318|LOU|But we showed him, didn't we?|speech|LOU|M|True
 319|ADAM|"If by showing him, you mean we
 laughed and he got bored and
 wandered off into the woods with
 your sneakers, then yeah, we got
-him good."|speech|ADAM|M
+him good."|speech|ADAM|M|True
 320|LOU|"Fuck yeah.
-Lou picks up Adam's half-eaten sandwich and takes a BITE."|speech|LOU|M
-321|ADAM|You just puked.|speech|ADAM|M
+Lou picks up Adam's half-eaten sandwich and takes a BITE."|speech|LOU|M|True
+321|ADAM|You just puked.|speech|ADAM|M|True
 322|LOU|"That's why I'm eating your
-sandwich. I'm fucking starving."|speech|LOU|M
+sandwich. I'm fucking starving."|speech|LOU|M|True
 323|NICK|"Guys, look...
 Their gaze turns to the MOUNTAIN PEAK, on which is a fresh
-LAYER OF POWDER. It looks like perfect skiing conditions."|speech|NICK|M
+LAYER OF POWDER. It looks like perfect skiing conditions."|speech|NICK|M|True
 324|ADAM|"Let's do it!
-30."|speech|ADAM|M
-325||EXT. PINE VALLEY INN / PARKING LOT - MOMENTS LATER|location||
+30."|speech|ADAM|M|True
+325||EXT. PINE VALLEY INN / PARKING LOT - MOMENTS LATER|location|||
 326|ADAM|"As the guys walk across the front of the lodge, they pass
 some well preserved CARS all parked together: a 1985 Pontiac
-Fiero, a 1986 VW Golf, and a 1987 Ford Mustang coupe."|speech|ADAM|M
+Fiero, a 1986 VW Golf, and a 1987 Ford Mustang coupe."|speech|ADAM|M|True
 327|JACOB|"What is this, a shitty car club?
 The guys COMPLETELY MISS the BILLBOARDS ACROSS THE STREET:
 -- ""Coming soon: the most spaced-out Mel Brooks film yet!
@@ -881,8 +881,8 @@ SPACEBALLS!""
 -- A surfing MAX HEADROOM with a CAN OF COKE and the tag:
 ""Catch the Wave!""
 -- A bull terrier named SPUDS MCKENZIE parking with some HOT
-BABES and a shitload of BUD LIGHT."|speech|JACOB|M
-328||EXT. MOUNTAIN - DAY|location||
+BABES and a shitload of BUD LIGHT."|speech|JACOB|M|True
+328||EXT. MOUNTAIN - DAY|location|||
 329|JACOB|"In QUICK CUTS, the guys hit the slopes:
 -- In his ridiculous snowsuit, Nick skis down the mountain.
 With the new snowfall, he expertly glides along.
@@ -891,111 +891,111 @@ a SNOWBOARD. People glare at him with confused expressions.
 -- Adam uses the snowplow method to slowly descend. He's a
 beginner skier. He takes the time to look at the
 surroundings and notices a YOUNGER, HOTTER CROWD skiing
-today. Lots of BLONDE SKI BUNNIES wearing PASTEL colors."|speech|JACOB|M
+today. Lots of BLONDE SKI BUNNIES wearing PASTEL colors."|speech|JACOB|M|True
 330|ADAM|"Well this place has improved.
--- In the lift line, Lou passes a GUY wearing a BIG HEADBAND."|speech|ADAM|M
-331|LOU|Really, asshole?|speech|LOU|M
-332||INT. GONDOLA - DAY|location||
+-- In the lift line, Lou passes a GUY wearing a BIG HEADBAND."|speech|ADAM|M|True
+331|LOU|Really, asshole?|speech|LOU|M|True
+332||INT. GONDOLA - DAY|location|||
 333|LOU|"Adam shares a gondola with Nick, as they make their way up
 the mountain. A DUDE IN SUNGLASSES sits across, napping.
 Adam takes a FLASK out of his backpack. He and Nick look
 over their shoulders like scheming kids as they take a nip.
-31."|speech|LOU|M
+31."|speech|LOU|M|True
 334|ADAM|"I'm really glad we stayed. It's
 gonna be good to get away for a
-couple of days."|speech|ADAM|M
+couple of days."|speech|ADAM|M|True
 335|(QUALIFYING BEAT)|"I mean not like I want to be away
-from Lily. You know."|speech||
-336|NICK|Believe me I know.|speech|NICK|M
+from Lily. You know."|speech|||
+336|NICK|Believe me I know.|speech|NICK|M|True
 337|ADAM|"I love her. But you guys are
 right. I'm gonna be with her for
-the rest of my life."|speech|ADAM|M
+the rest of my life."|speech|ADAM|M|True
 338|"NICK
-(NODS)"|For the rest of your goddamn life.|speech|NICK|M
+(NODS)"|For the rest of your goddamn life.|speech|NICK|M|True
 339|ADAM|"It gets easier, right? No offense,
-but watching you talk with Courtney-"|speech|ADAM|M
+but watching you talk with Courtney-"|speech|ADAM|M|True
 340|NICK|"You're gonna be fine. You'll
 settle in, get the premium cable
 package - the usual deal.
-Adam nods."|speech|NICK|M
+Adam nods."|speech|NICK|M|True
 341|NICK (CONT'D)|"You'll wake up every morning,
 comforted by the fact that your
 wife doesn't wield her family's
 wealth over your head like a
 hangman's noose.
-Adam looks concerned, as Nick wistfully goes on..."|speech|NICK|M
+Adam looks concerned, as Nick wistfully goes on..."|speech|NICK|M|True
 342|NICK (CONT'D)|"You'll breathe the air of life,
 making the occasional decision -
 maybe get some lawn furniture. How
 about steak for dinner? Yes, let's
 get that juice machine I saw on TV.
 Let's fucking go for it.
-Nick stares off into the distance."|speech|NICK|M
+Nick stares off into the distance."|speech|NICK|M|True
 343|ADAM|"Nick?
-32."|speech|ADAM|M
+32."|speech|ADAM|M|True
 344|NICK|"Sorry, I lost myself there.
 DUDE IN SUNGLASSES (O.S.)
 Coke?
 Adam and Nick look at the guy across from them, who presently
-offers his SKI GOGGLES, on which is a mountain of COCAINE."|speech|NICK|M
-345|NICK|That is a lot of cocaine.|speech|NICK|M
+offers his SKI GOGGLES, on which is a mountain of COCAINE."|speech|NICK|M|True
+345|NICK|That is a lot of cocaine.|speech|NICK|M|True
 346|ADAM|"I feel like we're in Scarface.
-Only with skiing."|speech|ADAM|M
+Only with skiing."|speech|ADAM|M|True
 347|(THINKS)|"Skiface.
-DUDE IN SUNGLASSES"|speech||
-348|(SNIFFS)|Take it. It's good shit.|speech||
-349|NICK|I'm gonna pass.|speech|NICK|M
+DUDE IN SUNGLASSES"|speech|||
+348|(SNIFFS)|Take it. It's good shit.|speech|||
+349|NICK|I'm gonna pass.|speech|NICK|M|True
 350|"ADAM
 (DECLINES)"|"Yeah, I'm good.
 The dude removes his sunglasses. He has a dead look in his
 eyes, studying Nick and Adam.
 DUDE IN SUNGLASSES
-You guys a couple of spazzes?"|speech|ADAM|M
+You guys a couple of spazzes?"|speech|ADAM|M|True
 351|ADAM|"Spazzes?
-DUDE IN SUNGLASSES"|speech|ADAM|M
+DUDE IN SUNGLASSES"|speech|ADAM|M|True
 352|(VERY ANGRY)|"Yeah, dipstick. You narcs? You
 Miami Vice? Which one's Crockett?
-Which one's CROCKETT?!"|speech||
-353|ADAM|I'm Crockett, obviously!|speech|ADAM|M
+Which one's CROCKETT?!"|speech|||
+353|ADAM|I'm Crockett, obviously!|speech|ADAM|M|True
 354|(TO NICK)|"That's the Don Johnson one, right?
 The dude flips out a SWITCHBLADE.
 DUDE IN SUNGLASSES
 You show me you're not spazzes.
-33."|speech||
+33."|speech|||
 355|NICK|"We're not spazzes.
 The dude extends the coke once more.
 DUDE IN SUNGLASSES
-Show me."|speech|NICK|M
-356||EXT. MOUNTAIN / TOP - MOMENTS LATER|location||
+Show me."|speech|NICK|M|True
+356||EXT. MOUNTAIN / TOP - MOMENTS LATER|location|||
 357|NICK|"At the top of the mountain, Nick looks WIDE AWAKE. Adam, on
 the other hand, looks COKED OUT OF HIS SKULL. He sniffs,
-fidgets, clenches his jaw, and looks generally ""up."""|speech|NICK|M
+fidgets, clenches his jaw, and looks generally ""up."""|speech|NICK|M|True
 358|NICK|"Adam, you gotta chill. You just
-did one line."|speech|NICK|M
-359|ADAM|I've never ridden the horse before.|speech|ADAM|M
+did one line."|speech|NICK|M|True
+359|ADAM|I've never ridden the horse before.|speech|ADAM|M|True
 360|NICK|"You're not riding the horse. The
 horse is heroin.
-Adam can't stop moving and fidgeting."|speech|NICK|M
+Adam can't stop moving and fidgeting."|speech|NICK|M|True
 361|ADAM|"I don't know what kind of animal
 I'm riding, but it's the best
 animal of all time. I feel great!
 Adam uses his SKI POLES to push off the top of the mountain
-and he goes FLYING DOWN THE SLOPE."|speech|ADAM|M
-362|NICK|Adam! Jesus.|speech|NICK|M
-363||EXT. MOUNTAIN / SKI TRAIL - DAY - CONTINUOUS|location||
+and he goes FLYING DOWN THE SLOPE."|speech|ADAM|M|True
+362|NICK|Adam! Jesus.|speech|NICK|M|True
+363||EXT. MOUNTAIN / SKI TRAIL - DAY - CONTINUOUS|location|||
 364|NICK|"Adam TUCKS down, still CLENCHING HIS TEETH. He PICKS UP
 SPEED as he flies down the mountain like a racer.
 FURTHER UP THE MOUNTAIN
 Nick has to pull up and slow down in the name of safety.
-34."|speech|NICK|M
+34."|speech|NICK|M|True
 365|ON ADAM|"He zips along, never changing course or slowing. He BARELY
 MISSES a few TREES. But he can't stop himself before --
 HE BARRELS INTO A SMOKING HOT CHICK!
 The collision knocks Adam and the girl to the ground and
 finally stops Adam's hyper-speed descent.
-Adam gets up and shakes the cobwebs."|speech|ON ADAM|M
+Adam gets up and shakes the cobwebs."|speech|ON ADAM|M|
 366|ADAM|"What a rush!
-He notices the girl on the ground and goes to help her up."|speech|ADAM|M
+He notices the girl on the ground and goes to help her up."|speech|ADAM|M|True
 367|ADAM (CONT'D)|"Oh wow, are you OK?
 SMOKING HOT CHICK
 No thanks to you, asshole!
@@ -1003,80 +1003,80 @@ IN SLOW MOTION --
 The girl stands up in a very hot and awesome manner, SHAKING
 THE SNOW from her luxurious blonde hair. It twinkles in the
 sunlight. As she turns to face Adam,
-NORMAL SPEED RESUMES. And he sees who it is:"|speech|ADAM|M
+NORMAL SPEED RESUMES. And he sees who it is:"|speech|ADAM|M|True
 368|"ADAM
 (MIND BLOWN)"|"Jennie O'Keefe!
-Jennie squints at Adam, trying to place him."|speech|ADAM|M
+Jennie squints at Adam, trying to place him."|speech|ADAM|M|True
 369|JENNIE|"Do I know you?
 He stares at her, not believing what he's seeing. He still
 looks loopy from the coke.
 Just then, a a too-blond, mirror-sunglass-wearing, feathered
-hair, striped-jumpsuited guy (BLAINE) SKIS UP and GRABS ADAM."|speech|JENNIE|F
+hair, striped-jumpsuited guy (BLAINE) SKIS UP and GRABS ADAM."|speech|JENNIE|F|True
 370|BLAINE|"I'm gonna serve you a knuckle
-sandwich, airhead."|speech|BLAINE|M
-371|(TO JENNIE)|You all right, babe?|speech||
+sandwich, airhead."|speech|BLAINE|M|True
+371|(TO JENNIE)|You all right, babe?|speech|||
 372|JENNIE|"I think so.
 35.
 Blaine's TOADIES (TAD and CHAZ) ski up behind him, as Blaine
-ANGRILY RIPS Adam's lift ticket from his jacket."|speech|JENNIE|F
+ANGRILY RIPS Adam's lift ticket from his jacket."|speech|JENNIE|F|True
 373|BLAINE|"Your lift ticket's been revoked.
-Blaine throws it on the ground and laughs to his friends."|speech|BLAINE|M
+Blaine throws it on the ground and laughs to his friends."|speech|BLAINE|M|True
 374|ADAM|"(a la Lethal Weapon 2)
 Diplomatic immunity.
 Blaine looks confused, as Adam RIPS Blaine's lift ticket, but
-he ends up RIPPING BLAINE'S JACKET too."|speech|ADAM|M
+he ends up RIPPING BLAINE'S JACKET too."|speech|ADAM|M|True
 375|ADAM (CONT'D)|"Sorry, I was trying to... you can
 probably patch that up.
-Blaine PULLS Adam close by the collar and clenches his fist."|speech|ADAM|M
+Blaine PULLS Adam close by the collar and clenches his fist."|speech|ADAM|M|True
 376|BLAINE|"You're dead meat, scumbag.
 Just then, SNOW POWDER flies in Blaine's face. Blaine lets
 go of Adam, as Jacob snowboards up and stops short, coming to
-his brother's side."|speech|BLAINE|M
+his brother's side."|speech|BLAINE|M|True
 377|JACOB|"There you are! My brother's had a
 few too many triple Venti nonfat
 lattes if you know what I mean.
 (genuine, to Adam)
 Are you OK?
 Adam nods. Blaine looks confused. CHAZ and TAD look
-enamored with Jacob."|speech|JACOB|M
+enamored with Jacob."|speech|JACOB|M|True
 378|CHAZ|"Dude, they let you bring a
-skateboard on the mountain?"|speech|CHAZ|M
+skateboard on the mountain?"|speech|CHAZ|M|True
 379|JACOB|"It's a snowboard. You know - no
-wheels."|speech|JACOB|M
+wheels."|speech|JACOB|M|True
 380|TAD|"Genius! Man, not to get all fag on
 you, but I'm digging your fresh
 threads, bro.
 Adam and Blaine look equally confused with what's going on.
 Jacob takes the compliment well, like he deserves it.
-36."|speech|TAD|M
+36."|speech|TAD|M|True
 381|JACOB|"Thank you. It's mostly North Face.
-A little EMS."|speech|JACOB|M
-382|CHAZ|Whatever it is, it works.|speech|CHAZ|M
+A little EMS."|speech|JACOB|M|True
+382|CHAZ|Whatever it is, it works.|speech|CHAZ|M|True
 383|TAD|"Totally. What are you doing with
 this boner? You should be skiing
 with us. Like permanently.
-Blaine looks really annoyed with his friends."|speech|TAD|M
-384|BLAINE|Guys!|speech|BLAINE|M
+Blaine looks really annoyed with his friends."|speech|TAD|M|True
+384|BLAINE|Guys!|speech|BLAINE|M|True
 385|TAD|"I mean, that's if Blaine thinks
 it's cool and everything.
-Blaine takes a deep breath, annoyed."|speech|TAD|M
+Blaine takes a deep breath, annoyed."|speech|TAD|M|True
 386|"BLAINE
 (TO JACOB)"|"Get your spaz brother out of here.
 And for his sake, I don't wanna see
-him back on my mountain."|speech|BLAINE|M
+him back on my mountain."|speech|BLAINE|M|True
 387|"CHAZ
 (EAGER)"|"You're welcome any time though!
 Adam picks up his BACKPACK, which fell off during the
-collision. He stares at Jennie again and smiles."|speech|CHAZ|M
+collision. He stares at Jennie again and smiles."|speech|CHAZ|M|True
 388|ADAM|"You look JUST like this girl. I
 had the biggest crush on her--
-Blaine grabs the bag out of Adam's hand and SHOVES ADAM away."|speech|ADAM|M
+Blaine grabs the bag out of Adam's hand and SHOVES ADAM away."|speech|ADAM|M|True
 389|BLAINE|"This is mine now.
-Adam looks at Blaine angrily, but Jacob holds him back."|speech|BLAINE|M
+Adam looks at Blaine angrily, but Jacob holds him back."|speech|BLAINE|M|True
 390|JACOB|"Come on. Let's just go.
 Jacob ushers Adam off the slope, as Blaine shoulders the bag.
-37."|speech|JACOB|M
-391||INT. PINE VALLEY INN / LOBBY - DAY|location||
+37."|speech|JACOB|M|True
+391||INT. PINE VALLEY INN / LOBBY - DAY|location|||
 392|JACOB|"Adam and Jacob walk in the front door. Gone are the children
 and old people. The living room off the lobby presently
 hosts what appears to be an amazing 80s RETRO PARTY. A radio
@@ -1084,10 +1084,10 @@ plays Miami Sound Machine's ""Conga.""
 Girls and guys wear printed sweaters, feathered dos, and neon
 leggings. It's something out of a mid-80s Aspen photo shoot.
 Nick walks in behind them, looking as confused as them. He
-turns up his palms and shakes his head, at a loss for words."|speech|JACOB|M
+turns up his palms and shakes his head, at a loss for words."|speech|JACOB|M|True
 393|ADAM|"What is going on?
 Lou strolls up to the guys, with his arms around TWO HOT
-CHICKS. He looks elated."|speech|ADAM|M
+CHICKS. He looks elated."|speech|ADAM|M|True
 394|LOU|"Guys! I'm so glad you're here. I
 want to introduce you to Michelle
 and Sandy. These lovely ladies are
@@ -1095,28 +1095,28 @@ having a roller skating party next
 weekend and no offense, but fuck
 your wedding -- I'm totally coming
 back. By the way...
-Lou rolls out a ZIPLOCK BAG full of cocaine."|speech|LOU|M
+Lou rolls out a ZIPLOCK BAG full of cocaine."|speech|LOU|M|True
 395|LOU (CONT'D)|"There's coke everywhere around
 here. This place rules!
-Lou dips into the coke and rubs it on his gums and we:"|speech|LOU|M
-396||INT. PINE VALLEY INN / SUITE - LATE AFTERNOON|location||
+Lou dips into the coke and rubs it on his gums and we:"|speech|LOU|M|True
+396||INT. PINE VALLEY INN / SUITE - LATE AFTERNOON|location|||
 397|CUT TO:|"The suite looks a little ""fresher."" The furniture is the
 same, but everything's in better shape. It looks almost new.
 Adam, Jacob, and Lou sit in the main room with the TV on, as
-Nick emerges from a bedroom."|speech|CUT TO:|?
+Nick emerges from a bedroom."|speech|CUT TO:|?|True
 398|JACOB|"Has anyone else noticed that things
 around here are weird as shit?
 Adam and Nick nod. Lou shakes his head.
-38."|speech|JACOB|M
+38."|speech|JACOB|M|True
 399|LOU|"Don't you ruin this. If you wake
-me from this dream, I'll kill you."|speech|LOU|M
+me from this dream, I'll kill you."|speech|LOU|M|True
 400|"ADAM
-(IGNORING LOU)"|What do you think happened?|speech|ADAM|M
+(IGNORING LOU)"|What do you think happened?|speech|ADAM|M|True
 401|JACOB|"I have no idea, but look...
 Jacob turns up the VOLUME on the TV. The NEWS airs.
 NEWSCASTER (ON TV)
 The Dow Jones Industrial Average
-closed just above 2,000 today..."|speech|JACOB|M
+closed just above 2,000 today..."|speech|JACOB|M|True
 402|NICK|"I'm ruined!
 NEWSCASTER (ON TV)
 In other news, the Tower Commission
@@ -1124,107 +1124,107 @@ has rebuked President Reagan for
 not controlling his national
 security staff in an arms-for-
 hostages deal with Iran...
-For a moment, the guys sit there in stunned silence. Then..."|speech|NICK|M
+For a moment, the guys sit there in stunned silence. Then..."|speech|NICK|M|True
 403|LOU|"(with genuine emotion)
-We're in 1971."|speech|LOU|M
+We're in 1971."|speech|LOU|M|True
 404|"ADAM
 (CORRECTING HIM)"|"We're in 1987.
-Everyone looks stunned and dazed."|speech|ADAM|M
+Everyone looks stunned and dazed."|speech|ADAM|M|True
 405|JACOB|"What are we gonna do? I have plans
-next weekend."|speech|JACOB|M
+next weekend."|speech|JACOB|M|True
 406|ADAM|"We all have plans. It's my fucking
-wedding!"|speech|ADAM|M
+wedding!"|speech|ADAM|M|True
 407|NICK|"Now hold on, we don't know for sure
 that we're in 1987.
 The TV shows a (real) COMMERCIAL for the COMMODORE 64
 computer, with a JINGLE that SINGS: ""Are you keeping up with
 the Commodore, 'cause the Commodore's keeping up with you...""
 39.
-When it's over..."|speech|NICK|M
-408||NICK (CONT'D)|unknown||
+When it's over..."|speech|NICK|M|True
+408||NICK (CONT'D)|unknown|||
 409|NICK|"OK, we're in 1987.
-Adam stands up, completely losing it."|speech|NICK|M
+Adam stands up, completely losing it."|speech|NICK|M|True
 410|ADAM|"What the FUCK is going on?!
-Nick stands up and calmly takes charge."|speech|ADAM|M
+Nick stands up and calmly takes charge."|speech|ADAM|M|True
 411|NICK|"Everyone relax. I think I know
 what's happened. And when we're
 done discussing it, we're all gonna
 feel a lot better.
-Everyone looks to Nick, who seems to have the answer."|speech|NICK|M
+Everyone looks to Nick, who seems to have the answer."|speech|NICK|M|True
 412|NICK (CONT'D)|"Two words: black hole.
 He lets it hang in the air for a moment, as if it's suddenly
-going to gel for everyone. But the guys look confused."|speech|NICK|M
+going to gel for everyone. But the guys look confused."|speech|NICK|M|True
 413|NICK (CONT'D)|"I saw a special on the Science
 Channel. And guess what?
-Sometimes this happens."|speech|NICK|M
-414|ADAM|This happens?|speech|ADAM|M
+Sometimes this happens."|speech|NICK|M|True
+414|ADAM|This happens?|speech|ADAM|M|True
 415|NICK|"Yes. And the best thing for us to
 do is to stay put. The universe
 will eventually reverse itself and
 work out this little glitch.
-Nick sits down, looking satisfied in his know-it-all-ness."|speech|NICK|M
-416|ADAM|This is a big glitch.|speech|ADAM|M
+Nick sits down, looking satisfied in his know-it-all-ness."|speech|NICK|M|True
+416|ADAM|This is a big glitch.|speech|ADAM|M|True
 417|JACOB|"Yeah, you're an idiot. Black holes
-are in space. Not at a ski resort."|speech|JACOB|M
+are in space. Not at a ski resort."|speech|JACOB|M|True
 418|"LOU
 (HOPEFUL)"|"So does this mean we get to go to
 girls' locker rooms and see them
 naked and they can't see us?
-40."|speech|LOU|M
+40."|speech|LOU|M|True
 419|JACOB|"No, we traveled through time.
 We're not invisible.
-Lou looks upset."|speech|JACOB|M
+Lou looks upset."|speech|JACOB|M|True
 420|LOU|"(under his breath)
-I'm still gonna do it."|speech|LOU|M
+I'm still gonna do it."|speech|LOU|M|True
 421|ADAM|"Guys, ignoring the ridiculousness
-of how we got here for a moment--"|speech|ADAM|M
-422|NICK|Black hole.|speech|NICK|M
+of how we got here for a moment--"|speech|ADAM|M|True
+422|NICK|Black hole.|speech|NICK|M|True
 423|ADAM|"How are we supposed to get back?
-For a moment, everyone sits and absorbs the question. Then:"|speech|ADAM|M
-424|LOU|We find a scientist.|speech|LOU|M
-425||INT. IBM / RECEPTION - LATE AFTERNOON|location||
+For a moment, everyone sits and absorbs the question. Then:"|speech|ADAM|M|True
+424|LOU|We find a scientist.|speech|LOU|M|True
+425||INT. IBM / RECEPTION - LATE AFTERNOON|location|||
 426|CUT TO:|"Our guys WAIT NERVOUSLY near a RECEPTION DESK, above which is
-the ""IBM"" logo. Lou reads a MAGAZINE."|speech|CUT TO:|?
+the ""IBM"" logo. Lou reads a MAGAZINE."|speech|CUT TO:|?|True
 427|LOU|"This Dukakis guy seems like he
 might be the real deal.
 An affable MAN IN A SUIT approaches.
 MAN IN SUIT
-Gentlemen, how may I help you?"|speech|LOU|M
+Gentlemen, how may I help you?"|speech|LOU|M|True
 428|NICK|"We're waiting for a scientist.
 MAN IN SUIT
-I am a scientist."|speech|NICK|M
-429|LOU|Where's your white coat?|speech|LOU|M
+I am a scientist."|speech|NICK|M|True
+429|LOU|Where's your white coat?|speech|LOU|M|True
 430|SCIENTIST|"I'm not that kind of scientist.
 41.
-Lou stands up and throws down his magazine."|speech|SCIENTIST|M
-431|LOU|This is bullshit! I told you--|speech|LOU|M
-432|ADAM|Wait a minute. Just tell him.|speech|ADAM|M
-433|NICK|OK. You tell him, Adam.|speech|NICK|M
-434|ADAM|Sir, we...|speech|ADAM|M
-435|(EMBARRASSED)|This is ridiculous.|speech||
+Lou stands up and throws down his magazine."|speech|SCIENTIST|M|
+431|LOU|This is bullshit! I told you--|speech|LOU|M|True
+432|ADAM|Wait a minute. Just tell him.|speech|ADAM|M|True
+433|NICK|OK. You tell him, Adam.|speech|NICK|M|True
+434|ADAM|Sir, we...|speech|ADAM|M|True
+435|(EMBARRASSED)|This is ridiculous.|speech|||
 436|SCIENTIST|"Nothing's too ridiculous in the
-name of science."|speech|SCIENTIST|M
-437|JACOB|We're from the future.|speech|JACOB|M
-438|SCIENTIST|Get the fuck out of here.|speech|SCIENTIST|M
-439||EXT. IBM OFFICE PARK - LATE AFTERNOON|location||
-440|SCIENTIST|A SECURITY GUARD escorts our guys out of the building.|speech|SCIENTIST|M
+name of science."|speech|SCIENTIST|M|
+437|JACOB|We're from the future.|speech|JACOB|M|True
+438|SCIENTIST|Get the fuck out of here.|speech|SCIENTIST|M|
+439||EXT. IBM OFFICE PARK - LATE AFTERNOON|location|||
+440|SCIENTIST|A SECURITY GUARD escorts our guys out of the building.|speech|SCIENTIST|M|
 441|ADAM|"That went well.
-Lou starts walking off by himself."|speech|ADAM|M
+Lou starts walking off by himself."|speech|ADAM|M|True
 442|"NICK
 (TO LOU)"|"Where are you going?
-Lou points to his watch."|speech|NICK|M
+Lou points to his watch."|speech|NICK|M|True
 443|LOU|"Five o'clock. Happy hour.
-The guys look at him, confused."|speech|LOU|M
+The guys look at him, confused."|speech|LOU|M|True
 444|LOU (CONT'D)|"If it's '87, the PF Chang's will be
 gone, which means the Brew Haus
-still stands."|speech|LOU|M
+still stands."|speech|LOU|M|True
 445|(THEN)|"It's Saturday. They have wet T-
 shirt contests on Saturdays.
 42.
-The guys' eyebrows raise. After a moment:"|speech||
+The guys' eyebrows raise. After a moment:"|speech|||
 446|ADAM|"Well, maybe one drink. Just to
-confirm."|speech|ADAM|M
-447||INT. BREW HAUS - HAPPY HOUR|location||
+confirm."|speech|ADAM|M|True
+447||INT. BREW HAUS - HAPPY HOUR|location|||
 448|ADAM|"SPLASH! A WET T-SHIRT CONTEST is underway on a STAGE.
 Whitesnake on the juke, PAC MAN on the tables, and cheap
 beers in the mugs - this is an amazing brew pub.
@@ -1232,311 +1232,311 @@ Our guys sit in the back, wearing PINE VALLEY LODGE shirts.
 There are MANY EMPTIES on the table and they look VERY DRUNK.
 In a roped-off area in the corner, a cocky YOUNGER PHIL (the
 one-armed bellhop) wields a CHAINSAW that he uses to carve an
-ICE SCULPTURE, impressing the bar crowd. He has BOTH ARMS."|speech|ADAM|M
-449|NICK|Holy shit. It's that bellhop.|speech|NICK|M
-450|JACOB|Should we warn him?|speech|JACOB|M
+ICE SCULPTURE, impressing the bar crowd. He has BOTH ARMS."|speech|ADAM|M|True
+449|NICK|Holy shit. It's that bellhop.|speech|NICK|M|True
+450|JACOB|Should we warn him?|speech|JACOB|M|True
 451|"ADAM
 (COVERS EYES)"|"I don't want to see this go down.
 Phil TOSSES THE CHAINSAW IN THE AIR and...
 He expertly CATCHES IT, seamlessly continuing to carve. A
-GIRL leans in and gives him a kiss."|speech|ADAM|M
+GIRL leans in and gives him a kiss."|speech|ADAM|M|True
 452|LOU|"Fuck that guy.
 ON THE STAGE, TWO GIRLS compete for wettest t-shirt. They
-both decide that NO T-SHIRT is the wettest option."|speech|LOU|M
-453|NICK|God bless our country.|speech|NICK|M
+both decide that NO T-SHIRT is the wettest option."|speech|LOU|M|True
+453|NICK|God bless our country.|speech|NICK|M|True
 454|ADAM|"(in a daze)
-We're in 1987."|speech|ADAM|M
+We're in 1987."|speech|ADAM|M|True
 455|JACOB|"You can stop saying that. I don't
 think it's making a difference.
-43."|speech|JACOB|M
+43."|speech|JACOB|M|True
 456|ADAM|"Seriously, we have to get back.
 (kinda losing it)
 We seriously have to get back!
-The guys subdue Adam, as a BIG-HAIRED WAITRESS brings drinks."|speech|ADAM|M
+The guys subdue Adam, as a BIG-HAIRED WAITRESS brings drinks."|speech|ADAM|M|True
 457|WAITRESS|"Here ya go, guys. Three Buds, one
 Bartles and James.
-The guys all stare at her like she's a museum artifact."|speech|WAITRESS|M
+The guys all stare at her like she's a museum artifact."|speech|WAITRESS|M|
 458|WAITRESS (CONT'D)|"What? I have lipstick on my teeth?
 Nick sips his WINE COOLER, feeling the eyes of the others on
-him."|speech|WAITRESS|M
+him."|speech|WAITRESS|M|
 459|NICK|"Hey, if it's available, I'm
 ordering it. I always wanted one
 of these when I was little.
 The waitress puts down the CHECK. Jacob picks it up,
-realizing something."|speech|NICK|M
+realizing something."|speech|NICK|M|True
 460|JACOB|"(to the waitress)
 Can you give us a second?
-She walks away, as Jacob turns to the guys."|speech|JACOB|M
+She walks away, as Jacob turns to the guys."|speech|JACOB|M|True
 461|JACOB (CONT'D)|"This is gonna be a problem.
-He takes out his wallet, showing his CREDIT CARDS and CASH."|speech|JACOB|M
+He takes out his wallet, showing his CREDIT CARDS and CASH."|speech|JACOB|M|True
 462|JACOB (CONT'D)|"Guys, we're in trouble. Our cards
 aren't gonna work and our new money
 looks fake.
 The guys look concerned, but then Nick notices something:
-A TABLE FULL OF JAPANESE BUSINESSMEN."|speech|JACOB|M
+A TABLE FULL OF JAPANESE BUSINESSMEN."|speech|JACOB|M|True
 463|NICK|"I've got an idea.
 As Nick gets up and approaches the businessmen, Adam looks
 around the room and by the bar, he spots --
 44.
 Jennie.
-He stares at her from across the room. Lou and Jacob notice."|speech|NICK|M
+He stares at her from across the room. Lou and Jacob notice."|speech|NICK|M|True
 464|ADAM|"I still can't believe it's really
-her!"|speech|ADAM|M
-465|LOU|She's aged remarkably well.|speech|LOU|M
+her!"|speech|ADAM|M|True
+465|LOU|She's aged remarkably well.|speech|LOU|M|True
 466|(REMEMBERS)|"Oh, right. Why don't you just go
-talk to her?"|speech||
+talk to her?"|speech|||
 467|ADAM|"I should go talk to her. To
 apologize, of course. You know,
-nothing inappropriate."|speech|ADAM|M
+nothing inappropriate."|speech|ADAM|M|True
 468|LOU|"Sure...
 Adam GETS UP. He slowly makes his way over across the room.
 Jennie is talking to TWO OTHER GIRLS as Adam approaches. He
 lurks near them like a creep. Jennie eventually notices him,
-as he keeps stealing glances. She doesn't look happy."|speech|LOU|M
+as he keeps stealing glances. She doesn't look happy."|speech|LOU|M|True
 469|"JENNIE
 (TO ADAM)"|"Listen putz, if you're gonna try to
 attack me again, my boyfriend will
 be here soon. He'll kick your ass.
-Adam tries to be casual."|speech|JENNIE|F
+Adam tries to be casual."|speech|JENNIE|F|True
 470|ADAM|"No, no. No ass kicking. I just
 wanted to say I'm sorry about
 earlier. I lost control of the old
-skis there."|speech|ADAM|M
+skis there."|speech|ADAM|M|True
 471|(LAUGHS NERVOUSLY)|"Looks like I shoulda taken another
-one of your classes!"|speech||
-472|JENNIE|When did you take my class?|speech|JENNIE|F
+one of your classes!"|speech|||
+472|JENNIE|When did you take my class?|speech|JENNIE|F|True
 473|ADAM|"Certainly not when I was a kid! I
 mean, that would make no sense!
 Adam tries to recover.
-45."|speech|ADAM|M
+45."|speech|ADAM|M|True
 474|ADAM (CONT'D)|"I was here for a convention. Power
 tools. And regular tools. All
 sorts of tools. I'm big into
 tools. It was a couple years ago.
-Jennie looks very suspect of Adam."|speech|ADAM|M
+Jennie looks very suspect of Adam."|speech|ADAM|M|True
 475|JENNIE|"Yeah, OK. Have a good night.
-Jennie starts to walk away with her friends."|speech|JENNIE|F
+Jennie starts to walk away with her friends."|speech|JENNIE|F|True
 476|"ADAM
 (TOO FRIENDLY)"|"Hey, where ya going?
-She ignores him, but one of her friends quietly lags behind."|speech|ADAM|M
+She ignores him, but one of her friends quietly lags behind."|speech|ADAM|M|True
 477|JENNIE'S FRIEND|"(quietly, to Adam)
 Are you with that guy over there?
-She discretely points out Jacob."|speech|JENNIE'S FRIEND|?
+She discretely points out Jacob."|speech|JENNIE'S FRIEND|?|
 478|ADAM|"Yeah, he's my brother.
-She takes Adam's PALM and writes something on it."|speech|ADAM|M
+She takes Adam's PALM and writes something on it."|speech|ADAM|M|True
 479|JENNIE'S FRIEND|"There's a party later tonight at
 this address. Make sure he comes
 with you. He's way boss!
-Adam walks back to his friends."|speech|JENNIE'S FRIEND|?
+Adam walks back to his friends."|speech|JENNIE'S FRIEND|?|
 480|JACOB|"How'd it go?
-He shows them his palm."|speech|JACOB|M
-481|ADAM|We got invited to a party later.|speech|ADAM|M
+He shows them his palm."|speech|JACOB|M|True
+481|ADAM|We got invited to a party later.|speech|ADAM|M|True
 482|LOU|"sweet! What are we gonna do until
-then?"|speech|LOU|M
+then?"|speech|LOU|M|True
 483|ADAM|"How about figure out how the hell
 to get back to the present day?
 Nick walks back to the table and SLAMS down a pile of CASH.
-46."|speech|ADAM|M
-484|NICK|Bam!|speech|NICK|M
-485|LOU|We're millionaires!|speech|LOU|M
-486|NICK|Close. It's a thousand bucks.|speech|NICK|M
+46."|speech|ADAM|M|True
+484|NICK|Bam!|speech|NICK|M|True
+485|LOU|We're millionaires!|speech|LOU|M|True
+486|NICK|Close. It's a thousand bucks.|speech|NICK|M|True
 487|ADAM|"Where did you get that money?
-Nick points out the Japanese Businessmen."|speech|ADAM|M
+Nick points out the Japanese Businessmen."|speech|ADAM|M|True
 488|"NICK
 (PROUDLY)"|"Sold them my iPod.
-Jacob looks incredulous."|speech|NICK|M
-489|JACOB|That was NOT a good idea!|speech|JACOB|M
+Jacob looks incredulous."|speech|NICK|M|True
+489|JACOB|That was NOT a good idea!|speech|JACOB|M|True
 490|LOU|"I agree. You left so much money on
 the table. It's a fucking iPod!
-You could've gotten a LOT more!"|speech|LOU|M
-491|JACOB|That's not what I--|speech|JACOB|M
+You could've gotten a LOT more!"|speech|LOU|M|True
+491|JACOB|That's not what I--|speech|JACOB|M|True
 492|ADAM|"(looking at watch)
 Fellas, we are not making progress
-and we're losing time."|speech|ADAM|M
+and we're losing time."|speech|ADAM|M|True
 493|NICK|"Adam, don't worry. Time's not
-moving forward in the future."|speech|NICK|M
+moving forward in the future."|speech|NICK|M|True
 494|JACOB|"Uh, yeah it is. Lest we forget the
-lessons learned from Bill and Ted."|speech|JACOB|M
+lessons learned from Bill and Ted."|speech|JACOB|M|True
 495|NICK|"Well then I give you Back to the
-Future."|speech|NICK|M
+Future."|speech|NICK|M|True
 496|JACOB|"That's not fair. You can't go
-right to Back to the Future."|speech|JACOB|M
+right to Back to the Future."|speech|JACOB|M|True
 497|NICK|"Why not?
-47."|speech|NICK|M
+47."|speech|NICK|M|True
 498|JACOB|"Back to the Future had a time
-machine."|speech|JACOB|M
-499|NICK|Well so did Bill and Ted.|speech|NICK|M
+machine."|speech|JACOB|M|True
+499|NICK|Well so did Bill and Ted.|speech|NICK|M|True
 500|"ADAM
 (REALIZES)"|"Wait, that's it! I can't believe
 I'm about to say this, but I think
-we have a time machine."|speech|ADAM|M
+we have a time machine."|speech|ADAM|M|True
 501|NICK|"Adam, all we did is get drunk in
 the hot tub.
-Everyone's EYES GO WIDE."|speech|NICK|M
+Everyone's EYES GO WIDE."|speech|NICK|M|True
 502|LOU|"(puts it together)
-A hot tub time machine."|speech|LOU|M
-503||EXT. PINE VALLEY INN / PATIO - EARLY EVENING|location||
-504|CUT TO:|All four guys soak in the tub. They TOAST with drinks.|speech|CUT TO:|?
+A hot tub time machine."|speech|LOU|M|True
+503||EXT. PINE VALLEY INN / PATIO - EARLY EVENING|location|||
+504|CUT TO:|All four guys soak in the tub. They TOAST with drinks.|speech|CUT TO:|?|True
 505|ADAM|"Here goes nothing!
 They simultaneously DOWN their drinks. Nothing happens.
 Like the chimps in 2001, each of them begins FIDDLING WITH
 KNOBS and PUSHING ON LIGHTS, trying to find the magic button.
-After a few moments:"|speech|ADAM|M
+After a few moments:"|speech|ADAM|M|True
 506|NICK|"Well, it was worth a shot.
 ANGLE WIDENS to reveal other PEOPLE in the tub. A GUY AND
 GIRL make out, two STONERS pass a joint, and one TOPLESS
-CHICK just chills out."|speech|NICK|M
+CHICK just chills out."|speech|NICK|M|True
 507|LOU|"(stares at girl)
 I love this place.
-As Lou pours himself another, Adam starts to lose it again."|speech|LOU|M
+As Lou pours himself another, Adam starts to lose it again."|speech|LOU|M|True
 508|ADAM|"Guys, we're running out of ideas
-here!"|speech|ADAM|M
-509|(MORE)|48.|speech||
+here!"|speech|ADAM|M|True
+509|(MORE)|48.|speech|||
 510|ADAM (CONT'D)|"I mean we tried the scientist, the
 tub -- what the fuck do we do next?
-Lou DOWNS ANOTHER SHOT and gets a crazy look in his eye."|speech|ADAM|M
-511|LOU|I know what we do next.|speech|LOU|M
-512||EXT. PARKING LOT - EARLY EVENING|location||
+Lou DOWNS ANOTHER SHOT and gets a crazy look in his eye."|speech|ADAM|M|True
+511|LOU|I know what we do next.|speech|LOU|M|True
+512||EXT. PARKING LOT - EARLY EVENING|location|||
 513|CUT TO:|"A DELOREAN is parked in the empty lot. Adam, Nick, and Jacob
 look at it, drunkenly and bleary-eyed. Adam and Nick trade
 swigs from a BOTTLE OF WHISKEY.
-The gull wing door opens and Lou steps out, in a foul mood."|speech|CUT TO:|?
+The gull wing door opens and Lou steps out, in a foul mood."|speech|CUT TO:|?|True
 514|LOU|"Rental car agency fucked us!
 There's no flux capacitor.
 Lou pulls Jacob over and straps him in the driver's seat,
-before walking around to the passenger side."|speech|LOU|M
+before walking around to the passenger side."|speech|LOU|M|True
 515|LOU (CONT'D)|"(to Adam and Nick)
 We'll travel to 2010. Then one of
 us will come back and get one of
-you. And so on and so forth."|speech|LOU|M
-516||INT. DELOREAN - EARLY EVENING|location||
-517|LOU (CONT'D)|Lou sits in the passenger seat next to Jacob.|speech|LOU|M
+you. And so on and so forth."|speech|LOU|M|True
+516||INT. DELOREAN - EARLY EVENING|location|||
+517|LOU (CONT'D)|Lou sits in the passenger seat next to Jacob.|speech|LOU|M|True
 518|LOU|"Go light on the clutch. I don't
 wanna lose our deposit.
-Jacob starts the car."|speech|LOU|M
-519||EXT. PARKING LOT - SAME TIME|location||
-520|LOU|Adam and Nick watch the car pull out of the parking lot.|speech|LOU|M
+Jacob starts the car."|speech|LOU|M|True
+519||EXT. PARKING LOT - SAME TIME|location|||
+520|LOU|Adam and Nick watch the car pull out of the parking lot.|speech|LOU|M|True
 521|"ADAM
 (SOBERING SLIGHTLY)"|"This will not end well.
-49."|speech|ADAM|M
-522||INT./EXT. DELOREAN - SAME TIME|location||
+49."|speech|ADAM|M|True
+522||INT./EXT. DELOREAN - SAME TIME|location|||
 523|"ADAM
 (SOBERING SLIGHTLY)"|"Jacob and Lou hit the road, picking up speed. They pass a
-COP, who pulls out, turning on his LIGHTS AND SIREN."|speech|ADAM|M
+COP, who pulls out, turning on his LIGHTS AND SIREN."|speech|ADAM|M|True
 524|LOU|"Oh shit, they found me! I don't
-know how but they found me!"|speech|LOU|M
+know how but they found me!"|speech|LOU|M|True
 525|(LAUGHS)|"I always wanted to say that. Punch
 it!
-Jacob HITS THE GAS."|speech||
+Jacob HITS THE GAS."|speech|||
 526|LOU (CONT'D)|"Let's see the look on this pig's
 face when we hit 88 and disappear
 into thin air! Yeah!
 The SPEEDOMETER hits 75, 80, 85, and then 90. And then 95.
-The car SHAKES VIOLENTLY."|speech|LOU|M
+The car SHAKES VIOLENTLY."|speech|LOU|M|True
 527|"LOU (CONT'D)
 (SURPRISED)"|"This thing's a piece of shit.
-Up ahead, the ROAD CURVES DRASTICALLY."|speech|LOU|M
-528|JACOB|Hey Lou?|speech|JACOB|M
-529|LOU|Yeah?|speech|LOU|M
+Up ahead, the ROAD CURVES DRASTICALLY."|speech|LOU|M|True
+528|JACOB|Hey Lou?|speech|JACOB|M|True
+529|LOU|Yeah?|speech|LOU|M|True
 530|"JACOB
 (VERY CALM)"|"We're doing a hundred. I can't
-control this car."|speech|JACOB|M
+control this car."|speech|JACOB|M|True
 531|"LOU
-(NODS)"|I hear ya.|speech|LOU|M
-532||EXT. ROAD - EARLY EVENING|location||
+(NODS)"|I hear ya.|speech|LOU|M|True
+532||EXT. ROAD - EARLY EVENING|location|||
 533|"LOU
 (NODS)"|"The Delorean BRAKES, but doesn't make the turn. It FLIPS
 OVER in a fantastic disaster and comes to a stop in a DITCH.
 The COP pulls over, gets out of his car, and DRAWS HIS GUN.
-50."|speech|LOU|M
-534||EXT. PARKING LOT - EARLY EVENING|location||
+50."|speech|LOU|M|True
+534||EXT. PARKING LOT - EARLY EVENING|location|||
 535|"LOU
-(NODS)"|Adam and Nick watch the accident from a distance.|speech|LOU|M
-536|ADAM|So do you think we should run away?|speech|ADAM|M
-537||INT. PINE VALLEY INN / SUITE - LATER THAT NIGHT|location||
+(NODS)"|Adam and Nick watch the accident from a distance.|speech|LOU|M|True
+536|ADAM|So do you think we should run away?|speech|ADAM|M|True
+537||INT. PINE VALLEY INN / SUITE - LATER THAT NIGHT|location|||
 538|ADAM|"Looking ragged as hell, the four guys walk into the room and
-silently collapse on various BEDS and COUCHES."|speech|ADAM|M
+silently collapse on various BEDS and COUCHES."|speech|ADAM|M|True
 539|LOU|"I wonder if we'll still be here for
-our court appearance."|speech|LOU|M
+our court appearance."|speech|LOU|M|True
 540|ADAM|"If we're still here in four months,
 I will happily go to jail, because
 I'll be fucked anyway.
 A GUY walks out of the bathroom, wearing only a TOWEL. He
-looks startled."|speech|ADAM|M
+looks startled."|speech|ADAM|M|True
 541|TOWEL GUY|"Who the hell are you dweebs?!
 Lou is up IN A FLASH. He IMMEDIATELY DECKS THE GUY OUT COLD
-and PUMMELS HIM on the floor! The others pull him off."|speech|TOWEL GUY|M
-542|NICK|Jesus Christ, what the hell, Lou?!|speech|NICK|M
-543|LOU|I have no tolerance for intruders.|speech|LOU|M
+and PUMMELS HIM on the floor! The others pull him off."|speech|TOWEL GUY|M|
+542|NICK|Jesus Christ, what the hell, Lou?!|speech|NICK|M|True
+543|LOU|I have no tolerance for intruders.|speech|LOU|M|True
 544|NICK|"This is probably his room! We're
 not registered here in 87.
-Lou thinks for a moment and looks a ""little"" sorry."|speech|NICK|M
-545|LOU|I'm still pretty OK with it.|speech|LOU|M
-546|ADAM|You have a problem.|speech|ADAM|M
+Lou thinks for a moment and looks a ""little"" sorry."|speech|NICK|M|True
+545|LOU|I'm still pretty OK with it.|speech|LOU|M|True
+546|ADAM|You have a problem.|speech|ADAM|M|True
 547|LOU|"Just help me put him outside.
-51."|speech|LOU|M
-548||INT. PINE VALLEY INN / HALLWAY - MOMENTS LATER|location||
+51."|speech|LOU|M|True
+548||INT. PINE VALLEY INN / HALLWAY - MOMENTS LATER|location|||
 549|LOU|"The guys open the door to the suite and find TWO DUDES
-walking by. Adam stops them."|speech|LOU|M
+walking by. Adam stops them."|speech|LOU|M|True
 550|"ADAM
 (AWKWARDLY)"|"Hey. Dudes. Our friend's...
 hellaciously wasted. He partied
 pretty hearty... to the max. To
-the extreme max."|speech|ADAM|M
-551|DUDE #1|Bodacious.|speech|DUDE #1|?
+the extreme max."|speech|ADAM|M|True
+551|DUDE #1|Bodacious.|speech|DUDE #1|?|
 552|ADAM|"So you guys wanna fuck with him or
-what?"|speech|ADAM|M
+what?"|speech|ADAM|M|True
 553|DUDE #2|"Excellent.
 The dudes take custody of the passed out TOWEL GUY and
-continue on down the hall, as our guys go back inside."|speech|DUDE #2|?
-554||INT. PINE VALLEY INN / SUITE - NIGHT|location||
-555|DUDE #2|The guys look physically exhausted.|speech|DUDE #2|?
+continue on down the hall, as our guys go back inside."|speech|DUDE #2|?|
+554||INT. PINE VALLEY INN / SUITE - NIGHT|location|||
+555|DUDE #2|The guys look physically exhausted.|speech|DUDE #2|?|
 556|NICK|"Let's just go to sleep. We'll
 figure everything out in the
 morning. It's pretty late.
-Jacob checks his watch, rolling his eyes."|speech|NICK|M
+Jacob checks his watch, rolling his eyes."|speech|NICK|M|True
 557|JACOB|"It's 8:45.
-The other guys look at their watches, surprised."|speech|JACOB|M
-558|NICK|Why am I so wiped out?|speech|NICK|M
-559|JACOB|Because you're old and lame?|speech|JACOB|M
+The other guys look at their watches, surprised."|speech|JACOB|M|True
+558|NICK|Why am I so wiped out?|speech|NICK|M|True
+559|JACOB|Because you're old and lame?|speech|JACOB|M|True
 560|LOU|"Yeah, fuck that, we're going to
-that party!"|speech|LOU|M
+that party!"|speech|LOU|M|True
 561|ADAM|"We are not going to the party.
-52."|speech|ADAM|M
+52."|speech|ADAM|M|True
 562|LOU|"Hear me out.
-Lou paces around the room like Patton addressing the troops."|speech|LOU|M
+Lou paces around the room like Patton addressing the troops."|speech|LOU|M|True
 563|LOU (CONT'D)|"We saw the scientist. He was
 worthless. We tried the tub. Dead
 end. I got us a fucking time
 machine. From Hertz. It might as
 well have been a Nissan.
-Adam shakes his head, as Lou continues."|speech|LOU|M
+Adam shakes his head, as Lou continues."|speech|LOU|M|True
 564|LOU (CONT'D)|"Gentlemen, it's fucking 1987.
 Nixon's in the White House, gas is
 free, and we're about to put a man
-on the moon!"|speech|LOU|M
+on the moon!"|speech|LOU|M|True
 565|ADAM|"Did we go to the same school?
-Lou turns and addresses Adam directly."|speech|ADAM|M
+Lou turns and addresses Adam directly."|speech|ADAM|M|True
 566|LOU|"The point is you haven't even met
-your wife yet! She can't fault you"|speech|LOU|M
-567||for shit that went down 23 years|stage direction||
+your wife yet! She can't fault you"|speech|LOU|M|True
+567||for shit that went down 23 years|stage direction|||
 568|LOU|"ago! Even if 23 years ago somehow
 ends up being tonight!
 Adam starts listening a little more closely, as some of Lou's
-logic actually makes ""some"" sense."|speech|LOU|M
+logic actually makes ""some"" sense."|speech|LOU|M|True
 569|LOU (CONT'D)|"It's time to start facing the fact
 that we may not be going home. And
 if that's so, then we owe it to
 ourselves to make the best life we
 can for ourselves.
 The guys listen intently, as Lou's speech reaches a
-passionate climax."|speech|LOU|M
+passionate climax."|speech|LOU|M|True
 570|LOU (CONT'D)|"Because I don't want to be that
 college freshman who spends the
 first semester hiding in his dorm
 room, only to realize that come
-spring, he has no friends."|speech|LOU|M
-571|(MORE PASSIONATE)|No!|speech||
+spring, he has no friends."|speech|LOU|M|True
+571|(MORE PASSIONATE)|No!|speech|||
 572|(MORE)|"53.
 LOU (CONT' D )
 I want to be that college freshman
@@ -1544,162 +1544,162 @@ who fucks chicks way out of his
 league before they have an
 opportunity to realize he's not as
 cool as he's pretending to be!
-Nick nods. Even Jacob smiles."|speech||
-573|LOU (CONT'D)|Are you with me?|speech|LOU|M
+Nick nods. Even Jacob smiles."|speech|||
+573|LOU (CONT'D)|Are you with me?|speech|LOU|M|True
 574|"ADAM
-(CONFUSED)"|I don't know.|speech|ADAM|M
+(CONFUSED)"|I don't know.|speech|ADAM|M|True
 575|LOU|"Close enough. We'll talk some more
-at the party."|speech|LOU|M
-576||INT. HOUSE PARTY - NIGHT|location||
+at the party."|speech|LOU|M|True
+576||INT. HOUSE PARTY - NIGHT|location|||
 577|LOU|"It's like the 80s exploded. Music, clothes, hair, attitude --
 it's all on overdrive. In one section, PARTY-GOERS marvel at
 DUCK HUNT, while in another area, people make out and dance.
 Adam, Nick, Lou, and Jacob walk in the front door. They have
 updated their ""looks"" with 80s sweaters and other era-
 appropriate attire. They all look ridiculous, except for
-Jacob, whose youth lends him hipster appeal."|speech|LOU|M
+Jacob, whose youth lends him hipster appeal."|speech|LOU|M|True
 578|ADAM|"This sweater makes me look like a
-jerkof f ."|speech|ADAM|M
+jerkof f ."|speech|ADAM|M|True
 579|"LOU
 (BREATHES DEEPLY)"|"It's good to be home.
 In a corner, Phil puts his ARM in a SHARK TANK. Just as the
 shark goes to bite, he PULLS HIS ARM OUT, unscathed. A small
-crowd claps. Our guys are confused and upset."|speech|LOU|M
-580|NICK|Was this like an 80s thing?|speech|NICK|M
+crowd claps. Our guys are confused and upset."|speech|LOU|M|True
+580|NICK|Was this like an 80s thing?|speech|NICK|M|True
 581|LOU|"If he doesn't lose that arm soon,
 I'm gonna take it from him myself.
 With that, Lou wanders off toward another room, leering at
 and groping girls as he goes.
-54."|speech|LOU|M
+54."|speech|LOU|M|True
 582|"ADAM
 (RE: LOU)"|"He's gonna be a problem.
 Tad and Chaz walk over, looking dapper and douchey. They are
-excited to see Jacob."|speech|ADAM|M
-583|TAD|Hey, glad you could make it!|speech|TAD|M
+excited to see Jacob."|speech|ADAM|M|True
+583|TAD|Hey, glad you could make it!|speech|TAD|M|True
 584|"ADAM
-(ANNOYED)"|This is your party?|speech|ADAM|M
+(ANNOYED)"|This is your party?|speech|ADAM|M|True
 585|CHAZ|"Hey man, no hard feelings, all
 right? If your bro says you're
 cool, then we're cool.
-Tad puts his arm around Jacob and leads him into the party."|speech|CHAZ|M
+Tad puts his arm around Jacob and leads him into the party."|speech|CHAZ|M|True
 586|TAD|"There's some people I want you to
 meet. By the way, bodacious hair.
-Incredibly chic."|speech|TAD|M
+Incredibly chic."|speech|TAD|M|True
 587|"JACOB
 (FLATTERED)"|"Oh yeah? It doesn't really take
 that much product. It's all in the
-layering."|speech|JACOB|M
+layering."|speech|JACOB|M|True
 588|TAD|"Whoa. Product. You're blowing my
 mind right now. Did you spend time
-in Europe?"|speech|TAD|M
+in Europe?"|speech|TAD|M|True
 589|CHAZ|"Don't tell me. Prague. Do you
-want some coke?"|speech|CHAZ|M
-590|JACOB|Do you have Coke Zero?|speech|JACOB|M
+want some coke?"|speech|CHAZ|M|True
+590|JACOB|Do you have Coke Zero?|speech|JACOB|M|True
 591|TAD|"Ah, a conscientious objector. I
 like that. Gotta stay sharp.
 IN THE KITCHEN
 Nick mixes something in a large bowl, as plenty of EAGER
 PARTY-GOERS look on. He pours a red liquid into a tray of
 CUPS. An attractive PARTY CHICK follows his every move.
-55."|speech|TAD|M
-592|NICK|These will be ready in 15 minutes.|speech|NICK|M
+55."|speech|TAD|M|True
+592|NICK|These will be ready in 15 minutes.|speech|NICK|M|True
 593|PARTY CHICK|"(putting it together)
-So it's like jello. With vodka."|speech|PARTY CHICK|M
+So it's like jello. With vodka."|speech|PARTY CHICK|M|
 594|NICK|"Mmm hmm. You get drunk while you
-enjoy a delicious gelatin snack."|speech|NICK|M
+enjoy a delicious gelatin snack."|speech|NICK|M|True
 595|PARTY CHICK|"How come no one ever thought of
-this before?"|speech|PARTY CHICK|M
+this before?"|speech|PARTY CHICK|M|
 596|NICK|"Don't know. I just invented it.
-Party chick looks into his eyes, dreamily."|speech|NICK|M
-597|PARTY CHICK|I appreciate you.|speech|PARTY CHICK|M
+Party chick looks into his eyes, dreamily."|speech|NICK|M|True
+597|PARTY CHICK|I appreciate you.|speech|PARTY CHICK|M|
 598|NICK|"(way too heartfelt)
 I love you.
 IN THE LIVING ROOM
 Lou PLAYS AN ELECTRIC KEYBOARD for about 15-20 people. He's
 performing Ace of Base's ""The Sign"" and SINGING PASSIONATELY.
-Adam walks up to where Jacob aims a large VIDEO CAMERA."|speech|NICK|M
+Adam walks up to where Jacob aims a large VIDEO CAMERA."|speech|NICK|M|True
 599|JACOB|"He did a bunch of drugs and went on
 a rant about how much he resents
-Ace of Base."|speech|JACOB|M
-600|ADAM|That band's from the 90s.|speech|ADAM|M
+Ace of Base."|speech|JACOB|M|True
+600|ADAM|That band's from the 90s.|speech|ADAM|M|True
 601|JACOB|"I know. He made me borrow Tad's
 video camera. He wants to document
 the performance and sue the band
 for infringement when we get back.
 Adam sees Tad and Chaz behaving like cocks across the room,
 making hot girls drink too much.
-56."|speech|JACOB|M
+56."|speech|JACOB|M|True
 602|ADAM|"(re: Tad and Chaz)
-So, you like these guys?"|speech|ADAM|M
+So, you like these guys?"|speech|ADAM|M|True
 603|JACOB|"They're rich, popular, and they
 shower me with compliments.
 They're pretty much the best
 friends I've ever had.
 ON A BALCONY
 A CROWD gathers around Phil, who has removed the cover of a
-SPINNING INDUSTRIAL FAN."|speech|JACOB|M
+SPINNING INDUSTRIAL FAN."|speech|JACOB|M|True
 604|CROWD|"Phil! Phil! Phil!
 Like a zen master, Phil reaches out and GRABS A FAN BLADE,
 stopping the fan WITHOUT INJURY. Everyone celebrates!
 IN THE KITCHEN
 Nick holds up a HOMEMADE BEER BONG, from which he drinks. He
-has his own CROWD rooting him on."|speech|CROWD|M
+has his own CROWD rooting him on."|speech|CROWD|M|
 605|NICK'S CROWD|"Nick! Nick! Nick!
-He finishes the last of the beer, and the crowd celebrates."|speech|NICK'S CROWD|?
+He finishes the last of the beer, and the crowd celebrates."|speech|NICK'S CROWD|?|
 606|PARTY GUY|"This guy should be in charge of
-everything!"|speech|PARTY GUY|?
+everything!"|speech|PARTY GUY|?|
 607|NICK|"I should.
 IN THE LIVING ROOM
 Lou SITS ON A COUCH with Michelle, one of the girls we met
 earlier at the lodge. Her friend Sandy sits across from them
-next to Jacob, who looks uncomfortable."|speech|NICK|M
+next to Jacob, who looks uncomfortable."|speech|NICK|M|True
 608|SANDY|"Truth or dare?
-Lou confers with Michelle before answering."|speech|SANDY|M
+Lou confers with Michelle before answering."|speech|SANDY|M|True
 609|LOU|"Dare.
 57.
 Sandy and Jacob confer, figuring out the dare. Lou meets
-Jacob's eyes -- he smiles, knowing Jacob has his back."|speech|LOU|M
+Jacob's eyes -- he smiles, knowing Jacob has his back."|speech|LOU|M|True
 610|SANDY|"OK, we dare Lou to put a Twizzler
 up his ass.
-Lou stands up and angrily points at Jacob."|speech|SANDY|M
+Lou stands up and angrily points at Jacob."|speech|SANDY|M|True
 611|LOU|"You son of a bitch! Have you ever
 played this game before? It's
 supposed to be awesome!
 Lou nevertheless grabs a TWIZZLER from the snack bowl and
 shoves it down the back of his pants. His face contorts
-uncomfortably and he is almost on the verge of tears."|speech|LOU|M
+uncomfortably and he is almost on the verge of tears."|speech|LOU|M|True
 612|LOU (CONT'D)|"This is a horrible thing you're
 doing and I hope you never have to
 experience what I am currently
 going through.
-Lou sits down and Michelle consoles him."|speech|LOU|M
+Lou sits down and Michelle consoles him."|speech|LOU|M|True
 613|MICHELLE|"Your turn! Truth or dare?
-Before Sandy can even confer with Jacob:"|speech|MICHELLE|M
+Before Sandy can even confer with Jacob:"|speech|MICHELLE|M|
 614|"JACOB
 (SMILES)"|"Truth.
 Lou throws up his hands in frustration. He looks miserable,
-as Michelle confers with him."|speech|JACOB|M
+as Michelle confers with him."|speech|JACOB|M|True
 615|LOU|"(grumbling to Michelle)
 I don't care. Whatever. This is
-not the point of the game."|speech|LOU|M
+not the point of the game."|speech|LOU|M|True
 616|MICHELLE|"OK, each of you has to tell your
 darkest, most personal secret.
 Lou crosses his arms and shakes his head.
-58."|speech|MICHELLE|M
+58."|speech|MICHELLE|M|
 617|JACOB|"Oh wow, all right. Let me think.
 I've never told anyone this, but I
 was afraid of scary movies until I
 was 18. I even ran out of the
-theater a couple of times."|speech|JACOB|M
+theater a couple of times."|speech|JACOB|M|True
 618|SANDY|"Oh you poor thing! Come here...
 She takes Jacob's head to her chest and strokes it gently.
-Lou makes a jerk-off gesture."|speech|SANDY|M
+Lou makes a jerk-off gesture."|speech|SANDY|M|True
 619|"SANDY (CONT'D)
-(SHY)"|I'm not sure I should tell mine.|speech|SANDY|M
-620|MICHELLE|Come on! You have to!|speech|MICHELLE|M
-621|SANDY|OK, but you can't laugh.|speech|SANDY|M
+(SHY)"|I'm not sure I should tell mine.|speech|SANDY|M|True
+620|MICHELLE|Come on! You have to!|speech|MICHELLE|M|
+621|SANDY|OK, but you can't laugh.|speech|SANDY|M|True
 622|"LOU
-(WHO CARES)"|We promise. Let's hear it.|speech|LOU|M
+(WHO CARES)"|We promise. Let's hear it.|speech|LOU|M|True
 623|SANDY|"So this one time me and my friend
 Lori took a train to Baltimore. It
 was the summer and we wanted to
@@ -1710,23 +1710,23 @@ told him that we'd give him a half
 and half for seventy-five dollars.
 You know -- a suck and fuck.
 Lou and Jacob look shocked with the MATTER OF FACT
-storytelling. Michelle smiles. She's heard it before."|speech|SANDY|M
+storytelling. Michelle smiles. She's heard it before."|speech|SANDY|M|True
 624|SANDY (CONT'D)|"Anyway, we get him up to his room
 and Lori starts going down on him,
 but I really wasn't into it. So I
 broke a piece of the bathroom
 mirror and used it to cut his
 artery on the-heck. Right here...
-She rubs Jacob's neck, pointing it out."|speech|SANDY|M
+She rubs Jacob's neck, pointing it out."|speech|SANDY|M|True
 625|SANDY (CONT'D)|"He bled for about an hour before he
-died."|speech|SANDY|M
-626|(MORE)|59.|speech||
+died."|speech|SANDY|M|True
+626|(MORE)|59.|speech|||
 627|SANDY (CONT'D)|"Afterwards, we took his wallet to
 the bar and found out he only had
 forty-seven dollars.
-Michelle GIGGLES."|speech|SANDY|M
+Michelle GIGGLES."|speech|SANDY|M|True
 628|SANDY (CONT'D)|"Michelle! You said you wouldn't
-laugh!"|speech|SANDY|M
+laugh!"|speech|SANDY|M|True
 629|"MICHELLE
 (GIGGLING)"|"I'm sorry!
 Jacob and Lou look shell-shocked.
@@ -1737,129 +1737,129 @@ earning accolades from all his new fans.
 To Adam's RIGHT --
 The truth or dare game devolves, as Michelle PIERCES LOU'S
 EAR. He screams in pain, but at the end, he has a GOLD STUD
-in his RIGHT EAR. Lou points at Jacob."|speech|MICHELLE|M
-630|LOU|Fuck you, your turn.|speech|LOU|M
+in his RIGHT EAR. Lou points at Jacob."|speech|MICHELLE|M|
+630|LOU|Fuck you, your turn.|speech|LOU|M|True
 631|JACOB|"That's the gay ear, you know.
 As Adam looks STRAIGHT AHEAD --
 He sees Jennie all by herself, browsing the hosts' CASSETTE
 TAPE COLLECTION. Adam takes a moment to check himself. Then
 he reaches for his DRINK and GULPS THE WHOLE THING, before
-getting up and WALKING OVER to her, catching her off guard."|speech|JACOB|M
+getting up and WALKING OVER to her, catching her off guard."|speech|JACOB|M|True
 632|ADAM|"So I lied to you earlier. I wasn't
 here for a power tool convention.
-Jennie instinctively looks around for her friends."|speech|ADAM|M
+Jennie instinctively looks around for her friends."|speech|ADAM|M|True
 633|JENNIE|"I know. You don't look like you
 could handle power tools.
-60."|speech|JENNIE|F
+60."|speech|JENNIE|F|True
 634|ADAM|"The truth is, Jennie, I've always
 liked you. But I've never really
 known you. I really wasn't
-supposed to meet you again."|speech|ADAM|M
+supposed to meet you again."|speech|ADAM|M|True
 635|JENNIE|"Who are you?!
-Adam shrugs, indicating he might as well tell her."|speech|JENNIE|F
+Adam shrugs, indicating he might as well tell her."|speech|JENNIE|F|True
 636|ADAM|"I came here from the future.
-She rolls her eyes - she's heard all the one-liners."|speech|ADAM|M
+She rolls her eyes - she's heard all the one-liners."|speech|ADAM|M|True
 637|JENNIE|"Let me guess. You want to beam me
 up to your spaceship built for two?
 Or maybe you're wondering if these
-are astronaut pants?"|speech|JENNIE|F
-638|ADAM|Astronaut pants?|speech|ADAM|M
+are astronaut pants?"|speech|JENNIE|F|True
+638|ADAM|Astronaut pants?|speech|ADAM|M|True
 639|JENNIE|"Because my ass is out of this
 world? Give me a break, spaz.
 I've heard them all.
-She turns away. Adam goes after her."|speech|JENNIE|F
+She turns away. Adam goes after her."|speech|JENNIE|F|True
 640|ADAM|"No! No spaceship. No astronaut
 pants. Just regular time travel.
-With normal pants."|speech|ADAM|M
+With normal pants."|speech|ADAM|M|True
 641|JENNIE|"OK, what's the punch line?
-An ARM comes from behind and CHOKES ADAM. It's Blaine."|speech|JENNIE|F
+An ARM comes from behind and CHOKES ADAM. It's Blaine."|speech|JENNIE|F|True
 642|BLAINE|"I thought I told you to stay off my
-mountain, partner!"|speech|BLAINE|M
-643|JENNIE|Blaine, stop!|speech|JENNIE|F
+mountain, partner!"|speech|BLAINE|M|True
+643|JENNIE|Blaine, stop!|speech|JENNIE|F|True
 644|BLAINE|"You talking to my girl? Huh? I
 can't hear you.
 Adam fights to breathe, as Blaine chokes him harder.
-61."|speech|BLAINE|M
+61."|speech|BLAINE|M|True
 645|JENNIE|"Blaine, that's enough! Let him go!
 He can't breathe!
-Blaine doesn't stop. He smiles like an asshole."|speech|JENNIE|F
+Blaine doesn't stop. He smiles like an asshole."|speech|JENNIE|F|True
 646|BLAINE|"Can't breathe? Is that right? Can
 you breathe, partner? What's that?
 I can't hear you. Just tell me you
 can't breathe and I'll stop.
-Adam still struggles. Blaine just shrugs."|speech|BLAINE|M
+Adam still struggles. Blaine just shrugs."|speech|BLAINE|M|True
 647|BLAINE (CONT'D)|"He's not saying anything. I guess
 he can breathe.
-Jennie pulls on Blaine's arm, trying to free Adam."|speech|BLAINE|M
+Jennie pulls on Blaine's arm, trying to free Adam."|speech|BLAINE|M|True
 648|BLAINE (CONT'D)|"Babe, stop. Jennie, stop!
 Blaine turns and accidentally ELBOWS JENNIE in the face. She
-goes down. He releases Adam and turns to help her."|speech|BLAINE|M
+goes down. He releases Adam and turns to help her."|speech|BLAINE|M|True
 649|BLAINE (CONT'D)|"Baby, I'm sorry.
 (turns to Adam)
-See what you made me do?!"|speech|BLAINE|M
+See what you made me do?!"|speech|BLAINE|M|True
 650|JENNIE|"Screw you, Blaine!
 Jennie gets up. She grabs Adam's arm and YANKS HIM along
-with her, as she storms away."|speech|JENNIE|F
+with her, as she storms away."|speech|JENNIE|F|True
 651|"JENNIE (CONT'D)
 (TO ADAM)"|"Come on, let's go!
 Blaine looks ON FIRE, as he watches Jennie leave with Adam.
 LOU (V.0.)
 Sandy, I don't know what you did
 with this wine, but it is
-delightful."|speech|JENNIE|F
-652||INT. APARTMENT - LATE NIGHT|location||
+delightful."|speech|JENNIE|F|True
+652||INT. APARTMENT - LATE NIGHT|location|||
 653|"JENNIE (CONT'D)
 (TO ADAM)"|"Jacob and Lou sit with Michelle and Sandy back at the girls'
 apartment. The whole place looks like a Madonna concert.
 62.
-Jacob looks uncomfortable, but Lou pours on the polite charm."|speech|JENNIE|F
-654|SANDY|It's from a box. There's lots!|speech|SANDY|M
-655|LOU|Mmm. Fantastic.|speech|LOU|M
+Jacob looks uncomfortable, but Lou pours on the polite charm."|speech|JENNIE|F|True
+654|SANDY|It's from a box. There's lots!|speech|SANDY|M|True
+655|LOU|Mmm. Fantastic.|speech|LOU|M|True
 656|(QUICK TURN)|"Do you mind if I borrow my friend?
-We'll only be a moment."|speech||
-657||INT. APARTMENT / BATHROOM - MOMENTS LATER|location||
+We'll only be a moment."|speech|||
+657||INT. APARTMENT / BATHROOM - MOMENTS LATER|location|||
 658|CUT TO:|"Lou has Jacob PINNED AGAINST THE WALL with his arm. He
-speaks quietly, but with purpose."|speech|CUT TO:|?
-659|LOU|You're gonna fuck her!|speech|LOU|M
+speaks quietly, but with purpose."|speech|CUT TO:|?|True
+659|LOU|You're gonna fuck her!|speech|LOU|M|True
 660|JACOB|"I'm not gonna have sex with her.
-She killed a guy!"|speech|JACOB|M
+She killed a guy!"|speech|JACOB|M|True
 661|LOU|"That guy was undesirable. You
-heard her. It was about the money."|speech|LOU|M
+heard her. It was about the money."|speech|LOU|M|True
 662|JACOB|"Great, so she's a prostitute. I'm
-not sleeping with a hooker either."|speech|JACOB|M
+not sleeping with a hooker either."|speech|JACOB|M|True
 663|LOU|"She's not a hooker. She's a girl
 who did what she had to do to make
 a few bucks.
 (tries new tactic)
 Listen, she's probably awesome in
-bed."|speech|LOU|M
-664|JACOB|She probably has a hairy vagina.|speech|JACOB|M
+bed."|speech|LOU|M|True
+664|JACOB|She probably has a hairy vagina.|speech|JACOB|M|True
 665|LOU|"Exactly!
-Jacob looks confused."|speech|LOU|M
+Jacob looks confused."|speech|LOU|M|True
 666|JACOB|"I'm not having this conversation.
 It's pointless. I don't have a
 condom.
-63."|speech|JACOB|M
+63."|speech|JACOB|M|True
 667|LOU|"Perfect! Me neither! No one here
 uses condoms. It's like heaven.
 Only with a lot more coke.
-Lou takes his COKE out of his pocket and SNORTS a bunch."|speech|LOU|M
-668|LOU (CONT'D)|How do I look?|speech|LOU|M
+Lou takes his COKE out of his pocket and SNORTS a bunch."|speech|LOU|M|True
+668|LOU (CONT'D)|How do I look?|speech|LOU|M|True
 669|JACOB|"Like a fucking madman?
-He slaps Jacob's arms."|speech|JACOB|M
+He slaps Jacob's arms."|speech|JACOB|M|True
 670|LOU|"Rock and roll.
-Lou exits the bathroom and calls out to the girls."|speech|LOU|M
+Lou exits the bathroom and calls out to the girls."|speech|LOU|M|True
 671|LOU (CONT'D)|"Who's ready to get laid by an
-awesome penis?!"|speech|LOU|M
-672||INT. PINE VALLEY INN / LOBBY - LATE NIGHT|location||
+awesome penis?!"|speech|LOU|M|True
+672||INT. PINE VALLEY INN / LOBBY - LATE NIGHT|location|||
 673|LOU (CONT'D)|"Adam and Jennie are sitting on the floor by the fireplace,
-playing MONOPOLY."|speech|LOU|M
+playing MONOPOLY."|speech|LOU|M|True
 674|ADAM|"Oooh, Atlantic Avenue. That's
-gonna cost you."|speech|ADAM|M
-675|JENNIE|How much?|speech|JENNIE|F
+gonna cost you."|speech|ADAM|M|True
+675|JENNIE|How much?|speech|JENNIE|F|True
 676|ADAM|"I'll tell ya what...
 Adam moves her token up a few squares and makes a show of
-looking over his shoulder, as if someone might see."|speech|ADAM|M
+looking over his shoulder, as if someone might see."|speech|ADAM|M|True
 677|ADAM (CONT'D)|"I'm not supposed to do this. But
 I'm gonna upgrade you to Marvin
 Gardens. It's a suite. Plus,
@@ -1867,46 +1867,46 @@ there's an excellent buffet and a
 view of the pool.
 Jennie laughs, despite herself. She looks around, as if
 someone might see her. Adam notices.
-64."|speech|ADAM|M
+64."|speech|ADAM|M|True
 678|ADAM (CONT'D)|"No one's gonna see you hanging out
-with the creepy spaz. Don't worry."|speech|ADAM|M
-679|JENNIE|I'm sorry I called you those names.|speech|JENNIE|F
+with the creepy spaz. Don't worry."|speech|ADAM|M|True
+679|JENNIE|I'm sorry I called you those names.|speech|JENNIE|F|True
 680|ADAM|"Hey, it's cool. I was being creepy
-and spazzy."|speech|ADAM|M
+and spazzy."|speech|ADAM|M|True
 681|JENNIE|"You're still not gonna tell me how
-you know me?"|speech|JENNIE|F
-682|ADAM|I'm from the future.|speech|ADAM|M
+you know me?"|speech|JENNIE|F|True
+682|ADAM|I'm from the future.|speech|ADAM|M|True
 683|JENNIE|"Fine, let's just drop it. I'm glad
 you're feeling better. Blaine had
-no right to hit you."|speech|JENNIE|F
+no right to hit you."|speech|JENNIE|F|True
 684|(SMILES)|"I bet he's going out of his mind
-right now."|speech||
+right now."|speech|||
 685|ADAM|"What are you doing with a douche
 like him anyway? You're so much
-better than that."|speech|ADAM|M
+better than that."|speech|ADAM|M|True
 686|JENNIE|"Yeah, well guys like you come to
-visit. Guys like him live here."|speech|JENNIE|F
+visit. Guys like him live here."|speech|JENNIE|F|True
 687|ADAM|"So if I lived here, I'd have a
 shot?
 For a moment, Jennie is thrown off. She's about to say
-something, but checks herself. Instead she nervously stands."|speech|ADAM|M
+something, but checks herself. Instead she nervously stands."|speech|ADAM|M|True
 688|JENNIE|"I'm gonna get going.
-Adam stands up with her."|speech|JENNIE|F
+Adam stands up with her."|speech|JENNIE|F|True
 689|JENNIE (CONT'D)|"Thanks for being a good guy. I
 don't remember the last time I had
 this much fun playing such a stupid
 game.
 She gives Adam a sweet KISS ON THE CHEEK.
-65."|speech|JENNIE|F
+65."|speech|JENNIE|F|True
 690|JENNIE (CONT'D)|"If you run into Blaine, you can
 tell him I blew you. But that's
-all. We didn't do anything else."|speech|JENNIE|F
+all. We didn't do anything else."|speech|JENNIE|F|True
 691|"ADAM
-(SURPRISED)"|We didn't do anything!|speech|ADAM|M
+(SURPRISED)"|We didn't do anything!|speech|ADAM|M|True
 692|"JENNIE
 (SMILES)"|"Shh. It's our little secret.
-Jennie exits, leaving Adam confused."|speech|JENNIE|F
-693||INT. APARTMENT / BEDROOM - LATE NIGHT|location||
+Jennie exits, leaving Adam confused."|speech|JENNIE|F|True
+693||INT. APARTMENT / BEDROOM - LATE NIGHT|location|||
 694|"JENNIE
 (SMILES)"|"In the darkness, we hear SOUNDS OF SEX. Moans of pleasure,
 creaks of mattresses, multiple ""yesses.""
@@ -1918,59 +1918,59 @@ bedside table. He can't take his eyes off it, as Sandy's
 hand keeps brushing up against the table.
 Lou, naked, DRINKS A CAN OF TAB while he delivers the goods
 to Michelle. He reaches over, mid-act, and hands the half-
-empty can to Jacob."|speech|JENNIE|F
-695|LOU|Tab?|speech|LOU|M
+empty can to Jacob."|speech|JENNIE|F|True
+695|LOU|Tab?|speech|LOU|M|True
 696|JACOB|"Stop talking to me!
 Despite the fact that this looks like very good sex -- it is
-very bad sex for Jacob."|speech|JACOB|M
-697||INT. PINE VALLEY INN / SUITE - LATE NIGHT|location||
+very bad sex for Jacob."|speech|JACOB|M|True
+697||INT. PINE VALLEY INN / SUITE - LATE NIGHT|location|||
 698|FADE TO:|"Adam is asleep in bed, as Jennie quietly enters the room. He
 wakes up to find her wearing SEXY LINGERIE, as she CLIMBS ON
-TOP of him."|speech|FADE TO:|?
+TOP of him."|speech|FADE TO:|?|
 699|ADAM|"Jennie!
 66.
-He looks over and sees Nick SNORING in the other bed."|speech|ADAM|M
+He looks over and sees Nick SNORING in the other bed."|speech|ADAM|M|True
 700|"ADAM (CONT'D)
 (WHISPERS)"|"What are you doing here?!
-Jennie gives Adam a LONG WET KISS. He's freaked out."|speech|ADAM|M
+Jennie gives Adam a LONG WET KISS. He's freaked out."|speech|ADAM|M|True
 701|JENNIE|"I thought about what you said and
 you're right. I should be with
-you."|speech|JENNIE|F
-702|ADAM|I didn't necessarily say that.|speech|ADAM|M
+you."|speech|JENNIE|F|True
+702|ADAM|I didn't necessarily say that.|speech|ADAM|M|True
 703|JENNIE|"I want you, Adam!
 She RIPS OPEN her lingerie, revealing her AWESOME HEAVING
-NAKED BREASTS."|speech|JENNIE|F
+NAKED BREASTS."|speech|JENNIE|F|True
 704|ADAM|"Oh my god!
 She kisses him again and they start to go at it. Just then --
 LILY (O.S.)
 What the hell is going on here?
 Adam pushes Jennie off him, as the LIGHTS GO ON in the room.
-Lily is standing in the doorway, looking sad and angry."|speech|ADAM|M
-705|ADAM|Lily?|speech|ADAM|M
-706|LILY|So you do like her better than me?|speech|LILY|F
+Lily is standing in the doorway, looking sad and angry."|speech|ADAM|M|True
+705|ADAM|Lily?|speech|ADAM|M|True
+706|LILY|So you do like her better than me?|speech|LILY|F|True
 707|ADAM|"No, she just--
 Adam looks to where Jennie just was, but now the bed is
 covered with PHOTOS OF JENNIE. There's also a LARGE BOX OF
-TISSUES and some HAND LOTION."|speech|ADAM|M
-708|ADAM (CONT'D)|What's all this?|speech|ADAM|M
-709|(LOOKS AROUND)|Jennie?|speech||
+TISSUES and some HAND LOTION."|speech|ADAM|M|True
+708|ADAM (CONT'D)|What's all this?|speech|ADAM|M|True
+709|(LOOKS AROUND)|Jennie?|speech|||
 710|LILY|"What's wrong with my vagina, Adam?
-67."|speech|LILY|F
+67."|speech|LILY|F|True
 711|ADAM|"Nothing's wrong with it. It's
 beautiful.
-In the next bed, Nick rolls over and wakes up."|speech|ADAM|M
+In the next bed, Nick rolls over and wakes up."|speech|ADAM|M|True
 712|NICK|"It's a beautiful vagina. Among the
-prettiest I've ever seen."|speech|NICK|M
-713|ADAM|Stay out of it, Nick!|speech|ADAM|M
+prettiest I've ever seen."|speech|NICK|M|True
+713|ADAM|Stay out of it, Nick!|speech|ADAM|M|True
 714|LILY|"Would it be so bad to spend the
-rest of your life with my vagina?"|speech|LILY|F
+rest of your life with my vagina?"|speech|LILY|F|True
 715|ADAM|"No. It wouldn't at all.
-Lily turns and walks out the door."|speech|ADAM|M
+Lily turns and walks out the door."|speech|ADAM|M|True
 716|ADAM (CONT'D)|"Lily, it wouldn't! I love your
-vagina! I love your vaginaaaaaa!"|speech|ADAM|M
-717||SMASH CUT TO:|stage direction||
-718||INT. PINE VALLEY INN / SUITE - MORNING|location||
-719|ADAM (CONT'D)|Adam abruptly WAKES UP.|speech|ADAM|M
+vagina! I love your vaginaaaaaa!"|speech|ADAM|M|True
+717||SMASH CUT TO:|stage direction|||
+718||INT. PINE VALLEY INN / SUITE - MORNING|location|||
+719|ADAM (CONT'D)|Adam abruptly WAKES UP.|speech|ADAM|M|True
 720|"ADAM
 (GROGGY MUMBLING)"|"Vagina... huh?
 He sees Nick sitting on a bed on the other side of the room.
@@ -1985,7 +1985,7 @@ Nick is getting emotional.
 NICK (ON PHONE) (CONT'D)
 You think you're better than me?
 Last night I made jello shots and
-everybody loved me."|speech|ADAM|M
+everybody loved me."|speech|ADAM|M|True
 721|(MORE)|"68.
 NICK (ON PHONE) (CONT'D)
 They didn't care that I only
@@ -1994,8 +1994,8 @@ loved me for me. They didn't go
 throwing their rich parents' weight
 around.
 (wipes away a tear)
-I don't know, Courtney."|speech||
-722||INT. CHILD'S BEDROOM - SAME TIME|location||
+I don't know, Courtney."|speech|||
+722||INT. CHILD'S BEDROOM - SAME TIME|location|||
 723|INTERCUT:|"A 6-YEAR-OLD COURTNEY (Nick's future wife) listens to this
 crying man on the other end of the phone.
 6-YEAR-OLD COURTNEY (ON PHONE)
@@ -2011,10 +2011,10 @@ It's OK.
 NICK (ON PHONE)
 You're right. It's OK. I just
 want it to be OK.
-Adam starts registering some of this conversation."|speech|INTERCUT:|?
+Adam starts registering some of this conversation."|speech|INTERCUT:|?|
 724|ADAM|"Who are you talking to?
-Nick looks at Adam and covers the receiver."|speech|ADAM|M
-725|NICK|Courtney.|speech|NICK|M
+Nick looks at Adam and covers the receiver."|speech|ADAM|M|True
+725|NICK|Courtney.|speech|NICK|M|True
 726|ADAM|"What do you mean ""Courtney?""
 Adam picks up ANOTHER PHONE.
 ADAM (ON PHONE) (CONT'D)
@@ -2022,7 +2022,7 @@ Hello?
 6-YEAR-OLD COURTNEY (ON PHONE)
 Hello!
 69.
-Adam, freaked out, HANGS UP his phone."|speech|ADAM|M
+Adam, freaked out, HANGS UP his phone."|speech|ADAM|M|True
 727|ADAM|"Get off the phone!!
 But Nick is down the rabbit hole.
 NICK (ON PHONE)
@@ -2036,31 +2036,31 @@ On the other end, COURTNEY'S DAD has picked up the phone.
 COURTNEY'S DAD (ON PHONE)
 WHO THE FUCK IS THIS?!
 Nick hangs up the phone and stares at it, freaked out. Adam
-just shakes his head."|speech|ADAM|M
-728|NICK|OK, so that may have been bad.|speech|NICK|M
+just shakes his head."|speech|ADAM|M|True
+728|NICK|OK, so that may have been bad.|speech|NICK|M|True
 729|ADAM|"What were you thinking?
-The DOOR OPENS and Lou strolls in, looking quite fresh."|speech|ADAM|M
+The DOOR OPENS and Lou strolls in, looking quite fresh."|speech|ADAM|M|True
 730|LOU|"Guess who re-popped his 80s cherry?
 This guy!
 He points at himself in a celebratory manner, as behind him --
-The Towel Guy whose room this is comes RUNNING UP."|speech|LOU|M
+The Towel Guy whose room this is comes RUNNING UP."|speech|LOU|M|True
 731|TOWEL GUY|"Hey, get the hell out of my room!
 In one move, Lou catches him inside the room, closes the door
 with his foot, and puts the guy in a HEAD LOCK. He then
-converts it into a SLEEPER HOLD, putting the guy to sleep."|speech|TOWEL GUY|M
-732|NICK|Oh, we're going to jail.|speech|NICK|M
+converts it into a SLEEPER HOLD, putting the guy to sleep."|speech|TOWEL GUY|M|
+732|NICK|Oh, we're going to jail.|speech|NICK|M|True
 733|LOU|"Help me put him in the closet.
-70."|speech|LOU|M
-734||INT. PINE VALLEY INN / SUITE - CLOSET - MOMENTS LATER|location||
-735|LOU|The guys drop the sleeping Towel Guy in the closet.|speech|LOU|M
-736||INT. PINE VALLEY INN / PATIO -- MOMENTS LATER|location||
-737|LOU|Adam, Nick, and Lou take a soak in the tub.|speech|LOU|M
-738|ADAM|Has anyone seen Jacob?|speech|ADAM|M
+70."|speech|LOU|M|True
+734||INT. PINE VALLEY INN / SUITE - CLOSET - MOMENTS LATER|location|||
+735|LOU|The guys drop the sleeping Towel Guy in the closet.|speech|LOU|M|True
+736||INT. PINE VALLEY INN / PATIO -- MOMENTS LATER|location|||
+737|LOU|Adam, Nick, and Lou take a soak in the tub.|speech|LOU|M|True
+738|ADAM|Has anyone seen Jacob?|speech|ADAM|M|True
 739|LOU|"He's grabbing drinks with Tad and
 Chaz. Which is what we should do.
 We'll start at the Brew Haus and do
 a three drink crawl up the street--
-Adam gets more fed up than ever."|speech|LOU|M
+Adam gets more fed up than ever."|speech|LOU|M|True
 740|ADAM|"Guys! I refuse to accept that
 we're stuck in 1987! Maybe you're
 loving it, Lou. But you don't get
@@ -2068,15 +2068,15 @@ it. Nick's insane, Jacob's become
 a bigger douche than before, and I
 need to get back for my goddamn
 rehearsal dinner? Which is
-tomorrow!"|speech|ADAM|M
+tomorrow!"|speech|ADAM|M|True
 741|"LOU
 (CALMLY)"|"Adam. I know I don't look like I
 understand, but I do. You have a
 beautiful fiancee who means more to
 you than anything in the world.
 And if you could, you'd literally
-travel across time for her."|speech|LOU|M
-742|ADAM|Yes.|speech|ADAM|M
+travel across time for her."|speech|LOU|M|True
+742|ADAM|Yes.|speech|ADAM|M|True
 743|LOU|"I get it, man. Life is about these
 moments. Moments where a regular
 Joe becomes a hero. Moments where
@@ -2086,248 +2086,248 @@ guts to do what's right and what's
 necessary. It's moments like
 these...
 Lou suddenly notices some COCAINE on the edge of the tub.
-71."|speech|LOU|M
+71."|speech|LOU|M|True
 744|LOU (CONT'D)|"Jesus, how come nobody told me
 there was coke out here?
-Lou SNORTS A BIG LINE."|speech|LOU|M
+Lou SNORTS A BIG LINE."|speech|LOU|M|True
 745|LOU (CONT'D)|"What was I saying?
-Adam and Nick get out and towel off. Lou follows."|speech|LOU|M
-746|ADAM|Maybe we have to learn something?|speech|ADAM|M
-747|NICK|What do you mean?|speech|NICK|M
+Adam and Nick get out and towel off. Lou follows."|speech|LOU|M|True
+746|ADAM|Maybe we have to learn something?|speech|ADAM|M|True
+747|NICK|What do you mean?|speech|NICK|M|True
 748|ADAM|"You know, like Groundhog Day. We
 have to learn the meaning of life
 or some shit.
 Just then, a KITTEN licking a PUDDLE on the base of the tub
 JUMPS in the hot tub and VANISHES IN A BRIGHT LIGHT!
-For a moment, everyone is quiet."|speech|ADAM|M
+For a moment, everyone is quiet."|speech|ADAM|M|True
 749|"LOU
 (FREAKED OUT)"|"I've gotta stop doing cocaine and I
 need to go to the hospital. I just
-saw a fucking kitten explode."|speech|LOU|M
+saw a fucking kitten explode."|speech|LOU|M|True
 750|NICK|"I saw it too.
 The guys run over to the tub. The bubbles are on low, but
-there's NOTHING IN IT."|speech|NICK|M
+there's NOTHING IN IT."|speech|NICK|M|True
 751|ADAM|"It didn't explode. It vanished.
-It went back... to the present."|speech|ADAM|M
-752|LOU|This is the present.|speech|LOU|M
-753|ADAM|Our old present.|speech|ADAM|M
+It went back... to the present."|speech|ADAM|M|True
+752|LOU|This is the present.|speech|LOU|M|True
+753|ADAM|Our old present.|speech|ADAM|M|True
 754|NICK|"So it is the tub!
 Lou POINTS at something.
-72."|speech|NICK|M
+72."|speech|NICK|M|True
 755|LOU|"Um...
-The HOT TUB IS NOT PLUGGED IN, and yet it's clearly running."|speech|LOU|M
-756|ADAM|OK. You guys know what to do.|speech|ADAM|M
-757||EXT. PINE VALLEY INN / PATIO - MINUTES LATER|location||
+The HOT TUB IS NOT PLUGGED IN, and yet it's clearly running."|speech|LOU|M|True
+756|ADAM|OK. You guys know what to do.|speech|ADAM|M|True
+757||EXT. PINE VALLEY INN / PATIO - MINUTES LATER|location|||
 758|CUT TO:|"The guys have a COUPLE BOXES OF KITTENS. One at a time, they
 get in the tub and take turns DIPPING THE KITTENS. When
 nothing happens, Lou DUMPS an entire box of kittens into the
 tub. The cats get ANGRY and CLAW AT HIS FACE and body.
-Eventually, the guys just shake their heads."|speech|CUT TO:|?
-759|ADAM|This isn't working.|speech|ADAM|M
+Eventually, the guys just shake their heads."|speech|CUT TO:|?|True
+759|ADAM|This isn't working.|speech|ADAM|M|True
 760|LOU|"Maybe these aren't the right
 kittens?
-Adam points at him in a ""now you're thinking"" way."|speech|LOU|M
+Adam points at him in a ""now you're thinking"" way."|speech|LOU|M|True
 761|ADAM|"We'll split up. Get as many
 different cats as you can. Let's
-all meet back here in an hour."|speech|ADAM|M
-762|LOU|You can count on me!|speech|LOU|M
-763||INT. BREW HAUS - DAY|location||
+all meet back here in an hour."|speech|ADAM|M|True
+762|LOU|You can count on me!|speech|LOU|M|True
+763||INT. BREW HAUS - DAY|location|||
 764|LOU|"Lou sits on a stool, munching on snacks. A TV shows the AFC
 conference championship game between the Denver Broncos and
 the Cleveland Browns. It's the 4th Quarter and the Browns
 score with 5:43 remaining on the clock to go up by 7.
 Two stools over, a SLICK-HAIRED ASSHOLE (RICK) sits with his
-bored-looking HIGH SOCIETY TROPHY WIFE (CANDACE)."|speech|LOU|M
-765|RICK|Yes!|speech|RICK|?
+bored-looking HIGH SOCIETY TROPHY WIFE (CANDACE)."|speech|LOU|M|True
+765|RICK|Yes!|speech|RICK|?|True
 766|LOU|"Hate to tell ya, pal. Browns are
 gonna lose by 3 in overtime.
-73."|speech|LOU|M
+73."|speech|LOU|M|True
 767|RICK|"Eat shit and die, scumbag. I've
-got ten large on this game."|speech|RICK|?
+got ten large on this game."|speech|RICK|?|True
 768|LOU|"Not only that, but I bet you
 Elway's gonna throw a touchdown
-with 37 seconds left."|speech|LOU|M
+with 37 seconds left."|speech|LOU|M|True
 769|RICK|"Fat chance, pal. Elway's done
-nothing all day."|speech|RICK|?
-770|LOU|Care to make it interesting?|speech|LOU|M
+nothing all day."|speech|RICK|?|True
+770|LOU|Care to make it interesting?|speech|LOU|M|True
 771|RICK|"Who the hell are you?
-Lou thinks about the question for a moment."|speech|RICK|?
+Lou thinks about the question for a moment."|speech|RICK|?|True
 772|LOU|"Name's Musselman. Hank Musselman.
-I've got a cool name, huh?"|speech|LOU|M
+I've got a cool name, huh?"|speech|LOU|M|True
 773|RICK|"It's a good name. What did you
-have in mind, Musselman?"|speech|RICK|?
+have in mind, Musselman?"|speech|RICK|?|True
 774|LOU|"I win -- your wife gives me a
 blowjob. A classy one.
 For the first time, Candace looks less than bored. She does a
-bad job of feigning disinterest."|speech|LOU|M
-775|RICK|All right, buddy, fuck off.|speech|RICK|?
+bad job of feigning disinterest."|speech|LOU|M|True
+775|RICK|All right, buddy, fuck off.|speech|RICK|?|True
 776|LOU|"You win -- you can kill me. Any
 way you want. Knife, gun, torch,
 sword... I'll even make a video
-exonerating you."|speech|LOU|M
-777|RICK|Yeah, right...|speech|RICK|?
+exonerating you."|speech|LOU|M|True
+777|RICK|Yeah, right...|speech|RICK|?|True
 778|LOU|"I'm serious. You look like a man
 who has everything. Except the
 license to kill. Care to gamble?
 Rick looks at Lou long and hard. Lou doesn't flinch.
-74."|speech|LOU|M
-779|RICK|37 seconds?|speech|RICK|?
-780|LOU|Exactly.|speech|LOU|M
+74."|speech|LOU|M|True
+779|RICK|37 seconds?|speech|RICK|?|True
+780|LOU|Exactly.|speech|LOU|M|True
 781|RICK|"You have a deal.
 As Rick and Lou shake hands, Candace makes a show of looking
-offended."|speech|RICK|?
+offended."|speech|RICK|?|True
 782|"RICK (CONT'D)
 (TO CANDACE)"|"Don't worry, babe. This yahoo's
 made a wager he can't possibly win.
 Lou picks up another HANDFUL of bar snacks. He puts them in
-his mouth and shows it to Rick."|speech|RICK|?
+his mouth and shows it to Rick."|speech|RICK|?|True
 783|"LOU
 (MOUTH FULL)"|"Look. Who am I? I'm your wife.
-Nuts in my mouth. Get it?"|speech|LOU|M
-784|(TO CANDACE)|I like it slow and romantic.|speech||
-785||EXT. PET STORE - DAY|location||
+Nuts in my mouth. Get it?"|speech|LOU|M|True
+784|(TO CANDACE)|I like it slow and romantic.|speech|||
+785||EXT. PET STORE - DAY|location|||
 786|(TO CANDACE)|"Nick leaves a pet store, carrying a BOX OF KITTENS. On the
 street, he accidentally bumps into one of the Japanese
 businessmen from the night before. He has a THICK ACCENT,
-like Gedde Watanabe in ""Gung Ho."""|speech||
-787|NICK|Oh, sorry man.|speech|NICK|M
+like Gedde Watanabe in ""Gung Ho."""|speech|||
+787|NICK|Oh, sorry man.|speech|NICK|M|True
 788|(NOTICES HIM)|"Hey! How's that iPod working out
-for you?"|speech||
-789|JAPANESE BUSINESSMAN|Oh, it's a very nice toy.|speech|JAPANESE BUSINESSMAN|?
+for you?"|speech|||
+789|JAPANESE BUSINESSMAN|Oh, it's a very nice toy.|speech|JAPANESE BUSINESSMAN|?|True
 790|NICK|"If you like that, I've got a phone
 back at the lodge that will knock
-your socks off."|speech|NICK|M
+your socks off."|speech|NICK|M|True
 791|JAPANESE BUSINESSMAN|"I wish I could see it. But I am on
 my way to a very important business
 meeting.
-75."|speech|JAPANESE BUSINESSMAN|?
+75."|speech|JAPANESE BUSINESSMAN|?|True
 792|NICK|"Oh yeah? More important than
-Bluetooth?"|speech|NICK|M
+Bluetooth?"|speech|NICK|M|True
 793|JAPANESE BUSINESSMAN|"My associates and I are co-
 financing a... how do you say it...
-supermarket business."|speech|JAPANESE BUSINESSMAN|?
+supermarket business."|speech|JAPANESE BUSINESSMAN|?|True
 794|"NICK
 (SUSPICIOUS)"|"You're not going to Boston, by any
-chance?"|speech|NICK|M
-795|JAPANESE BUSINESSMAN|Yes! Boston! We leave tonight.|speech|JAPANESE BUSINESSMAN|?
+chance?"|speech|NICK|M|True
+795|JAPANESE BUSINESSMAN|Yes! Boston! We leave tonight.|speech|JAPANESE BUSINESSMAN|?|True
 796|NICK|"You're gonna franchise out the
-Gelman's Mom and Pop!"|speech|NICK|M
+Gelman's Mom and Pop!"|speech|NICK|M|True
 797|JAPANESE BUSINESSMAN|"Yes! How do you know this?
-Nick puts his arm around the guy and walks down the street."|speech|JAPANESE BUSINESSMAN|?
+Nick puts his arm around the guy and walks down the street."|speech|JAPANESE BUSINESSMAN|?|True
 798|NICK|"Walk with me a minute. Let me tell
 you about some companies you should
-really be looking into..."|speech|NICK|M
-799||INT. THE DECK - DAY|location||
+really be looking into..."|speech|NICK|M|True
+799||INT. THE DECK - DAY|location|||
 800|NICK|"Tad, Chaz, and Jacob enjoy drinks on a deck overlooking the
-mountain ski slopes."|speech|NICK|M
+mountain ski slopes."|speech|NICK|M|True
 801|CHAZ|"You really are a gas, Jacob. Tad
 and I think you're the cat's
-pajamas."|speech|CHAZ|M
+pajamas."|speech|CHAZ|M|True
 802|JACOB|"Thanks. I like you guys, too.
 A THIRD DOUCHEBAG arrives and gives a SECRET HANDSHAKE to Tad
 and Chaz. He drops off a PILL BOTTLE. This is GEOFFREY
-(pronounced JOFF-rey)."|speech|JACOB|M
+(pronounced JOFF-rey)."|speech|JACOB|M|True
 803|GEOFFREY|"Gentlemen.
-76."|speech|GEOFFREY|M
+76."|speech|GEOFFREY|M|
 804|TAD|"Geoffrey, please meet Jacob.
 Excuse his Jewish name. He really
 quite exceeds it.
-Jacob looks confused by that, as Geoffrey shakes his hand."|speech|TAD|M
+Jacob looks confused by that, as Geoffrey shakes his hand."|speech|TAD|M|True
 805|GEOFFREY|"Jacob, would you like some too?
-He offers a pill bottle."|speech|GEOFFREY|M
-806|JACOB|What is it?|speech|JACOB|M
+He offers a pill bottle."|speech|GEOFFREY|M|
+806|JACOB|What is it?|speech|JACOB|M|True
 807|CHAZ|"Rohypnol. Geoffrey's father is a
 pharmacist, but we don't hold that
-against him."|speech|CHAZ|M
-808|JACOB|Rohypnol?|speech|JACOB|M
+against him."|speech|CHAZ|M|True
+808|JACOB|Rohypnol?|speech|JACOB|M|True
 809|TAD|"You slip it to a chick who won't go
 to third. Give it an hour and
-you'll be rounding home."|speech|TAD|M
+you'll be rounding home."|speech|TAD|M|True
 810|"JACOB
-(SURPRISED)"|This is a date rape drug.|speech|JACOB|M
+(SURPRISED)"|This is a date rape drug.|speech|JACOB|M|True
 811|"GEOFFREY
-(LAUGHS)"|What the fuck is date rape?|speech|GEOFFREY|M
-812|JACOB|These are roofies!|speech|JACOB|M
-813|CHAZ|Roofies... I like that!|speech|CHAZ|M
+(LAUGHS)"|What the fuck is date rape?|speech|GEOFFREY|M|
+812|JACOB|These are roofies!|speech|JACOB|M|True
+813|CHAZ|Roofies... I like that!|speech|CHAZ|M|True
 814|TAD|"Yeah, it takes the clinical name
 right out of it. It sounds so
 fresh, chicks might even take it
-voluntarily!"|speech|TAD|M
+voluntarily!"|speech|TAD|M|True
 815|(TO JACOB)|"Hey, can we use that?
 Jacob looks beside himself.
-77."|speech||
-816||EXT. PINE VALLEY INN / PATIO - AFTERNOON|location||
+77."|speech|||
+816||EXT. PINE VALLEY INN / PATIO - AFTERNOON|location|||
 817|(TO JACOB)|"A GUY and a GIRL are using the hot tub, which is still hot
 and bubbly, despite the fact that it isn't plugged in.
-Nick and Lou sit at the table, as Adam approaches with CATS."|speech||
+Nick and Lou sit at the table, as Adam approaches with CATS."|speech|||
 818|ADAM|"I got regular cats. I figured
 maybe the kitten was a fluke.
-Nick takes the box out of his hands and puts it down."|speech|ADAM|M
+Nick takes the box out of his hands and puts it down."|speech|ADAM|M|True
 819|NICK|"Come here.
-He leads Adam near the tub, where Lou points at something."|speech|NICK|M
-820|LOU|There!|speech|LOU|M
+He leads Adam near the tub, where Lou points at something."|speech|NICK|M|True
+820|LOU|There!|speech|LOU|M|True
 821|ADAM|"What am I looking at? It's some
-kind of stain."|speech|ADAM|M
-822|LOU|Smell it.|speech|LOU|M
-823|ADAM|I'm not smelling it.|speech|ADAM|M
+kind of stain."|speech|ADAM|M|True
+822|LOU|Smell it.|speech|LOU|M|True
+823|ADAM|I'm not smelling it.|speech|ADAM|M|True
 824|"LOU
 (NODS ENCOURAGINGLY)"|"Smell the stain.
 Adam puts his nose up against the stain and SNIFFS. He
-recognizes something, but can't put his finger on it."|speech|LOU|M
-825|ADAM|What is that?|speech|ADAM|M
+recognizes something, but can't put his finger on it."|speech|LOU|M|True
+825|ADAM|What is that?|speech|ADAM|M|True
 826|NICK|"Red Bull.
 GUY IN TUB
 Hey, you fellas mind? I'm trying
-to get a handjob here."|speech|NICK|M
-827||INT. PINE VALLEY INN / SUITE - AFTERNOON|location||
+to get a handjob here."|speech|NICK|M|True
+827||INT. PINE VALLEY INN / SUITE - AFTERNOON|location|||
 828|NICK|"Our guys sit and absorb the impact of what they've learned.
-78."|speech|NICK|M
+78."|speech|NICK|M|True
 829|ADAM|"So you're telling me that Red Bull
-plus hot tub equals time travel?"|speech|ADAM|M
+plus hot tub equals time travel?"|speech|ADAM|M|True
 830|"LOU
 (NODS PROUDLY)"|"Mmm hmm. Hank Musselman's getting
-the Nobel Prize."|speech|LOU|M
-831|ADAM|Who the fuck is Hank Musselman?|speech|ADAM|M
+the Nobel Prize."|speech|LOU|M|True
+831|ADAM|Who the fuck is Hank Musselman?|speech|ADAM|M|True
 832|NICK|"There was just enough Red Bull for
 the kitten. Not nearly enough for
 a human. It's a weight
-distribution thing."|speech|NICK|M
-833|ADAM|How did you even figure this out?|speech|ADAM|M
-834|LOU|Scientific method.|speech|LOU|M
+distribution thing."|speech|NICK|M|True
+833|ADAM|How did you even figure this out?|speech|ADAM|M|True
+834|LOU|Scientific method.|speech|LOU|M|True
 835|NICK|"He bet me 20 dollars I wouldn't
-lick the stain."|speech|NICK|M
-836|LOU|I thought it was some guy's jizz.|speech|LOU|M
-837|ADAM|What's wrong with you?|speech|ADAM|M
-838|LOU|It worked, didn't it?|speech|LOU|M
+lick the stain."|speech|NICK|M|True
+836|LOU|I thought it was some guy's jizz.|speech|LOU|M|True
+837|ADAM|What's wrong with you?|speech|ADAM|M|True
+838|LOU|It worked, didn't it?|speech|LOU|M|True
 839|NICK|"Yeah, except one little problem.
 There's no Red Bull in 1987.
 For a moment, they're all bummed again. Then Adam gets an
-encouraged look on his face."|speech|NICK|M
+encouraged look on his face."|speech|NICK|M|True
 840|ADAM|"Yes there is! Come on!
-Adam heads for the door, as Lou and Nick follow."|speech|ADAM|M
-841||EXT. BUNNY SLOPE - DAY|location||
+Adam heads for the door, as Lou and Nick follow."|speech|ADAM|M|True
+841||EXT. BUNNY SLOPE - DAY|location|||
 842|ADAM|"Jennie instructs a group of TEENAGERS on the basics of
 skiing, as Adam approaches, with Nick and Lou in tow.
-79."|speech|ADAM|M
+79."|speech|ADAM|M|True
 843|"JENNIE
 (CONCERNED)"|"You can't be here. If Blaine sees
 you, he'll snap your neck. I told
-him I blew you and he's not happy."|speech|JENNIE|F
+him I blew you and he's not happy."|speech|JENNIE|F|True
 844|ADAM|"Why would you do that?!
 Behind Adam, Nick looks at the group of TEENS and his eyes
-almost BUG OUT. He elbows Lou."|speech|ADAM|M
+almost BUG OUT. He elbows Lou."|speech|ADAM|M|True
 845|NICK|"(whispers, teeth clenched)
 Look.
 Lou looks to where Nick is looking:
 YOUNG ADAM, YOUNG NICK, and YOUNG LOU wait with other kids
-for Jennie to return to their lesson."|speech|NICK|M
+for Jennie to return to their lesson."|speech|NICK|M|True
 846|LOU|"Holy shit!
 Lou immediately approaches the kids, even as Nick tries to
-hold him back."|speech|LOU|M
+hold him back."|speech|LOU|M|True
 847|"NICK
 (TEETH CLENCHED)"|"where the fuck are you going?!
 Lou walks right up to his YOUNGER SELF and looks himself
-square in the face."|speech|NICK|M
+square in the face."|speech|NICK|M|True
 848|YOUNG LOU|"What the hell do you want, old man?
 Lou PUNCHES his YOUNGER SELF in the face. Young Nick and
 Young Adam are freaked out, as is regular Nick. Adam doesn't
@@ -2335,103 +2335,103 @@ notice, as he's arguing with Jennie.
 YOUNG LOU (CONT'D)
 What the fuck, dude?! I think you
 broke my nose! My parents are
-gonna sue the shit out of you!"|speech|YOUNG LOU|?
+gonna sue the shit out of you!"|speech|YOUNG LOU|?|
 849|LOU|"Herschel and Evelyn aren't gonna do
-a damn thing. They're losers."|speech|LOU|M
+a damn thing. They're losers."|speech|LOU|M|True
 850|YOUNG LOU|"How do you know my parents?
-80."|speech|YOUNG LOU|?
+80."|speech|YOUNG LOU|?|
 851|LOU|"Listen to me. Start putting
 minoxidil on your scalp. Tonight.
 Then, when Propecia comes on the
 market, start taking it. Every
-day. Hair is important."|speech|LOU|M
-852|YOUNG LOU|I don't give a shit about hair.|speech|YOUNG LOU|?
+day. Hair is important."|speech|LOU|M|True
+852|YOUNG LOU|I don't give a shit about hair.|speech|YOUNG LOU|?|
 853|LOU|"You will!
 (leans in, quietly)
 Or I'll tell everyone about how you
 jerked off to that issue of
-Playgirl."|speech|LOU|M
+Playgirl."|speech|LOU|M|True
 854|"YOUNG LOU
 (QUIETLY)"|"It was confusing! There were naked
 people and it had ""girl"" in the
-title!"|speech|YOUNG LOU|?
+title!"|speech|YOUNG LOU|?|
 855|LOU|"Hey, you don't have to justify to
-me, pal."|speech|LOU|M
+me, pal."|speech|LOU|M|True
 856|"YOUNG LOU
-(FREAKED OUT)"|Who are you?|speech|YOUNG LOU|?
+(FREAKED OUT)"|Who are you?|speech|YOUNG LOU|?|
 857|LOU|"I'm God.
-ON ADAM AND JENNIE"|speech|LOU|M
+ON ADAM AND JENNIE"|speech|LOU|M|True
 858|JENNIE|"Fine. You wanna see Blaine? It's
 your funeral. He's in the
 warehouse at the end of Lawrence.
-Good luck."|speech|JENNIE|F
-859||EXT. MOUNTAIN - DAY|location||
-860|JENNIE|Adam walks off the mountain with Nick and Lou.|speech|JENNIE|F
+Good luck."|speech|JENNIE|F|True
+859||EXT. MOUNTAIN - DAY|location|||
+860|JENNIE|Adam walks off the mountain with Nick and Lou.|speech|JENNIE|F|True
 861|LOU|"Moment of truth.
 Lou takes off his hat and feels his scalp - no hair.
-81."|speech|LOU|M
+81."|speech|LOU|M|True
 862|"LOU (CONT'D)
 (LOOKS BACK)"|"That fucker!
 Just then, Lou's NOSE SLIGHTLY SHIFTS, the result of being
 broken and never fixed. It stays this wa for the rest of
 the movie.
-Lou touches his nose."|speech|LOU|M
+Lou touches his nose."|speech|LOU|M|True
 863|LOU (CONT'D)|"Oh, that's just great.
-Jacob runs up, in a friendlier disposition."|speech|LOU|M
-864|JACOB|Hey guys!|speech|JACOB|M
+Jacob runs up, in a friendlier disposition."|speech|LOU|M|True
+864|JACOB|Hey guys!|speech|JACOB|M|True
 865|ADAM|"I thought you were with douche
-patrol."|speech|ADAM|M
+patrol."|speech|ADAM|M|True
 866|JACOB|"Yeah I was. But it turned out
-those guys are date rapists."|speech|JACOB|M
-867|ADAM|Ah.|speech|ADAM|M
+those guys are date rapists."|speech|JACOB|M|True
+867|ADAM|Ah.|speech|ADAM|M|True
 868|NICK|"Adam, where are we going?
-Adam gets a look of determination again."|speech|NICK|M
+Adam gets a look of determination again."|speech|NICK|M|True
 869|ADAM|"To get my bag. We get that, we
 have the Red Bull, and our ticket
-home."|speech|ADAM|M
-870|LOU|Yes! The race is on!|speech|LOU|M
-871|ADAM|What race?|speech|ADAM|M
+home."|speech|ADAM|M|True
+870|LOU|Yes! The race is on!|speech|LOU|M|True
+871|ADAM|What race?|speech|ADAM|M|True
 872|LOU|"Duh, it's 1987? We're at a ski
-resort?"|speech|LOU|M
+resort?"|speech|LOU|M|True
 873|(SHAKES HEAD)|"Disputes like these are settled
 with a downhill ski race. Usually
 at dawn. It's the law.
-82."|speech||
-874|ADAM|You're an idiot.|speech|ADAM|M
-875||INT. WAREHOUSE - AFTERNOON|location||
+82."|speech|||
+874|ADAM|You're an idiot.|speech|ADAM|M|True
+875||INT. WAREHOUSE - AFTERNOON|location|||
 876|ADAM|"Adam and the guys step into a warehouse. WET FLOOR, CHAINS
 hanging from the ceiling for no reason, STEAM rising from
 grates. As they enter, Chaz pulls down a large GARAGE DOOR.
-Up ahead, Blaine sits on some CRATES with Tad."|speech|ADAM|M
-877|BLAINE|Welcome to my lair.|speech|BLAINE|M
-878|ADAM|You live here?|speech|ADAM|M
+Up ahead, Blaine sits on some CRATES with Tad."|speech|ADAM|M|True
+877|BLAINE|Welcome to my lair.|speech|BLAINE|M|True
+878|ADAM|You live here?|speech|ADAM|M|True
 879|NICK|"Yeah, this is kind of a shitty
-place to live."|speech|NICK|M
+place to live."|speech|NICK|M|True
 880|BLAINE|"I don't live here.
-Adam approaches Blaine, trying to speak maturely."|speech|BLAINE|M
+Adam approaches Blaine, trying to speak maturely."|speech|BLAINE|M|True
 881|ADAM|"Look. Blaine. I think we got off
 on the wrong foot. You have some
-issue with me."|speech|ADAM|M
+issue with me."|speech|ADAM|M|True
 882|BLAINE|"You get blown by my girl? I'll say
-that's one hell of an issue."|speech|BLAINE|M
-883|LOU|Whoa! You got blown?!|speech|LOU|M
+that's one hell of an issue."|speech|BLAINE|M|True
+883|LOU|Whoa! You got blown?!|speech|LOU|M|True
 884|ADAM|"She didn't blow me. She lied to
 you to make you jealous. I'm not
 trying to steal Jennie. I just
-wanna get my bag."|speech|ADAM|M
+wanna get my bag."|speech|ADAM|M|True
 885|BLAINE|"Oh, your bag. I was wondering when
 you'd come around for that.
-Tad holds up the BACKPACK over by the crates."|speech|BLAINE|M
+Tad holds up the BACKPACK over by the crates."|speech|BLAINE|M|True
 886|ADAM|"Yeah, I'll just take it and get out
 of your way.
-83."|speech|ADAM|M
+83."|speech|ADAM|M|True
 887|BLAINE|"You will?
-Adam EXTENDS HIS HAND."|speech|BLAINE|M
+Adam EXTENDS HIS HAND."|speech|BLAINE|M|True
 888|ADAM|"Whattya say? Can we work this out
 like gentlemen?
-Blaine PULLS A KNIFE. Tad and Chaz also PULL KNIVES."|speech|ADAM|M
+Blaine PULLS A KNIFE. Tad and Chaz also PULL KNIVES."|speech|ADAM|M|True
 889|NICK|"What is this town's obsession with
-knives?"|speech|NICK|M
+knives?"|speech|NICK|M|True
 890|"BLAINE
 (MENACING)"|"How about I work this out like... a
 butcher?
@@ -2442,42 +2442,42 @@ Hey! Scumbuckets! Back to work!
 Like naughty children being caught red handed, Blaine and his
 goons lose the knives and hustle toward the open door.
 Blaine grabs the backpack from Tad.
-Adam and the guys follow through the door and into --"|speech|BLAINE|M
-891||INT. SUNGLASS HUT - DAY|location||
+Adam and the guys follow through the door and into --"|speech|BLAINE|M|True
+891||INT. SUNGLASS HUT - DAY|location|||
 892|"BLAINE
 (MENACING)"|"Adam, Nick, Lou, and Jacob are confused, as Blaine, Chaz, and
 Tad spring to action, helping CUSTOMERS choose sunglasses.
-Jacob approaches Tad and Chaz, who look embarrassed."|speech|BLAINE|M
+Jacob approaches Tad and Chaz, who look embarrassed."|speech|BLAINE|M|True
 893|JACOB|"You guys are posers! You're not
-better than me!"|speech|JACOB|M
+better than me!"|speech|JACOB|M|True
 894|TAD|"Jacob, I wish you hadn't seen us
 like this.
-Adam stands near Blaine, who helps a WOMAN."|speech|TAD|M
+Adam stands near Blaine, who helps a WOMAN."|speech|TAD|M|True
 895|"BLAINE
 (TO WOMAN)"|"These would look so good with your
 light complexion.
-84."|speech|BLAINE|M
-896|ADAM|Listen asshole! I want my bag!|speech|ADAM|M
+84."|speech|BLAINE|M|True
+896|ADAM|Listen asshole! I want my bag!|speech|ADAM|M|True
 897|"BLAINE
 (TO WOMAN)"|"Will you excuse me for a moment?
-Blaine walks behind the COUNTER and SHOVES THE BAG in a SAFE."|speech|BLAINE|M
+Blaine walks behind the COUNTER and SHOVES THE BAG in a SAFE."|speech|BLAINE|M|True
 898|BLAINE (CONT'D)|"Safe's on a timer. It'll open
 tomorrow. We race at dawn. Winner
 gets the bag. Loser leaves town.
-Lou turns to Nick."|speech|BLAINE|M
-899|LOU|See? I told you!|speech|LOU|M
+Lou turns to Nick."|speech|BLAINE|M|True
+899|LOU|See? I told you!|speech|LOU|M|True
 900|"ADAM
-(TO BLAINE)"|I don't wanna race you.|speech|ADAM|M
+(TO BLAINE)"|I don't wanna race you.|speech|ADAM|M|True
 901|BLAINE|"Then I guess you don't want your
-bag."|speech|BLAINE|M
-902|(SMIRKS)|See you at dawn.|speech||
+bag."|speech|BLAINE|M|True
+902|(SMIRKS)|See you at dawn.|speech|||
 903|ADAM|"Your girlfriend sucks one hell of a
 mean dick.
-Adam makes a SLURPING SOUND and Blaine fumes."|speech|ADAM|M
-904||EXT. HAVENHURST MAIN DRAG - LATE AFTERNOON|location||
-905|ADAM|Nick, Lou, and Jacob walk behind Adam, who looks pissed.|speech|ADAM|M
-906|NICK|What are we gonna do?|speech|NICK|M
-907|LOU|That chick blew you?!|speech|LOU|M
+Adam makes a SLURPING SOUND and Blaine fumes."|speech|ADAM|M|True
+904||EXT. HAVENHURST MAIN DRAG - LATE AFTERNOON|location|||
+905|ADAM|Nick, Lou, and Jacob walk behind Adam, who looks pissed.|speech|ADAM|M|True
+906|NICK|What are we gonna do?|speech|NICK|M|True
+907|LOU|That chick blew you?!|speech|LOU|M|True
 908|"ADAM
 (INTENSE)"|"I've got a race to win.
 Europe's ""The Final Countdown"" begins playing over a MONTAGE:
@@ -2497,69 +2497,69 @@ proud of him.
 -- The guys play an ATARI SKI GAME, trying out a strategy.
 Jacob uses a POINTER, looking disappointed.
 -- On the hill, Adam easily maneuvers by a few trees on the
-snowboard, kicking up snow and HIGH-FINING Jacob."|speech|ADAM|M
-909||EXT. MOUNTAIN / TOP - DAWN|location||
+snowboard, kicking up snow and HIGH-FINING Jacob."|speech|ADAM|M|True
+909||EXT. MOUNTAIN / TOP - DAWN|location|||
 910|"ADAM
 (INTENSE)"|"SLO-MO HERO SHOT of our four guys, as they ascend the top of
 the mountain. If we didn't know any better, it would look
 like Tony Scott directed a ski movie.
-END MONTAGE."|speech|ADAM|M
-911||EXT. MOUNTAIN / TOP - DAY|location||
+END MONTAGE."|speech|ADAM|M|True
+911||EXT. MOUNTAIN / TOP - DAY|location|||
 912|"ADAM
 (INTENSE)"|"A few yards away from Nick and Lou, Adam sits on the ground,
-as Jacob helps him strap into the snowboard."|speech|ADAM|M
+as Jacob helps him strap into the snowboard."|speech|ADAM|M|True
 913|JACOB|"Just stick to the plan and you're
 gonna be fine.
-Adam looks at Jacob seriously for a moment."|speech|JACOB|M
+Adam looks at Jacob seriously for a moment."|speech|JACOB|M|True
 914|ADAM|"Jacob, I'm sorry for not always
 being the big brother I should've
 been. I was away at college, Mom
 gave you my Sega - there were a
 whole host of issues.
 Jacob nods and speaks genuinely to Adam too.
-86."|speech|ADAM|M
+86."|speech|ADAM|M|True
 915|JACOB|"I know. I'm sorry too. I put a
 few things before my family and
 took my guilt out on you.
 (puts it together)
 I guess it was an inevitable I'd
 end up part of a roofie ring.
-Adam smiles and extends his hand."|speech|JACOB|M
+Adam smiles and extends his hand."|speech|JACOB|M|True
 916|ADAM|"Friends?
-Jacob takes Adam's hand and helps him to his feet."|speech|ADAM|M
+Jacob takes Adam's hand and helps him to his feet."|speech|ADAM|M|True
 917|JACOB|"Brothers.
-They EMBRACE. Lou looks disgusted."|speech|JACOB|M
+They EMBRACE. Lou looks disgusted."|speech|JACOB|M|True
 918|LOU|"Gay.
 Blaine and his goons approach from below. Adam puts on his
-game face."|speech|LOU|M
-919|ADAM|I didn't think you guys would show.|speech|ADAM|M
-920|BLAINE|This was my idea.|speech|BLAINE|M
+game face."|speech|LOU|M|True
+919|ADAM|I didn't think you guys would show.|speech|ADAM|M|True
+920|BLAINE|This was my idea.|speech|BLAINE|M|True
 921|ADAM|"It's gonna make my victory taste
 all the more sweeter. Like a Peach
-Snapple."|speech|ADAM|M
-922|BLAINE|A what?|speech|BLAINE|M
+Snapple."|speech|ADAM|M|True
+922|BLAINE|A what?|speech|BLAINE|M|True
 923|ADAM|"You'll see.
 Blaine actually looks rattled, as the two men get lined up.
-Adam is on a SNOWBOARD."|speech|ADAM|M
-924|BLAINE|What's that?|speech|BLAINE|M
+Adam is on a SNOWBOARD."|speech|ADAM|M|True
+924|BLAINE|What's that?|speech|BLAINE|M|True
 925|ADAM|"You're not afraid of getting beat
 by a guy on a skateboard, are you?
-87."|speech|ADAM|M
+87."|speech|ADAM|M|True
 926|BLAINE|"I've seen you in action. You're
-reckless and terrible."|speech|BLAINE|M
+reckless and terrible."|speech|BLAINE|M|True
 927|ADAM|"Reckless and terrible's my middle
 name. Because I feel the need...
 (pulls on goggles)
 for speed!
-Chaz holds out his arm as a starting line."|speech|ADAM|M
-928|ADAM (CONT'D)|Catch ya at the bottom.|speech|ADAM|M
+Chaz holds out his arm as a starting line."|speech|ADAM|M|True
+928|ADAM (CONT'D)|Catch ya at the bottom.|speech|ADAM|M|True
 929|CHAZ|"3, 2, 1... GO!
 Blaine takes off down the mountain like a professional
 skiier, which he pretty much is. Adam looks toward Jacob,
 who demonstrates the proper CROUCH. Adam slowly picks up
 speed, starting at about one mile per hour.
 Blaine looks back and can't believe how easily he's gonna
-coast to victory."|speech|CHAZ|M
+coast to victory."|speech|CHAZ|M|True
 930|ADAM|"Here goes nothing.
 Instead of weaving back and forth, Adam just stays in the
 crouch, PICKING UP SPEED. He recklessly PASSES BLAINE,
@@ -2567,9 +2567,9 @@ despite the many TREES and OBSTACLES on the course.
 He BEARS DOWN AND TRAVELS LIKE A BOLT OF LIGHTNING!
 Blaine finds the guts to alter his STYLE, skiing more
 recklessly too. He begins catching up to Adam.
-Blaine skis up next to Adam - they're both going full force."|speech|ADAM|M
+Blaine skis up next to Adam - they're both going full force."|speech|ADAM|M|True
 931|BLAINE|"You can't beat me! I was born on
-this mountain!"|speech|BLAINE|M
+this mountain!"|speech|BLAINE|M|True
 932|ADAM|"I was born in a hospital like a
 normal baby!
 Adam bends down and picks up even more speed, NARROWLY
@@ -2578,18 +2578,18 @@ Adam has the finish line in his sights, when he rolls the
 dice once too often. His SNOWBOARD GETS SNAGGED on a rock
 and Adam TUMBLES TO THE GROUND.
 88.
-The SNOWBOARD FLIES OFF INTO THE AIR!"|speech|ADAM|M
-933||EXT. MOUNTAIN / BASE - DAY|location||
+The SNOWBOARD FLIES OFF INTO THE AIR!"|speech|ADAM|M|True
+933||EXT. MOUNTAIN / BASE - DAY|location|||
 934|CUT TO:|"Phil stands against a SHED, as a GUY THROWS A HATCHET at him,
 just narrowly missing his arm. Phil FLEXES HIS MUSCLES, as a
 HOT CHICK KISSES HIM.
 Then the SNOWBOARD FLIES INTO FRAME and SLICES OFF PHIL'S
-ARM, sending BLOOD SPLATTER EVERYWHERE!"|speech|CUT TO:|?
-935|PHIL|Ahhhh! My arm!!!|speech|PHIL|M
-936||EXT. MOUNTAIN / TOP - DAY - SAME TIME|location||
-937|PHIL|Lou watches with BINOCULARS and PUMPS HIS FIST.|speech|PHIL|M
-938|LOU|Yes!|speech|LOU|M
-939||EXT. MOUNTAIN - RACE - DAY|location||
+ARM, sending BLOOD SPLATTER EVERYWHERE!"|speech|CUT TO:|?|True
+935|PHIL|Ahhhh! My arm!!!|speech|PHIL|M|
+936||EXT. MOUNTAIN / TOP - DAY - SAME TIME|location|||
+937|PHIL|Lou watches with BINOCULARS and PUMPS HIS FIST.|speech|PHIL|M|
+938|LOU|Yes!|speech|LOU|M|True
+939||EXT. MOUNTAIN - RACE - DAY|location|||
 940|LOU|"As Adam tumbles on the ground, Blaine smiles, thinking he has
 the victory in the bag.
 But instead of stopping, Adam picks up speed, as he TUMBLES
@@ -2599,9 +2599,9 @@ Adam. It's gonna be close.
 At the FINISH LINE, Adam's CRUMPLED BODY passes the line
 first. Blaine pulls up, pissed off to lose the race.
 Adam's momentum carries him forward another 50 yards, where
-he SMASHES INTO A DECK and finally comes to a stop."|speech|LOU|M
-941|CUT TO:|A CHAMPAGNE BOTTLE POPS!|speech|CUT TO:|?
-942||INT. PINE VALLEY INN / SUITE - LATE AFTERNOON|location||
+he SMASHES INTO A DECK and finally comes to a stop."|speech|LOU|M|True
+941|CUT TO:|A CHAMPAGNE BOTTLE POPS!|speech|CUT TO:|?|True
+942||INT. PINE VALLEY INN / SUITE - LATE AFTERNOON|location|||
 943|CUT TO:|"A large ""BON VOYAGE"" BANNER hangs in the room.
 89.
 An ALL-OUT PARTY is going on in the guys' suite. GUESTS
@@ -2612,47 +2612,47 @@ The Coke Guy from the gondola talks with the Brew Haus
 Waitress.
 Adam's leg is in a CAST, as he sits at a table with Jacob,
 Nick, and Lou. The OPEN BACKPACK is in front of them. They
-DRINK and TOAST."|speech|CUT TO:|?
-944|NICK|You did it, man.|speech|NICK|M
+DRINK and TOAST."|speech|CUT TO:|?|True
+944|NICK|You did it, man.|speech|NICK|M|True
 945|ADAM|"Ah, it was nothing. I just fell
-down the mountain."|speech|ADAM|M
+down the mountain."|speech|ADAM|M|True
 946|NICK|"It was a beautiful fall.
 Lou goes into Adam's backpack and pulls out the SANDWICH,
-which he begins unwrapping."|speech|NICK|M
+which he begins unwrapping."|speech|NICK|M|True
 947|"ADAM
 (DISGUSTED)"|"Tell me you are not going to keep
 eating that.
-Lou takes a bite and SHRUGS."|speech|ADAM|M
-948|LOU|Chicken parm. It's my favorite.|speech|LOU|M
+Lou takes a bite and SHRUGS."|speech|ADAM|M|True
+948|LOU|Chicken parm. It's my favorite.|speech|LOU|M|True
 949|ADAM|"Chicken parm?
-Adam takes the sandwich from Lou. He looks at it closely."|speech|ADAM|M
+Adam takes the sandwich from Lou. He looks at it closely."|speech|ADAM|M|True
 950|"ADAM (CONT'D)
 (LAUGHS)"|"Chicken parm. On this roll.
-The guys look confused, as Adam stares at the sandwich."|speech|ADAM|M
-951|JACOB|Adam, what is it?|speech|JACOB|M
-952|FLASHBACK TO:|90.|speech|FLASHBACK TO:|?
-953||INT. FRENCH RESTAURANT - NIGHT|location||
+The guys look confused, as Adam stares at the sandwich."|speech|ADAM|M|True
+951|JACOB|Adam, what is it?|speech|JACOB|M|True
+952|FLASHBACK TO:|90.|speech|FLASHBACK TO:|?|True
+953||INT. FRENCH RESTAURANT - NIGHT|location|||
 954|FLASHBACK TO:|"Adam and Lily nervously make eye contact at the front of the
 restaurant, as a SNOOTY HOST shakes his head.
 ADAM (V.0.)
 It was our first date. You know
 those nights that are just perfect?
-This wasn't one of those nights."|speech|FLASHBACK TO:|?
-955||INT. MOVIE THEATER - DARK|location||
+This wasn't one of those nights."|speech|FLASHBACK TO:|?|True
+955||INT. MOVIE THEATER - DARK|location|||
 956|FLASHBACK TO:|"Adam and Lily sit through ""From Justin to Kelly,"" the
-American Idol movie. They don't enjoy themselves."|speech|FLASHBACK TO:|?
-957||EXT. PARKING LOT - NIGHT|location||
+American Idol movie. They don't enjoy themselves."|speech|FLASHBACK TO:|?|True
+957||EXT. PARKING LOT - NIGHT|location|||
 958|FLASHBACK TO:|"Adam inspects a HUGE DENT in the side of his car. As he does
 so, a car drives by, SPLASHING A PUDDLE on Lily.
 ADAM (V.0.)
 If Lily knew where we were, I'm
 sure she would've walked home. And
-I wouldn't have blamed her."|speech|FLASHBACK TO:|?
-959||EXT. ITALIAN DELI - NIGHT|location||
+I wouldn't have blamed her."|speech|FLASHBACK TO:|?|True
+959||EXT. ITALIAN DELI - NIGHT|location|||
 960|FLASHBACK TO:|"In the RAIN, Adam and Lily run toward the entrance of a
 little deli. Inside the doorway, a LITTLE OLD WOMAN shakes
-her head no. Adam pleads with his eyes and she lets them in."|speech|FLASHBACK TO:|?
-961||INT. ITALIAN DELI - NIGHT|location||
+her head no. Adam pleads with his eyes and she lets them in."|speech|FLASHBACK TO:|?|True
+961||INT. ITALIAN DELI - NIGHT|location|||
 962|FLASHBACK TO:|"Adam and Lily sit and talk animatedly at the counter in the
 small, empty deli, eating SANDWICHES.
 ADAM (V.0.)
@@ -2661,17 +2661,17 @@ found that deli, we would've eaten
 anything. So what if it wasn't
 foie gras and pino noir. It was
 chicken parm and Italian soda. And
-it couldn't have been more perfect."|speech|FLASHBACK TO:|?
-963||INT. PINE VALLEY INN / SUITE - DAY|location||
+it couldn't have been more perfect."|speech|FLASHBACK TO:|?|True
+963||INT. PINE VALLEY INN / SUITE - DAY|location|||
 964|BACK TO:|"The guys enjoy listening to Adam's story.
-91."|speech|BACK TO:|?
-965|NICK|That sandwich was special, huh?|speech|NICK|M
+91."|speech|BACK TO:|?|
+965|NICK|That sandwich was special, huh?|speech|NICK|M|True
 966|ADAM|"You could say that. You could also
-say it gave me horrible diarrhea."|speech|ADAM|M
-967||INT. ADAM'S APARTMENT / BATHROOM - NIGHT|location||
+say it gave me horrible diarrhea."|speech|ADAM|M|True
+967||INT. ADAM'S APARTMENT / BATHROOM - NIGHT|location|||
 968|FLASHBACK TO:|"Adam SHITS HIS BRAINS OUT. When it looks like. he might be
-done, he turns around and VOMITS into the toilet."|speech|FLASHBACK TO:|?
-969||INT. ADAM'S APARTMENT - NIGHT|location||
+done, he turns around and VOMITS into the toilet."|speech|FLASHBACK TO:|?|True
+969||INT. ADAM'S APARTMENT - NIGHT|location|||
 970|FLASHBACK TO:|"Lily waits by the bathroom door with some PEPTO and a GLASS
 OF WATER. She looks very concerned.
 ADAM (V.0.)
@@ -2679,65 +2679,65 @@ Lily had every opportunity to
 leave. She didn't know me at all
 and she certainly didn't owe me
 anything after the night I put her
-through. But she stayed."|speech|FLASHBACK TO:|?
-971||INT. ADAM'S APARTMENT - NIGHT|location||
+through. But she stayed."|speech|FLASHBACK TO:|?|True
+971||INT. ADAM'S APARTMENT - NIGHT|location|||
 972|FLASHBACK TO:|"Adam lays on the couch, his head in Lily's lap. She feeds
 him a little GATORADE. He keeps it down... for a moment.
 Then he turns and VOMITS into a BUCKET on the floor.
 ADAM (V.0.)
 She saw me at my worst and she
 stayed.
-Lily holds the bucket, as Adam pukes into it."|speech|FLASHBACK TO:|?
-973||INT. PINE VALLEY INN / SUITE - DAY|location||
-974|BACK TO:|Nick, Lou, and Jacob look sick.|speech|BACK TO:|?
+Lily holds the bucket, as Adam pukes into it."|speech|FLASHBACK TO:|?|True
+973||INT. PINE VALLEY INN / SUITE - DAY|location|||
+974|BACK TO:|Nick, Lou, and Jacob look sick.|speech|BACK TO:|?|
 975|ADAM|"Don't you see? This is more than a
 sandwich. It represents all that
 shit. All that puke.
-92."|speech|ADAM|M
-976|LOU|Keep the sandwich.|speech|LOU|M
-977|JACOB|This is disgusting.|speech|JACOB|M
+92."|speech|ADAM|M|True
+976|LOU|Keep the sandwich.|speech|LOU|M|True
+977|JACOB|This is disgusting.|speech|JACOB|M|True
 978|ADAM|"She gave me this as a reminder of
-her love."|speech|ADAM|M
+her love."|speech|ADAM|M|True
 979|(THINKS)|"Or to give me horrible diarrhea so
 I didn't leave the room during the
 bachelor party. But mostly as a
 reminder of her love.
-Adam holds up the sandwich."|speech||
+Adam holds up the sandwich."|speech|||
 980|ADAM (CONT'D)|"This is the reason I need to go
 home.
-Adam stands up and walks toward the door with the sandwich."|speech|ADAM|M
+Adam stands up and walks toward the door with the sandwich."|speech|ADAM|M|True
 981|ADAM (CONT'D)|"I'm gonna go prep the tub.
-Lou holds up a BAG OF CHIPS."|speech|ADAM|M
+Lou holds up a BAG OF CHIPS."|speech|ADAM|M|True
 982|LOU|"Do you have any stories about these
-chips or can I eat them?"|speech|LOU|M
-983||EXT. PINE VALLEY INN / PATIO - CONTINUOUS|location||
+chips or can I eat them?"|speech|LOU|M|True
+983||EXT. PINE VALLEY INN / PATIO - CONTINUOUS|location|||
 984|LOU|"Adam walks outside, taking a bite of the SANDWICH. He finds
-Jennie waiting in the TUB."|speech|LOU|M
-985|JENNIE|There you are!|speech|JENNIE|F
-986|ADAM|Jennie! What are you doing here?|speech|ADAM|M
+Jennie waiting in the TUB."|speech|LOU|M|True
+985|JENNIE|There you are!|speech|JENNIE|F|True
+986|ADAM|Jennie! What are you doing here?|speech|ADAM|M|True
 987|JENNIE|"Making good on a rumor.
 Jennie STANDS UP in the tub and she's TOPLESS.
-Adam DROPS THE SANDWICH, shocked."|speech|JENNIE|F
+Adam DROPS THE SANDWICH, shocked."|speech|JENNIE|F|True
 988|ADAM|"Whoa.
 93.
-Jennie continues talking, shamelessly exposing herself."|speech|ADAM|M
+Jennie continues talking, shamelessly exposing herself."|speech|ADAM|M|True
 989|JENNIE|"When I saw you win that race
 against Blaine, everything changed
 for me. I realize now that I
-deserve more. I deserve a winner."|speech|JENNIE|F
+deserve more. I deserve a winner."|speech|JENNIE|F|True
 990|(SEDUCTIVE)|"Come and get your prize.
-Adam reaches next to the tub and hands her a ROBE."|speech||
+Adam reaches next to the tub and hands her a ROBE."|speech|||
 991|ADAM|"Yeah, I... can't.
-She covers up, embarrassed."|speech|ADAM|M
+She covers up, embarrassed."|speech|ADAM|M|True
 992|JENNIE|"Oh my god. I missed my
-opportunity."|speech|JENNIE|F
+opportunity."|speech|JENNIE|F|True
 993|ADAM|"No, I'm not sure there ever was an
 opportunity. Jennie, you're
 terrific. You've brought me so
 many moments of joy, you'll never
 know. But I shouldn't have given
 you the wrong idea.
-Jennie looks sad and vulnerable, as Adam talks."|speech|ADAM|M
+Jennie looks sad and vulnerable, as Adam talks."|speech|ADAM|M|True
 994|ADAM (CONT'D)|"The truth is there's a girl I need
 to go see. We have plans to spend
 the rest of our lives together.
@@ -2745,150 +2745,150 @@ And I can't wait any longer.
 (listening to himself)
 And I'm totally cool with it.
 Adam smiles, feeling the rush of knowing he's ready. But
-then he sees how sad Jennie is. He moves closer to her."|speech|ADAM|M
+then he sees how sad Jennie is. He moves closer to her."|speech|ADAM|M|True
 995|ADAM (CONT'D)|"One day, you're going to find the
 right guy who's willing to give up
 everything and travel across time
 and space for your love.
-She nods and tears up a little bit, as Adam HUGS her."|speech|ADAM|M
+She nods and tears up a little bit, as Adam HUGS her."|speech|ADAM|M|True
 996|"JENNIE
 (EMOTIONAL)"|"I would totally blow you right now.
-94."|speech|JENNIE|F
-997|ADAM|I know you would.|speech|ADAM|M
-998||EXT. PINE VALLEY INN / PATIO - LATER THAT AFTERNOON|location||
+94."|speech|JENNIE|F|True
+997|ADAM|I know you would.|speech|ADAM|M|True
+998||EXT. PINE VALLEY INN / PATIO - LATER THAT AFTERNOON|location|||
 999|DISSOLVE TO:|"The guys stare at the tub, which continues to bubble, even
-though it's not plugged in."|speech|DISSOLVE TO:|?
+though it's not plugged in."|speech|DISSOLVE TO:|?|
 1000|NICK|"We don't have to go yet, Adam.
-Things are just getting fun."|speech|NICK|M
+Things are just getting fun."|speech|NICK|M|True
 1001|JACOB|"And we can do whatever we want
 without any real consequences.
-That's a lot to give up."|speech|JACOB|M
+That's a lot to give up."|speech|JACOB|M|True
 1002|"ADAM
 (NODS)"|"That's how I know I'm doing the
 right thing.
 Adam reaches in his backpack, but can't find the Red Bull.
-He turns it inside out and shakes it -- nothing."|speech|ADAM|M
+He turns it inside out and shakes it -- nothing."|speech|ADAM|M|True
 1003|JACOB|"Where's the Red Bull?
 BLAINE (V.0.)
 You looking for this?
-Across the patio, a drunk, disheveled Blaine holds the CAN."|speech|JACOB|M
+Across the patio, a drunk, disheveled Blaine holds the CAN."|speech|JACOB|M|True
 1004|BLAINE (CONT'D)|"You couldn't leave well enough
 alone, could ya? You couldn't just
 win the race and call it a day?
-You had to have Jennie too."|speech|BLAINE|M
-1005|ADAM|I don't want Jennie.|speech|ADAM|M
+You had to have Jennie too."|speech|BLAINE|M|True
+1005|ADAM|I don't want Jennie.|speech|ADAM|M|True
 1006|BLAINE|"That's funny. I don't want this
 soda, either.
 Blaine smiles like an asshole. Adam's face goes desperate,
-as Blaine OPENS THE CAN and DRINKS THE WHOLE THING."|speech|BLAINE|M
+as Blaine OPENS THE CAN and DRINKS THE WHOLE THING."|speech|BLAINE|M|True
 1007|ADAM|"Nooooo!
 95.
 Adam runs at Blaine and tackles him to the ground. On the
 ground, Adam BEATS THE LIVING HELL out of Blaine, messing up
 his face. It makes the Jared Leto scene from Fight Club look
 tame. Eventually, Adam's friends pull him off.
-Adam crawls to the Red Bull can and it's empty."|speech|ADAM|M
+Adam crawls to the Red Bull can and it's empty."|speech|ADAM|M|True
 1008|"ADAM (CONT'D)
 (DESPERATE)"|"Why?
-Lou takes Blaine's pulse."|speech|ADAM|M
+Lou takes Blaine's pulse."|speech|ADAM|M|True
 1009|LOU|"Holy shit! You may have killed
 this guy! No wait... wait... I've
 got a pulse. Eh, so much for that.
-Nick puts his hand on Adam's shoulder."|speech|LOU|M
-1010|NICK|I'm sorry man. I'm really sorry.|speech|NICK|M
-1011|ADAM|The Red Bull's gone. He fucked us.|speech|ADAM|M
+Nick puts his hand on Adam's shoulder."|speech|LOU|M|True
+1010|NICK|I'm sorry man. I'm really sorry.|speech|NICK|M|True
+1011|ADAM|The Red Bull's gone. He fucked us.|speech|ADAM|M|True
 1012|JACOB|"Not necessarily.
-Everyone looks toward Jacob."|speech|JACOB|M
+Everyone looks toward Jacob."|speech|JACOB|M|True
 1013|JACOB (CONT'D)|"The Red Bull isn't really gone.
 (points to Blaine)
 It's in him.
-A beat, as everyone sorta gets it."|speech|JACOB|M
+A beat, as everyone sorta gets it."|speech|JACOB|M|True
 1014|NICK|"It's worth a shot.
-TIME CUT TO:"|speech|NICK|M
-1015||EXT. PINE VALLEY INN / PATIO - MOMENTS LATER|location||
+TIME CUT TO:"|speech|NICK|M|True
+1015||EXT. PINE VALLEY INN / PATIO - MOMENTS LATER|location|||
 1016|NICK|"Adam, Nick, and Jacob sit in the tub. Adam crosses his
 fingers.
-Lou stands outside the tub, fully dressed."|speech|NICK|M
+Lou stands outside the tub, fully dressed."|speech|NICK|M|True
 1017|ADAM|"Come on, Lou.
-96."|speech|ADAM|M
-1018|LOU|Nah, I'll take a rain check.|speech|LOU|M
-1019|NICK|What are you talking about?|speech|NICK|M
+96."|speech|ADAM|M|True
+1018|LOU|Nah, I'll take a rain check.|speech|LOU|M|True
+1019|NICK|What are you talking about?|speech|NICK|M|True
 1020|LOU|"Listen, your lives at home sound
 all beautiful and happy with your
 barbecues and swimming pools and
 ""oh, that sandwich reminds of some
 gay shit I did one time.""
-Adam and Nick don't look thrilled to be reduced to this."|speech|LOU|M
+Adam and Nick don't look thrilled to be reduced to this."|speech|LOU|M|True
 1021|LOU (CONT'D)|"But my life back there sucks. And
 in case you haven't noticed, my
 life here fucking rules. So I have
 a coke problem? I'll go to rehab.
 I have no money? I'll stop winning
 sex and start winning dollars.
-Lou DRAGS BLAINE by the foot closer to the tub."|speech|LOU|M
+Lou DRAGS BLAINE by the foot closer to the tub."|speech|LOU|M|True
 1022|LOU (CONT'D)|"Guys, I was tailor-made for 1987.
 And you'll excuse me, but I value
 banging young chicks way more than
-all of your friendships combined."|speech|LOU|M
+all of your friendships combined."|speech|LOU|M|True
 1023|(THEN)|"No offense.
-Adam, Nick, and Jacob kinda nod and understand."|speech||
+Adam, Nick, and Jacob kinda nod and understand."|speech|||
 1024|ADAM|"Yeah, no, I get it.
-Lou goes around and gives them all hugs."|speech|ADAM|M
+Lou goes around and gives them all hugs."|speech|ADAM|M|True
 1025|NICK|"Makes perfect sense, man.
-Lou squeezes Jacob's shoulder."|speech|NICK|M
+Lou squeezes Jacob's shoulder."|speech|NICK|M|True
 1026|LOU|"I don't hate you as much as I used
-to."|speech|LOU|M
+to."|speech|LOU|M|True
 1027|JACOB|"(a little emotional)
 I hate you a little less also.
 Lou LIFTS BLAINE'S LIMP BODY.
-97."|speech|JACOB|M
-1028|ADAM|OK, whenever you're ready, Lou.|speech|ADAM|M
+97."|speech|JACOB|M|True
+1028|ADAM|OK, whenever you're ready, Lou.|speech|ADAM|M|True
 1029|LOU|"One small step for man! One giant
 asshole puking in a hot tub! Here
 goes nothing!
 Lou does the HEIMLICH MANEUVER on Blaine. It takes ONE...
 TWO... THREE THRUSTS until Blaine PUKES IN THE TUB! For a
-second, it's just a BIG SPLASH of VOMIT and nothing else."|speech|LOU|M
+second, it's just a BIG SPLASH of VOMIT and nothing else."|speech|LOU|M|True
 1030|NICK|"OK, well maybe if we--
 A BRIGHT FLASH CONSUMES THE SCREEN! And when it dies down,
 we see Adam, Nick, Jacob (and the floating puke) in the hot
 tub where we left them.
-Only Lou is missing."|speech|NICK|M
-1031|ADAM|What happened? Did it work?|speech|ADAM|M
-1032|NICK|I didn't feel anything.|speech|NICK|M
+Only Lou is missing."|speech|NICK|M|True
+1031|ADAM|What happened? Did it work?|speech|ADAM|M|True
+1032|NICK|I didn't feel anything.|speech|NICK|M|True
 1033|"JACOB
 (DISAPPOINTED)"|"Guys, look.
 They see PEOPLE walking by, wearing COLORFUL FLARED-OUT SKI
-ATTIRE. The place looks the same as it did two seconds ago."|speech|JACOB|M
+ATTIRE. The place looks the same as it did two seconds ago."|speech|JACOB|M|True
 1034|NICK|"Dammit. Even the deck furniture's
 the same. We fucking blew it. It
-didn't work."|speech|NICK|M
+didn't work."|speech|NICK|M|True
 1035|ADAM|"Where's Lou?
 LOU (O.S.)
-Right on schedule!"|speech|ADAM|M
+Right on schedule!"|speech|ADAM|M|True
 1036||"Lou walks toward them, but there's a lot that's ""off"" about
-him, including HAIR PLUGS, JEWELRY, and a SHITLOAD OF PLASTIC"|stage direction||
+him, including HAIR PLUGS, JEWELRY, and a SHITLOAD OF PLASTIC"|stage direction|||
 1037|ADAM|"SURGERY (including a fixed NOSE) that makes him look at once
-older and younger."|speech|ADAM|M
+older and younger."|speech|ADAM|M|True
 1038|NICK|"Ahhh!
-98."|speech|NICK|M
+98."|speech|NICK|M|True
 1039|LOU|"Oh, the face, eh? I was curious
-how you'd react."|speech|LOU|M
-1040|(DISAPPOINTED)|Didn't think you'd be scared.|speech||
-1041|ADAM|Lou?|speech|ADAM|M
-1042|LOU|You're damn right it's me.|speech|LOU|M
-1043|ADAM|What happened?|speech|ADAM|M
+how you'd react."|speech|LOU|M|True
+1040|(DISAPPOINTED)|Didn't think you'd be scared.|speech|||
+1041|ADAM|Lou?|speech|ADAM|M|True
+1042|LOU|You're damn right it's me.|speech|LOU|M|True
+1043|ADAM|What happened?|speech|ADAM|M|True
 1044|LOU|"You just traveled 23 years in three
 seconds. Took me 23 years. It's
-good to see you guys!"|speech|LOU|M
-1045|JACOB|We're back? It all looks the same.|speech|JACOB|M
+good to see you guys!"|speech|LOU|M|True
+1045|JACOB|We're back? It all looks the same.|speech|JACOB|M|True
 1046|LOU|"It better! You know how much I pay
 the groundspeople around here? A
 lot. But that's all right, I'm
 fucking loaded. Look at all this.
-Everyone looks confused."|speech|LOU|M
+Everyone looks confused."|speech|LOU|M|True
 1047|ADAM|"Will you fill in some of the blanks
-for me, please?"|speech|ADAM|M
+for me, please?"|speech|ADAM|M|True
 1048|LOU|"I'll give you the short version,
 because time is of the essence.
 First of all, to settle an old bet,
@@ -2896,91 +2896,91 @@ time most definitely has been
 moving forward. It is exactly
 three days since you've arrived
 here in beautiful Havenhurst.
-Jacob looks at Nick."|speech|LOU|M
-1049|JACOB|Told you.|speech|JACOB|M
+Jacob looks at Nick."|speech|LOU|M|True
+1049|JACOB|Told you.|speech|JACOB|M|True
 1050|LOU|"Secondly, I'm filthy rich. Made
 sports bets. Sued Ace of Base. I
 own most of V
 ermont. (MORE)
-99."|speech|LOU|M
+99."|speech|LOU|M|True
 1051|LOU (CONT'D)|"I've been reimagining the state as
 my own personal playground. You
 could say I'm a little bit like
 Michael Jackson, except I don't
 fuck kids.
-Two YOUNG HOTTIES walk by and wave at Lou."|speech|LOU|M
+Two YOUNG HOTTIES walk by and wave at Lou."|speech|LOU|M|True
 1052|LOU (CONT'D)|"I do fuck them, though. Haven't
 gone above 24 years old in 10 years
-and even then, it was a mistake."|speech|LOU|M
-1053|(REMEMBERING)|A horrible mistake.|speech||
-1054|ADAM|Wait, fuck, Lou what time is it?|speech|ADAM|M
+and even then, it was a mistake."|speech|LOU|M|True
+1053|(REMEMBERING)|A horrible mistake.|speech|||
+1054|ADAM|Wait, fuck, Lou what time is it?|speech|ADAM|M|True
 1055|LOU|"Way ahead of you, Adam. You have 2
 hours to get to New Jersey in time
-for your rehearsal dinner."|speech|LOU|M
+for your rehearsal dinner."|speech|LOU|M|True
 1056|"ADAM
-(DISAPPOINTED)"|Great, I blew it.|speech|ADAM|M
+(DISAPPOINTED)"|Great, I blew it.|speech|ADAM|M|True
 1057|LOU|"Not even a little bit. I have a
 helicopter waiting in the parking
 lot and a private jet on my
 airfield five minutes away.
-The guys look stunned."|speech|LOU|M
+The guys look stunned."|speech|LOU|M|True
 1058|LOU (CONT'D)|"I had some time to plan. God, it's
-good to have you guys back!"|speech|LOU|M
-1059||EXT. PRIVATE AIRFIELD - AFTERNOON|location||
-1060|LOU (CONT'D)|Lou's private jet takes off from the runway.|speech|LOU|M
-1061||INT. PRIVATE JET - AFTERNOON|location||
+good to have you guys back!"|speech|LOU|M|True
+1059||EXT. PRIVATE AIRFIELD - AFTERNOON|location|||
+1060|LOU (CONT'D)|Lou's private jet takes off from the runway.|speech|LOU|M|True
+1061||INT. PRIVATE JET - AFTERNOON|location|||
 1062|LOU (CONT'D)|"The guys sit back and enjoy the plush surroundings and the
-beautiful FLIGHT ATTENDANTS aboard Lou's jet."|speech|LOU|M
+beautiful FLIGHT ATTENDANTS aboard Lou's jet."|speech|LOU|M|True
 1063|LOU|"By the way, Adam, I hope you don't
 mind. Right after you left, I
 fucked Jennie silly.
-100."|speech|LOU|M
-1064|ADAM|Why would she have sex with you?|speech|ADAM|M
+100."|speech|LOU|M|True
+1064|ADAM|Why would she have sex with you?|speech|ADAM|M|True
 1065|LOU|"You get the big time assist. All
 that talk of her finding the right
 guy who's willing to give up
 everything? Made her wetter than a
-log flume."|speech|LOU|M
-1066|(SMILES)|She's all-time top five.|speech||
-1067|ADAM|Good to hear.|speech|ADAM|M
-1068|NICK|Lou, I gotta ask you something.|speech|NICK|M
-1069|LOU|Time travel paradox.|speech|LOU|M
+log flume."|speech|LOU|M|True
+1066|(SMILES)|She's all-time top five.|speech|||
+1067|ADAM|Good to hear.|speech|ADAM|M|True
+1068|NICK|Lou, I gotta ask you something.|speech|NICK|M|True
+1069|LOU|Time travel paradox.|speech|LOU|M|True
 1070|NICK|"Exactly. Aren't there now two of
-you living here in 2010?"|speech|NICK|M
+you living here in 2010?"|speech|NICK|M|True
 1071|LOU|"Think really hard about that one.
 What happened to me when I was 19?
 Nick shrugs. He looks at Adam. Suddenly, both their eyes
-nearly pop out of their skulls."|speech|LOU|M
-1072|NICK|No way...|speech|NICK|M
+nearly pop out of their skulls."|speech|LOU|M|True
+1072|NICK|No way...|speech|NICK|M|True
 1073|ADAM|"You went missing and were never
-found."|speech|ADAM|M
+found."|speech|ADAM|M|True
 1074|LOU|"Yeah, you're gonna have some
 lingering memories of both
-versions."|speech|LOU|M
+versions."|speech|LOU|M|True
 1075|ADAM|"Wait a minute, what happened to...
-you know. Other Lou."|speech|ADAM|M
-1076|LOU|You don't wanna know.|speech|LOU|M
+you know. Other Lou."|speech|ADAM|M|True
+1076|LOU|You don't wanna know.|speech|LOU|M|True
 1077|ADAM|"Lou...
-101."|speech|ADAM|M
+101."|speech|ADAM|M|True
 1078|LOU|"The kid sucked, OK? He couldn't
 take even a little bit of
 direction. Pretty soon I realized
 that having two versions of the
 same dude walking around -- as cool
 as that sounds -- didn't make very
-much sense to me."|speech|LOU|M
-1079|NICK|OK?|speech|NICK|M
-1080|LOU|So I took care of the problem.|speech|LOU|M
-1081|NICK|What did you do?|speech|NICK|M
-1082|LOU|I had to do it.|speech|LOU|M
-1083|ADAM|What did you do?|speech|ADAM|M
-1084|LOU|I killed myself.|speech|LOU|M
-1085|ADAM|Jesus Christ.|speech|ADAM|M
+much sense to me."|speech|LOU|M|True
+1079|NICK|OK?|speech|NICK|M|True
+1080|LOU|So I took care of the problem.|speech|LOU|M|True
+1081|NICK|What did you do?|speech|NICK|M|True
+1082|LOU|I had to do it.|speech|LOU|M|True
+1083|ADAM|What did you do?|speech|ADAM|M|True
+1084|LOU|I killed myself.|speech|LOU|M|True
+1085|ADAM|Jesus Christ.|speech|ADAM|M|True
 1086|LOU|"Yeah, it was really some
 existential shit. I mean, here I
 am committing homicide and I'm
-actually committing suicide."|speech|LOU|M
-1087|NICK|How could you?|speech|NICK|M
+actually committing suicide."|speech|LOU|M|True
+1087|NICK|How could you?|speech|NICK|M|True
 1088|LOU|"It was easy actually. For a
 minute, I thought I might be
 dealing with that whole Timecop
@@ -2989,42 +2989,42 @@ can't occupy the same space at the
 same time bullshit and we both go
 poof? Especially after that whole
 nose thing. But no, it was just a
-murder. I didn't suffer."|speech|LOU|M
+murder. I didn't suffer."|speech|LOU|M|True
 1089|ADAM|"I don't wanna hear any more.
-102."|speech|ADAM|M
-1090|LOU|It was strangulation.|speech|LOU|M
+102."|speech|ADAM|M|True
+1090|LOU|It was strangulation.|speech|LOU|M|True
 1091|ADAM|"I don't wanna hear any more!
-They sit in horrified silence for a bit."|speech|ADAM|M
+They sit in horrified silence for a bit."|speech|ADAM|M|True
 1092|LOU|"You'll have to introduce me when we
 get there. Your families won't
 know me. Although I'm sure they're
-huge fans."|speech|LOU|M
+huge fans."|speech|LOU|M|True
 1093|(ABRUPT)|"So hey, getting married, huh?
 Taking the plunge!
-Adam looks disturbed. Nick looks confused."|speech||
-1094|NICK|This makes no sense at all.|speech|NICK|M
-1095||INT. RESTAURANT - NIGHT|location||
+Adam looks disturbed. Nick looks confused."|speech|||
+1094|NICK|This makes no sense at all.|speech|NICK|M|True
+1095||INT. RESTAURANT - NIGHT|location|||
 1096|NICK|"Lily looks beautiful, surrounded by FAMILY and FRIENDS.
 Still, she looks distant and lonely. Until --
 A LILY (the flower) comes into frame.
 Lily smiles and stands up. She turns around. Adam's
 standing there with a whole bouquet of flowers. Lily gives
-him a BIG HUG AND KISS. When she's done:"|speech|NICK|M
+him a BIG HUG AND KISS. When she's done:"|speech|NICK|M|True
 1097|LILY|"Don't you ever let me take your
-phone again!"|speech|LILY|F
+phone again!"|speech|LILY|F|True
 1098|"ADAM
 (COY)"|"I'm here on time. Just like I
 promised.
-Nick sits down next to COURTNEY and Jacob takes his seat."|speech|ADAM|M
+Nick sits down next to COURTNEY and Jacob takes his seat."|speech|ADAM|M|True
 1099|ADAM (CONT'D)|"(no nerves at all)
 I'm so happy to see you and I can't
 wait to spend the rest of my life
-with you."|speech|ADAM|M
+with you."|speech|ADAM|M|True
 1100|"LILY
 (TEARFUL)"|"Me too!
-103."|speech|LILY|F
+103."|speech|LILY|F|True
 1101|ADAM|"You're the one.
-Lily notices Adam's on CRUTCHES."|speech|ADAM|M
+Lily notices Adam's on CRUTCHES."|speech|ADAM|M|True
 1102|LILY|"Oh my god, what happened?
 LOU (O.S.)
 My fault entirely, madam!
@@ -3033,7 +3033,7 @@ ENTRANCE, wearing a WHITE TUXEDO.
 GUY AT TABLE
 Hey, it's Lou Blustein!
 The whole room APPLAUDS Lou, as he walks in. Adam and the
-guys can't believe it."|speech|LILY|F
+guys can't believe it."|speech|LILY|F|True
 1103|LOU|"I was partaking in a little ski
 adventure and I mistakenly wandered
 into your fiance's path. His
@@ -3041,98 +3041,98 @@ broken leg is my broken heart. My
 most humble apologies.
 Lou scrapes and bows and regally kisses Lily's hand. She
 looks genuinely flattered.
-Lou gets up and whispers to Adam."|speech|LOU|M
+Lou gets up and whispers to Adam."|speech|LOU|M|True
 1104|LOU (CONT'D)|"See? I'm awesome here. You
-shoulda stayed out of that tub."|speech|LOU|M
-1105||INT. RESTAURANT - NIGHT - LATER|location||
-1106|CUT TO:|Nick SLOW DANCES with Courtney.|speech|CUT TO:|?
+shoulda stayed out of that tub."|speech|LOU|M|True
+1105||INT. RESTAURANT - NIGHT - LATER|location|||
+1106|CUT TO:|Nick SLOW DANCES with Courtney.|speech|CUT TO:|?|True
 1107|NICK|"I was thinking we'd invite Adam and
 Lily over for dinner when they get
 back from their honeymoon.
-That's... if it's OK with you?"|speech|NICK|M
+That's... if it's OK with you?"|speech|NICK|M|True
 1108|COURTNEY|"Why wouldn't it be OK with me?
-That sounds nice."|speech|COURTNEY|?
+That sounds nice."|speech|COURTNEY|?|
 1109|"(SMILES)
-(MORE)"|104.|speech||
+(MORE)"|104.|speech|||
 1110|COURTNEY (CONT'D)|"You look so good in this shirt, by
 the way. Nice choice.
-She puts her head on Nick's shoulder as they dance."|speech|COURTNEY|?
-1111|NICK|So... how are your parents?|speech|NICK|M
+She puts her head on Nick's shoulder as they dance."|speech|COURTNEY|?|
+1111|NICK|So... how are your parents?|speech|NICK|M|True
 1112|COURTNEY|"Still working hard. I really wish
 they could retire already, but it's
 tough competing with the big
 chains. I mean, they just have the
-one store..."|speech|COURTNEY|?
-1113||EXT. HAVENHURST MAIN DRAG - 1987 - DAY|location||
+one store..."|speech|COURTNEY|?|
+1113||EXT. HAVENHURST MAIN DRAG - 1987 - DAY|location|||
 1114|FLASHBACK TO:|"The Japanese Businessman is on a PAY PHONE, speaking RAPIDLY
-in Japanese."|speech|FLASHBACK TO:|?
+in Japanese."|speech|FLASHBACK TO:|?|True
 1115|"JAPANESE BUSINESSMAN
 (IN JAPANESE)"|"Hiro-san! Cancel the paperwork!
 We have to get back to Tokyo. I
 have inside information that
 undermines the supermarket deal.
-Nick stands next to him, nodding and SMILING WIDELY."|speech|JAPANESE BUSINESSMAN|?
-1116||INT. RESTAURANT - NIGHT - PRESENT DAY|location||
-1117|BACK TO:|Nick enjoys dancing with his mellow, awesome wife.|speech|BACK TO:|?
+Nick stands next to him, nodding and SMILING WIDELY."|speech|JAPANESE BUSINESSMAN|?|True
+1116||INT. RESTAURANT - NIGHT - PRESENT DAY|location|||
+1117|BACK TO:|Nick enjoys dancing with his mellow, awesome wife.|speech|BACK TO:|?|
 1118|"NICK
 (SMILES)"|"You know what they say about hard
 work. Builds character.
 BY THE BAR
 Adam orders drinks, as his PHONE RINGS. He picks it up and
 in an instant, JACOB IS STANDING RIGHT BEFORE HIM as a VERY
-REALISTIC HOLOGRAM."|speech|NICK|M
+REALISTIC HOLOGRAM."|speech|NICK|M|True
 1119|ADAM|"Ahh!
-105."|speech|ADAM|M
+105."|speech|ADAM|M|True
 1120|JACOB|"This is why we shouldn't have sold
 that iPod.
-Adam puts his hand through Jacob, who speaks with purpose."|speech|JACOB|M
+Adam puts his hand through Jacob, who speaks with purpose."|speech|JACOB|M|True
 1121|JACOB (CONT'D)|"The Japanese have apparently
 cornered the technology sector over
 the past 20 years. We've dealt
 American businesses quite an
-irreparable blow."|speech|JACOB|M
-1122|ADAM|What does that mean for us?|speech|ADAM|M
+irreparable blow."|speech|JACOB|M|True
+1122|ADAM|What does that mean for us?|speech|ADAM|M|True
 1123|JACOB|"Pretty much nothing for us
 personally. We just get cooler
-phones and iPods and shit."|speech|JACOB|M
+phones and iPods and shit."|speech|JACOB|M|True
 1124|ADAM|"Oh. Great!
 Jacob CLICKS OFF and disappears, as Lily approaches. Adam
-can't help but beam from ear to ear."|speech|ADAM|M
-1125|ADAM (CONT'D)|You're so beautiful.|speech|ADAM|M
+can't help but beam from ear to ear."|speech|ADAM|M|True
+1125|ADAM (CONT'D)|You're so beautiful.|speech|ADAM|M|True
 1126|LILY|"I know you were only gone for a
 couple days, but I missed you so
 much.
-Adam takes her hand."|speech|LILY|F
+Adam takes her hand."|speech|LILY|F|True
 1127|ADAM|"Come on, let's get out of here. We
 have unfinished business.
-Lily smiles. She gets into it."|speech|ADAM|M
+Lily smiles. She gets into it."|speech|ADAM|M|True
 1128|LILY|"It's about time. OK, what's the
-fantasy?"|speech|LILY|F
+fantasy?"|speech|LILY|F|True
 1129|"ADAM
 (GENUINE)"|"How about you're the woman I love
-and I'm the man of your dreams?"|speech|ADAM|M
+and I'm the man of your dreams?"|speech|ADAM|M|True
 1130|LILY|"Booor-ing!!
-106."|speech|LILY|F
+106."|speech|LILY|F|True
 1131|ADAM|"OK, you're a nurse and a snake bit
-my penis."|speech|ADAM|M
+my penis."|speech|ADAM|M|True
 1132|LILY|"Done and done.
-They bolt for the door and we"|speech|LILY|F
-1133||INT. RESTAURANT - NIGHT - LATER|location||
+They bolt for the door and we"|speech|LILY|F|True
+1133||INT. RESTAURANT - NIGHT - LATER|location|||
 1134|CUT TO:|"The party is winding down and only a FEW GUESTS remain. At a
 table in the corner, Lou has an EXTENDED MAKE OUT SESSION
 with a STUNNINGLY BEAUTIFUL GIRL in her early 20s.
-They finally come up for air."|speech|CUT TO:|?
-1135|LOU|So you're friends with the bride?|speech|LOU|M
+They finally come up for air."|speech|CUT TO:|?|True
+1135|LOU|So you're friends with the bride?|speech|LOU|M|True
 1136|BEAUTIFUL GIRL|"Can you keep a secret? I'm
-actually kinda crashing the party."|speech|BEAUTIFUL GIRL|?
+actually kinda crashing the party."|speech|BEAUTIFUL GIRL|?|
 1137|LOU|"Naughty girl. You're secret's safe
-with me."|speech|LOU|M
+with me."|speech|LOU|M|True
 1138|BEAUTIFUL GIRL|"I'm just in town for a couple of
 nights. I'm actually looking for
-my father. We've never met."|speech|BEAUTIFUL GIRL|?
-1139|LOU|I'm from here. Maybe I know him.|speech|LOU|M
+my father. We've never met."|speech|BEAUTIFUL GIRL|?|
+1139|LOU|I'm from here. Maybe I know him.|speech|LOU|M|True
 1140|BEAUTIFUL GIRL|"His name is Hank Musselman.
-For a moment, Lou's expression FREEZES. He blinks. Then --"|speech|BEAUTIFUL GIRL|?
+For a moment, Lou's expression FREEZES. He blinks. Then --"|speech|BEAUTIFUL GIRL|?|
 1141|LOU|"No, never heard of him.
 He goes back to MAKING OUT WITH HER and we:
-FADE OUT."|speech|LOU|M
+FADE OUT."|speech|LOU|M|True

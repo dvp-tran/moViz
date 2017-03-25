@@ -1,7 +1,7 @@
-|character|text|type|character_clean|gender
-0||SAW|unknown||
-1||Written by|location||
-2||James Wan & Leigh Whannell|unknown||
+|character|text|type|character_clean|gender|principal_character
+0||SAW|unknown|||
+1||Written by|location|||
+2||James Wan & Leigh Whannell|unknown|||
 3||"Darkness.
 The soft sound of moving water can be heard in the background.
 From the top of the screen a tiny, floating light moves its way
@@ -24,7 +24,7 @@ He manages to get to his feet, but as he moves forward he realizes
 that his ankle is chained to something. He feels his way over
 to a pipe in the corner, reaching down and pulling at his chain
 that is attached to it. He cries out, his voice frantic, frightened,
-and a bit hysterical."|stage direction||
+and a bit hysterical."|stage direction|||
 4|ADAM|"Help! Someone help me! (He stops when
 he hears a loud dragging sound somewhere
 in the room. He looks out into the darkness
@@ -32,31 +32,31 @@ and calls out.) Is someone there? Hey!
 (He turns back to the corner to which
 he is chained, says in a slightly softer
 but still panicked voice) Shit, I’m
-probably dead."|speech|ADAM|M
+probably dead."|speech|ADAM|M|True
 5||"Suddenly, from out within the darkness comes a man’s low, raspy
 voice. It startles Adam. The voice, we will soon learn, belongs
-to LAWRENCE."|stage direction||
-6|LAWRENCE|You’re not dead.|speech|LAWRENCE|M
+to LAWRENCE."|stage direction|||
+6|LAWRENCE|You’re not dead.|speech|LAWRENCE|M|True
 7||"Adam quickly turns in the direction of the voice. Holding his
 arms out for balance, he tries to look across the room to whoever
-is speaking, but still cannot see a thing."|stage direction||
-8|ADAM|Who’s that? Who’s that?!|speech|ADAM|M
+is speaking, but still cannot see a thing."|stage direction|||
+8|ADAM|Who’s that? Who’s that?!|speech|ADAM|M|True
 9|LAWRENCE|"(his voice strangely a bit on the calm
 side, and almost irritated with Adam’s
 reaction to the situation. This shall
 be his tone for many scenes to come.)
 There’s no point in yelling, I already
-tried it."|speech|LAWRENCE|M
-10|ADAM|Turn on the lights!|speech|ADAM|M
-11|LAWRENCE|Would if I could.|speech|LAWRENCE|M
+tried it."|speech|LAWRENCE|M|True
+10|ADAM|Turn on the lights!|speech|ADAM|M|True
+11|LAWRENCE|Would if I could.|speech|LAWRENCE|M|True
 12|ADAM|"What the fuck is going on? Where am
 I? (He turns into his corner, touching
-the wall.)"|speech|ADAM|M
-13|LAWRENCE|I don’t know yet.|speech|LAWRENCE|M
+the wall.)"|speech|ADAM|M|True
+13|LAWRENCE|I don’t know yet.|speech|LAWRENCE|M|True
 14|ADAM|"(smelling something; in disgust) What
-is that smell?"|speech|ADAM|M
+is that smell?"|speech|ADAM|M|True
 15|LAWRENCE|"Shh! Hang on a second, I think I found
-something."|speech|LAWRENCE|M
+something."|speech|LAWRENCE|M|True
 16||"With a loud click and an even louder buzzing sound, the very
 bright fluorescent lights come to life, lighting up in rows,
 starting from Lawrence’s end and moving towards Adam. As they
@@ -83,60 +83,60 @@ boxer shorts and a tee shirt. In his left hand is a gun, in his
 right hand is a micro cassette recorder. A gunshot and a scream
 are heard as the camera moves up and in a fast 360° angle above
 and circling the man, ending in a full overhead view of him.
-The shot cuts to Adam, who reels in shock and disgust."|stage direction||
-17|ADAM|Holy shit!|speech|ADAM|M
+The shot cuts to Adam, who reels in shock and disgust."|stage direction|||
+17|ADAM|Holy shit!|speech|ADAM|M|True
 18||"He turns towards the tub and leans over, gagging and coughing.
 Lawrence in the meantime hops forward the best he can, studying
 the body with a look of fear and concern. Adam stops coughing
 and turns back around, takes another look at the body and around
 the room. He looks down at his chain then starts to completely
-freak out, grabbing and pulling at his chain."|stage direction||
+freak out, grabbing and pulling at his chain."|stage direction|||
 19|ADAM|"(screaming) HELP!!! (He falls back onto
 his bottom on the floor as he yanks
 at the chain as hard as he can.) HELP!!!
-Help!"|speech|ADAM|M
+Help!"|speech|ADAM|M|True
 20||"Lawrence just stands and watches him with an almost embarrassed,
 appalled look at his behaviour. It seems that Lawrence, despite
 being in the situation he’s in, is above that kind of uncontrolled
-reaction. He speaks a bit coldly."|stage direction||
-21|LAWRENCE|No one can hear you.|speech|LAWRENCE|M
+reaction. He speaks a bit coldly."|stage direction|||
+21|LAWRENCE|No one can hear you.|speech|LAWRENCE|M|True
 22||"Adam stops pulling at the chain, stands up and looks to Lawrence,
 his breathing fast and heavy. His voice is not yelling anymore
-but still just as hysterical."|stage direction||
-23|ADAM|What the fuck is this?|speech|ADAM|M
+but still just as hysterical."|stage direction|||
+23|ADAM|What the fuck is this?|speech|ADAM|M|True
 24|LAWRENCE|"Calm down, just calm down. (He knows
 that to remain calm is to remain in
 control, something he must be no matter
-what the situation.) Are you hurt?"|speech|LAWRENCE|M
-25||Adam looks down at himself, shrugging slightly.|stage direction||
-26|ADAM|I don’t know...yeah!|speech|ADAM|M
+what the situation.) Are you hurt?"|speech|LAWRENCE|M|True
+25||Adam looks down at himself, shrugging slightly.|stage direction|||
+26|ADAM|I don’t know...yeah!|speech|ADAM|M|True
 27||"Lawrence moves over to the pipe in the corner, leaning against
-it for support."|stage direction||
-28|LAWRENCE|(calmly) What’s your name?|speech|LAWRENCE|M
+it for support."|stage direction|||
+28|LAWRENCE|(calmly) What’s your name?|speech|LAWRENCE|M|True
 29|ADAM|"(sarcastic) My name is Very Fucking
 Confused! (demanding) What’s your name?
-What’s going on here?"|speech|ADAM|M
+What’s going on here?"|speech|ADAM|M|True
 30|LAWRENCE|"(internal eye roll; he’s getting more
 and more aggravated with Adam’s behaviour)
 My name is Lawrence Gordon, I’m a doctor.
 I just woke up here, just like you.
 (He reaches up, wipes his face with
-his sleeve)"|speech|LAWRENCE|M
+his sleeve)"|speech|LAWRENCE|M|True
 31||"Adam kneels back down facing the pipe, pulling at his chains
 once more, but not with his prior panic. He winces at the metal
-biting into his skin."|stage direction||
-32|ADAM|(in pain) Ah!|speech|ADAM|M
+biting into his skin."|stage direction|||
+32|ADAM|(in pain) Ah!|speech|ADAM|M|True
 33||"Lawrence looks at Adam with a look that seems to say I’m stuck
-in here with THIS guy? He then glances down at the body."|stage direction||
-34|LAWRENCE|Recognize him?|speech|LAWRENCE|M
+in here with THIS guy? He then glances down at the body."|stage direction|||
+34|LAWRENCE|Recognize him?|speech|LAWRENCE|M|True
 35||"Adam continues to pull at his chains, does not and will not look
-at the body, just shakes his head."|stage direction||
-36|ADAM|(sharply) No.|speech|ADAM|M
+at the body, just shakes his head."|stage direction|||
+36|ADAM|(sharply) No.|speech|ADAM|M|True
 37|LAWRENCE|"(trying to get SOMETHING out of this
 kid) Well, do you have any idea how
-you got here?"|speech|LAWRENCE|M
-38|ADAM|No.|speech|ADAM|M
-39|LAWRENCE|What’s the last thing you remember?|speech|LAWRENCE|M
+you got here?"|speech|LAWRENCE|M|True
+38|ADAM|No.|speech|ADAM|M|True
+39|LAWRENCE|What’s the last thing you remember?|speech|LAWRENCE|M|True
 40|ADAM|"Nothing. (he sits back onto the floor,
 stops pulling at his chains for a moment.)
 I went to bed in my shithole apartment,
@@ -147,52 +147,52 @@ cuff. He glances to Lawrence, who has
 moved over to the wall to his left,
 bent over slightly and resting a hand
 against a pipe.) So what about you,
-huh?"|speech|ADAM|M
+huh?"|speech|ADAM|M|True
 41|LAWRENCE|"(He shrugs slightly, shaking his head.)
 Well there’s...there’s not much to tell,
 really. (Across the room, Adam gives
 up with the chain for the time being
 but remains sitting on the floor.) I
 was on my way home from work and uh,
-I don’t remember anything else."|speech|LAWRENCE|M
+I don’t remember anything else."|speech|LAWRENCE|M|True
 42||"Adam just sits there, glancing over to the body and then focusing
 on it much more. The initial panic has worn off for now, replaced
-simply with fear and shock. His voice is a bit softer."|stage direction||
+simply with fear and shock. His voice is a bit softer."|stage direction|||
 43|ADAM|"First dead body I’ve ever seen. Look
-different in real life. They don’t move."|speech|ADAM|M
+different in real life. They don’t move."|speech|ADAM|M|True
 44||"Lawrence slowly lowers himself into a sitting position against
-the wall. He pokes slightly at the iron cuff around his foot."|stage direction||
+the wall. He pokes slightly at the iron cuff around his foot."|stage direction|||
 45|LAWRENCE|"From the looks of these chains, someone
-didn’t want us to go very far either."|speech|LAWRENCE|M
+didn’t want us to go very far either."|speech|LAWRENCE|M|True
 46||"Suddenly, Adam leaps up, lifting up his shirt and exposing his
 abdomen. His panic is back, but not at full force like before.
-He studies himself then glances to Lawrence."|stage direction||
-47|ADAM|Can you see any scars?|speech|ADAM|M
-48|LAWRENCE|(looking at him strangely) What?|speech|LAWRENCE|M
+He studies himself then glances to Lawrence."|stage direction|||
+47|ADAM|Can you see any scars?|speech|ADAM|M|True
+48|LAWRENCE|(looking at him strangely) What?|speech|LAWRENCE|M|True
 49|ADAM|"Huh? This is what they do man, (he gestures
 to his stomach, where there are in fact
 no scars.) They kidnap you and drug
 you and before you know it, you’re in
 a bathtub and your kidneys are on eBay.
 (A ridiculous theory to us and to Lawrence,
-but Adam states it with conviction.)"|speech|ADAM|M
+but Adam states it with conviction.)"|speech|ADAM|M|True
 50|LAWRENCE|"(a scoffing tone in his voice) No one
-has taken your kidneys."|speech|LAWRENCE|M
+has taken your kidneys."|speech|LAWRENCE|M|True
 51|ADAM|"(disbelief) How can you tell from way
-over there?"|speech|ADAM|M
+over there?"|speech|ADAM|M|True
 52|LAWRENCE|"(matter of fact) Because you’d either
 be in terrible agony, or you’d be dead
-by now. Trust me."|speech|LAWRENCE|M
+by now. Trust me."|speech|LAWRENCE|M|True
 53|ADAM|"What are you, a surgeon? (He lowers
 his shirt and turns and bends down to
-prod at the chain around the pipe again.)"|speech|ADAM|M
+prod at the chain around the pipe again.)"|speech|ADAM|M|True
 54|LAWRENCE|"Yeah. (He sighs. He’s getting tired
 of Adam already. He speaks sharply.)
 So, you gonna tell me your name, or
-what?"|speech|LAWRENCE|M
+what?"|speech|LAWRENCE|M|True
 55||"Adam stands back up, turns to Lawrence, his voice once again
-calm."|stage direction||
-56|ADAM|Adam.|speech|ADAM|M
+calm."|stage direction|||
+56|ADAM|Adam.|speech|ADAM|M|True
 57|LAWRENCE|"(getting to his feet, his voice a bit
 calmer) Well Adam, what we need to do
 (he leans with one hand outstretched
@@ -207,17 +207,17 @@ sees something up on the wall, moves
 forwards a bit towards it. We see that
 it is a brand new clock on the wall,
 ticking away. It reads currently at
-10:22.) That clock."|speech|LAWRENCE|M
-58|ADAM|What about it?|speech|ADAM|M
-59|LAWRENCE|It’s brand new. (squints, studying it)|speech|LAWRENCE|M
-60|ADAM|(not getting what he’s implying) So?|speech|ADAM|M
+10:22.) That clock."|speech|LAWRENCE|M|True
+58|ADAM|What about it?|speech|ADAM|M|True
+59|LAWRENCE|It’s brand new. (squints, studying it)|speech|LAWRENCE|M|True
+60|ADAM|(not getting what he’s implying) So?|speech|ADAM|M|True
 61|LAWRENCE|"(sighs; it’s quite simple, why can’t
 Adam see it?) So, someone obviously
 wanted us to know the time. (Adam looks
 a bit confused still, mulls over that
 information. Lawrence thinks for a moment.)
 Wait, I think I may be able to reach
-that door."|speech|LAWRENCE|M
+that door."|speech|LAWRENCE|M|True
 62||"Lawrence moves over as far as the chain will allow him to the
 giant, wooden sliding door, pushing against it as hard as he
 can. In the meantime, we see Adam thinking. He pauses, then reaches
@@ -232,39 +232,39 @@ the baggie. Adam reaches into the envelope, pulls out a micro
 cassette tape. A close up shows the words Play Me written on
 the tape label. Adam holds it in his hand, studying it. Lawrence
 turns away from the door, looking over and trying to see what
-Adam has in his hand."|stage direction||
+Adam has in his hand."|stage direction|||
 63|LAWRENCE|"What is that? (Adam doesn’t answer,
 continues looking at the tape. Lawrence’s
-voice grows impatient.) Excuse me."|speech|LAWRENCE|M
+voice grows impatient.) Excuse me."|speech|LAWRENCE|M|True
 64|ADAM|"(glances up briefly at Lawrence, then
 back down at the tape. His voice sounds
-slightly surprised.) It’s a tape."|speech|ADAM|M
-65|LAWRENCE|Where did you find it?|speech|LAWRENCE|M
-66|ADAM|It was in my pocket.|speech|ADAM|M
+slightly surprised.) It’s a tape."|speech|ADAM|M|True
+65|LAWRENCE|Where did you find it?|speech|LAWRENCE|M|True
+66|ADAM|It was in my pocket.|speech|ADAM|M|True
 67||"Lawrence thinks about that briefly then starts digging through
 his own pockets, finds within them a white envelope with LAWRENCE
-written across it in the same black lettering as Adam’s."|stage direction||
-68|ADAM|(regarding his tape) It says Play me.|speech|ADAM|M
+written across it in the same black lettering as Adam’s."|stage direction|||
+68|ADAM|(regarding his tape) It says Play me.|speech|ADAM|M|True
 69||"Lawrence tears into his envelope, empties the contents into the
 palm of his hand. First, he holds up a similar tape to Adam’s.
 It also says Play Me. Then he holds up a single bullet, studying
 it, not sure what it’s there for yet. Then, he holds up a tiny
 key. He bends over, gets down on the floor and starts to try
-to unlock his chains with the key. It doesn’t seem to be working."|stage direction||
+to unlock his chains with the key. It doesn’t seem to be working."|stage direction|||
 70|LAWRENCE|"(frustrated, mumbling to himself and
-to the key) Come on, come on, come on...."|speech|LAWRENCE|M
+to the key) Come on, come on, come on...."|speech|LAWRENCE|M|True
 71|ADAM|"(seeing that it doesn’t seem to be working
-on Lawrence’s lock) Throw it over here."|speech|ADAM|M
+on Lawrence’s lock) Throw it over here."|speech|ADAM|M|True
 72||"Lawrence gives him a slightly mistrustful look, but then holds
 up the key and throws it. Adam misses the key at first as it
-hit’s the floor in front of the dirty toilet near his corner."|stage direction||
+hit’s the floor in front of the dirty toilet near his corner."|stage direction|||
 73|ADAM|"Fuck. (He leans over and picks up the
 key, then bends down and tries the key
 on the lock on his ankle, which doesn’t
 work. He tries the lock on the chains
 around the pipe. It isn’t working there
-either.)"|speech|ADAM|M
-74|LAWRENCE|(watching him) No?|speech|LAWRENCE|M
+either.)"|speech|ADAM|M|True
+74|LAWRENCE|(watching him) No?|speech|LAWRENCE|M|True
 75||"Adam gives up, drops the key onto the floor frustratedly, shaking
 his head. That’s when he looks over to the body again, and the
 shot closes up on the hand holding the tape recorder. A small
@@ -272,32 +272,32 @@ loop handle juts out of the hand’s grip. Adam stands up, then
 bends down and picks up the tape on the floor, looking at it.
 He puts it back down then stretches himself flat out on the floor,
 trying to reach. Unfortunately, there is still a good three to
-four feet between him and the body."|stage direction||
-76|LAWRENCE|Use your shirt.|speech|LAWRENCE|M
-77|ADAM|(gets back up to his knees) What?|speech|ADAM|M
-78|LAWRENCE|Your shirt.|speech|LAWRENCE|M
+four feet between him and the body."|stage direction|||
+76|LAWRENCE|Use your shirt.|speech|LAWRENCE|M|True
+77|ADAM|(gets back up to his knees) What?|speech|ADAM|M|True
+78|LAWRENCE|Your shirt.|speech|LAWRENCE|M|True
 79||"Adam looks down at himself, then takes off the long sleeved blue
 shirt. He lays back down, holding the shirt by the ends of each
 sleeve, and throws it, trying to catch it on the tape recorder.
-It misses. He tries a second time; same result."|stage direction||
-80|LAWRENCE|Come on...|speech|LAWRENCE|M
+It misses. He tries a second time; same result."|stage direction|||
+80|LAWRENCE|Come on...|speech|LAWRENCE|M|True
 81||"Adam tries again; it misses. It is just barely reaching. He pulls
-the shirt back, gets back up on his knees, aggravated."|stage direction||
-82|ADAM|It won’t work.|speech|ADAM|M
+the shirt back, gets back up on his knees, aggravated."|stage direction|||
+82|ADAM|It won’t work.|speech|ADAM|M|True
 83|LAWRENCE|"(trying to get him to not give up yet)
 Well, look around, there must be something
-else you can use."|speech|LAWRENCE|M
+else you can use."|speech|LAWRENCE|M|True
 84|ADAM|"(stands, ready to give up, skeptical)
-There’s nothing."|speech|ADAM|M
-85|LAWRENCE|(insistent) Well there must be something!|speech|LAWRENCE|M
+There’s nothing."|speech|ADAM|M|True
+85|LAWRENCE|(insistent) Well there must be something!|speech|LAWRENCE|M|True
 86||"Adam looks around his area, then into the bathtub. He sees something,
 bends over, takes out the tub plug, which is attached to a long
 cord. He ties the cord around the sleeve of his shirt. He kneels
-down, holding out the shirt, aiming."|stage direction||
-87|LAWRENCE|Come on, you can do it.|speech|LAWRENCE|M
+down, holding out the shirt, aiming."|stage direction|||
+87|LAWRENCE|Come on, you can do it.|speech|LAWRENCE|M|True
 88||"Adam throws it, attempting to get the plug through the loop at
-the end of the tape recorder. He misses."|stage direction||
-89|LAWRENCE|Come on, come on, again.|speech|LAWRENCE|M
+the end of the tape recorder. He misses."|stage direction|||
+89|LAWRENCE|Come on, come on, again.|speech|LAWRENCE|M|True
 90||"He tries again and misses. On the third try, however, he gets
 the plug right through the loop. Lawrence smiles in relief. Adam
 very slowly pulls it back, dragging the tape recorder along the
@@ -307,7 +307,7 @@ pops it in and presses play, holding the tape recorder out a
 bit so that they can both hear, but keeping his head tilted so
 he can hear better. A chilling deep, raspy, sinister male voice
 The Jigsaw Killer comes from the tape. As it speaks, Adam’s expression
-is fearful, but the thought How does he know? can be detected."|stage direction||
+is fearful, but the thought How does he know? can be detected."|stage direction|||
 91|JIGSAW|"(on tape) Rise and shine, Adam. You’re
 probably wondering where you are. I’ll
 tell you where you might be. You might
@@ -320,14 +320,14 @@ strange mix of someone angry and yet
 apathetic. But mostly just pathetic.
 So are you going to watch yourself die
 today, Adam? Or do something about it?
-(end)"|speech|JIGSAW|M
+(end)"|speech|JIGSAW|M|True
 92||"Adam looks frightened but not sure of the entire meaning of the
-message."|stage direction||
+message."|stage direction|||
 93|ADAM|"I don’t get it. (He presses the stop
-button on the tape.)"|speech|ADAM|M
-94|LAWRENCE|(eagerly, gestures.) Throw me the player.|speech|LAWRENCE|M
+button on the tape.)"|speech|ADAM|M|True
+94|LAWRENCE|(eagerly, gestures.) Throw me the player.|speech|LAWRENCE|M|True
 95|ADAM|"(pauses, thinks) No, you throw me your
-tape."|speech|ADAM|M
+tape."|speech|ADAM|M|True
 96|LAWRENCE|"(a heavy sigh. He looks at Adam as a
 slow-minded fool who simply doesn’t
 understand the full capacity of the
@@ -335,15 +335,15 @@ situation that they’re in, and speaks
 to him as such.) Look, we’re going to
 have to work together if we want to
 get out of here. Now just throw it to
-me."|speech|LAWRENCE|M
+me."|speech|LAWRENCE|M|True
 97|ADAM|"(picks up on the tone, speaks defensively)
 I’m not going to risk breaking it! You
-throw me your tape!"|speech|ADAM|M
+throw me your tape!"|speech|ADAM|M|True
 98||"Lawrence pauses, looking at Adam as though he’d like to smack
 him, then holds up and tosses the tape. It hits the floor behind
 Adam, who kneels down and picks it up, pops it in, presses play.
 It’s the same chilling voice as on Adam’s tape. As the tape plays,
-Adam stares at Lawrence, and Lawrence at the tape recorder."|stage direction||
+Adam stares at Lawrence, and Lawrence at the tape recorder."|stage direction|||
 99|JIGSAW|"(on tape) Dr. Gordon, this is your wake
 up call. Every day of your working life,
 you have given people the news that
@@ -363,69 +363,69 @@ X marks the spot for the treasure. If
 you do not kill Adam by 6:00, then Alison
 and Diana will die, Dr. Gordon. And
 I’ll leave you in this room to rot.
-Let the game begin. (end)"|speech|JIGSAW|M
+Let the game begin. (end)"|speech|JIGSAW|M|True
 100||"The looks on each man’s face clearly say Oh Shit. The tape ends.
-Lawrence stands up."|stage direction||
+Lawrence stands up."|stage direction|||
 101|LAWRENCE|"(firmly) Give me that. Now. (Adam tosses
 him the tape. He catches it, rewinds,
 plays back. Adam stands up from his
-spot on the floor.)"|speech|LAWRENCE|M
+spot on the floor.)"|speech|LAWRENCE|M|True
 102|JIGSAW|"(on tape)...then Alison and Diana will
 die, Dr. Gordon. And I’ll leave you
-in this room to rot."|speech|JIGSAW|M
+in this room to rot."|speech|JIGSAW|M|True
 103|ADAM|"(thinking, trying to figure this out)
-Any idea who that is?"|speech|ADAM|M
-104|JIGSAW|(on tape) Let the game begin.|speech|JIGSAW|M
-105|ADAM|He knows us.|speech|ADAM|M
-106|LAWRENCE|Wait a minute. (rewinds more)|speech|LAWRENCE|M
+Any idea who that is?"|speech|ADAM|M|True
+104|JIGSAW|(on tape) Let the game begin.|speech|JIGSAW|M|True
+105|ADAM|He knows us.|speech|ADAM|M|True
+106|LAWRENCE|Wait a minute. (rewinds more)|speech|LAWRENCE|M|True
 107|ADAM|"(false hope) What do you think? Probably
-a joke, right?"|speech|ADAM|M
-108|LAWRENCE|Shh, shh! (presses play)|speech|LAWRENCE|M
-109|JIGSAW|(on tape) Let the game begin.|speech|JIGSAW|M
-110|LAWRENCE|(softly) Listen...|speech|LAWRENCE|M
+a joke, right?"|speech|ADAM|M|True
+108|LAWRENCE|Shh, shh! (presses play)|speech|LAWRENCE|M|True
+109|JIGSAW|(on tape) Let the game begin.|speech|JIGSAW|M|True
+110|LAWRENCE|(softly) Listen...|speech|LAWRENCE|M|True
 111|JIGSAW|"(on tape, in a VERY hushed tone after
-a brief silence)...Follow your heart."|speech|JIGSAW|M
-112||Lawrence stops the tape.|stage direction||
+a brief silence)...Follow your heart."|speech|JIGSAW|M|True
+112||Lawrence stops the tape.|stage direction|||
 113|ADAM|"What the hell does Follow your heart
-mean?"|speech|ADAM|M
+mean?"|speech|ADAM|M|True
 114||"Lawrence is looking around, on the walls and everywhere else
 in the bathroom for a heart. He spots a small one drawn in brown
-on the toilet next to Adam and points."|stage direction||
-115|LAWRENCE|There! Right next to you, on the toilet.|speech|LAWRENCE|M
+on the toilet next to Adam and points."|stage direction|||
+115|LAWRENCE|There! Right next to you, on the toilet.|speech|LAWRENCE|M|True
 116||"Adam looks, sees the toilet. Slowly, he bends down, resting his
 hands on the seat, looking down into the bowl of liquid shit,
-not really sure what he’s looking for."|stage direction||
+not really sure what he’s looking for."|stage direction|||
 117|LAWRENCE|"(impatient, gesturing) Come on, come
-on."|speech|LAWRENCE|M
+on."|speech|LAWRENCE|M|True
 118||"Adam glances up at Lawrence with a look of You’ve got to be kidding
 me, but Lawrence watches him expectantly. Adam sighs, then reaches
-in with his right hand, fishing around in the mess."|stage direction||
+in with his right hand, fishing around in the mess."|stage direction|||
 119|ADAM|"Oh man...(he gasps, making gagging sounds,
 his face turned away from the bowl.
 He coughs, fishes around for another
 brief moment, then quickly pulls back,
 trying to shake some of the shit off
-of his hand, spitting."|speech|ADAM|M
-120|LAWRENCE|(expectantly) Anything?|speech|LAWRENCE|M
-121|ADAM|(disgusted) No solids.|speech|ADAM|M
+of his hand, spitting."|speech|ADAM|M|True
+120|LAWRENCE|(expectantly) Anything?|speech|LAWRENCE|M|True
+121|ADAM|(disgusted) No solids.|speech|ADAM|M|True
 122|LAWRENCE|"Take off the lid. (He points to the
 lid. Adam looks to it, slowly stands
 up, reaches for it. Lawrence has no
-patience.) Come on!"|speech|LAWRENCE|M
+patience.) Come on!"|speech|LAWRENCE|M|True
 123||"Adam takes off the lid, places it down on the toilet seat. The
 water is clearer inside, and he reaches in and pulls out something
 wrapped up in a black garbage bag. He holds it up for Lawrence
-to see, turns to him."|stage direction||
+to see, turns to him."|stage direction|||
 124|ADAM|"I really wish I had checked in there
-first."|speech|ADAM|M
-125|LAWRENCE|Huh. (he smiles slightly) What is it?|speech|LAWRENCE|M
+first."|speech|ADAM|M|True
+125|LAWRENCE|Huh. (he smiles slightly) What is it?|speech|LAWRENCE|M|True
 126||"Adam tears into the bag, reaches in and pulls out two hacksaws.
 He drops the bag on the floor, bends down and takes up his chain,
 holding one of the hacksaws and beginning to saw at the chain
-with it. Lawrence watches him for a moment."|stage direction||
+with it. Lawrence watches him for a moment."|stage direction|||
 127|LAWRENCE|"Hey! (Adam turns and looks. Lawrence
 speaks in an irritated voice) Mind passing
-me the other one?"|speech|LAWRENCE|M
+me the other one?"|speech|LAWRENCE|M|True
 128||"Adam reaches over and picks up the other hacksaw, then carefully
 throws it across the room. It hits the pipe to Lawrence’s left.
 Lawrence reaches down and picks it up, then sits down on the
@@ -433,13 +433,13 @@ floor. Quick shot back to Adam, who, while Lawrence is preoccupied
 with picking up the hacksaw, quickly picks up the garbage bag
 and tosses it into the bathtub. Both men start to saw away at
 their chains furiously, but neither are making any progress.
-Suddenly, Adam’s saw snaps in the middle, and his temper flares."|stage direction||
+Suddenly, Adam’s saw snaps in the middle, and his temper flares."|stage direction|||
 129|ADAM|"(enraged) Fuck! Fuck! (He reacts violently,
 hitting the broken saw twice against
 the iron pipe then turns and hums it
 across the room, right into a mirror.
 A small piece of the mirror breaks off
-and flies to the floor.)"|speech|ADAM|M
+and flies to the floor.)"|speech|ADAM|M|True
 130||"Lawrence glances over at what Adam has done, then goes back to
 sawing for another moment. Adam sits back down, breathing heavily,
 leaning against the pipe in his corner. Finally, Lawrence gives
@@ -447,26 +447,26 @@ up, turning and sitting with his back against the pipe, also
 breathing heavily for a moment. He sits there, when a look of
 realization comes across his face. He holds up the saw, looking
 at it, understanding. He lowers it to the floor, shaking his
-head slightly."|stage direction||
+head slightly."|stage direction|||
 131|LAWRENCE|"(everything is becoming more clear now)
 He doesn’t want us to cut through our
 chains. He wants us to cut through our
 feet. (Adam looks up at him, eyebrows
 raised.) I think I may know who’s done
-this to us."|speech|LAWRENCE|M
+this to us."|speech|LAWRENCE|M|True
 132|ADAM|"What did you say? (he stands up; is
-Lawrence hiding something from him?)"|speech|ADAM|M
+Lawrence hiding something from him?)"|speech|ADAM|M|True
 133|LAWRENCE|"It’s not someone I know personally.
-It’s...just someone I know of."|speech|LAWRENCE|M
+It’s...just someone I know of."|speech|LAWRENCE|M|True
 134|ADAM|"(getting slightly frantic again) Jesus
-Christ! Tell me, who is it?!"|speech|ADAM|M
+Christ! Tell me, who is it?!"|speech|ADAM|M|True
 135||"The camera closes up on Lawrence’s face. To the right of it,
 the screen is fading into a flashback of a crime scene. As Lawrence
 speaks, his face fades and the flashback scene grows clearer,
 until it is only the crime scene, with three detectives walking
-down a flight of stairs."|stage direction||
+down a flight of stairs."|stage direction|||
 136|LAWRENCE|"The last I heard...the police still
-hadn’t caught him."|speech|LAWRENCE|M
+hadn’t caught him."|speech|LAWRENCE|M|True
 137||"We now see the three figures descending through a trap door down
 a flight of stairs. The lighting is a bright lime green that
 is strangely dark at the same time. The trio enters a small,
@@ -479,12 +479,12 @@ Tapp in suits, the woman in a jacket and dress slacks. They are
 the detectives working on this case.
 As they move into the room, Sing sees something that brings a
 look of shock to his face, shining a flashlight on it. We cannot
-see it yet."|stage direction||
+see it yet."|stage direction|||
 138|LAWRENCE|"(VO) And the only reason I know that
-is because I was a suspect."|speech|LAWRENCE|M
+is because I was a suspect."|speech|LAWRENCE|M|True
 139||"Tapp comes into the room last, ducking slightly from his height,
-and comes up alongside Sing, looking at the same thing."|stage direction||
-140|LAWRENCE|(VO) I’ll start from the beginning.|speech|LAWRENCE|M
+and comes up alongside Sing, looking at the same thing."|stage direction|||
+140|LAWRENCE|(VO) I’ll start from the beginning.|speech|LAWRENCE|M|True
 141|KERRY|"This one’s not fresh anymore. At least
 three weeks out. (Detective Tapp squints
 as he peers in and studies the body)
@@ -514,7 +514,7 @@ tape recorder, just like the one Adam
 and Lawrence found in their cell. She
 presses the play button, and Tapp and
 Sing listen. It’s the same chilling
-voice from Adam and Lawrence’s tapes.)"|speech|KERRY|M
+voice from Adam and Lawrence’s tapes.)"|speech|KERRY|M|
 142|JIGSAW|"(on tape) Hello Paul. You are a perfectly
 healthy, sane, middle-class male. Yet
 last month, you ran a straight razor
@@ -536,39 +536,39 @@ through the razor wire to the door.
 But hurry. At 3:00 that door will lock
 and then this room becomes your tomb.
 How much blood will you shed to stay
-alive, Paul? (end)"|speech|JIGSAW|M
+alive, Paul? (end)"|speech|JIGSAW|M|True
 143|KERRY|"(stopping the tape) The door was on
 a timer. It was unlocked until 3:00.
 Then it slammed shut. He was given two
-hours."|speech|KERRY|M
+hours."|speech|KERRY|M|
 144||"Cut back to Detective Tapp, who notices something and shines
 his light on it. We see a strange wound on Paul’s body, a piece
-of flesh carved out into the shape of a jigsaw piece."|stage direction||
+of flesh carved out into the shape of a jigsaw piece."|stage direction|||
 145|TAPP|"Jigsaw piece. (Sing looks in as well,
 see it. There is a quick flash of crime
 scene photos showing a close up of the
 wound. Tapp sighs.) I think we’re gonna
 be here for a while, Sing. (Sing looks
 to him. We get another quick crime scene
-shot of Paul.)"|speech|TAPP|M
+shot of Paul.)"|speech|TAPP|M|True
 146|LAWRENCE|"(VO) The newspapers started calling
-him the Jigsaw Killer."|speech|LAWRENCE|M
+him the Jigsaw Killer."|speech|LAWRENCE|M|True
 147||"Cut back to Lawrence in the bathroom. For his next two spoken
 lines, the shot switches back and forth between him and the detectives
-in the razor wire room."|stage direction||
+in the razor wire room."|stage direction|||
 148|LAWRENCE|"Actually, technically speaking, he’s
 not really a murderer. He never killed
-anyone."|speech|LAWRENCE|M
+anyone."|speech|LAWRENCE|M|True
 149||"Sing, wearing gloves, gets in the cage and examines Paul’s body
 a bit. A flash of another crime scene photo of the wound with
 a ruler held up to it is shown. More gruesome crime scene photos
-of that and other wounds are flashed across the screen."|stage direction||
+of that and other wounds are flashed across the screen."|stage direction|||
 150|LAWRENCE|"(VO) He finds ways for his victims to
-kill themselves."|speech|LAWRENCE|M
+kill themselves."|speech|LAWRENCE|M|True
 151||"Cut to Sing kneeled down over a charred corpse, completely blackened,
 at another crime scene. We hear Jigsaw’s voice from a tape recorder
 play over the scene as the detectives look around, and over the
-flashback shots."|stage direction||
+flashback shots."|stage direction|||
 152|JIGSAW|"(VO, on tape) Hello Mark. If you’re
 so sick, then why do I have so many
 photos of you up and about? (there is
@@ -604,13 +604,13 @@ that’s a flammable substance smeared
 on your body (shot of Mark looking at
 the ointment on his hand, up his arm,
 everywhere), so I would be careful with
-that candle, if I were you..."|speech|JIGSAW|M
+that candle, if I were you..."|speech|JIGSAW|M|True
 153|MARK|"(huddled over the safe; screams, but
-it is still distant sounding) Help!!!!!"|speech|MARK|M
+it is still distant sounding) Help!!!!!"|speech|MARK|M|
 154|JIGSAW|"(VO ct’d)....or all the people you’ve
 burned with your act (Mark starts to
 turn the lock on the safe) just might
-have their revenge."|speech|JIGSAW|M
+have their revenge."|speech|JIGSAW|M|True
 155||"We see Mark desperately going around the room, holding the candle,
 looking at the walls, trying to find a combination. The camera
 goes back and forth a few times in a sped-up shot to him doing
@@ -620,7 +620,7 @@ us. When he gets to facing right in front of us, the flame from
 the candle flares up and engulfs the shot, flaring into a close-up
 crime scene photo of Mark’s charred face.
 The shot moves back to the trio of detectives, with Sing holding
-the tape recorder."|stage direction||
+the tape recorder."|stage direction|||
 156|KERRY|"I found something else. Well, two things,
 actually. (She moves past them and we
 go with her over to a wall where there
@@ -636,12 +636,12 @@ He was there at the last one as well.
 this time, he left us his penlight.
 (She holds up the penlight in an evidence
 baggie, clicking it twice then handing
-it to Tapp.)"|speech|KERRY|M
+it to Tapp.)"|speech|KERRY|M|
 157|TAPP|"(taking the baggie, studying it) Get
 a rush on the prints. (He hands it back
-to her.)"|speech|TAPP|M
+to her.)"|speech|TAPP|M|True
 158|KERRY|"(taking the baggie, moving out of the
-room) Copy that."|speech|KERRY|M
+room) Copy that."|speech|KERRY|M|
 159|CUT TO|"Hospital room. Lawrence in his white
 doctor‘s coat along with three blue-scrub
 clad medical students. A nurse in white
@@ -650,7 +650,7 @@ going over the patient’s charts. He
 goes over to the x-ray display, pushing
 the light on to view two x-rays of someone’s
 skull. He points to it with his pen
-as he speaks."|speech|CUT TO|M
+as he speaks."|speech|CUT TO|M|
 160|LAWRENCE|"Okay. This patient has an inoperable
 frontal lobe tumor extending across
 the midline. Started as colon cancer.
@@ -661,7 +661,7 @@ as he speaks, seems particularly infatuated
 with him.) The patient has come in for
 a standard checkup by which we are able
 to monitor the rate at which his condition
-is declining."|speech|LAWRENCE|M
+is declining."|speech|LAWRENCE|M|True
 161||"In the doorway, an orderly pushing a cart of cleaning supplies
 is passing by and stops when he sees Lawrence and the medical
 students in the room, listening to what Lawrence is saying. This
@@ -669,8 +669,8 @@ is Zep. He’s a man in his early to late forties dressed in orderly
 whites with short brown hair and large blue eyes that show a
 kindness that the others in the room seem to be lacking. Kindness,
 and something else below the surface. He glances down at John
-sleeping, then up at Lawrence."|stage direction||
-162|LAWRENCE|The patient had...|speech|LAWRENCE|M
+sleeping, then up at Lawrence."|stage direction|||
+162|LAWRENCE|The patient had...|speech|LAWRENCE|M|True
 163|ZEP|"(cutting him off) His name is John,
 Dr. Gordon. (He looks down at the patient,
 who we see is a man in his late forties-early
@@ -682,10 +682,10 @@ colored pencils. As Zep looks at him
 and speaks of him, there is caring in
 his voice, something Dr. Gordon has
 yet to display regarding this patient.)
-He’s a very interesting person."|speech|ZEP|M
+He’s a very interesting person."|speech|ZEP|M|
 164||"Lawrence looks almost slightly embarrassed, not for himself but
 maybe for Zep. A condescending, smug smile plays across his face
-and he nods. His tone matches his look."|stage direction||
+and he nods. His tone matches his look."|stage direction|||
 165|LAWRENCE|"Thank you for that information, Zep.
 (he looks to the students, who all share
 his smug smile) As you can see, our
@@ -697,16 +697,16 @@ The look seems to say Fuck you, Dr.
 Gordon. He stares at him for a moment,
 then turns away, and continues down
 the hall with his cart.) Continuing
-on, the patient...."|speech|LAWRENCE|M
-166||But he is cut off by a voice on the intercom.|stage direction||
+on, the patient...."|speech|LAWRENCE|M|True
+166||But he is cut off by a voice on the intercom.|stage direction|||
 167|INTERCOM|"Dr. Gordon, Dr. Lawrence Gordon, please
-page the operator."|speech|INTERCOM|M
+page the operator."|speech|INTERCOM|M|
 168|LAWRENCE|"(a smug but annoyed smirk) Obviously
 someone doesn’t want me to tell you
 what the patient has. Excuse me. (He
 steps around the students, leaves the
 room. The three students watch after
-him with great admiration.)"|speech|LAWRENCE|M
+him with great admiration.)"|speech|LAWRENCE|M|True
 169||"Cut to Lawrence’s office at the hospital . Inside, Tapp is leaning
 against Dr. Gordon’s chair, studying the various framed degrees
 on the wall. Sing is sitting in one of the two chairs across
@@ -714,89 +714,89 @@ from the desk, twisted around in his seat to look at a couple
 of small picture frames on the bookshelf behind him. Lawrence
 opens the door and enters, and the two detectives turn to look
 at him. He removes his white coat and hangs it on a rack by the
-door. Tapp speaks first, his tone is friendly, but searching."|stage direction||
+door. Tapp speaks first, his tone is friendly, but searching."|stage direction|||
 170|TAPP|"Dr. Gordon, I’m Detective Tapp, this
 is Detective Sing, City Homicide. (he
 gestures to the degrees on the wall.)
-Very impressive."|speech|TAPP|M
+Very impressive."|speech|TAPP|M|True
 171||"Lawrence smiles, pretending to care about what they think, truly
 just wanting to get this over with so as to not waste any more
 of his time. As he speaks, he walks over to the chair behind
-his desk."|stage direction||
+his desk."|stage direction|||
 172|LAWRENCE|"Oh. Thank you, I do my best. (He sits
 in his chair. Tapp takes the seat next
 to Sing across from him. Sing studies
-him silently, chewing gum.)"|speech|LAWRENCE|M
+him silently, chewing gum.)"|speech|LAWRENCE|M|True
 173|TAPP|"Sorry to interrupt you while you’re
-working."|speech|TAPP|M
+working."|speech|TAPP|M|True
 174|LAWRENCE|"That’s fine. Now, how can I help you
-gentlemen?"|speech|LAWRENCE|M
-175||Tapp’s tone turns a bit more serious, but still amiable enough.|stage direction||
+gentlemen?"|speech|LAWRENCE|M|True
+175||Tapp’s tone turns a bit more serious, but still amiable enough.|stage direction|||
 176|TAPP|"Are you able to tell us where you were
 between the hours of 11:00 p.m. and
-1:00 a.m. last night, Doctor?"|speech|TAPP|M
+1:00 a.m. last night, Doctor?"|speech|TAPP|M|True
 177|LAWRENCE|"(his tone just barely masking his concern)
-Why is it that you’re interested?"|speech|LAWRENCE|M
+Why is it that you’re interested?"|speech|LAWRENCE|M|True
 178|TAPP|"We’d like to ask you a few questions
 about it. For your sake, I think it’s
 best if we do it down at the station.
-Would you like to follow us there?"|speech|TAPP|M
+Would you like to follow us there?"|speech|TAPP|M|True
 179|LAWRENCE|"(Shaking his head, this is unbelievable)
 No, I’m afraid that’s...that’s quite
 out of the question. I can’t just leave,
 I have work to do. Plus, my wife has
-the car today, so..."|speech|LAWRENCE|M
+the car today, so..."|speech|LAWRENCE|M|True
 180|SING|"(amiable but hinting that he knows something)
 Oh, that’s okay, you can ride with us.
-Doc."|speech|SING|M
+Doc."|speech|SING|M|True
 181|LAWRENCE|"(chuckles uncomfortably) I’m sorry,
 you’ll have to tell me again. What is
-this all about?"|speech|LAWRENCE|M
+this all about?"|speech|LAWRENCE|M|True
 182||"Tapp produces the penlight from his pocket, holds it up for Dr.
-Gordon."|stage direction||
-183|TAPP|Is this yours, Doctor?|speech|TAPP|M
+Gordon."|stage direction|||
+183|TAPP|Is this yours, Doctor?|speech|TAPP|M|True
 184||"He puts the penlight down on the desk. Lawrence picks it up,
 a brief oh shit look flashing across his face only to be quickly
 covered up. He looks at the pen strangely. The two detectives
 carefully study his reaction. Lawrence looks back up at them.
 Cut to the Police Station. In an interrogation room, Lawrence
 paces back and forth nervously, now wearing his suit jacket.
-His lawyer sits at the table, taking notes."|stage direction||
+His lawyer sits at the table, taking notes."|stage direction|||
 185|LAWYER|"So you have no idea how your penlight
-showed up at the murder scene?"|speech|LAWYER|F
-186|LAWRENCE|Of course not!|speech|LAWRENCE|M
+showed up at the murder scene?"|speech|LAWYER|F|
+186|LAWRENCE|Of course not!|speech|LAWRENCE|M|True
 187|LAWYER|"I have to ask. What were you doing last
-night."|speech|LAWYER|F
+night."|speech|LAWYER|F|
 188|LAWRENCE|"(a slight hesitation, a bit of guilt
 in his voice. As much as he would allow.)
-I was seeing someone."|speech|LAWRENCE|M
+I was seeing someone."|speech|LAWRENCE|M|True
 189|LAWYER|"(a slight pause) Who? (Lawrence doesn’t
 answer, just continues his pacing. The
 lawyer gets frustrated, noisily puts
 down his pen.) Look, if you can’t be
-honest with me..."|speech|LAWYER|F
+honest with me..."|speech|LAWYER|F|
 190|LAWRENCE|"(His tone quick, almost blurting) I
 was visiting someone. It wasn’t a patient.
 Alright? (He sighs, shakes his head.
 He’s fucked, either way.) What am I
-gonna do?"|speech|LAWRENCE|M
+gonna do?"|speech|LAWRENCE|M|True
 191|LAWYER|"Well, as your lawyer and your friend,
 my advice to you is to bite the bullet
 and give them your alibi now. Because
-no one is going to believe you later."|speech|LAWYER|F
+no one is going to believe you later."|speech|LAWYER|F|
 192||"Cut back to the Bathroom. Lawrence, still sitting against the
 wall, throws down his hacksaw next to him, resting his hand against
-his knee."|stage direction||
+his knee."|stage direction|||
 193|LAWRENCE|"(sighs) That was five months ago. He
-tried to set me up for murder."|speech|LAWRENCE|M
+tried to set me up for murder."|speech|LAWRENCE|M|True
 194||"Cut back to the Interrogation room, some time Later. Lawrence
 is sitting alone at the table. Sing comes through the door, shuts
-it behind him."|stage direction||
+it behind him."|stage direction|||
 195|SING|"Okay. We checked your alibi. It holds
 up. (His voice indicates that he still
 believes there’s more to it; he does
-not and will not trust Lawrence.)"|speech|SING|M
-196|LAWRENCE|Good! Can I go home now?|speech|LAWRENCE|M
+not and will not trust Lawrence.)"|speech|SING|M|True
+196|LAWRENCE|Good! Can I go home now?|speech|LAWRENCE|M|True
 197|SING|"(continuing) We have one of the victims
 who managed to escape. (As he speaks,
 we see a young woman with brown hair
@@ -812,38 +812,38 @@ and an unidentified bald black man in
 a suit enter the room. The man guides
 Amanda into her chair, stands behind
 her against the wall. Tapp sits in a
-chair to her left.)"|speech|SING|M
+chair to her left.)"|speech|SING|M|True
 198|LAWRENCE|"(doesn’t really care) I’d like to help,
-really, but..."|speech|LAWRENCE|M
+really, but..."|speech|LAWRENCE|M|True
 199|SING|"(cutting him off quickly, won’t let
 him out of this that easily) Well, we’d
 really appreciate it. She’s the only
-one who made it."|speech|SING|M
-200|LAWRENCE|(quietly, giving in.) Okay.|speech|LAWRENCE|M
+one who made it."|speech|SING|M|True
+200|LAWRENCE|(quietly, giving in.) Okay.|speech|LAWRENCE|M|True
 201||"Camera moves into the Interrogation room with Amanda, Tapp, and
 the unidentified man. As Tapp speaks, the camera slowly moves
 closer over his shoulder and towards Amanda. As we get closer
 to her, we see long, strange, scar-like markings along each side
 of her mouth. She is shaken, her eyes distant, never looking
 anyone, including Tapp, in the eye. It is clear that her mind
-is still lost somewhere within her nightmare."|stage direction||
+is still lost somewhere within her nightmare."|stage direction|||
 202|TAPP|"(speaking slowly, gently) Amanda...in
 your own time, tell me the first thing
-you remember."|speech|TAPP|M
+you remember."|speech|TAPP|M|True
 203||"We move closer and closer to Amanda, then suddenly the camera
 spins round quickly and snaps into an alternate view of her,
 her flashback. The room she is in has the same lime-green lighting
 as Paul’s cell. Amanda sits in a chair wearing a strange iron
 contraption around her head, a bear-trap like device covering
 her mouth. We can see her eyes, surrounded with black eyeliner,
-as they slowly open, groggy, just waking up."|stage direction||
+as they slowly open, groggy, just waking up."|stage direction|||
 204|AMANDA|"(VO) I woke up. All I could taste was
 blood. (The camera moves back quickly,
 and we see her tied to the chair, her
 wrists bound to the arms of the chair.
 She pulls against her bonds, moaning
 loudly, trying to speak or cry out but
-cannot.) And metal."|speech|AMANDA|F
+cannot.) And metal."|speech|AMANDA|F|
 205||"She continues to struggle against her bonds some more. The camera
 circles around her, and we get a better view of the strange device
 on her head, and the padlock and timer on the back of it. A long
@@ -854,7 +854,7 @@ After a brief moment of static, the frightening image of a demented
 clown-like doll its face white with red spirals on its cheeks,
 its red eyes leering at Amanda from the screen. She stares at
 it, her moans a bit softer to match her fear and utter confusion.
-The doll speaks, the jaw moving; it is the voice of Jigsaw."|stage direction||
+The doll speaks, the jaw moving; it is the voice of Jigsaw."|stage direction|||
 206|JIGSAW|"(from the TV) Hello Amanda. You don’t
 know me, but I know you. I want to play
 a game. Here’s what happens if you lose.
@@ -868,19 +868,19 @@ you’re wearing is hooked into your upper
 and lower jaws. When the timer at the
 back goes off, your mouth will be permanently
 ripped open. Think of it like a reverse
-bear trap. Here, I’ll show you."|speech|JIGSAW|M
+bear trap. Here, I’ll show you."|speech|JIGSAW|M|True
 207||"The video pans back to a view of the doll and the device. The
 doll’s head moves and looks down at the device, and the camera
 zooms in on it. A timer ticks away. A few seconds later, SNAP!
 The device springs and the fake head is crushed and explodes.
 Amanda shrieks, her eyes widening. The video switches back to
-a close up of the doll."|stage direction||
+a close up of the doll."|stage direction|||
 208|JIGSAW|"(from the TV) There is only one key
 to open the device. It’s in the stomach
 of your dead cellmate. Look around,
 Amanda. Know that I’m not lying. You
 better hurry up. Live or die. Make your
-choice."|speech|JIGSAW|M
+choice."|speech|JIGSAW|M|True
 209||"The video goes to white and gray static, then switches off. Amanda
 begins to struggle like a madwoman against her bonds and the
 chair. The camera swings around her, circling, making her movements
@@ -894,8 +894,8 @@ there. She starts freaking out, pulling at it as much as she
 can, the camera movements once again fast and jerky around her.
 The camera spins back to Amanda sitting still in her chair in
 the interrogation room, sniffling. We see a brief shot of Lawrence,
-who watches and listens to her with grim amazement. Back to Amanda."|stage direction||
-210|AMANDA|And then I saw the body.|speech|AMANDA|F
+who watches and listens to her with grim amazement. Back to Amanda."|stage direction|||
+210|AMANDA|And then I saw the body.|speech|AMANDA|F|
 211||"We switch back into Amanda’s cell. Over her shoulder, we see
 near the corner the body of a man lying on the floor on his back.
 Amanda cautiously approaches it, the timer still ticking away,
@@ -904,8 +904,8 @@ to him. She reaches down and with a shaking hand lifts up his
 shirt, revealing a large, black question mark drawn on his abdomen.
 She sobs harder, hunched over him.
 Quick cut to the interrogation room, Amanda in the center of
-the shot."|stage direction||
-212|AMANDA|There was a knife.|speech|AMANDA|F
+the shot."|stage direction|||
+212|AMANDA|There was a knife.|speech|AMANDA|F|
 213||"Back to the cell. Amanda, still leaning over, picks up a small
 knife next to the body. She slowly brings it up in both of her
 shaking hands, clutching it. She looks closer at it. A quick
@@ -923,15 +923,15 @@ A quick shot back of Lawrence as he listens, his mouth open slightly,
 eyes wide, staring at her. Cut back to Amanda in the cell as
 she stabs down a few more times. Then back again to the table
 in Lawrence’s interrogation room. Sing throws down an evidence
-baggie with a used syringe in it."|stage direction||
+baggie with a used syringe in it."|stage direction|||
 214|SING|"(VO as camera pans up to Lawrence) He’d
 been injected with an opiate overdose.
-He couldn’t move or feel much of anything."|speech|SING|M
-215|LAWRENCE|You mean....he was alive?|speech|LAWRENCE|M
-216|SING|(staring, nods slightly) Was.|speech|SING|M
+He couldn’t move or feel much of anything."|speech|SING|M|True
+215|LAWRENCE|You mean....he was alive?|speech|LAWRENCE|M|True
+216|SING|(staring, nods slightly) Was.|speech|SING|M|True
 217||"Back to Amanda’s Interrogation room, her head still hung, still
-sniffling. A view of Tapp as he asks"|stage direction||
-218|TAPP|What happened after you took it off?|speech|TAPP|M
+sniffling. A view of Tapp as he asks"|stage direction|||
+218|TAPP|What happened after you took it off?|speech|TAPP|M|True
 219||"Cut back to the cell, her bloody hands sifting through intestines
 for a key. Cut back to interrogation room Amanda, then cut back
 again to her holding up a liver or some other organ. Back to
@@ -950,21 +950,21 @@ the puppet from the video in the corner. Amanda sees it, staring
 at it wide eyed, her sobs softening for a moment as she stares
 at it. Slowly, it wheels towards her on a tricycle. She can only
 stare and cry, not sure what to do or expect. It stops, leering
-at her, then speaks."|stage direction||
+at her, then speaks."|stage direction|||
 220|JIGSAW|"Congratulations. You are still alive.
 Most people are so ungrateful to be
-alive. But not you. Not anymore."|speech|JIGSAW|M
+alive. But not you. Not anymore."|speech|JIGSAW|M|True
 221||"Cut back into a close up of Amanda in the interrogation room,
 her head still shaking a bit, almost like a series of slight
-spasms. She continues to sniffle, her eyes far off. Cut to Tapp."|stage direction||
+spasms. She continues to sniffle, her eyes far off. Cut to Tapp."|stage direction|||
 222|TAPP|"You are, in fact, a drug addict. Isn’t
 that right, Mandy? (she nods, but doesn’t
 look up.) Do you think that is why he
 picked you? (She lets out a sob, briefly
-nodding once.) Are you grateful, Mandy?"|speech|TAPP|M
+nodding once.) Are you grateful, Mandy?"|speech|TAPP|M|True
 223||"She finally raises her head, looking into his eyes for the first
-time."|stage direction||
-224|AMANDA|(softly) He...helped me.|speech|AMANDA|F
+time."|stage direction|||
+224|AMANDA|(softly) He...helped me.|speech|AMANDA|F|
 225||"As she starts sniffling and breathing more heavily, Tapp looks
 over his shoulder into Lawrence’s room, right in his direction.
 He may not see him, but he knows he’s there. The camera then
@@ -972,18 +972,18 @@ cuts back to Amanda, who starts sobbing more heavily again. Slowly,
 the camera moves down into and under the table, fading back into
 an overhead view of the bathroom where Lawrence and Adam are.
 Adam sits in his corner, staring down at the floor as he has
-been listening to Lawrence’s story. He looks up across to Lawrence."|stage direction||
-226|ADAM|(softly) Are you sure it’s him?|speech|ADAM|M
-227|LAWRENCE|(nods slightly) Yeah, I’m sure.|speech|LAWRENCE|M
+been listening to Lawrence’s story. He looks up across to Lawrence."|stage direction|||
+226|ADAM|(softly) Are you sure it’s him?|speech|ADAM|M|True
+227|LAWRENCE|(nods slightly) Yeah, I’m sure.|speech|LAWRENCE|M|True
 228|ADAM|"(becoming a little hysterical again.
 He speaks accusingly) How do I know
 you’re telling the truth? You can be
 the one who put me in this room! (he
 gesticulates as he speaks, pointing
-to Lawrence and himself.)"|speech|ADAM|M
+to Lawrence and himself.)"|speech|ADAM|M|True
 229|LAWRENCE|"(internal eye roll, speaks slowly, as
 to a simpleton) I’m in exactly the same
-situation you’re in."|speech|LAWRENCE|M
+situation you’re in."|speech|LAWRENCE|M|True
 230|ADAM|"Wrong. (he stands up, kicking his chained
 foot out. Shouts.) Wrong! You’ve got
 one thing I don’t: Information! (He
@@ -1000,12 +1000,12 @@ cut- (But he stops short as he sees
 something in the glass. He flips it
 over, studying it, flips it back. He
 looks over to the mirror on the wall,
-studying it, thinking.)"|speech|ADAM|M
+studying it, thinking.)"|speech|ADAM|M|True
 231||"Lawrence notices that Adam’s ranting has ended, glances over
-at him."|stage direction||
-232|LAWRENCE|What?|speech|LAWRENCE|M
+at him."|stage direction|||
+232|LAWRENCE|What?|speech|LAWRENCE|M|True
 233|ADAM|"(looks over at Lawrence, then back at
-the mirror.) It’s a two-way mirror."|speech|ADAM|M
+the mirror.) It’s a two-way mirror."|speech|ADAM|M|True
 234||"Adam drops the shard down on the floor carefully, then reaches
 over to the corner behind him, leaning down and picking up a
 loose padlock. He lifts it up and throws it as hard as he can
@@ -1025,17 +1025,17 @@ surveillance monitor. A partial view of other recording-type
 equipment can be seen on either side of the monitor. A man’s
 voice speaks, though it doesn’t sound quite the same as on the
 Jigsaw tapes. As he speaks, a hand wearing a black leather glove
-raises up slightly and waves its fingers at the screen."|stage direction||
-235|MAN|(OS, Taunting) I can see you...|speech|MAN|F
+raises up slightly and waves its fingers at the screen."|stage direction|||
+235|MAN|(OS, Taunting) I can see you...|speech|MAN|F|
 236|ADAM|"(from on video) So that’s what this
-is. Reality TV."|speech|ADAM|M
+is. Reality TV."|speech|ADAM|M|True
 237|MAN|"(OS. Still taunting, sounds as though
 on a power trip) Don’t look at me. I
-can’t help you."|speech|MAN|F
+can’t help you."|speech|MAN|F|
 238||"The shot transitions from the video view of Adam back into regular
 view in the bathroom. Adam stands in a threatening pose to the
 camera, speaks angrily, loudly to it, his voice dripping with
-sarcasm."|stage direction||
+sarcasm."|stage direction|||
 239|ADAM|"Can you hear me in there? Huh? I’m having
 a blast. (he bends down and picks up
 another piece of debris from the floor)
@@ -1047,13 +1047,13 @@ crack.) Make sure you’re getting everything.
 (Bends down, throws picks up and throws
 another piece of debris. It hits, but
 no breakage. Leans down for another
-piece.)"|speech|ADAM|M
+piece.)"|speech|ADAM|M|True
 240|LAWRENCE|"(Scoffing tone as he watches Adam trying
 to break the glass) That’s not going
-to do anything."|speech|LAWRENCE|M
+to do anything."|speech|LAWRENCE|M|True
 241|ADAM|"(pauses, looks to Lawrence) You just
 want to leave it running on us? (the
-shot switches to surveillance view)"|speech|ADAM|M
+shot switches to surveillance view)"|speech|ADAM|M|True
 242|LAWRENCE|"(very matter-of-fact) Well, you won’t
 stop it. (shot switches to regular view)
 That’s why we can’t cut through these
@@ -1065,8 +1065,8 @@ deep in thought, starting to understand
 the set-up more so, figuring out the
 way this guy thinks. Almost admiring
 him. The situation may be bad, but it’s
-a brilliant design.)"|speech|LAWRENCE|M
-243|ADAM|You sound like you admire this prick.|speech|ADAM|M
+a brilliant design.)"|speech|LAWRENCE|M|True
+243|ADAM|You sound like you admire this prick.|speech|ADAM|M|True
 244|LAWRENCE|"(explaining) To overcome something,
 you have to understand what a perfect
 engine it is. That’s how you fight disease.
@@ -1074,24 +1074,24 @@ engine it is. That’s how you fight disease.
 walls, around the room) Now the tape
 told us to find an X. That X has to
 be somewhere in this room. (determined)
-Help me find it."|speech|LAWRENCE|M
+Help me find it."|speech|LAWRENCE|M|True
 245||"Adam does not help him look. He simply cannot believe Lawrence’s
 calm demeanor in this situation anymore. It seems that he is
 almost becoming as sick of Lawrence’s attitude as Lawrence is
-of his. He speaks a with a bit of a hyper tone again, accusingly."|stage direction||
+of his. He speaks a with a bit of a hyper tone again, accusingly."|stage direction|||
 246|ADAM|"How can you be the calm Doctor Guy when
 your wife and kid are out there. (Shot
 of Lawrence looking around the room)
 He’s got them, too. (Shot of the clock;
 it’s now 12:05.) He could be doing anything
 to them right now. Are you thinking
-about that?"|speech|ADAM|M
+about that?"|speech|ADAM|M|True
 247|LAWRENCE|"(Suddenly looks right at him, snaps
 angrily) I AM thinking about that. (Adam
 backs off a bit. Lawrence pauses a moment,
 his voice changes to calm but sad.)
 I’ve been the last thing I said to my
-daughter."|speech|LAWRENCE|M
+daughter."|speech|LAWRENCE|M|True
 248||"Lawrence turns away from Adam, placing his hand on the pipe behind
 him, and the shot moves up into blackness, then up at the foot
 of a little girl’s bed in a darkened bedroom. The little girl
@@ -1124,61 +1124,61 @@ the room, standing next to the bed, saying nothing, just watching
 her mother sleeping. Alison’s eyes slowly open; the feeling of
 being watched plus the instincts of a mother have awoken her.
 She reaches over and turns on the light, looking upon her daughter
-with concern."|stage direction||
+with concern."|stage direction|||
 249|ALISON|"Diana, Honey, are you okay? (she pushes
 back the covers and gets up, crouching
 down in front of her daughter. Looking
 up at her, she places her hands on her
 daughter’s arms.) Diana, Honey, can
-you hear me?"|speech|ALISON|F
+you hear me?"|speech|ALISON|F|True
 250|DIANA|"(very softly, but showing almost no
-fear) Mommy?"|speech|DIANA|F
+fear) Mommy?"|speech|DIANA|F|True
 251||"Alison reaches up and touches Diana’s hair, bringing her hand
-down in a soft caress on Diana’s cheek."|stage direction||
-252|ALISON|Oh, what is it, sweet pea?|speech|ALISON|F
-253|DIANA|(very calmly) There’s a man in my room.|speech|DIANA|F
+down in a soft caress on Diana’s cheek."|stage direction|||
+252|ALISON|Oh, what is it, sweet pea?|speech|ALISON|F|True
+253|DIANA|(very calmly) There’s a man in my room.|speech|DIANA|F|True
 254|ALISON|"(sighing, but not rudely. This is not
 the first time this has happened) Oh
 Honey, are you sure he’s not just hiding
-in your imagination?"|speech|ALISON|F
-255|DIANA|He talked to me.|speech|DIANA|F
+in your imagination?"|speech|ALISON|F|True
+255|DIANA|He talked to me.|speech|DIANA|F|True
 256|ALISON|"(sighs) Okay, I’ll come and check your
 room. (She smiles a small, assuring
-smile)"|speech|ALISON|F
-257|DIANA|I want Daddy. He’ll get the scary man.|speech|DIANA|F
+smile)"|speech|ALISON|F|True
+257|DIANA|I want Daddy. He’ll get the scary man.|speech|DIANA|F|True
 258|ALISON|"(her smile fading a bit) Alright, if
-you want. Come on."|speech|ALISON|F
+you want. Come on."|speech|ALISON|F|True
 259||"She stands and leads Diana out of the room. Cut to Lawrence’s
 office. Lawrence sits hunched slightly over his laptop computer,
 focused on some paper he’s writing. Diana and Alison appear in
 the doorway to his left. He doesn’t even look up, just keeps
 typing. Alison’s tone when she speaks indicates that she knows
-he’ll probably say no, or put it off on her."|stage direction||
+he’ll probably say no, or put it off on her."|stage direction|||
 260|ALISON|"Larry, sorry to bother you, but your
-daughter had a bad dream again."|speech|ALISON|F
+daughter had a bad dream again."|speech|ALISON|F|True
 261|LAWRENCE|"(his eyes never leaving the screen;
 raises his finger to pause them) Just
-a minute."|speech|LAWRENCE|M
-262|ALISON|She wants you to check her room.|speech|ALISON|F
+a minute."|speech|LAWRENCE|M|True
+262|ALISON|She wants you to check her room.|speech|ALISON|F|True
 263|LAWRENCE|"(keeps typing, never looks up) Mmm hmm,
-mmm hmm, just gotta finish this paragraph."|speech|LAWRENCE|M
-264||Alison waits a moment, then turns to Diana.|stage direction||
+mmm hmm, just gotta finish this paragraph."|speech|LAWRENCE|M|True
+264||Alison waits a moment, then turns to Diana.|stage direction|||
 265|ALISON|"(softly) You know what sweetie? I’ll
-go check with you."|speech|ALISON|F
+go check with you."|speech|ALISON|F|True
 266||"They turn, slowly start to walk away as Lawrence quickly finishes
-typing, then closes the laptop."|stage direction||
+typing, then closes the laptop."|stage direction|||
 267|LAWRENCE|"Nope! I’m done. (he smiles, turning
-to look at them.)"|speech|LAWRENCE|M
+to look at them.)"|speech|LAWRENCE|M|True
 268||"Cut to Diana’s room. Lawrence reaches over and turns on the lamp
 on Diana’s side table. Diana lies in bed, slightly propped up
 against her pillows and stuffed animals. Lawrence sits on the
-side of her bed."|stage direction||
+side of her bed."|stage direction|||
 269|LAWRENCE|"(very reassuringly) See? (he pulls the
 covers up over her, up to her chest.)
 There’s no one in your room. There’s
 no such thing as the bad man. Now can
-you go to sleep?"|speech|LAWRENCE|M
-270|DIANA|I’m still scared.|speech|DIANA|F
+you go to sleep?"|speech|LAWRENCE|M|True
+270|DIANA|I’m still scared.|speech|DIANA|F|True
 271|LAWRENCE|"You are? Give me your tootsie. (He pulls
 back the covers and she pulls out her
 foot. He takes it in his hand.) Oh,
@@ -1191,18 +1191,18 @@ home, this little piggy had roast beef,
 this little piggy had none, and this
 little piggy went ‘Weeee!’ (he tickles
 up her leg to her tummy and she giggles)
-all the way home!"|speech|LAWRENCE|M
+all the way home!"|speech|LAWRENCE|M|True
 272||"Just then, Lawrence’s beeper goes off. He leans back, takes it
-out and looks at it."|stage direction||
-273|DIANA|I hate that thing.|speech|DIANA|F
+out and looks at it."|stage direction|||
+273|DIANA|I hate that thing.|speech|DIANA|F|True
 274|LAWRENCE|"Well I have to go to work, sweetheart.
 You know what Daddy’s job is like. Now,
 come on. (he re-tucks her in, she smiles
 at him.) Let’s see. Try and get some
 sleep now, okay? (He gives her a kiss,
-smiles, stands up and goes to the door.)"|speech|LAWRENCE|M
+smiles, stands up and goes to the door.)"|speech|LAWRENCE|M|True
 275|DIANA|"You’re not going to leave us, are you,
-Daddy?"|speech|DIANA|F
+Daddy?"|speech|DIANA|F|True
 276|LAWRENCE|"(suddenly concerned) What? (He stops
 at the door, turns, goes back over to
 her bed, sits down next to her and leans
@@ -1212,35 +1212,35 @@ You mean, leave you and Mommy? (She
 nods; he reaches up and gently brushes
 her hair away from her face.) No, no
 sweetheart, I would never do that. Who
-gave you that idea?"|speech|LAWRENCE|M
-277|DIANA|No one.|speech|DIANA|F
-278|LAWRENCE|Well it’s not true, okay?|speech|LAWRENCE|M
-279|DIANA|(very softly) Okay.|speech|DIANA|F
-280|LAWRENCE|How much do I love you?|speech|LAWRENCE|M
-281||He moves his face closer to her and together they say|stage direction||
-282|LAWRENCE & DIANA|Love you very much|speech|LAWRENCE & DIANA|?
+gave you that idea?"|speech|LAWRENCE|M|True
+277|DIANA|No one.|speech|DIANA|F|True
+278|LAWRENCE|Well it’s not true, okay?|speech|LAWRENCE|M|True
+279|DIANA|(very softly) Okay.|speech|DIANA|F|True
+280|LAWRENCE|How much do I love you?|speech|LAWRENCE|M|True
+281||He moves his face closer to her and together they say|stage direction|||
+282|LAWRENCE & DIANA|Love you very much|speech|LAWRENCE & DIANA|?|
 283|LAWRENCE|"That’s right, that’s right! (He gives
 her a kiss, pulls back.) Good night,
-sweetie."|speech|LAWRENCE|M
-284|DIANA|Good night, Daddy.|speech|DIANA|F
+sweetie."|speech|LAWRENCE|M|True
+284|DIANA|Good night, Daddy.|speech|DIANA|F|True
 285||"Lawrence gets up and goes to the door, flipping the lights off.
-He pauses before he steps out."|stage direction||
+He pauses before he steps out."|stage direction|||
 286|LAWRENCE|"Tomorrow, I’ll read you your favourite
-story."|speech|LAWRENCE|M
-287|DIANA|(with a small smile) Okay.|speech|DIANA|F
-288|LAWRENCE|Okay. (he goes out.)|speech|LAWRENCE|M
+story."|speech|LAWRENCE|M|True
+287|DIANA|(with a small smile) Okay.|speech|DIANA|F|True
+288|LAWRENCE|Okay. (he goes out.)|speech|LAWRENCE|M|True
 289||"Quick cut to the Entrance Hall of the Gordon Residence. Lawrence
 walks towards the door, Alison behind him. Alison’s voice starts
-to cut over the scene. Her tone is very pissed off."|stage direction||
+to cut over the scene. Her tone is very pissed off."|stage direction|||
 290|ALISON|"I don’t know how much longer I can do
-this, Larry."|speech|ALISON|F
+this, Larry."|speech|ALISON|F|True
 291|LAWRENCE|"(sounds as though he has no idea what
 she means) What, what are you talking
-about?"|speech|LAWRENCE|M
+about?"|speech|LAWRENCE|M|True
 292|ALISON|"(pissed, in disbelief) How can you walk
 through life pretending that you’re
-happy?"|speech|ALISON|F
-293|LAWRENCE|I am happy.|speech|LAWRENCE|M
+happy?"|speech|ALISON|F|True
+293|LAWRENCE|I am happy.|speech|LAWRENCE|M|True
 294|ALISON|"(confrontational) That is complete bullshit.
 (cut to a shot of Diana, laying on her
 side in her darkened room, clutching
@@ -1251,7 +1251,7 @@ line, her voice now off a bit in the
 distance but still very audible) I’d
 rather you break down and tell me that
 you hated me. At least there’d be some
-passion in it."|speech|ALISON|F
+passion in it."|speech|ALISON|F|True
 295|LAWRENCE|"Would you like to see her? (He reaches
 into his pocket and takes out his wallet,
 throws it across the room to Adam, who
@@ -1261,20 +1261,20 @@ the wallet and opens it. He sees two
 pictures of Diana, side by side. The
 one on the left is Diana hugging a dog.
 The one on the right is a smiling portrait
-outside somewhere."|speech|LAWRENCE|M
-296|ADAM|She’s beautiful.|speech|ADAM|M
-297|LAWRENCE|Thank you.|speech|LAWRENCE|M
+outside somewhere."|speech|LAWRENCE|M|True
+296|ADAM|She’s beautiful.|speech|ADAM|M|True
+297|LAWRENCE|Thank you.|speech|LAWRENCE|M|True
 298|ADAM|"(sighs, then looks up at Lawrence) You
-gonna have any more kids?"|speech|ADAM|M
+gonna have any more kids?"|speech|ADAM|M|True
 299|LAWRENCE|"(a bit wearily, but not snobby) We’ve
 talked about it, but uh, with our schedules,
 it’s difficult enough to concentrate
 on one. (The tone of his voice indicates
 that maybe he’s starting to realize
 that he should’ve spent more time and
-attention to his daughter.)"|speech|LAWRENCE|M
+attention to his daughter.)"|speech|LAWRENCE|M|True
 300|ADAM|"(referring to the wallet) So where’s
-the lucky wife? (a small smile)"|speech|ADAM|M
+the lucky wife? (a small smile)"|speech|ADAM|M|True
 301|LAWRENCE|"There’s another picture behind the one
 you’re looking at. (Adam reaches behind
 the photo on the right and pulls another
@@ -1283,25 +1283,25 @@ as he speaks) It’s my favourite one
 because we’re all in it together. Someone,
 usually me, has to hold the camera,
 which means I’m always missing from
-the photos."|speech|LAWRENCE|M
+the photos."|speech|LAWRENCE|M|True
 302||"Cut to Adam, looking at the picture he pulled out. His face is
 blank, but you can sense great disturbance behind it. Cut to
 a shot of the photo he is holding. It is not the one Lawrence
 described, but a Polaroid of Alison and Diana bound and gagged,
 and the message Regards with a jigsaw piece drawn next to it.
 He turns the photo over, and there is a message. As he reads
-it, Jigsaw reads it aloud in a voiceover."|stage direction||
+it, Jigsaw reads it aloud in a voiceover."|stage direction|||
 303|JIGSAW|"(VO) X Marks the spot. Sometimes you
-see more with your eyes shut."|speech|JIGSAW|M
-304||Adam does his best to hide what he has seen, looks up to Lawrence.|stage direction||
-305|ADAM|It’s uh, it’s not here.|speech|ADAM|M
+see more with your eyes shut."|speech|JIGSAW|M|True
+304||Adam does his best to hide what he has seen, looks up to Lawrence.|stage direction|||
+305|ADAM|It’s uh, it’s not here.|speech|ADAM|M|True
 306|LAWRENCE|"(a slight disturbance from his momentary
-nostalgic bliss) What?"|speech|LAWRENCE|M
+nostalgic bliss) What?"|speech|LAWRENCE|M|True
 307|ADAM|"Uh, this photo you’re talking about...it’s
-not here."|speech|ADAM|M
+not here."|speech|ADAM|M|True
 308|LAWRENCE|"(slightly surprised, reaching out his
 hand for Adam to toss the wallet.) Really?
-Are you sure?"|speech|LAWRENCE|M
+Are you sure?"|speech|LAWRENCE|M|True
 309|ADAM|"Yeah. (Tucking the picture in his right
 hand, he shifts slightly by lifting
 himself a bit with his right hand, sneakily
@@ -1312,50 +1312,50 @@ for it, creasing his brow in concern,
 while Adam backs up against his wall,
 holding the photograph out of Lawrence’s
 sight against a pipe he rests his arm
-on as he looks at the photograph.)"|speech|ADAM|M
+on as he looks at the photograph.)"|speech|ADAM|M|True
 310|LAWRENCE|"(disbelief, shaking his head) He...he
-must’ve taken it. I..."|speech|LAWRENCE|M
+must’ve taken it. I..."|speech|LAWRENCE|M|True
 311||"Alison’s voice over is heard as he says this and continues to
 look through the wallet, and we hear Alison’s voiceover from
-the scene in the main hall."|stage direction||
+the scene in the main hall."|stage direction|||
 312|ALISON|"(VO) How can you walk through life pretending
-that you’re happy?"|speech|ALISON|F
+that you’re happy?"|speech|ALISON|F|True
 313||"CUT TO the Main Hall of the Gordon Residence, back to the earlier
-flashback of Lawrence and Alison. This time, we stay with them."|stage direction||
+flashback of Lawrence and Alison. This time, we stay with them."|stage direction|||
 314|LAWRENCE|"I am happy. (He walks over to a chair,
 leaning over it as he puts something
 down, gets his briefcase ready to go
 to work. Alison stands a few feet behind
 him, trying her best to get him to react,
-to stop the bullshit and end the masquerade.)"|speech|LAWRENCE|M
+to stop the bullshit and end the masquerade.)"|speech|LAWRENCE|M|True
 315|ALISON|"(pissed) That is complete bullshit.
 I’d rather you break down and tell me
 that you hated me. At least there’d
-be some passion in it."|speech|ALISON|F
+be some passion in it."|speech|ALISON|F|True
 316|LAWRENCE|"(tired of this, brushing it off as not
 that important, like there really is
 nothing wrong) We can talk about this
 alter, okay? (He leans in to kiss her,
-but she shakes her head. He pauses there.)"|speech|LAWRENCE|M
-317|ALISON|(firmly) Just leave.|speech|ALISON|F
+but she shakes her head. He pauses there.)"|speech|LAWRENCE|M|True
+317|ALISON|(firmly) Just leave.|speech|ALISON|F|True
 318||"He looks at her for a moment, searching, then slowly turns away
-and heads out the door."|stage direction||
+and heads out the door."|stage direction|||
 319|VOICE|"Goodnight, little girl. (camera pans
 up closer into the closet, and we a
 widened blue eye and part of a face
-(yet unidentifiable) watching her.)"|speech|VOICE|M
+(yet unidentifiable) watching her.)"|speech|VOICE|M|
 320||"The closet doors burst open and Diana screams. Cut back to the
 main hall where Alison stands alone, her head lowered slightly.
 As soon as she hears the scream she turns and bolts towards her
-daughter’s room."|stage direction||
-321|ALISON|Diana!?|speech|ALISON|F
-322||Alison gets to just outside the door to her bedroom.|stage direction||
+daughter’s room."|stage direction|||
+321|ALISON|Diana!?|speech|ALISON|F|True
+322||Alison gets to just outside the door to her bedroom.|stage direction|||
 323|ALISON|"Diana! (opens the door and flips on
 the light, gasps when she sees a figure
 covered by a blanket looming over Diana’s
 bed. The figure suddenly grabs Diana
 and she screams, struggling against
-him. Alison goes for them."|speech|ALISON|F
+him. Alison goes for them."|speech|ALISON|F|True
 324||"Quick cut to NOW, in Alison and Lawrence’s bedroom. Waistline
 shot of a figure wearing a black coat, black leather gloves and
 blue jeans, holding a stethoscope. A gun is tucked into his belt
@@ -1367,17 +1367,17 @@ fails. Diana keeps crying Mommy! over and over again and sobbing.
 The figure crouches down beside Diana, dropping the teddy bear
 behind her, his face still unseen. He takes the stethoscope and
 holds the end to Diana’s chest. The sound of a loud, steady heartbeat
-is heard. Alison screams at him through her gag."|stage direction||
+is heard. Alison screams at him through her gag."|stage direction|||
 325|ALISON|"Don’t do that! Leave her! Get away from
-her!"|speech|ALISON|F
+her!"|speech|ALISON|F|True
 326||"He pulls away the stethoscope and the heartbeat halts. He reaches
 with his right hand and pulls from his belt the gun. Diana’s
 screams become more desperate, Alison’s more frantic, more angry.
 He puts the stethoscope back against Diana’s chest and moves
 the gun up and down in front of her, then bringing it up to her
-mother’s head. We hear the heartbeat again, doubled in speed."|stage direction||
+mother’s head. We hear the heartbeat again, doubled in speed."|stage direction|||
 327|ALISON|"(through her gag) Keep your motherfucking
-hands off of my daughter!"|speech|ALISON|F
+hands off of my daughter!"|speech|ALISON|F|True
 328||"He pulls away the gun and the stethoscope, tucking the gun back
 into his belt. He reaches down behind Diana and picks up the
 teddy bear. As he does, we catch a brief glimpse of the lower
@@ -1389,7 +1389,7 @@ and leans forward a bit, and we see his face more clearly. It
 is Zep, the orderly from the hospital.
 Cut to static, and then a surveillance video view of the exterior
 of the Gordon home, of the window where Zep is standing. The
-camera zooms in on him and we hear a raspy, male voice speaking."|stage direction||
+camera zooms in on him and we hear a raspy, male voice speaking."|stage direction|||
 329|VOICE|"(VO as we view shot of Zep) Who are
 you little man...I see you...(cut to
 a television screen with the video of
@@ -1410,11 +1410,11 @@ wife? I know you know something. (his
 voice goes up a bit louder) What are
 you doing in there? Waiting for the
 doctor? I’m waiting for the doctor,
-too. Hmm."|speech|VOICE|M
+too. Hmm."|speech|VOICE|M|
 330||"Cut to a view over Tapp’s couch of the television with Zep on
 video on the screen. Tapp walks over and sits down in front of
-the television, his back to us."|stage direction||
-331|TAPP|I never should have let you go...|speech|TAPP|M
+the television, his back to us."|stage direction|||
+331|TAPP|I never should have let you go...|speech|TAPP|M|True
 332||"Camera pans up to a wall of articles, all about the Jigsaw killings.
 It moves quickly and zooms in on each headline we see. Jigsaw
 hunt brings D.A. before Judge, Missing Man discovered at Bizarre
@@ -1430,141 +1430,141 @@ testimony, Doctor Questioned in Case flash of shots of Lawrence
 being questioned by the Tapp and Sing and then his Lawyer. It
 ends on the flashback shot of Tapp looking back at Lawrence through
 the two-way glass after Amanda tells her story, and the shot
-slides into a shot of a car pulling up alongside a building."|stage direction||
+slides into a shot of a car pulling up alongside a building."|stage direction|||
 333|TAPP|"(VO, fading, hushed against soundtrack)
-I never should’ve let you go..."|speech|TAPP|M
+I never should’ve let you go..."|speech|TAPP|M|True
 334||"The car pulls up alongside a building, with Lawrence in the passenger
 seat, and Tapp driving. Lawrence’s awkwardness, Tapp’s distrust,
 and general uncomfortable tension can be easily detected between
-them."|stage direction||
+them."|stage direction|||
 335|LAWRENCE|"(Pretending like he’s trying to be helpful,
 really just glad to be out of Tapp’s
 company) Here we are. That was uh, quite
 an amazing story that poor woman told.
 (Tapp just nods, says nothing. Lawrence
 smiles very uncomfortably, gets out
-of the car.)"|speech|LAWRENCE|M
+of the car.)"|speech|LAWRENCE|M|True
 336|LAWRENCE|"(leaning down and looking back into
 the car window.) Look, I’m sorry I can’t
-be of more help to your investigation."|speech|LAWRENCE|M
+be of more help to your investigation."|speech|LAWRENCE|M|True
 337|TAPP|"(nods very slightly) You know, we arrested
 a dentist last week who like to play
 with kids a bit too much. He lived two
 blocks from here. The sewer lines run
 under this neighborhood too, Doctor.
-(hint hint)"|speech|TAPP|M
+(hint hint)"|speech|TAPP|M|True
 338||"Lawrence stands straight up, walks away. Tapp wait’s a moment,
 then drives off.
 BAM into static and then the video from Amanda’s cell. We are
 not at Tapp’s desk in the police station, watching him obsessively
 watch the video, staring at the screen, remote control in hand.
 As he watches, the camera circles around behind the television
-to give us a better view of our obsessed detective."|stage direction||
+to give us a better view of our obsessed detective."|stage direction|||
 339|JIGSAW|"(from the video) Hello Amanda. You don’t
 know me, but I know you. I want to play
 a game. Here’s what happens if you lose.
 There’s a timer at the back of the device
 you’re wearing. When the timer goes
 off, your mouth will be permanently
-ripped open."|speech|JIGSAW|M
+ripped open."|speech|JIGSAW|M|True
 340||"In the background of the station we hear a couple of detectives
 talking, then Sing walks in behind Tapp, over to his own desk.
 He turns, watching Tapp watch the screen. Tapp stops and rewinds
-the tape."|stage direction||
+the tape."|stage direction|||
 341|SING|"(to the other detectives leaving) I’ll
 catch you guys down there. (he reaches
-over and gets something off of his desk)"|speech|SING|M
+over and gets something off of his desk)"|speech|SING|M|True
 342|JIGSAW|"(from video) Think of it like a reverse
-bear trap."|speech|JIGSAW|M
-343||Tapp fast forwards a bit, hits play.|stage direction||
-344|JIGSAW|(from video) I’ll show you...|speech|JIGSAW|M
+bear trap."|speech|JIGSAW|M|True
+343||Tapp fast forwards a bit, hits play.|stage direction|||
+344|JIGSAW|(from video) I’ll show you...|speech|JIGSAW|M|True
 345||"Tapp watches closely the demonstration of the timer then the
 device going off and exploding. Sing watches too, not paying
 as close attention. As soon as it explodes, Sing speaks. The
 look on his face and the tone of his voice indicates his growing
-concern for his partner’s obsession over this case."|stage direction||
-346|SING|Hey Tapp?|speech|SING|M
+concern for his partner’s obsession over this case."|stage direction|||
+346|SING|Hey Tapp?|speech|SING|M|True
 347||"Tapp doesn’t look up, resembles Lawrence in the earlier scene
 when Alison and Diana came to him to check her room while he
-was working on his paper."|stage direction||
-348|TAPP|Mmm?|speech|TAPP|M
+was working on his paper."|stage direction|||
+348|TAPP|Mmm?|speech|TAPP|M|True
 349|SING|"We’re gonna go down to the Grill, go
-get a beer. You wanna come?"|speech|SING|M
-350|TAPP|I don’t think so. Thanks anyway.|speech|TAPP|M
+get a beer. You wanna come?"|speech|SING|M|True
+350|TAPP|I don’t think so. Thanks anyway.|speech|TAPP|M|True
 351|SING|"(Figured he might answer as such) You
-know I always ask. (He puts on his jacket)"|speech|SING|M
-352|JIGSAW|(on video) There is only one key...|speech|JIGSAW|M
+know I always ask. (He puts on his jacket)"|speech|SING|M|True
+352|JIGSAW|(on video) There is only one key...|speech|JIGSAW|M|True
 353|SING|"I’ll leave you to have fun up here.
 (He puts his hands on his hips, watching
-some more of the video.)"|speech|SING|M
+some more of the video.)"|speech|SING|M|True
 354|JIGSAW|"(on video) It’s in the stomach of your
-dead cellmate."|speech|JIGSAW|M
+dead cellmate."|speech|JIGSAW|M|True
 355|SING|"(still trying to reach him, break him
 from his obsession groove) Hey Tapp?
 I don’t mean for this to be disrespectful...(pause)
-Maybe you should find yourself a girlfriend."|speech|SING|M
+Maybe you should find yourself a girlfriend."|speech|SING|M|True
 356||"Sing chuckles, hits Tapp playfully on the arm, tapp laughs a
 bit too, but doesn’t look up. Sing remains grinning a bit. But
-then Tapp continues and rewinds the video a bit."|stage direction||
+then Tapp continues and rewinds the video a bit."|stage direction|||
 357|JIGSAW|"(on video) It’s in the stomach of your
-dead cellmate."|speech|JIGSAW|M
-358||Tapp fast forwards.|stage direction||
+dead cellmate."|speech|JIGSAW|M|True
+358||Tapp fast forwards.|stage direction|||
 359|JIGSAW|"(on video) Look around, Amanda. Know
 that I’m not lying. (Sing steps off
 to the right) You better hurry up. (Tapp
-rewinds again, suddenly pauses)"|speech|JIGSAW|M
-360|TAPP|Wait wait wait, Sing!|speech|TAPP|M
-361||Sing stops, turns.|stage direction||
-362|TAPP|Get back here!|speech|TAPP|M
-363|SING|What?|speech|SING|M
+rewinds again, suddenly pauses)"|speech|JIGSAW|M|True
+360|TAPP|Wait wait wait, Sing!|speech|TAPP|M|True
+361||Sing stops, turns.|stage direction|||
+362|TAPP|Get back here!|speech|TAPP|M|True
+363|SING|What?|speech|SING|M|True
 364|TAPP|"Mmm! (he gestures franticly for him
-to come over.)"|speech|TAPP|M
-365|SING|(sighs then comes over) What?|speech|SING|M
+to come over.)"|speech|TAPP|M|True
+365|SING|(sighs then comes over) What?|speech|SING|M|True
 366||"Tapp rewinds one second then pauses, holds pencil to the screen
-to a grafittied wall on the video."|stage direction||
-367|TAPP|Remember 118th Street?|speech|TAPP|M
+to a grafittied wall on the video."|stage direction|||
+367|TAPP|Remember 118th Street?|speech|TAPP|M|True
 368|SING|"(looks at the screen, thinks a minute)
 Ah...K2K. That gang’s territory was
-only about four blocks."|speech|SING|M
-369|TAPP|Now listen to this.|speech|TAPP|M
+only about four blocks."|speech|SING|M|True
+369|TAPP|Now listen to this.|speech|TAPP|M|True
 370||"They listen with the volume up high. Over the static, the sound
 of a fire alarm can just barely be heard in the background. They
-look at each other. Tapp hits stop."|stage direction||
+look at each other. Tapp hits stop."|stage direction|||
 371|TAPP|"(looking up at Sing) We gotta check
 the records from all the fire emergencies
 that occurred there in the last two
-weeks. Go, right now! Mmm!"|speech|TAPP|M
-372||Sing turns and quickly walks off.|stage direction||
+weeks. Go, right now! Mmm!"|speech|TAPP|M|True
+372||Sing turns and quickly walks off.|stage direction|||
 373|CUT TO|"Close up of a map, with Sing speaking
 in a voiceover. As he speaks, there’s
 a brief shot of the two of them sitting
 over the map, then quick shots of a
 few black and white photographs of a
 warehouse, including a close up of a
-street sign Stygian St."|speech|CUT TO|M
+street sign Stygian St."|speech|CUT TO|M|
 374|SING|"(VO) On the night of Tuesday, the 17th,
 we got a fire alarm going off in the
 rear wing of 213 Stygian Street. It’s
 an old listing. Used to be a mannequin
 factory. (cut back to view of the two
 detectives) You think we have enough
-for a warrant, though?"|speech|SING|M
+for a warrant, though?"|speech|SING|M|True
 375|TAPP|"Who said anything about a warrant? (He
-grins, gets up and grabs his jacket.)"|speech|TAPP|M
-376|SING|(are you serious?) Right now?|speech|SING|M
-377|TAPP|Why not?|speech|TAPP|M
+grins, gets up and grabs his jacket.)"|speech|TAPP|M|True
+376|SING|(are you serious?) Right now?|speech|SING|M|True
+377|TAPP|Why not?|speech|TAPP|M|True
 378|SING|"Yeah, why not? (He grabs his gun, snaps
 a cartridge into it, grabsup his coat,
-and quickly follows Tapp."|speech|SING|M
+and quickly follows Tapp."|speech|SING|M|True
 379||"Brief shot of K2K graffiti on the video and then loud static,
 which snaps into an exterior nighttime view of an old warehouse
 building and a car speeding by. Our view is from inside the car
 as it pulls up alongside the building. A police radio can be
 heard in the background. So can the sound of a gun being loaded
-and cocked."|stage direction||
+and cocked."|stage direction|||
 380|TAPP|"(VO) At least we’ll have the cover of
-darkness."|speech|TAPP|M
-381|SING|(VO) Yeah, well, so will anybody else.|speech|SING|M
+darkness."|speech|TAPP|M|True
+381|SING|(VO) Yeah, well, so will anybody else.|speech|SING|M|True
 382||"A shot of inside the factory, various clutter and tables piled
 up on one another. No signs of life...yet. A bang from the outside
 of the door is heard. A couple more bangs and a shot of the giant,
@@ -1576,8 +1576,8 @@ Tapp in front, Sing covering behind them. They come up another
 level, one that has been recently used we see as Tapp points
 over to a desk with a computer, a radio, and some other miscellaneous
 items. Then, right next to the desk, we see the K2K graffiti
-from the video."|stage direction||
-383|TAPP|I got you...|speech|TAPP|M
+from the video."|stage direction|||
+383|TAPP|I got you...|speech|TAPP|M|True
 384||"They continue on, moving into a room separated with a chain link
 fence. There is a slightly raised platform, going along part
 of the wall, with a few steps leading up on either side. Tapp
@@ -1585,9 +1585,9 @@ goes up the steps. On the raised area are some tables covered
 in heavy red cloth. Tapp points to one, reaches down, and pulls
 back the covering. He reveals a small diorama of the bathroom
 scene where Adam and Lawrence dolls, complete with the body,
-dolls representing each of them."|stage direction||
+dolls representing each of them."|stage direction|||
 385|TAPP|"What the hell is this?.......(his voice
-almost a whisper) Oh shit..."|speech|TAPP|M
+almost a whisper) Oh shit..."|speech|TAPP|M|True
 386||"They move onto the next table, and Tapp pulls back the cloth
 covering that one, revealing the leering Puppet from Amanda’s
 video. Tapp stares at it wide-eyed. Next to the puppet is a strange,
@@ -1595,8 +1595,8 @@ boar-like mask with long dark hair. The camera pans back so we
 have the view of another large object covered in red cloth that
 Tapp and Sing had passed by. Tapp leans in closer to look at
 the puppet, when suddenly the still-covered form starts to move
-and muffled moaning sounds are heard. It startles the detectives."|stage direction||
-387|SING|Oh fuck!|speech|SING|M
+and muffled moaning sounds are heard. It startles the detectives."|stage direction|||
+387|SING|Oh fuck!|speech|SING|M|True
 388||"They both go over and stand on either side of it, taking one
 end of the red cloth whipping it off. Underneath is a man tied
 to a chair with duct tape over his mouth, held in place by a
@@ -1606,28 +1606,28 @@ directly at his temples. His eyes wide, he moans through his
 tape at the detectives.
 Suddenly, a door is heard clanging open on the other side of
 the building, and the detectives spin to face the sound, guns
-ready."|stage direction||
-389|TAPP|(looks to Sing, says softly) Wait Sing!|speech|TAPP|M
+ready."|stage direction|||
+389|TAPP|(looks to Sing, says softly) Wait Sing!|speech|TAPP|M|True
 390|SING|"(trying to keep his voice low but coming
-off a bit loudly) What?"|speech|SING|M
-391|TAPP|(eager) Let’s see what he’s gonna do.|speech|TAPP|M
-392|SING|Why? We’ve fucking got him.|speech|SING|M
+off a bit loudly) What?"|speech|SING|M|True
+391|TAPP|(eager) Let’s see what he’s gonna do.|speech|TAPP|M|True
+392|SING|Why? We’ve fucking got him.|speech|SING|M|True
 393||"Tapp however, having studied this guy for so long, wants to get
-a good look at him before he’s captured, see him in his element."|stage direction||
+a good look at him before he’s captured, see him in his element."|stage direction|||
 394|TAPP|"We don’t know what he looks like. Let’s
-see what he’s gonna do."|speech|TAPP|M
-395|SING|(rather loudly, again) No fucking way!|speech|SING|M
+see what he’s gonna do."|speech|TAPP|M|True
+395|SING|(rather loudly, again) No fucking way!|speech|SING|M|True
 396||"As the two argue, the man in the chair continues to protest his
-position."|stage direction||
+position."|stage direction|||
 397|TAPP|"Sing, Sing! (he moves in front of the
 man a bit, holding up his hand to try
 to halt Sing, trying to convince him
-to go along with him.)"|speech|TAPP|M
+to go along with him.)"|speech|TAPP|M|True
 398|SING|"(isn’t buying into it) Fuck that. I’m
-gonna take him."|speech|SING|M
-399|TAPP|Sing!|speech|TAPP|M
-400|SING|What the fuck? Shit!|speech|SING|M
-401|TAPP|Wait Sing, listen.|speech|TAPP|M
+gonna take him."|speech|SING|M|True
+399|TAPP|Sing!|speech|TAPP|M|True
+400|SING|What the fuck? Shit!|speech|SING|M|True
+401|TAPP|Wait Sing, listen.|speech|TAPP|M|True
 402||"Whoever it is is moving closer, so they quickly cover up the
 man and the other things they uncovered. The man in the chair
 protests loudly through his gag and struggles as much as he can
@@ -1640,97 +1640,97 @@ his face. As he walks, he seems like he might be having a somewhat
 difficult time with it.
 He reaches and uncovers the man, who begs in muffled tones through
 the gag. When the figure speaks, we instantly know it is Jigsaw;
-it is the unmistakable voice from the tapes and the video."|stage direction||
+it is the unmistakable voice from the tapes and the video."|stage direction|||
 403|JIGSAW|"Awake already, Jeff? I need more powerful
 tranquilizers next time. (Jeff continues
 his cries, sheds a few tears. Jigsaw
 reaches over and touches his shoulder)
 Don’t cry. I’ve given your life a purpose.
 You’re a test subject for something
-greater than yourself."|speech|JIGSAW|M
+greater than yourself."|speech|JIGSAW|M|True
 404||"That’s when Sing cocks the shotgun and the two detectives move
-out of their hiding spot, aiming their weapons at Jigsaw."|stage direction||
-405|SING|Freeze! Police!|speech|SING|M
-406|TAPP|Hold it right there! Don’t move!|speech|TAPP|M
-407|SING|Put your fucking hands in the air!|speech|SING|M
+out of their hiding spot, aiming their weapons at Jigsaw."|stage direction|||
+405|SING|Freeze! Police!|speech|SING|M|True
+406|TAPP|Hold it right there! Don’t move!|speech|TAPP|M|True
+407|SING|Put your fucking hands in the air!|speech|SING|M|True
 408||"Jigsaw slowly raises his hands, starts to turn to face them but
 then quickly steps down hard on a red button on the floor, and
 the drill trap on Jeff’s chair comes to life. He remains with
-his back mostly to them, hands still raised."|stage direction||
+his back mostly to them, hands still raised."|stage direction|||
 409|JIGSAW|"Now you’ll make a choice. (Sing runs
 up the steps to try to where Jigsaw
 is, gun aimed at him. Tapp remains where
 he stands.) In 20 seconds, the life
-of this man will be ended."|speech|JIGSAW|M
-410|TAPP|Shut up and get down here!|speech|TAPP|M
+of this man will be ended."|speech|JIGSAW|M|True
+410|TAPP|Shut up and get down here!|speech|TAPP|M|True
 411|SING|"(keeping his gun steadily aimed) What
-did you do? Turn it off!"|speech|SING|M
+did you do? Turn it off!"|speech|SING|M|True
 412||"Jeff in the meantime is struggling in his seat as the drills
-come closer."|stage direction||
+come closer."|stage direction|||
 413|TAPP|"Sing, stop that thing! I’m taking this
 bastard down. (Sing tosses Tapp the
-shotgun.) Move!"|speech|TAPP|M
-414|SING|(to Jigsaw) How do you turn it off?!|speech|SING|M
-415|TAPP|Tell him how to stop it!|speech|TAPP|M
-416||Jigsaw backs up a bit towards the stairs.|stage direction||
-417|JIGSAW|One key will unlock it.|speech|JIGSAW|M
-418|SING|(frantic) Where is it?!|speech|SING|M
-419|JIGSAW|It’s in the box.|speech|JIGSAW|M
+shotgun.) Move!"|speech|TAPP|M|True
+414|SING|(to Jigsaw) How do you turn it off?!|speech|SING|M|True
+415|TAPP|Tell him how to stop it!|speech|TAPP|M|True
+416||Jigsaw backs up a bit towards the stairs.|stage direction|||
+417|JIGSAW|One key will unlock it.|speech|JIGSAW|M|True
+418|SING|(frantic) Where is it?!|speech|SING|M|True
+419|JIGSAW|It’s in the box.|speech|JIGSAW|M|True
 420|SING|"Box! (He sees a box on the side of the
 chair and opens it. Inside he pulls
 out a ring of at least 30 keys, and
 goes over to behind Jeff to try to unlock
 the device. He tries a couple of keys,
 none working.) Fuck! Which key, which
-key?!"|speech|SING|M
-421|TAPP|Tell him which key it is!|speech|TAPP|M
+key?!"|speech|SING|M|True
+421|TAPP|Tell him which key it is!|speech|TAPP|M|True
 422|JIGSAW|"(now facing Tapp, moving closer to him.
 His back is to us, we still don’t see
-his face.) Time is running out."|speech|JIGSAW|M
+his face.) Time is running out."|speech|JIGSAW|M|True
 423|TAPP|"Shut up and get down here right now,
-asshole!"|speech|TAPP|M
-424||Jigsaw slowly moves down towards him more.|stage direction||
+asshole!"|speech|TAPP|M|True
+424||Jigsaw slowly moves down towards him more.|stage direction|||
 425|JIGSAW|"What’s more important to you Officer,
 arresting me or the life of another
-human being?"|speech|JIGSAW|M
+human being?"|speech|JIGSAW|M|True
 426||"Sing keeps trying various keys. Tapp goes up Jigsaw and grabs
 him, pushing him down to his knees. Jigsaw keeps his arms slightly
-raised."|stage direction||
-427|TAPP|Get down on your knees!|speech|TAPP|M
-428|SING|Jesus! Tapp! Tapp!|speech|SING|M
+raised."|stage direction|||
+427|TAPP|Get down on your knees!|speech|TAPP|M|True
+428|SING|Jesus! Tapp! Tapp!|speech|SING|M|True
 429|TAPP|"(gun aimed at the back of Jigsaw’s head)
 Hands behind your head! (Jigsaw obliges)
-Sick bastard."|speech|TAPP|M
-430|JIGSAW|Yes, I am sick, Officer.|speech|JIGSAW|M
+Sick bastard."|speech|TAPP|M|True
+430|JIGSAW|Yes, I am sick, Officer.|speech|JIGSAW|M|True
 431|SING|"(still trying various keys, none working.
 He’s in a full-fledged panic. Jeff closes
 his eyes, crying, as the drills are
 only 2 inches away) Tapp! It’s like,
-there’s a hundred keys in here!"|speech|SING|M
+there’s a hundred keys in here!"|speech|SING|M|True
 432|JIGSAW|"Sick from the disease eating away at
 me inside. Sick of people who don’t
 appreciate their blessings. Sick of
 those who scoff at the suffering of
-others."|speech|JIGSAW|M
+others."|speech|JIGSAW|M|True
 433||"Sing finally whips out his gun and shoots each drill, breaking
 and stopping them. Tapp glances up at him, briefly distracted
-by the gunfire."|stage direction||
+by the gunfire."|stage direction|||
 434|JIGSAW|"(as he pops a blade out of a wristband
 hidden up his right sleeve) Sick of
 it all! (He lashes upwards, slashing
-Tapp’s throat)"|speech|JIGSAW|M
+Tapp’s throat)"|speech|JIGSAW|M|True
 435|SING|"(seeing the throat slash) Tapp!!! (runs
 down from Jeff towards them. Tapp clutches
-his throat, completely surprised, gurgling.)"|speech|SING|M
+his throat, completely surprised, gurgling.)"|speech|SING|M|True
 436||"Jigsaw RUNS, fast as he can, out of the room. Sing takes a couple
 of shots at him and misses. He stops when he reaches Tapp, who
-is slumped against the fence/wall and bends down next to him."|stage direction||
+is slumped against the fence/wall and bends down next to him."|stage direction|||
 437|SING|"(desperate, a trace of despair) No,
-no! Tapp! Shit!"|speech|SING|M
-438||Tapp gurgles at him, hands him the shotgun.|stage direction||
+no! Tapp! Shit!"|speech|SING|M|True
+438||Tapp gurgles at him, hands him the shotgun.|stage direction|||
 439|SING|"(standing, touching Tapp on the shoulder
 then head) I’ll be back, okay? I’ll
-be back."|speech|SING|M
+be back."|speech|SING|M|True
 440||"Tapp just kind of nods, gurgling and holding his throat. Sing
 spins around and then starts chasing Jigsaw through the warehouse,
 out of the room and down a flight of stairs. He moves down a
@@ -1742,8 +1742,8 @@ He drags himself along the floor.
 Back to Sing, who cocks his shotgun, then moves down the stairs
 very cautiously. He takes a left around the corner, finds himself
 facing down another corridor, where he sees Jigsaw trying to
-get away. He takes aim."|stage direction||
-441|SING|(shouting) Freeze or I’ll shoot!|speech|SING|M
+get away. He takes aim."|stage direction|||
+441|SING|(shouting) Freeze or I’ll shoot!|speech|SING|M|True
 442||"Jigsaw continues moving, so Sing fires. He hits, and Jigsaw goes
 down. Sing pauses, waiting to see if he gets back up. Jigsaw
 doesn’t move, so Sing cocks the gun again and starts to slowly
@@ -1780,7 +1780,7 @@ a nice gory one of the top of his head, part of which is now
 missing.
 At the last photoflash, we cut back to a shot of Tapp presently,
 sitting on his couch. The shot shows a good view of the scar
-across his neck."|stage direction||
+across his neck."|stage direction|||
 443|TAPP|"(weak, desperate) Had you...had you
 on your knees. (He sits forward, getting
 some things off the coffee table) You’re
@@ -1794,51 +1794,51 @@ this case. Ram close it. (He picks up
 a small framed photograph, which we
 can’t see, but likely, it’s of Sing.)
 Right, Sing? Right? We’re gonna close
-it, Sing."|speech|TAPP|M
+it, Sing."|speech|TAPP|M|True
 444|LAWRENCE|"X Marks the spot...(He stands, touching
 the pipe and looking up and around a
 bit.) X marks the spot...we need to
 search this room again. (He turns and
 looks over at Adam.) What are you doing
-over there?"|speech|LAWRENCE|M
+over there?"|speech|LAWRENCE|M|True
 445||"Cut back into regular view in the bathroom, with a shot of Adam
 sitting on the tub, holding the photograph of Alison and Diana
 just beneath the edge of the inside of the tub, looking down
-at it. He ignores Lawrence, flipping the photo over."|stage direction||
-446|LAWRENCE|(irritated) Excuse me?|speech|LAWRENCE|M
+at it. He ignores Lawrence, flipping the photo over."|stage direction|||
+446|LAWRENCE|(irritated) Excuse me?|speech|LAWRENCE|M|True
 447|ADAM|"(glancing up; calm irritation) Just
 because I’m stuck in this room with
 you doesn’t mean I have to report to
-you every ten seconds."|speech|ADAM|M
+you every ten seconds."|speech|ADAM|M|True
 448|LAWRENCE|"(sighs) I really don’t see the point
-in us not helping one another."|speech|LAWRENCE|M
+in us not helping one another."|speech|LAWRENCE|M|True
 449|ADAM|"well what do you want me to do? I’m
-on a leash."|speech|ADAM|M
+on a leash."|speech|ADAM|M|True
 450|LAWRENCE|"That’s exactly why we need to talk.
-We need to think!"|speech|LAWRENCE|M
-451|ADAM|I am thinking!|speech|ADAM|M
+We need to think!"|speech|LAWRENCE|M|True
+451|ADAM|I am thinking!|speech|ADAM|M|True
 452|LAWRENCE|"(snapping at him) Well then don’t keep
-me in the dark about what you’re thinking!"|speech|LAWRENCE|M
-453||There is a pause as something about that statement strikes Adam.|stage direction||
-454|ADAM|Turn off the lights.|speech|ADAM|M
-455|LAWRENCE|What?|speech|LAWRENCE|M
+me in the dark about what you’re thinking!"|speech|LAWRENCE|M|True
+453||There is a pause as something about that statement strikes Adam.|stage direction|||
+454|ADAM|Turn off the lights.|speech|ADAM|M|True
+455|LAWRENCE|What?|speech|LAWRENCE|M|True
 456|ADAM|"(letting the photo fall into the tub
-as he stands) Turn them off now, please!"|speech|ADAM|M
-457|LAWRENCE|(doesn’t get it) Why?|speech|LAWRENCE|M
+as he stands) Turn them off now, please!"|speech|ADAM|M|True
+457|LAWRENCE|(doesn’t get it) Why?|speech|LAWRENCE|M|True
 458|ADAM|"(impatiently) Just turn them off for
-a second!"|speech|ADAM|M
+a second!"|speech|ADAM|M|True
 459||"Lawrence stares at him oddly but moves backwards, reaching over
 and flipping off the lights. Adam looks around. Lawrence looks
 around too, but he sees nothing. He doesn’t seem to think this
 is going to help any. Then we see on the wall next to him a glow
 in the dark X painted on the tiles. He doesn’t see it and shrugs,
-but Adam spots it."|stage direction||
-460|ADAM|Jesus, behind you!|speech|ADAM|M
+but Adam spots it."|stage direction|||
+460|ADAM|Jesus, behind you!|speech|ADAM|M|True
 461|LAWRENCE|"(turns and sees it, is surprised) How
-come we didn’t see that before?"|speech|LAWRENCE|M
+come we didn’t see that before?"|speech|LAWRENCE|M|True
 462|ADAM|"The lights in here hadn’t charged it.
 It must be glow in the dark paint or
-something."|speech|ADAM|M
+something."|speech|ADAM|M|True
 463||"Lawrence turns and flips the lights back on, both of them wincing
 slightly at the sudden transition from dark to bright white,
 though not as much as before. Lawrence leans over and picks up
@@ -1847,30 +1847,30 @@ hitting the tiles with the handle of the hacksaw. He breaks through,
 reaching into a small cavity in the wall and pulling out a small
 brown box with a hinged lid. He can’t believe it. He looks to
 Adam, a small grin on his face. He places it on the floor and
-sits down behind it."|stage direction||
-464|ADAM|(excitedly) Open it!|speech|ADAM|M
+sits down behind it."|stage direction|||
+464|ADAM|(excitedly) Open it!|speech|ADAM|M|True
 465|LAWRENCE|"(turns it around so we and Adam can
 see the small lock on it.) It’s locked.
 (He pauses, thinking, then realizes
 something) The key, the one from my
-envelope. Where is it?"|speech|LAWRENCE|M
+envelope. Where is it?"|speech|LAWRENCE|M|True
 466||"Adam looks around him, then leans down, looking on the floor
-for the key."|stage direction||
+for the key."|stage direction|||
 467|ADAM|"(soft, hushed tone as he looks) Where
 the fuck...Here. (He finds it, picks
-it up and tosses it over.)"|speech|ADAM|M
+it up and tosses it over.)"|speech|ADAM|M|True
 468||"Lawrence picks up the key, tries it on the lock. It works. He
 takes the lock off, opens the box. He holds up a cell phone,
-smiling in relief."|stage direction||
+smiling in relief."|stage direction|||
 469|ADAM|"(big smile) Cell phone. The most beautiful
-invention on this planet!"|speech|ADAM|M
+invention on this planet!"|speech|ADAM|M|True
 470||"Lawrence takes out and holds up one of two cigarettes. Adam lets
-out a joyful laugh."|stage direction||
+out a joyful laugh."|stage direction|||
 471|ADAM|"Make that second most beautiful invention!
 (He reaches out his hand for Lawrence
-to toss it.) Give me that."|speech|ADAM|M
+to toss it.) Give me that."|speech|ADAM|M|True
 472|LAWRENCE|"Are you joking? You’re gonna put something
-we found in this room in your mouth?"|speech|LAWRENCE|M
+we found in this room in your mouth?"|speech|LAWRENCE|M|True
 473|ADAM|"(pause, then) Yes, I’m willing to risk
 it! Give me that sweet cancer. (Lawrence
 ignores his request, tosses out the
@@ -1878,16 +1878,16 @@ other cigarette and a lighter. He finds
 lastly a small folded up note with the
 words Shh, Doctor, written on it.) I
 don’t care, I really don’t. Give me
-one of those."|speech|ADAM|M
+one of those."|speech|ADAM|M|True
 474||"Jigsaw’s voiceover reads what’s written on the note as Lawrence
 opens the paper and reads it, keeping it low in the box where
-Adam can’t see it."|stage direction||
+Adam can’t see it."|stage direction|||
 475|JIGSAW|"(VO) The cigarettes are harmless, I
 promise. Smoking is only poisonous when
 it ends in bloodshed. Think about this
-- you don’t need a gun to kill Adam."|speech|JIGSAW|M
+- you don’t need a gun to kill Adam."|speech|JIGSAW|M|True
 476|ADAM|"(growing impatient) May I please have
-a cigarette?"|speech|ADAM|M
+a cigarette?"|speech|ADAM|M|True
 477|LAWRENCE|"(ignoring his plea) I’m trying the police.
 (He flips open and dials on the cell
 phone, but a weird beeping noise indicating
@@ -1896,8 +1896,8 @@ the phone. He dials again, same result.)
 Shit. (Pause, thinks.) This was meant
 to receive calls, not make them. (A
 moment; he realizes something.) Wait
-a minute...this has happened before."|speech|LAWRENCE|M
-478||Cut back to an overhead descending view inside a parking garage.|stage direction||
+a minute...this has happened before."|speech|LAWRENCE|M|True
+478||Cut back to an overhead descending view inside a parking garage.|stage direction|||
 479|LAWRENCE|"(VO) Last night, after I finished at
 the hospital. (fade into another closer
 shot of the cars, and Lawrence walking
@@ -1911,7 +1911,7 @@ He looks up, startled, looking in the
 direction in which he thinks it came
 from, but sees nothing. He looks around
 him for another moment, then continues
-forward to his car.)"|speech|LAWRENCE|M
+forward to his car.)"|speech|LAWRENCE|M|True
 480||"Cut to a shot within a circular overhead mirror of Lawrence’s
 car pulling up to an abandoned security gate station. He gets
 out of the car, shutting the door and going over to a phone on
@@ -1932,7 +1932,7 @@ the strange boar mask previously seen in the flashback of Jigsaw’s
 workshop. It suddenly rushes upon him as he’s distracted with
 his phone and grabs him.
 Cut back to Lawrence sitting on the floor in the bathroom, still
-holding the phone."|stage direction||
+holding the phone."|stage direction|||
 481|LAWRENCE|"(His eyes distant, off in his memory)
 That...thing. It was waiting for me.
 (He exhales sharply, then looks back
@@ -1940,21 +1940,21 @@ up at Adam. Adam is just standing there,
 staring at him. Something seems a bit...off.
 With a suspicious tone, Lawrence addresses
 him.) How did you know to turn off the
-lights?"|speech|LAWRENCE|M
-482|ADAM|Who cares? It worked.|speech|ADAM|M
-483|LAWRENCE|Yeah, but how did you know?|speech|LAWRENCE|M
+lights?"|speech|LAWRENCE|M|True
+482|ADAM|Who cares? It worked.|speech|ADAM|M|True
+483|LAWRENCE|Yeah, but how did you know?|speech|LAWRENCE|M|True
 484|ADAM|"(a slight pause) Instinct. (His tone
-is far from believable.)"|speech|ADAM|M
-485|LAWRENCE|(doesn’t believe a word of it) Instinct?|speech|LAWRENCE|M
-486|ADAM|Yeah.|speech|ADAM|M
+is far from believable.)"|speech|ADAM|M|True
+485|LAWRENCE|(doesn’t believe a word of it) Instinct?|speech|LAWRENCE|M|True
+486|ADAM|Yeah.|speech|ADAM|M|True
 487|LAWRENCE|"You know what? (he looks down, then
 back up at Adam.) You’re a terrible
-liar."|speech|LAWRENCE|M
+liar."|speech|LAWRENCE|M|True
 488|ADAM|"(quiet offense) You say that like you
-know me."|speech|ADAM|M
+know me."|speech|ADAM|M|True
 489|LAWRENCE|"(speaks calmly, but anger lies underneath
 the surface) What else aren’t you telling
-me?"|speech|LAWRENCE|M
+me?"|speech|LAWRENCE|M|True
 490|ADAM|"(cocky and sarcastic) Well, um, let’s
 see. On my sixth birthday, my best friend
 at that time, Scott Tibbs, stabbed me
@@ -1965,78 +1965,78 @@ his head into his hands. Un-FUCKING-believable)
 who was a feminist vegan punk, broke
 up with me because she thought I was
 too angry. Uh, I haven’t told you that
-one of my toenails is slightly..."|speech|ADAM|M
+one of my toenails is slightly..."|speech|ADAM|M|True
 491|LAWRENCE|"(snaps at him, fed up) Just stop it.
-You knew to turn off these lights."|speech|LAWRENCE|M
-492|ADAM|(turning away from Lawrence) What-ever.|speech|ADAM|M
+You knew to turn off these lights."|speech|LAWRENCE|M|True
+492|ADAM|(turning away from Lawrence) What-ever.|speech|ADAM|M|True
 493|LAWRENCE|"(stands up, frustrated.) I’m dealing
-with a juvenile."|speech|LAWRENCE|M
+with a juvenile."|speech|LAWRENCE|M|True
 494|ADAM|"(has had it, looks right at him) You
-wanna know?"|speech|ADAM|M
-495|LAWRENCE|(exasperated) Yeah!|speech|LAWRENCE|M
+wanna know?"|speech|ADAM|M|True
+495|LAWRENCE|(exasperated) Yeah!|speech|LAWRENCE|M|True
 496||"Adam leans down and reaches into the bathtub, pulls out and holds
-up the picture of Alison and Diana."|stage direction||
+up the picture of Alison and Diana."|stage direction|||
 497|ADAM|"(with a somewhat aggressive attitude)
 Here it is. (He throws it towards Lawrence,
 who looks down at it, then back up at
 Adam before getting down on the floor
 and pulling it towards him with the
 hinged box. He picks it up, sitting
-up as he looks upon it with shock. )"|speech|ADAM|M
+up as he looks upon it with shock. )"|speech|ADAM|M|True
 498|LAWRENCE|"(very softly, shakily) Oh God...(he
 turns it over, then back. Adam casts
 his eyes downwards, still standing but
 cooling off, feeling bad for Lawrence)
-W...where did you get this?"|speech|LAWRENCE|M
+W...where did you get this?"|speech|LAWRENCE|M|True
 499|ADAM|"(softly) It was in your wallet, behind
-the photo of your daughter."|speech|ADAM|M
-500|LAWRENCE|W...why didn’t you show me this before?|speech|LAWRENCE|M
+the photo of your daughter."|speech|ADAM|M|True
+500|LAWRENCE|W...why didn’t you show me this before?|speech|LAWRENCE|M|True
 501|ADAM|"I couldn’t. (Lawrence begins to shakily
 sob, touching the photo.) I’m sorry.
 (Adam goes over and sits against a pipe
 in his corner, lowering his head and
 upper body forward, holding his head
-in his hands.)"|speech|ADAM|M
+in his hands.)"|speech|ADAM|M|True
 502||"Lawrence sniffles, shaking, then looks right to the surveillance
-camera behind the glass and screams."|stage direction||
+camera behind the glass and screams."|stage direction|||
 503|LAWRENCE|"What are you doing to them you bastard?!
 (He goes back to huddling over the photograph,
 sniffling and crying for a moment. Then,
 he sits up, trying to pull himself together)
 Okay...okay..(he looks around a bit)
 Okay, I’ve got to think now...(He looks
-down, sees the note again in the box.)"|speech|LAWRENCE|M
+down, sees the note again in the box.)"|speech|LAWRENCE|M|True
 504|JIGSAW|"(VO) Think about this...you don’t need
 a gun to kill Adam. When there’s that
 much poison in your blood (a slow shot
 moving to the pool of blood from the
 body in front of Lawrence), the only
-thing left to do is shoot yourself."|speech|JIGSAW|M
+thing left to do is shoot yourself."|speech|JIGSAW|M|True
 505||"Lawrence looks at the body, then down. He’s getting an idea.
 He takes a cigarette, glances over at Adam, who still has his
 head down in his hands. He dips the end of the cigarette in the
 blood, then puts it back in the box. He starts to get up. Adam
-looks up, sees him standing."|stage direction||
-506|ADAM|What are you doing?|speech|ADAM|M
+looks up, sees him standing."|stage direction|||
+506|ADAM|What are you doing?|speech|ADAM|M|True
 507||"Lawrence goes to the light, looks at the camera, suddenly flips
 off the lights. We see a shot of Zep startling when the lights
-go out on the monitor, then we go back to the darkened bathroom."|stage direction||
-508|ADAM|Hey! What the hell are you doing?|speech|ADAM|M
+go out on the monitor, then we go back to the darkened bathroom."|stage direction|||
+508|ADAM|Hey! What the hell are you doing?|speech|ADAM|M|True
 509|LAWRENCE|"(whispering so the surveillance camera
 will not pick him up) Adam, listen to
 me. I want you to play along with me
-on this."|speech|LAWRENCE|M
+on this."|speech|LAWRENCE|M|True
 510||"Zep leans in, trying to hear what’s being said, but the static
 of the video is too loud. He tries to adjust the sound, but to
 no avail. Shot goes back into the bathroom, where Lawrence is
-finishing saying something to Adam."|stage direction||
+finishing saying something to Adam."|stage direction|||
 511|LAWRENCE|"You got that? (he turns the lights back
 on, both of them again wincing at the
 bright light. Lawrence glances at the
-surveillance camera, then looks to Adam."|speech|LAWRENCE|M
+surveillance camera, then looks to Adam."|speech|LAWRENCE|M|True
 512|LAWRENCE|"(trying to be nonchalant) So you uh,
-still want that cigarette?"|speech|LAWRENCE|M
-513|ADAM|Um...yeah, sure.|speech|ADAM|M
+still want that cigarette?"|speech|LAWRENCE|M|True
+513|ADAM|Um...yeah, sure.|speech|ADAM|M|True
 514||"Lawrence makes a show of reaching into the box where the poisoned
 cigarette is, but takes the other un-dipped one instead. He throws
 it to Adam, who reaches down and picks it up from where it lands.
@@ -2054,40 +2054,40 @@ as he falls to his knees, then back a bit, his left arm held
 out in front of him dramatically. He falls backwards onto the
 floor, twitching some more, still choking. He lets out a long
 cough, suddenly stops jerking, and closes his eyes. The death
-in its entirety is very, very fake."|stage direction||
+in its entirety is very, very fake."|stage direction|||
 515|LAWRENCE|"(watches Adam, then turns to the surveillance
 camera, speaks with angry finality)
 There! I’ve done it! I’ve killed him
 with the poison, just like you wanted.
 (shouting) Now where’s my family?! Where
-are they?!"|speech|LAWRENCE|M
+are they?!"|speech|LAWRENCE|M|True
 516||"Suddenly, we go to a shot of Adam lying there and a loud, electrical
 buzzing sound is heard as his body jerks to life and he cries
 out. He spasms and jerks around as he is electrocuted, and Lawrence
 looks upon him in shock. Finally, the electrocution stops, and
-Adam sits up slightly, gasping, eyes wide."|stage direction||
+Adam sits up slightly, gasping, eyes wide."|stage direction|||
 517|ADAM|"(he shrieks in pain and shock) Jesus
-Christ!!"|speech|ADAM|M
+Christ!!"|speech|ADAM|M|True
 518||"Lawrence’s reaction is not one of concern; he simply can’t believe
-that Adam just screwed up the plan."|stage direction||
-519|LAWRENCE|(disbelief) What?|speech|LAWRENCE|M
-520|ADAM|(wide eyed) I just got electrocuted!|speech|ADAM|M
+that Adam just screwed up the plan."|stage direction|||
+519|LAWRENCE|(disbelief) What?|speech|LAWRENCE|M|True
+520|ADAM|(wide eyed) I just got electrocuted!|speech|ADAM|M|True
 521|LAWRENCE|"What? (he rolls his eyes. Unbelievable.
 He speaks in a hushed tone.) That was
-our way out!"|speech|LAWRENCE|M
+our way out!"|speech|LAWRENCE|M|True
 522||"Adam looks at him in shock, cannot believe Lawrence would think
-he’d make something like that up."|stage direction||
+he’d make something like that up."|stage direction|||
 523|ADAM|"(yelling at him) Did you hear what I
 said? (he desperately grabs at the manacle
 around his ankle, pulling at it and
 shrieking) Get this thing off me! Get
-it off!"|speech|ADAM|M
-524|LAWRENCE|(pissed off) Stop acting!|speech|LAWRENCE|M
+it off!"|speech|ADAM|M|True
+524|LAWRENCE|(pissed off) Stop acting!|speech|LAWRENCE|M|True
 525|ADAM|"(stops pulling at the manacle and chains;
 now he’s pissed at Lawrence for his
 disbelief) You think I would make that
 up just to mess up your stupid fucking
-charade?"|speech|ADAM|M
+charade?"|speech|ADAM|M|True
 526|LAWRENCE|"(gives up on Adam, frustrated once more)
 All right, that’s it! (He leans over
 and picks up his saw, sits down and
@@ -2097,12 +2097,12 @@ just sits back against the wall, breathing
 heavily, looking dazed. Lawrence continues
 to franticly saw, but it doesn’t work.
 He gets pissed off and throws the blade
-down.) Ah, Damn it!!"|speech|LAWRENCE|M
+down.) Ah, Damn it!!"|speech|LAWRENCE|M|True
 527||"Back to Adam, still looking dazed. Suddenly, a look of realization
-dawns upon his face. The electrocution has jogged his memory."|stage direction||
+dawns upon his face. The electrocution has jogged his memory."|stage direction|||
 528|ADAM|"(wide-eyed) I remember everything now.
 (Lawrence glances over at him.) I remember
-how I got here."|speech|ADAM|M
+how I got here."|speech|ADAM|M|True
 529||"Flashback to Adam walking up the stairs in his apartment building,
 a camera around his neck, smoking a cigarette and listening to
 music on his headphones. He walks with an uncaring, slow swagger.
@@ -2137,23 +2137,23 @@ He moves it up and down a few times, but nothing happens. Another
 aggravated sigh. He reaches down and finds a flashlight on the
 counter, presses the on button but it doesn’t work. Pissed, he
 shakes it hard, trying to get it to come on, but that doesn’t
-work. He looks at it, scoffs."|stage direction||
-530|ADAM|Great.|speech|ADAM|M
+work. He looks at it, scoffs."|stage direction|||
+530|ADAM|Great.|speech|ADAM|M|True
 531||"Suddenly, he hears something move outside the door, somewhere
 in his apartment. On alert, he listens. He looks down and picks
 up his camera, slinging it around his neck and holding it out
 in front of him. He opens the creaky door into his also pitch-black
 apartment. He takes a few steps forward, speaks nervously, but
-trying to be brave."|stage direction||
+trying to be brave."|stage direction|||
 532|ADAM|"Is someone there? (he takes a picture,
 the flash lighting up the area in front
 of him.) I can hear you. (He takes another
 picture, the flash lighting up a living
 room area. Nothing yet. He moves forward
 more, into the kitchen entryway, snapping
-away for light.)"|speech|ADAM|M
+away for light.)"|speech|ADAM|M|True
 533||"Suddenly, from behind him, an EVIL DOLL LAUGH is heard. He startles,
-spinning around."|stage direction||
+spinning around."|stage direction|||
 534|ADAM|"(his voice alarmed but confused at the
 same time) What the...? (He snaps a
 picture in its direction and sees the
@@ -2164,10 +2164,10 @@ and finds a baseball bat on the floor,
 and starts hitting the doll as hard
 as he can until the laugh starts to
 fade and then just dies out. ) What
-the..."|speech|ADAM|M
+the..."|speech|ADAM|M|True
 535||"He hears the sound of movement again, coming from just behind
 him in a closet. He goes on alert again, holding up the baseball
-bat and the camera."|stage direction||
+bat and the camera."|stage direction|||
 536|ADAM|"Who is that?! Who’s in there?! (he moves
 towards the door, shaking but trying
 to be a tough guy) Come on out! I’ll
@@ -2176,55 +2176,55 @@ the door, holds the camera and takes
 a picture. As soon as the flash goes
 off we see the red-robed pig thing that
 originally grabbed Lawrence quickly
-move forward and grab Adam.)"|speech|ADAM|M
+move forward and grab Adam.)"|speech|ADAM|M|True
 537||"Suddenly, the cell phone rings. Lawrence looks down at it in
 slight surprise. Adam snaps out of his daze to look at it as
 well. Lawrence glances over at Adam and then carefully reaches
 down, picks it up and answers it. The scene will cut back and
 forth to Diana and Alison in the room and Lawrence on the phone
-for the duration of the conversation."|stage direction||
-538|LAWRENCE|(not sure what to expect) Who is this?|speech|LAWRENCE|M
-539|DIANA|(on the phone, sobbing) Daddy?|speech|DIANA|F
-540|LAWRENCE|Diana? (he stands)|speech|LAWRENCE|M
+for the duration of the conversation."|stage direction|||
+538|LAWRENCE|(not sure what to expect) Who is this?|speech|LAWRENCE|M|True
+539|DIANA|(on the phone, sobbing) Daddy?|speech|DIANA|F|True
+540|LAWRENCE|Diana? (he stands)|speech|LAWRENCE|M|True
 541|DIANA|"Daddy, is that you? (cut to a shot of
 her being held by Zep, the phone to
-her ear.)"|speech|DIANA|F
+her ear.)"|speech|DIANA|F|True
 542|LAWRENCE|"(getting sniffly) Yeah baby, it’s me.
-I’m here. (Adam watches him intently)"|speech|LAWRENCE|M
-543|DIANA|(sobbing) I’m scared, Daddy.|speech|DIANA|F
+I’m here. (Adam watches him intently)"|speech|LAWRENCE|M|True
+543|DIANA|(sobbing) I’m scared, Daddy.|speech|DIANA|F|True
 544|LAWRENCE|"(trying his best to reassure her) Don’t
 worry honey, everything’s going to be
-okay. Where’s Mommy?"|speech|LAWRENCE|M
-545|DIANA|She’s here with me.|speech|DIANA|F
+okay. Where’s Mommy?"|speech|LAWRENCE|M|True
+545|DIANA|She’s here with me.|speech|DIANA|F|True
 546|LAWRENCE|"(Staying as calm and collected as he
 can for his daughter) Let me talk to
-her sweetie, okay? Put Mommy on."|speech|LAWRENCE|M
+her sweetie, okay? Put Mommy on."|speech|LAWRENCE|M|True
 547|DIANA|"The bad man from my room is here. He
-has us tied up and he has a gun."|speech|DIANA|F
-548|LAWRENCE|W...what man?|speech|LAWRENCE|M
+has us tied up and he has a gun."|speech|DIANA|F|True
+548|LAWRENCE|W...what man?|speech|LAWRENCE|M|True
 549|DIANA|"Please come home Daddy! (Zep kisses
 her on the top of her head and takes
-the phone away to give to Alison.)"|speech|DIANA|F
-550|LAWRENCE|Hello? Hello? Diana?|speech|LAWRENCE|M
+the phone away to give to Alison.)"|speech|DIANA|F|True
+550|LAWRENCE|Hello? Hello? Diana?|speech|LAWRENCE|M|True
 551||"Zep pushes some of Alison’s hair behind her ear with the barrel
-of the gun."|stage direction||
-552|LAWRENCE|(desperate) Diana! Diana!|speech|LAWRENCE|M
-553||Zep puts the phone up to Alison’s ear.|stage direction||
-554|ALISON|Larry?|speech|ALISON|F
+of the gun."|stage direction|||
+552|LAWRENCE|(desperate) Diana! Diana!|speech|LAWRENCE|M|True
+553||Zep puts the phone up to Alison’s ear.|stage direction|||
+554|ALISON|Larry?|speech|ALISON|F|True
 555|LAWRENCE|"Ally? Is that you? (We see a shot of
 Alison giving a threatening look through
-her tears to Zep.)"|speech|LAWRENCE|M
-556|ALISON|Is Adam there?|speech|ALISON|F
+her tears to Zep.)"|speech|LAWRENCE|M|True
+556|ALISON|Is Adam there?|speech|ALISON|F|True
 557|LAWRENCE|"(surprised, looks to Adam, who continues
 to watch him worriedly) How do you know?
-Ally, what is going on?"|speech|LAWRENCE|M
+Ally, what is going on?"|speech|LAWRENCE|M|True
 558|ALISON|"(through her sobs, trying to calm them
 and get this message to him) Don’t believe
 Adam’s lies. He knows you. He knew all
 about you before today. (Zep quickly
 takes the phone away, hangs up. Cut
 back to the bathroom, Lawrence on the
-phone.)"|speech|ALISON|F
+phone.)"|speech|ALISON|F|True
 559|LAWRENCE|"(a dial tone is heard from the other
 end hanging up. Lawrence is desperate)
 Hello? Ally? Ally? (No answer, just
@@ -2235,31 +2235,31 @@ as lay a finger on them, I’ll kill you!
 You hear me? You son of a bitch! I’ll
 kill you! (He sits down, leaning forward
 over the floor, crying a bit. He slams
-his fist fiercely against the floor.)"|speech|LAWRENCE|M
+his fist fiercely against the floor.)"|speech|LAWRENCE|M|True
 560|ADAM|"(quietly, as though cautiously approaching
-a dangerous animal) Are they okay?"|speech|ADAM|M
+a dangerous animal) Are they okay?"|speech|ADAM|M|True
 561|LAWRENCE|"(sits up. His voice is calmer, but rage
 is clearly underneath the surface) My
-wife, she uh, she mentioned your name."|speech|LAWRENCE|M
+wife, she uh, she mentioned your name."|speech|LAWRENCE|M|True
 562|ADAM|"(a brief Oh shit look appears in his
 eyes, but he acts surprised) What did
-she say?"|speech|ADAM|M
+she say?"|speech|ADAM|M|True
 563|LAWRENCE|"(not looking at him yet. Speaks very
 firmly, trying to suppress his rage.)
-She told me...not to believe you."|speech|LAWRENCE|M
+She told me...not to believe you."|speech|LAWRENCE|M|True
 564|ADAM|"(cannot even look at Lawrence.) Believe
 me about what? (There is no doubt he’s
-hiding something)"|speech|ADAM|M
+hiding something)"|speech|ADAM|M|True
 565|LAWRENCE|"(Finally turns to look at him, the look
 of 1000 deaths) She told me you knew
 me. (He stands, looming menacingly,
 the look stronger on his face) Who are
-you?"|speech|LAWRENCE|M
+you?"|speech|LAWRENCE|M|True
 566|ADAM|"(still trying to cover up and losing,
 still not making eye contact) You know
-who I am."|speech|ADAM|M
+who I am."|speech|ADAM|M|True
 567|LAWRENCE|"(snaps, shouting at him) Stop the lies!
-You’re a liar! I need to know the truth!"|speech|LAWRENCE|M
+You’re a liar! I need to know the truth!"|speech|LAWRENCE|M|True
 568|ADAM|"(His tone changes, he’s had it with
 hiding, had it with Lawrence) I’m a
 liar? (Finally, he looks up, right at
@@ -2268,14 +2268,14 @@ What did you do last night, Lawrence?
 Work at a hospital? Saving sick children?
 You told me that after you left your
 house last night, you went to work at
-a hospital."|speech|ADAM|M
+a hospital."|speech|ADAM|M|True
 569|LAWRENCE|"(defensively) That’s because it’s the
-truth."|speech|LAWRENCE|M
+truth."|speech|LAWRENCE|M|True
 570|ADAM|"(almost deadly) No it’s not. Your wife
 is right, Larry. (Lawrence is now the
 one wearing the Oh shit look.) You don’t
 recall getting your picture taken in
-that parking lot?"|speech|ADAM|M
+that parking lot?"|speech|ADAM|M|True
 571||"Brief flashback shot of Lawrence in the parking garage, pausing
 and covering his eyes for a moment when the camera flashed. We
 see a shot of Adam holding the camera and taking the shot from
@@ -2283,7 +2283,7 @@ around a corner, ducking back behind the column. Lawrence looks
 up at the flash, startled.
 Cut back to the bathroom. Adam stands up, his stance and body
 language accusing of Lawrence. He speaks fiercely, disgusted
-with Lawrence’s two-faced bullshit."|stage direction||
+with Lawrence’s two-faced bullshit."|stage direction|||
 572|ADAM|"I can prove that you didn’t go anywhere
 near a hospital last night. (He leans
 over and pulls out the garbage bag from
@@ -2301,8 +2301,8 @@ picking one up and looking down at it)
 I’ve been taking pictures of you for
 a few days now. (Shots of some of Adam’s
 pictures. Lawrence going into a building,
-Lawrence at an outdoor café eating lunch.)"|speech|ADAM|M
-573|LAWRENCE|(still holding the photograph) But...why?|speech|LAWRENCE|M
+Lawrence at an outdoor café eating lunch.)"|speech|ADAM|M|True
+573|LAWRENCE|(still holding the photograph) But...why?|speech|LAWRENCE|M|True
 574|ADAM|"You wanna know what I do? I get paid
 to take pictures of rich guys like you
 who go to seedy, out-of-the-way motels
@@ -2321,10 +2321,10 @@ on the door to one of the rooms while
 Adam hides around the corner with his
 camera) all the way to that shitbag
 hotel. (Photographs of Lawrence standing
-outside then going into the room.)"|speech|ADAM|M
+outside then going into the room.)"|speech|ADAM|M|True
 575|LAWRENCE|"(calm with rage just beneath the surface)
 You’ve uh, had these with you the whole
-time?"|speech|LAWRENCE|M
+time?"|speech|LAWRENCE|M|True
 576|ADAM|"I found them, in there (points to the
 toilet; quick flashback of Adam pulling
 the bag out of the top of the toilet,
@@ -2333,83 +2333,83 @@ the hacksaws and a glimpse of something
 else in the bag.) with the hacksaws.
 (Flashback of Adam tossing the bag into
 the bathtub while Lawrence isn’t looking.)
-I don’t know how they got there."|speech|ADAM|M
+I don’t know how they got there."|speech|ADAM|M|True
 577|LAWRENCE|"(angry) Yeah, right. You’re so full
 of it! (He angrily crumples up and throws
-the photo he was holding at Adam)"|speech|LAWRENCE|M
+the photo he was holding at Adam)"|speech|LAWRENCE|M|True
 578|ADAM|"(scoffing tone) Aww, face it, Larry,
 we’re both bulls hitters. But my camera
 isn’t. It doesn’t know how to lie. It
 only shows you what’s put right in front
 of it. Just out of curiosity, what did
 you do in that motel room? You got out
-of there pretty fast."|speech|ADAM|M
+of there pretty fast."|speech|ADAM|M|True
 579||"Cut to a flashback, the hotel room. Carla, the pretty Asian girl
 from the hospital, is inside the room, now in a black lacy top
 and a gray/blue skirt, waiting for him. She opens the door, taking
 a step back as he enters. He looks unsure of the whole situation,
 a changed attitude this evening from all the others. He shuts
 the door behind him, and Carla smiles at him. Lawrence’s tone
-when he speaks is unhappy. Not enraged, just somewhat disapproving."|stage direction||
+when he speaks is unhappy. Not enraged, just somewhat disapproving."|stage direction|||
 580|LAWRENCE|"Why did you um, deem it necessary to
-page me when you knew I was at home?"|speech|LAWRENCE|M
+page me when you knew I was at home?"|speech|LAWRENCE|M|True
 581|CARLA|"I didn’t know if you were going to make
-it. (turns, goes and sits on the bed.)"|speech|CARLA|M
+it. (turns, goes and sits on the bed.)"|speech|CARLA|M|
 582|LAWRENCE|"(sounding very business-like) But I
 gave you a precise time at which to
 page me. (He puts the briefcase on a
 chair by the door then goes over and
 sits down next to her on the bed.) You
-can’t do that."|speech|LAWRENCE|M
+can’t do that."|speech|LAWRENCE|M|True
 583|CARLA|"It’s not like I know the rules for this
 sort of stuff. (She starts unbuttoning
 her shirt. Lawrence holds out his hand
 and stops her. She looks up at him,
-concerned.) What’s wrong, Dr. Gordon?"|speech|CARLA|M
+concerned.) What’s wrong, Dr. Gordon?"|speech|CARLA|M|
 584|LAWRENCE|"(a sigh in his voice) Look, it was wrong
-for me to makes you come here."|speech|LAWRENCE|M
-585|CARLA|(confused, hurt) But I thought we-|speech|CARLA|M
+for me to makes you come here."|speech|LAWRENCE|M|True
+585|CARLA|(confused, hurt) But I thought we-|speech|CARLA|M|
 586|LAWRENCE|"-Please. (very softly) I’m sorry. (He
 stands and heads over to the door. Carla
 remains sitting on the bed. She sniffles
-slightly but doesn’t cry.)"|speech|LAWRENCE|M
+slightly but doesn’t cry.)"|speech|LAWRENCE|M|True
 587||"Suddenly, the hotel room phone rings. Carla and Lawrence both
-look at it, unsure, startled. Carla looks to Lawrence."|stage direction||
-588|LAWRENCE|You tell anyone you were here?|speech|LAWRENCE|M
+look at it, unsure, startled. Carla looks to Lawrence."|stage direction|||
+588|LAWRENCE|You tell anyone you were here?|speech|LAWRENCE|M|True
 589|CARLA|"No. (She stands, goes over to the phone
 and answers it.) Hello? (She listens,
 turns to Lawrence) It’s for you. (She
-holds out the phone.)"|speech|CARLA|M
+holds out the phone.)"|speech|CARLA|M|
 590|LAWRENCE|"For me? (He walks over, takes the phone.)
-Hello?"|speech|LAWRENCE|M
+Hello?"|speech|LAWRENCE|M|True
 591||"The voice on the other end is male, slightly raspy. It is unidentifiable;
-it could be either Tapp or Zep, or someone else. It is very accusing."|stage direction||
-592|VOICE|I know what you’re doing...Doctor.|speech|VOICE|M
+it could be either Tapp or Zep, or someone else. It is very accusing."|stage direction|||
+592|VOICE|I know what you’re doing...Doctor.|speech|VOICE|M|
 593|LAWRENCE|"I- (but the other person hangs up, and
-a dial tone is heard)"|speech|LAWRENCE|M
+a dial tone is heard)"|speech|LAWRENCE|M|True
 594||"Lawrence hangs up the phone, turns and moves to the door. Carla
-moves with him, watching, waiting for him to say who it was."|stage direction||
-595|LAWRENCE|(nervous) I have to go.|speech|LAWRENCE|M
-596|CARLA|What happened?|speech|CARLA|M
+moves with him, watching, waiting for him to say who it was."|stage direction|||
+595|LAWRENCE|(nervous) I have to go.|speech|LAWRENCE|M|True
+596|CARLA|What happened?|speech|CARLA|M|
 597|LAWRENCE|"I’ve got to go. (He picks up his briefcase
-from the chair, and heads out the door."|speech|LAWRENCE|M
+from the chair, and heads out the door."|speech|LAWRENCE|M|True
 598||"Cut to the underground parking lot, the same shot as where Adam
 took Lawrence’s picture. He walks along, pauses to wince and
 cover his eyes, then the flash. He looks up startled.
 The shot cuts back to Lawrence leaning forward against the wall
 in his corner, hand against a pipe. He slowly looks up at Adam,
-thinking of something."|stage direction||
-599|LAWRENCE|Who was it?|speech|LAWRENCE|M
-600|ADAM|Who was what?|speech|ADAM|M
+thinking of something."|stage direction|||
+599|LAWRENCE|Who was it?|speech|LAWRENCE|M|True
+600|ADAM|Who was what?|speech|ADAM|M|True
 601|LAWRENCE|"The person who paid you to follow me,
-who was it?"|speech|LAWRENCE|M
+who was it?"|speech|LAWRENCE|M|True
 602|ADAM|"(internal shrug) He calls himself Bob
 and he gives me the money up front.
 Two hundred bucks a night. If I’d have
 known I was gonna end up here, I would’ve
-asked for a hell of a lot more."|speech|ADAM|M
+asked for a hell of a lot more."|speech|ADAM|M|True
 603|LAWRENCE|"(pissy) What does that mean? Does that
-mean you saw what happened to me?"|speech|LAWRENCE|M
+mean you saw what happened to me?"|speech|LAWRENCE|M|True
 604|ADAM|"(internal eye roll; speaks as though
 he’s been over this 100 times before)
 What I saw was you get into your car.
@@ -2423,51 +2423,51 @@ stairs, then in the darkroom) and went
 straight home to develop the. Next thing
 I know I’m chained to a pipe in some
 prehistoric bathroom, staring at the
-guy I’ve been taking shots of all night."|speech|ADAM|M
+guy I’ve been taking shots of all night."|speech|ADAM|M|True
 605|LAWRENCE|"(seeing a major break in this mystery)
 Clearly, whoever paid you to take the
 pictures of me is the one who put is
-in here."|speech|LAWRENCE|M
-606|ADAM|(they don’t know that for sure) Maybe.|speech|ADAM|M
+in here."|speech|LAWRENCE|M|True
+606|ADAM|(they don’t know that for sure) Maybe.|speech|ADAM|M|True
 607|LAWRENCE|"Maybe? What do you mean maybe? Of course
-it is! What did he look like?"|speech|LAWRENCE|M
+it is! What did he look like?"|speech|LAWRENCE|M|True
 608|ADAM|"(internal shrug) I don’t know, he was
 just a guy. (Shot of inside Adam’s apartment
 and an unidentifiable figure towards
 the back of the room, the image darkened
 so we can’t make him out. The figure
-slowly takes a step towards us/Adam)"|speech|ADAM|M
-609|LAWRENCE|Was he tall, was he skinny, obese, what?|speech|LAWRENCE|M
+slowly takes a step towards us/Adam)"|speech|ADAM|M|True
+609|LAWRENCE|Was he tall, was he skinny, obese, what?|speech|LAWRENCE|M|True
 610|ADAM|"I don’t take notes about his appearance.
 (Shot inside apartment, the figure moves
-closer)"|speech|ADAM|M
+closer)"|speech|ADAM|M|True
 611|LAWRENCE|"(aggravated, how can he not remember
 anything?) You must remember something
-about him."|speech|LAWRENCE|M
+about him."|speech|LAWRENCE|M|True
 612|ADAM|"I can’t. (Shot of inside the apartment,
-the figure moves closer)"|speech|ADAM|M
+the figure moves closer)"|speech|ADAM|M|True
 613|LAWRENCE|"You’re telling me you don’t remember
-a thing about the guy?"|speech|LAWRENCE|M
+a thing about the guy?"|speech|LAWRENCE|M|True
 614|ADAM|"I told you, I- (inside apartment, the
 figure moves closer, just about close
-enough for identification)"|speech|ADAM|M
+enough for identification)"|speech|ADAM|M|True
 615|LAWRENCE|"(enraged, throwing his hands up) Oh
-for fuck’s sake! I give up!"|speech|LAWRENCE|M
+for fuck’s sake! I give up!"|speech|LAWRENCE|M|True
 616|ADAM|"(gives up his playing dumb tone, gives
 in due to irritation with Lawrence)
 He’s a tall black guy, he’s got a scar
 around his neck, okay? (Shot of inside
 the apartment, the figure moves into
-a viewable light; It is Tapp.)"|speech|ADAM|M
+a viewable light; It is Tapp.)"|speech|ADAM|M|True
 617||"Lawrence is leaning against the wall facing away from Adam. At
 hearing Adam’s description, he slowly moves back, turns around
-to face Adam."|stage direction||
+to face Adam."|stage direction|||
 618|LAWRENCE|"Tapp! (shot of inside Adam’s apartment,
 Tapp handing us/Adam money. Adam’s/our
 hand reaches out and takes it quickly.
-Then, back to Lawrence) Detective Tapp!"|speech|LAWRENCE|M
+Then, back to Lawrence) Detective Tapp!"|speech|LAWRENCE|M|True
 619|ADAM|"Whoa, the guy who paid me to take these
-photos was not a cop."|speech|ADAM|M
+photos was not a cop."|speech|ADAM|M|True
 620|LAWRENCE|"No, no, he was discharged from the police
 force. (Shot of Tapp at his desk with
 the Amanda video, looking at notes.)
@@ -2489,34 +2489,34 @@ laugh. The shot cuts back to Lawrence,
 who points accusingly at Adam.) And
 you helped him. (disgusted) You took
 money from him to invade my privacy.
-How could you do that?"|speech|LAWRENCE|M
-621|ADAM|(bite me tone) Call it my need to eat.|speech|ADAM|M
+How could you do that?"|speech|LAWRENCE|M|True
+621|ADAM|(bite me tone) Call it my need to eat.|speech|ADAM|M|True
 622|LAWRENCE|"(sarcastic) Right, right. You know what
 Adam? You’re not a victim of this game,
 you’re a part of it. (Points accusingly
-at him as he says this.)"|speech|LAWRENCE|M
+at him as he says this.)"|speech|LAWRENCE|M|True
 623|ADAM|"Oh really? Obviously this cop thinks
-you’re the one behind it all."|speech|ADAM|M
+you’re the one behind it all."|speech|ADAM|M|True
 624|LAWRENCE|"(Facing into the corner of his cell,
 turning around slightly, internal eye
 roll.) I told you, he’s not a cop. He’s
 a bottom feeder, just like you. (A slight
 sneer from Lawrence at Adam. Lawrence
-turns back into his corner)"|speech|LAWRENCE|M
+turns back into his corner)"|speech|LAWRENCE|M|True
 625|ADAM|"(getting REALLY pissed at Lawrence’s
 attitude towards him) What are you more
 pissed off about? The fact that I took
 some shots of you or the fact that I
 took some shots of you while you were
-cheating on your wife?"|speech|ADAM|M
-626||Lawrence spins out of his corner, screaming in rage.|stage direction||
-627|LAWRENCE|I did not cheat on her!!!|speech|LAWRENCE|M
+cheating on your wife?"|speech|ADAM|M|True
+626||Lawrence spins out of his corner, screaming in rage.|stage direction|||
+627|LAWRENCE|I did not cheat on her!!!|speech|LAWRENCE|M|True
 628|ADAM|"What do you care what I think anyway?
 I don’t give a crap if you covered yourself
 in peanut butter and had a 15-hooker
-gang bang!"|speech|ADAM|M
+gang bang!"|speech|ADAM|M|True
 629||"A pause, then Lawrence collapses onto the floor. He’s lost the
-last of any strength, level headedness or control he had before."|stage direction||
+last of any strength, level headedness or control he had before."|stage direction|||
 630|LAWRENCE|"(weakly) How did I get here? (Adam sits
 down on the pipe in his corner, leaning
 forward a bit.) I had...I had everything
@@ -2524,11 +2524,11 @@ in order. (he lays down on his side,
 facing Adam, who watches him with sympathy)
 My whole life was in perfect order.
 (He holds up and looks at the picture
-of Alison and Diana gagged.)"|speech|LAWRENCE|M
+of Alison and Diana gagged.)"|speech|LAWRENCE|M|True
 631||"Cut to the Gordons’ Bedroom. Zep puts Alison’s gag back on her,
 then leaves the room. Alison moves her head around to loosen
 the gag then spits it out. She tries to fight her sobs as she
-speaks softly to Diana."|stage direction||
+speaks softly to Diana."|stage direction|||
 632|ALISON|"Sweetheart, are you okay? (Diana shakes
 her head no) Mommy just needs you to
 be really, really, really strong right
@@ -2536,7 +2536,7 @@ now. I’m not gonna let anybody hurt
 you. You got that? (Diana nods) Okay,
 that’s my good girl. (She starts crying
 as her hands work behind her to loosen
-the rope around them.)"|speech|ALISON|F
+the rope around them.)"|speech|ALISON|F|True
 633||"Cut back to Adam in the bathroom, looking up slightly from his
 position. He glances back down at the photographs on the floor,
 notices something odd about one of them. He furrows his brow
@@ -2544,16 +2544,16 @@ and gets down on his hands and knees, reaching over and picking
 it up, leaning back and looking at it, studying it. Camera cuts
 to a shot of Lawrence through the black and white surveillance
 camera, sitting on the floor. Adam’s next line is a voice over
-over this shot."|stage direction||
+over this shot."|stage direction|||
 634|ADAM|"Hey, was there someone else at your
 house last night besides your wife and
-daughter?"|speech|ADAM|M
-635|LAWRENCE|(on camera) No.|speech|LAWRENCE|M
+daughter?"|speech|ADAM|M|True
+635|LAWRENCE|(on camera) No.|speech|LAWRENCE|M|True
 636|ADAM|"(still on camera) Well, there’s someone
 here. (He tosses the photo to Lawrence,
 whosits up, picks it up and looks at
 it. After a moment, the shot cuts back
-to a regular view of them, in the room.)"|speech|ADAM|M
+to a regular view of them, in the room.)"|speech|ADAM|M|True
 637|LAWRENCE|"(realization) I know him. (We see the
 photo as well. It is a shot looking
 up into Lawrence’s window, with Zep
@@ -2567,13 +2567,13 @@ He’s an orderly at my hospital. (his
 voice becomes a growl, furious) Zep.
 You perverted little psychopath. I’m
 gonna take great pleasure in seeing
-you pay for this! You bastard fuck!"|speech|LAWRENCE|M
+you pay for this! You bastard fuck!"|speech|LAWRENCE|M|True
 638||"Suddenly the shot cuts to Adam, who looks up at the clock with
-a very worried look. He points up to it."|stage direction||
+a very worried look. He points up to it."|stage direction|||
 639|ADAM|"Look. (Lawrence momentarily breaks from
 his Zep rage, looks up. The clock reads
-at 6:00.) We’re out of time."|speech|ADAM|M
-640|DIANA|(crying) Mommy help me!|speech|DIANA|F
+at 6:00.) We’re out of time."|speech|ADAM|M|True
+640|DIANA|(crying) Mommy help me!|speech|DIANA|F|True
 641||"Alison continues to untie her. Cut to Zep, getting up from his
 chair, turning to go into the bedroom. Alison hears him moving
 near, sees his form through the frosted glass doors. She quickly
@@ -2583,68 +2583,68 @@ steps into the room. He looks down at them, raises his eyebrows
 slightly. He seems to have gotten himself together, ready to
 just do what has to be done. He takes the gun from his belt and
 leans down next to Alison. He looks at her with wide eyes, shakes
-his head sadly. He speaks calmly."|stage direction||
+his head sadly. He speaks calmly."|stage direction|||
 642|ZEP|"Dr. Gordon’s time is up. Now I’ve gotta
 do what I’ve gotta do, and...I’m afraid
 it has to be you that tells him he failed.
 (He undoes her gag, holds the phone
 to her head and his gun in front of
-her chest.)"|speech|ZEP|M
+her chest.)"|speech|ZEP|M|
 643||"Quick cut to the bathroom, where Lawrence is still looking at
 the slightly crumpled picture of Zep in the window. The phone
-rings, startling them both. Lawrence quickly answers it."|stage direction||
+rings, startling them both. Lawrence quickly answers it."|stage direction|||
 644|LAWRENCE|"(speaking quickly, the growling voice)
 Is that you Zep, you bastard!? (Adam
 gets up from his corner, moves forward
 slightly) I know its you, you son of
-a bitch!"|speech|LAWRENCE|M
-645|ALISON|Larry?|speech|ALISON|F
+a bitch!"|speech|LAWRENCE|M|True
+645|ALISON|Larry?|speech|ALISON|F|True
 646|LAWRENCE|"(his eyes widen, his fierce tone replaced
-with worry) Ally?"|speech|LAWRENCE|M
-647||Cut into the bedroom.|stage direction||
-648|ALISON|(looking right at Zep, firmly) You failed.|speech|ALISON|F
+with worry) Ally?"|speech|LAWRENCE|M|True
+647||Cut into the bedroom.|stage direction|||
+648|ALISON|(looking right at Zep, firmly) You failed.|speech|ALISON|F|True
 649||"Quickly, she grabs Zep’s gun and pushes him hard over to her
-left. He is taken by surprise and goes down easily."|stage direction||
+left. He is taken by surprise and goes down easily."|stage direction|||
 650|LAWRENCE|"(who can only hear the sound of a struggle)
-Hello? Hello?"|speech|LAWRENCE|M
+Hello? Hello?"|speech|LAWRENCE|M|True
 651||"Alison rips the gun right from his hand, quickly backs up an
 stands. She keeps the gun aimed right at Zep. He sits up slightly,
 trying to slowly get up, but she keeps the gun fiercely aimed
 at him, keeping him there. His eyes are wide, likely his one
-thought right now is Fuck."|stage direction||
+thought right now is Fuck."|stage direction|||
 652|ALISON|"Don’t move, stay on the ground. Give
 me the phone. Give it to me! (He sits
 up a bit, carefully slides it to her.
 He is watching her, looking for an opportunity
 to overcome her once again. She picks
 the phone up, still keeping her eyes
-and her gun at him.) Larry?"|speech|ALISON|F
-653|LAWRENCE|Ally! Honey, are you all right?|speech|LAWRENCE|M
+and her gun at him.) Larry?"|speech|ALISON|F|True
+653|LAWRENCE|Ally! Honey, are you all right?|speech|LAWRENCE|M|True
 654|ALISON|"No! No we’re not...(Zep starts to move
 up a bit more, his right hand out, leaning
 against the edge of the bed. Ally threatens
 him more fiercely with the gun.) Get
-down! Larry, where are you?"|speech|ALISON|F
+down! Larry, where are you?"|speech|ALISON|F|True
 655|LAWRENCE|"(unsure himself) I don’t know. I’m being
-held captive in a room somewhere."|speech|LAWRENCE|M
+held captive in a room somewhere."|speech|LAWRENCE|M|True
 656|ALISON|"(disbelief; she sniffles a bit) What?
-What are you talking about?"|speech|ALISON|F
-657|LAWRENCE|(starting to cry) I’m so sorry, Ally.|speech|LAWRENCE|M
+What are you talking about?"|speech|ALISON|F|True
+657|LAWRENCE|(starting to cry) I’m so sorry, Ally.|speech|LAWRENCE|M|True
 658|ALISON|"(desperate) Honey, we need you here.
 (Zep slowly readies himself to move
 forward, wide eyes still staring at
-Alison.)"|speech|ALISON|F
+Alison.)"|speech|ALISON|F|True
 659|LAWRENCE|"(crying, apologizing) I’m sorry for
 everything. It’s my fault. Please forgive
-me. I’ve always been happy with you."|speech|LAWRENCE|M
-660|DIANA|(cries out) Mommy!|speech|DIANA|F
+me. I’ve always been happy with you."|speech|LAWRENCE|M|True
+660|DIANA|(cries out) Mommy!|speech|DIANA|F|True
 661||"Alison turns to look at Diana when she calls her, and Zep seizes
 the moment. He leaps up and grabs the gun from her hand, and
 they start struggling with it. Diana starts screaming. Lawrence,
 on his end, hears the screaming and sounds of a struggle. In
 wrestling for the gun a shot is let off, and Diana continues
-to scream."|stage direction||
-662|LAWRENCE|(panicked) Ally!|speech|LAWRENCE|M
+to scream."|stage direction|||
+662|LAWRENCE|(panicked) Ally!|speech|LAWRENCE|M|True
 663||"Cut to a shot of static on Tapp’s TV set, then Tapp waking up
 to the sound of gunfire. He quickly looks over to the window.
 Back to Zep and Alison, who are still fighting for the gun. Zep
@@ -2655,11 +2655,11 @@ flash from the window on the television. He picks up his handgun
 and loads it quickly, gets up and heads out. Back in the apartment,
 we see Diana cowering, still tied, holding her teddy bear. Zep
 gets behind Diana, tries to grab her but she keeps her arms and
-the gun upwards. Another shot is fired off."|stage direction||
+the gun upwards. Another shot is fired off."|stage direction|||
 664|LAWRENCE|"(screams) Ally! (Adam watches him with
-wide eyes.)"|speech|LAWRENCE|M
-665||The shot cuts back into the bedroom.|stage direction||
-666|DIANA|Mommy, help me!|speech|DIANA|F
+wide eyes.)"|speech|LAWRENCE|M|True
+665||The shot cuts back into the bedroom.|stage direction|||
+666|DIANA|Mommy, help me!|speech|DIANA|F|True
 667||"The struggle moves over and into the dresser. Zep gets the gun
 in his right hand and wraps his left arm around Alison, who quickly
 pulls open and takes out of the top drawer a pair of scissors.
@@ -2669,8 +2669,8 @@ his leg by a wooden column, moaning in pain. Alison quickly goes
 over and finishes untying Diana. Cut to the Main Hall of the
 residence, where we see Tapp enter and move down the hall with
 his gun ready. He moves cautiously but quickly. He sees Zep on
-the floor squirming around and aims at him, screaming."|stage direction||
-668|TAPP|Freeze!|speech|TAPP|M
+the floor squirming around and aims at him, screaming."|stage direction|||
+668|TAPP|Freeze!|speech|TAPP|M|True
 669||"Zep turns and sees him, fires a shot in his direction but doesn’t
 hit. Tapp fires back and skims the top of Zep’s head. Zep clutches
 the surface wound, fires back. Cut back to Lawrence on the phone,
@@ -2681,8 +2681,8 @@ Back to the bedroom, Tapp stands next to another wooden column
 and fires at Zep again, missing. Alison finishes untying Diana
 and the book from the room. Zep fires at Tapp again and misses.
 Tapp fires back, but his gun jams. Zep sees Alison and Diana
-run from the room, and his attention goes to them once more."|stage direction||
-670|TAPP|(trying to fix his gun) What the fuck?|speech|TAPP|M
+run from the room, and his attention goes to them once more."|stage direction|||
+670|TAPP|(trying to fix his gun) What the fuck?|speech|TAPP|M|True
 671||"Zep gets up off the floor more, but just then Tapp gives up on
 his gun and charges at Zep, screaming. He tackles Zep, knocking
 him flat on his back. Zep pushes his way up but Tapp grabs him
@@ -2692,7 +2692,7 @@ Back to Tapp and Zep, who get up to their feet. Zep grabs a vase
 on the floor and turns, smashing it over Tapp’s head. The blow
 stuns Tapp and sends him down. Zep kneels down and picks up his
 gun, then gets back up and starts hobbling after Alison and Diana.
-He reaches the living room, but they are no where to be seen."|stage direction||
+He reaches the living room, but they are no where to be seen."|stage direction|||
 672|ZEP|"Mrs. Gordon? (drops old cartridge out
 of his gun, pops in a new one) Diana?!
 (His breathing is fast, desperate. He
@@ -2708,25 +2708,25 @@ feet, but quickly hobbles to the doorway
 and out the door. Tapp starts to follow,
 just a we bit dazed from the hit. He
 empties his gun cartridge and replaces
-it, then runs towards the door, screaming."|speech|ZEP|M
+it, then runs towards the door, screaming."|speech|ZEP|M|
 673||"Back to Lawrence crying on the floor of the bathroom. He’s just
 a complete wreck, making low moaning sounds. Suddenly, there
 is a loud buzzing sound his body is jerked up and he is flung
 onto his back as he is electrocuted. Adam’s eyes widen and he
-starts to panic."|stage direction||
+starts to panic."|stage direction|||
 674|ADAM|"Lawrence! (A bit of foamy spittle comes
 out of Lawrence’s mouth as the electrocution
 continues, and then a moment later stops.
 Adam watches, frightened, unsure. Lawrence
-is out.) Lawrence, get up!"|speech|ADAM|M
+is out.) Lawrence, get up!"|speech|ADAM|M|True
 675|CUT TO|"Car Chase! Zep is in the lead, with
 Tapp in hot pursuit behind him. They
 race through the streets as fast as
-they can."|speech|CUT TO|M
+they can."|speech|CUT TO|M|
 676||"Cut back to the bathroom. Adam looks around him, not sure what
 to do, panicking. Lawrence can’t be dead, he can’t be alone in
 here. He can’t handle this alone. He needs his calm, collected
-Doctor, no matter how badly Lawrence has treated him."|stage direction||
+Doctor, no matter how badly Lawrence has treated him."|stage direction|||
 677|ADAM|"(crying out, close to tears) Lawrence!
 Get up! I need you! (He leans down and
 finds a piece of debris on the floor,
@@ -2738,14 +2738,14 @@ who begins to stir. A moment, and Lawrence
 starts to move more, reaching for his
 head and sitting up. Adam cries out
 in relief.) Oh, thank God! I thought
-you were dead!"|speech|ADAM|M
+you were dead!"|speech|ADAM|M|True
 678|LAWRENCE|"(sits up, dazed and confused) He...he
-electrocuted me..."|speech|LAWRENCE|M
+electrocuted me..."|speech|LAWRENCE|M|True
 679|ADAM|"I told you! The same thing happened
-to me, see? I wasn’t lying, see?"|speech|ADAM|M
+to me, see? I wasn’t lying, see?"|speech|ADAM|M|True
 680||"Lawrence leans over and grabs his chain, the source of the electrocution.
-Suddenly, he snaps."|stage direction||
-681|LAWRENCE|(screaming) FUCK THIS SHIT!!|speech|LAWRENCE|M
+Suddenly, he snaps."|stage direction|||
+681|LAWRENCE|(screaming) FUCK THIS SHIT!!|speech|LAWRENCE|M|True
 682||"Back in the bathroom, Lawrence continues to grunt and struggle
 with his chain. Suddenly the phone rings and he turns. He quickly
 moves to get it, but it is out of reach. He lays flat on the
@@ -2771,9 +2771,9 @@ leans out and fires at Zep. Zep falls back slightly but remains
 standing. If he got hit, it isn’t clear where. Zep then turns
 and quickly hobbles further down the hall.
 Cut back to Lawrence still crying and trying to get the phone
-as it keeps ringing."|stage direction||
+as it keeps ringing."|stage direction|||
 683|LAWRENCE|"No!!!! (He lowers his head and cries
-loudly.)"|speech|LAWRENCE|M
+loudly.)"|speech|LAWRENCE|M|True
 684|ADAM|"(Frightened but trying to stay calm
 for Lawrence.) Lawrence, calm down.
 There must be a way out of this! (It
@@ -2782,7 +2782,7 @@ for the two of them from the beginning,
 where Adam was the one freaking out
 and Lawrence was calm. Here, Adam is
 terrified but still calmer than Lawrence,
-who has just lost it.)"|speech|ADAM|M
+who has just lost it.)"|speech|ADAM|M|True
 685|LAWRENCE|"(screaming) I can’t be calm! My family
 needs me! No, God! (He cries and screams,
 still can’t get the phone. He quickly
@@ -2790,31 +2790,31 @@ turns and sits up, grabbing the chain
 and pulling it as he lets out a terrible
 scream of rage. Adam’s hands are up
 clutching his head, trying to keep his
-cool but having a very hard time.)"|speech|LAWRENCE|M
+cool but having a very hard time.)"|speech|LAWRENCE|M|True
 686|ADAM|"(Loudly trying to speak over Lawrence’s
 continued loud, primal screams.) Lawrence,
 I have a family too! I don’t see them,
 that’s my mistake. It’s a mistake I’d
-like to fix!"|speech|ADAM|M
+like to fix!"|speech|ADAM|M|True
 687||"Cut to Zep hobbling down the hall. Tapp is there running after
-him. Zep turns a corner, and Tapp runs to try to keep up."|stage direction||
-688|TAPP|I’m gonna kill you you sick asshole!|speech|TAPP|M
+him. Zep turns a corner, and Tapp runs to try to keep up."|stage direction|||
+688|TAPP|I’m gonna kill you you sick asshole!|speech|TAPP|M|True
 689||"Back in the bathroom, Lawrence continues to freak out as he mentally
-breaks down, clutching the chain and screaming more."|stage direction||
+breaks down, clutching the chain and screaming more."|stage direction|||
 690|ADAM|"(desperate, losing his attempted calm
-stance) Lawrence, stop it!"|speech|ADAM|M
+stance) Lawrence, stop it!"|speech|ADAM|M|True
 691||"Lawrence sits up, stops pulling at his chain but continues screaming.
 He starts to unbutton his blue button-down shirt. That is too
-slow, however, so he starts to rip it open."|stage direction||
+slow, however, so he starts to rip it open."|stage direction|||
 692|ADAM|"(sobs in his voice) Lawrence, please
 calm down! There’s a way out of here,
-there’s a way out!"|speech|ADAM|M
+there’s a way out!"|speech|ADAM|M|True
 693||"Lawrence gets his shirt off, down to a plain white tee shirt
 underneath. He starts to wrap one end around his manacled foot
 and ties it off. Adam realizes what he is preparing to do, completely
-loses it and freaks out, screaming."|stage direction||
+loses it and freaks out, screaming."|stage direction|||
 694|ADAM|"Lawrence! No! Oh my God! What are you
-doing?!"|speech|ADAM|M
+doing?!"|speech|ADAM|M|True
 695||"Lawrence holds the other end of the shirt in his mouth, biting
 it for a brace. The look in his eyes is one of complete madness
 and desperation. He takes up the hacksaw in his right hand, puts
@@ -2850,10 +2850,10 @@ and the shot hits Tapp in the chest, a loud surprise to the former
 detective.
 Back in the bathroom, Lawrence crawls along the floor, moaning.
 He finds and picks up the single bullet from his envelope, looks
-at it. Adam watches him in terror."|stage direction||
+at it. Adam watches him in terror."|stage direction|||
 696|ADAM|"(screaming/crying) What are you doing?!
 (Lawrence crawls on farther, towards
-the body.)"|speech|ADAM|M
+the body.)"|speech|ADAM|M|True
 697||"Cut back to a close up of the bloody hole in Tapp’s chest. Tapp
 remains standing a moment, in shock, gasping, then falls down
 backwards onto the floor. Zep is still on his knees, holding
@@ -2861,45 +2861,45 @@ the gun up at a diagonal. Tapp’s eyes flutter, then finally close.
 Zep turns and gets up, limping in pain out of the room and down
 another hall.
 Back in the bathroom, Lawrence reaches the body. He takes the
-gun, opens the chamber."|stage direction||
+gun, opens the chamber."|stage direction|||
 698|ADAM|"What are you...(He suddenly realizes
 Lawrence’s intentions. His eyes go wide,
-and he starts to cry out and beg.)"|speech|ADAM|M
+and he starts to cry out and beg.)"|speech|ADAM|M|True
 699|ADAM|"Oh my God! Oh my God! Lawrence don’t!
 (Lawrence puts the bullet in, then closes
 the chamber) No! Lawrence, please, I’m
 begging you! (Lawrence aims the gun
 at Adam) Lawrence, it’s not me who did
-this to you!"|speech|ADAM|M
+this to you!"|speech|ADAM|M|True
 700|LAWRENCE|"(looking like Death, his voice hoarse)
-You have to die."|speech|LAWRENCE|M
+You have to die."|speech|LAWRENCE|M|True
 701|ADAM|"(His hands up in front of him defensively,
 moving side to side to try to throw
-off Lawrence’s aim) No, I want to live!"|speech|ADAM|M
+off Lawrence’s aim) No, I want to live!"|speech|ADAM|M|True
 702|LAWRENCE|"(moving the gun along with Adam’s movements)
-I’m sorry..."|speech|LAWRENCE|M
-703|ADAM|I want to live!|speech|ADAM|M
+I’m sorry..."|speech|LAWRENCE|M|True
+703|ADAM|I want to live!|speech|ADAM|M|True
 704|LAWRENCE|"My family...(he aims and pulls the trigger,
 hitting Adam in the upper chest area.
 Adam falls down forward onto the floor,
-his screams stop.)"|speech|LAWRENCE|M
+his screams stop.)"|speech|LAWRENCE|M|True
 705||"Lawrence collapses, sobbing. Then he sits up a bit, turning to
-the surveillance camera and screaming."|stage direction||
+the surveillance camera and screaming."|stage direction|||
 706|LAWRENCE|"I’ve done it! Now show them to me! (he
 continues to cry, dropping the gun next
 to him, collapsing back down with his
-forehead to the floor.)"|speech|LAWRENCE|M
+forehead to the floor.)"|speech|LAWRENCE|M|True
 707||"Cut to the Gordon’s neighbors’ living room. Alison paces back
 and forth, holding a cell phone to her ear. Two neighbors sit
-off to the side on a couch with Diana."|stage direction||
+off to the side on a couch with Diana."|stage direction|||
 708|NEIGHBOR|"(OS, on phone) Thank you very much,
-Officer."|speech|NEIGHBOR|F
-709|ALISON|(on cell phone) Larry?|speech|ALISON|F
+Officer."|speech|NEIGHBOR|F|
+709|ALISON|(on cell phone) Larry?|speech|ALISON|F|True
 710|NEIGHBOR|"(hanging up the phone and going over
-to Alison) Did you get through to him?"|speech|NEIGHBOR|F
-711|ALISON|There’s still no answer.|speech|ALISON|F
+to Alison) Did you get through to him?"|speech|NEIGHBOR|F|
+711|ALISON|There’s still no answer.|speech|ALISON|F|True
 712|NEIGHBOR|"(reassuringly) It’s all right. I’ve
-called the police. Everything’s okay."|speech|NEIGHBOR|F
+called the police. Everything’s okay."|speech|NEIGHBOR|F|
 713||"Alison goes and sits on the couch. Diana comes up to her, and
 Alison embraces her daughter.
 Cut back to the bathroom, with a shot of the sliding door. The
@@ -2909,7 +2909,7 @@ The door slides open and there stands Zep, green mist behind
 him in the hallway. Lawrence turns and sees him. Zep’s eyes dart
 around the room, seeming to say What the fuck happened in here?
 He sees Lawrence on the floor, and an eager look comes into his
-eyes. He walks in, and Lawrence starts to yell at him."|stage direction||
+eyes. He walks in, and Lawrence starts to yell at him."|stage direction|||
 714|LAWRENCE|"You bastard! I’ll fucking kill you!
 (Lawrence grabs Zep’s leg as he passes
 but is too weak and Zep pulls away,
@@ -2921,13 +2921,13 @@ the gun, pulling the trigger several
 times, but there are no more bullets.
 It just clicks.) I’ll fucking kill you!
 You fucking bastard! I’ll fucking kill
-you! I’ll fucking kill you!"|speech|LAWRENCE|M
+you! I’ll fucking kill you!"|speech|LAWRENCE|M|True
 715||"Zep goes over to Adam, pushing his side with his foot a couple
 of times, but to no reaction. He then looks to Lawrence and aims
-his gun at him, shaking his head."|stage direction||
-716|ZEP|You’re too late.|speech|ZEP|M
-717|LAWRENCE|(weakly) Why?|speech|LAWRENCE|M
-718|ZEP|It’s the rules.|speech|ZEP|M
+his gun at him, shaking his head."|stage direction|||
+716|ZEP|You’re too late.|speech|ZEP|M|
+717|LAWRENCE|(weakly) Why?|speech|LAWRENCE|M|True
+718|ZEP|It’s the rules.|speech|ZEP|M|
 719||"Zep is about to pull the trigger when suddenly Adam comes to
 and grabs his ankle, pulling him down. The back of Zep’s head
 hits the floor hard. Adam pulls him towards him, struggles to
@@ -2943,29 +2943,29 @@ half. Lawrence reaches the two and reaches up for Adam’s arm
 as Adam brings the broken lid down again. Lawrence grabs his
 arm and Adam drops the lid, falling forward a bit and clutching
 his shoulder wound with his free hand, crying hard. Lawrence
-moves in, touching his head to Adam’s."|stage direction||
+moves in, touching his head to Adam’s."|stage direction|||
 720|LAWRENCE|"(his voice very weak and shaky) You’re
 going to be all right. (Adam stops sobbing
 for a moment) You’re just wounded in
-the shoulder. I have to go and get help."|speech|LAWRENCE|M
+the shoulder. I have to go and get help."|speech|LAWRENCE|M|True
 721|ADAM|"(grasping Lawrence’s shirt, begging.)
-Don’t leave me! No!"|speech|ADAM|M
+Don’t leave me! No!"|speech|ADAM|M|True
 722||"Lawrence nods, pulling away from him and starts to crawl off.
-Adam reaches for him as he turns himself around and away."|stage direction||
+Adam reaches for him as he turns himself around and away."|stage direction|||
 723|ADAM|"No!! (he keeps crying) No! No! (Lawrence
 crawls towards the door.) Lawrence!
-Lawrence!"|speech|ADAM|M
+Lawrence!"|speech|ADAM|M|True
 724|LAWRENCE|"(he pauses, turns to look back at Adam)
 Don’t...Don’t worry, I’ll bring someone
 back, I promise. (He continues crawling
 on, out the door while Adam watches
 him pathetically, still crying and reaching
-out for him.)"|speech|LAWRENCE|M
+out for him.)"|speech|LAWRENCE|M|True
 725||"Lawrence makes it out the door, and starts dragging himself down
 the hall. Adam is now alone in the room with two corpses. Adam
 looks to the door one more time then turns to Zep’s body. He
-pulls himself on top of him, wincing at his shoulder pain."|stage direction||
-726|ADAM|(thinking) Key...key...|speech|ADAM|M
+pulls himself on top of him, wincing at his shoulder pain."|stage direction|||
+726|ADAM|(thinking) Key...key...|speech|ADAM|M|True
 727||"He starts going through Zep’s pockets, patting him down. He finds
 Zep’s wallet, opens it and feels through it; there’ s nothing
 of value to him right now. He tosses it down. He continues feeling
@@ -2974,7 +2974,7 @@ His eyes widen as he reaches in, wincing from the pain in his
 shoulder. He pulls out a tape recorder. He stares at it, his
 eyes and mouth starting to widen. He glances down at Zep, then
 at the tape recorder. Sitting up a bit more, he presses play.
-It is Jigsaw’s voice."|stage direction||
+It is Jigsaw’s voice."|stage direction|||
 728|JIGSAW|"(VO) Hello Mr. Hindle. Or as they called
 you around the hospital: (shot of Zep
 in the hospital with his cleaning cart,
@@ -3001,8 +3001,8 @@ Mrs. Gordon! Shot of Zep on the floor
 firing up at Tapp.) Listen carefully,
 if you will. There are rules. (Lawrence
 on the floor looking up at Zep, asks
-Why? to which Zep says It’s the rules.)"|speech|JIGSAW|M
-729|JOHN|The key to that chain is in the bathtub.|speech|JOHN|M
+Why? to which Zep says It’s the rules.)"|speech|JIGSAW|M|True
+729|JOHN|The key to that chain is in the bathtub.|speech|JOHN|M|
 730||"Zep’s voiceover of He’s a very interesting person, with a shot
 of John in his hospital bed with Dr. Gordon and the med students.
 His name is John. Shot of Lawrence pointing at the chart, He
@@ -3011,18 +3011,18 @@ his bed, eyes flickering open slightly.
 Shot of Tapp in the workshop, holding a gun to John’s head. Sick
 from the disease eating away at me inside. Shot of the detectives
 at Paul’s cage, shot of the jigsaw puzzle piece wound on Paul,
-Kerry saying Sounds like our friend Jigsaw."|stage direction||
+Kerry saying Sounds like our friend Jigsaw."|stage direction|||
 731|JOHN’S VOICE|"Sick of people who don’t appreciate
 their blessings. Shot of Lawrence with
 Diana, checking his beeper, on his computer
 ignoring Diana and Alison, trying to
-kiss Alison as she pulls away."|speech|JOHN’S VOICE|?
+kiss Alison as she pulls away."|speech|JOHN’S VOICE|?|
 732||"Frontal shot of John in his robe in the workshop with the detectives,
 his arms raised, his face clearly visible. Cut to Kerry at the
 peephole in Mark’s room, saying Looks like he likes to book himself
 a front row seat to his own sick little games, with overlapping
 footage of John on the floor in the bathroom, eyes open slightly,
-then a shot of the pig creature crawling out of Lawrence’s car."|stage direction||
+then a shot of the pig creature crawling out of Lawrence’s car."|stage direction|||
 733|JOHN|"(VO) Hello Mark, Paul, Amanda, Zep,
 Adam, Dr. Gordon. (As he says each name,
 the following image of them appears:
@@ -3033,7 +3033,7 @@ watching on the monitor, Adam holding
 the tape recorder to his ear, Lawrence
 holding the tape recorder to his ear.
 Then, a shot of the Puppet on the video
-as he says) I want to play a game."|speech|JOHN|M
+as he says) I want to play a game."|speech|JOHN|M|
 734||"Back to the shot of Adam staring at him, shocked. Suddenly, Adam
 looks down, grabs Zep’s gun and aims for John. But before he
 can pull the trigger John holds out the remote for the electricity
@@ -3045,7 +3045,7 @@ Lawrence, then going back to the beginning, all the way up and
 ending with Adam stretched out on top of Zep, spasming still
 from the electrocution. Suddenly the electricity stops and he
 gasps, raspy loud breathing. John turns away, starts towards
-the door. Adam can only watch after him."|stage direction||
+the door. Adam can only watch after him."|stage direction|||
 735|JOHN|"(VO) Most people are so ungrateful to
 be alive. (John turns off the lights
 at the door, only the green lighting
@@ -3054,7 +3054,7 @@ then Adam just barely. John moves out
 the door, slowly.) But not you. (Adam
 reaches out for him and screams. John
 turns around and takes the door handle,
-starting to slide it shut.) Not anymore."|speech|JOHN|M
+starting to slide it shut.) Not anymore."|speech|JOHN|M|
 736||"Adam SCREAMS as loud as he can in terror and despair as John
-pauses for a moment with the door halfway shut, and says"|stage direction||
-737|JOHN|GAME OVER.|speech|JOHN|M
+pauses for a moment with the door halfway shut, and says"|stage direction|||
+737|JOHN|GAME OVER.|speech|JOHN|M|

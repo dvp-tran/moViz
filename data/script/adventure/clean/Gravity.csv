@@ -1,19 +1,19 @@
-|character|text|type|character_clean|gender
-0||GRAVITY|unknown||
-1||May 29, 2012|unknown||
+|character|text|type|character_clean|gender|principal_character
+0||GRAVITY|unknown|||
+1||May 29, 2012|unknown|||
 2||"BLACK.
-SILENCE."|stage direction||
+SILENCE."|stage direction|||
 3|CARD 1|"AT 600 KM ABOVE PLANET EARTH THE
 TEMPERATURE FLUCTUATES BETWEEN 120 AND
--100 DEGREES CELSIUS."|speech|CARD 1|?
-4||SILENCE.|stage direction||
+-100 DEGREES CELSIUS."|speech|CARD 1|?|
+4||SILENCE.|stage direction|||
 5|CARD 2|"THERE IS NOTHING TO CARRY SOUND, NO
-OXYGEN, AND NO AIR PRESSURE."|speech|CARD 2|?
-6||SILENCE.|stage direction||
-7|CARD 3|LIFE HERE IS IMPOSSIBLE.|speech|CARD 3|?
-8||SILENCE.|stage direction||
-9||TITLE-|location||
-10||BLACK-|location||
+OXYGEN, AND NO AIR PRESSURE."|speech|CARD 2|?|
+6||SILENCE.|stage direction|||
+7|CARD 3|LIFE HERE IS IMPOSSIBLE.|speech|CARD 3|?|
+8||SILENCE.|stage direction|||
+9||TITLE-|location|||
+10||BLACK-|location|||
 11||"OUTER SPACE, 600 KILOMETERS ABOVE-
 PLANET EARTH.
 Like all images of Earth seen from space, this image of our
@@ -28,8 +28,8 @@ The sphere is almost a perfect orb except for the darkened
 sliver on its Eastern edge.
 It is beautiful! And so full of life.
 But not here.
-Here it is completely silent."|stage direction||
-12||SILENCE-|location||
+Here it is completely silent."|stage direction|||
+12||SILENCE-|location|||
 13||"IN THE DISTANCE-
 A small metal object crosses the empty space surrounding Earth.
 If it appears to be a small satellite that is only because it is
@@ -53,56 +53,56 @@ The EXPLORER SPACE SHUTTLE becomes visible.
 This icon of space exploration has played a key role in all of
 NASA's missions since the late 90's.
 Faintly we hear static, voices murmuring over radio frequences.
-As the babble bulds we might hear one conversation amongst the"|stage direction||
-14||REST:|location||
+As the babble bulds we might hear one conversation amongst the"|stage direction|||
+14||REST:|location|||
 15|MISSION CONTROL|"(On radio, faint)
 Explorer, please verify that the P1
 ATA removal on replacement cap part 1
-and 2 are complete."|speech|MISSION CONTROL|?
+and 2 are complete."|speech|MISSION CONTROL|?|True
 16|EXPLORER CAP|"(On radio, faint)
-DMA M1, M2, M3 and M4 are complete."|speech|EXPLORER CAP|?
+DMA M1, M2, M3 and M4 are complete."|speech|EXPLORER CAP|?|True
 17|MISSION CONTROL|"(On radio, faint)
 Copy that Explorer. Dr Stone-Houston,
-requesting status update..."|speech|MISSION CONTROL|?
+requesting status update..."|speech|MISSION CONTROL|?|True
 18||"A fizz of static and then the voice continues with sudden,
-starling clarity."|stage direction||
+starling clarity."|stage direction|||
 19|RYAN|"Installation ninety-five percent
 complete. Running level one
 diagnostics on circuits, sensors, and
-power. Standby."|speech|RYAN|F
+power. Standby."|speech|RYAN|F|True
 20|"MISSION CONTROL
 (ON RADIO)"|"Standing by. Looks like we're on
 schedule. Dr. Stone, Medical is
-concerned about your ECG readings."|speech|MISSION CONTROL|?
-21|RYAN|I'm fine Houston.|speech|RYAN|F
+concerned about your ECG readings."|speech|MISSION CONTROL|?|True
+21|RYAN|I'm fine Houston.|speech|RYAN|F|True
 22|"MISSION CONTROL
 (RADIO)"|"Well, medical doesn't agree doctor.
-Are you feeling nauseous?"|speech|MISSION CONTROL|?
+Are you feeling nauseous?"|speech|MISSION CONTROL|?|True
 23|RYAN|"Not any more than usual, Houston.
 Diagnostics are green. Linking to
 communications card. Ready for data
 reception. If this works, when we
 touch down tomorrow, I'm buying all
-you guys a round of drinks."|speech|RYAN|F
+you guys a round of drinks."|speech|RYAN|F|True
 24|"MISSION CONTROL
 (RADIO)"|"That's a date, doctor. Just remember,
-Houston is partial to Margaritas."|speech|MISSION CONTROL|?
+Houston is partial to Margaritas."|speech|MISSION CONTROL|?|True
 25|RYAN|"OK, here we go... Booting comm card
-now. Please confirm link."|speech|RYAN|F
+now. Please confirm link."|speech|RYAN|F|True
 26|(BEAT)|"Houston, please confirm reception of
-data."|speech||
+data."|speech|||
 27|"MISSION CONTROL
-(ON RADIO)"|Negative. We're not seeing any data.|speech|MISSION CONTROL|?
+(ON RADIO)"|Negative. We're not seeing any data.|speech|MISSION CONTROL|?|True
 28|RYAN|"Stand by, Houston. I'm gonna reboot
-the comm card."|speech|RYAN|F
+the comm card."|speech|RYAN|F|True
 29|"MISSION CONTROL
-(RADIO)"|Standing by.|speech|MISSION CONTROL|?
+(RADIO)"|Standing by.|speech|MISSION CONTROL|?|True
 30||"An ASTRONAUT - MATT KOWALSKI - floats thirty meters away from
 the Shuttle wearing a bulky white space suit and a full, bubble-
-like helmet."|stage direction||
+like helmet."|stage direction|||
 31|ASTRONAUT|"Houston, I have a bad feeling about
-this mission."|speech|ASTRONAUT|F
-32|MISSION CONTROL|Please expand.|speech|MISSION CONTROL|?
+this mission."|speech|ASTRONAUT|F|
+32|MISSION CONTROL|Please expand.|speech|MISSION CONTROL|?|True
 33|MATT|"Okay, let me tell you a story. It was
 '96. I'd been up here 42 days. Every
 time I passed over Texas, I'd look
@@ -112,151 +112,151 @@ weeks I'm blowing kisses to that
 woman. Then we land at Edwards and I
 find out she'd run off with a lawyer
 before I was off the launch pad, so I
-packed my car and I headed to..."|speech|MATT|F
+packed my car and I headed to..."|speech|MATT|F|True
 34|MISSION CONTROL|"Tijuana. You've told this story,
 Kowalsky. As Houston recalls, she
 took off in your '74 GTO. Engineering
 requests fuel status on the jet pack
-prototype."|speech|MISSION CONTROL|?
+prototype."|speech|MISSION CONTROL|?|True
 35||"Matt smiles, checks the monitors of the sleek device strapped to
-his back."|stage direction||
+his back."|stage direction|||
 36|MATT|"Five hours off the reservation and I
 show 30% drain. My compliments to
 Engineering. Except for a slight
 malfunction on the nulling of the roll
 axis, this jetpack is one prime piece
-of thrust."|speech|MATT|F
+of thrust."|speech|MATT|F|True
 37|"MISSION CONTROL
-(ON RADIO)"|Engineering says thank you.|speech|MISSION CONTROL|?
+(ON RADIO)"|Engineering says thank you.|speech|MISSION CONTROL|?|True
 38|MATT|"Tell them I still prefer my '67
 Corvette though. Speaking of which did
-I ever tell you the--"|speech|MATT|F
+I ever tell you the--"|speech|MATT|F|True
 39|"MISSION CONTROL
-(ON RADIO)"|We know the Corvette story, Matt.|speech|MISSION CONTROL|?
-40|MATT|Even Engineering?|speech|MATT|F
+(ON RADIO)"|We know the Corvette story, Matt.|speech|MISSION CONTROL|?|True
+40|MATT|Even Engineering?|speech|MATT|F|True
 41|MISSION CONTROL|"Especially engineering. We're going
-to miss you, Matt."|speech|MISSION CONTROL|?
+to miss you, Matt."|speech|MISSION CONTROL|?|True
 42||"Matt grins, fiddles with a control and propels himself away from
 the Shuttle.
 Stationed around the telescope are TWO ASTRONAUTS carrying out a
 repair mission. They are also wearing space suits but unlike
 Matt, they are not wearing Manned Maneuvering Units. SAFETY
 TETHERS are the only things stopping them from floating away
-into space."|stage direction||
-43|RYAN|Comm card reboot in progress.|speech|RYAN|F
+into space."|stage direction|||
+43|RYAN|Comm card reboot in progress.|speech|RYAN|F|True
 44|"MISSION CONTROL
 (ON RADIO)"|"Thank you doctor. Shariff, what's your
-status?"|speech|MISSION CONTROL|?
+status?"|speech|MISSION CONTROL|?|True
 45|SHARIFF|"Nearly there. Replacing battery module
-A1 and C."|speech|SHARIFF|M
+A1 and C."|speech|SHARIFF|M|True
 46||"SHARIFF DASARI is an Indian engineer in his mid-thirties. He is
 attached with tethers to a platform on one side of the Hubble.
-This is his second mission into outer space."|stage direction||
+This is his second mission into outer space."|stage direction|||
 47|"MISSION CONTROL
 (ON RADIO)"|"Could you be more specific?
 Indeterminate estimates make Houston
-anxious."|speech|MISSION CONTROL|?
+anxious."|speech|MISSION CONTROL|?|True
 48|SHARIFF|"No... no... no Houston, don't be
 anxious. Anxiety is not good for the
 heart... The system is ready to re-
-activate."|speech|SHARIFF|M
+activate."|speech|SHARIFF|M|True
 49|"MISSION CONTROL
 (ON RADIO)"|"Hubble Telescope engaged. Upgrade
 fully functional. That applause you
 hear is for you, Shariff.
 Congratulations. Kick back, take the
-rest of the day off."|speech|MISSION CONTROL|?
+rest of the day off."|speech|MISSION CONTROL|?|True
 50||"Shariff cheers and begins singing a pop tune in Hindi, bursting
 into a Zero-G Bollywood choreography that is repressed by the
-stiffness of his space suit."|stage direction||
+stiffness of his space suit."|stage direction|||
 51|"SHARIFF
 (SINGING)"|"Woohoo... Jaise Baadal Paani Ka, Yaarana
-Hai Oh Jaise Paani Ka, Yaarana Hai."|speech|SHARIFF|M
+Hai Oh Jaise Paani Ka, Yaarana Hai."|speech|SHARIFF|M|True
 52|"MISSION CONTROL
 (ON RADIO)"|"Matt, please advise as to Mission
-Specialist Shariff's current activity."|speech|MISSION CONTROL|?
+Specialist Shariff's current activity."|speech|MISSION CONTROL|?|True
 53|MATT|"He appears to be doing the Macarena of
 some sort. Though that would merely be
-a best guess scenario on my part."|speech|MATT|F
+a best guess scenario on my part."|speech|MATT|F|True
 54||"Matt is now approaching the Explorer, skillfully maneuvering his
 thrusters.
 The other astronaut stands perched on a ROBOTIC ARM attached to
 the Shuttle. The arm is a crane-like moving platform remotely
 operated from inside the Shuttle.
-We TRACK In on the astronaut as she works intently alone."|stage direction||
+We TRACK In on the astronaut as she works intently alone."|stage direction|||
 55|MISSION CONTROL|"Dr. Stone. Houston. Medical now have
 you with a temperature drop to 35.9
 and heart rate rise to 70.
-How are you doing?"|speech|MISSION CONTROL|?
-56|RYAN|Houston, I'm fine, it's just...|speech|RYAN|F
+How are you doing?"|speech|MISSION CONTROL|?|True
+56|RYAN|Houston, I'm fine, it's just...|speech|RYAN|F|True
 57|(SHE SWALLOWS)|"...Keeping your lunch down in zero G
-is harder than it looks."|speech||
+is harder than it looks."|speech|||
 58|MISSION CONTROL|"Doctor Stone? Medical is asking if you
-want to return to Explorer?"|speech|MISSION CONTROL|?
-59||Ryan HUMS as she jiggles the CARD.|stage direction||
+want to return to Explorer?"|speech|MISSION CONTROL|?|True
+59||Ryan HUMS as she jiggles the CARD.|stage direction|||
 60|RYAN|"No, we've been here for a week
-Houston, let's just finish this."|speech|RYAN|F
+Houston, let's just finish this."|speech|RYAN|F|True
 61||"RYAN STONE is a medical engineer, specialized in hospital
 scanning systems. She's focused on her work as though she's all
 alone in the world. This is her first mission.
-Ryan eyes the Card, then..."|stage direction||
+Ryan eyes the Card, then..."|stage direction|||
 62|RYAN|"RYAN (CONT'D (CONT'D)
-Card is up."|speech|RYAN|F
+Card is up."|speech|RYAN|F|True
 63|"MISSION CONTROL
 (ON RADIO)"|"That's a negative. I'm afraid we're
-getting nothing on this end, doctor."|speech|MISSION CONTROL|?
-64||Ryan eyes the Card, then...|stage direction||
-65|RYAN|Try again.|speech|RYAN|F
+getting nothing on this end, doctor."|speech|MISSION CONTROL|?|True
+64||Ryan eyes the Card, then...|stage direction|||
+65|RYAN|Try again.|speech|RYAN|F|True
 66|MISSION CONTROL|"(a beat, then...)
-Still nothing."|speech|MISSION CONTROL|?
+Still nothing."|speech|MISSION CONTROL|?|True
 67|RYAN|"Houston, could you please turn that
-music off?"|speech|RYAN|F
+music off?"|speech|RYAN|F|True
 68|"MISSION CONTROL
-(ON RADIO)"|Kowalsky?|speech|MISSION CONTROL|?
-69|MATT|Not a problem.|speech|MATT|F
-70||Matt toggles a switch and the music stops.|stage direction||
-71|RYAN|Thank you, Kowalsky.|speech|RYAN|F
-72||Ryan moves the Card around.|stage direction||
-73|RYAN (CONT'D)|Now, Houston?|speech|RYAN|F
-74|MISSION CONTROL|Negative.|speech|MISSION CONTROL|?
+(ON RADIO)"|Kowalsky?|speech|MISSION CONTROL|?|True
+69|MATT|Not a problem.|speech|MATT|F|True
+70||Matt toggles a switch and the music stops.|stage direction|||
+71|RYAN|Thank you, Kowalsky.|speech|RYAN|F|True
+72||Ryan moves the Card around.|stage direction|||
+73|RYAN (CONT'D)|Now, Houston?|speech|RYAN|F|True
+74|MISSION CONTROL|Negative.|speech|MISSION CONTROL|?|True
 75|RYAN|"Could Houston be misinterpreting the
-data--?"|speech|RYAN|F
+data--?"|speech|RYAN|F|True
 76|"MISSION CONTROL
 (ON RADIO)"|"We're not receiving any data.
 Engineering is recommending a vis-
-check for component damage."|speech|MISSION CONTROL|?
-77||Again, as if to herself-|stage direction||
-78|RYAN|Mmmm. Let me see what's going on.|speech|RYAN|F
-79||She starts to disengage one of the panels.|stage direction||
+check for component damage."|speech|MISSION CONTROL|?|True
+77||Again, as if to herself-|stage direction|||
+78|RYAN|Mmmm. Let me see what's going on.|speech|RYAN|F|True
+79||She starts to disengage one of the panels.|stage direction|||
 80|"RYAN (CONT'D)
-(MUMBLES)"|What have you got here?|speech|RYAN|F
+(MUMBLES)"|What have you got here?|speech|RYAN|F|True
 81||"Ryan takes out a card from under the plate and begins to examine
-it. Matt begins to approach her."|stage direction||
+it. Matt begins to approach her."|stage direction|||
 82|RYAN (CONT'D)|"Visual examination doesn't reveal any
 damaged components. The problem must
-be originating in the comms panel."|speech|RYAN|F
+be originating in the comms panel."|speech|RYAN|F|True
 83|"MISSION CONTROL
 (ON RADIO)"|"That seems to be the case. Engineering
 admits that you warned us that this
 could happen. That's as close to an
 apology as you're going to get from
 them. We should've listened to you
-doc."|speech|MISSION CONTROL|?
-84||Without losing any time, Ryan puts the card back into the|stage direction||
-85||TELESCOPE-|location||
-86|RYAN|I'm on it.|speech|RYAN|F
+doc."|speech|MISSION CONTROL|?|True
+84||Without losing any time, Ryan puts the card back into the|stage direction|||
+85||TELESCOPE-|location|||
+86|RYAN|I'm on it.|speech|RYAN|F|True
 87|"MISSION CONTROL
 (ON RADIO)"|"Copy that. How long do you think it'll
-take you?"|speech|MISSION CONTROL|?
-88||Matt begins a wide loop around the telescope.|stage direction||
-89|RYAN|An hour.|speech|RYAN|F
+take you?"|speech|MISSION CONTROL|?|True
+88||Matt begins a wide loop around the telescope.|stage direction|||
+89|RYAN|An hour.|speech|RYAN|F|True
 90|"MISSION CONTROL
 (ON RADIO)"|"Outstanding. We appreciate your
 patience, Doctor. Installing your
 system in the Hubble is the main
-purpose of this mission."|speech|MISSION CONTROL|?
+purpose of this mission."|speech|MISSION CONTROL|?|True
 91||"Ryan doesn't respond, continuing to work. Matt closes in as he
-circles the telescope."|stage direction||
+circles the telescope."|stage direction|||
 92|"MISSION CONTROL
 (ON RADIO)"|"MISSION CONTROL (CONT'D)
 Houston trusts Mission Commander
@@ -265,39 +265,39 @@ not of sufficient duration to enable
 him to surpass Anatoly's Solovyev's
 spacewalking record, as most recent
 calculations indicate that he will be
-left..."|speech|MISSION CONTROL|?
+left..."|speech|MISSION CONTROL|?|True
 93|MATT|"Seventy-five minutes shy. Never
-crossed my mind."|speech|MATT|F
+crossed my mind."|speech|MATT|F|True
 94|"MISSION CONTROL
-(ON RADIO)"|Matt, It's been a privilege.|speech|MISSION CONTROL|?
-95||Matt hesitates ever-so-briefly, then...|stage direction||
-96|MATT|Right back atcha, Houston.|speech|MATT|F
+(ON RADIO)"|Matt, It's been a privilege.|speech|MISSION CONTROL|?|True
+95||Matt hesitates ever-so-briefly, then...|stage direction|||
+96|MATT|Right back atcha, Houston.|speech|MATT|F|True
 97|"MISSION CONTROL
-(ON RADIO)"|Enjoy your last walk...|speech|MISSION CONTROL|?
+(ON RADIO)"|Enjoy your last walk...|speech|MISSION CONTROL|?|True
 98|MATT|"Am I a go to assist Dr. Stone in
-removing the panel?"|speech|MATT|F
-99|RYAN|Assistance appreciated.|speech|RYAN|F
+removing the panel?"|speech|MATT|F|True
+99|RYAN|Assistance appreciated.|speech|RYAN|F|True
 100|"MISSION CONTROL
-(ON RADIO)"|Permission granted.|speech|MISSION CONTROL|?
-101|MATT|Thank you, Houston.|speech|MATT|F
-102|(TO RYAN)|Mind if I join the fun?|speech||
-103|RYAN|Certainly.|speech|RYAN|F
+(ON RADIO)"|Permission granted.|speech|MISSION CONTROL|?|True
+101|MATT|Thank you, Houston.|speech|MATT|F|True
+102|(TO RYAN)|Mind if I join the fun?|speech|||
+103|RYAN|Certainly.|speech|RYAN|F|True
 104||"Ryan begins unbolting. Matt lands right next to Ryan and grabs
-onto the telescope. She is frustrated, determined."|stage direction||
-105|MATT|How are you feeling?|speech|MATT|F
+onto the telescope. She is frustrated, determined."|stage direction|||
+105|MATT|How are you feeling?|speech|MATT|F|True
 106|RYAN|"Like a Chihuahua that's being tumble
-dried."|speech|RYAN|F
+dried."|speech|RYAN|F|True
 107||"Matt takes out his pistol grip, and with fast precision puts its
 head to a bolt and begins unscrewing. Matt removes the bolt
-with confidence."|stage direction||
+with confidence."|stage direction|||
 108|MATT|"It's been a rough week. If it makes
 you feel any better, I puked up
 everything but my kidneys on my first
-ride."|speech|MATT|F
-109||Ryan is not as precise with her pistol grip, and when a bolt|stage direction||
-110||COMES OFF-|location||
-111||She DROPS IT.|stage direction||
-112|RYAN|Whoa...! AWOL!|speech|RYAN|F
+ride."|speech|MATT|F|True
+109||Ryan is not as precise with her pistol grip, and when a bolt|stage direction|||
+110||COMES OFF-|location|||
+111||She DROPS IT.|stage direction|||
+112|RYAN|Whoa...! AWOL!|speech|RYAN|F|True
 113||"The bolt spins floating away. She tries to grab it but MISSES,
 barely touching it but brushing it just enough to give it a push
 that makes it change direction....
@@ -305,92 +305,92 @@ She turns and reaches out to grab it, but she is strapped to the
 Robotic Arm.
 The bolt spins out into the emptiness of space when-
 A hand GRABS it before it has gone too far. It is Matt's.
-Ryan looks at him, embarrassed."|stage direction||
+Ryan looks at him, embarrassed."|stage direction|||
 114|RYAN (CONT'D)|"Thanks. Sorry. In my basement lab
-things usually fall to the floor."|speech|RYAN|F
-115||Matt puts the bolt away. He begins to unscrew another bolt.|stage direction||
+things usually fall to the floor."|speech|RYAN|F|True
+115||Matt puts the bolt away. He begins to unscrew another bolt.|stage direction|||
 116|MATT|"Hey -- you're the genius up here. I
-just drive this bus."|speech|MATT|F
+just drive this bus."|speech|MATT|F|True
 117|RYAN|"Call me a genius if I can get this
-board initialized in the next hour."|speech|RYAN|F
-118|MISSION CONTROL|Explorer, this is Houston.|speech|MISSION CONTROL|?
-119|EXPLORER CAP|Go ahead Houston.|speech|EXPLORER CAP|?
+board initialized in the next hour."|speech|RYAN|F|True
+118|MISSION CONTROL|Explorer, this is Houston.|speech|MISSION CONTROL|?|True
+119|EXPLORER CAP|Go ahead Houston.|speech|EXPLORER CAP|?|True
 120|MISSION CONTROL|"NORAD reports a satellite has incurred
 a missile strike. The impact has
 created a cloud of debris orbiting at
 20,000 miles per hour. Current debris
 orbit does not overlap with your
 trajectory. We'll keep you posted on
-any developments."|speech|MISSION CONTROL|?
-121||Ryan glances at Matt.|stage direction||
-122|RYAN|Should we be worried?|speech|RYAN|F
-123|MATT|Let the boys down there worry for us.|speech|MATT|F
+any developments."|speech|MISSION CONTROL|?|True
+121||Ryan glances at Matt.|stage direction|||
+122|RYAN|Should we be worried?|speech|RYAN|F|True
+123|MATT|Let the boys down there worry for us.|speech|MATT|F|True
 124|RYAN|"Explorer, engage arm and pivot to
-cargo bay."|speech|RYAN|F
+cargo bay."|speech|RYAN|F|True
 125|"EXPLORER CAP
-(ON RADIO)"|Standby for arm maneuver.|speech|EXPLORER CAP|?
+(ON RADIO)"|Standby for arm maneuver.|speech|EXPLORER CAP|?|True
 126||"The robotic arm moves very slowly, pulling Ryan along while Matt
-begins to unharness from the telescope to shift his position."|stage direction||
+begins to unharness from the telescope to shift his position."|stage direction|||
 127|MATT|"So doc, now that you work for NASA,
-how do you like it?"|speech|MATT|F
+how do you like it?"|speech|MATT|F|True
 128|SHARIFF|"Kinda like winning the lottery, isn't
-it?"|speech|SHARIFF|M
-129||She grins at the memory, glances at him. Confesses:|stage direction||
+it?"|speech|SHARIFF|M|True
+129||She grins at the memory, glances at him. Confesses:|stage direction|||
 130|RYAN|"I was just happy that they didn't cut
-the funding to my research."|speech|RYAN|F
-131|MATT|How long was your training?|speech|MATT|F
-132|RYAN|Six months.|speech|RYAN|F
-133|SHARIFF|Including holidays?|speech|SHARIFF|M
-134|MATT|So, what is this scanning system?|speech|MATT|F
+the funding to my research."|speech|RYAN|F|True
+131|MATT|How long was your training?|speech|MATT|F|True
+132|RYAN|Six months.|speech|RYAN|F|True
+133|SHARIFF|Including holidays?|speech|SHARIFF|M|True
+134|MATT|So, what is this scanning system?|speech|MATT|F|True
 135|SHARIFF|"Nothing rad, it's just a new set of
-eyes to scan the universe."|speech|SHARIFF|M
+eyes to scan the universe."|speech|SHARIFF|M|True
 136|RYAN|"Assuming it works, it's just for
-hospital use. This one is a prototype."|speech|RYAN|F
-137|EXPLORER CAP|Standby for marking.|speech|EXPLORER CAP|?
+hospital use. This one is a prototype."|speech|RYAN|F|True
+137|EXPLORER CAP|Standby for marking.|speech|EXPLORER CAP|?|True
 138|MATT|"Listen, they don't bankroll
 prototypes, even for your pretty blue
-eyes."|speech|MATT|F
-139||She gives him a look.|stage direction||
-140|RYAN|My eyes are brown.|speech|RYAN|F
-141||Matt stares at her, a faint smile on his face.|stage direction||
-142|MATT|Right now your eyes are blood shut.|speech|MATT|F
-143||She grins, looks away -- he got her. Then...|stage direction||
-144|SHARIFF|Kowalsky!|speech|SHARIFF|M
-145||Matt turns. Shariff raises his arms again.|stage direction||
-146|SHARIFF (CONT'D)|Is this great or what?!|speech|SHARIFF|M
+eyes."|speech|MATT|F|True
+139||She gives him a look.|stage direction|||
+140|RYAN|My eyes are brown.|speech|RYAN|F|True
+141||Matt stares at her, a faint smile on his face.|stage direction|||
+142|MATT|Right now your eyes are blood shut.|speech|MATT|F|True
+143||She grins, looks away -- he got her. Then...|stage direction|||
+144|SHARIFF|Kowalsky!|speech|SHARIFF|M|True
+145||Matt turns. Shariff raises his arms again.|stage direction|||
+146|SHARIFF (CONT'D)|Is this great or what?!|speech|SHARIFF|M|True
 147||"Shariff JUMPS and FLOATS AWAY from the Shuttle, screaming and
-flapping his arms. A long SAFETY TETHER attached to his waist"|stage direction||
-148||TENSES AND-|location||
+flapping his arms. A long SAFETY TETHER attached to his waist"|stage direction|||
+148||TENSES AND-|location|||
 149||"Brings Shariff to an ABRUPT STOP, snapping him back like a
-bungee cord."|stage direction||
+bungee cord."|stage direction|||
 150|MATT|"(for Ryan's benefit)
-And to think he went to Harvard."|speech|MATT|F
+And to think he went to Harvard."|speech|MATT|F|True
 151||"Ryan doesn't react to this, too consumed as she is with the
-panel. Matt looks out. A sad smile is on his face."|stage direction||
+panel. Matt looks out. A sad smile is on his face."|stage direction|||
 152|MATT (CONT'D)|"You gotta admit one thing. You can't
-beat the view...."|speech|MATT|F
+beat the view...."|speech|MATT|F|True
 153||"MATT ENJOYS THE VIEW
 THE EARTH, with its ever-changing surface of blues and whites,
-greens and browns, is massive and serene below him."|stage direction||
-154|RYAN|Mm-hm.|speech|RYAN|F
+greens and browns, is massive and serene below him."|stage direction|||
+154|RYAN|Mm-hm.|speech|RYAN|F|True
 155|MATT|"""Mmm?"" So what do you like about being
-up here?"|speech|MATT|F
+up here?"|speech|MATT|F|True
 156||"She hesitates -- trying sincerely to articulate her feelings as
-we GAZE down at the silent planet below."|stage direction||
-157|RYAN|The silence.|speech|RYAN|F
-158|(BEAT)|I could get used to it.|speech||
+we GAZE down at the silent planet below."|stage direction|||
+157|RYAN|The silence.|speech|RYAN|F|True
+158|(BEAT)|I could get used to it.|speech|||
 159||"Matt laughs softly.
 We arrive back on him as he turns back to look at Earth.
-Something flickers briefly in Matt's eyes-- something"|stage direction||
-160||COMPLICATED--|location||
-161|MATT|Hmmmm. Terrific.|speech|MATT|F
+Something flickers briefly in Matt's eyes-- something"|stage direction|||
+160||COMPLICATED--|location|||
+161|MATT|Hmmmm. Terrific.|speech|MATT|F|True
 162||"Ryan inspects a panel inside the telescope, studying it with a
-small mirror."|stage direction||
+small mirror."|stage direction|||
 163|RYAN|"Houston, from first inspection comms
 panel appears to be dead. Am I a go
-to cut link to auxiliary?"|speech|RYAN|F
+to cut link to auxiliary?"|speech|RYAN|F|True
 164|MISSION CONTROL|"You're the expert, doctor. It's your
-call."|speech|MISSION CONTROL|?
+call."|speech|MISSION CONTROL|?|True
 165||"Ryan takes out the small mirror and Matt stretches his arm,
 offering assistance, but-
 She does not want any help and puts the mirror away in her
@@ -398,66 +398,66 @@ toolbox, leaving Matt with his arm outstretched.
 Ryan starts looking for another tool, but Matt is one move ahead
 of her, offering her a pair of tweezers.
 Ryan hesitates and takes the tool. She starts working on the
-panel."|stage direction||
+panel."|stage direction|||
 166|MATT|"Houston, I have a bad feeling about
-this mission."|speech|MATT|F
-167|MISSION CONTROL|Please elaborate.|speech|MISSION CONTROL|?
+this mission."|speech|MATT|F|True
+167|MISSION CONTROL|Please elaborate.|speech|MISSION CONTROL|?|True
 168|MATT|"It's the same feeling I had at Mardi
-Gras in 1987...?"|speech|MATT|F
-169||He waits, letting the moment hang knowingly. Then:|stage direction||
+Gras in 1987...?"|speech|MATT|F|True
+169||He waits, letting the moment hang knowingly. Then:|stage direction|||
 170|MISSION CONTROL|"That is affirmative. Surprisingly,
 control hasn't heard the Mardi Gras
-story. Please proceed."|speech|MISSION CONTROL|?
+story. Please proceed."|speech|MISSION CONTROL|?|True
 171|MATT|"Well, it's day one and I'm bumping my
 way down Bourbon Street looking for
 the sister of a friend of mine. The
 streets are swimming with people, I'm
 thinking there's no way I'm finding
-this girl..."|speech|MATT|F
-172||Ryan rolls her eyes and mumbles to herself-|stage direction||
-173|RYAN|Proceeding to over ride.|speech|RYAN|F
-174||Matt continues his story without missing a beat-|stage direction||
+this girl..."|speech|MATT|F|True
+172||Ryan rolls her eyes and mumbles to herself-|stage direction|||
+173|RYAN|Proceeding to over ride.|speech|RYAN|F|True
+174||Matt continues his story without missing a beat-|stage direction|||
 175|MATT|"Then all of a sudden I look up and --
-there she is."|speech|MATT|F
+there she is."|speech|MATT|F|True
 176|"(MORE)
 MATT (CONT'D)"|"I am about to yell out when I notice
 she's holding hands with a short hairy
 guy in board shorts and a
 Margaritaville T-shirt. Then I
 realize, the guy's no guy. My sister's
-friend is holding hands with a--"|speech|MATT|F
-177||Mission Control interrupts on the radio.|stage direction||
+friend is holding hands with a--"|speech|MATT|F|True
+177||Mission Control interrupts on the radio.|stage direction|||
 178|"MISSION CONTROL
 (ON RADIO)"|"ISS, this is Houston.
-SPACE STATION CAP"|speech|MISSION CONTROL|?
-179|(ON RADIO)|Zlotze Houston.|speech||
-180||Ryan inserts the plate into the Hubble.|stage direction||
+SPACE STATION CAP"|speech|MISSION CONTROL|?|True
+179|(ON RADIO)|Zlotze Houston.|speech|||
+180||Ryan inserts the plate into the Hubble.|stage direction|||
 181|"MISSION CONTROL
-(ON RADIO)"|Explorer, this is Houston.|speech|MISSION CONTROL|?
+(ON RADIO)"|Explorer, this is Houston.|speech|MISSION CONTROL|?|True
 182|"EXPLORER CAP
-(ON RADIO)"|Go ahead Houston.|speech|EXPLORER CAP|?
+(ON RADIO)"|Go ahead Houston.|speech|EXPLORER CAP|?|True
 183|"MISSION CONTROL
 (ON RADIO)"|"Mission abort. Repeat: mission abort.
 Initiate emergency disconnect from
-Hubble."|speech|MISSION CONTROL|?
+Hubble."|speech|MISSION CONTROL|?|True
 184||"All the astronauts stop what they're doing and anxiously await
-further instructions, except for Ryan who keeps working."|stage direction||
+further instructions, except for Ryan who keeps working."|stage direction|||
 185|"MISSION CONTROL
-(ON RADIO)"|MISSION CONTROL (CONT'D)|speech|MISSION CONTROL|?
+(ON RADIO)"|MISSION CONTROL (CONT'D)|speech|MISSION CONTROL|?|True
 186|(ON RADIO)|"Begin re-entry procedure. Start
 Deorbit Prep for PLS at Kennedy. ISS,
-initiate emergency evacuation."|speech||
+initiate emergency evacuation."|speech|||
 187||"Matt is immediately flung into action and rapidly unharnesses
-himself from the Hubble."|stage direction||
+himself from the Hubble."|stage direction|||
 188|"EXPLORER CAP
 (ON RADIO)"|"Copy all Houston, and in work.
 Matt, immediate return to Explorer.
-Repeat, immediate return to Explorer."|speech|EXPLORER CAP|?
-189|MATT|Roger. Explorer, prep airlock!|speech|MATT|F
+Repeat, immediate return to Explorer."|speech|EXPLORER CAP|?|True
+189|MATT|Roger. Explorer, prep airlock!|speech|MATT|F|True
 190|"EXPLORER CAP
-(ON RADIO)"|Airlock engaged--ready to receive.|speech|EXPLORER CAP|?
-191||Ryan is working on the panel.|stage direction||
-192|MATT|Houston. Elaborate.|speech|MATT|F
+(ON RADIO)"|Airlock engaged--ready to receive.|speech|EXPLORER CAP|?|True
+191||Ryan is working on the panel.|stage direction|||
+192|MATT|Houston. Elaborate.|speech|MATT|F|True
 193|"MISSION CONTROL
 (ON RADIO)"|"Debris from the impact has caused a
 chain reaction, hitting other
@@ -465,139 +465,139 @@ satellites in its path and creating
 new debris. Norad reports that orbital
 and ballistic effects are driving the
 cloud of debris up toward your
-altitude. How copy?"|speech|MISSION CONTROL|?
-194|MATT|Copy all Houston.|speech|MATT|F
-195|(TO RYAN)|Put a bow on it Dr. Stone.|speech||
+altitude. How copy?"|speech|MISSION CONTROL|?|True
+194|MATT|Copy all Houston.|speech|MATT|F|True
+195|(TO RYAN)|Put a bow on it Dr. Stone.|speech|||
 196|RYAN|"I can't. If I turn it off now we'll
-lose the whole system."|speech|RYAN|F
-197||She keeps on furiously tweaking.|stage direction||
-198|MATT|I'm not going to ask you again.|speech|MATT|F
+lose the whole system."|speech|RYAN|F|True
+197||She keeps on furiously tweaking.|stage direction|||
+198|MATT|I'm not going to ask you again.|speech|MATT|F|True
 199|"RYAN
 ONE SECOND--
 MATT"|"Not one second. Now! Shut it down!
-THAT'S AN ORDER!!!"|speech|RYANONE SECOND--MATT|?
-200||She looks up, sees Matt glaring. Looks him in the eye.|stage direction||
-201|RYAN|Sorry. I'm sorry. It's done.|speech|RYAN|F
+THAT'S AN ORDER!!!"|speech|RYANONE SECOND--MATT|?|
+200||She looks up, sees Matt glaring. Looks him in the eye.|stage direction|||
+201|RYAN|Sorry. I'm sorry. It's done.|speech|RYAN|F|True
 202||"The ROBOTIC ARM slowly withdraws, carrying Ryan back towards the
 Shuttle.
-Matt watches her go, then:"|stage direction||
+Matt watches her go, then:"|stage direction|||
 203|"EXPLORER CAP
 (ON RADIO)"|"Kowalsky, initiate emergency
-disconnect from the Hubble."|speech|EXPLORER CAP|?
-204|MATT|Alright Shariff, let's do this.|speech|MATT|F
-205|SHARIFF|Roger.|speech|SHARIFF|M
+disconnect from the Hubble."|speech|EXPLORER CAP|?|True
+204|MATT|Alright Shariff, let's do this.|speech|MATT|F|True
+205|SHARIFF|Roger.|speech|SHARIFF|M|True
 206||"Shariff turns and heads toward the base of the telescope holding
-onto the hangar's handrails."|stage direction||
-207|MATT|Houston. Update.|speech|MATT|F
+onto the hangar's handrails."|stage direction|||
+207|MATT|Houston. Update.|speech|MATT|F|True
 208||"Matt PROPELS himself to the base of the Hubble using the
-propelling unit on his back."|stage direction||
+propelling unit on his back."|stage direction|||
 209|MISSION CONTROL|"We have a full on chain reaction. It's
 been confirmed that it is the
 unintentional side effect of the
 Russians striking one of their own
-satellites."|speech|MISSION CONTROL|?
-210||Shariff arrives to the base of the telescope.|stage direction||
-211|SHARIFF|They shot down their own satellite?|speech|SHARIFF|M
+satellites."|speech|MISSION CONTROL|?|True
+210||Shariff arrives to the base of the telescope.|stage direction|||
+211|SHARIFF|They shot down their own satellite?|speech|SHARIFF|M|True
 212|MATT|"Right of disposal. Most likely a spy
-sat gone bad. Now it's space junk."|speech|MATT|F
-213||Matt grabs onto the base of the telescope-|stage direction||
-214|MATT (CONT'D)|Explorer, ready to disengage HST.|speech|MATT|F
+sat gone bad. Now it's space junk."|speech|MATT|F|True
+213||Matt grabs onto the base of the telescope-|stage direction|||
+214|MATT (CONT'D)|Explorer, ready to disengage HST.|speech|MATT|F|True
 215|"EXPLORER CAP
 (ON RADIO)"|"Locks releasing in three... two...
-one..."|speech|EXPLORER CAP|?
+one..."|speech|EXPLORER CAP|?|True
 216||"The locks attaching the Hubble to the Explorer release. Matt and
 Shariff give the Hubble a push away from the hangar. Pushing the
-huge telescope is not a difficult task in zero gravity."|stage direction||
-217|MISSION CONTROL|Explorer, new data coming through.|speech|MISSION CONTROL|?
-218||As it floats away, Matt gives the telescope a small spin.|stage direction||
-219|MATT|What's the blowback, Houston?|speech|MATT|F
+huge telescope is not a difficult task in zero gravity."|stage direction|||
+217|MISSION CONTROL|Explorer, new data coming through.|speech|MISSION CONTROL|?|True
+218||As it floats away, Matt gives the telescope a small spin.|stage direction|||
+219|MATT|What's the blowback, Houston?|speech|MATT|F|True
 220|MISSION CONTROL|"It's not good. Most of our systems are
 going down. Debris chain reaction is
 out of control and rapidly expanding.
 Multiple sats are now down and they
-keep on falling."|speech|MISSION CONTROL|?
-221||Matt eyes the arm as it slowly retracts, carrying Ryan back.|stage direction||
-222|MATT|"Define ""multiple"" sats."|speech|MATT|F
+keep on falling."|speech|MISSION CONTROL|?|True
+221||Matt eyes the arm as it slowly retracts, carrying Ryan back.|stage direction|||
+222|MATT|"Define ""multiple"" sats."|speech|MATT|F|True
 223|MISSION CONTROL|"Most of them. Telecomunications
 systems are gone. Expect a
-communication blackout at any moment."|speech|MISSION CONTROL|?
+communication blackout at any moment."|speech|MISSION CONTROL|?|True
 224|RYAN|"Kowalsky, visual of debris at nine
-o'clock."|speech|RYAN|F
+o'clock."|speech|RYAN|F|True
 225||"Matt's eyes shift, watching a LARGE OBJECT, a piece of a BSE
-SATELLITE, spiral toward them."|stage direction||
+SATELLITE, spiral toward them."|stage direction|||
 226|MATT|"Half of North America just lost their
-Facebook."|speech|MATT|F
-227||The sat glides by at tremendous speed.|stage direction||
+Facebook."|speech|MATT|F|True
+227||The sat glides by at tremendous speed.|stage direction|||
 228|MISSION CONTROL|"You're a go for TH1138. Repeat You're
-a go for TH1138 procedure."|speech|MISSION CONTROL|?
-229|EXPLORER CAP|Copy that Houston.|speech|EXPLORER CAP|?
+a go for TH1138 procedure."|speech|MISSION CONTROL|?|True
+229|EXPLORER CAP|Copy that Houston.|speech|EXPLORER CAP|?|True
 230|MATT|"Explorer, this is Kowalsky. Confirming
 visual contact with debris. Debris is
-from a BSE sat. To repeat--"|speech|MATT|F
-231|SHARIFF|Heads up!|speech|SHARIFF|M
-232|MATT|To repeat I have-|speech|MATT|F
+from a BSE sat. To repeat--"|speech|MATT|F|True
+231|SHARIFF|Heads up!|speech|SHARIFF|M|True
+232|MATT|To repeat I have-|speech|MATT|F|True
 233||"ANOTHER OBJECT, part of a WEATHER SATELLITE, hurls by them, a
-little bit closer than the previous one."|stage direction||
+little bit closer than the previous one."|stage direction|||
 234|RYAN|"Dr. Stone requesting faster, faster
-transport."|speech|RYAN|F
+transport."|speech|RYAN|F|True
 235||"It is followed by a SMALL PIECE OF DEBRIS. It zooms by faster
 than the previous ones and hits the BSE SATELLITE.
 The satellite EXPLODES into hundreds of pieces and-
-A CHAIN REACTION takes place."|stage direction||
-236|MATT|We have to go. Go, go! Go!|speech|MATT|F
+A CHAIN REACTION takes place."|stage direction|||
+236|MATT|We have to go. Go, go! Go!|speech|MATT|F|True
 237||"The DEBRIS from the BSE satellite hits the WEATHER SATELLITE,
-and it EXPLODES, sending debris in all directions."|stage direction||
+and it EXPLODES, sending debris in all directions."|stage direction|||
 238|MISSION CONTROL|"Attention. New data suggests immediate
-evacuation absolu..."|speech|MISSION CONTROL|?
+evacuation absolu..."|speech|MISSION CONTROL|?|True
 239||"A high frequency of interference and-
 THE COMMUNICATION IS LOST.
-THE ARM transporting Ryan is moving very slowly."|stage direction||
+THE ARM transporting Ryan is moving very slowly."|stage direction|||
 240|RYAN|"Dr. Stone requesting faster transport
-to the bay area. Explorer get me down."|speech|RYAN|F
+to the bay area. Explorer get me down."|speech|RYAN|F|True
 241|MATT|"Explorer permission to retrieve Dr.
-Stone."|speech|MATT|F
+Stone."|speech|MATT|F|True
 242|"EXPLORER CAP
-(ON RADIO)"|You are a go, Kowalsky.|speech|EXPLORER CAP|?
-243||Matt thrusts himself over to Ryan.|stage direction||
+(ON RADIO)"|You are a go, Kowalsky.|speech|EXPLORER CAP|?|True
+243||Matt thrusts himself over to Ryan.|stage direction|||
 244|"EXPLORER CAP
-(ON RADIO)"|EXPLORER CAP (CONT'D)|speech|EXPLORER CAP|?
-245|(ON RADIO)|Houston, this is Explorer. Copy?|speech||
-246||But there's no answer.|stage direction||
-247|(ON RADIO)|EXPLORER CAP (CONT'D)|speech||
-248|(ON RADIO)|Houston, this is Explorer. Copy?|speech||
-249||Still no answer.|stage direction||
-250|(ON RADIO)|EXPLORER CAP (CONT'D)|speech||
-251|(ON RADIO)|We lost Houston!|speech||
-252||Matt stops next to Ryan.|stage direction||
+(ON RADIO)"|EXPLORER CAP (CONT'D)|speech|EXPLORER CAP|?|True
+245|(ON RADIO)|Houston, this is Explorer. Copy?|speech|||
+246||But there's no answer.|stage direction|||
+247|(ON RADIO)|EXPLORER CAP (CONT'D)|speech|||
+248|(ON RADIO)|Houston, this is Explorer. Copy?|speech|||
+249||Still no answer.|stage direction|||
+250|(ON RADIO)|EXPLORER CAP (CONT'D)|speech|||
+251|(ON RADIO)|We lost Houston!|speech|||
+252||Matt stops next to Ryan.|stage direction|||
 253|MATT|"Unstrap! You can't tune out the world
-up here."|speech|MATT|F
-254||She reaches for the last clip and begins to undo it.|stage direction||
-255|RYAN|I'm trying...|speech|RYAN|F
-256|MATT|Try releasing the safety clip.|speech|MATT|F
+up here."|speech|MATT|F|True
+254||She reaches for the last clip and begins to undo it.|stage direction|||
+255|RYAN|I'm trying...|speech|RYAN|F|True
+256|MATT|Try releasing the safety clip.|speech|MATT|F|True
 257||"Shariff makes his way back toward the airlock as-
 A PIECE of the debris HITS the Hubble's SOLAR PANELS, making a
 12-inch HOLE in its golden surface.
-A piece of debris passes, nearly hitting them."|stage direction||
-258|SHARIFF|Need some help there Matt?|speech|SHARIFF|M
-259|MATT|No, don't wait for us. Get inside.|speech|MATT|F
-260|RYAN|It's stuck!|speech|RYAN|F
+A piece of debris passes, nearly hitting them."|stage direction|||
+258|SHARIFF|Need some help there Matt?|speech|SHARIFF|M|True
+259|MATT|No, don't wait for us. Get inside.|speech|MATT|F|True
+260|RYAN|It's stuck!|speech|RYAN|F|True
 261||"Further back, another piece of debris collides with a bigger
 one. The two chunks of debris explode into a million pieces of
 shrapnel, one of which-
 HITS Shariff's helmet, breaking through the glass and hitting
-his head like an expansive bullet."|stage direction||
-262|MATT|Man down! Man down!|speech|MATT|F
+his head like an expansive bullet."|stage direction|||
+262|MATT|Man down! Man down!|speech|MATT|F|True
 263||"Matt PROPELS himself toward Shariff, who is floating away from
-the Shuttle unconscious."|stage direction||
+the Shuttle unconscious."|stage direction|||
 264|"MATT (CONT'D)
-(TO RYAN)"|Disengage!!!|speech|MATT|F
+(TO RYAN)"|Disengage!!!|speech|MATT|F|True
 265||"AN IMPACT.
 A piece of debris pierces through the right wing of the Space
 Shuttle, creating a five-foot hole.
 THE SPACE SHUTTLE ROLLS.
-The arm, with Ryan attached to it, rolls with the Shuttle."|stage direction||
+The arm, with Ryan attached to it, rolls with the Shuttle."|stage direction|||
 266|MATT (CONT'D)|"Explorer has been hit. Explorer do you
-read? Explorer, over. Explorer--"|speech|MATT|F
+read? Explorer, over. Explorer--"|speech|MATT|F|True
 267||"Another IMPACT.
 A piece of debris HITS the robotic arm like a cannon ball and
 DETACHES it from the Shuttle.
@@ -609,39 +609,39 @@ all directions, barely missing Ryan as she spins away attached
 to the arm.
 ON THE ARM-
 Ryan's panic grows as she spins further into the nothingness of
-space."|stage direction||
+space."|stage direction|||
 268|MATT (CONT'D)|"Astronaut off structure! Dr. Stone is
-off structure!"|speech|MATT|F
+off structure!"|speech|MATT|F|True
 269||"With every spin, the shuttle, being punished by debris,
-diminishes into a tiny dot in the distance."|stage direction||
+diminishes into a tiny dot in the distance."|stage direction|||
 270|"MATT (CONT'D)
-(ON RADIO)"|Dr. Stone, detach!|speech|MATT|F
-271|RYAN|Nooooo!|speech|RYAN|F
+(ON RADIO)"|Dr. Stone, detach!|speech|MATT|F|True
+271|RYAN|Nooooo!|speech|RYAN|F|True
 272|"MATT
-(ON RADIO)"|You must detach!|speech|MATT|F
-273|RYAN|No.|speech|RYAN|F
+(ON RADIO)"|You must detach!|speech|MATT|F|True
+273|RYAN|No.|speech|RYAN|F|True
 274|MATT|"If you don't detach that arm is going
-to carry you too far!"|speech|MATT|F
+to carry you too far!"|speech|MATT|F|True
 275|"RYAN
-(FROZEN)"|I can't!|speech|RYAN|F
+(FROZEN)"|I can't!|speech|RYAN|F|True
 276|MATT|"(a brief beat, then)
 Listen to my voice. You need to focus.
 I'm losing visual of you. In a few
-seconds I won't be able to track you."|speech|MATT|F
+seconds I won't be able to track you."|speech|MATT|F|True
 277|RYAN|"(She pulls herself together)
-Ok. Ok."|speech|RYAN|F
+Ok. Ok."|speech|RYAN|F|True
 278|MATT|"You need to detach. I can't see you
-anymore."|speech|MATT|F
+anymore."|speech|MATT|F|True
 279||"The robotic arm keeps on spinning and stars orbit wildly in her
-field of vision."|stage direction||
-280|RYAN|I'm trying. I'm trying.|speech|RYAN|F
-281|MATT|Do it. Now!|speech|MATT|F
+field of vision."|stage direction|||
+280|RYAN|I'm trying. I'm trying.|speech|RYAN|F|True
+281|MATT|Do it. Now!|speech|MATT|F|True
 282|RYAN|"Ok. I'm trying! I can't it's stuck,
-Hold on."|speech|RYAN|F
-283||Ryan's hands are trembling and she can't get a grip on the hook.|stage direction||
+Hold on."|speech|RYAN|F|True
+283||Ryan's hands are trembling and she can't get a grip on the hook.|stage direction|||
 284|MATT|"Houston, I've lost visual of Dr.
 Stone... Houston, I've lost visual of
-Dr. Stone."|speech|MATT|F
+Dr. Stone."|speech|MATT|F|True
 285||"As Matt's VOICE is LOST to STATIC, Ryan squeezes the hook and
 is...
 ...gone, kicking herself AWAY from the robotic arm and FLYING
@@ -649,37 +649,37 @@ FREE of the rotating arm. She catches a brief glimpse of the arm
 as it helicopters away, then loses sight of it as she rotates
 end over end in endless free fall.
 A PRIMAL SCREAM of God forsaken fear erupts from her lungs.
-The RADIO CRACKLES and Matt's VOICE returns."|stage direction||
+The RADIO CRACKLES and Matt's VOICE returns."|stage direction|||
 286|MATT (CONT'D)|"Dr. Stone! Do you copy?! Repeat! Do
-you copy?"|speech|MATT|F
-287|RYAN|Yes. Yes. I copy. I'm detached!|speech|RYAN|F
-288||Ryan slowly spins, drifting into the empty darkness of space.|stage direction||
-289|MATT|...Give me your position!|speech|MATT|F
+you copy?"|speech|MATT|F|True
+287|RYAN|Yes. Yes. I copy. I'm detached!|speech|RYAN|F|True
+288||Ryan slowly spins, drifting into the empty darkness of space.|stage direction|||
+289|MATT|...Give me your position!|speech|MATT|F|True
 290|RYAN|"I don't know. I don't know! I'm
-spinning. I can't. I can't."|speech|RYAN|F
-291|MATT|Report your position.|speech|MATT|F
+spinning. I can't. I can't."|speech|RYAN|F|True
+291|MATT|Report your position.|speech|MATT|F|True
 292||"Tumbling end over end, Ryan fixes her gaze on her wrist. The
-effort makes her nauseous. She looks away."|stage direction||
+effort makes her nauseous. She looks away."|stage direction|||
 293|RYAN|"GPS is...down. I can't, it's down, I
-can't."|speech|RYAN|F
-294|MATT|Give me a visual.|speech|MATT|F
+can't."|speech|RYAN|F|True
+294|MATT|Give me a visual.|speech|MATT|F|True
 295||"Matt's faint voice is heard on the transmission under a lot of
 static. Ryan is panicking and begins to hyperventilate. Her eyes
-rake the dark sameness of her surroundings."|stage direction||
-296|RYAN|I told you! Nothing. I see nothing!|speech|RYAN|F
-297|MATT|Do you have a visual of Explorer?|speech|MATT|F
+rake the dark sameness of her surroundings."|stage direction|||
+296|RYAN|I told you! Nothing. I see nothing!|speech|RYAN|F|True
+297|MATT|Do you have a visual of Explorer?|speech|MATT|F|True
 298|"RYAN
 NO--
-MATT"|Do you have a visual of ISS?|speech|RYANNO--MATT|?
+MATT"|Do you have a visual of ISS?|speech|RYANNO--MATT|?|
 299||"As Matt's signal grows fainter her breathing becomes more
-labored."|stage direction||
+labored."|stage direction|||
 300|MATT|"I need you to focus. Give me a
-visual... anything."|speech|MATT|F
-301||Ryan's eyes flutter, then roll up into her sockets...|stage direction||
-302|RYAN|It's too fast.|speech|RYAN|F
+visual... anything."|speech|MATT|F|True
+301||Ryan's eyes flutter, then roll up into her sockets...|stage direction|||
+302|RYAN|It's too fast.|speech|RYAN|F|True
 303||"INSIDE THE HELMET-
-Ryan swallows harshly, her throat suddenly dry."|stage direction||
-304|RYAN (CONT'D)|I can't breathe. I can't...breathe...|speech|RYAN|F
+Ryan swallows harshly, her throat suddenly dry."|stage direction|||
+304|RYAN (CONT'D)|I can't breathe. I can't...breathe...|speech|RYAN|F|True
 305||"She inhales and exhales with quick short breaths-
 AHHHH... OHHHH
 AHHHH... OHHHH
@@ -717,48 +717,48 @@ as the sun sets, a sliver of light on the Western Hemisphere.
 A metallic object floating over the Earth is hit by a RAY of the
 sinking sun, and it gleams like a tiny star. Her eyes blink in
 recognition, gleaming with alertness.
-Her intellect engages and she gains a new sense of calm."|stage direction||
+Her intellect engages and she gains a new sense of calm."|stage direction|||
 306|RYAN (CONT'D)|"Houston, this is Dr. Ryan Stone.. I'm
 drifting but I have a visual of
-Explorer."|speech|RYAN|F
+Explorer."|speech|RYAN|F|True
 307||"Her eyes scan the enveloping darkness, trying to get a fix on
 the gleaming orb that is earth, her face alive with
-concentration as she makes calculations."|stage direction||
+concentration as she makes calculations."|stage direction|||
 308|RYAN (CONT'D)|"With North at 12 o'clock, the Shuttle
-is at the center of the dial."|speech|RYAN|F
+is at the center of the dial."|speech|RYAN|F|True
 309||"She frowns as she tumbles backward again, recalculating.
 The sun is slipping behind the Earth. She studies the rim of
-fire until it too slides from view."|stage direction||
+fire until it too slides from view."|stage direction|||
 310|RYAN (CONT'D)|"I can see the Chinese station. No, no,
 no, it's the International Space
-Station."|speech|RYAN|F
+Station."|speech|RYAN|F|True
 311||"The sun's glow illuminates another object in the distance, a
 bright spec hovering over the horizon- the INTERNATIONAL SPACE
-STATION."|stage direction||
-312|RYAN (CONT'D)|ISS is at 6, no, 7 o'clock.|speech|RYAN|F
+STATION."|stage direction|||
+312|RYAN (CONT'D)|ISS is at 6, no, 7 o'clock.|speech|RYAN|F|True
 313||"Just then, the sun's rays recede and the Station DIMS, becoming
 one with the darkness. Ryan blinks, mildly alarmed.
-INSIDE THE HELMET-"|stage direction||
-314|RYAN (CONT'D)|Lieutenant Kowalsky, do you copy?|speech|RYAN|F
-315||Silence.|stage direction||
-316|RYAN (CONT'D)|Explorer, do you copy?|speech|RYAN|F
+INSIDE THE HELMET-"|stage direction|||
+314|RYAN (CONT'D)|Lieutenant Kowalsky, do you copy?|speech|RYAN|F|True
+315||Silence.|stage direction|||
+316|RYAN (CONT'D)|Explorer, do you copy?|speech|RYAN|F|True
 317||"Silence.
 Slowly, the sun recedes further behind the earth and the light
 bathing Ryan's face evaporates. As she is swallowed by the
-darkness, she speaks once again:"|stage direction||
-318|RYAN (CONT'D)|Houston, do you copy?|speech|RYAN|F
+darkness, she speaks once again:"|stage direction|||
+318|RYAN (CONT'D)|Houston, do you copy?|speech|RYAN|F|True
 319||"THE WHOLE FACE OF THE EARTH IS IN SHADOW.
 And so is Ryan. Her eyes dart. It is utterly silent. She spins
-in the darkness, waiting."|stage direction||
+in the darkness, waiting."|stage direction|||
 320|RYAN (CONT'D)|"Houston, this is Mission Specialist
 Ryan Stone. I'm off structure and I'm
-drifting."|speech|RYAN|F
-321||There is only the silence, complete and absolute.|stage direction||
-322|RYAN (CONT'D)|Do you copy?|speech|RYAN|F
+drifting."|speech|RYAN|F|True
+321||There is only the silence, complete and absolute.|stage direction|||
+322|RYAN (CONT'D)|Do you copy?|speech|RYAN|F|True
 323||"Nothing. She watches the earth slip from view yet again.
 When next she speaks, the words are as delicate as snowflakes,
-tripping off her tongue like a prayer..."|stage direction||
-324|RYAN (CONT'D)|Anybody...? Anyone...? Please copy.|speech|RYAN|F
+tripping off her tongue like a prayer..."|stage direction|||
+324|RYAN (CONT'D)|Anybody...? Anyone...? Please copy.|speech|RYAN|F|True
 325||"A soothing light hits Ryan's face.
 THE MOON is rising over the Pacific Ocean.
 It's almost full and its soft cool light pours over the globe,
@@ -772,132 +772,132 @@ afraid to blink as she watches the...
 transmission stitches its way through the silence, listening as
 STATIC SINGS through her helmet, stinging her ears with the
 sound of...
-Her name."|stage direction||
+Her name."|stage direction|||
 326|"MATT
-(ON RADIO)"|... Stone. Do you copy?|speech|MATT|F
+(ON RADIO)"|... Stone. Do you copy?|speech|MATT|F|True
 327|RYAN|"(almost to herself)
-Lieutenant Kowalsky?..."|speech|RYAN|F
-328||The flickering star begins to thicken...|stage direction||
+Lieutenant Kowalsky?..."|speech|RYAN|F|True
+328||The flickering star begins to thicken...|stage direction|||
 329|"MATT
-(ON RADIO)"|Repeat. Do you copy?|speech|MATT|F
-330|RYAN|YES! YES! I copy! I'm here!|speech|RYAN|F
-331||As she watches the figure of an astronaut takes shape.|stage direction||
+(ON RADIO)"|Repeat. Do you copy?|speech|MATT|F|True
+330|RYAN|YES! YES! I copy! I'm here!|speech|RYAN|F|True
+331||As she watches the figure of an astronaut takes shape.|stage direction|||
 332|"MATT
-(ON RADIO)"|Flash your light.|speech|MATT|F
-333|RYAN|My light?|speech|RYAN|F
+(ON RADIO)"|Flash your light.|speech|MATT|F|True
+333|RYAN|My light?|speech|RYAN|F|True
 334|"MATT
-(ON RADIO)"|So I can see you.|speech|MATT|F
-335|RYAN|Here! Here!|speech|RYAN|F
+(ON RADIO)"|So I can see you.|speech|MATT|F|True
+335|RYAN|Here! Here!|speech|RYAN|F|True
 336||"Ryan opens a pouch in her suit, fishes out a FLASHLIGHT. Hands
-trembling she shines it toward the approaching dot."|stage direction||
+trembling she shines it toward the approaching dot."|stage direction|||
 337|"MATT
 (ON RADIO)"|"There you are. Hang tight. Report
-your status."|speech|MATT|F
-338|RYAN|I'm... I'm alright... I'm fine.|speech|RYAN|F
+your status."|speech|MATT|F|True
+338|RYAN|I'm... I'm alright... I'm fine.|speech|RYAN|F|True
 339|"MATT
-(ON RADIO)"|Your status! Give me your readings?|speech|MATT|F
-340|RYAN|3.6 psi, I think.|speech|RYAN|F
-341|MATT|Your O2. Give me your O2.|speech|MATT|F
-342|RYAN|Steady at eight percent...no seven...|speech|RYAN|F
+(ON RADIO)"|Your status! Give me your readings?|speech|MATT|F|True
+340|RYAN|3.6 psi, I think.|speech|RYAN|F|True
+341|MATT|Your O2. Give me your O2.|speech|MATT|F|True
+342|RYAN|Steady at eight percent...no seven...|speech|RYAN|F|True
 343|"MATT
 (ON RADIO)"|"You're breathing too fast. You're
 burning oxygen. We don't want to do
-that. We want to relax. Copy."|speech|MATT|F
-344|RYAN|Copy.|speech|RYAN|F
-345|MATT|Nearly there.|speech|MATT|F
-346|RYAN|Please hurry.|speech|RYAN|F
+that. We want to relax. Copy."|speech|MATT|F|True
+344|RYAN|Copy.|speech|RYAN|F|True
+345|MATT|Nearly there.|speech|MATT|F|True
+346|RYAN|Please hurry.|speech|RYAN|F|True
 347||"Ryan can see Matt quickly growing in size. She continues to
-FLASH HER LIGHT."|stage direction||
+FLASH HER LIGHT."|stage direction|||
 348|"MATT
-(ON RADIO)"|You can holster that torch, Dr. Stone.|speech|MATT|F
-349|RYAN|Oh. Sorry.|speech|RYAN|F
+(ON RADIO)"|You can holster that torch, Dr. Stone.|speech|MATT|F|True
+349|RYAN|Oh. Sorry.|speech|RYAN|F|True
 350||"She slips the light back into her side pouch just as Matt
-appears as if from nowhere and GRABS HER."|stage direction||
-351|MATT|Gotcha.|speech|MATT|F
-352|RYAN|Arghh!|speech|RYAN|F
+appears as if from nowhere and GRABS HER."|stage direction|||
+351|MATT|Gotcha.|speech|MATT|F|True
+352|RYAN|Arghh!|speech|RYAN|F|True
 353||"Ryan holds on to Matt. Instantly, they begin to spin together.
-Matt takes out a tether."|stage direction||
-354|MATT|Now, I'm going to tether you to me.|speech|MATT|F
+Matt takes out a tether."|stage direction|||
+354|MATT|Now, I'm going to tether you to me.|speech|MATT|F|True
 355||"Ryan is paralyzed, holding onto Matt tightly and looking at him
-in fright. He stares back."|stage direction||
+in fright. He stares back."|stage direction|||
 356|MATT (CONT'D)|"I know. You never realized how
-devastatingly good-looking I am."|speech|MATT|F
-357||Matt grins.|stage direction||
+devastatingly good-looking I am."|speech|MATT|F|True
+357||Matt grins.|stage direction|||
 358|MATT (CONT'D)|"But I need you to stop staring and
-help me with the tether. Okay?"|speech|MATT|F
-359|RYAN|Okay. Okay. Okay. Okay, Ohh I got it.|speech|RYAN|F
+help me with the tether. Okay?"|speech|MATT|F|True
+359|RYAN|Okay. Okay. Okay. Okay, Ohh I got it.|speech|RYAN|F|True
 360||"He runs the other end of the tether to the harness on Ryan's
-suit and attaches it."|stage direction||
+suit and attaches it."|stage direction|||
 361|MATT|"Ok. So far so good. Now listen. I'm
 going to give you a little push, just
-so you're clear of the jets--"|speech|MATT|F
+so you're clear of the jets--"|speech|MATT|F|True
 362|"RYAN
 NO--
-MATT"|Sorry. Not a push, more like a nudge.|speech|RYANNO--MATT|?
-363|RYAN|No... No... No... Wait... Don't.|speech|RYAN|F
+MATT"|Sorry. Not a push, more like a nudge.|speech|RYANNO--MATT|?|
+363|RYAN|No... No... No... Wait... Don't.|speech|RYAN|F|True
 364||"Matt places his hand on her breastplate and gives her a gentle
-nudge. Drifting again she begins to freak."|stage direction||
-365|RYAN (CONT'D)|Nooooooo!!!! Dammit!!!|speech|RYAN|F
+nudge. Drifting again she begins to freak."|stage direction|||
+365|RYAN (CONT'D)|Nooooooo!!!! Dammit!!!|speech|RYAN|F|True
 366||"The tether tenses and she stops nine feet away from Matt.
 Matt ignites the thrusters, tugging Ryan behind him. But this
 proves a difficult endeavor as her momentum drags him, changing
-his direction."|stage direction||
-367|MATT|See? Where you go, I go.|speech|MATT|F
+his direction."|stage direction|||
+367|MATT|See? Where you go, I go.|speech|MATT|F|True
 368||"Matt ignites a new thrust to re-direct his position. As he does
-so Ryan's change of momentum makes him swing again."|stage direction||
-369|MATT (CONT'D)|Better. Let's get out of here.|speech|MATT|F
+so Ryan's change of momentum makes him swing again."|stage direction|||
+369|MATT (CONT'D)|Better. Let's get out of here.|speech|MATT|F|True
 370||"Using his thrusters, Matt negotiates a new position and,
 igniting a long thrust, he jets away.
-Ryan cannot repress the anger boiling up, and SHE SCREAMS-"|stage direction||
-371|RYAN|Ahh Dammit!|speech|RYAN|F
-372|MATT|I know what you mean.|speech|MATT|F
-373|RYAN|Ahhh Dammit.|speech|RYAN|F
+Ryan cannot repress the anger boiling up, and SHE SCREAMS-"|stage direction|||
+371|RYAN|Ahh Dammit!|speech|RYAN|F|True
+372|MATT|I know what you mean.|speech|MATT|F|True
+373|RYAN|Ahhh Dammit.|speech|RYAN|F|True
 374|MATT|"You're burning oxygen, we're going to
 go back to the shuttle. How's that for
-a plan. Copy?"|speech|MATT|F
+a plan. Copy?"|speech|MATT|F|True
 375|"RYAN
 FUCK
-MATT"|Right copy that.|speech|RYANFUCKMATT|?
+MATT"|Right copy that.|speech|RYANFUCKMATT|?|
 376||"As Matt accelerates toward a lower orbit, his momentum takes
-over, steadying Ryan's swing."|stage direction||
+over, steadying Ryan's swing."|stage direction|||
 377|"RYAN
 FUCK
 MATT"|"MATT (CONT""D) (CONT'D)
 Houston in the blind, this is
 Kowalsky. Dr Stone and I are making
 our way to base, please prepare
-Airlock for arrival. Copy?"|speech|RYANFUCKMATT|?
+Airlock for arrival. Copy?"|speech|RYANFUCKMATT|?|
 378||"They descend, gliding through pieces of debris. Among the space
 junk, a Solar Panel from the Hubble is distinguished.
-Matt eyes a small dot in the distance: the Shuttle."|stage direction||
+Matt eyes a small dot in the distance: the Shuttle."|stage direction|||
 379|MATT (CONT'D)|"Houston this is Kowalsky. How do you
-copy?"|speech|MATT|F
-380|RYAN|Why aren't they answering?|speech|RYAN|F
-381|MATT|It seems like communications are lost.|speech|MATT|F
+copy?"|speech|MATT|F|True
+380|RYAN|Why aren't they answering?|speech|RYAN|F|True
+381|MATT|It seems like communications are lost.|speech|MATT|F|True
 382|RYAN|"Can they hear us on an alternate
-frequency?"|speech|RYAN|F
+frequency?"|speech|RYAN|F|True
 383|MATT|"We don't know. That's why we keep
 talking. If someone is listening they
 might just save your life. Set your
-watch for ninety minutes."|speech|MATT|F
+watch for ninety minutes."|speech|MATT|F|True
 384||"Matt reaches for a digital watch strapped to his wrist and sets
-up the timer for- 90 MINUTES."|stage direction||
-385|RYAN|Why ninety?|speech|RYAN|F
+up the timer for- 90 MINUTES."|stage direction|||
+385|RYAN|Why ninety?|speech|RYAN|F|True
 386|MATT|"Houston clocked that debris at fifty
 thousand miles per hour. Factoring in
 our current orbit, I reckon we've got
 90 minutes before we play duck and
-cover again."|speech|MATT|F
+cover again."|speech|MATT|F|True
 387||"Ryan sets her watch, studies the counter as it begins to count
-down."|stage direction||
-388|RYAN|02 down to six percent.|speech|RYAN|F
-389||As they travel, the Shuttle begins to take form.|stage direction||
+down."|stage direction|||
+388|RYAN|02 down to six percent.|speech|RYAN|F|True
+389||As they travel, the Shuttle begins to take form.|stage direction|||
 390|MATT|"Okay. Pretty scary shit being
-untethered up here, isn't it?"|speech|MATT|F
-391|RYAN|Yeah. Pretty scary shit.|speech|RYAN|F
+untethered up here, isn't it?"|speech|MATT|F|True
+391|RYAN|Yeah. Pretty scary shit.|speech|RYAN|F|True
 392|MATT|"(after a beat)
-You did all right."|speech|MATT|F
-393||Silence.|stage direction||
+You did all right."|speech|MATT|F|True
+393||Silence.|stage direction|||
 394|MATT (CONT'D)|"(to the Shuttle)
 Houston, in the blind. This is
 Kowalsky. Our current location is
@@ -905,35 +905,35 @@ approximately 900 meters out from the
 Explorer. Dr. Stone and I would like
 to retrieve the body of Mission
 Specialist Shariff and return it to
-Shuttle. Am I a go to retrieve?"|speech|MATT|F
-395||Silence.|stage direction||
-396|MATT (CONT'D)|Roger that.|speech|MATT|F
+Shuttle. Am I a go to retrieve?"|speech|MATT|F|True
+395||Silence.|stage direction|||
+396|MATT (CONT'D)|Roger that.|speech|MATT|F|True
 397||"Matt changes direction and approaches Shariff. He has to ignite
 several small thrusts to try and steady his direction, fighting
-against Ryan's momentum."|stage direction||
-398|RYAN|Where is he? Where is he?|speech|RYAN|F
+against Ryan's momentum."|stage direction|||
+398|RYAN|Where is he? Where is he?|speech|RYAN|F|True
 399||"Shariff's body is tethered to a PANEL that was ripped away from
 the Explorer. Matt approaches the panel and ignites the
 thrusters to slow down his course, and-
 He grabs onto it. Ryan, continuing her momentum, crashes against
 Shariff's body. The contact slows her trajectory, but it throws
-Shariff away, his tether tensing, pulling the panel with him."|stage direction||
-400|RYAN (CONT'D)|Oh, my God. Oh, my God.|speech|RYAN|F
+Shariff away, his tether tensing, pulling the panel with him."|stage direction|||
+400|RYAN (CONT'D)|Oh, my God. Oh, my God.|speech|RYAN|F|True
 401||"Matt, holding on to the metal, spins with it. He detaches
 Shariff's tether from the panel and attaches it to himself.
 He lets the panel go and immediately ignites his thruster,
 pulling the two tethers behind him which, as they tense, bring
-Ryan and Shariff closer together."|stage direction||
-402|MATT|Grab him!|speech|MATT|F
-403|RYAN|I'm trying. I'm trying.|speech|RYAN|F
-404|MATT|Quick. You're pulling me away.|speech|MATT|F
-405|RYAN|I got him. I got him.|speech|RYAN|F
+Ryan and Shariff closer together."|stage direction|||
+402|MATT|Grab him!|speech|MATT|F|True
+403|RYAN|I'm trying. I'm trying.|speech|RYAN|F|True
+404|MATT|Quick. You're pulling me away.|speech|MATT|F|True
+405|RYAN|I got him. I got him.|speech|RYAN|F|True
 406||"Matt tries to ignite a very long thrust in the direction of the
 Shuttle, but this is difficult as the momentum of the other two
-bodies pulls him in all directions."|stage direction||
+bodies pulls him in all directions."|stage direction|||
 407|MATT|"Clutch him like he's your Valentine. I
 can't gauge my thrust with you two yo-
-yoing around."|speech|MATT|F
+yoing around."|speech|MATT|F|True
 408||"Tentatively Ryan extends her right hand to grab onto Shariff's
 body harness. And she sees-
 Shariff's broken helmet. A hole the size of a soft ball pierces
@@ -948,26 +948,26 @@ complicated confusing her eyes.
 The photograph floats in the empty space above Planet Earth.
 OUTER SPACE.
 As they approach, the damage to the Shuttle becomes apparent.
-Explorer has been badly hit."|stage direction||
+Explorer has been badly hit."|stage direction|||
 409|MATT|"(under his breath)
-Jesus..."|speech|MATT|F
+Jesus..."|speech|MATT|F|True
 410||"The Shuttle has suffered devastating damage. The tail is beyond
 repair, one wing is completely destroyed, while the other
-waffles weakly, nearly sheared from the fuselage."|stage direction||
+waffles weakly, nearly sheared from the fuselage."|stage direction|||
 411|"MATT (CONT'D)
 (GRIMLY)"|"Here's hoping you've got one monster
 insurance policy, Houston. Damages to
 Explorer are... it's totaled. Will
-commence search for survivors."|speech|MATT|F
-412|RYAN|02 down to five percent.|speech|RYAN|F
+commence search for survivors."|speech|MATT|F|True
+412|RYAN|02 down to five percent.|speech|RYAN|F|True
 413||"Matt thrusts to slow down his trajectory and slowly bumps
 against the windshield of the COCKPIT.
 At the mercy of Matt's momentum, Ryan hits hard against the nose
 of the Shuttle, losing her grip on Shariff.
 As she caroms off, she grabs onto what is left of the cockpit's
-window."|stage direction||
+window."|stage direction|||
 414|MATT|"All right, here we go. Careful of the
-edges."|speech|MATT|F
+edges."|speech|MATT|F|True
 415||"Matt takes his flashlight and looks through the broken windows,
 lighting the cockpit.
 Ryan pulls herself up and looks-
@@ -982,51 +982,51 @@ The face of a second astronaut appears right in front of Ryan
 and crashes against her visor.
 The eyes are frozen, unblinking. Ryan GASPS, wheeling backward
 and away.
-Matt clicks Shariff's harness onto the Shuttle."|stage direction||
+Matt clicks Shariff's harness onto the Shuttle."|stage direction|||
 416|MATT (CONT'D)|"Houston, in the blind. To confirm.
 Mission Specialist Dr. Stone and
 myself, Mission Commander Matthew
 Kowalsky, are the sole survivors of
-STS-157."|speech|MATT|F
+STS-157."|speech|MATT|F|True
 417||"Matt turns to Ryan, who is staring at the dead astronauts
-inside."|stage direction||
+inside."|stage direction|||
 418|RYAN|"I apologize for not complying. I
 should've stopped working as soon as
-you instructed me to."|speech|RYAN|F
+you instructed me to."|speech|RYAN|F|True
 419|MATT|"We were going to be hit no matter
 what. There was nothing you could've
-done to change that."|speech|MATT|F
+done to change that."|speech|MATT|F|True
 420||"He begins to reach out, hesitates briefly, then lightly touches
-her shoulder."|stage direction||
-421|MATT (CONT'D)|Hey.|speech|MATT|F
-422|RYAN|Yes?|speech|RYAN|F
-423||She turns, no elbows this time.|stage direction||
+her shoulder."|stage direction|||
+421|MATT (CONT'D)|Hey.|speech|MATT|F|True
+422|RYAN|Yes?|speech|RYAN|F|True
+423||She turns, no elbows this time.|stage direction|||
 424|MATT|"Alright... We have to get ourselves to
-the Space Station. There."|speech|MATT|F
-425||Matt gestures vaguely to a bright dot in distance.|stage direction||
+the Space Station. There."|speech|MATT|F|True
+425||Matt gestures vaguely to a bright dot in distance.|stage direction|||
 426|MATT (CONT'D)|"It's a bit of a hike, but it's our
-only..."|speech|MATT|F
-427|(CATCHING HIMSELF)|It's our best option. Agreed?|speech||
-428||She stares at the dot.|stage direction||
+only..."|speech|MATT|F|True
+427|(CATCHING HIMSELF)|It's our best option. Agreed?|speech|||
+428||She stares at the dot.|stage direction|||
 429|MATT (CONT'D)|"Dr. Stone...
 (as she turns)
-Agreed?"|speech|MATT|F
-430||She studies his face and then, finally, nods.|stage direction||
-431|RYAN|Agreed.|speech|RYAN|F
-432|MATT|Alright. After you.|speech|MATT|F
+Agreed?"|speech|MATT|F|True
+430||She studies his face and then, finally, nods.|stage direction|||
+431|RYAN|Agreed.|speech|RYAN|F|True
+432|MATT|Alright. After you.|speech|MATT|F|True
 433||"He gently pushes her into space. She slowly drifts away from the
 Explorer but is suddenly stopped by the safety tether.
 Matt ignites his propellers and, giving a couple of small
 thrusts, he combats Ryan's swing. And with a LONGER THRUST-
 He shoots forward, pulling Ryan behind him.
 The two astronauts push forward together, leaving behind the
-shell of the Shuttle and the remains of the Hubble."|stage direction||
+shell of the Shuttle and the remains of the Hubble."|stage direction|||
 434|MATT (CONT'D)|"Houston in the blind, this is
 Kowalsky. Dr. Stone and I have
 determined to proceed to ISS and use
 one of their Soyuz for re-entry. ISS
 if copy, please send rescue mission.
-Repeat please dispatch rescue mission."|speech|MATT|F
+Repeat please dispatch rescue mission."|speech|MATT|F|True
 435||"They are heading toward a small point in the distance, the Space
 Station, which is in a lower orbit.
 OUTER SPACE. 550 KM ABOVE EARTH.
@@ -1041,107 +1041,107 @@ THE SUN looks brighter and clearer than ever outside of Earth's
 atmosphere. The oceans and the continents brighten as its light
 spills over the Earth beneath them.
 Warm rays of sun caress the two astronauts as they propel
-themselves across the empty expanse."|stage direction||
-436|RYAN|02 down to two percent.|speech|RYAN|F
-437|MATT|We're getting there.|speech|MATT|F
-438|MATT (CONT'D)|Beautiful, don't you think?|speech|MATT|F
-439|RYAN|What?|speech|RYAN|F
+themselves across the empty expanse."|stage direction|||
+436|RYAN|02 down to two percent.|speech|RYAN|F|True
+437|MATT|We're getting there.|speech|MATT|F|True
+438|MATT (CONT'D)|Beautiful, don't you think?|speech|MATT|F|True
+439|RYAN|What?|speech|RYAN|F|True
 440|MATT|"The sunrise. That's what I'm going to
-miss the most."|speech|MATT|F
+miss the most."|speech|MATT|F|True
 441||"But Ryan is not into the view right now. She's stricken with
 fear. Her jaw is clenched and her eyes are almost closed.
-Matt looks at the dark emptiness that engulfs him and smiles."|stage direction||
-442|MATT (CONT'D)|So, where's home, Dr. Stone?|speech|MATT|F
-443||Ryan keeps her eyes closed, doesn't answer. Matt, trying to|stage direction||
-444||DISTRACT HER-|location||
-445|MATT (CONT'D)|Ryan. Where's home?|speech|MATT|F
+Matt looks at the dark emptiness that engulfs him and smiles."|stage direction|||
+442|MATT (CONT'D)|So, where's home, Dr. Stone?|speech|MATT|F|True
+443||Ryan keeps her eyes closed, doesn't answer. Matt, trying to|stage direction|||
+444||DISTRACT HER-|location|||
+445|MATT (CONT'D)|Ryan. Where's home?|speech|MATT|F|True
 446||"Ryan opens her eyes, but still she doesn't dare to look out of
-the helmet."|stage direction||
-447|RYAN|Home?|speech|RYAN|F
+the helmet."|stage direction|||
+447|RYAN|Home?|speech|RYAN|F|True
 448|MATT|"Ah ha. Down there. Mother Earth. Where
-do you pitch your tent?"|speech|MATT|F
-449|RYAN|Lake Zurich.|speech|RYAN|F
-450|MATT|Where the hell is that?|speech|MATT|F
-451|RYAN|Illinois.|speech|RYAN|F
+do you pitch your tent?"|speech|MATT|F|True
+449|RYAN|Lake Zurich.|speech|RYAN|F|True
+450|MATT|Where the hell is that?|speech|MATT|F|True
+451|RYAN|Illinois.|speech|RYAN|F|True
 452|MATT|"Illinois. Central time zone. That
 makes it roughly... 8pm right now.
 What are the good people of Lake
 Zurich doing at 8 o'clock in the
-evening?"|speech|MATT|F
+evening?"|speech|MATT|F|True
 453||"Ryan tries to overcome her fear and looks out. She frowns,
 terrified by the sight, and hides her face once more inside the
-helmet."|stage direction||
-454|RYAN|I don't know...|speech|RYAN|F
-455|MATT|What would you be doing?|speech|MATT|F
+helmet."|stage direction|||
+454|RYAN|I don't know...|speech|RYAN|F|True
+455|MATT|What would you be doing?|speech|MATT|F|True
 456||"She tries again. This time she forces herself and stares out at
-the Earth, which is over 500 kilometers below her."|stage direction||
+the Earth, which is over 500 kilometers below her."|stage direction|||
 457|MATT (CONT'D)|"Come on. It's 8 o'clock. You've just
 clocked out of the hospital after
 putting in your customary 18-hour
-shift. You're driving home..."|speech|MATT|F
+shift. You're driving home..."|speech|MATT|F|True
 458||"Ryan's wide open eyes are transfixed on Earth, like a deer in
-headlights."|stage direction||
-459|RYAN|The radio. I listen to the radio...|speech|RYAN|F
+headlights."|stage direction|||
+459|RYAN|The radio. I listen to the radio...|speech|RYAN|F|True
 460|MATT|"There we go. Let me guess. NPR?
-Classical. Top for--"|speech|MATT|F
+Classical. Top for--"|speech|MATT|F|True
 461|RYAN|"Anything. Doesn't matter. As long as
-they don't talk. I just drive..."|speech|RYAN|F
+they don't talk. I just drive..."|speech|RYAN|F|True
 462||"Her glassy eyes reveal a strong emotion growing inside of her,
 taking over her body. It is not fear, it is something deeper and
 more painful.
-Matt studies her curiously."|stage direction||
-463|MATT|What do you miss down there?|speech|MATT|F
+Matt studies her curiously."|stage direction|||
+463|MATT|What do you miss down there?|speech|MATT|F|True
 464||"Ryan looks at the Earth. It never felt so far away.
-A long silence without an answer."|stage direction||
-465|MATT (CONT'D)|Is there a Mr. Stone?|speech|MATT|F
+A long silence without an answer."|stage direction|||
+465|MATT (CONT'D)|Is there a Mr. Stone?|speech|MATT|F|True
 466||"She frowns, unable to comprehend this initially, as if it were a
-particularly complicated bit of math, then shakes her head."|stage direction||
-467|RYAN|No...|speech|RYAN|F
+particularly complicated bit of math, then shakes her head."|stage direction|||
+467|RYAN|No...|speech|RYAN|F|True
 468|MATT|"Nobody special? Someone down there,
-looking up, thinking of you?"|speech|MATT|F
+looking up, thinking of you?"|speech|MATT|F|True
 469||"Ryan closes her eyes. She remains silent. A silence that can't
-hide an unspeakable pain."|stage direction||
-470|RYAN|I had a daughter.|speech|RYAN|F
+hide an unspeakable pain."|stage direction|||
+470|RYAN|I had a daughter.|speech|RYAN|F|True
 471||"Her eyes flutter, then open. She is frozen in this moment, as if
 stunned.
 Her gaze shifts and finds-
-Matt, studying her in his MIRROR."|stage direction||
-472|MATT|What was her name?|speech|MATT|F
+Matt, studying her in his MIRROR."|stage direction|||
+472|MATT|What was her name?|speech|MATT|F|True
 473|RYAN|"Sarah... She was four. Stupidest thing-
 a school trip to the swimming pool.
 She was playing tag- she slipped, hit
 her head, and that was it... She loved
-tag. I'm sure she was laughing."|speech|RYAN|F
-474||She looks away, toward Earth. It looks small. Remote.|stage direction||
+tag. I'm sure she was laughing."|speech|RYAN|F|True
+474||She looks away, toward Earth. It looks small. Remote.|stage direction|||
 475|RYAN (CONT'D)|"When I received the call I was driving
 and ever since that's what I do. I
 wake up, I go to work and then I just
-drive."|speech|RYAN|F
+drive."|speech|RYAN|F|True
 476||"Matt finally averts his eyes. He rolls his wrist over, consults
-the timer, watching the numbers slowly count down."|stage direction||
-477|RYAN (CONT'D)|02 down to one percent.|speech|RYAN|F
+the timer, watching the numbers slowly count down."|stage direction|||
+477|RYAN (CONT'D)|02 down to one percent.|speech|RYAN|F|True
 478|MATT|"Well, well, what d'you know. I have
-good news and bad news."|speech|MATT|F
-479|RYAN|Uhuh?|speech|RYAN|F
+good news and bad news."|speech|MATT|F|True
+479|RYAN|Uhuh?|speech|RYAN|F|True
 480|MATT|"The good news is we're five minutes
 from the ISS and I know where
 the Russians stash their vodka... and
 that's a good thing cus I'm running
 out of fumes. Bad news is I'm gonna be
 ten minutes short of......breaking
-Anatoly's record."|speech|MATT|F
+Anatoly's record."|speech|MATT|F|True
 481||"SUDDENLY, COMING FROM INSIDE RYAN'S HELMET-
-BEEP. BEEP. BEEP."|stage direction||
-482|RYAN|Mmm...Mmmm.|speech|RYAN|F
-483|MATT|What?|speech|MATT|F
+BEEP. BEEP. BEEP."|stage direction|||
+482|RYAN|Mmm...Mmmm.|speech|RYAN|F|True
+483|MATT|What?|speech|MATT|F|True
 484|RYAN|"I'm red lining... My O2 tank pressure
-is low..."|speech|RYAN|F
+is low..."|speech|RYAN|F|True
 485|MATT|"The tank may be empty but there's
 still oxygen in your suit, so sip,
 Ryan. Don't gulp. It's wine, not beer.
-Sip. We'll get you there."|speech|MATT|F
-486||She nods.|stage direction||
-487|MATT (CONT'D)|Let's go.|speech|MATT|F
+Sip. We'll get you there."|speech|MATT|F|True
+486||She nods.|stage direction|||
+487|MATT (CONT'D)|Let's go.|speech|MATT|F|True
 488||"Matt gives Ryan a gentle push, waiting until the tether goes
 taut, and-
 He gives a SMALL THRUST to position himself in the right
@@ -1151,34 +1151,34 @@ ones, immediately gaining speed, descending towards-
 THE SPACE STATION-
 Which is half a mile away, and now all of its modules are
 clearly visible. It also becomes clear that-
-IT WAS HIT BY THE DEBRIS."|stage direction||
+IT WAS HIT BY THE DEBRIS."|stage direction|||
 489|MATT (CONT'D)|"Houston in the blind we have visual of
 the ISS. Station must have been
 evacuated because first Soyuz is
 missing. Second Soyuz exhibits surface
 damage and chute has deployed. It's
 use as escape pod for re-entry to
-Earth is impossible."|speech|MATT|F
+Earth is impossible."|speech|MATT|F|True
 490||"The surface of a module is badly scratched and some solar panels
 have been ripped.
 THE SECOND SOYUZ becomes visible, attached to the Station's
 Docking Module. A piece of red and white fabric floats around
 the spherical capsule.
-Ryan's losing her breath."|stage direction||
-491|RYAN|Shouldn't we be turning? We're|speech|RYAN|F
+Ryan's losing her breath."|stage direction|||
+491|RYAN|Shouldn't we be turning? We're|speech|RYAN|F|True
 492|"DRIFTING AGAIN--
 MATT"|"Sip, Ryan. Sip. Drifting is good. We
 want to drift. I wasn't kidding about
 those fumes. This can has one or two
-good thrusts left. If we're lucky...."|speech|DRIFTING AGAIN--MATT|?
+good thrusts left. If we're lucky...."|speech|DRIFTING AGAIN--MATT|?|
 493||"They approach the Space Station, which is just ahead of them and
 a hundred meters below.
-She's sweating and starts to hyperventilate."|stage direction||
-494|MATT (CONT'D)|Steady...|speech|MATT|F
-495||She looks down, eyes the Station passing beneath them.|stage direction||
-496|MATT (CONT'D)|Ready... aim...|speech|MATT|F
-497||It looks as though the Station is going to slip away altogether.|stage direction||
-498|MATT (CONT'D)|...fire.|speech|MATT|F
+She's sweating and starts to hyperventilate."|stage direction|||
+494|MATT (CONT'D)|Steady...|speech|MATT|F|True
+495||She looks down, eyes the Station passing beneath them.|stage direction|||
+496|MATT (CONT'D)|Ready... aim...|speech|MATT|F|True
+497||It looks as though the Station is going to slip away altogether.|stage direction|||
+498|MATT (CONT'D)|...fire.|speech|MATT|F|True
 499||"Matt triggers his THRUSTER, turning sharply. Ryan's trajectory
 carries her in a straight line, until the tether tenses,
 breaking Matt's direction.
@@ -1188,11 +1188,11 @@ straight down toward the Station, but at great speed.
 The Station is getting very close, and they're going very fast.
 Matt ignites the FRONTAL THRUSTER, which begins to slow him
 down, but the thrust stops.
-Ryan, following her own momentum, begins to pass Matt."|stage direction||
-500|RYAN|Break... You have to break.|speech|RYAN|F
+Ryan, following her own momentum, begins to pass Matt."|stage direction|||
+500|RYAN|Break... You have to break.|speech|RYAN|F|True
 501|MATT|"I can't. Can's empty. We're coming in
 fast and we're going to hit hard. Grab
-onto anything you can and hold tight!"|speech|MATT|F
+onto anything you can and hold tight!"|speech|MATT|F|True
 502||"Just then Ryan CRASHES against the SOLAR PANEL, but is unable to
 grab hold. As she tumbles past, the body of the Station looms.
 Matt misses the solar panels, and COLLIDES against the Station.
@@ -1205,11 +1205,11 @@ she's floating too high.
 She's quickly reaching the end of the Station, there is only one
 handle left ahead, her last chance before floating away into the
 black void.
-She extends her arm and GRABS the handle tightly for dear life"|stage direction||
-503||AND-|location||
+She extends her arm and GRABS the handle tightly for dear life"|stage direction|||
+503||AND-|location|||
 504||"SHE STOPS.
-She's holding onto the handle."|stage direction||
-505|RYAN|I got it. I got it.|speech|RYAN|F
+She's holding onto the handle."|stage direction|||
+505|RYAN|I got it. I got it.|speech|RYAN|F|True
 506||"INSIDE THE HELMET-
 She looks up and sees-
 Matt is floating straight toward her and-
@@ -1221,193 +1221,193 @@ Her drifting is intercepted by a Solar Panel. She crashes
 against it, shattering it, as Matt rolls above it.
 Ryan bounces down towards the Earth, tensing the tether, pulling
 Matt, making him descend over the other side of the panel.
-The sharp edges of the broken panels cut the tether in two."|stage direction||
+The sharp edges of the broken panels cut the tether in two."|stage direction|||
 507|RYAN (CONT'D)|"The tether broke. I'm detached. I'm
-I'm detached."|speech|RYAN|F
-508|MATT|Grab a hold. Grab anything.|speech|MATT|F
+I'm detached."|speech|RYAN|F|True
+508|MATT|Grab a hold. Grab anything.|speech|MATT|F|True
 509||"Ryan is drifting away from the Station. She sees the infinite
 black void ahead of her and-
 HER FOOT GETS STUCK IN THE PARACHUTE.
 It becomes tangled in the strings and fabric, slowing her down.
-Ryan is panting, her face covered in sweat. She turns back and"|stage direction||
-510||SEES-|location||
+Ryan is panting, her face covered in sweat. She turns back and"|stage direction|||
+510||SEES-|location|||
 511||"Matt rolling, drifting in her direction.
 She stretches out her arm.
-Matt's arm is also outstretched."|stage direction||
+Matt's arm is also outstretched."|stage direction|||
 512|"MATT (CONT'D)
-(AN EDGE)"|Give me... give me five here, Ryan.|speech|MATT|F
+(AN EDGE)"|Give me... give me five here, Ryan.|speech|MATT|F|True
 513||"He's trying to make light of it, but he's really struggling to
 reach her.
 Ryan stretches farther.
 Matt's hand comes closer to hers.
-The tips of their fingers are almost touching."|stage direction||
-514|RYAN|I've got you. I've got you--|speech|RYAN|F
+The tips of their fingers are almost touching."|stage direction|||
+514|RYAN|I've got you. I've got you--|speech|RYAN|F|True
 515||"The very tips of their fingers touch --
 BUT THEY MISS.
-As Matt drifts past."|stage direction||
-516|MATT|Shit... shit...|speech|MATT|F
+As Matt drifts past."|stage direction|||
+516|MATT|Shit... shit...|speech|MATT|F|True
 517|RYAN|"No. No. No. Don't you. No. Don't you.
-Don't. Don't. NO"|speech|RYAN|F
+Don't. Don't. NO"|speech|RYAN|F|True
 518||"As the parachute tenses, she STOPS.
-The tether attached to Matt's suit passes two feet away from her"|stage direction||
-519||AND-|location||
+The tether attached to Matt's suit passes two feet away from her"|stage direction|||
+519||AND-|location|||
 520||"Ryan grabs the tether. It slides through her closed fist, until-
-Her grip tightens and the tether STOPS."|stage direction||
-521|RYAN (CONT'D)|Gotcha!|speech|RYAN|F
+Her grip tightens and the tether STOPS."|stage direction|||
+521|RYAN (CONT'D)|Gotcha!|speech|RYAN|F|True
 522||"Matt's momentum is now pulling Ryan, dragging her loose from the
-parachute."|stage direction||
-523|MATT|You have to let me go.|speech|MATT|F
-524|RYAN|What? No--|speech|RYAN|F
-525|MATT|You have to.|speech|MATT|F
-526|RYAN|No!|speech|RYAN|F
+parachute."|stage direction|||
+523|MATT|You have to let me go.|speech|MATT|F|True
+524|RYAN|What? No--|speech|RYAN|F|True
+525|MATT|You have to.|speech|MATT|F|True
+526|RYAN|No!|speech|RYAN|F|True
 527|MATT|"Those ropes are too loose,
 I'm pulling you with me. You have to
-let me go or we both die--"|speech|MATT|F
-528|RYAN|I'm not letting you go! We're fine.|speech|RYAN|F
+let me go or we both die--"|speech|MATT|F|True
+528|RYAN|I'm not letting you go! We're fine.|speech|RYAN|F|True
 529||"Her leg slides through the loose rope and she floats further
 out, being snagged at the last minute by a tether around her
-foot. (We move from high-angle to low angle two shot). As this"|stage direction||
-530||HAPPENS:|location||
-531|MATT|Ryan!|speech|MATT|F
-532|RYAN|You're not going anywhere, you're not|speech|RYAN|F
+foot. (We move from high-angle to low angle two shot). As this"|stage direction|||
+530||HAPPENS:|location|||
+531|MATT|Ryan!|speech|MATT|F|True
+532|RYAN|You're not going anywhere, you're not|speech|RYAN|F|True
 533|"GOING ANYWHERE--
-MATT"|It's not up to you.|speech|GOING ANYWHERE--MATT|?
-534||Matt begins to unharness the tether.|stage direction||
-535|RYAN|Please don't do this.|speech|RYAN|F
-536||Matt has unhooked the tether and is holding it in his hand.|stage direction||
+MATT"|It's not up to you.|speech|GOING ANYWHERE--MATT|?|
+534||Matt begins to unharness the tether.|stage direction|||
+535|RYAN|Please don't do this.|speech|RYAN|F|True
+536||Matt has unhooked the tether and is holding it in his hand.|stage direction|||
 537|RYAN (CONT'D)|"Please don't do this. Please don't do
-this."|speech|RYAN|F
+this."|speech|RYAN|F|True
 538|MATT|"You're going to make it Ryan.
 RYAN (O.S.)
-No!"|speech|MATT|F
+No!"|speech|MATT|F|True
 539||"He opens his hand, letting go of the tether, and BEGINS TO FLOAT
 AWAY.
 Relieved of Matt's pull, the parachute begins to retrieve,
-pulling Ryan closer to the Station."|stage direction||
-540|RYAN (CONT'D)|I had you! I had you.|speech|RYAN|F
+pulling Ryan closer to the Station."|stage direction|||
+540|RYAN (CONT'D)|I had you! I had you.|speech|RYAN|F|True
 541||"Matt drifts away from the Station into the empty space.
 Ryan bumps against the station, pulled by the parachute, and she
-twists and turns before finally grabbing hold of a rail."|stage direction||
+twists and turns before finally grabbing hold of a rail."|stage direction|||
 542|"MATT
-(ON RADIO)"|Ryan do you copy? Do you copy?|speech|MATT|F
-543||An ALARM GOES OFF.|stage direction||
+(ON RADIO)"|Ryan do you copy? Do you copy?|speech|MATT|F|True
+543||An ALARM GOES OFF.|stage direction|||
 544|RYAN|"My CO2 alarm went off. My CO2 alarm
-went off."|speech|RYAN|F
+went off."|speech|RYAN|F|True
 545|MATT|"You need to board the station. Can you
-see the airlock?"|speech|MATT|F
-546||She turns, looking for the Station's Airlock.|stage direction||
+see the airlock?"|speech|MATT|F|True
+546||She turns, looking for the Station's Airlock.|stage direction|||
 547|MAT|"Do you copy?
-(P.O.V shot - beginning to blur)"|speech|MAT|F
-548|RYAN|Yes. Yes. I see it. I see it.|speech|RYAN|F
+(P.O.V shot - beginning to blur)"|speech|MAT|F|
+548|RYAN|Yes. Yes. I see it. I see it.|speech|RYAN|F|True
 549|"MATT
 (ON RADIO)"|"Good. That's where you want to go.
-You're losing focus, right?"|speech|MATT|F
-550|RYAN|Yes.|speech|RYAN|F
+You're losing focus, right?"|speech|MATT|F|True
+550|RYAN|Yes.|speech|RYAN|F|True
 551|MATT|"That's because you're breathing CO2
 and you're losing consciousness. You
-need to board the Station."|speech|MATT|F
-552||Her eyes flutter...|stage direction||
+need to board the Station."|speech|MATT|F|True
+552||Her eyes flutter...|stage direction|||
 553|"MATT (CONT'D)
-(ON RADIO)"|Move!|speech|MATT|F
+(ON RADIO)"|Move!|speech|MATT|F|True
 554||"Ryan blinks, TURNS OFF the ALARM, and begins climbing over a
-module of the Station."|stage direction||
-555|RYAN|Ok.|speech|RYAN|F
-556||The transmission becomes weaker, filled with STATIC.|stage direction||
+module of the Station."|stage direction|||
+555|RYAN|Ok.|speech|RYAN|F|True
+556||The transmission becomes weaker, filled with STATIC.|stage direction|||
 557|"MATT
 (ON RADIO)"|"Now listen to me. That second Soyuz is
 too damaged for re-entry,
 but it's perfectly fine for a little
-Sunday drive."|speech|MATT|F
-558|RYAN|Sunday drive...?|speech|RYAN|F
+Sunday drive."|speech|MATT|F|True
+558|RYAN|Sunday drive...?|speech|RYAN|F|True
 559|"MATT
 (ON RADIO)"|"Look to the west... You see that dot
 in the distance? That is the Chinese
 Station. You're going to take the
 Soyuz and cruise over there. The
-Chinese lifeboat is a Shenzou."|speech|MATT|F
-560|RYAN|I've never flown a Shenzhou--|speech|RYAN|F
+Chinese lifeboat is a Shenzou."|speech|MATT|F|True
+560|RYAN|I've never flown a Shenzhou--|speech|RYAN|F|True
 561|"MATT
 (ON RADIO)"|"That doesn't matter. Its re-entry
-protocol is identical to the Soyuz's--"|speech|MATT|F
-562||She nods, already looking.|stage direction||
-563|RYAN|Ok.|speech|RYAN|F
+protocol is identical to the Soyuz's--"|speech|MATT|F|True
+562||She nods, already looking.|stage direction|||
+563|RYAN|Ok.|speech|RYAN|F|True
 564|"MATT
-(ON RADIO)"|You've never flown a Soyuz either.|speech|MATT|F
-565|RYAN|Only on a simulator.|speech|RYAN|F
+(ON RADIO)"|You've never flown a Soyuz either.|speech|MATT|F|True
+565|RYAN|Only on a simulator.|speech|RYAN|F|True
 566|"MATT
-(ON RADIO)"|So then you know.|speech|MATT|F
-567|RYAN|I crashed it. I--|speech|RYAN|F
+(ON RADIO)"|So then you know.|speech|MATT|F|True
+567|RYAN|I crashed it. I--|speech|RYAN|F|True
 568|"MATT
 (ON RADIO)"|"It's a Simulator. That's what it's
-designed for."|speech|MATT|F
+designed for."|speech|MATT|F|True
 569|RYAN|"Every time. I crashed the Simulator
-every time."|speech|RYAN|F
+every time."|speech|RYAN|F|True
 570|"MATT
 (ON RADIO)"|"It's not rocket science. Just point
 the damn thing at earth and
 by this time tomorrow you'll be back
 in Lake Zurich with one hell of a
 story to tell. You copy? Ryan. You
-copy?"|speech|MATT|F
+copy?"|speech|MATT|F|True
 571|RYAN|"I'm going to take the Soyuz and come
-get you."|speech|RYAN|F
+get you."|speech|RYAN|F|True
 572|MATT|"No you're not. . I have too much of a
-head start. That ship already sailed."|speech|MATT|F
-573|RYAN|No. I'm coming to get you.|speech|RYAN|F
+head start. That ship already sailed."|speech|MATT|F|True
+573|RYAN|No. I'm coming to get you.|speech|RYAN|F|True
 574|MATT|"Ryan, you're going to have to learn to
-let go."|speech|MATT|F
-575|RYAN|But... I...|speech|RYAN|F
+let go."|speech|MATT|F|True
+575|RYAN|But... I...|speech|RYAN|F|True
 576|"MATT
 (ON RADIO)"|"I want to hear you say you're going to
-make it."|speech|MATT|F
-577||Ryan is struggling for breath.|stage direction||
+make it."|speech|MATT|F|True
+577||Ryan is struggling for breath.|stage direction|||
 578|"MATT (CONT'D)
-(ON RADIO)"|Ryan! Say it!|speech|MATT|F
-579|RYAN|I'm... I'm going to make it.|speech|RYAN|F
-580|MATT|Alright. Keep going|speech|MATT|F
-581||Ryan stares at Matt's tiny figure in the distance.|stage direction||
-582|MATT (CONT'D)|What kind of name is Ryan for a girl?|speech|MATT|F
-583|RYAN|Dad wanted a boy.|speech|RYAN|F
-584|MATT|Are you close to the airlock?|speech|MATT|F
-585|RYAN|Not yet.|speech|RYAN|F
-586|MATT|Keep going.|speech|MATT|F
-587||Ryan continues to the Airlock.|stage direction||
+(ON RADIO)"|Ryan! Say it!|speech|MATT|F|True
+579|RYAN|I'm... I'm going to make it.|speech|RYAN|F|True
+580|MATT|Alright. Keep going|speech|MATT|F|True
+581||Ryan stares at Matt's tiny figure in the distance.|stage direction|||
+582|MATT (CONT'D)|What kind of name is Ryan for a girl?|speech|MATT|F|True
+583|RYAN|Dad wanted a boy.|speech|RYAN|F|True
+584|MATT|Are you close to the airlock?|speech|MATT|F|True
+585|RYAN|Not yet.|speech|RYAN|F|True
+586|MATT|Keep going.|speech|MATT|F|True
+587||Ryan continues to the Airlock.|stage direction|||
 588|MATT (CONT'D)|"So, now that we have some distance
 between us- you're attracted to me,
-aren't you?"|speech|MATT|F
-589|RYAN|What?|speech|RYAN|F
+aren't you?"|speech|MATT|F|True
+589|RYAN|What?|speech|RYAN|F|True
 590|MATT|"Well, people say I have beautiful blue
-eyes."|speech|MATT|F
+eyes."|speech|MATT|F|True
 591|RYAN|"You... you have beautiful... you have
-beautiful blue eyes."|speech|RYAN|F
-592|MATT|I have brown eyes... that hurts.|speech|MATT|F
-593||She looks at Matt's figure receding.|stage direction||
+beautiful blue eyes."|speech|RYAN|F|True
+592|MATT|I have brown eyes... that hurts.|speech|MATT|F|True
+593||She looks at Matt's figure receding.|stage direction|||
 594|"MATT (CONT'D)
-(ON RADIO)"|You wanna know the good news?|speech|MATT|F
-595|RYAN|What?|speech|RYAN|F
+(ON RADIO)"|You wanna know the good news?|speech|MATT|F|True
+595|RYAN|What?|speech|RYAN|F|True
 596|"MATT
 (ON RADIO)"|"I'm going to break Anatoly's record,
 and I think mine's going to stand for
-a long, long time."|speech|MATT|F
-597|RYAN|No... I'm coming to get you.|speech|RYAN|F
+a long, long time."|speech|MATT|F|True
+597|RYAN|No... I'm coming to get you.|speech|RYAN|F|True
 598|MATT|"You know, Ryan is a nice name for a
 girl. Wow, you should see the sun on
-the Ganges. It's amazing."|speech|MATT|F
+the Ganges. It's amazing."|speech|MATT|F|True
 599||"Ryan starts to respond, then falters, watching Matt's figure
 grow ever smaller.
 THE SAD CROONING of HANK WILLIAMS crackles through the dying
-radio."|stage direction||
+radio."|stage direction|||
 600|RYAN|"(in a daze)
-Matt..."|speech|RYAN|F
-601||Only static hisses...|stage direction||
-602|RYAN (CONT'D)|Matt!|speech|RYAN|F
+Matt..."|speech|RYAN|F|True
+601||Only static hisses...|stage direction|||
+602|RYAN (CONT'D)|Matt!|speech|RYAN|F|True
 603||"Static again as Matt falls deeper into the distance, becoming
 lost in a sea of white specks and-
-The transmission ends."|stage direction||
-604||SILENCE|location||
+The transmission ends."|stage direction|||
+604||SILENCE|location|||
 605||"INSIDE THE HELMET-
-Ryan is dizzy, sweating, and having trouble focusing. She sees"|stage direction||
-606||MATT-|location||
+Ryan is dizzy, sweating, and having trouble focusing. She sees"|stage direction|||
+606||MATT-|location|||
 607||"Nothing more than a dot.
 She stretches her hand toward him, as if trying to touch him
 with the tips of her fingers. But the dot has already vanished
@@ -1517,15 +1517,15 @@ INTERNATIONAL SPACE STATION. ZVEZDA MODULE.
 The module is like a wide corridor filled with cabinets, a small
 eating area and a small gym. A HUM reverberates across the
 station.
-At the end of the module there is an open circular hatch leading"|stage direction||
-608||INTO THE-|location||
+At the end of the module there is an open circular hatch leading"|stage direction|||
+608||INTO THE-|location|||
 609||"UNITY NODE 1.
 A spherical space with three hatches, each leading into
 different modules.
 A HATCH OPENS and-
 Ryan floats in. She stops at the center and holds onto a handle.
-She looks in all directions and launches to her right, towards"|stage direction||
-610||THE-|location||
+She looks in all directions and launches to her right, towards"|stage direction|||
+610||THE-|location|||
 611||"ZARYA MODULE.
 There are sleeping bags fastened to the walls. Clothes, shoes, a
 strip of three condoms -- all kinds of personal objects float in
@@ -1533,8 +1533,8 @@ chaos around the module.
 It's clear that someone left in a hurry.
 Ryan passes a stationary bicycle and reaches for a metal cabinet
 on the wall.
-She OPENS drawers, looking for something."|stage direction||
-612|RYAN|Come on, come on.|speech|RYAN|F
+She OPENS drawers, looking for something."|stage direction|||
+612|RYAN|Come on, come on.|speech|RYAN|F|True
 613||"She finds what she's looking for: a BAG OF WATER with a straw at
 one end. She unscrews the top and begins to drink from it.
 She DRINKS in long gulps, squeezing the bottle, trying to quench
@@ -1548,11 +1548,11 @@ She checks the count on the STOPWATCH- 14 minutes and counting
 down.
 She takes a new bag of water from the drawer, and pushing
 herself off of a wall, she dives into the-
-UNITY NODE 2-"|stage direction||
+UNITY NODE 2-"|stage direction|||
 614|RYAN (CONT'D)|"OK. Where are you? Where are you?
-Comms. Comms... There you are!"|speech|RYAN|F
-615||Without stopping, she goes through one of the open hatches into|stage direction||
-616||THE-|location||
+Comms. Comms... There you are!"|speech|RYAN|F|True
+615||Without stopping, she goes through one of the open hatches into|stage direction|||
+616||THE-|location|||
 617||"ZVEZDA MODULE.
 The walls are filled with electrical equipment and wires.
 Without slowing down her momentum, she floats to the-
@@ -1563,53 +1563,53 @@ Earth is clearly seen.
 She begins to PUSH BUTTONS.
 COMPUTERS COME TO LIFE and Ryan puts on a communications
 headset.
-STATIC CRACKLES."|stage direction||
-618|RYAN|Matt. This is Ryan. Copy?|speech|RYAN|F
-619||She waits.|stage direction||
-620|RYAN (CONT'D)|Matt. This is Ryan. Copy?|speech|RYAN|F
-621||Nothing... only static.|stage direction||
+STATIC CRACKLES."|stage direction|||
+618|RYAN|Matt. This is Ryan. Copy?|speech|RYAN|F|True
+619||She waits.|stage direction|||
+620|RYAN (CONT'D)|Matt. This is Ryan. Copy?|speech|RYAN|F|True
+621||Nothing... only static.|stage direction|||
 622|RYAN (CONT'D)|"Matt, I made it. I'm here. I'm inside
-the Station... Do you copy?"|speech|RYAN|F
+the Station... Do you copy?"|speech|RYAN|F|True
 623||"She drifts along the module, listening intently through the
-headset."|stage direction||
-624|RYAN (CONT'D)|Come on Matt. Talk to me.|speech|RYAN|F
-625|(NOTHING)|Tell me where you are.|speech||
-626|(NOTHING)|Give me your position...|speech||
-627||No voices. Just static.|stage direction||
+headset."|stage direction|||
+624|RYAN (CONT'D)|Come on Matt. Talk to me.|speech|RYAN|F|True
+625|(NOTHING)|Tell me where you are.|speech|||
+626|(NOTHING)|Give me your position...|speech|||
+627||No voices. Just static.|stage direction|||
 628|RYAN (CONT'D)|"Where are you? Give me a visual...
-tell me what you see."|speech|RYAN|F
-629||Nothing.|stage direction||
+tell me what you see."|speech|RYAN|F|True
+629||Nothing.|stage direction|||
 630|RYAN (CONT'D)|"Oh, come on. You've been yammering
 nonstop since we left Cape Canaveral,
-and now you decide to shut up?"|speech|RYAN|F
-631||She waits ONE SECOND, TWO SECONDS-|stage direction||
-632|RYAN (CONT'D)|Come on Matt, talk to me!|speech|RYAN|F
+and now you decide to shut up?"|speech|RYAN|F|True
+631||She waits ONE SECOND, TWO SECONDS-|stage direction|||
+632|RYAN (CONT'D)|Come on Matt, talk to me!|speech|RYAN|F|True
 633||"The signal cuts in and out, but remains indecipherable. There is
 something unnerving about it.
 She drops her head and continues drifting toward the porthole,
-listening as the STATIC SPUTTERS."|stage direction||
-634|RYAN (CONT'D)|Say something... Anything.|speech|RYAN|F
+listening as the STATIC SPUTTERS."|stage direction|||
+634|RYAN (CONT'D)|Say something... Anything.|speech|RYAN|F|True
 635|RYAN (CONT'D)|"Tell me about Mardi Gras. Tell me
-about the hairy guy. What happened?"|speech|RYAN|F
-636||Waiting for him to respond, and in a softer voice, completely|stage direction||
-637||RESIGNED-|location||
-638|RYAN (CONT'D)|Oh Matt. I'm not ready for this.|speech|RYAN|F
+about the hairy guy. What happened?"|speech|RYAN|F|True
+636||Waiting for him to respond, and in a softer voice, completely|stage direction|||
+637||RESIGNED-|location|||
+638|RYAN (CONT'D)|Oh Matt. I'm not ready for this.|speech|RYAN|F|True
 639||"She bumps against the PORTHOLE, and glances out-
 The Earth glimmers brightly. A third of the hemisphere is in
 complete darkness. Her FACE REFLECTED in the glass is
 SUPERIMPOSED over the EARTH.
 Her eyes glisten briefly, but she fights it back. Then she pulls
-herself together, and begins reporting-"|stage direction||
-640|RYAN (CONT'D)|Houston in the blind.|speech|RYAN|F
-641||The way Matt would have done it-|stage direction||
+herself together, and begins reporting-"|stage direction|||
+640|RYAN (CONT'D)|Houston in the blind.|speech|RYAN|F|True
+641||The way Matt would have done it-|stage direction|||
 642|RYAN (CONT'D)|"This is Mission Specialist Ryan Stone
 reporting from the ISS... All
 communication with Mission Commander
 Matthew Kowalsky has been lost. Radio
 transmission is absent. Visual is
-nonexistent."|speech|RYAN|F
+nonexistent."|speech|RYAN|F|True
 643|(A BEAT)|"To confirm, I--Ryan Stone--am the sole
-survivor of STS-157."|speech||
+survivor of STS-157."|speech|||
 644||"Ryan hovers by the porthole, looking hopeless.
 All is silent save for the RADIO static and the hum of the Space
 Station.
@@ -1621,9 +1621,9 @@ Ryan twists, swimming back to the control panel, studying a
 FLASHING grid of LEDS:
 GRAPH OF THE STATION-
 ...where a blinking light indicates the Japanese Module IS ON
-FIRE."|stage direction||
-645|RYAN (CONT'D)|What now?|speech|RYAN|F
-646||AND THEN-|location||
+FIRE."|stage direction|||
+645|RYAN (CONT'D)|What now?|speech|RYAN|F|True
+646||AND THEN-|location|||
 647||"The Destiny Lab begins blinking.
 THE FIRE IS EXPANDING
 She pushes herself toward the hatch, swimming through the few
@@ -1648,21 +1648,21 @@ SPRAYS the extinguisher at the fire. But the extinguisher is no
 match for the fire, which has gathered in a gigantic smooth blue
 ball and is expanding, coming at her.
 Ryan makes a fast turn and launches herself in the opposite
-direction into the-"|stage direction||
-648||UNITY NODE-|location||
-649||Dashing straight into the-|stage direction||
-650||ZARYA MODULE-|location||
+direction into the-"|stage direction|||
+648||UNITY NODE-|location|||
+649||Dashing straight into the-|stage direction|||
+650||ZARYA MODULE-|location|||
 651||"She darts across the module, behind her-
 The expanding fire ball has swallowed the Unity Node and is
 making its way towards her, chasing her into the-
 UNITY NODE 2-
-Where she makes a quick turn and darts down into the-"|stage direction||
-652||DOCKING MODULE-|location||
+Where she makes a quick turn and darts down into the-"|stage direction|||
+652||DOCKING MODULE-|location|||
 653||"Just in time. Above her, the flames cross the Node as they
 spread into the rest of the Station.
 They quickly spread downward, into the Docking Module.
-Ryan, the flames caressing her feet, dives through a hatch into"|stage direction||
-654||THE-|location||
+Ryan, the flames caressing her feet, dives through a hatch into"|stage direction|||
+654||THE-|location|||
 655||"SOYUZ. AIRLOCK.
 Ryan crashes against a Space Suit floating inside and turns to
 close the hatch.
@@ -1684,41 +1684,41 @@ surrounded by the CONTROL PANEL that navigates the vessel.
 She sits down in the command chair.
 She fastens the safety belt, and looks around, trying to
 recognize the different buttons on the panel, which are all
-labeled in Russian."|stage direction||
-656|RYAN|OK... where was it?... where was it?|speech|RYAN|F
-657||She moves her finger across the different buttons, searching.|stage direction||
-658|RYAN (CONT'D)|Where is the power?... Here you are.|speech|RYAN|F
+labeled in Russian."|stage direction|||
+656|RYAN|OK... where was it?... where was it?|speech|RYAN|F|True
+657||She moves her finger across the different buttons, searching.|stage direction|||
+658|RYAN (CONT'D)|Where is the power?... Here you are.|speech|RYAN|F|True
 659||"Her finger stops on a button, which is labeled- BKN
 She presses on it and the CONTROL PANEL turns ON. All the
 buttons light up and with a hum, the Soyuz's systems start to
-run."|stage direction||
-660|RYAN (CONT'D)|Good... good... just like training...|speech|RYAN|F
+run."|stage direction|||
+660|RYAN (CONT'D)|Good... good... just like training...|speech|RYAN|F|True
 661||"Ryan reaches to the right, where next to the panel, there are
-several binders, each a different color."|stage direction||
+several binders, each a different color."|stage direction|||
 662|RYAN (CONT'D)|"Undocking... undocking... Yes...
-red..."|speech|RYAN|F
+red..."|speech|RYAN|F|True
 663||"And she takes out a RED BINDER.
 It's all written in Cyrillic. She turns the pages until she sees
-a GRAPHIC representing the UNDOCKING PROCEDURE."|stage direction||
+a GRAPHIC representing the UNDOCKING PROCEDURE."|stage direction|||
 664|RYAN (CONT'D)|"Ok... Ok... I remember this...
-undocking..."|speech|RYAN|F
+undocking..."|speech|RYAN|F|True
 665||"She uses the CURSORS on the panel and selects a function on the
 COMPUTER SCREEN.
 She presses another button and-
 On the SCREEN, a COUNTDOWN- 4:30... 4:29... 4:28...
-Another RUMBLE in the Station."|stage direction||
+Another RUMBLE in the Station."|stage direction|||
 666|RYAN (CONT'D)|"We don't have four minutes to spare.
-We're going manual..."|speech|RYAN|F
+We're going manual..."|speech|RYAN|F|True
 667||"She flips through the binder to another page. She looks at a
 diagram and uses the cursors on the panel to change the function
-on the screen-"|stage direction||
-668|RYAN (CONT'D)|Okay. Arming the system...|speech|RYAN|F
+on the screen-"|stage direction|||
+668|RYAN (CONT'D)|Okay. Arming the system...|speech|RYAN|F|True
 669||"She releases the SAFETY LOCK on a BUTTON.
 AN EXPLOSION in the Station makes everything shake. The
-vibration passes through her body, startling her, and-"|stage direction||
-670|RYAN (CONT'D)|Firing the pyros...|speech|RYAN|F
-671||SHE PRESSES the BUTTON.|stage direction||
-672|RYAN (CONT'D)|Rezerv rasstyk!|speech|RYAN|F
+vibration passes through her body, startling her, and-"|stage direction|||
+670|RYAN (CONT'D)|Firing the pyros...|speech|RYAN|F|True
+671||SHE PRESSES the BUTTON.|stage direction|||
+672|RYAN (CONT'D)|Rezerv rasstyk!|speech|RYAN|F|True
 673||"The SOUND of a mechanism releasing reverberates throughout the
 vessel.
 OUTER SPACE. INTERNATIONAL SPACE STATION. 500 KM ABOVE EARTH.
@@ -1736,9 +1736,9 @@ The distance between the Soyuz and the Docking Module grows
 little by little as the vessel drifts away from it.
 Ryan sits tensely and checks the manual and-
 She presses different buttons, bringing to life a new set of
-systems."|stage direction||
+systems."|stage direction|||
 674|RYAN|"I engaged manual control- R O A K and
-RYD are activated."|speech|RYAN|F
+RYD are activated."|speech|RYAN|F|True
 675||"She grabs the joysticks with her hand, and-
 OUTER SPACE. 500 KM ABOVE THE EARTH.
 The lateral thrusters give a small thrust, and as the spacecraft
@@ -1751,27 +1751,27 @@ SOYUZ. CONTROL CABIN.
 Her seat belts prevent her from being projected forward as the
 Soyuz is pulled to a sudden stop.
 Ryan is very confused, unaware of the reason for the sudden
-stop. She looks at-"|stage direction||
-676||THE PERISCOPE-|location||
+stop. She looks at-"|stage direction|||
+676||THE PERISCOPE-|location|||
 677||"The Station is drifting out of the scope's sight.
-She turns to-"|stage direction||
-678||THE PORTHOLE-|location||
+She turns to-"|stage direction|||
+678||THE PORTHOLE-|location|||
 679||"And through the glass she sees that-
 The Station is coming straight at her and it looks as though-
-THEY'RE ABOUT TO COLLIDE."|stage direction||
-680|RYAN|Oh, no. No, no, no.|speech|RYAN|F
+THEY'RE ABOUT TO COLLIDE."|stage direction|||
+680|RYAN|Oh, no. No, no, no.|speech|RYAN|F|True
 681||"She presses the joystick.
 OUTER SPACE. 500 KM ABOVE THE EARTH.
-The Soyuz is two meters away from the Station, about to crash,"|stage direction||
-682||WHEN-|location||
+The Soyuz is two meters away from the Station, about to crash,"|stage direction|||
+682||WHEN-|location|||
 683||"The SOFT JETS ignite, launching the vessel upwards.
 The Soyuz skims just over the Docking Module and passes three
 inches away from the solar panels, barely avoiding a collision
 with the metal giant.
 And as the Soyuz drifts upwards, the Station passes under it.
 SOYUZ. CONTROL CABIN.
-Now Ryan can see through-"|stage direction||
-684||THE PORTHOLE-|location||
+Now Ryan can see through-"|stage direction|||
+684||THE PORTHOLE-|location|||
 685||"The parachute is tangled with a solar panel and the ropes are
 tensing up, and-
 SHE'S SHAKEN BY A NEW PULL.
@@ -1779,13 +1779,13 @@ OUTER SPACE. 500 KM ABOVE THE EARTH.
 The Soyuz stabilizes over the Station, the parachute entwined
 with the solar panel.
 SOYUZ. CONTROL CABIN.
-She looks out at-"|stage direction||
-686||THE PORTHOLE-|location||
+She looks out at-"|stage direction|||
+686||THE PORTHOLE-|location|||
 687||"The rope extends from the cabin to the parachute tangled with
-the Station."|stage direction||
-688|RYAN|Great. Fantastic. Perfect.|speech|RYAN|F
-689||OUTER SPACE. 500 KM ABOVE THE EARTH.|stage direction||
-690||SILENCE|location||
+the Station."|stage direction|||
+688|RYAN|Great. Fantastic. Perfect.|speech|RYAN|F|True
+689||OUTER SPACE. 500 KM ABOVE THE EARTH.|stage direction|||
+690||SILENCE|location|||
 691||"The Station hovers below the Soyuz like a large whale swimming
 beneath a tiny lifeboat.
 The HATCH of the Soyuz OPENS.
@@ -1797,9 +1797,9 @@ She LOOKS around-
 The International Space Station is a looming presence floating
 ten meters below. It is pulling the Soyuz by its parachute.
 An ALARM on her STOPWATCH RINGS. It's been 85 MINUTES.
-She turns the alarm off and looks around."|stage direction||
+She turns the alarm off and looks around."|stage direction|||
 692|RYAN|"Clear skies but with a chance of
-satellite debris."|speech|RYAN|F
+satellite debris."|speech|RYAN|F|True
 693||"SHE HUMS A SONG, the tune is reminiscent of the Hank Williams
 Melody that Matt had played earlier.
 She begins to climb around the vessel. With plenty of oxygen in
@@ -1812,9 +1812,9 @@ container into space. Three meters away from the vessel each
 rope branches into dozens of parachute strings. Next to it-
 A second cover is also badly damaged.
 Harnessing herself to a handle, she inspects the ropes. The
-three ropes are bolted to the container's frame."|stage direction||
+three ropes are bolted to the container's frame."|stage direction|||
 694|RYAN (CONT'D)|"Okay. We detach this and we go home.
-Piece of cake."|speech|RYAN|F
+Piece of cake."|speech|RYAN|F|True
 695||"She harnesses the bag and RESUMES her HUMMING, louder this time.
 She unzips the bag and takes out the PISTOL GRIP tool, without
 noticing that behind her-
@@ -1843,8 +1843,8 @@ Ryan notices that the Pistol Grip is also floating away.
 She stretches her arm trying to catch it, but it is out of her
 reach.
 She pushes herself towards the pistol grip, and barely manages
-to grab onto it when she sees-"|stage direction||
-696|RYAN (CONT'D)|Oh shit.|speech|RYAN|F
+to grab onto it when she sees-"|stage direction|||
+696|RYAN (CONT'D)|Oh shit.|speech|RYAN|F|True
 697||"THE TIDE OF DEBRIS is floating STRAIGHT AT HER.
 She pulls herself back to the container.
 DEBRIS HITS THE STATION.
@@ -1879,11 +1879,11 @@ Station.
 THE LAST BOLT COMES OFF.
 Ryan manages to unhook the rope, freeing the Soyuz from the
 collapsing Space Station.
-She braces herself against the vessel, as she sees-"|stage direction||
-698|RYAN (CONT'D)|Shit!|speech|RYAN|F
+She braces herself against the vessel, as she sees-"|stage direction|||
+698|RYAN (CONT'D)|Shit!|speech|RYAN|F|True
 699||"The Soyuz is heading straight towards the Station's Solar
-Panels."|stage direction||
-700|RYAN (CONT'D)|No... no... no..|speech|RYAN|F
+Panels."|stage direction|||
+700|RYAN (CONT'D)|No... no... no..|speech|RYAN|F|True
 701||"The Soyuz' Solar Panel collides with the Station's, shattering
 into smaller pieces of debris that almost hit Ryan.
 The Soyuz spins away as-
@@ -1897,42 +1897,42 @@ the Earth. All of a sudden...
 EVERYTHING IS CALM.
 She pauses, blinking into the suddenly empty distance. Her gaze
 remains fixed on the vast nothingness--for no good reason--but
-nevertheless FIXED on something."|stage direction||
-702|RYAN (CONT'D)|I hate space.|speech|RYAN|F
+nevertheless FIXED on something."|stage direction|||
+702|RYAN (CONT'D)|I hate space.|speech|RYAN|F|True
 703||"SOYUZ SPACECRAFT. CONTROL CABIN.
 A SYMPHONY OF ALARMS shrieks loudly. The hatch FLIES open and a
-helmet floats in, followed quickly by Ryan."|stage direction||
-704|RYAN|Shut up!|speech|RYAN|F
+helmet floats in, followed quickly by Ryan."|stage direction|||
+704|RYAN|Shut up!|speech|RYAN|F|True
 705||"She presses different buttons, and with each a voice of the
-alarm symphony dies until they are completely silent."|stage direction||
-706|RYAN (CONT'D)|Ok.|speech|RYAN|F
-707||She takes a breath and begins fastening the seat belt.|stage direction||
-708|RYAN (CONT'D)|Alright. That's good.|speech|RYAN|F
+alarm symphony dies until they are completely silent."|stage direction|||
+706|RYAN (CONT'D)|Ok.|speech|RYAN|F|True
+707||She takes a breath and begins fastening the seat belt.|stage direction|||
+708|RYAN (CONT'D)|Alright. That's good.|speech|RYAN|F|True
 709||"She puts on the communication headset and-
 Resets the STOPWATCH- 85 minutes and counting down.
 She checks the TEMPERATURE GAUGE-
 She exhales, the plume of her hot breath hanging briefly in the
-frigid cabin air before evaporating."|stage direction||
-710|RYAN (CONT'D)|Okay, let's stabilise you.|speech|RYAN|F
+frigid cabin air before evaporating."|stage direction|||
+710|RYAN (CONT'D)|Okay, let's stabilise you.|speech|RYAN|F|True
 711||"She takes the JOYSTICK.
-Ryan looks focused at-"|stage direction||
-712||THE PERISCOPE-|location||
+Ryan looks focused at-"|stage direction|||
+712||THE PERISCOPE-|location|||
 713||"Where the western horizon comes into frame and nears the center
 crosshair.
-A small dot GLIMMERS in the distance- THE CHINESE STATION."|stage direction||
+A small dot GLIMMERS in the distance- THE CHINESE STATION."|stage direction|||
 714|RYAN (CONT'D)|"Ok. Let's visit the Chinese station.
 Houston in the blind, Tiangong is
 approximately 100km... to the west and I
 am off it's course by about 3 degrees.
-I will correct trajectory."|speech|RYAN|F
-715||She moves the Joystick, and the crosshair readjusts.|stage direction||
-716|RYAN (CONT'D)|Ok.|speech|RYAN|F
+I will correct trajectory."|speech|RYAN|F|True
+715||She moves the Joystick, and the crosshair readjusts.|stage direction|||
+716|RYAN (CONT'D)|Ok.|speech|RYAN|F|True
 717||"She releases the safety lock and places her finger on the
-button."|stage direction||
+button."|stage direction|||
 718|RYAN (CONT'D)|"Ok. I'll engage main thrust in five...
-four... three"|speech|RYAN|F
-719||She releases the safety lock.|stage direction||
-720|RYAN (CONT'D)|two... one...|speech|RYAN|F
+four... three"|speech|RYAN|F|True
+719||She releases the safety lock.|stage direction|||
+720|RYAN (CONT'D)|two... one...|speech|RYAN|F|True
 721||"She pushes on the button.
 OUTER SPACE. 300 KM ABOVE EARTH.
 The Soyuz floats with its nose directed towards a bright star on
@@ -1940,38 +1940,38 @@ the horizon, the Chinese Station, but-
 Nothing, not even a small flame, comes out of its back
 thrusters.
 CONTROL CABIN.
-Ryan waits, expectantly, and gives the button a NEW PUSH, but-"|stage direction||
-722|RYAN|One...|speech|RYAN|F
-723||Nothing. The thruster won't ignite.|stage direction||
-724|RYAN (CONT'D)|One... one...|speech|RYAN|F
+Ryan waits, expectantly, and gives the button a NEW PUSH, but-"|stage direction|||
+722|RYAN|One...|speech|RYAN|F|True
+723||Nothing. The thruster won't ignite.|stage direction|||
+724|RYAN (CONT'D)|One... one...|speech|RYAN|F|True
 725||"OUTER SPACE. 300 KM ABOVE EARTH.
 The vessel remains motionless, orbiting over the Pacific which
 is already under night's dark veil.
 CONTROL CABIN.
-She pushes again, and again, and again-"|stage direction||
-726|RYAN|Come on. Come on!|speech|RYAN|F
+She pushes again, and again, and again-"|stage direction|||
+726|RYAN|Come on. Come on!|speech|RYAN|F|True
 727||"OUTER SPACE. 300 KM ABOVE EARTH.
 But NOTHING.
 The Soyuz stays in place.
 CONTROL CABIN.
 Ryan looks at the FUEL GAUGE- 30 percent.
-She taps on it and the frozen needle drops to EMPTY."|stage direction||
-728|RYAN|You gotta be kidding me.|speech|RYAN|F
+She taps on it and the frozen needle drops to EMPTY."|stage direction|||
+728|RYAN|You gotta be kidding me.|speech|RYAN|F|True
 729||"She taps on the frozen dial once more, as if trying to get the
-needle to go back up, and once again-"|stage direction||
-730|RYAN (CONT'D)|Where's your backup?|speech|RYAN|F
-731||She taps even harder this time.|stage direction||
-732|RYAN (CONT'D)|Where's your goddamn backup?!|speech|RYAN|F
-733||She bangs down on the control panel in frustration--|stage direction||
+needle to go back up, and once again-"|stage direction|||
+730|RYAN (CONT'D)|Where's your backup?|speech|RYAN|F|True
+731||She taps even harder this time.|stage direction|||
+732|RYAN (CONT'D)|Where's your goddamn backup?!|speech|RYAN|F|True
+733||She bangs down on the control panel in frustration--|stage direction|||
 734||"OUTER SPACE. 300 KM ABOVE EARTH.
 Inside the capsule, through the portal, Ryan hits and hits,
 bouncing around the confined space of the cabin and venting all
 her anger, until she herself is out of fuel.
-She grabs the radio and-"|stage direction||
+She grabs the radio and-"|stage direction|||
 735|RYAN|"This is Dr Ryan Stone, can you hear
 me? Houston, this is Ryan Stone, can
 you hear me? Copy? Houston, this is
-Ryan Stone, can you hear me? Copy?"|speech|RYAN|F
+Ryan Stone, can you hear me? Copy?"|speech|RYAN|F|True
 736||"THE SUN SETS.
 A magical cosmic act. As the sun nears the edge of the Earth,
 the atmosphere brightens, shining with a luminous orange light
@@ -1985,99 +1985,99 @@ firefly lost in the deep of night.
 CONTROL CABIN.
 And the night has brought with it its cold grip.
 Ryan shivers and her voice is now weak, but she continues
-searching for help-"|stage direction||
+searching for help-"|stage direction|||
 737|RYAN|"Houston, this is Ryan Stone, can you
 hear me? Copy? Houston, this is Ryan
-Stone, can you hear me? Copy?"|speech|RYAN|F
+Stone, can you hear me? Copy?"|speech|RYAN|F|True
 738||"She turns her neck stiffly, looks at the-
 TEMPERATURE DIAL, -8 degrees and dropping. Through the PORTHOLE
 the SUN drops. DARKNESS descends.
 Finally, a SOUND SURFACES through the static:
 A CRACKLING.
 The CRACKLING SOUND is coming from the communication headset.
-Ryan puts it on and brings the mouthpiece to her lips."|stage direction||
+Ryan puts it on and brings the mouthpiece to her lips."|stage direction|||
 739|RYAN (CONT'D)|"Houston. Houston! This is Mission
-Specialist Ryan Stone. Do you copy!"|speech|RYAN|F
+Specialist Ryan Stone. Do you copy!"|speech|RYAN|F|True
 740||"This glimmer of hope gives her a new burst of energy.
 She TURNS ON THE CABIN LIGHT and attempts to tune into the
-frequency, turning one of the control panel's dials. She frowns."|stage direction||
+frequency, turning one of the control panel's dials. She frowns."|stage direction|||
 741|RYAN (CONT'D)|"(into the mouthpiece)
 Houston, you're coming in over the AM
-frequency. Please confirm identity."|speech|RYAN|F
-742||Fragmented words emerge through the static.|stage direction||
-743|TRANSMISSION|Han... ni... ts...|speech|TRANSMISSION|F
+frequency. Please confirm identity."|speech|RYAN|F|True
+742||Fragmented words emerge through the static.|stage direction|||
+743|TRANSMISSION|Han... ni... ts...|speech|TRANSMISSION|F|True
 744||"She turns the dial slowly, clinging desperately to the wavering
-thread of communication."|stage direction||
+thread of communication."|stage direction|||
 745|RYAN|"Repeat. This is Mission Specialist
-Ryan Stone from STS-157. Do you copy?"|speech|RYAN|F
-746||Words BURST FORTH, ringing clear as a bell for a moment.|stage direction||
-747|TRANSMISSION|Hannik ya itc... pini.|speech|TRANSMISSION|F
-748||Ryan blinks. The transmission is not in English.|stage direction||
+Ryan Stone from STS-157. Do you copy?"|speech|RYAN|F|True
+746||Words BURST FORTH, ringing clear as a bell for a moment.|stage direction|||
+747|TRANSMISSION|Hannik ya itc... pini.|speech|TRANSMISSION|F|True
+748||Ryan blinks. The transmission is not in English.|stage direction|||
 749|RYAN|"Is this the Chinese Station? Is this
-Tiangong? Copy?"|speech|RYAN|F
+Tiangong? Copy?"|speech|RYAN|F|True
 750||"As she tunes in a faint voice is distinguished. It doesn't
-appear to be in Chinese either."|stage direction||
-751|RYAN (CONT'D)|Do you speak English?|speech|RYAN|F
-752|TRANSMISSION|Hannic ya itcitem pini!|speech|TRANSMISSION|F
-753|RYAN|S.O.S. Do you understand?|speech|RYAN|F
-754|TRANSMISSION|Uumaruq taigaa!|speech|TRANSMISSION|F
-755|RYAN|Mayday! Can you copy? Mayday! Mayday!|speech|RYAN|F
+appear to be in Chinese either."|stage direction|||
+751|RYAN (CONT'D)|Do you speak English?|speech|RYAN|F|True
+752|TRANSMISSION|Hannic ya itcitem pini!|speech|TRANSMISSION|F|True
+753|RYAN|S.O.S. Do you understand?|speech|RYAN|F|True
+754|TRANSMISSION|Uumaruq taigaa!|speech|TRANSMISSION|F|True
+755|RYAN|Mayday! Can you copy? Mayday! Mayday!|speech|RYAN|F|True
 756||"The voice on the transmission appears to be a man in a very
-jovial mood. He keeps laughing."|stage direction||
-757|TRANSMISSION|Mayday!|speech|TRANSMISSION|F
-758|RYAN|Yes! Mayday! Mayday!|speech|RYAN|F
-759|TRANSMISSION|Mayday! Aningang!|speech|TRANSMISSION|F
-760|RYAN|Aningang?|speech|RYAN|F
-761|TRANSMISSION|Mayday, Aningang! Aningang, Mayday!|speech|TRANSMISSION|F
-762||The HOARSE LAUGHING of an MAN rises through the STATIC.|stage direction||
+jovial mood. He keeps laughing."|stage direction|||
+757|TRANSMISSION|Mayday!|speech|TRANSMISSION|F|True
+758|RYAN|Yes! Mayday! Mayday!|speech|RYAN|F|True
+759|TRANSMISSION|Mayday! Aningang!|speech|TRANSMISSION|F|True
+760|RYAN|Aningang?|speech|RYAN|F|True
+761|TRANSMISSION|Mayday, Aningang! Aningang, Mayday!|speech|TRANSMISSION|F|True
+762||The HOARSE LAUGHING of an MAN rises through the STATIC.|stage direction|||
 763|"RYAN
 (TO HERSELF)"|"Aningang...?
 (then, realizing:)
 Is that your name? Aningang is your
-name?!"|speech|RYAN|F
-764|TRANSMISSION|Aningang! Mayday! Suli, suli!|speech|TRANSMISSION|F
+name?!"|speech|RYAN|F|True
+764|TRANSMISSION|Aningang! Mayday! Suli, suli!|speech|TRANSMISSION|F|True
 765||"She starts to speak again but the glimmer of hope fades from her
 face with the realization that this man does not understand her
-plea."|stage direction||
+plea."|stage direction|||
 766|RYAN|"No, Mayday's not my name. I'm Stone,
-Dr. Ryan Stone-- I need help."|speech|RYAN|F
+Dr. Ryan Stone-- I need help."|speech|RYAN|F|True
 767|TRANSMISSION|"Mayday! Ieukpalliktuq uumaruq taigaa
-naabuqtuq."|speech|TRANSMISSION|F
-768||A noise in the background makes Ryan smile.|stage direction||
+naabuqtuq."|speech|TRANSMISSION|F|True
+768||A noise in the background makes Ryan smile.|stage direction|||
 769|"RYAN
-(SOFTLY)"|Dogs...|speech|RYAN|F
+(SOFTLY)"|Dogs...|speech|RYAN|F|True
 770|(INTO HEADSET)|"Are those dogs? Those are dogs! Are
-you calling from Earth?!"|speech||
+you calling from Earth?!"|speech|||
 771||"The barking of several dogs can be heard behind the man's voice.
 She GRINS.
 She listens to the man's laughing voice, shakes her head
-helplessly and sighs."|stage direction||
+helplessly and sighs."|stage direction|||
 772|RYAN (CONT'D)|"Where are you, Aningang? Is the sun
 out? Are there birds? Are there trees?
-Can you smell the ocean?"|speech|RYAN|F
-773|TRANSMISSION|Ieukpalliktuq naabuqtuq.|speech|TRANSMISSION|F
+Can you smell the ocean?"|speech|RYAN|F|True
+773|TRANSMISSION|Ieukpalliktuq naabuqtuq.|speech|TRANSMISSION|F|True
 774|RYAN|"Is it beautiful where you are? Here
 it's colder than hell and lonelier
 than shit, but it's beautiful
 Aningang. Utterly, terrifyingly
-beautiful."|speech|RYAN|F
+beautiful."|speech|RYAN|F|True
 775||"Through THE PORTHOLE-
 Even under the darkness of night, it is possible to see the
 glaciers spreading over the green forests. It all looks so fresh
-and full of life."|stage direction||
+and full of life."|stage direction|||
 776|RYAN (CONT'D)|"Make your dogs bark again, Aningang.
-Will you? Please..."|speech|RYAN|F
-777|TRANSMISSION|Suli aasrivak aatqatik niuruq...?|speech|TRANSMISSION|F
-778|RYAN|Dogs! Woof. Woof. Woof.|speech|RYAN|F
+Will you? Please..."|speech|RYAN|F|True
+777|TRANSMISSION|Suli aasrivak aatqatik niuruq...?|speech|TRANSMISSION|F|True
+778|RYAN|Dogs! Woof. Woof. Woof.|speech|RYAN|F|True
 779||"She makes barking noises. The man begins to laugh and barks back
-at her."|stage direction||
+at her."|stage direction|||
 780|TRANSMISSION|"Auuu. Auuu. Oipmiq. Oipmiq! Auuu.
-Auuu."|speech|TRANSMISSION|F
-781||Ryan and Aningang bark in unison.|stage direction||
-782|RYAN|Woof. Woof.|speech|RYAN|F
+Auuu."|speech|TRANSMISSION|F|True
+781||Ryan and Aningang bark in unison.|stage direction|||
+782|RYAN|Woof. Woof.|speech|RYAN|F|True
 783|TRANSMISSION|"Auuu... Auuu...
 RYAN AND TRANSMISSION
-Auuu. Auuu. Woof. Woof."|speech|TRANSMISSION|F
+Auuu. Auuu. Woof. Woof."|speech|TRANSMISSION|F|True
 784||"Ryan begins to HOWL, giving in to the mad joy of it all.
 Moments later, through the RADIO, she is joined by a CHORUS of
 CANINES--Aningang's DOGS--TUNING INTO HER VOICE in a mad, crazy
@@ -2093,61 +2093,61 @@ Aningang can be heard intermittently, YELLING, as if trying to
 silence the dogs. Then the dogs, one by one, cease their wailing
 and Ryan is left with nothing but her own voice.
 She stops, gazing at her tears suspended in the gloomy blue
-light."|stage direction||
-785|RYAN|I'm going to die, Aningang.|speech|RYAN|F
-786||The SIGNAL ebbs, losing its battle with the STATIC.|stage direction||
+light."|stage direction|||
+785|RYAN|I'm going to die, Aningang.|speech|RYAN|F|True
+786||The SIGNAL ebbs, losing its battle with the STATIC.|stage direction|||
 787|RYAN (CONT'D)|"I mean, we're all going to die.
 Everyone knows that. But I'm going to
-die today..."|speech|RYAN|F
-788||The STATIC waffles in and out.|stage direction||
-789|RYAN (CONT'D)|Funny that. To know.|speech|RYAN|F
-790||The STATIC breaks and Aningang's HUSKY VOICE begins SINGING.|stage direction||
+die today..."|speech|RYAN|F|True
+788||The STATIC waffles in and out.|stage direction|||
+789|RYAN (CONT'D)|Funny that. To know.|speech|RYAN|F|True
+790||The STATIC breaks and Aningang's HUSKY VOICE begins SINGING.|stage direction|||
 791|RYAN (CONT'D)|"And you know what Aningang... I don't
 care. I don't care if I die. I don't
-have anything... not anymore."|speech|RYAN|F
-792||Ryan is floating now over her seat.|stage direction||
+have anything... not anymore."|speech|RYAN|F|True
+792||Ryan is floating now over her seat.|stage direction|||
 793|RYAN (CONT'D)|"But the thing is... I'm still scared.
-I'm really scared..."|speech|RYAN|F
-794||She rolls in space and stares upwards...|stage direction||
+I'm really scared..."|speech|RYAN|F|True
+794||She rolls in space and stares upwards...|stage direction|||
 795|RYAN (CONT'D)|"No one will mourn me. No one will pray
 for my soul. Will you mourn me,
 Aningang? Is it too late to say a
 prayer? I'd say one for myself, but I
 have never prayed in my life... no one
-ever taught me how..."|speech|RYAN|F
+ever taught me how..."|speech|RYAN|F|True
 796||"The tune is lyrical and soothing, tinged with a touch of
-melancholy."|stage direction||
-797|RYAN (CONT'D)|No one ever taught me how...|speech|RYAN|F
+melancholy."|stage direction|||
+797|RYAN (CONT'D)|No one ever taught me how...|speech|RYAN|F|True
 798||"Ryan listens to Aningang's melody and smiles softly, closing her
 eyes.
 Ryan's face grows slack as she drifts toward unconsciousness,
 buoyed along on Aningang's sad soulful song. Then...
 ...a SPUTTERING CRY cuts through the static.
 A BABY.
-Ryan's eyes pop open."|stage direction||
-799|RYAN (CONT'D)|A baby. There's a baby with you.|speech|RYAN|F
-800||A beat. Aningang stops singing, speaking in a soft voice:|stage direction||
-801|TRANSMISSION|Ieukpalliktuq upatimi...|speech|TRANSMISSION|F
+Ryan's eyes pop open."|stage direction|||
+799|RYAN (CONT'D)|A baby. There's a baby with you.|speech|RYAN|F|True
+800||A beat. Aningang stops singing, speaking in a soft voice:|stage direction|||
+801|TRANSMISSION|Ieukpalliktuq upatimi...|speech|TRANSMISSION|F|True
 802|RYAN|"You are singing to your baby? Is that
-a lullaby? That's so sweet!"|speech|RYAN|F
+a lullaby? That's so sweet!"|speech|RYAN|F|True
 803||"Ryan is transfixed, listening to the gentle gurgle of the baby
-as Aningang coos to it, then begins to SING again."|stage direction||
-804|RYAN (CONT'D)|I used to sing to my baby too.|speech|RYAN|F
+as Aningang coos to it, then begins to SING again."|stage direction|||
+804|RYAN (CONT'D)|I used to sing to my baby too.|speech|RYAN|F|True
 805||"Painful memories flash before her, haunting her. Ryan's lump in
-her throat is washed away by a gentle sob."|stage direction||
-806|RYAN (CONT'D)|I hope I see her soon.|speech|RYAN|F
+her throat is washed away by a gentle sob."|stage direction|||
+806|RYAN (CONT'D)|I hope I see her soon.|speech|RYAN|F|True
 807||"She reaches for a valve and opens it.
 A HIZZING sound is heard inside the vessel, and-
 ON THE SCREEN-
 The Oxygen in the cabin's atmosphere begins to drop.
 SHE TURNS OFF THE LIGHT.
 Ryan closes her eyes, simply listening to the lullaby as it
-grows fainter..."|stage direction||
+grows fainter..."|stage direction|||
 808|RYAN (CONT'D)|"(growing ever drowsier)
 That's nice. Keep singing, Aningang,
 just like that. Sing me to sleep. I'll
 sleep and sleep and sleep. Sing to me,
-Aningang... sing...sing...."|speech|RYAN|F
+Aningang... sing...sing...."|speech|RYAN|F|True
 809||"The transmission grows fainter...
 ...and fainter...
 ...and then is...
@@ -2167,16 +2167,16 @@ fall asleep, until-
 CLICK CLICK CLICK.
 Ryan opens her eyes, startled.
 CLICK CLICK CLICK.
-Ryan turns in confusion and looks at-"|stage direction||
-810||THE PORTHOLE-|location||
+Ryan turns in confusion and looks at-"|stage direction|||
+810||THE PORTHOLE-|location|||
 811||"THROUGH THE GLASS, the helmet of an astronaut is looking in.
 IT IS MATT.
 He knocks once more, this time louder.
 CLICK CLICK CLICK.
 Ryan is still drowsy and does not understand what is going on,
 when she sees that-
-The latch on the porthole begins to move."|stage direction||
-812|RYAN (CONT'D)|No... no.. don't.|speech|RYAN|F
+The latch on the porthole begins to move."|stage direction|||
+812|RYAN (CONT'D)|No... no.. don't.|speech|RYAN|F|True
 813||"But the latch continues to open.
 Ryan immediately straps herself to the commander chair.
 The latch keeps turning.
@@ -2198,86 +2198,86 @@ Ryan uncovers her face and stares from the shadows at the
 figure, who straps into the seat next to her. He unlocks the
 ring around his collar and-
 TAKES OFF HIS HELMET.
-COUNTRY WESTERN MUSIC escapes into the cabin."|stage direction||
+COUNTRY WESTERN MUSIC escapes into the cabin."|stage direction|||
 814|MATT|"Ahhhh! Alright, check your watch. 13
 hours, 11 minutes. Call Anatoly, tell
-him he's been bumped."|speech|MATT|F
-815||The figure glances around.|stage direction||
+him he's been bumped."|speech|MATT|F|True
+815||The figure glances around.|stage direction|||
 816|MATT (CONT'D)|"Bit gloomy in here. How `bout a little
-light?"|speech|MATT|F
+light?"|speech|MATT|F|True
 817||"He taps a few buttons on the console and a face blooms:
 Matt.
-Ryan stares, mouth agape."|stage direction||
-818|RYAN|How did you?|speech|RYAN|F
-819|MATT|Trust me, it's a hell of a story.|speech|MATT|F
-820|RYAN|But how did you?|speech|RYAN|F
+Ryan stares, mouth agape."|stage direction|||
+818|RYAN|How did you?|speech|RYAN|F|True
+819|MATT|Trust me, it's a hell of a story.|speech|MATT|F|True
+820|RYAN|But how did you?|speech|RYAN|F|True
 821||"He reaches out and effortlessly flicks a myriad array of
-switches. Instantly, the alarms go silent."|stage direction||
-822|MATT|That's better.|speech|MATT|F
-823|RYAN|How?|speech|RYAN|F
-824||Ryan looks at him wide eyed, wanting to know how-|stage direction||
+switches. Instantly, the alarms go silent."|stage direction|||
+822|MATT|That's better.|speech|MATT|F|True
+823|RYAN|How?|speech|RYAN|F|True
+824||Ryan looks at him wide eyed, wanting to know how-|stage direction|||
 825|MATT|"I found a little extra battery power.
 I'm just happy you're still alive. To
 be honest, I thought your chances were
 slim to none. By the way, did you find
-the vodka?"|speech|MATT|F
-826|RYAN|You never told me where.|speech|RYAN|F
+the vodka?"|speech|MATT|F|True
+826|RYAN|You never told me where.|speech|RYAN|F|True
 827||"Matt fishes a SMALL FLASK from under his seat, spins off the
-cap..."|stage direction||
-828|MATT|Oh well... To Anatoly! Na zdorovje.|speech|MATT|F
+cap..."|stage direction|||
+828|MATT|Oh well... To Anatoly! Na zdorovje.|speech|MATT|F|True
 829||"...and takes a big gulp. He offers the flask to Ryan, who
-appears to be dozing off. She blinks, shakes her head."|stage direction||
-830|RYAN|No.|speech|RYAN|F
-831||He studies her.|stage direction||
-832|MATT|No? Right, let's get out of here.|speech|MATT|F
-833||He looks at the monitors, where the Chinese Station is seen.|stage direction||
+appears to be dozing off. She blinks, shakes her head."|stage direction|||
+830|RYAN|No.|speech|RYAN|F|True
+831||He studies her.|stage direction|||
+832|MATT|No? Right, let's get out of here.|speech|MATT|F|True
+833||He looks at the monitors, where the Chinese Station is seen.|stage direction|||
 834|MATT (CONT'D)|"We're `bout a hundred miles to the
 Chinese Station. A little Sunday
-drive."|speech|MATT|F
-835|RYAN|We can't.|speech|RYAN|F
-836|MATT|Course we can.|speech|MATT|F
-837|RYAN|There's no fuel. I tried everything.|speech|RYAN|F
+drive."|speech|MATT|F|True
+835|RYAN|We can't.|speech|RYAN|F|True
+836|MATT|Course we can.|speech|MATT|F|True
+837|RYAN|There's no fuel. I tried everything.|speech|RYAN|F|True
 838|MATT|"Well, there's always something we can
-do."|speech|MATT|F
-839|RYAN|I tried everything.|speech|RYAN|F
-840|MATT|Did you try the soft landing jets?|speech|MATT|F
-841|RYAN|They're for landing so.|speech|RYAN|F
+do."|speech|MATT|F|True
+839|RYAN|I tried everything.|speech|RYAN|F|True
+840|MATT|Did you try the soft landing jets?|speech|MATT|F|True
+841|RYAN|They're for landing so.|speech|RYAN|F|True
 842|MATT|"Well landing is launching it's the
 same thing, didn't you learn about
-that in training?"|speech|MATT|F
+that in training?"|speech|MATT|F|True
 843|RYAN|"I never got to land the simulator, I
-told you."|speech|RYAN|F
-844|MATT|But you know about it.|speech|MATT|F
-845|RYAN|And I crashed it every time.|speech|RYAN|F
-846||Ryan is falling asleep. Matt studies her as she dozes off.|stage direction||
+told you."|speech|RYAN|F|True
+844|MATT|But you know about it.|speech|MATT|F|True
+845|RYAN|And I crashed it every time.|speech|RYAN|F|True
+846||Ryan is falling asleep. Matt studies her as she dozes off.|stage direction|||
 847|MATT|"Listen you want to go back or do you
 want to stay here? I get it, it's nice
 up here, you can just shut down all
 the systems turn out all the lights,
 and just close your eyes and tune out
-everybody."|speech|MATT|F
+everybody."|speech|MATT|F|True
 848||"Matt starts flipping through buttons on the console, turning the
-cabin lights off."|stage direction||
+cabin lights off."|stage direction|||
 849|MATT (CONT'D)|"There's nobody up here who can hurt
 you, it's safe. Then what's the point
 in going on, what's the point of
-living?"|speech|MATT|F
-850||When the cabin is in darkness, he turns and looks at Ryan.|stage direction||
+living?"|speech|MATT|F|True
+850||When the cabin is in darkness, he turns and looks at Ryan.|stage direction|||
 851|MATT (CONT'D)|"Your kid died, doesn't get any rougher
 than that, but still it's a
 matter of what you do now. If you
 decide to go that you've gotta just
 get on with it, sit back enjoy the
 ride. You have to start living life,
-Ryan."|speech|MATT|F
-852||Ryan is having trouble keeping her eyes open.|stage direction||
-853|RYAN|How did you get here?|speech|RYAN|F
+Ryan."|speech|MATT|F|True
+852||Ryan is having trouble keeping her eyes open.|stage direction|||
+853|RYAN|How did you get here?|speech|RYAN|F|True
 854|MATT|"Ryan, you have to learn to let go ...
-Hey?"|speech|MATT|F
-855||Ryan is almost sound asleep.|stage direction||
-856|RYAN|What?|speech|RYAN|F
-857||Ryan is asleep.|stage direction||
-858|MATT|It's time to go home.|speech|MATT|F
+Hey?"|speech|MATT|F|True
+855||Ryan is almost sound asleep.|stage direction|||
+856|RYAN|What?|speech|RYAN|F|True
+857||Ryan is asleep.|stage direction|||
+858|MATT|It's time to go home.|speech|MATT|F|True
 859||"Her eyes snap open.
 Her gaze shifts. The flask is floating in front of her. But no
 Matt. She turns. THE CABIN IS EMPTY. She turns back.
@@ -2286,9 +2286,9 @@ Ryan notices that the gate of the ventilation duct is shaking,
 making a percussive sound.
 A SOFT COOL LIGHT shines in through the condensation that has
 frozen on the glass. It is-
-THE MOONLIGHT caressing Ryan's face."|stage direction||
+THE MOONLIGHT caressing Ryan's face."|stage direction|||
 860|RYAN|"Landing, landing. Landing is
-launching."|speech|RYAN|F
+launching."|speech|RYAN|F|True
 861||"With a new surge of determination she TURNS ON THE CABIN LIGHT.
 She pulls the HELMET floating above her and puts it on.
 She connects the umbilical to her suit, opens the Oxygen Valve,
@@ -2297,35 +2297,35 @@ As the Oxygen flows back into her brain a new surge of
 determination brightens her face.
 She opens the valves of the other two umbilicals, allowing
 Oxygen to flow, pressurizing the cabin.
-She grabs the MANUAL."|stage direction||
+She grabs the MANUAL."|stage direction|||
 862|RYAN (CONT'D)|"Okay, landing, landing, landing is
-green."|speech|RYAN|F
-863||She opens the green binder and browses through its index.|stage direction||
-864|RYAN (CONT'D)|Okay, okay landing, alright.|speech|RYAN|F
+green."|speech|RYAN|F|True
+863||She opens the green binder and browses through its index.|stage direction|||
+864|RYAN (CONT'D)|Okay, okay landing, alright.|speech|RYAN|F|True
 865||"She stops, turns some pages and stares closely at the manual.
 Ryan notices the Energy Bar floating by her. She grabs it and as
 she opens the wrapper, she stares intently at one page of the
-MANUAL, where there is-"|stage direction||
-866||A DIAGRAM-|location||
+MANUAL, where there is-"|stage direction|||
+866||A DIAGRAM-|location|||
 867||"An ILLUSTRATION of the Soyuz Capsule two meters before landing
 and hitting the ground. A thrust is shooting out from under its
-bottom, cushioning its fall: THE SOFT LANDING ENGINES."|stage direction||
+bottom, cushioning its fall: THE SOFT LANDING ENGINES."|stage direction|||
 868|RYAN (CONT'D)|"Soft landing jets trigger
 automatically at three meters before
 landing. ... you're a clever son of a
 bitch Matt. So to land I need to get
-rid of the BO and Engine module, okay?"|speech|RYAN|F
-869||She puts on the communication headset.|stage direction||
+rid of the BO and Engine module, okay?"|speech|RYAN|F|True
+869||She puts on the communication headset.|stage direction|||
 870|RYAN (CONT'D)|"Listen to me Matt. You're going to see
 a girl with brown hair. She's Sarah,
 her hair is probably a mess. That's
-okay, she doesn't like to brush it."|speech|RYAN|F
-871||She looks out of the porthole, down at Earth.|stage direction||
+okay, she doesn't like to brush it."|speech|RYAN|F|True
+871||She looks out of the porthole, down at Earth.|stage direction|||
 872|RYAN (CONT'D)|"Tell her mommy found her red shoe. She
 was so upset about that shoe Matt, but
-tell her it was right under the bed."|speech|RYAN|F
+tell her it was right under the bed."|speech|RYAN|F|True
 873||"She turns back to the console and places her finger over one of
-the buttons."|stage direction||
+the buttons."|stage direction|||
 874|RYAN (CONT'D)|"You give her a big hug and a kiss for
 me and tell her mamma misses her. Tell
 her she's my little angel and that she
@@ -2334,9 +2334,9 @@ that I promise I'll try and make her
 proud too. You tell her that I'm not
 quitting, that I'm going to keep
 fighting. You tell her I love her
-Matt... I love her so much."|speech|RYAN|F
-875||Ryan smiles, remembering... and then-|stage direction||
-876|RYAN (CONT'D)|Tri module separation, go...|speech|RYAN|F
+Matt... I love her so much."|speech|RYAN|F|True
+875||Ryan smiles, remembering... and then-|stage direction|||
+876|RYAN (CONT'D)|Tri module separation, go...|speech|RYAN|F|True
 877||"She presses the button.
 OUTER SPACE.
 The locks connecting the three modules of the Soyuz release.
@@ -2345,12 +2345,12 @@ A mechanism pushes the CONTROL CABIN away from the AIRLOCK and
 the ENGINES, and it slowly gains distance from them.
 CONTROL CABIN.
 Ryan scans through the complicated charts and diagrams in the
-manual."|stage direction||
+manual."|stage direction|||
 878|RYAN|"Okay Houston, here comes the tricky
 part, the Soyuz has to think we're
-only three meters above the earth."|speech|RYAN|F
-879||A pause, and then-|stage direction||
-880|RYAN (CONT'D)|Let's reset you then.|speech|RYAN|F
+only three meters above the earth."|speech|RYAN|F|True
+879||A pause, and then-|stage direction|||
+880|RYAN (CONT'D)|Let's reset you then.|speech|RYAN|F|True
 881||"Using the manual as a reference, Ryan uses the cursors to select
 the ALTITUDE DISPLAY on the computer screen.
 The current ALTITUDE is- 2600 M.
@@ -2359,50 +2359,50 @@ computer screen comes on.
 She presses another button, and-
 ON THE SCREEN, the ALTITUDE goes blank.
 Ryan punches a new set of commands.
-The ALTITUDE now reads- 3 meters."|stage direction||
+The ALTITUDE now reads- 3 meters."|stage direction|||
 882|RYAN (CONT'D)|"Okay. I only have one shot at this.
-One shot..."|speech|RYAN|F
-883||She extends her finger...|stage direction||
-884|RYAN(CONT'D)|What's the point if we don't try?|speech|RYAN|F
+One shot..."|speech|RYAN|F|True
+883||She extends her finger...|stage direction|||
+884|RYAN(CONT'D)|What's the point if we don't try?|speech|RYAN|F|True
 885||"SHE PRESSES THE BUTTON.
 OUTER SPACE.
 A THREE SECOND THRUST ignites at the back of the cabin, pushing
 it at great speeds toward the Chinese Station.
 SOYUZ CONTROL CABIN.
 The strength of the thrust pushes Ryan back in her seat.
-She looks at-"|stage direction||
-886||THE PERISCOPE-|location||
+She looks at-"|stage direction|||
+886||THE PERISCOPE-|location|||
 887||"The Soyuz is approaching the Tiangong. The center of the
 crosshair is aiming three degrees above the Chinese Station.
 OUTER SPACE.
 The Soyuz is making its way rapidly towards the Chinese Station.
 CONTROL CABIN.
-Ryan is looking out of the window, at Earth-"|stage direction||
+Ryan is looking out of the window, at Earth-"|stage direction|||
 888|RYAN|"Wow... you were right Matt... it's
-magnificent...."|speech|RYAN|F
-889||She then turns to-|stage direction||
-890||THE PERISCOPE-|location||
+magnificent...."|speech|RYAN|F|True
+889||She then turns to-|stage direction|||
+890||THE PERISCOPE-|location|||
 891||"The Chinese Station quickly grows in size as the Soyuz gets
 closer and closer.
-ALTITUDE DIAL- 155 km and dropping."|stage direction||
+ALTITUDE DIAL- 155 km and dropping."|stage direction|||
 892|RYAN (CONT'D)|"You're losing altitude, Tiangong. You
 keep dropping and you're going to kiss
 the atmosphere. But not before I get
-to you. You have my last ride home."|speech|RYAN|F
+to you. You have my last ride home."|speech|RYAN|F|True
 893||"A new sense of urgency comes up on Ryan's face.
 She unhooks the umbilical from her suit.
 She unstraps herself.
-She floats over and looks out of-"|stage direction||
-894||THE PORTHOLE-|location||
+She floats over and looks out of-"|stage direction|||
+894||THE PORTHOLE-|location|||
 895||"The Chinese Station is approaching, getting closer.
 She disarms the emergency exit and holds on to the LATCH.
 She pauses and turns to grab the fire extinguisher and holds it
 tightly against her chest with one arm. With the other arm-
 She reaches for the Latch.
 The Station is hovering right next to her and the cabin is going
-to pass it."|stage direction||
+to pass it."|stage direction|||
 896|RYAN (CONT'D)|"Okay, I'm done with just driving.
-Let's get go home."|speech|RYAN|F
+Let's get go home."|speech|RYAN|F|True
 897||"She turns the latch, and-
 PYROTECHNICS shoot the porthole into space.
 The brutal force of the infinite VACUUM of space SUCKS THE AIR
@@ -2414,23 +2414,23 @@ A CANNONBALL WOMAN is launched up from the Soyuz's hatch. She
 passes the Chinese Station as she twirls up toward the Heavens.
 The Soyuz continues its straight trajectory toward Earth.
 INSIDE THE HELMET-
-Ryan is stunned from the impact and her shoulder is in pain."|stage direction||
-898||OUTSIDE-|location||
+Ryan is stunned from the impact and her shoulder is in pain."|stage direction|||
+898||OUTSIDE-|location|||
 899||"Everything twirls.
 Earth and Heavens.
 An ALARM in her STOPWATCH RINGS. It's been EIGHTY-FIVE MINUTES.
 And she spins and sees-
 THE TIANGONG, one mile below her. And below it-
-A bright comet leaves behind a yellow scratch over the Earth. It"|stage direction||
-900||IS-|location||
+A bright comet leaves behind a yellow scratch over the Earth. It"|stage direction|||
+900||IS-|location|||
 901||"THE SOYUZ BURNING upon contact with the atmosphere.
 Ryan drifts away. She holds tightly to the fire extinguisher
 with one hand, and with the other she checks her right shoulder.
 IT HURTS.
 But there's no time, the Tiangong is getting farther away. She
-points the nozzle of the fire extinguisher away from her and"|stage direction||
+points the nozzle of the fire extinguisher away from her and"|stage direction|||
 902||"TRIGGERS A-
-SPRAY-"|location||
+SPRAY-"|location|||
 903||"It acts like a thrust that pushes her toward the Station. It
 helped, but she is still off target.
 INSIDE THE HELMET-
@@ -2440,21 +2440,21 @@ She begins HUMMING as she looks at-
 The Station drifting ahead, less than five hundred meters away.
 From this distance the damage caused to the Tiangong by the
 debris is clear. The solar panels are shredded to pieces, and
-several modules appear to have been badly hit."|stage direction||
+several modules appear to have been badly hit."|stage direction|||
 904||"RYAN GIVES-
-ANOTHER SPRAY-"|location||
+ANOTHER SPRAY-"|location|||
 905||"Propelling herself even closer to the Station.
 INSIDE THE HELMET-
 She stops humming. Her breath is fogging up the glass, giving
 her a blurred view of-
-The Station, which is less than a hundred meters away. She can"|stage direction||
-906||SEE THAT-|location||
+The Station, which is less than a hundred meters away. She can"|stage direction|||
+906||SEE THAT-|location|||
 907||"The LIFEBOAT, the SHENZHOU, a vessel very similar to the Soyuz,
 is docked on a module.
 It's now clear that she's not flying straight toward the
 Station.
-Ryan attempts to correct her trajectory by giving-"|stage direction||
-908||ANOTHER SPRAY-|location||
+Ryan attempts to correct her trajectory by giving-"|stage direction|||
+908||ANOTHER SPRAY-|location|||
 909||"But only a very SMALL THRUST comes out of the extinguisher, not
 enough to push her on the right track.
 She PULLS the trigger again-
@@ -2468,16 +2468,16 @@ She drifts, very slowly, two meters above the Station.
 Her arm, outstretched, tries to grab hold of anything it can.
 INSIDE THE HELMET-
 Ryan winces in pain and looks at-
-Her outstretched arm reaching toward-"|stage direction||
-910||THE STATION-|location||
+Her outstretched arm reaching toward-"|stage direction|||
+910||THE STATION-|location|||
 911||"She slowly drifts across the modules, the tips of her fingers
 almost touching the surface of the Tiangong.
 A handle passes under her, almost within reach, but she does not
 manage to hold onto it.
 INSIDE THE HELMET-
 She's struggling, but she knows she's not going to make it. She
-looks ahead at-"|stage direction||
-912||THE STATION-|location||
+looks ahead at-"|stage direction|||
+912||THE STATION-|location|||
 913||"A solar panel, following the rotation of the Station, comes into
 view.
 She stretches out her arm as she gets closer to it.
@@ -2489,16 +2489,16 @@ She GRABS onto a rod on the Solar Panel, STOPPING her momentum.
 Ryan hangs from the Station. She holds her right arm tightly to
 her chest.
 INSIDE THE HELMET-
-She catches her breath and is clearly in pain."|stage direction||
-914||RYAN SEES-|location||
+She catches her breath and is clearly in pain."|stage direction|||
+914||RYAN SEES-|location|||
 915||"A LONESOME PIECE OF DEBRIS.
 It hovers above the Station and glows as the sunlight hits its
 surface. It passes very quickly.
 And there's ANOTHER ONE cruising farther above.
-She pulls her right arm up."|stage direction||
-916|RYAN|Ahhhhhh!|speech|RYAN|F
-917||The pain is excruciating, but she grabs onto the panel's rod,|stage direction||
-918||AND-|location||
+She pulls her right arm up."|stage direction|||
+916|RYAN|Ahhhhhh!|speech|RYAN|F|True
+917||The pain is excruciating, but she grabs onto the panel's rod,|stage direction|||
+918||AND-|location|||
 919||"SHE PULLS HERSELF UP, and clinging with her leg, she secures
 herself to the panel.
 INSIDE THE HELMET-
@@ -2520,8 +2520,8 @@ With her bad arm she holds onto a handle.
 With the other, she pulls on the latch and-
 OPENS THE AIRLOCK.
 A gust of AIR bursts out, pushing the hatch wide open.
-Ryan holds on tightly to the handle."|stage direction||
-920||ABOVE HER-|location||
+Ryan holds on tightly to the handle."|stage direction|||
+920||ABOVE HER-|location|||
 921||"Clusters of DEBRIS pass by, flying at different distances and at
 great speeds.
 Pieces COLLIDE with each other, exploding into more debris.
@@ -2538,12 +2538,12 @@ The airlock is smaller than the one in the International Space
 Station but, like the ISS, there is a small control panel on one
 side.
 INSIDE THE HELMET-
-The glass is almost fogged up. She makes her way to the-"|stage direction||
-922||CONTROL PANEL-|location||
+The glass is almost fogged up. She makes her way to the-"|stage direction|||
+922||CONTROL PANEL-|location|||
 923||"The red, yellow, and green graph is bright red. Under it, TWO
-BUTTONS with Chinese ideograms on them."|stage direction||
-924||Her finger hesitates as she takes a wild guess.|stage direction||
-925||SHE PRESSES-|location||
+BUTTONS with Chinese ideograms on them."|stage direction|||
+924||Her finger hesitates as she takes a wild guess.|stage direction|||
+925||SHE PRESSES-|location|||
 926||"A FAINT HISSING SOUND is heard.
 THE CABIN PRESSURIZES.
 As oxygen fills the space-
@@ -2553,14 +2553,14 @@ murmur. But as air allows sound to conduct its waves, it becomes
 clear.
 AN ALARM IS GOING OFF.
 Over it a recording plays in a LOOP. It is in Mandarin. The
-VOICE in the recording is urgent. Clearly it is not good news."|stage direction||
-927||She's in pain and more tired than ever now, and she's punchy.|stage direction||
+VOICE in the recording is urgent. Clearly it is not good news."|stage direction|||
+927||She's in pain and more tired than ever now, and she's punchy.|stage direction|||
 928||"She waits, floating.
 INSIDE THE HELMET-
 The glass is completely fogged up. Through the condensation, she
 can only discern a RED LIGHT filtering through.
-She waits."|stage direction||
-929|RYAN|Come on. Come on.|speech|RYAN|F
+She waits."|stage direction|||
+929|RYAN|Come on. Come on.|speech|RYAN|F|True
 930||"And when the RED GLOW turns to ORANGE-
 Ryan UNLOCKS her helmet and, using only her left hand, struggles
 to take it off.
@@ -2585,7 +2585,7 @@ determination are bordering with madness.
 She inspects her surroundings. Through a hatch she sees a long
 corridor-like cabin that leads to another node. It is the LAB
 MODULE.
-The LOOP keeps on playing."|stage direction||
+The LOOP keeps on playing."|stage direction|||
 931||"She enters the hatch into the-
 TIANGONG LAB MODULE.
 The only light is coming from flickering emergency lights.
@@ -2598,8 +2598,8 @@ THE SHAKING INTENSIFIES as-
 She reaches the end of the module and goes into the-
 TIANGONG NODE 2.
 She floats to the center of the node.
-There are three open hatches- RIGHT, LEFT, and-"|stage direction||
-932||BELOW-|location||
+There are three open hatches- RIGHT, LEFT, and-"|stage direction|||
+932||BELOW-|location|||
 933||"A Docking Module, very similar to the one in the ISS. At the far
 end of it an open hatch leads into the SHENZHOU ESCAPE POD.
 MORE RUMBLING SHAKES THE STATION.
@@ -2639,10 +2639,10 @@ CONTROL PANEL.
 It has more monitors than the Soyuz's panel, and the main board
 is arranged differently. All of the buttons are labeled with
 CHINESE IDEOGRAMS.
-AND IT IS SHAKING FIERCELY."|stage direction||
-934|RYAN|Seriously?|speech|RYAN|F
+AND IT IS SHAKING FIERCELY."|stage direction|||
+934|RYAN|Seriously?|speech|RYAN|F|True
 935||"THROUGH-
-THE PORTHOLE-"|location||
+THE PORTHOLE-"|location|||
 936||"A thin bright yellow halo covers the whole window.
 OUTER SPACE.
 The yellow halo envelops the whole Station as it glides over the
@@ -2652,72 +2652,72 @@ The remaining SOLAR PANEL resists breaking off from the
 structure, but still goes up in flames, leaving a trail of
 SPARKS.
 SHENZHOU ESCAPE POD.
-EVERYTHING IS SHAKING."|stage direction||
+EVERYTHING IS SHAKING."|stage direction|||
 937|RYAN|"In the Soyuz the power button is
-erm....here!"|speech|RYAN|F
+erm....here!"|speech|RYAN|F|True
 938||"She passes her finger over the board, trying to make sense of
-the buttons."|stage direction||
+the buttons."|stage direction|||
 939|RYAN (CONT'D)|"Ah, ok ah undocking,
-undocking....eenie, meenie,..."|speech|RYAN|F
-940||SHE PRESSES|location||
+undocking....eenie, meenie,..."|speech|RYAN|F|True
+940||SHE PRESSES|location|||
 941||"An ALARM RINGS, and under the ongoing LOOP, a RECORDING, clearly
-warning."|stage direction||
+warning."|stage direction|||
 942|"RECORDING
-RYAN"|Ok. That doesn't sound good....|speech|RECORDINGRYAN|?
+RYAN"|Ok. That doesn't sound good....|speech|RECORDINGRYAN|?|
 943||"She glances around frantically, turns it off.
 It's shaking very intensely but she's wide-eyed now, clearly
-close to being beside herself."|stage direction||
-944|RYAN (CONT'D)|Miini... moh...|speech|RYAN|F
+close to being beside herself."|stage direction|||
+944|RYAN (CONT'D)|Miini... moh...|speech|RYAN|F|True
 945||"She tries a BIG BUTTON that says-
 A NEW ALARM, followed by a NEW RECORDING, also a warning-
-And with a horrible accent-"|stage direction||
-946|RYAN (CONT'D)|No hablo chino.|speech|RYAN|F
-947||She keeps searching for the right button.|stage direction||
-948|RYAN (CONT'D)|Mini... moh...|speech|RYAN|F
+And with a horrible accent-"|stage direction|||
+946|RYAN (CONT'D)|No hablo chino.|speech|RYAN|F|True
+947||She keeps searching for the right button.|stage direction|||
+948|RYAN (CONT'D)|Mini... moh...|speech|RYAN|F|True
 949||"And she presses a new one.
 The LIGHTS on the Control Panel GO ON. The cabin makes a humming
 sound as SYSTEMS BEGIN TO ACTIVATE.
 On the control panel lights go on in patterns reminiscent of the
-switchboard in the Soyuz."|stage direction||
-950|RYAN (CONT'D)|Okay....okay...|speech|RYAN|F
+switchboard in the Soyuz."|stage direction|||
+950|RYAN (CONT'D)|Okay....okay...|speech|RYAN|F|True
 951||"She begins going through the progressions she used on the Soyuz,
-only quicker this time, jabbing button after button."|stage direction||
+only quicker this time, jabbing button after button."|stage direction|||
 952|RYAN (CONT'D)|"Good...good...There. And this should
-be..."|speech|RYAN|F
-953||She presses one more button and systems turn to green.|stage direction||
-954|RYAN (CONT'D)|Okay... Houston in the blind...|speech|RYAN|F
-955||She raises her voice to be heard over the GROWING RUMBLE.|stage direction||
+be..."|speech|RYAN|F|True
+953||She presses one more button and systems turn to green.|stage direction|||
+954|RYAN (CONT'D)|Okay... Houston in the blind...|speech|RYAN|F|True
+955||She raises her voice to be heard over the GROWING RUMBLE.|stage direction|||
 956|RYAN (CONT'D)|"This is Mission Specialist Ryan Stone
 reporting from the Shenzhou. I'm about
 to undock from the Tiangong and I have
-a bad feeling about this mission."|speech|RYAN|F
+a bad feeling about this mission."|speech|RYAN|F|True
 957||"She presses a new button and the system goes to green. And on
-the MONITOR a COUNTDOWN appears."|stage direction||
-958|RYAN (CONT'D)|Reminds me of a story, Houston--|speech|RYAN|F
-959||She reacts to a bad shake of the cabin.|stage direction||
+the MONITOR a COUNTDOWN appears."|stage direction|||
+958|RYAN (CONT'D)|Reminds me of a story, Houston--|speech|RYAN|F|True
+959||She reacts to a bad shake of the cabin.|stage direction|||
 960|RYAN (CONT'D)|"Okay, you know what, Houston? Never
-mind the story..."|speech|RYAN|F
-961||She looks around as the cabin starts shaking even harder.|stage direction||
-962|RYAN (CONT'D)|It's getting hotter in here.|speech|RYAN|F
-963||She watches the COUNTDOWN on the MONITOR- 3:59... 3:58...|stage direction||
-964|RYAN (CONT'D)|The way I figure it, there's only two|speech|RYAN|F
+mind the story..."|speech|RYAN|F|True
+961||She looks around as the cabin starts shaking even harder.|stage direction|||
+962|RYAN (CONT'D)|It's getting hotter in here.|speech|RYAN|F|True
+963||She watches the COUNTDOWN on the MONITOR- 3:59... 3:58...|stage direction|||
+964|RYAN (CONT'D)|The way I figure it, there's only two|speech|RYAN|F|True
 965||"Ryan keeps her eyes fixed on the countdown. Raises her voice to
-compete with the rising chaos..."|stage direction||
+compete with the rising chaos..."|stage direction|||
 966|RYAN (CONT'D)|"I either make it down in one piece and
 I'll have one hell of a story to
-tell..."|speech|RYAN|F
-967||And now the noise and the shake are nearing their peak...|stage direction||
+tell..."|speech|RYAN|F|True
+967||And now the noise and the shake are nearing their peak...|stage direction|||
 968|RYAN (CONT'D)|"...Or I burn up in the next ten
-minutes."|speech|RYAN|F
-969||Ryan smiles, flips the safety lid of a button open.|stage direction||
+minutes."|speech|RYAN|F|True
+969||Ryan smiles, flips the safety lid of a button open.|stage direction|||
 970|RYAN (CONT'D)|"Whichever way it goes, no harm no
-foul."|speech|RYAN|F
-971||As the cabin RATTLES VIOLENTLY.|stage direction||
-972|RYAN (CONT'D)|Because either way--|speech|RYAN|F
-973||She closes her eyes, puts her finger over the button.|stage direction||
-974|RYAN (CONT'D)|It'll be one hell of a ride.|speech|RYAN|F
-975||Ryan presses the button.|stage direction||
-976|RYAN (CONT'D)|I'm ready.|speech|RYAN|F
+foul."|speech|RYAN|F|True
+971||As the cabin RATTLES VIOLENTLY.|stage direction|||
+972|RYAN (CONT'D)|Because either way--|speech|RYAN|F|True
+973||She closes her eyes, puts her finger over the button.|stage direction|||
+974|RYAN (CONT'D)|It'll be one hell of a ride.|speech|RYAN|F|True
+975||Ryan presses the button.|stage direction|||
+976|RYAN (CONT'D)|I'm ready.|speech|RYAN|F|True
 977||"OUTER SPACE.
 The Station is bouncing over the atmosphere. One end of it is
 glowing more brightly and catches FIRE.
@@ -2730,14 +2730,14 @@ Tearing it into two parts, which are sent twisting in opposite
 directions. The ESCAPE POD, attached to the DOCK, is spinning
 towards earth.
 SHENZHOU ESCAPE POD.
-Ryan is SHAKEN and RATTLED in her seat."|stage direction||
-978|RYAN|Yeehaaa!|speech|RYAN|F
+Ryan is SHAKEN and RATTLED in her seat."|stage direction|||
+978|RYAN|Yeehaaa!|speech|RYAN|F|True
 979||"GRAVITY is still minimal, but the force of the inertia is rough
 and it jerks her around. She sees-
 A RED LEVER above her, but she can only reach it with her bad
-hand."|stage direction||
-980||SHE STRETCHES|location||
-981|RYAN (CONT'D)|Ahhhhhhhh!|speech|RYAN|F
+hand."|stage direction|||
+980||SHE STRETCHES|location|||
+981|RYAN (CONT'D)|Ahhhhhhhh!|speech|RYAN|F|True
 982||"SHE GRABS THE LEVER-
 AND PULLS IT.
 OUTER SPACE.
@@ -2758,8 +2758,8 @@ It cuts through the atmosphere at incredible speeds.
 Its metal is burning hot.
 Smoldering DEBRIS and the fragments of the STATION chase the
 Shenzhou in its descent.
-SHENZHOU ESCAPE POD."|stage direction||
-983||THE PORTHOLE-|location||
+SHENZHOU ESCAPE POD."|stage direction|||
+983||THE PORTHOLE-|location|||
 984||"A blinding light pours in from outside the window.
 The spinning is over, but the cabin vibrates with a loud rumble.
 As the G-Force restrains Ryan against her seat, she clenches her
@@ -2776,8 +2776,8 @@ closing the distance.
 SHENZHOU ESCAPE POD.
 In THE PORTHOLE-
 Outside burning debris is passing by. The gravitational pull
-keeps Ryan tense in her seat as drops fall on her face. She"|stage direction||
-985||LOOKS AT-|location||
+keeps Ryan tense in her seat as drops fall on her face. She"|stage direction|||
+985||LOOKS AT-|location|||
 986||"THE CEILING- where condensation is dripping.
 ATMOSPHERE. 100 KM ABOVE THE EARTH.
 The avalanche is about to swallow the cabin when the burning
@@ -2826,8 +2826,8 @@ She coughs as the white smoke is becoming unbearable. She's
 suffocating.
 LOWER ATMOSPHERE. 100 METERS ABOVE THE EARTH.
 The Shenzhou is rapidly approaching the ground.
-It is falling straight toward a lake. Two meters before hitting"|stage direction||
-987||ITS SURFACE-|location||
+It is falling straight toward a lake. Two meters before hitting"|stage direction|||
+987||ITS SURFACE-|location|||
 988||"THE LANDING ENGINES IGNITE, giving the downward thrust meant to
 cushion the landing on a hard surface.
 The thrust parts the water, creating a curtain of steam, and the
@@ -2856,8 +2856,8 @@ filling the cabin, but it is too strong.
 THE CABIN IS OVERFLOWING.
 The water has reached Ryan's chin when-
 She manages to take ONE LAST DEEP BREATH of air before-
-WATER COMPLETELY FILLS IT."|stage direction||
-989||UNDERWATER|location||
+WATER COMPLETELY FILLS IT."|stage direction|||
+989||UNDERWATER|location|||
 990||"The metallic capsule, which weighs almost three tons, sinks
 quickly into the lake. As the ropes of the parachute tense, the
 long fabric follows the cabin down.
@@ -2867,8 +2867,8 @@ small bubbles float up.
 Ryan fights her way to the hatch, and pulling with her good arm,
 she swims out.
 UNDERWATER.
-She pushes herself away from the cabin, swimming away from the"|stage direction||
-991||POD AS-|location||
+She pushes herself away from the cabin, swimming away from the"|stage direction|||
+991||POD AS-|location|||
 992||"THE SHENZHOU HITS THE LAKE BOTTOM.
 A dark cloud of mud swells up around it.
 Ryan struggles to SWIM UP to the surface, but she can only use
@@ -2884,8 +2884,8 @@ THE FROG crosses in front of her, effortlessly swimming on its
 way to the surface.
 Small bubbles of air come out of Ryan's nose as she struggles to
 open her suit.
-She takes off the BOTTOM PART of the suit."|stage direction||
-993||ABOVE HER-|location||
+She takes off the BOTTOM PART of the suit."|stage direction|||
+993||ABOVE HER-|location|||
 994||"THE PARACHUTE IS GETTING CLOSER, a net about to trap her.
 She struggles out of the TOP PART of her suit. And squirming out
 from under it-
@@ -2903,16 +2903,16 @@ surface is coming closer and closer.
 She reaches the thin boundary between water and air and she come
 out to the-
 SURFACE.
-And she takes an enormous breath."|stage direction||
-995|RYAN|AAAHHHHHH!|speech|RYAN|F
+And she takes an enormous breath."|stage direction|||
+995|RYAN|AAAHHHHHH!|speech|RYAN|F|True
 996||"Almost primal, like the first breath of a newborn child, it
 burns her lungs but reclaims life.
 She only has enough strength to keep her face above water. She
 FLOATS, catching her breath and taking long gulps of air.
-She looks up at-"|stage direction||
-997||THE SKY-|location||
-998||Where the clouds move, caressed by air and light. And beyond|stage direction||
-999||THEM-|location||
+She looks up at-"|stage direction|||
+997||THE SKY-|location|||
+998||Where the clouds move, caressed by air and light. And beyond|stage direction|||
+999||THEM-|location|||
 1000||"OUTER SPACE, but-
 SHE'S BACK ON EARTH.
 She turns around, and-
@@ -2942,15 +2942,15 @@ It's not a cough, it's a chuckle.
 RYAN IS CRACKING UP.
 Ecstasy overcomes Ryan and-
 Joyful laughter fills her body.
-SHE IS ALIVE."|stage direction||
-1001|RYAN|Thank you.|speech|RYAN|F
+SHE IS ALIVE."|stage direction|||
+1001|RYAN|Thank you.|speech|RYAN|F|True
 1002||"She PLANTS HER PALMS against the ground and-
 With an effort, she pushes herself up.
 SHE FEELS HER WEIGHT, and manages to rise to her hands and knees
 like a four-legged mammal.
 And she STANDS UP.
-ONE FOOT FALLS heavily on the ground. It sinks into the mud and"|stage direction||
-1003||THEN-|location||
+ONE FOOT FALLS heavily on the ground. It sinks into the mud and"|stage direction|||
+1003||THEN-|location|||
 1004||"ANOTHER FOOT.
-Ryan's FEET are solidly planted on the mud."|stage direction||
-1005|RYAN (CONT'D)|Ahhhhh!!!|speech|RYAN|F
+Ryan's FEET are solidly planted on the mud."|stage direction|||
+1005|RYAN (CONT'D)|Ahhhhh!!!|speech|RYAN|F|True

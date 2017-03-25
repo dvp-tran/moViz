@@ -1,4 +1,4 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"Rev. 08/20/02 (2nd Blue)
 Rev. 08/22/02 (2nd Pink)
 Rev. 01/29/03 (2nd Yellow)
@@ -11,70 +11,70 @@ Nick Swardson & Jamie Kennedy
 and Fax Bahr & Adam Small & Jamie Kennedy
 FULL YELLOW DRAFT
 July 25, 2002
-MALIBU'S MOST WANTED"|unknown||
+MALIBU'S MOST WANTED"|unknown|||
 1||"MUSIC: GRAND MASTER FLASH'S ""The Message"" KICKS IN and
 as MAIN TITLES ROLL we...
-FADE IN:"|location||
-2||1    EXT. PACIFIC COAST HIGHWAY - DAY                            1|unknown||
+FADE IN:"|location|||
+2||1    EXT. PACIFIC COAST HIGHWAY - DAY                            1|unknown|||
 3||"A tricked-out Cadillac Escalade with the windows tinted
-deep black rolls INTO FRAME."|location||
+deep black rolls INTO FRAME."|location|||
 4||"FLASH (V.O.)
 'It's like a jungle sometimes,
-It makes me wonder how I keep from"|unknown||
-5|unknown|going under...'|speech|unknown|?
-6||A1   ESCALADE                                                    A1|unknown||
+It makes me wonder how I keep from"|unknown|||
+5|unknown|going under...'|speech|unknown|?|
+6||A1   ESCALADE                                                    A1|unknown|||
 7||"passes three people doing tai chi on a bluff overlooking
-the ocean..."|location||
+the ocean..."|location|||
 8||"FLASH (V.O.)
 'Broken glass everywhere, people
 pissing on the stairs
 you know they just don't care...'
-B1   ESCALADE                                                    B1"|unknown||
+B1   ESCALADE                                                    B1"|unknown|||
 9||"passes a gorgeous Labrador retriever snatching a Frisbee
-midair..."|location||
+midair..."|location|||
 10||"FLASH (V.O.)
 'Can't take the smell,
 Can't take the noise,
 Got no money to move out
 I guess I got no choice...'
-C1   ESCALADE                                                    C1"|unknown||
-11||passes two horse back riders galloping along the beach...|location||
+C1   ESCALADE                                                    C1"|unknown|||
+11||passes two horse back riders galloping along the beach...|location|||
 12||"FLASH (V.O.)
 'Rats in the front room,
 Roaches in the back...'
-D1   ESCALADE                                                    D1"|unknown||
+D1   ESCALADE                                                    D1"|unknown|||
 13||"passes a gleaming mansion with a massive putting green-
-like lawn..."|location||
+like lawn..."|location|||
 14||"(CONTINUED)
 2.
-D1   CONTINUED:                                                    D1"|unknown||
+D1   CONTINUED:                                                    D1"|unknown|||
 15|FLASH (V.O.)|"'Junkie's in the alley
-With a baseball bat...'"|speech|FLASH|?
-16||E1   ESCALADE                                                      E1|unknown||
+With a baseball bat...'"|speech|FLASH|?|True
+16||E1   ESCALADE                                                      E1|unknown|||
 17||"passes blonde Little Leaguers playing baseball in crisp
-new uniforms."|location||
+new uniforms."|location|||
 18|FLASH (V.O.)|"'A crazy lady, livin' in a bag,
 Eatin' outta garbage pails,
-Used to be a fag hag...'"|speech|FLASH|?
-19||F1   ESCALADE                                                      F1|unknown||
+Used to be a fag hag...'"|speech|FLASH|?|True
+19||F1   ESCALADE                                                      F1|unknown|||
 20||"passes two rich housewives clutching shopping bags from
-the most expensive stores on the planet..."|location||
-21|FLASH (V.O.)|'Don't push me cuz I'm close to|speech|FLASH|?
-22||the edge,|unknown||
-23|FLASH (V.O.)|I'm tryin', not to lose my|speech|FLASH|?
+the most expensive stores on the planet..."|location|||
+21|FLASH (V.O.)|'Don't push me cuz I'm close to|speech|FLASH|?|True
+22||the edge,|unknown|||
+23|FLASH (V.O.)|I'm tryin', not to lose my|speech|FLASH|?|True
 24||"head...'
-G1   ANGLE ON ESCALADE                                             G1"|unknown||
+G1   ANGLE ON ESCALADE                                             G1"|unknown|||
 25||"Drives through a security gate and into a gated community
-of brand new mansions..."|location||
-26|FLASH (V.O.)|'It's like a jungle sometimes, it|speech|FLASH|?
-27||makes me wonder,|unknown||
-28|FLASH (V.O.)|How I keep from goin' under...'|speech|FLASH|?
+of brand new mansions..."|location|||
+26|FLASH (V.O.)|'It's like a jungle sometimes, it|speech|FLASH|?|True
+27||makes me wonder,|unknown|||
+28|FLASH (V.O.)|How I keep from goin' under...'|speech|FLASH|?|True
 29||"CUT TO:
-2    EXT. GLUCKMAN MANSION (MALIBU) - DAY                          2"|unknown||
+2    EXT. GLUCKMAN MANSION (MALIBU) - DAY                          2"|unknown|||
 30||"A small crowd and the press are gathered around BILL
 GLUCKMAN, his wife BESS (40s, lots of plastic surgery)
 and daughter BRENDA (11) who are on the porch of their
-12,000-square-foot mansion."|location||
+12,000-square-foot mansion."|location|||
 31||"(CONTINUED)
 3.
 2   CONTINUED:                                                      2
@@ -124,7 +124,7 @@ on its amped-up hydraulics like something from Crenshaw
 Boulevard on a Friday night.
 The rear doors pop open and MOCHA (a.k.a. CHADWICK VAN
 PELT), dressed head to toe in hip-hop gear, steps out of
-the passenger side."|unknown||
+the passenger side."|unknown|||
 32||"Yo yo yoooo!   Listen up, y'all!
 He lays down a beat ""human beat box""-style as MONSTER
 (a.k.a. MIRIAM SHAIDELBAUM) climbs out. She's big,
@@ -150,31 +150,31 @@ Four fine white girls in bikini tops, vinyl shorts and
 Timberlands come out and dance behind Brad, shaking
 everything they've got. Reporters move in like vultures.
 BRAD
-'Y'all gathered here on this"|unknown||
-33||special occasion.|stage direction||
-34||Listen to my pops, he's your|unknown||
-35||West Coast liaison'|stage direction||
-36||So show up, don't make me throw|unknown||
-37||up.|stage direction||
+'Y'all gathered here on this"|unknown|||
+33||special occasion.|stage direction|||
+34||Listen to my pops, he's your|unknown|||
+35||West Coast liaison'|stage direction|||
+36||So show up, don't make me throw|unknown|||
+37||up.|stage direction|||
 38||"(MORE)
 (CONTINUED)
 5.
 2   CONTINUED:    (3)                                             2
 BRAD (CONT'D)
-Take out your purse and cough some"|unknown||
-39||dough up.|stage direction||
-40||My chickens get wit you, if you|unknown||
-41||vote right.|stage direction||
-42||And don't worry y'all, cuz my|unknown||
-43||girls is tight.|stage direction||
-44||Immigration, education, runaway|unknown||
-45||inflation.|stage direction||
-46||California ain't flowin' like old|unknown||
-47||constipation.|stage direction||
-48||Vote Bill G on your election|unknown||
-49||ballot.|stage direction||
-50||If you don't I'm gonna hit you wit|unknown||
-51||a mallot!|stage direction||
+Take out your purse and cough some"|unknown|||
+39||dough up.|stage direction|||
+40||My chickens get wit you, if you|unknown|||
+41||vote right.|stage direction|||
+42||And don't worry y'all, cuz my|unknown|||
+43||girls is tight.|stage direction|||
+44||Immigration, education, runaway|unknown|||
+45||inflation.|stage direction|||
+46||California ain't flowin' like old|unknown|||
+47||constipation.|stage direction|||
+48||Vote Bill G on your election|unknown|||
+49||ballot.|stage direction|||
+50||If you don't I'm gonna hit you wit|unknown|||
+51||a mallot!|stage direction|||
 52||"Get Glucked y'all!
 Tom again steps in and blocks Brad from view.
 TOM
@@ -443,50 +443,50 @@ the near future... you're going to
 be in big trouble!!
 (CONTINUED)
 12.
-9    CONTINUED:                                                   9"|unknown||
+9    CONTINUED:                                                   9"|unknown|||
 53||"Using the remote, Brad changes the channel on his
-parents' monitors to ""Yo MTV Raps."""|location||
+parents' monitors to ""Yo MTV Raps."""|location|||
 54||"DISSOLVE TO:
-10   INT. PSYCHIATRIST'S OFFICE - DAY (PRESENT)                   10"|unknown||
+10   INT. PSYCHIATRIST'S OFFICE - DAY (PRESENT)                   10"|unknown|||
 55|DR. FELDMAN|"What I'm sensing, Brad, is that
 your parents weren't really there
-for you."|speech|DR. FELDMAN|?
-56||BRAD|unknown||
-57|DR. FELDMAN|Nope.|speech|DR. FELDMAN|?
-58||(defensive)|unknown||
-59|BESS|That's ridiculous!|speech|BESS|M
-60|BILL|What about your bar mitzvah?|speech|BILL|M
+for you."|speech|DR. FELDMAN|?|
+56||BRAD|unknown|||
+57|DR. FELDMAN|Nope.|speech|DR. FELDMAN|?|
+58||(defensive)|unknown|||
+59|BESS|That's ridiculous!|speech|BESS|M|
+60|BILL|What about your bar mitzvah?|speech|BILL|M|True
 61||"DISSOLVE TO:
-11   FLASHBACK - INT. GLUCKMAN MANSION - LIVING ROOM - DAY        11"|unknown||
+11   FLASHBACK - INT. GLUCKMAN MANSION - LIVING ROOM - DAY        11"|unknown|||
 62||"(1990)
 Bill and Bess enter with suitcases. The house is crowded
-with relatives and Brad's 13-year-old friends."|location||
-63|BILL|Mazel tov, Bradley!|speech|BILL|M
+with relatives and Brad's 13-year-old friends."|location|||
+63|BILL|Mazel tov, Bradley!|speech|BILL|M|True
 64||"UNCLE LOUIE, fifty and fat, with prayer shawl and
-yarmulke, moves past them and calls out to Brad:"|location||
+yarmulke, moves past them and calls out to Brad:"|location|||
 65|UNCLE LOUIE (O.S.)|"What's the theme of your party,
 kid? Star Wars? Baseball?
-Superheroes?"|speech|UNCLE LOUIE|?
+Superheroes?"|speech|UNCLE LOUIE|?|
 66||"REVEAL: THIRTEEN-YEAR-OLD BRAD dressed like Flava Flav,
 a big clock around his neck, looking like he's just
-smelled a fart."|location||
-67|BRAD|It's O.P.P., bitch!|speech|BRAD|M
+smelled a fart."|location|||
+67|BRAD|It's O.P.P., bitch!|speech|BRAD|M|True
 68||"Brad exits through French doors, and as we FOLLOW him
-OUTSIDE NAUGHTY BY NATURE'S ""O.P.P."" KICKS IN."|location||
+OUTSIDE NAUGHTY BY NATURE'S ""O.P.P."" KICKS IN."|location|||
 69||"13.
-12   EXT. GLUCKMAN MANSION - BACK YARD   - SAME TIME             12"|unknown||
+12   EXT. GLUCKMAN MANSION - BACK YARD   - SAME TIME             12"|unknown|||
 70||"It's like we've suddenly stepped into a hard-core rap
 video -- big-bootied home girls in bikinis freak with
 clean-cut Jewish kids as the staff serve barbecue and
 malt liquor to the freaked-out guests. Among them, we
 see a 13-year-old HADJI, MONSTER, and MOCHA, all nicely-
 dressed for temple. Above, a huge spray-painted banner
-reads: ""MAZEL TIZZOV B-RAD, ON HIS BAR MITZVAH!"""|location||
+reads: ""MAZEL TIZZOV B-RAD, ON HIS BAR MITZVAH!"""|location|||
 71||"DISSOLVE TO:
 13   OMITTED                                                     13
 14                                                               14
-15   INT. PSYCHIATRIST'S OFFICE - DAY (PRESENT)                  15"|unknown||
-72||Bess sniffles and dabs her eyes.|location||
+15   INT. PSYCHIATRIST'S OFFICE - DAY (PRESENT)                  15"|unknown|||
+72||Bess sniffles and dabs her eyes.|location|||
 73||"DR. FELDMAN
 Bess, I'm sensing you'd like to
 share.
@@ -516,81 +516,81 @@ take a drive.
 14.
 15    CONTINUED:                                                      15
 Brad leaves, slamming the door behind him.
-BESS"|unknown||
-74||What can we do, doctor?|stage direction||
-75||DR. FELDMAN|unknown||
+BESS"|unknown|||
+74||What can we do, doctor?|stage direction|||
+75||DR. FELDMAN|unknown|||
 76||"Well, his lack of parental
 guidance left Brad wide open to
 outside influence, allowing hip-
 hop culture to firmly imprint on
-his psyche."|stage direction||
-77||BILL|unknown||
+his psyche."|stage direction|||
+77||BILL|unknown|||
 78||"Do you think we can bring him
-back?"|stage direction||
+back?"|stage direction|||
 79||"DR. FELDMAN
-(grim)"|unknown||
+(grim)"|unknown|||
 80||"I don't know. This is the most
 advanced case of gangsta-phrenia
-I've ever seen."|stage direction||
-81||BESS|unknown||
-82||Oh no, not gangsta-phrenia!|stage direction||
+I've ever seen."|stage direction|||
+81||BESS|unknown|||
+82||Oh no, not gangsta-phrenia!|stage direction|||
 83||"CUT TO:
 A15   EXT. GLUCKMAN BACK YARD - POOLSIDE - DAY                        A15
 Brad relaxes in a lounge chair, wearing sunglasses and
 sipping on a forty. Bess enters wearing a Chanel suit.
 She sits on the lounge chair next to him.
-BESS"|unknown||
+BESS"|unknown|||
 84||"Bradley, I know you're busy, but
-we need to talk."|stage direction||
-85||Brad lifts his sunglasses and turns to his mother.|unknown||
-86||What's up?|stage direction||
-87||BESS|unknown||
+we need to talk."|stage direction|||
+85||Brad lifts his sunglasses and turns to his mother.|unknown|||
+86||What's up?|stage direction|||
+87||BESS|unknown|||
 88||"After our therapy session I
 realized that your father and I
 could have been better parents.
 We neglected you and I feel
-terrible."|stage direction||
+terrible."|stage direction|||
 89||"(CONTINUED)
 14A.
 MALIBU'S MOST WANTED - Rev. 8/22/02 (2nd Pink)
 A15   CONTINUED:                                                        A15
-BRAD"|unknown||
-90||For real?|stage direction||
-91||BESS|unknown||
+BRAD"|unknown|||
+90||For real?|stage direction|||
+91||BESS|unknown|||
 92||"Yes.  So from here on out I'm
 going to be a better mother. I
 want to get closer to you... be
 there for you. If ever you
-need --"|stage direction||
+need --"|stage direction|||
 93||"Just then, her CELL PHONE RINGS.         She pulls it out from
 her hip and answers.
-BESS"|unknown||
+BESS"|unknown|||
 94||"Hello? Celeste! When did you get
 back?! What?! Oh my God! I've
 been waiting for that bag for six
-months!"|stage direction||
+months!"|stage direction|||
 95||"(to Brad, covering
-phone)"|unknown||
-96||It's my personal shopper.|stage direction||
-97||(back to phone)|unknown||
-98||Stay right there. I'm on my way!|stage direction||
+phone)"|unknown|||
+96||It's my personal shopper.|stage direction|||
+97||(back to phone)|unknown|||
+98||Stay right there. I'm on my way!|stage direction|||
 99||"She stands.
-BESS"|unknown||
+BESS"|unknown|||
 100||"So... where we... Oh yes. I'm
 always here for you, Bradley. Do
-you have my cell number?"|stage direction||
+you have my cell number?"|stage direction|||
 101||"She hands Brad a piece of paper and exits. Brad pulls
 down his shades and takes a long sip from his forty.
 16    OMITTED                                                           16
 17    EXT. GLUCKMAN MANSION - PATIO - NOON                              17
 Brad sits at the massive dining room table as Gladys pours
 him a big glass of grape juice, then cuts up his food.
-BRAD"|unknown||
-102||Gladys?|stage direction||
-103||GLADYS|unknown||
-104||Yeah?|stage direction||
-105||BRAD|unknown||
-106||Ever feel like you don't belong?|stage direction||
+BRAD"|unknown|||
+102||Gladys?|stage direction|||
+103||GLADYS|unknown|||
+104||Yeah?|stage direction|||
+105||BRAD|unknown|||
+106||Ever feel like you don't belong?|stage direction|||
 107||"(CONTINUED)
 14B.
 17   CONTINUED: (A1)                                           17
@@ -603,184 +603,184 @@ get scared and angry, wanna keep
 'em down.
 (CONTINUED)
 15.
-17   CONTINUED:                                                      17"|unknown||
-108|BRAD|What do you do about it?|speech|BRAD|M
+17   CONTINUED:                                                      17"|unknown|||
+108|BRAD|What do you do about it?|speech|BRAD|M|True
 109|GLADYS|"Nothin' to do but keep it real.
-Be proud of who you are."|speech|GLADYS|F
+Be proud of who you are."|speech|GLADYS|F|
 110|BRAD|"Yeah, you right... Gladys, when
-they gonna leave our people alone?"|speech|BRAD|M
-111||(emotional)|unknown||
+they gonna leave our people alone?"|speech|BRAD|M|True
+111||(emotional)|unknown|||
 112|GLADYS|"I don't know, baby, I just don't
-know..."|speech|GLADYS|F
-113||(notices Brad's plate)|unknown||
+know..."|speech|GLADYS|F|
+113||(notices Brad's plate)|unknown|||
 114|GLADYS|"Eat your greens before they get
-cold, boy."|speech|GLADYS|F
+cold, boy."|speech|GLADYS|F|
 115||"A PAGER GOES OFF. Brad searches his pockets, pulls out a
 pager -- that's not it; pulls out another pager -- that's
-not it either; pulls out a two-way -- that's the one."|location||
-116||(reading pager)|unknown||
-117|BRAD|Oh no, not again!|speech|BRAD|M
-118||He gets up and runs out of the room.|location||
+not it either; pulls out a two-way -- that's the one."|location|||
+116||(reading pager)|unknown|||
+117|BRAD|Oh no, not again!|speech|BRAD|M|True
+118||He gets up and runs out of the room.|location|||
 119||"CUT TO:
-18   INT. CAMPAIGN HEADQUARTERS - WAR ROOM - DAY (SAME TIME)         18"|unknown||
+18   INT. CAMPAIGN HEADQUARTERS - WAR ROOM - DAY (SAME TIME)         18"|unknown|||
 120||"Bill, Tom, the staff, and several AIDES of varying
-ethnicity are mid-meeting."|location||
-121|TOM|How'd it go with Feldman?|speech|TOM|M
+ethnicity are mid-meeting."|location|||
+121|TOM|How'd it go with Feldman?|speech|TOM|M|True
 122|BILL|"Great news. If he sees Brad five
 days a week, he says we'll see
 improvement in three to four
-years."|speech|BILL|M
+years."|speech|BILL|M|True
 123|JEN|"But... the election's in two
-months."|speech|JEN|?
-124|BILL|Right, good point.|speech|BILL|M
+months."|speech|JEN|?|True
+124|BILL|Right, good point.|speech|BILL|M|True
 125||"(CONTINUED)
 16.
-18   CONTINUED:                                                      18"|unknown||
+18   CONTINUED:                                                      18"|unknown|||
 126|TOM|"We've been brainstorming on some
 different approaches, and I think
-we may have something solid here."|speech|TOM|M
-127||BILL|unknown||
-128|TOM|I'm all ears.|speech|TOM|M
-129||TOM|unknown||
-130|TOM|Guys?|speech|TOM|M
-131||The team gathers around -- it's a gang pitch.|location||
+we may have something solid here."|speech|TOM|M|True
+127||BILL|unknown|||
+128|TOM|I'm all ears.|speech|TOM|M|True
+129||TOM|unknown|||
+130|TOM|Guys?|speech|TOM|M|True
+131||The team gathers around -- it's a gang pitch.|location|||
 132|BRETT|"Brad might act 'ghetto,' but let's
 face it, he's never been east of
-Beverly Hills."|speech|BRETT|?
+Beverly Hills."|speech|BRETT|?|True
 133|JEN|"But what if we give him a little
-dose of reality?"|speech|JEN|?
+dose of reality?"|speech|JEN|?|True
 134|GARY|"Let him get a firsthand look at
-the ghetto."|speech|GARY|?
+the ghetto."|speech|GARY|?|True
 135|BILL|"You mean, have Brad actually... go
-there?"|speech|BILL|M
-136||TOM|unknown||
-137|BILL|Exactly.|speech|BILL|M
-138|BILL|Sounds dangerous...|speech|BILL|M
-139|BRETT|It'll be perfectly safe.|speech|BRETT|?
-140|BILL|How does it work?|speech|BILL|M
-141|JEN|We hire actors to play gangsters.|speech|JEN|?
+there?"|speech|BILL|M|True
+136||TOM|unknown|||
+137|BILL|Exactly.|speech|BILL|M|True
+138|BILL|Sounds dangerous...|speech|BILL|M|True
+139|BRETT|It'll be perfectly safe.|speech|BRETT|?|True
+140|BILL|How does it work?|speech|BILL|M|True
+141|JEN|We hire actors to play gangsters.|speech|JEN|?|True
 142|TOM|"They car-jack Brad,     then take him
 on a 'tour' of the     'hood... give
 him a little taste     of what thug
 life's really like.      It might just
-scare the black out     of him."|speech|TOM|M
+scare the black out     of him."|speech|TOM|M|True
 143||"(CONTINUED)
 17.
-18   CONTINUED:    (2)                                              18"|unknown||
-144||Tom gets strange looks from everyone.|location||
-145||AFRICAN-AMERICAN AIDE|unknown||
-146|TOM|Excuse me?|speech|TOM|M
+18   CONTINUED:    (2)                                              18"|unknown|||
+144||Tom gets strange looks from everyone.|location|||
+145||AFRICAN-AMERICAN AIDE|unknown|||
+146|TOM|Excuse me?|speech|TOM|M|True
 147|TOM|"Look, I'm as down as the next
 brother, guy... fellah. I grew up
 in Compton, okay? But let's get
 over the P.C. thing and face
 facts. Unless we do something
 soon, Brad's gonna cost us this
-election."|speech|TOM|M
-148||The team all nods.|location||
-149|BILL|I don't know... it sounds so drastic.|speech|BILL|M
+election."|speech|TOM|M|True
+148||The team all nods.|location|||
+149|BILL|I don't know... it sounds so drastic.|speech|BILL|M|True
 150|TOM|"Maybe drastic is what Brad needs,
 Bill. He is twenty-four. I mean,
 what's he gonna do for a living,
-rap?"|speech|TOM|M
-151||They all chuckle.     Bill sighs.|location||
-152|BILL|Who do we get for the gangsters?|speech|BILL|M
+rap?"|speech|TOM|M|True
+151||They all chuckle.     Bill sighs.|location|||
+152|BILL|Who do we get for the gangsters?|speech|BILL|M|True
 153|TOM|"Remember the anti-crime spot we
-shot last month?"|speech|TOM|M
-154|GARY|We've got it cued up.|speech|GARY|?
+shot last month?"|speech|TOM|M|True
+154|GARY|We've got it cued up.|speech|GARY|?|True
 155||"They turn to the TV and Gary hits PLAY.
-On the monitor:     A Gluckman campaign ad plays."|location||
-156||19   EXT. GHETTO BASKETBALL COURT - DAY                             19|unknown||
-157||A young, black gangbanger (SEAN), glares at camera.|location||
+On the monitor:     A Gluckman campaign ad plays."|location|||
+156||19   EXT. GHETTO BASKETBALL COURT - DAY                             19|unknown|||
+157||A young, black gangbanger (SEAN), glares at camera.|location|||
 158|NARRATOR (V.O.)|"For too long, street violence has
-torn Californians apart..."|speech|NARRATOR|?
-159||A second banger (PJ), glares at camera.|location||
+torn Californians apart..."|speech|NARRATOR|?|
+159||A second banger (PJ), glares at camera.|location|||
 160||"(CONTINUED)
 18.
-19   CONTINUED:                                                     19"|unknown||
+19   CONTINUED:                                                     19"|unknown|||
 161|NARRATOR (V.O.)|"Bill Gluckman wants to put our
-divisions behind us."|speech|NARRATOR|?
+divisions behind us."|speech|NARRATOR|?|
 162||"We cut wide: to reveal Bill Gluckman standing in between
-the two gangbangers. He's in shirtsleeves, tie loosened."|location||
+the two gangbangers. He's in shirtsleeves, tie loosened."|location|||
 163|BILL (V.O.)|"Fellas, instead of thinking of
 yourselves as what set you're
 from, or what crew you're rolling
 with, why can't you both be
-brothers. What do you say?"|speech|BILL|M
+brothers. What do you say?"|speech|BILL|M|True
 164|SEAN (V.O.)|"I guess we never thought of each
-other like that."|speech|SEAN|M
-165|PJ (V.O.)|Me neither, dawg.|speech|PJ|?
-166||PJ and Sean think is over, nod and shake hands.|location||
-167|BILL (V.O.)|You see...|speech|BILL|M
-168||(turning to camera)|unknown||
-169|BILL (V.O.)|'California is my family'...|speech|BILL|M
+other like that."|speech|SEAN|M|True
+165|PJ (V.O.)|Me neither, dawg.|speech|PJ|?|True
+166||PJ and Sean think is over, nod and shake hands.|location|||
+167|BILL (V.O.)|You see...|speech|BILL|M|True
+168||(turning to camera)|unknown|||
+169|BILL (V.O.)|'California is my family'...|speech|BILL|M|True
 170||"Cut to angle on Bill and the gangbangers playing
-basketball, having a wonderful time."|location||
+basketball, having a wonderful time."|location|||
 171|BILL (V.O.)|"If we work together as a family
 there's no telling how high we can
-go."|speech|BILL|M
+go."|speech|BILL|M|True
 172||"Bill flies by, obviously from an O.S. trampoline, and
 soars over the gangbangers for a monster dunk.
-Freeze on:     the two awestruck ""gangbangers."""|location||
-173||18   BACK TO SCENE                                                  18|unknown||
+Freeze on:     the two awestruck ""gangbangers."""|location|||
+173||18   BACK TO SCENE                                                  18|unknown|||
 174||"As they talk we see Brad, out the window, raising a
-banner."|location||
+banner."|location|||
 175||"TOM
-Those are our guys, right there."|unknown||
-176|BILL|Will he be safe?|speech|BILL|M
+Those are our guys, right there."|unknown|||
+176|BILL|Will he be safe?|speech|BILL|M|True
 177||"(CONTINUED)
 19.
 18   CONTINUED:                                                      18
-TOM"|unknown||
-178|BILL|Absolutely.|speech|BILL|M
+TOM"|unknown|||
+178|BILL|Absolutely.|speech|BILL|M|True
 179||"(fed up and
-confused)"|unknown||
-180|BILL|I don't know... can't we just...|speech|BILL|M
+confused)"|unknown|||
+180|BILL|I don't know... can't we just...|speech|BILL|M|True
 181||"He looks out the window and sees Brad's new banner.       It
-reads, in graffiti colors: ""ELECTION ERECTION."""|location||
-182|BILL|Alright, fine, just do it.|speech|BILL|M
+reads, in graffiti colors: ""ELECTION ERECTION."""|location|||
+182|BILL|Alright, fine, just do it.|speech|BILL|M|True
 183||"CUT TO:
-20   INT. MALI-BREW - DAY                                            20"|unknown||
+20   INT. MALI-BREW - DAY                                            20"|unknown|||
 184||"Brad urgently runs into the Mali-Brew Coffee Shop
 (Starbucks clone), where he and his crew spend ninety
 percent of their time. He is stopped at the door by a
-very worried Mocha and Monster."|location||
-185||BRAD|unknown||
-186|BILL|Lemme go.|speech|BILL|M
-187|MOCHA|You don't want to see him like dis.|speech|MOCHA|M
-188|BRAD|What happened?|speech|BRAD|M
-189|MOCHA|He O.D.'d again.|speech|MOCHA|M
-190|BRAD|Why didn't you stop him?|speech|BRAD|M
-191||MONSTER|unknown||
-192|BRAD|I tried, yo!|speech|BRAD|M
-193|BRAD|How many did he do?|speech|BRAD|M
+very worried Mocha and Monster."|location|||
+185||BRAD|unknown|||
+186|BILL|Lemme go.|speech|BILL|M|True
+187|MOCHA|You don't want to see him like dis.|speech|MOCHA|M|True
+188|BRAD|What happened?|speech|BRAD|M|True
+189|MOCHA|He O.D.'d again.|speech|MOCHA|M|True
+190|BRAD|Why didn't you stop him?|speech|BRAD|M|True
+191||MONSTER|unknown|||
+192|BRAD|I tried, yo!|speech|BRAD|M|True
+193|BRAD|How many did he do?|speech|BRAD|M|True
 194|MOCHA|"Like twelve, thirteen, I don't
-know!"|speech|MOCHA|M
+know!"|speech|MOCHA|M|True
 195|BRAD|"Damn. Twelve Frapachizzo's.
 Brotha's caffeined out. Move
-aside."|speech|BRAD|M
+aside."|speech|BRAD|M|True
 196||"(CONTINUED)
 20.
 20    CONTINUED:                                                      20
 Brad pushes past and looks on in horror at Hadji, pacing
 and talking to himself like a rabid dog on angel dust.
-HADJI"|unknown||
+HADJI"|unknown|||
 197||"I'ma get mine! Step, fool!   I'll
-cut you, I swear!"|stage direction||
-198||BRAD|unknown||
+cut you, I swear!"|stage direction|||
+198||BRAD|unknown|||
 199||"Just chill, Hadji, we're here to
-help. What's up?"|stage direction||
+help. What's up?"|stage direction|||
 200||"HADJI
-(frenzied)"|unknown||
+(frenzied)"|unknown|||
 201||"I... I... I was pickin' up
 aromatherapy candles at
 Illuminations for Moms, right?
 And the counter trick gave me
 lemon when I specifically axed for
-lilac!"|stage direction||
+lilac!"|stage direction|||
 202||"Brad turns to Hadji.
-BRAD"|unknown||
-203||It's on now!|stage direction||
+BRAD"|unknown|||
+203||It's on now!|stage direction|||
 204||"MUSIC:   PUBLIC ENEMY'S ""Fight The Power"" KICKS IN as
 we --
 CUT TO:
@@ -798,93 +798,93 @@ Brad and his crew approach the OLD WOMAN CASHIER.
 (CONTINUED)
 21.
 C20   CONTINUED:                                                     C20
-BRAD"|unknown||
+BRAD"|unknown|||
 205||"Yo, fool! We got some hard-core
-drama 'bout to go down right neow!!"|stage direction||
-206||HADJI|unknown||
-207||Dat's right!|stage direction||
-208||BRAD|unknown||
+drama 'bout to go down right neow!!"|stage direction|||
+206||HADJI|unknown|||
+207||Dat's right!|stage direction|||
+208||BRAD|unknown|||
 209||"Dis is our mall. Always was and
-always will be!"|stage direction||
-210||MOCHA|unknown||
-211||Woof woof!|stage direction||
-212||OLD WOMAN|unknown||
+always will be!"|stage direction|||
+210||MOCHA|unknown|||
+211||Woof woof!|stage direction|||
+212||OLD WOMAN|unknown|||
 213||"Oh, Mr. Amiraslani. I'm so glad
 you came back. Our clerk
 accidentally gave you the wrong
 aromatherapy candles. Here you
-go."|stage direction||
+go."|stage direction|||
 214||"She hands Hadji a box marked ""Lilac.""
-BRAD"|unknown||
+BRAD"|unknown|||
 215||"You better be validatin' my
-parking?"|stage direction||
-216||OLD WOMAN|unknown||
-217||Of course, sir.|stage direction||
-218||BRAD|unknown||
+parking?"|stage direction|||
+216||OLD WOMAN|unknown|||
+217||Of course, sir.|stage direction|||
+218||BRAD|unknown|||
 219||"Dat's what I'm talkin' 'bout.    We
-get ours!"|stage direction||
+get ours!"|stage direction|||
 220||"CUT TO:
 21    EXT. PARKING LOT - DAY                                         21
 Tom, standing by a limo, is speaking with Sean and PJ,
 dressed as their actual, preppy selves.
 SEAN
-(incredulous)"|unknown||
+(incredulous)"|unknown|||
 221||"Hold the phone, buddy... you want
 us to scare this kid until he
 starts acting like a nice little
-white boy again?"|stage direction||
-222||TOM|unknown||
-223||Don't think you can handle it?|stage direction||
+white boy again?"|stage direction|||
+222||TOM|unknown|||
+223||Don't think you can handle it?|stage direction|||
 224||"(CONTINUED)
 22.
-21   CONTINUED:                                                      21"|unknown||
+21   CONTINUED:                                                      21"|unknown|||
 225|SEAN|"Of course I can handle it. I
 studied at Juilliard for God's
-sake."|speech|SEAN|M
-226||TOM|unknown||
-227|SEAN|Fantastic.|speech|SEAN|M
-228||Tom hands them a manila envelope.|location||
+sake."|speech|SEAN|M|True
+226||TOM|unknown|||
+227|SEAN|Fantastic.|speech|SEAN|M|True
+228||Tom hands them a manila envelope.|location|||
 229|TOM|"Here's some background information
-on Brad."|speech|TOM|M
+on Brad."|speech|TOM|M|True
 230||"PJ pulls Brad's CD from the envelope.
 INSERT - CD COVER
 It is Brad, throwing the Malibu sign, surrounded by women
 in thongs with gigantic asses. The title, in graffiti
-font, reads: ""MALI-BOOTAY!"""|location||
-231||PJ (O.S.)|unknown||
-232|TOM|Malibootay?|speech|TOM|M
-233||BACK TO SCENE|location||
-234|TOM|He considers himself a 'rapper.'|speech|TOM|M
-235||SEAN|unknown||
-236|TOM|Frickin' A.|speech|TOM|M
-237||They all laugh.        Tom hands them a checklist/itinerary.|location||
+font, reads: ""MALI-BOOTAY!"""|location|||
+231||PJ (O.S.)|unknown|||
+232|TOM|Malibootay?|speech|TOM|M|True
+233||BACK TO SCENE|location|||
+234|TOM|He considers himself a 'rapper.'|speech|TOM|M|True
+235||SEAN|unknown|||
+236|TOM|Frickin' A.|speech|TOM|M|True
+237||They all laugh.        Tom hands them a checklist/itinerary.|location|||
 238|TOM|"Okay, so here's the story -- it's
-your basic kidnapping..."|speech|TOM|M
-239|SEAN|So we hold him for ransom?|speech|SEAN|M
-240||TOM|unknown||
+your basic kidnapping..."|speech|TOM|M|True
+239|SEAN|So we hold him for ransom?|speech|SEAN|M|True
+240||TOM|unknown|||
 241|SEAN|"Right.   But when you see   him
 acting ghetto and all, it    pisses
 you off  so much, you tour   him
 around the 'hood to show    him what
-things are really like."|speech|SEAN|M
-242||(hands PJ a list)|unknown||
+things are really like."|speech|SEAN|M|True
+242||(hands PJ a list)|unknown|||
 243|SEAN|"I had my guys brainstorm    a few
-ideas..."|speech|SEAN|M
+ideas..."|speech|SEAN|M|True
 244||"(CONTINUED)
 23.
-21   CONTINUED:    (2)                                             21"|unknown||
-245||(reading list)|unknown||
+21   CONTINUED:    (2)                                             21"|unknown|||
+245||(reading list)|unknown|||
 246|PJ|"'Mugging, drive-by shooting, crack
-deal gone bad...'"|speech|PJ|?
+deal gone bad...'"|speech|PJ|?|True
 247|SEAN|"Why don't you have him steal some
-watermelon while you're at it?"|speech|SEAN|M
-248|TOM|Pays fifteen grand apiece.|speech|TOM|M
-249||(quickly)|unknown||
-250|SEAN AND PJ|We're in.|speech|SEAN AND PJ|M
-251||TOM|unknown||
-252|SEAN AND PJ|Good.|speech|SEAN AND PJ|M
+watermelon while you're at it?"|speech|SEAN|M|True
+248|TOM|Pays fifteen grand apiece.|speech|TOM|M|True
+249||(quickly)|unknown|||
+250|SEAN AND PJ|We're in.|speech|SEAN AND PJ|M|
+251||TOM|unknown|||
+252|SEAN AND PJ|Good.|speech|SEAN AND PJ|M|
 253|SEAN|"Wait -- we're kidnapping him,
-couldn't we get arrested?"|speech|SEAN|M
+couldn't we get arrested?"|speech|SEAN|M|True
 254|TOM|"Got you covered. Mr. Gluckman's a
 billionaire -- if you run into any
 problems with the law, we're very
@@ -893,89 +893,89 @@ the flip side, if you screw up and
 a single hair is touched on
 Bradley's over-privileged head, I
 will make sure that you do serious
-time. Clear?"|speech|TOM|M
-255||SEAN|unknown||
-256|TOM|Cris... tal.|speech|TOM|M
-257||TOM|unknown||
-258|TOM|Good.|speech|TOM|M
-259|PJ|What about the money?|speech|PJ|?
-260||Pulls out a smaller envelope.|location||
+time. Clear?"|speech|TOM|M|True
+255||SEAN|unknown|||
+256|TOM|Cris... tal.|speech|TOM|M|True
+257||TOM|unknown|||
+258|TOM|Good.|speech|TOM|M|True
+259|PJ|What about the money?|speech|PJ|?|True
+260||Pulls out a smaller envelope.|location|||
 261|TOM|"Five up front, twenty-five when
-you return him to us, white."|speech|TOM|M
-262|SEAN|... As the driven snow.|speech|SEAN|M
+you return him to us, white."|speech|TOM|M|True
+262|SEAN|... As the driven snow.|speech|SEAN|M|True
 263||"(CONTINUED)
 24.
-21   CONTINUED:    (3)                                              21"|unknown||
-264|TOM|I'll call you.|speech|TOM|M
+21   CONTINUED:    (3)                                              21"|unknown|||
+264|TOM|I'll call you.|speech|TOM|M|True
 265||"Tom gets in the limo and leaves as Sean and PJ head for
-their car."|location||
+their car."|location|||
 266|PJ|"Congrats, my brother.   We just
-booked another gig."|speech|PJ|?
+booked another gig."|speech|PJ|?|True
 267|SEAN|"Yeah, but it's totally dangerous,
 dude. You know what it's like in
-the 'hood. We could get shot!"|speech|SEAN|M
+the 'hood. We could get shot!"|speech|SEAN|M|True
 268|PJ|"We can handle ourselves. Come on,
 man, it's the ultimate acting
-challenge."|speech|PJ|?
+challenge."|speech|PJ|?|True
 269|SEAN|"You know what really chaps  my ass?
 After years of training and  study,
 the only parts they'll give  us are
 gangbangers. Just once I'd   like
 to play a character who has  decent
 grammar and doesn't wear
-Timberlands."|speech|SEAN|M
+Timberlands."|speech|SEAN|M|True
 270|PJ|"Beats gettin' dunked on by Bill
-Gluckman."|speech|PJ|?
+Gluckman."|speech|PJ|?|True
 271|SEAN|"Do we even know anybody down
-there?"|speech|SEAN|M
-272||They think, then come up with it at the same time.|location||
-273||PJ|unknown||
-274|SEAN|My cousin.|speech|SEAN|M
-275||SEAN|unknown||
-276|SEAN|Shondra.|speech|SEAN|M
+there?"|speech|SEAN|M|True
+272||They think, then come up with it at the same time.|location|||
+273||PJ|unknown|||
+274|SEAN|My cousin.|speech|SEAN|M|True
+275||SEAN|unknown|||
+276|SEAN|Shondra.|speech|SEAN|M|True
 277||"CUT TO:
-22   INT. MALL FOOD COURT - WIENIE IN A BUN - CLOSE ON              22"|unknown||
+22   INT. MALL FOOD COURT - WIENIE IN A BUN - CLOSE ON              22"|unknown|||
 278||"SHONDRA - DAY
 in a Wienie In a Bun uniform, chewing gum and looking
-like she's smelling something nasty."|location||
+like she's smelling something nasty."|location|||
 279||"(CONTINUED)
 25.
-22   CONTINUED:                                                    22"|unknown||
+22   CONTINUED:                                                    22"|unknown|||
 280||"She's at the counter facing Sean and PJ.     PJ studies the
-menu."|location||
-281|SHONDRA|You zooted, nigga?|speech|SHONDRA|F
-282||WIDER|location||
-283|SEAN|Honest to God.|speech|SEAN|M
+menu."|location|||
+281|SHONDRA|You zooted, nigga?|speech|SHONDRA|F|True
+282||WIDER|location|||
+283|SEAN|Honest to God.|speech|SEAN|M|True
 284|SHONDRA|"That's the stupidest thing I ever
 heard. I got better things to do
-with my time, boy."|speech|SHONDRA|F
-285|SEAN|Like work at Wienie In A Bun?|speech|SEAN|M
+with my time, boy."|speech|SHONDRA|F|True
+285|SEAN|Like work at Wienie In A Bun?|speech|SEAN|M|True
 286|PJ|"Really. You're the one always
-talkin' about improvin' yourself."|speech|PJ|?
+talkin' about improvin' yourself."|speech|PJ|?|True
 287|SHONDRA|"I am improvin' myself, fool. I
 broke up with no-good gang-bangin'
 Tec, I'm going to beauty school,
-then I'ma hook up my own salon..."|speech|SHONDRA|F
+then I'ma hook up my own salon..."|speech|SHONDRA|F|True
 288|PJ|"In the meantime, how about hooking
 a brother up with a Pepsi and some
-fries?"|speech|PJ|?
-289|SHONDRA|Shut up, stupid.|speech|SHONDRA|F
+fries?"|speech|PJ|?|True
+289|SHONDRA|Shut up, stupid.|speech|SHONDRA|F|True
 290|SEAN|"Do this, Shondra. You'll get some
 real money so you can quit this
 minimum wage crap and start up
-your business."|speech|SEAN|M
-291|SHONDRA|What you payin'?|speech|SHONDRA|F
-292||SEAN|unknown||
-293|SHONDRA|A grand.|speech|SHONDRA|F
-294|SHONDRA|Make it trey, we on.|speech|SHONDRA|F
+your business."|speech|SEAN|M|True
+291|SHONDRA|What you payin'?|speech|SHONDRA|F|True
+292||SEAN|unknown|||
+293|SHONDRA|A grand.|speech|SHONDRA|F|True
+294|SHONDRA|Make it trey, we on.|speech|SHONDRA|F|True
 295||"(CONTINUED)
 25A.
-22   CONTINUED:    (2)                                              22"|unknown||
-296|SEAN|Jesus Christ, three grand?|speech|SEAN|M
-297|SHONDRA|Or you can kiss my ass.|speech|SHONDRA|F
-298||PJ|unknown||
-299|SHONDRA|Deal.   Now how about those fries?|speech|SHONDRA|F
-300||MUSIC:   An UPTEMPO RAP TRACK KICKS IN as we...|location||
+22   CONTINUED:    (2)                                              22"|unknown|||
+296|SEAN|Jesus Christ, three grand?|speech|SEAN|M|True
+297|SHONDRA|Or you can kiss my ass.|speech|SHONDRA|F|True
+298||PJ|unknown|||
+299|SHONDRA|Deal.   Now how about those fries?|speech|SHONDRA|F|True
+300||MUSIC:   An UPTEMPO RAP TRACK KICKS IN as we...|location|||
 301||"CUT TO:
 26.
 A22   INT. SEAN AND PJ'S APARTMENT - NIGHT                         A22
@@ -1019,14 +1019,14 @@ Okay, got the gangsta wear.
 27.
 A22   CONTINUED:                                                     A22
 PJ bursts into laughter.
-SEAN"|unknown||
-302||What's so funny?|stage direction||
-303||PJ|unknown||
+SEAN"|unknown|||
+302||What's so funny?|stage direction|||
+303||PJ|unknown|||
 304||"That wig, man! I didn't know this
 was Halloween. Bring me back some
-candy!"|stage direction||
-305||He doubles over, falling on the floor.|unknown||
-306||Whatever.|stage direction||
+candy!"|stage direction|||
+305||He doubles over, falling on the floor.|unknown|||
+306||Whatever.|stage direction|||
 307||"Sean yanks the wig off and whips it into the corner.
 DISSOLVE TO:
 SAME SCENE - LATER
@@ -1044,26 +1044,26 @@ from their pants, as we...
 SMASH CUT TO:
 CLOSE ON SEAN
 His face filled with rage.
-SEAN"|unknown||
+SEAN"|unknown|||
 308||"Gimme your ride, punk, or I will
-dust yo ass!"|stage direction||
+dust yo ass!"|stage direction|||
 309||"(CONTINUED)
 27A.
 A22   CONTINUED:    (2)                                                     A22
 WIDEN to reveal PJ watching Sean, shaking his head.
-PJ"|unknown||
+PJ"|unknown|||
 310||"Nope, you're not convincing me.
 Remember your core character.
 You're an oppressed black man from
-the ghetto."|stage direction||
-311||SEAN|unknown||
+the ghetto."|stage direction|||
+311||SEAN|unknown|||
 312||"Yeah, I know, I'm having trouble
 finding this one. Lemme try it
 again.  Gimme your ride, punk, or
-I will dust yo ass!"|stage direction||
-313||PJ|unknown||
+I will dust yo ass!"|stage direction|||
+313||PJ|unknown|||
 314||"Add a 'beeyotch' and I think
-you're there."|stage direction||
+you're there."|stage direction|||
 315||"MUSIC: the MUSIC SEGUES from our MONTAGE RAP BEAT TO
 Mocha's HUMAN BEAT BOX, as we...
 DISSOLVE TO:
@@ -1076,275 +1076,275 @@ Shondra enters, looking ghetto fab hot. People look at
 her like she just landed from Mars. She raises her
 sunglasses, sees Brad and crew playing dominoes at a
 table. Brad slaps down the winner; points at Monster.
-BRAD"|unknown||
-316||I'm thin to win!|stage direction||
-317||(raps to Monster)|unknown||
+BRAD"|unknown|||
+316||I'm thin to win!|stage direction|||
+317||(raps to Monster)|unknown|||
 318||"'The name is B-Rad,
 Not Robbie Van Winkle...
 Go get my latte nonfat,
-And don't forget the sprinkle!'"|stage direction||
+And don't forget the sprinkle!'"|stage direction|||
 319||"They pound and congratulate Brad on his      brilliance.
 Shondra drops her shades back down and      moves in. Hadji
 sees her first. His jaw drops, then he       tugs on Mocha's
 shirt, whose jaw drops, then Mocha tugs      on Brad's shirt.
-BRAD"|unknown||
-320||Yo, what up, fool?   I'm --|stage direction||
+BRAD"|unknown|||
+320||Yo, what up, fool?   I'm --|stage direction|||
 321||"(CONTINUED)
 27B.
-23   CONTINUED:    (A1)                                                23"|unknown||
+23   CONTINUED:    (A1)                                                23"|unknown|||
 322||"Brad sees Shondra and freezes.      Everything goes SLOW
 MOTION.
 BRAD'S POV - SHONDRA
 strutting toward him.
-BACK TO SCENE"|location||
-323||BRAD|unknown||
-324|SEAN|Girl you fly.|speech|SEAN|M
+BACK TO SCENE"|location|||
+323||BRAD|unknown|||
+324|SEAN|Girl you fly.|speech|SEAN|M|True
 325||"(CONTINUED)
 28.
 23   CONTINUED:                                                      23
-SHONDRA"|unknown||
-326|SEAN|Thank you.|speech|SEAN|M
-327|BRAD|Let me get them tig ol' bitties.|speech|BRAD|M
-328||SHONDRA|unknown||
-329|BRAD|Word up.|speech|BRAD|M
+SHONDRA"|unknown|||
+326|SEAN|Thank you.|speech|SEAN|M|True
+327|BRAD|Let me get them tig ol' bitties.|speech|BRAD|M|True
+328||SHONDRA|unknown|||
+329|BRAD|Word up.|speech|BRAD|M|True
 330||"She throws open her shirt, and before we see anything
-we..."|location||
-331||CUT TO:|unknown||
+we..."|location|||
+331||CUT TO:|unknown|||
 332||"REVERSE ANGLE - BRAD
 His eyes go wide, then we're...
 BACK TO REAL TIME: Brad snaps to as Shondra brushes by
-and then moves to the counter."|location||
-333|BARISTA|Can I help you?|speech|BARISTA|?
-334||SHONDRA|unknown||
-335|BARISTA|Coffee.|speech|BARISTA|?
+and then moves to the counter."|location|||
+333|BARISTA|Can I help you?|speech|BARISTA|?|
+334||SHONDRA|unknown|||
+335|BARISTA|Coffee.|speech|BARISTA|?|
 336|BARISTA|"Tall, Grande, Venti, nonfat,
-soy --"|speech|BARISTA|?
-337||SHONDRA|unknown||
-338|BARISTA|Big...|speech|BARISTA|?
-339||(pointed)|unknown||
-340|BARISTA|...black.|speech|BARISTA|?
-341||(to Barista)|unknown||
+soy --"|speech|BARISTA|?|
+337||SHONDRA|unknown|||
+338|BARISTA|Big...|speech|BARISTA|?|
+339||(pointed)|unknown|||
+340|BARISTA|...black.|speech|BARISTA|?|
+341||(to Barista)|unknown|||
 342|BRAD|"Yo, Krista the Barista. Put it on
-my account."|speech|BRAD|M
-343||(to Shondra)|unknown||
+my account."|speech|BRAD|M|True
+343||(to Shondra)|unknown|||
 344|BRAD|"Get yourself a blueberry scizonne
-too, girl."|speech|BRAD|M
-345||SHONDRA|unknown||
-346|BRAD|Cool, playa.|speech|BRAD|M
+too, girl."|speech|BRAD|M|True
+345||SHONDRA|unknown|||
+346|BRAD|Cool, playa.|speech|BRAD|M|True
 347||"She smiles.     Brad follows her over to the condiment
-table."|location||
+table."|location|||
 348||"(CONTINUED)
 29.
-23   CONTINUED:    (2)                                              23"|unknown||
+23   CONTINUED:    (2)                                              23"|unknown|||
 349|BRAD|"I ain't seen you in here before.
-Where you reside?"|speech|BRAD|M
-350||SHONDRA|unknown||
-351|BRAD|Compton.   You?|speech|BRAD|M
-352||BRAD|unknown||
-353|BRAD|The streets.|speech|BRAD|M
-354|SHONDRA|Which streets?|speech|SHONDRA|F
-355|BRAD|Malibu... Represent.|speech|BRAD|M
-356||"Bard throws the ""M"" sign."|location||
+Where you reside?"|speech|BRAD|M|True
+350||SHONDRA|unknown|||
+351|BRAD|Compton.   You?|speech|BRAD|M|True
+352||BRAD|unknown|||
+353|BRAD|The streets.|speech|BRAD|M|True
+354|SHONDRA|Which streets?|speech|SHONDRA|F|True
+355|BRAD|Malibu... Represent.|speech|BRAD|M|True
+356||"Bard throws the ""M"" sign."|location|||
 357|SHONDRA|"Right. I guess it's pretty
-hardcore up in here."|speech|SHONDRA|F
-358|BRAD|Hell yeah.|speech|BRAD|M
-359||(points to his crew)|unknown||
+hardcore up in here."|speech|SHONDRA|F|True
+358|BRAD|Hell yeah.|speech|BRAD|M|True
+359||(points to his crew)|unknown|||
 360|BRAD|"I'm down with the P.C.H. Hustlers.
-And dems over dere..."|speech|BRAD|M
-361||Brad points to three white wannabes in another corner.|location||
+And dems over dere..."|speech|BRAD|M|True
+361||Brad points to three white wannabes in another corner.|location|||
 362|BRAD (O.S.)|"The Calabasis Crabs... and behind
-dem..."|speech|BRAD|M
-363||We PAN TO another table, where four thug posers sit.|location||
-364|BRAD|... the Palaside Pimps.|speech|BRAD|M
-365||SHONDRA|unknown||
-366|BRAD|Damn.   How do you deal?|speech|BRAD|M
-367|BRAD|All day every day.|speech|BRAD|M
-368||She smiles seductively.|location||
+dem..."|speech|BRAD|M|True
+363||We PAN TO another table, where four thug posers sit.|location|||
+364|BRAD|... the Palaside Pimps.|speech|BRAD|M|True
+365||SHONDRA|unknown|||
+366|BRAD|Damn.   How do you deal?|speech|BRAD|M|True
+367|BRAD|All day every day.|speech|BRAD|M|True
+368||She smiles seductively.|location|||
 369|SHONDRA|"Was that you droppin' rhymes when
-I came in?"|speech|SHONDRA|F
+I came in?"|speech|SHONDRA|F|True
 370||"(CONTINUED)
 30.
-23   CONTINUED:    (3)                                             23"|unknown||
-371|BRAD|Hell yeah, I'm a rhyma on tima...|speech|BRAD|M
-372||Brad hands her his CD.|location||
+23   CONTINUED:    (3)                                             23"|unknown|||
+371|BRAD|Hell yeah, I'm a rhyma on tima...|speech|BRAD|M|True
+372||Brad hands her his CD.|location|||
 373|SHONDRA|"Mali-boo-tay, huh? Looks phat.
-You gettin' any air play?"|speech|SHONDRA|F
+You gettin' any air play?"|speech|SHONDRA|F|True
 374|BRAD|"I'm holdin' out for Power 106. I
 sent Big Boy a CD, he just ain't
-gotten back to me yet."|speech|BRAD|M
+gotten back to me yet."|speech|BRAD|M|True
 375|SHONDRA|"Sounds just like that fat fool.
-I'll talk to him 'bout it."|speech|SHONDRA|F
-376||(blown away)|unknown||
-377|BRAD|Hold dup? You know Big Boy?|speech|BRAD|M
+I'll talk to him 'bout it."|speech|SHONDRA|F|True
+376||(blown away)|unknown|||
+377|BRAD|Hold dup? You know Big Boy?|speech|BRAD|M|True
 378|SHONDRA|"Hell yeah. I see him at the swap
-meet almost every Sunday."|speech|SHONDRA|F
-379||BRAD|unknown||
-380|SHONDRA|For rizzill?!|speech|SHONDRA|F
-381||SHONDRA|unknown||
-382|SHONDRA|For rizzeal.|speech|SHONDRA|F
-383||BRAD|unknown||
-384|SHONDRA|Yo.    Holler at him for me.|speech|SHONDRA|F
+meet almost every Sunday."|speech|SHONDRA|F|True
+379||BRAD|unknown|||
+380|SHONDRA|For rizzill?!|speech|SHONDRA|F|True
+381||SHONDRA|unknown|||
+382|SHONDRA|For rizzeal.|speech|SHONDRA|F|True
+383||BRAD|unknown|||
+384|SHONDRA|Yo.    Holler at him for me.|speech|SHONDRA|F|True
 385|SHONDRA|"I don't know. I guess you do
 kinda got it goin' on... It's
 funny. I was just on my way down
-to see him. Wanna roll with me?"|speech|SHONDRA|F
-386||BRAD|unknown||
-387|SHONDRA|Now?|speech|SHONDRA|F
-388||(thinks)|unknown||
+to see him. Wanna roll with me?"|speech|SHONDRA|F|True
+386||BRAD|unknown|||
+387|SHONDRA|Now?|speech|SHONDRA|F|True
+388||(thinks)|unknown|||
 389|SHONDRA|"Well, tonight was my Seder
-dinner..."|speech|SHONDRA|F
-390|SHONDRA|Just helping out a brotha.|speech|SHONDRA|F
+dinner..."|speech|SHONDRA|F|True
+390|SHONDRA|Just helping out a brotha.|speech|SHONDRA|F|True
 391||"(CONTINUED)
 31.
 23    CONTINUED:    (4)                                              23
 BRAD
-(kisses Chai)"|unknown||
-392||Let's bounce.|stage direction||
-393||SHONDRA|unknown||
+(kisses Chai)"|unknown|||
+392||Let's bounce.|stage direction|||
+393||SHONDRA|unknown|||
 394||"I'm just gonna hit the ladies'
-room, a'ight, pimp juice?"|stage direction||
+room, a'ight, pimp juice?"|stage direction|||
 395||"She heads off.      Brad turns to his posse.
-BRAD"|unknown||
+BRAD"|unknown|||
 396||"Yo, y'all, this fine dimey is
 hookin' me up with Big Boy
-hisself."|stage direction||
-397||HADJI|unknown||
-398||Shut up!|stage direction||
-399||BRAD|unknown||
-400||I ain't lyin'!|stage direction||
+hisself."|stage direction|||
+397||HADJI|unknown|||
+398||Shut up!|stage direction|||
+399||BRAD|unknown|||
+400||I ain't lyin'!|stage direction|||
 401||"They pound, shake, hug.
-HADJI"|unknown||
-402||Yo, but what about us?|stage direction||
-403||BRAD|unknown||
+HADJI"|unknown|||
+402||Yo, but what about us?|stage direction|||
+403||BRAD|unknown|||
 404||"Start droppin' beats. Soon as I
 sign with Biggy, we gonna need
-some sick tracks."|stage direction||
-405||HADJI|unknown||
-406||Bet!|stage direction||
+some sick tracks."|stage direction|||
+405||HADJI|unknown|||
+406||Bet!|stage direction|||
 407||"They all pound as Mocha starts throwing beats.
 24    INT. MALI-BREW BATHROOM - SAME TIME                            24
 Shondra's on her Nextel cell phone.
-SHONDRA"|unknown||
-408||It's on.|stage direction||
+SHONDRA"|unknown|||
+408||It's on.|stage direction|||
 409||"CUT TO:
 A24   INT. CAR - DAY                                                 A24
 Sean listens to Shondra on his Nextel, then looks at PJ
 and nods gravely.
 31A.
-25   INT. BRAD'S ESCALADE - MOVING - DAY                        25"|unknown||
-410||They drive along the Santa Monica Freeway, heading east.|location||
+25   INT. BRAD'S ESCALADE - MOVING - DAY                        25"|unknown|||
+410||They drive along the Santa Monica Freeway, heading east.|location|||
 411||"SHONDRA
 So what do you rap about?
 (CONTINUED)
 32.
-25   CONTINUED:                                                  25"|unknown||
-412|BRAD|Oh, I can rap about anything.|speech|BRAD|M
-413||SHONDRA|unknown||
-414|BRAD|For real?|speech|BRAD|M
-415|BRAD|Yeah, lemme kick it freestyle.|speech|BRAD|M
-416||(raps)|unknown||
-417|BRAD|'Traffic, traffic,|speech|BRAD|M
+25   CONTINUED:                                                  25"|unknown|||
+412|BRAD|Oh, I can rap about anything.|speech|BRAD|M|True
+413||SHONDRA|unknown|||
+414|BRAD|For real?|speech|BRAD|M|True
+415|BRAD|Yeah, lemme kick it freestyle.|speech|BRAD|M|True
+416||(raps)|unknown|||
+417|BRAD|'Traffic, traffic,|speech|BRAD|M|True
 418||"Lookin' for my Chap Stick,
 Feelin' kinda carsick,
-There's a Ford Maverick...'"|stage direction||
-419||(back to talking)|unknown||
+There's a Ford Maverick...'"|stage direction|||
+419||(back to talking)|unknown|||
 420|BRAD|"See? Dat's a million-dollar song
-right dare."|speech|BRAD|M
-421|SHONDRA|So, how did you get to be so down?|speech|SHONDRA|F
+right dare."|speech|BRAD|M|True
+421|SHONDRA|So, how did you get to be so down?|speech|SHONDRA|F|True
 422|BRAD|"I been a playa all my life, girl.
 And I must say, of all the sisters
 I been wit', you de finest. So,
-you got a man?"|speech|BRAD|M
-423||(bitter)|unknown||
+you got a man?"|speech|BRAD|M|True
+423||(bitter)|unknown|||
 424|SHONDRA|"I did, but I just got through
 kickin' his sorry ass to the curb.
 I ain't nobody's 'gangsta
-hoochie.' I am an entrepreneur."|speech|SHONDRA|F
-425||BRAD|unknown||
-426|SHONDRA|Word.|speech|SHONDRA|F
-427||(then)|unknown||
-428|SHONDRA|What's that?|speech|SHONDRA|F
-429|SHONDRA|A businesswoman.|speech|SHONDRA|F
-430||BRAD|unknown||
-431|SHONDRA|Oh.|speech|SHONDRA|F
+hoochie.' I am an entrepreneur."|speech|SHONDRA|F|True
+425||BRAD|unknown|||
+426|SHONDRA|Word.|speech|SHONDRA|F|True
+427||(then)|unknown|||
+428|SHONDRA|What's that?|speech|SHONDRA|F|True
+429|SHONDRA|A businesswoman.|speech|SHONDRA|F|True
+430||BRAD|unknown|||
+431|SHONDRA|Oh.|speech|SHONDRA|F|True
 432|SHONDRA|"One day I'ma have a chain of
 beauty salons all up in the 90210,
 just like Starbucks, only instead
 of coffee, with hair and nails.
 Makin' sick money turnin' all the
-rich hoochies ghetto fab."|speech|SHONDRA|F
+rich hoochies ghetto fab."|speech|SHONDRA|F|True
 433||"(CONTINUED)
 33.
-25   CONTINUED:    (2)                                               25"|unknown||
+25   CONTINUED:    (2)                                               25"|unknown|||
 434|BRAD|"That's genius, girl. Damn. You
 fine and smart too. You gonna
-blow up huge, no doubt."|speech|BRAD|M
+blow up huge, no doubt."|speech|BRAD|M|True
 435||"She's taken aback by his sincerity.      She doesn't get much
-validation from guys."|location||
-436||SHONDRA|unknown||
-437|BRAD|Thank you.|speech|BRAD|M
+validation from guys."|location|||
+436||SHONDRA|unknown|||
+437|BRAD|Thank you.|speech|BRAD|M|True
 438|BRAD|"For real, girl. You like a cross
 between Martha Stewart and Oprah.
-I'ma call you Mothrah."|speech|BRAD|M
+I'ma call you Mothrah."|speech|BRAD|M|True
 439||"She gives him a strange look, then notices where they
-are."|location||
-440|SHONDRA|Take this exit.|speech|SHONDRA|F
+are."|location|||
+440|SHONDRA|Take this exit.|speech|SHONDRA|F|True
 441||"Brad swerves across three lanes of the freeway to take
 the exit, and suddenly finds himself actually in South
 Central. He's awestruck -- he notices a homeless guy
-with a shopping cart loaded with bags of stuff."|location||
-442||BRAD|unknown||
+with a shopping cart loaded with bags of stuff."|location|||
+442||BRAD|unknown|||
 443|SHONDRA|"Yo. He really should use
-delivery."|speech|SHONDRA|F
+delivery."|speech|SHONDRA|F|True
 444||"Suddenly Sean pops his head into the car and stares
 directly at Brad. He puts a prop Tec 9 in Brad's chest
-and yanks him out of the car."|location||
+and yanks him out of the car."|location|||
 445|SEAN|"Gimme yo ride, punk, or I will
-dust yo ass... beeyotch!"|speech|SEAN|M
-446||BRAD|unknown||
-447|SEAN|What?!|speech|SEAN|M
-448|SEAN|You're gettin' jacked!   Move!|speech|SEAN|M
-449||BRAD|unknown||
-450|SEAN|Shondra?!|speech|SEAN|M
-451|SHONDRA|Shut up, fool!|speech|SHONDRA|F
+dust yo ass... beeyotch!"|speech|SEAN|M|True
+446||BRAD|unknown|||
+447|SEAN|What?!|speech|SEAN|M|True
+448|SEAN|You're gettin' jacked!   Move!|speech|SEAN|M|True
+449||BRAD|unknown|||
+450|SEAN|Shondra?!|speech|SEAN|M|True
+451|SHONDRA|Shut up, fool!|speech|SHONDRA|F|True
 452||"(CONTINUED)
 34.
 25    CONTINUED:    (3)                                              25
-BRAD"|unknown||
-453||Dis a come-up?!|stage direction||
-454||SEAN|unknown||
-455||No.    It's a stickup.|stage direction||
-456||BRAD|unknown||
-457||I think I'm gonna throw up.|stage direction||
-458||PJ|unknown||
+BRAD"|unknown|||
+453||Dis a come-up?!|stage direction|||
+454||SEAN|unknown|||
+455||No.    It's a stickup.|stage direction|||
+456||BRAD|unknown|||
+457||I think I'm gonna throw up.|stage direction|||
+458||PJ|unknown|||
 459||"And I'm about to wet you up if you
-don't move!"|stage direction||
+don't move!"|stage direction|||
 460||"BRAD
-(meekly)"|unknown||
+(meekly)"|unknown|||
 461||"Does this mean we're not going to
-Big Boy's?"|stage direction||
-462||PJ|unknown||
+Big Boy's?"|stage direction|||
+462||PJ|unknown|||
 463||"Big Boy's?    What this fool talkin'
-about?!"|stage direction||
-464||SEAN|unknown||
-465||You jus' been kidnapped.|stage direction||
+about?!"|stage direction|||
+464||SEAN|unknown|||
+465||You jus' been kidnapped.|stage direction|||
 466||"They throw Brad in the car and get in.
 A25   INT. BRAD'S ESCALADE - CONTINUOUS ACTION                       A25
 Sean takes off.
-BRAD"|unknown||
-467||Kidnapped?!|stage direction||
+BRAD"|unknown|||
+467||Kidnapped?!|stage direction|||
 468||"Yeah. We got your rich Gluckman
-ass now!"|stage direction||
-469||BRAD|unknown||
-470||How you know me?|stage direction||
-471||SEAN|unknown||
+ass now!"|stage direction|||
+469||BRAD|unknown|||
+470||How you know me?|stage direction|||
+471||SEAN|unknown|||
 472||"We saw you on the news the other
-night!"|stage direction||
-473||(mocking)|unknown||
-474||B-Rad!|stage direction||
-475||PJ|unknown||
+night!"|stage direction|||
+473||(mocking)|unknown|||
+474||B-Rad!|stage direction|||
+475||PJ|unknown|||
 476||"Your papa's gonna pay or you're
-gonna pay!"|stage direction||
+gonna pay!"|stage direction|||
 477||"(CONTINUED)
 34A.
 A25   CONTINUED:                                                      A25
@@ -1357,77 +1357,77 @@ CUT TO:
 26    INT. MALI-BREW - WIDE SHOT - DAY                                26
 Monster has just slammed down the winner, and the PAGER
 with Brad's message flies off the table and SHATTERS on
-the floor. Monster, Mocha and Hadji are unaware."|unknown||
+the floor. Monster, Mocha and Hadji are unaware."|unknown|||
 478||"Bam! Y'all owe me seven hundred
-dollars!"|stage direction||
+dollars!"|stage direction|||
 479||"(CONTINUED)
 35.
-26   CONTINUED:                                                     26"|unknown||
-480||Hadji reluctantly hands her a wad of cash as she laughs.|location||
+26   CONTINUED:                                                     26"|unknown|||
+480||Hadji reluctantly hands her a wad of cash as she laughs.|location|||
 481|HADJI|"A'ight, come on now, let's stop
 messing around. B told us to lay
-down some beats for the new album."|speech|HADJI|F
-482|MONSTER|Lemme go free style.|speech|MONSTER|F
+down some beats for the new album."|speech|HADJI|F|True
+482|MONSTER|Lemme go free style.|speech|MONSTER|F|True
 483|HADJI|"Free style, please! Your momma
-rap better than you."|speech|HADJI|F
-484|MONSTER|Don't you talk about my momma.|speech|MONSTER|F
+rap better than you."|speech|HADJI|F|True
+484|MONSTER|Don't you talk about my momma.|speech|MONSTER|F|True
 485|HADJI|"I'll talk about your momma all I
-want."|speech|HADJI|F
-486|MONSTER|You ain't got the bizalls, bitch!|speech|MONSTER|F
+want."|speech|HADJI|F|True
+486|MONSTER|You ain't got the bizalls, bitch!|speech|MONSTER|F|True
 487|HADJI|"Oh yeah? Peep dis. Your momma's
 so poor, when she shops at
-Barneys, she has to drive herself!"|speech|HADJI|F
-488||MOCHA|unknown||
-489|HADJI|Oooh!|speech|HADJI|F
+Barneys, she has to drive herself!"|speech|HADJI|F|True
+488||MOCHA|unknown|||
+489|HADJI|Oooh!|speech|HADJI|F|True
 490|MONSTER|"Yeah? Well your momma's so poor,
 when she went to Monte Carlo, she
-flew commercial."|speech|MONSTER|F
-491||MOCHA|unknown||
-492|MONSTER|Dang!|speech|MONSTER|F
+flew commercial."|speech|MONSTER|F|True
+491||MOCHA|unknown|||
+492|MONSTER|Dang!|speech|MONSTER|F|True
 493|HADJI|"Your momma's so poor, her round
-the world cruise ended in Spain!"|speech|HADJI|F
-494||MOCHA|unknown||
-495|HADJI|Bam!|speech|HADJI|F
+the world cruise ended in Spain!"|speech|HADJI|F|True
+494||MOCHA|unknown|||
+495|HADJI|Bam!|speech|HADJI|F|True
 496|MONSTER|"Your momma's so poor, when she
 stayed at the Four Seasons, she
-could only afford three."|speech|MONSTER|F
+could only afford three."|speech|MONSTER|F|True
 497||"(CONTINUED)
 36.
 26    CONTINUED:    (2)                                             26
-MOCHA"|unknown||
-498||Oh damn, it's on now!|stage direction||
+MOCHA"|unknown|||
+498||Oh damn, it's on now!|stage direction|||
 499||"CUT TO:
 A26   EXT. SHONDRA'S FRONT YARD - DAY                               A26
 The ESCALADE pulls into Shondra's driveway and SCREECHES
 to a stop. PJ hauls Brad out of the back as Sean climbs
 out.
-PJ"|unknown||
-500||Let's get him inside.|stage direction||
+PJ"|unknown|||
+500||Let's get him inside.|stage direction|||
 501||"Dang. Why you doin' this to a
-brother?"|stage direction||
-502||SEAN|unknown||
-503||A brother?|stage direction||
-504||PJ|unknown||
-505||Oh no you didn't.|stage direction||
-506||SEAN|unknown||
-507||Whose brother?|stage direction||
-508||BRAD|unknown||
-509||Yours, y'all.    I'm down.|stage direction||
-510||SEAN|unknown||
-511||Down?    God damn!|stage direction||
-512||PJ|unknown||
-513||Uh-oh.    You done did it now.|stage direction||
-514||SEAN|unknown||
+brother?"|stage direction|||
+502||SEAN|unknown|||
+503||A brother?|stage direction|||
+504||PJ|unknown|||
+505||Oh no you didn't.|stage direction|||
+506||SEAN|unknown|||
+507||Whose brother?|stage direction|||
+508||BRAD|unknown|||
+509||Yours, y'all.    I'm down.|stage direction|||
+510||SEAN|unknown|||
+511||Down?    God damn!|stage direction|||
+512||PJ|unknown|||
+513||Uh-oh.    You done did it now.|stage direction|||
+514||SEAN|unknown|||
 515||"You are not black! You can never
 be black. And your perpetratin'
 ass is stealin' the only thing I
-got -- my culture!"|stage direction||
-516||PJ|unknown||
+got -- my culture!"|stage direction|||
+516||PJ|unknown|||
 517||"What the hell makes you think you
 know what's goin' down in the
-'hood?!"|stage direction||
-518||BRAD|unknown||
-519||B.E.T.|stage direction||
+'hood?!"|stage direction|||
+518||BRAD|unknown|||
+519||B.E.T.|stage direction|||
 520||"(CONTINUED)
 37.
 A26    CONTINUED:                                                    A26
@@ -1470,154 +1470,154 @@ You got anything else on you,
 fool?
 (CONTINUED)
 37A.
-34   CONTINUED:                                                    34"|unknown||
-521|BRAD|Uh... just this...|speech|BRAD|M
+34   CONTINUED:                                                    34"|unknown|||
+521|BRAD|Uh... just this...|speech|BRAD|M|True
 522||"Brad pulls out another pager, a phone, another phone.
 Sean and PJ both pull several more out of his other
-pockets, as well as his wallet."|location||
+pockets, as well as his wallet."|location|||
 523|PJ|"All that James Bond electronic
 crap can't save you now, fool.
-Sit ya ass down."|speech|PJ|?
-524||Brad does, and PJ duct-tapes his hands behind his back.|location||
-525|PJ|We gonna go call yo daddy.|speech|PJ|?
+Sit ya ass down."|speech|PJ|?|True
+524||Brad does, and PJ duct-tapes his hands behind his back.|location|||
+525|PJ|We gonna go call yo daddy.|speech|PJ|?|True
 526|SEAN|"You better pray he home. If he
-not, you're one dusted trick!"|speech|SEAN|M
-527||Sean, PJ and Shondra exit, slamming the door behind them.|location||
-528||35   INT. SHONDRA'S HOUSE - LIVING ROOM - CONTINUOUS ACTION        35|unknown||
-529||Sean and PJ immediately drop their bad-ass personas.|location||
-530|SEAN|Did you buy my rage?|speech|SEAN|M
-531|PJ|You're indicating.|speech|PJ|?
-532|SEAN|I'm indicating?|speech|SEAN|M
+not, you're one dusted trick!"|speech|SEAN|M|True
+527||Sean, PJ and Shondra exit, slamming the door behind them.|location|||
+528||35   INT. SHONDRA'S HOUSE - LIVING ROOM - CONTINUOUS ACTION        35|unknown|||
+529||Sean and PJ immediately drop their bad-ass personas.|location|||
+530|SEAN|Did you buy my rage?|speech|SEAN|M|True
+531|PJ|You're indicating.|speech|PJ|?|True
+532|SEAN|I'm indicating?|speech|SEAN|M|True
 533||"(CONTINUED)
 38.
-35   CONTINUED:                                                   35"|unknown||
-534||(imitating)|unknown||
+35   CONTINUED:                                                   35"|unknown|||
+534||(imitating)|unknown|||
 535|PJ|"'I will smoke your dumb wigga
-ass'? Come on."|speech|PJ|?
-536||(imitating back)|unknown||
+ass'? Come on."|speech|PJ|?|True
+536||(imitating back)|unknown|||
 537|SEAN|"'If he not, you're one dusted
-trick!' Please!"|speech|SEAN|M
+trick!' Please!"|speech|SEAN|M|True
 538|SHONDRA|"Would you two fools shut the hell
-up?"|speech|SHONDRA|F
+up?"|speech|SHONDRA|F|True
 539|SEAN|"Sure, Shondra, sorry. You're on.
 Go play good cop. We've gotta
-call Tom."|speech|SEAN|M
-540||Shondra rolls her eyes and heads back into the room.|location||
-541||36   INT. BEDROOM - CONTINUOUS ACTION                             36|unknown||
-542||Shondra enters.      Brad turns away.|location||
-543|SHONDRA|You a'ight in here?|speech|SHONDRA|F
+call Tom."|speech|SEAN|M|True
+540||Shondra rolls her eyes and heads back into the room.|location|||
+541||36   INT. BEDROOM - CONTINUOUS ACTION                             36|unknown|||
+542||Shondra enters.      Brad turns away.|location|||
+543|SHONDRA|You a'ight in here?|speech|SHONDRA|F|True
 544|BRAD|"Oh yeah. I just been kidnapped,
 carjacked, hands tied behind my
 back, but other than that, it's
-all good."|speech|BRAD|M
+all good."|speech|BRAD|M|True
 545|SHONDRA|"Look, I'm sorry about all that, it
-wasn't my idea."|speech|SHONDRA|F
-546|BRAD|I thought you liked me.|speech|BRAD|M
-547|SHONDRA|I do.|speech|SHONDRA|F
-548|BRAD|Then how come you set me up?|speech|BRAD|M
-549|SHONDRA|I had to. They...|speech|SHONDRA|F
-550||(emotional)|unknown||
+wasn't my idea."|speech|SHONDRA|F|True
+546|BRAD|I thought you liked me.|speech|BRAD|M|True
+547|SHONDRA|I do.|speech|SHONDRA|F|True
+548|BRAD|Then how come you set me up?|speech|BRAD|M|True
+549|SHONDRA|I had to. They...|speech|SHONDRA|F|True
+550||(emotional)|unknown|||
 551|SHONDRA|"... they threatened to kill me if
-I didn't play along."|speech|SHONDRA|F
+I didn't play along."|speech|SHONDRA|F|True
 552||"(CONTINUED)
 39.
 36    CONTINUED:                                                   36
 BRAD
-(wide-eyed)"|unknown||
-553||For real?|stage direction||
-554||SHONDRA|unknown||
-555||Oh yeah.   They straight-up killas.|stage direction||
+(wide-eyed)"|unknown|||
+553||For real?|stage direction|||
+554||SHONDRA|unknown|||
+555||Oh yeah.   They straight-up killas.|stage direction|||
 556||"BRAD
-(even more wide-eyed)"|unknown||
-557||For Real?!|stage direction||
-558||SHONDRA|unknown||
+(even more wide-eyed)"|unknown|||
+557||For Real?!|stage direction|||
+558||SHONDRA|unknown|||
 559||"Lemme school you on something,
 help you to stay alive, a'ight?
 The one thing they hate more than
 anything, that really sets them
-off, is posers."|stage direction||
-560||BRAD|unknown||
-561||I feel you, girl, me too.|stage direction||
-562||SHONDRA|unknown||
-563||I'm talkin' 'bout you!|stage direction||
-564||BRAD|unknown||
+off, is posers."|stage direction|||
+560||BRAD|unknown|||
+561||I feel you, girl, me too.|stage direction|||
+562||SHONDRA|unknown|||
+563||I'm talkin' 'bout you!|stage direction|||
+564||BRAD|unknown|||
 565||"Me? But I hate posers! I got a
-Ph.D. -- a Poser-Hater Degree."|stage direction||
-566||SHONDRA|unknown||
-567||Come on.   Quit frontin'.|stage direction||
-568||BRAD|unknown||
-569||I ain't fron'in'.|stage direction||
-570||SHONDRA|unknown||
+Ph.D. -- a Poser-Hater Degree."|stage direction|||
+566||SHONDRA|unknown|||
+567||Come on.   Quit frontin'.|stage direction|||
+568||BRAD|unknown|||
+569||I ain't fron'in'.|stage direction|||
+570||SHONDRA|unknown|||
 571||"Listen to reason. If you just be
 a nice little white boy and say
 you're sorry, I think I can
-convince them to let you go."|stage direction||
-572||BRAD|unknown||
+convince them to let you go."|stage direction|||
+572||BRAD|unknown|||
 573||"Damn. I am who I say I am. Why
 won't anyone believe me? This is
 a issue that's been comin' up a
-lot in my life lately."|stage direction||
+lot in my life lately."|stage direction|||
 574||"A36   INT. SHONDRA'S HOUSE - LIVING ROOM - SAME TIME               A36
 Shondra exits, shakes her head ""no"" to Sean and PJ.
 (CONTINUED)
 40.
 A36   CONTINUED:                                                     A36
-SEAN"|unknown||
-575||What's next?|stage direction||
+SEAN"|unknown|||
+575||What's next?|stage direction|||
 576||"PJ refers to the itinerary they got from Tom.
-PJ"|unknown||
-577||How about... number three?|stage direction||
-578||SEAN|unknown||
+PJ"|unknown|||
+577||How about... number three?|stage direction|||
+578||SEAN|unknown|||
 579||"Yeah, perfect. Let's take it to
-another level, my man."|stage direction||
+another level, my man."|stage direction|||
 580||"He and PJ ""get into character"" and head in.
 B36   INT. SHONDRA'S BEDROOM - CONTINUOUS ACTION                     B36
 They enter and glare at Brad.
-SEAN"|unknown||
+SEAN"|unknown|||
 581||"A'ight, we put the call in to yo
-pops, and you know what he said?"|stage direction||
-582||BRAD|unknown||
-583||Huh?|stage direction||
-584||PJ|unknown||
-585||That he'd have to think about it.|stage direction||
+pops, and you know what he said?"|stage direction|||
+582||BRAD|unknown|||
+583||Huh?|stage direction|||
+584||PJ|unknown|||
+585||That he'd have to think about it.|stage direction|||
 586||"BRAD
-(incredulous)"|unknown||
-587||What?   Straight up?|stage direction||
-588||PJ|unknown||
+(incredulous)"|unknown|||
+587||What?   Straight up?|stage direction|||
+588||PJ|unknown|||
 589||"He's not sure he wants you back,
-cuz."|stage direction||
-590||SEAN|unknown||
-591||Can't see as I blame him.|stage direction||
-592||BRAD|unknown||
+cuz."|stage direction|||
+590||SEAN|unknown|||
+591||Can't see as I blame him.|stage direction|||
+592||BRAD|unknown|||
 593||"Come on, y'all, quit hatin'.   I'm
-just a rapper, that's it."|stage direction||
-594||SEAN|unknown||
-595||Wigga please!|stage direction||
+just a rapper, that's it."|stage direction|||
+594||SEAN|unknown|||
+595||Wigga please!|stage direction|||
 596||"Sean cuts the duct tape with a blade.
-SEAN"|unknown||
-597||Come on.|stage direction||
+SEAN"|unknown|||
+597||Come on.|stage direction|||
 598||"(CONTINUED)
 40A.
 B36   CONTINUED:                                                    B36
-PJ"|unknown||
-599||What you doin', fool?|stage direction||
-600||SEAN|unknown||
+PJ"|unknown|||
+599||What you doin', fool?|stage direction|||
+600||SEAN|unknown|||
 601||"I'ma teach this little white girl
-a lesson!"|stage direction||
-602||PJ|unknown||
+a lesson!"|stage direction|||
+602||PJ|unknown|||
 603||"No, dawg, stick to the plan. Lay
 low here at the crib 'til we get
-the ransom."|stage direction||
-604||SEAN|unknown||
+the ransom."|stage direction|||
+604||SEAN|unknown|||
 605||"The plan just done changed, Tree.
 Wannabe claims he down, I'ma show
-him just how un-down he is."|stage direction||
+him just how un-down he is."|stage direction|||
 606||"Sean yanks Brad out by his collar.
 CUT TO:
 41.
-37   INT. BRAD'S ESCALADE - LATE AFTERNOON                      37"|unknown||
+37   INT. BRAD'S ESCALADE - LATE AFTERNOON                      37"|unknown|||
 607||"Sean pulls in and parks in front of a small Korean
-grocery."|location||
+grocery."|location|||
 608||"SEAN
 A'ight, Malibu, go get us six 40s
 of O.E.
@@ -1640,9 +1640,9 @@ PJ
 You jack that shit.
 SEAN
 And if the Asiatic gives you any
-static, show the brotha this..."|unknown||
+static, show the brotha this..."|unknown|||
 609||"He hands Brad one of the prop guns -- a Glock.    It's
-heavier than Brad thought. He drops it."|location||
+heavier than Brad thought. He drops it."|location|||
 610||"PJ
 Little trick claims he down, can't
 even swing a gat.
@@ -1655,71 +1655,71 @@ BRAD
 Okay, a'ight, I'll do it.
 (CONTINUED)
 42.
-37   CONTINUED:                                                        37"|unknown||
+37   CONTINUED:                                                        37"|unknown|||
 611|PJ|"You try to get away, I'ma let you
 get a little taste of my steel,
-understand?"|speech|PJ|?
-612||He holds up his prop gun.|location||
-613|BRAD|I feel you.|speech|BRAD|M
+understand?"|speech|PJ|?|True
+612||He holds up his prop gun.|location|||
+613|BRAD|I feel you.|speech|BRAD|M|True
 614||"Brad sticks the prop gun into his pants and gets out.        As
 soon as he's in the store, Sean and PJ burst into
-laughter."|location||
-615|PJ|This is gonna be classic.|speech|PJ|?
+laughter."|location|||
+615|PJ|This is gonna be classic.|speech|PJ|?|True
 616|SEAN|"He's gonna run out of there a
-scared little white boy."|speech|SEAN|M
-617||They laugh again and pound it.|location||
+scared little white boy."|speech|SEAN|M|True
+617||They laugh again and pound it.|location|||
 618||"CUT TO:
-38   INT. KOREAN GROCERY - SAME TIME                                   38"|unknown||
+38   INT. KOREAN GROCERY - SAME TIME                                   38"|unknown|||
 619||"Brad walks in, very nervous.       He looks back -- his car is
 parked so that PJ can see him      through the door. PJ
 smiles and shows him the gun      again. Brad swallows and
 approaches the counter. The       KOREAN GUY behind it watches
-him closely."|location||
-620|KOREAN GUY|Yes?|speech|KOREAN GUY|M
+him closely."|location|||
+620|KOREAN GUY|Yes?|speech|KOREAN GUY|M|True
 621|BRAD|"Yeah, uh, where the Old English
-at?"|speech|BRAD|M
-622|KOREAN GUY|Back there, under security camera.|speech|KOREAN GUY|M
-623|BRAD|Thank you, sir.|speech|BRAD|M
+at?"|speech|BRAD|M|True
+622|KOREAN GUY|Back there, under security camera.|speech|KOREAN GUY|M|True
+623|BRAD|Thank you, sir.|speech|BRAD|M|True
 624||"Brad hurries to the back of the store, and spots a door
 by the beer cooler. He tries to open it. It's locked.
 Brad looks up to the security mirror and sees that the
 Korean Guy is watching him. He moves to the beer cooler
-and tries to calm down."|location||
+and tries to calm down."|location|||
 625||"(CONTINUED)
 43.
-38   CONTINUED:                                                         38"|unknown||
+38   CONTINUED:                                                         38"|unknown|||
 626|BRAD|"Namyoho renge kyo, namyoho renge
 kyo, namyoho renge kyo and
-whatnot..."|speech|BRAD|M
+whatnot..."|speech|BRAD|M|True
 627||"It's not working. Brad tries a cleansing         breath. It
 doesn't help either. Brad gathers up an         armful of Old
 English 40s and heads for the front. The         Korean Guy
-watches him as he walks past the counter        toward the door."|location||
-628|KOREAN GUY|Can I help you?|speech|KOREAN GUY|M
+watches him as he walks past the counter        toward the door."|location|||
+628|KOREAN GUY|Can I help you?|speech|KOREAN GUY|M|True
 629|BRAD|"Naaw, but I'ma help myself to all
 this O.E., and whatever else I
-want!"|speech|BRAD|M
-630||KOREAN GUY|unknown||
-631|BRAD|No, stop.|speech|BRAD|M
+want!"|speech|BRAD|M|True
+630||KOREAN GUY|unknown|||
+631|BRAD|No, stop.|speech|BRAD|M|True
 632||"Brad drops the beer. It CRASHES to the floor in SLOW
 MOTION. Brad makes a crazy, threatening face as he pulls
 back a fist, but the Korean Guy throws a fast right hand,
 landing squarely on Brad's chin. Brad goes down like a
 sack of hammers; then we FLASHBACK TO:
 Moments earlier: We realize we've just been in a fantasy,
-as Brad again approaches the counter with his beer."|location||
-633|KOREAN GUY|Can I help you?|speech|KOREAN GUY|M
-634||(nervous)|unknown||
+as Brad again approaches the counter with his beer."|location|||
+633|KOREAN GUY|Can I help you?|speech|KOREAN GUY|M|True
+634||(nervous)|unknown|||
 635|BRAD|"Let me axe you something.   Ever
-been robbed?"|speech|BRAD|M
+been robbed?"|speech|BRAD|M|True
 636|KOREAN GUY|"Oh sure. Last week was my fifty-
 fourth time. But they were cool,
 no gun to head, never scream; you
-know, good people."|speech|KOREAN GUY|M
-637||BRAD|unknown||
-638|KOREAN GUY|Cool.|speech|KOREAN GUY|M
+know, good people."|speech|KOREAN GUY|M|True
+637||BRAD|unknown|||
+638|KOREAN GUY|Cool.|speech|KOREAN GUY|M|True
 639||"He sets the 40s on the counter, then reaches into his
-waistband for his gun, and we..."|location||
+waistband for his gun, and we..."|location|||
 640||"CUT TO:
 44.
 A38   INT. BRAD'S ESCALADE - SAME TIME                             A38
@@ -1736,8 +1736,8 @@ PJ
 I thought you set it up.
 SEAN
 You mean the owner doesn't know
-this is all fake?"|unknown||
-641||Oh damn.|unknown||
+this is all fake?"|unknown|||
+641||Oh damn.|unknown|||
 642||"Get in there!    He could get shot!
 PJ
 I'm not going in there!    You go in
@@ -1767,61 +1767,61 @@ KOREAN GUY
 The Korean Guy's wife has an AK-47 on Brad, the red dot
 of its laser sight trained steadily in the middle of his
 forehead.
-KOREAN GUY"|unknown||
-643||... And wid dat.|stage direction||
+KOREAN GUY"|unknown|||
+643||... And wid dat.|stage direction|||
 644||"The Korean Guy's six-year-old boy has a sawed-off shotgun
 pointed at Brad's knees. The gun is bigger than the boy.
 The Koreans laugh at Brad. Brad drops the hundred on the
 counter.
-BRAD"|unknown||
-645||Keep the change.|stage direction||
+BRAD"|unknown|||
+645||Keep the change.|stage direction|||
 646||"KOREAN GUY
-(ringing it up)"|unknown||
-647||Thank you very much. Come again.|stage direction||
+(ringing it up)"|unknown|||
+647||Thank you very much. Come again.|stage direction|||
 648||"As Brad looks out to make sure PJ and Sean haven't seen
 anything, the Korean Guy sticks the receipt in between
 two of the 40s. Unaware, Brad gathers his stuff and
 heads to the door.
-BRAD"|unknown||
+BRAD"|unknown|||
 649||"Uh, I know this is gonna sound
 wack, but what I'm about to do is
 just a joke, so don't shoot me,
-okay?"|stage direction||
+okay?"|stage direction|||
 650||"C38   EXT. KOREAN LIQUOR STORE - SAME TIME                         C38
 Sean and PJ, who are just running up to the door, watch
 stunned as Brad exits the store, pulling his gun out.
-BRAD"|unknown||
+BRAD"|unknown|||
 651||"That's right! Next time I'll bust
-a cap in yo trick ass!"|stage direction||
-652||PJ|unknown||
-653||Did he actually do it?|stage direction||
-654||SEAN|unknown||
-655||This can't be happening.|stage direction||
+a cap in yo trick ass!"|stage direction|||
+652||PJ|unknown|||
+653||Did he actually do it?|stage direction|||
+654||SEAN|unknown|||
+655||This can't be happening.|stage direction|||
 656||"(CONTINUED)
 46.
 C38   CONTINUED:                                                      C38
 BRAD
-(still shouting)"|unknown||
+(still shouting)"|unknown|||
 657||"Yeah. I'ma come back later and
-get some more."|stage direction||
+get some more."|stage direction|||
 658||"Brad turns to the guys.
-BRAD"|unknown||
-659||Let's dip!|stage direction||
+BRAD"|unknown|||
+659||Let's dip!|stage direction|||
 660||"SEAN
-(incredulous)"|unknown||
-661||You did it?|stage direction||
-662||BRAD|unknown||
+(incredulous)"|unknown|||
+661||You did it?|stage direction|||
+662||BRAD|unknown|||
 663||"Straight up.   Trick didn't do
-nothin'."|stage direction||
-664||PJ|unknown||
-665||Yo, what up with this?|stage direction||
+nothin'."|stage direction|||
+664||PJ|unknown|||
+665||Yo, what up with this?|stage direction|||
 666||"PJ pulls the receipt off of his 40.
-PJ"|unknown||
+PJ"|unknown|||
 667||"If you jacked this, how come you
-got a receipt?"|stage direction||
+got a receipt?"|stage direction|||
 668||"Brad freezes.     They both stare at him.
-BRAD"|unknown||
-669||I stole that too!|stage direction||
+BRAD"|unknown|||
+669||I stole that too!|stage direction|||
 670||"CUT TO:
 39    OMITTED                                                         39
 40    INT. GLUCKMAN MANSION - SPA - NIGHT                             40
@@ -1833,113 +1833,113 @@ table. As the masseuses pound their backs, Tom and
 Bill's voices vibrate.
 (CONTINUED)
 47.
-40   CONTINUED:                                                      40"|unknown||
+40   CONTINUED:                                                      40"|unknown|||
 671|TOM|"... a meet and greet with
 Greenpeace, then drinks with the
-offshore oil lobby."|speech|TOM|M
+offshore oil lobby."|speech|TOM|M|True
 672||"CLOSE ON BILL
-face through hole."|location||
-673||BILL|unknown||
+face through hole."|location|||
+673||BILL|unknown|||
 674|TOM|"Terrific.   How's the Brad project
-doing?"|speech|TOM|M
-675|TOM (O.S.)|Smooth... he's in South Central.|speech|TOM|M
-676|BILL|And he's okay?|speech|BILL|M
-677|TOM (O.S.)|He's in excellent hands.|speech|TOM|M
+doing?"|speech|TOM|M|True
+675|TOM (O.S.)|Smooth... he's in South Central.|speech|TOM|M|True
+676|BILL|And he's okay?|speech|BILL|M|True
+677|TOM (O.S.)|He's in excellent hands.|speech|TOM|M|True
 678||"CUT TO:
-41   EXT. KOREAN LIQUOR STORE - NIGHT                                41"|unknown||
+41   EXT. KOREAN LIQUOR STORE - NIGHT                                41"|unknown|||
 679||"Sean, holding Brad by the shirt, slams him against the
-Escalade."|location||
-680|SEAN|I've about had it, boy!|speech|SEAN|M
-681|BRAD|Who you callin' boy?|speech|BRAD|M
+Escalade."|location|||
+680|SEAN|I've about had it, boy!|speech|SEAN|M|True
+681|BRAD|Who you callin' boy?|speech|BRAD|M|True
 682|SEAN|"You got about five seconds to get
 real, or I'ma Timbo stomp your ass
-to de curb!"|speech|SEAN|M
-683|BRAD|What do you mean, get real?!|speech|BRAD|M
-684|SEAN|Act your white self!|speech|SEAN|M
-685||He shoves a prop gun into Brad's ribs.|location||
-686||SEAN|unknown||
-687|SEAN|Five!   Four!|speech|SEAN|M
+to de curb!"|speech|SEAN|M|True
+683|BRAD|What do you mean, get real?!|speech|BRAD|M|True
+684|SEAN|Act your white self!|speech|SEAN|M|True
+685||He shoves a prop gun into Brad's ribs.|location|||
+686||SEAN|unknown|||
+687|SEAN|Five!   Four!|speech|SEAN|M|True
 688||"(CONTINUED)
 48.
-41   CONTINUED:                                                    41"|unknown||
-689||(freaking)|unknown||
-690|BRAD|Okay, a'ight, chill.|speech|BRAD|M
+41   CONTINUED:                                                    41"|unknown|||
+689||(freaking)|unknown|||
+690|BRAD|Okay, a'ight, chill.|speech|BRAD|M|True
 691||"Brad takes a deep sigh, looks them in the eye, and begins
-to talk like a conservative white guy."|location||
+to talk like a conservative white guy."|location|||
 692|BRAD|"I guess I now know I can never be
 as cool as you guys. I promise I
 will never, ever front or act like
 a thug again, and I'm really
-really sorry if I offended you."|speech|BRAD|M
-693||Sean and PJ move off to the side.|location||
-694|PJ|You buying it?|speech|PJ|?
-695||SEAN|unknown||
-696|PJ|I can't tell.|speech|PJ|?
-697||PJ|unknown||
-698|PJ|Me either.|speech|PJ|?
-699|SEAN|Let's give him the test.|speech|SEAN|M
+really sorry if I offended you."|speech|BRAD|M|True
+693||Sean and PJ move off to the side.|location|||
+694|PJ|You buying it?|speech|PJ|?|True
+695||SEAN|unknown|||
+696|PJ|I can't tell.|speech|PJ|?|True
+697||PJ|unknown|||
+698|PJ|Me either.|speech|PJ|?|True
+699|SEAN|Let's give him the test.|speech|SEAN|M|True
 700||"CUT TO:
-42   INT. MOVIE THEATER - ANGLE ON BRAD - NIGHT                    42"|unknown||
+42   INT. MOVIE THEATER - ANGLE ON BRAD - NIGHT                    42"|unknown|||
 701||"Brad, in the seats, eating popcorn non-stop. He is
 flanked by Sean and PJ... They both watch Brad, as he
-stares at the horror film play on the screen."|location||
-702||(off Brad's look)|unknown||
-703|SEAN|You a'ight, man?|speech|SEAN|M
-704||Brad snaps out of it for a minute.|location||
-705||"(""white"" guy)"|unknown||
-706|BRAD|Great, fine. Terrific popcorn.|speech|BRAD|M
+stares at the horror film play on the screen."|location|||
+702||(off Brad's look)|unknown|||
+703|SEAN|You a'ight, man?|speech|SEAN|M|True
+704||Brad snaps out of it for a minute.|location|||
+705||"(""white"" guy)"|unknown|||
+706|BRAD|Great, fine. Terrific popcorn.|speech|BRAD|M|True
 707||"SCARY MUSIC    KICKS IN; Brad's eyes snap back to the
 screen. He     struggles to contain himself. The MUSIC
 INTENSIFIES,    we hear FOOTSTEPS, then a DOOR HANDLE
 TURNING, and    Brad can't hold on any longer. He leaps up,
-screaming..."|location||
+screaming..."|location|||
 708||"(CONTINUED)
 49.
-42   CONTINUED:                                                     42"|unknown||
-709||(as himself)|unknown||
+42   CONTINUED:                                                     42"|unknown|||
+709||(as himself)|unknown|||
 710|BRAD|"Run, bitch, ruuuuuuuuuuuuuun!!!
-He gonna kiiiiiilllllll you!"|speech|BRAD|M
+He gonna kiiiiiilllllll you!"|speech|BRAD|M|True
 711||"Other Patrons (multi-ethnic) turn and angrily ""shush""
-Brad. Sean and PJ lock eyes: he failed the test."|location||
+Brad. Sean and PJ lock eyes: he failed the test."|location|||
 712||"CUT TO:
-43   INT. ESCALADE - DRIVING - NIGHT                                43"|unknown||
-713||Sean and PJ are furious.     Brad is apologetic.|location||
+43   INT. ESCALADE - DRIVING - NIGHT                                43"|unknown|||
+713||Sean and PJ are furious.     Brad is apologetic.|location|||
 714|BRAD|"I'm sorry, y'all, but this is just
 who I am. I'm a rapper straight-
-up."|speech|BRAD|M
-715|SEAN AND PJ|Wigga, please!|speech|SEAN AND PJ|M
+up."|speech|BRAD|M|True
+715|SEAN AND PJ|Wigga, please!|speech|SEAN AND PJ|M|
 716|BRAD|"No, for real. I can rap about
-anything."|speech|BRAD|M
-717||(goes into rap)|unknown||
+anything."|speech|BRAD|M|True
+717||(goes into rap)|unknown|||
 718|BRAD|"'Bloodbath and Tree, hang all day,
 They real tight, but they ain't
-gay... No, they okay...'"|speech|BRAD|M
-719||(incensed)|unknown||
+gay... No, they okay...'"|speech|BRAD|M|True
+719||(incensed)|unknown|||
 720|PJ|"You think you got mad skills, huh?
-Well, we'll see about dat."|speech|PJ|?
-721||44   EXT. PROUD CHICKEN - LATER                                     44|unknown||
-722||Sean, PJ, and Brad approach the club.|location||
+Well, we'll see about dat."|speech|PJ|?|True
+721||44   EXT. PROUD CHICKEN - LATER                                     44|unknown|||
+722||Sean, PJ, and Brad approach the club.|location|||
 723|SEAN|"I done had it with you, fool. You
 better check yourself before you
 wreck yourself. This ain't
-Malibu!"|speech|SEAN|M
-724||(sotto)|unknown||
-725|BRAD|Represent.|speech|BRAD|M
+Malibu!"|speech|SEAN|M|True
+724||(sotto)|unknown|||
+725|BRAD|Represent.|speech|BRAD|M|True
 726||"(CONTINUED)
 49A.
-44   CONTINUED:                                                       44"|unknown||
+44   CONTINUED:                                                       44"|unknown|||
 727|PJ|"Yeah, we gonna see what you
-represent neeow. We at the club."|speech|PJ|?
+represent neeow. We at the club."|speech|PJ|?|True
 728|SEAN|"Cube, Snoop, they all came up
-through here."|speech|SEAN|M
+through here."|speech|SEAN|M|True
 729|PJ|"You want to prove yourself, this
-the place to do it."|speech|PJ|?
+the place to do it."|speech|PJ|?|True
 730||"They shove Brad into the club, then turn to each other
-and giggle like school girls."|location||
-731|SEAN|This is definitely gonna do it.|speech|SEAN|M
-732||PJ|unknown||
-733|SEAN|Pay day!|speech|SEAN|M
-734||They pound and follow Brad into the club.|location||
+and giggle like school girls."|location|||
+731|SEAN|This is definitely gonna do it.|speech|SEAN|M|True
+732||PJ|unknown|||
+733|SEAN|Pay day!|speech|SEAN|M|True
+734||They pound and follow Brad into the club.|location|||
 735||"CUT TO:
 50.
 A44    OMITTED                                                        A44
@@ -1979,114 +1979,114 @@ for the stairs.
 51.
 A45   CONTINUED:                                                     A45
 ON THE BALCONY
-TEC (O.S.)"|unknown||
-736||Hey, girl.    Where you been?|stage direction||
+TEC (O.S.)"|unknown|||
+736||Hey, girl.    Where you been?|stage direction|||
 737||"She turns and faces TEC, her ex-boyfriend, a no-nonsense
 roughneck gangbanger. He's very soft-spoken, almost
 expressionless.
-SHONDRA"|unknown||
+SHONDRA"|unknown|||
 738||"None of your damn bizness, Tec.
-Now let go."|stage direction||
+Now let go."|stage direction|||
 739||"She yanks her arm away from him.
-TEC"|unknown||
-740||Y'all been busy, huh?|stage direction||
-741||SHONDRA|unknown||
-742||Too busy for you.|stage direction||
-743||TEC|unknown||
-744||You been gettin' busy?|stage direction||
-745||SHONDRA|unknown||
-746||Hell no.|stage direction||
-747||TEC|unknown||
+TEC"|unknown|||
+740||Y'all been busy, huh?|stage direction|||
+741||SHONDRA|unknown|||
+742||Too busy for you.|stage direction|||
+743||TEC|unknown|||
+744||You been gettin' busy?|stage direction|||
+745||SHONDRA|unknown|||
+746||Hell no.|stage direction|||
+747||TEC|unknown|||
 748||"Come on, girl, I'm cool.    Just
-tell me who it is."|stage direction||
-749||SHONDRA|unknown||
+tell me who it is."|stage direction|||
+749||SHONDRA|unknown|||
 750||"All you need to know is that it
-ain't you, okay?"|stage direction||
-751||TEC|unknown||
+ain't you, okay?"|stage direction|||
+751||TEC|unknown|||
 752||"You know, you ain't shit, Shondra.
 You're just a chickenhead, and
-that's all you'll ever be."|stage direction||
+that's all you'll ever be."|stage direction|||
 753||"Just then, Brad walks up, grinning like a fool.
-BRAD"|unknown||
-754||What up, girl?!|stage direction||
+BRAD"|unknown|||
+754||What up, girl?!|stage direction|||
 755||"He gives her a sloppy kiss on the cheek.
-SHONDRA"|unknown||
-756||You a'ight?|stage direction||
+SHONDRA"|unknown|||
+756||You a'ight?|stage direction|||
 757||"(CONTINUED)
 52.
 A45   CONTINUED:    (2)                                               A45
-BRAD"|unknown||
-758||I'm fine, but you the finest!|stage direction||
-759||(to Tec)|unknown||
+BRAD"|unknown|||
+758||I'm fine, but you the finest!|stage direction|||
+759||(to Tec)|unknown|||
 760||"She a genius too, man! I'm
 tellin' you, one she gets set up,
 Mothra gonna blow up like Rosie
-O'Donnell's head!"|stage direction||
-761||TEC|unknown||
+O'Donnell's head!"|stage direction|||
+761||TEC|unknown|||
 762||"Don't tell me you been hittin'
-that?"|stage direction||
-763||She tries to pull away, but Tec holds on tight.|unknown||
+that?"|stage direction|||
+763||She tries to pull away, but Tec holds on tight.|unknown|||
 764||"Damn, man. Don't you know how to
-treat a lady? That's not nice."|stage direction||
-765||SHONDRA|unknown||
-766||Brad, don't --|stage direction||
-767||TEC|unknown||
+treat a lady? That's not nice."|stage direction|||
+765||SHONDRA|unknown|||
+766||Brad, don't --|stage direction|||
+767||TEC|unknown|||
 768||"It's cool, Shondra.      The brutha's
-right."|stage direction||
+right."|stage direction|||
 769||"Tec releases Shondra's arm and immediately grabs Brad by
 the throat and hangs him over the balcony.
-TEC"|unknown||
+TEC"|unknown|||
 770||"Didn't yo mama teach you to mind
-you own bizness?"|stage direction||
+you own bizness?"|stage direction|||
 771||"BRAD
-(being strangled)"|unknown||
-772||Don't be hatin'.|stage direction||
-773||SHONDRA|unknown||
-774||Don't do it, Tec!|stage direction||
-775||BRAD|unknown||
-776||Auuuuuuuuu!|stage direction||
+(being strangled)"|unknown|||
+772||Don't be hatin'.|stage direction|||
+773||SHONDRA|unknown|||
+774||Don't do it, Tec!|stage direction|||
+775||BRAD|unknown|||
+776||Auuuuuuuuu!|stage direction|||
 777||"Tec feels everyone looking at him. Now is not the time.
 He releases Brad and composes himself.
-TEC"|unknown||
-778||Y'all both gonna be sorry.|stage direction||
+TEC"|unknown|||
+778||Y'all both gonna be sorry.|stage direction|||
 779||"Tec stalks off.
-SHONDRA"|unknown||
-780||You alright?|stage direction||
+SHONDRA"|unknown|||
+780||You alright?|stage direction|||
 781||"(CONTINUED)
 53.
 A45   CONTINUED:    (3)                                         A45
 BRAD
-(coughs)"|unknown||
-782||I'm okay. Who was that?|stage direction||
-783||SHONDRA|unknown||
-784||Old history.   Come on.|stage direction||
+(coughs)"|unknown|||
+782||I'm okay. Who was that?|stage direction|||
+783||SHONDRA|unknown|||
+784||Old history.   Come on.|stage direction|||
 785||"Shondra grabs Brad and moves him to the stairs.
 B45   AT THE DJ TABLE                                           B45
 Sean and PJ finally make it to the MC, who stands with
 the DJ.
-SEAN"|unknown||
-786||Yo!|stage direction||
+SEAN"|unknown|||
+786||Yo!|stage direction|||
 787||"Sean bumps the DJ table. A vicious look from the DJ, as
 Sean tries to play it off. The MC just looks at him
 disdainfully.
-PJ"|unknown||
-788||Uh... My boy want Young Dre next.|stage direction||
+PJ"|unknown|||
+788||Uh... My boy want Young Dre next.|stage direction|||
 789||"The MC looks them over...
-MC"|unknown||
-790||Hell, nah...|stage direction||
-791||SEAN|unknown||
+MC"|unknown|||
+790||Hell, nah...|stage direction|||
+791||SEAN|unknown|||
 792||"Maybe a C-Note would open some...
-equal opportunities?"|stage direction||
+equal opportunities?"|stage direction|||
 793||"MC
-(takes the cash)"|unknown||
-794||What's his name?|stage direction||
-795||SEAN|unknown||
-796||B-rad.   From Malibu.|stage direction||
+(takes the cash)"|unknown|||
+794||What's his name?|stage direction|||
+795||SEAN|unknown|||
+796||B-rad.   From Malibu.|stage direction|||
 797||"The MC makes a face, but puts down Brad's name anyway.
 PJ
-(enthusiastically)"|unknown||
+(enthusiastically)"|unknown|||
 798||"Hey playa... You got any Will
-Smith back there?"|stage direction||
+Smith back there?"|stage direction|||
 799||"The MC just looks at him...
 46    OMITTED                                                   46
 47                                                              47
@@ -2135,27 +2135,27 @@ He is then dragged up onto the stage. He misinterprets
 the ANTAGONIZING CHANTS as encouragement and tries to
 high-five the crowd -- no takers. The MC and Young Dre
 laugh at him.
-YOUNG DRE"|unknown||
+YOUNG DRE"|unknown|||
 800||"Nah, nah, nah... I ain't gonna
 battle no bitch. What am I? Ike
-Turner?"|stage direction||
+Turner?"|stage direction|||
 801||"The crowd LAUGHS.     Brad cluelessly laughs along with
 them.
-MC"|unknown||
+MC"|unknown|||
 802||"A-ight, a-ight... We gotta do
 this. Yo, Saltine... Heads or
-tails?"|stage direction||
-803||BRAD|unknown||
-804||Tizzaizzlszzs!|stage direction||
+tails?"|stage direction|||
+803||BRAD|unknown|||
+804||Tizzaizzlszzs!|stage direction|||
 805||"Everyone is totally confused.
 BRAD
-(apologetic)"|unknown||
-806||Tails... I want tails.|stage direction||
+(apologetic)"|unknown|||
+806||Tails... I want tails.|stage direction|||
 807||"The MC flips and ""tails"" it is.
-MC"|unknown||
-808||You wanna go first?|stage direction||
-809||BRAD|unknown||
-810||Nah... Ladies first.|stage direction||
+MC"|unknown|||
+808||You wanna go first?|stage direction|||
+809||BRAD|unknown|||
+810||Nah... Ladies first.|stage direction|||
 811||"Brad LAUGHS, turning to the crowd to appreciate his lame
 burn... Nothing. Young Dre looks furious.
 Young Dre grabs the mic and the DJ spins. Young Dre
@@ -2166,30 +2166,30 @@ play it off -- not so discreetly scribbling notes on his
 hand and up his arm.
 Young Dre finishes with devastating blow, dropping the
 mic on the stage. The crowd goes wild...
-MC"|unknown||
+MC"|unknown|||
 812||"Whooo... GOD DAMN! Now, let's see
 if this Eminem melts in yo ass and
-in your hand."|stage direction||
+in your hand."|stage direction|||
 813||"(CONTINUED)
 55A.
 A47   CONTINUED:    (2)                                              A47
 The DJ kicks the beat and the MC throws Brad the mic. He
 misses it and it drills him in the forehead. The crowd
 LAUGHS. Brad tries to regain his composure...
-BRAD"|unknown||
+BRAD"|unknown|||
 814||"Can we start again?   I lost my
-place."|stage direction||
+place."|stage direction|||
 815||"TAUNTS and LAUGHS as the beat plays again. Brad wags his
 head, ready to come in strong. He looks down at his
 notes... He's sweating so badly his arm is a mess of
 runny ink.
 He freezes again... The crowd is really on him now --
 collectively making the ""choke"" sign.
-BRAD"|unknown||
-816||I'm cool... I'm cool.|stage direction||
+BRAD"|unknown|||
+816||I'm cool... I'm cool.|stage direction|||
 817||"Brad finally starts up.
-BRAD"|unknown||
-818||'You big and rough,|stage direction||
+BRAD"|unknown|||
+818||'You big and rough,|stage direction|||
 819||"You act all tough,
 I bet in your childhood
 You never had much love.
@@ -2204,11 +2204,11 @@ I'm the ""Bu's"" number one,
 hardcore NIGGAA!!!
 Complete silence.
 PJ
-(terrified, to SEAN)"|unknown||
-820||Let's get the hell out of here.|stage direction||
+(terrified, to SEAN)"|unknown|||
+820||Let's get the hell out of here.|stage direction|||
 821||"Brad looks around as blank faces stare back at him.
-BRAD"|unknown||
-822||I'm sorry...|stage direction||
+BRAD"|unknown|||
+822||I'm sorry...|stage direction|||
 823||"The crowd erupts with outrage and rushes the stage.
 SMASH CUT TO:
 (CONTINUED)
@@ -2240,71 +2240,71 @@ the dumpster.
 Tec watches it all going down.
 SNUFFY, 20, skinny but tough-looking chollo, and not a
 member of Tec's crew, is standing next to Tec.
-SNUFFY"|unknown||
-824||You gettin' played, ese.|stage direction||
-825||Excuse me?|stage direction||
+SNUFFY"|unknown|||
+824||You gettin' played, ese.|stage direction|||
+825||Excuse me?|stage direction|||
 826||"SNUFFY
-(laughing)"|unknown||
+(laughing)"|unknown|||
 827||"Loco boy hittin' your lady, homes,
-and she's diggin' it."|stage direction||
-828||TEC|unknown||
-829||Yeah, Snuffy, that's right.|stage direction||
+and she's diggin' it."|stage direction|||
+828||TEC|unknown|||
+829||Yeah, Snuffy, that's right.|stage direction|||
 830||"(CONTINUED)
 56.
-48   CONTINUED:                                                      48"|unknown||
+48   CONTINUED:                                                      48"|unknown|||
 831||"Tec starts to laugh, then suddenly his fist explodes into
 Snuffy's face. Snuffy drops, and Tec starts to stomp him
-until his boys, 8-BALL and DEUCE, pull him off."|location||
-832|8-BALL|Not here, Tec.|speech|8-BALL|?
-833|TEC|A'ight, y'all, let's roll.|speech|TEC|M
-834|DEUCE|Whatchoo wanna do?|speech|DEUCE|?
-835|TEC|Bag me a white boy.|speech|TEC|M
-836||As they move toward the exit we...|location||
+until his boys, 8-BALL and DEUCE, pull him off."|location|||
+832|8-BALL|Not here, Tec.|speech|8-BALL|?|
+833|TEC|A'ight, y'all, let's roll.|speech|TEC|M|True
+834|DEUCE|Whatchoo wanna do?|speech|DEUCE|?|
+835|TEC|Bag me a white boy.|speech|TEC|M|True
+836||As they move toward the exit we...|location|||
 837||"CUT TO:
-49   EXT. HIP-HOP CLUB - NIGHT                                       49"|unknown||
+49   EXT. HIP-HOP CLUB - NIGHT                                       49"|unknown|||
 838||"Sean and PJ are laughing uproariously. Brad walks in
 between them, devastated. Shondra's behind, looking
-bummed out as they head for the car."|location||
+bummed out as they head for the car."|location|||
 839|SEAN|"Hey y'all, check this out. I can
-rap about anything! Haaa!!"|speech|SEAN|M
-840||PJ|unknown||
-841|SEAN|Word.|speech|SEAN|M
-842||(bad white rapping)|unknown||
+rap about anything! Haaa!!"|speech|SEAN|M|True
+840||PJ|unknown|||
+841|SEAN|Word.|speech|SEAN|M|True
+842||(bad white rapping)|unknown|||
 843|SEAN|"'Listen, all you rappers, the
 name's Brad Gluckman. When on the
 mic you could say I really suck
-man!'"|speech|SEAN|M
+man!'"|speech|SEAN|M|True
 844||"They burst out laughing. Brad just stares ahead,
-pouting, sick to his stomach."|location||
+pouting, sick to his stomach."|location|||
 845|SHONDRA|"A'ight, y'all had your fun, why
-don't you chill..."|speech|SHONDRA|F
-846|PJ|'Cuz B-Rad G about to get ill!!!|speech|PJ|?
-847||They burst out laughing again as they head for the car.|location||
+don't you chill..."|speech|SHONDRA|F|True
+846|PJ|'Cuz B-Rad G about to get ill!!!|speech|PJ|?|True
+847||They burst out laughing again as they head for the car.|location|||
 848||"(CONTINUED)
 57.
 49    CONTINUED:                                                      49
-SEAN"|unknown||
+SEAN"|unknown|||
 849||"Damn. I haven't laughed like that
 in a long time. 'Fess up, boy,
-you can't hang."|stage direction||
-850||BRAD|unknown||
-851||I just want to go home.|stage direction||
-852||PJ|unknown||
+you can't hang."|stage direction|||
+850||BRAD|unknown|||
+851||I just want to go home.|stage direction|||
+852||PJ|unknown|||
 853||"Uhn uhn, ain't happening. By the
 way, forgot to tell you. We heard
 from your pops, and guess what?
-He ain't payin'."|stage direction||
-854||SEAN|unknown||
+He ain't payin'."|stage direction|||
+854||SEAN|unknown|||
 855||"He thinks y'all belong down here
 in the 'hood with us brothas,
-seein' how you so 'down' and all."|stage direction||
-856||PJ|unknown||
+seein' how you so 'down' and all."|stage direction|||
+856||PJ|unknown|||
 857||"So, I guess that means we got to
-ice your punk ass."|stage direction||
-858||BRAD|unknown||
+ice your punk ass."|stage direction|||
+858||BRAD|unknown|||
 859||"I don't care no more. I got
 nothin' to live for. Go ahead and
-smoke me."|stage direction||
+smoke me."|stage direction|||
 860||"Brad gets in the car. Sean and PJ look at each other --
 this isn't what they expected.
 CUT TO:
@@ -2312,157 +2312,157 @@ CUT TO:
 A50   INT. SHONDRA'S HOUSE - BEDROOM - SAME TIME                      A50
 (NOTE:    Scene A50 was formerly scene 54)
 Brad's lying on the bed, looking up dreamily.
-VOICE (O.S.)"|unknown||
-861||Psst.   Hey, dawg.|stage direction||
-862||BRAD|unknown||
-863||Huh?|stage direction||
-864||VOICE (O.S.)|unknown||
-865||Down here, dawg.|stage direction||
+VOICE (O.S.)"|unknown|||
+861||Psst.   Hey, dawg.|stage direction|||
+862||BRAD|unknown|||
+863||Huh?|stage direction|||
+864||VOICE (O.S.)|unknown|||
+865||Down here, dawg.|stage direction|||
 866||"Brad looks over the edge of the bed.       A small gray RAT
 looks up at him.
 (CONTINUED)
 57A.
 A50   CONTINUED:                                                    A50
-BRAD"|unknown||
-867||Stuart Little?|stage direction||
-868||RAT|unknown||
+BRAD"|unknown|||
+867||Stuart Little?|stage direction|||
+868||RAT|unknown|||
 869||"Negro, pleeeze. That little white
 rat ain't got nothin' on me -- yo,
-I'm Ronny rizat, represizzat."|stage direction||
-870||BRAD|unknown||
+I'm Ronny rizat, represizzat."|stage direction|||
+870||BRAD|unknown|||
 871||"I ain't never seen no talking rat
 before. Although at the Malibu
 County Fair they had a chicken
 that played tic tac toe. Man, I
-hated losing to that chicken."|stage direction||
-872||RAT|unknown||
-873||Why you so down, dog?|stage direction||
-874||BRAD|unknown||
-875||I'm a failure.|stage direction||
-876||RAT|unknown||
+hated losing to that chicken."|stage direction|||
+872||RAT|unknown|||
+873||Why you so down, dog?|stage direction|||
+874||BRAD|unknown|||
+875||I'm a failure.|stage direction|||
+876||RAT|unknown|||
 877||"Nah, nah it's not like that. You
 need to stop listening to what all
 them perpetrators is running and
-believe in yourself."|stage direction||
-878||BRAD|unknown||
-879||For real?|stage direction||
-880||RAT|unknown||
-881||For riz-real.    Pound it.|stage direction||
+believe in yourself."|stage direction|||
+878||BRAD|unknown|||
+879||For real?|stage direction|||
+880||RAT|unknown|||
+881||For riz-real.    Pound it.|stage direction|||
 882||"They punch it in.
-BRAD"|unknown||
+BRAD"|unknown|||
 883||"So you saying if I put my mind to
-it I can be whatever I want to be?"|stage direction||
-884||RAT|unknown||
-885||Damn straight.|stage direction||
-886||BRAD|unknown||
-887||I could be a highstylin' pimp?|stage direction||
-888||RAT|unknown||
-889||They stylin-est.|stage direction||
-890||BRAD|unknown||
+it I can be whatever I want to be?"|stage direction|||
+884||RAT|unknown|||
+885||Damn straight.|stage direction|||
+886||BRAD|unknown|||
+887||I could be a highstylin' pimp?|stage direction|||
+888||RAT|unknown|||
+889||They stylin-est.|stage direction|||
+890||BRAD|unknown|||
 891||"I could drive a mad '63 El Camino
 with 43-inch gold-plated dubs and
-a trunk full o' bitches?"|stage direction||
+a trunk full o' bitches?"|stage direction|||
 892||"(CONTINUED)
 57B.
 MALIBU'S MOST WANTED - Rev. 1/29/03
 A50   CONTINUED:    (2)                                               A50
-RAT"|unknown||
+RAT"|unknown|||
 893||"You could have a roof rack full of
 bitches. And some teeny-tiny
 little bitches in the glove
-compartment."|stage direction||
-894||BRAD|unknown||
+compartment."|stage direction|||
+894||BRAD|unknown|||
 895||"And I could be the biggest rapper
-in the world."|stage direction||
-896||RAT|unknown||
+in the world."|stage direction|||
+896||RAT|unknown|||
 897||"Rapper? Hell no! You stink! I'd
 rather eat garbage than listen to
-your tired ass rhymes."|stage direction||
-898||(thinks about it)|unknown||
+your tired ass rhymes."|stage direction|||
+898||(thinks about it)|unknown|||
 899||"Hmmm, garbage. That's making me
-hungry. Peace out."|stage direction||
+hungry. Peace out."|stage direction|||
 900||"The Rat runs off. Brad sighs, flops back down on the
 bed, utterly depressed.
 CUT TO:
 51    INT. SHONDRA'S HOUSE - BEDROOM - MOMENTS LATER                  51
 Brad lays on the bed, moonlit through the bars of the
 window. Shondra enters. Brad rolls over, away from her.
-SHONDRA"|unknown||
-901||Hey...   You okay?|stage direction||
+SHONDRA"|unknown|||
+901||Hey...   You okay?|stage direction|||
 902||"Brad sniffles.
-SHONDRA"|unknown||
+SHONDRA"|unknown|||
 903||"You know, it's not as bad as it
-seems."|stage direction||
+seems."|stage direction|||
 904||"(CONTINUED)
 58.
-51   CONTINUED:                                                     51"|unknown||
+51   CONTINUED:                                                     51"|unknown|||
 905|BRAD|"It's worse. Everybody's right.
-My rhymes is weak."|speech|BRAD|M
-906|SHONDRA|You just need a little experience.|speech|SHONDRA|F
+My rhymes is weak."|speech|BRAD|M|True
+906|SHONDRA|You just need a little experience.|speech|SHONDRA|F|True
 907|BRAD|"I should've run when you gave me
-the chance."|speech|BRAD|M
+the chance."|speech|BRAD|M|True
 908|SHONDRA|"Naw. You were right. I respected
-you for getting' up there."|speech|SHONDRA|F
+you for getting' up there."|speech|SHONDRA|F|True
 909|BRAD|"But you heard 'em laughing.   I
-ain't nothin' but a busta."|speech|BRAD|M
+ain't nothin' but a busta."|speech|BRAD|M|True
 910|SHONDRA|"They just don't understand you.
 None of them know how hardcore it
-is up in... Malibu."|speech|SHONDRA|F
-911||(perking up)|unknown||
-912|BRAD|Yeah?|speech|BRAD|M
+is up in... Malibu."|speech|SHONDRA|F|True
+911||(perking up)|unknown|||
+912|BRAD|Yeah?|speech|BRAD|M|True
 913|SHONDRA|"Yeah with the... traffic, and
-the... parking, and..."|speech|SHONDRA|F
-914||(getting excited)|unknown||
+the... parking, and..."|speech|SHONDRA|F|True
+914||(getting excited)|unknown|||
 915|BRAD|"Like, when the public be all up in
-your private beach?"|speech|BRAD|M
+your private beach?"|speech|BRAD|M|True
 916|SHONDRA|"Right. You just got to stick with
 it, you know, don't let anyone
-tell you who you are."|speech|SHONDRA|F
-917||Brad smiles, looks at her.|location||
-918|BRAD|Thanks, Shondra.|speech|BRAD|M
-919||(beat)|unknown||
+tell you who you are."|speech|SHONDRA|F|True
+917||Brad smiles, looks at her.|location|||
+918|BRAD|Thanks, Shondra.|speech|BRAD|M|True
+919||(beat)|unknown|||
 920|BRAD|"You know what I was sayin',
 earlier, in the car, about being a
 playa and all? Well... I was just
 foolin'. I never been with a
-sister before."|speech|BRAD|M
+sister before."|speech|BRAD|M|True
 921||"(CONTINUED)
 59.
-51   CONTINUED:    (2)                                              51"|unknown||
-922||(mock surprise)|unknown||
-923|SHONDRA|For real?|speech|SHONDRA|F
-924|BRAD|Except for on the internet.|speech|BRAD|M
-925|SHONDRA|I never would've known.|speech|SHONDRA|F
-926||(shy)|unknown||
+51   CONTINUED:    (2)                                              51"|unknown|||
+922||(mock surprise)|unknown|||
+923|SHONDRA|For real?|speech|SHONDRA|F|True
+924|BRAD|Except for on the internet.|speech|BRAD|M|True
+925|SHONDRA|I never would've known.|speech|SHONDRA|F|True
+926||(shy)|unknown|||
 927|BRAD|"I think you about the finest girl
 I ever met in my whole life, and,
 well, since they gonna ice me in
 the morning, I was wondering...
-could I, kinda like, kiss you?"|speech|BRAD|M
+could I, kinda like, kiss you?"|speech|BRAD|M|True
 928||"She thinks, smiles, then sits down next to him on the
 bed. Brad sits up and looks at her face in the
-moonlight."|location||
-929|BRAD|You're so pretty.|speech|BRAD|M
-930|SHONDRA|Thank you.|speech|SHONDRA|F
+moonlight."|location|||
+929|BRAD|You're so pretty.|speech|BRAD|M|True
+930|SHONDRA|Thank you.|speech|SHONDRA|F|True
 931||"Brad leans in and kisses her tenderly. She kisses him
 back. Encouraged, Brad opens his mouth wide and tries to
-stick his tongue down her throat. She pushes him back."|location||
-932|SHONDRA|I said kiss, fool. Damn.|speech|SHONDRA|F
-933||She gets up and heads for the door.|location||
+stick his tongue down her throat. She pushes him back."|location|||
+932|SHONDRA|I said kiss, fool. Damn.|speech|SHONDRA|F|True
+933||She gets up and heads for the door.|location|||
 934|SHONDRA|"I offered you a snack, not the
-whole kitchen."|speech|SHONDRA|F
-935||BRAD|unknown||
-936|SHONDRA|I'm sorry.   I'm sorry.   I'm chill.|speech|SHONDRA|F
+whole kitchen."|speech|SHONDRA|F|True
+935||BRAD|unknown|||
+936|SHONDRA|I'm sorry.   I'm sorry.   I'm chill.|speech|SHONDRA|F|True
 937||"She rolls her eyes and leaves. Brad falls back on the
-bed, a dreamy smile on his face."|location||
-938|BRAD|Totally chill.|speech|BRAD|M
+bed, a dreamy smile on his face."|location|||
+938|BRAD|Totally chill.|speech|BRAD|M|True
 939||"CUT TO:
 60.
-52   EXT. SHONDRA'S HOUSE - SAME TIME                              52"|unknown||
+52   EXT. SHONDRA'S HOUSE - SAME TIME                              52"|unknown|||
 940||"Tec, with his crew, drives up, lights out, and KILLS the
-ENGINE. He looks at the house with death in his eyes."|location||
-941||53   INT. SHONDRA'S HOUSE - NIGHT                                  53|unknown||
-942||Shondra exits the room and faces Sean and PJ.|location||
+ENGINE. He looks at the house with death in his eyes."|location|||
+941||53   INT. SHONDRA'S HOUSE - NIGHT                                  53|unknown|||
+942||Shondra exits the room and faces Sean and PJ.|location|||
 943||"SHONDRA
 A'ight, that's it, this game is
 lame. I want my money, and then
@@ -2487,15 +2487,15 @@ settin' everything up was
 expensive, and I don't exactly
 have it right now.
 SHONDRA
-Excuse me?   You playin' me?"|unknown||
-944||Shondra hands Sean the phone.|location||
+Excuse me?   You playin' me?"|unknown|||
+944||Shondra hands Sean the phone.|location|||
 945||"SHONDRA
 Y'all get me my money now, or I'ma
 go in there and tell him what's
 up.
 SEAN
-Alright, okay, just relax..."|unknown||
-946||As Sean starts to dial, we --|location||
+Alright, okay, just relax..."|unknown|||
+946||As Sean starts to dial, we --|location|||
 947||"CUT BACK TO:
 54     OMITTED                                               54
 thru                                                         thru
@@ -2507,40 +2507,40 @@ project going?
 (CONTINUED)
 67.
 A61   CONTINUED:                                              A61
-SEAN (O.S.)"|unknown||
+SEAN (O.S.)"|unknown|||
 948||"Great, terrific, we're making real
-progress here."|stage direction||
+progress here."|stage direction|||
 949||"61    INT. SHONDRA'S HOUSE - LIVING ROOM - SAME TIME          61
 Sean reads from the checklist Tom gave him.
-SEAN"|unknown||
+SEAN"|unknown|||
 950||"Your suggestions were really
 helpful. He totally bought the
-car jack and kidnapping..."|stage direction||
+car jack and kidnapping..."|stage direction|||
 951||"61A   INT. SHONDRA'S BEDROOM - SAME TIME                      61A
 Brad listens intently as Sean continues.
-SEAN (O.S.)"|unknown||
+SEAN (O.S.)"|unknown|||
 952||"... we staged a fabulous liquor
 store robbery. Mr. Gluckman's
-going to be very happy..."|stage direction||
+going to be very happy..."|stage direction|||
 953||"Brad's eyes widen.
-SEAN (O.S.)"|unknown||
+SEAN (O.S.)"|unknown|||
 954||"But, he's still posing, so we
 wanted to put him in a drive-by
 shooting next... but, it's a
 little more money then our
-original projections..."|stage direction||
+original projections..."|stage direction|||
 955||"Brad slumps back.     He can't believe it.
 61    BACK TO SEAN                                            61
-SEAN"|unknown||
+SEAN"|unknown|||
 956||"So I was wondering if I could get
-an advance."|stage direction||
-957||TOM (V.O.)|unknown||
+an advance."|stage direction|||
+957||TOM (V.O.)|unknown|||
 958||"No deal. You get the rest when
 Richie Cunningham steps through
 the door here, and not one second
-sooner, understand?"|stage direction||
-959||SEAN|unknown||
-960||But -- Mr. Gibbons, hello?|stage direction||
+sooner, understand?"|stage direction|||
+959||SEAN|unknown|||
+960||But -- Mr. Gibbons, hello?|stage direction|||
 961||"68.
 B61   INT. SHONDRA'S HOUSE - BEDROOM - NIGHT                      B61
 Brad crawls out from the vent and goes to the mirror.
@@ -2582,197 +2582,197 @@ BRAD
 Shut up, ho.
 (CONTINUED)
 69.
-62   CONTINUED:                                                      62"|unknown||
-962|SHONDRA|Who you callin' ho, ho?|speech|SHONDRA|F
+62   CONTINUED:                                                      62"|unknown|||
+962|SHONDRA|Who you callin' ho, ho?|speech|SHONDRA|F|True
 963|BRAD|"Yo, ho, the same ho that gave up
 that weak-ass kiss five minutes
-ago in the bedroom."|speech|BRAD|M
-964||PJ|unknown||
-965|BRAD|Really?   Damn.|speech|BRAD|M
-966||(pissed off)|unknown||
+ago in the bedroom."|speech|BRAD|M|True
+964||PJ|unknown|||
+965|BRAD|Really?   Damn.|speech|BRAD|M|True
+966||(pissed off)|unknown|||
 967|SHONDRA|"Who the hell do you think you
-are?"|speech|SHONDRA|F
+are?"|speech|SHONDRA|F|True
 968|BRAD|"I'm B-Rad G, from 'Bu,
 representin'! What y'all don't
 realize is that I was tryin' to
 put my mobbin' days behind me, but
 rollin' with y'all done re-awoke
 my inna killa. Let's start
-droppin' bodies!"|speech|BRAD|M
+droppin' bodies!"|speech|BRAD|M|True
 969||"Shondra, PJ and Sean watch, stunned, as Brad grabs a prop
-gun, his car keys and heads out."|location||
-970|SEAN|Come on, girl. Let's go!|speech|SEAN|M
+gun, his car keys and heads out."|location|||
+970|SEAN|Come on, girl. Let's go!|speech|SEAN|M|True
 971|SHONDRA|"Uhn uhn. You created that
-monster, you deal with it."|speech|SHONDRA|F
-972|PJ|But we got big a problem here.|speech|PJ|?
+monster, you deal with it."|speech|SHONDRA|F|True
+972|PJ|But we got big a problem here.|speech|PJ|?|True
 973|SHONDRA|"Until I see my money, it's your
-problem."|speech|SHONDRA|F
-974||Sean and PJ exit quickly.|location||
+problem."|speech|SHONDRA|F|True
+974||Sean and PJ exit quickly.|location|||
 975||"CUT TO:
-63   EXT. SHONDRA'S HOUSE - NIGHT                                    63"|unknown||
-976||Brad's at the car door as Sean and PJ exit and run up.|location||
+63   EXT. SHONDRA'S HOUSE - NIGHT                                    63"|unknown|||
+976||Brad's at the car door as Sean and PJ exit and run up.|location|||
 977||"(CONTINUED)
 70.
-63   CONTINUED:                                                   63"|unknown||
-978|SEAN|Where the hell you goin'?|speech|SEAN|M
-979|BRAD|I need to take a drive.|speech|BRAD|M
-980||PJ|unknown||
-981|BRAD|Come on, man.    Chill.|speech|BRAD|M
+63   CONTINUED:                                                   63"|unknown|||
+978|SEAN|Where the hell you goin'?|speech|SEAN|M|True
+979|BRAD|I need to take a drive.|speech|BRAD|M|True
+980||PJ|unknown|||
+981|BRAD|Come on, man.    Chill.|speech|BRAD|M|True
 982|BRAD|"Today is a good day to die, didn't
-have to use my A.K..."|speech|BRAD|M
-983||(Ice Cube-like)|unknown||
-984|BRAD|Yey yey!|speech|BRAD|M
-985|SEAN|Why you talkin' crazy?|speech|SEAN|M
-986||(getting in car)|unknown||
+have to use my A.K..."|speech|BRAD|M|True
+983||(Ice Cube-like)|unknown|||
+984|BRAD|Yey yey!|speech|BRAD|M|True
+985|SEAN|Why you talkin' crazy?|speech|SEAN|M|True
+986||(getting in car)|unknown|||
 987|BRAD|"Might as well go out in a blaze of
 glory.  My daddy don't love me, my
 rhymes is played. I ain't down
-enough for y'all --"|speech|BRAD|M
+enough for y'all --"|speech|BRAD|M|True
 988||"SEAN
-(panicked)"|unknown||
-989|BRAD|No.   You down, right PJ, er, Tree?|speech|BRAD|M
+(panicked)"|unknown|||
+989|BRAD|No.   You down, right PJ, er, Tree?|speech|BRAD|M|True
 990|PJ|"That's right, Bloodbath, he's very
-down. As down as they come."|speech|PJ|?
+down. As down as they come."|speech|PJ|?|True
 991||"Suddenly, Tec jumps up, yanks Brad's door open and shoves
-a Nine in his side."|location||
-992||SEAN|unknown||
-993|PJ|Oh my God.|speech|PJ|?
-994|TEC|Get out of the car, white boy.|speech|TEC|M
+a Nine in his side."|location|||
+992||SEAN|unknown|||
+993|PJ|Oh my God.|speech|PJ|?|True
+994|TEC|Get out of the car, white boy.|speech|TEC|M|True
 995|BRAD|"Oh, you dat weak fuck from de
-club."|speech|BRAD|M
-996||Tec can't believe what he's hearing.|location||
-997||(not impressed)|unknown||
-998|BRAD|Got somethin' for me?|speech|BRAD|M
+club."|speech|BRAD|M|True
+996||Tec can't believe what he's hearing.|location|||
+997||(not impressed)|unknown|||
+998|BRAD|Got somethin' for me?|speech|BRAD|M|True
 999||"(CONTINUED)
 71.
-63   CONTINUED:    (2)                                             63"|unknown||
-1000||(pulling a Tec 9)|unknown||
+63   CONTINUED:    (2)                                             63"|unknown|||
+1000||(pulling a Tec 9)|unknown|||
 1001|TEC|"Just this cap, fool! You ready to
-die?"|speech|TEC|M
+die?"|speech|TEC|M|True
 1002|BRAD|"Ain't that a coinky-dink? I was
 just talkin' to my homies about
-just dat..."|speech|BRAD|M
-1003||TEC|unknown||
-1004|BRAD|Move!|speech|BRAD|M
-1005||(getting out of car)|unknown||
+just dat..."|speech|BRAD|M|True
+1003||TEC|unknown|||
+1004|BRAD|Move!|speech|BRAD|M|True
+1005||(getting out of car)|unknown|||
 1006|BRAD|"A'ight, but y'all should change up
 your style, cuz these jackings is
-gettin' tired."|speech|BRAD|M
-1007||He heads for Tec's car.|location||
+gettin' tired."|speech|BRAD|M|True
+1007||He heads for Tec's car.|location|||
 1008|BRAD|"Yo, Bloodbath, if there's one tiny
 scratch on my ride, I'ma eat
-y'all's children."|speech|BRAD|M
-1009||(cheerfully)|unknown||
-1010|BRAD|Shotgun!|speech|BRAD|M
-1011|TEC|Tape up this fool's hole, man.|speech|TEC|M
+y'all's children."|speech|BRAD|M|True
+1009||(cheerfully)|unknown|||
+1010|BRAD|Shotgun!|speech|BRAD|M|True
+1011|TEC|Tape up this fool's hole, man.|speech|TEC|M|True
 1012||"A crew member yanks out some duct tape and tapes over
 Brad's mouth, then they throw him in Tec's trunk and slam
-it shut. Tec steps up to Sean and PJ."|location||
+it shut. Tec steps up to Sean and PJ."|location|||
 1013|TEC|"What should we do with this
-Bloodbath and his friends?"|speech|TEC|M
-1014||(panicked)|unknown||
+Bloodbath and his friends?"|speech|TEC|M|True
+1014||(panicked)|unknown|||
 1015|SEAN|"I'm not Bloodbath! My real name
 is Sean James, I'm an actor. I
-swear!"|speech|SEAN|M
-1016|TEC|Is Shondra hittin' the white boy?|speech|TEC|M
+swear!"|speech|SEAN|M|True
+1016|TEC|Is Shondra hittin' the white boy?|speech|TEC|M|True
 1017|SEAN|"No way, man. She's in on the
-scam, just like us."|speech|SEAN|M
+scam, just like us."|speech|SEAN|M|True
 1018||"(CONTINUED)
 72.
-63   CONTINUED:    (3)                                               63"|unknown||
-1019|TEC|Scam?|speech|TEC|M
+63   CONTINUED:    (3)                                               63"|unknown|||
+1019|TEC|Scam?|speech|TEC|M|True
 1020|PJ|"Yeah. We're all being paid to
-pretend to kidnap Bill Gluckman's kid."|speech|PJ|?
-1021||TEC|unknown||
+pretend to kidnap Bill Gluckman's kid."|speech|PJ|?|True
+1021||TEC|unknown|||
 1022|PJ|"Gluckman?   The dude runnin' for
-Governor."|speech|PJ|?
-1023|SEAN|You've heard of him?|speech|SEAN|M
+Governor."|speech|PJ|?|True
+1023|SEAN|You've heard of him?|speech|SEAN|M|True
 1024|TEC|"The dawg who's down with bitches
 and hoes? Hell yeah, I've heard
 of him. Just 'cause I live down
-here you think I'm ignorant?"|speech|TEC|M
-1025|PJ|We didn't say that, brother.|speech|PJ|?
-1026|TEC|A'ight then.|speech|TEC|M
-1027||(looks at Brad)|unknown||
+here you think I'm ignorant?"|speech|TEC|M|True
+1025|PJ|We didn't say that, brother.|speech|PJ|?|True
+1026|TEC|A'ight then.|speech|TEC|M|True
+1027||(looks at Brad)|unknown|||
 1028|TEC|"Damn, we got Gluckman's son.
 Fool's gotta be worth more alive
-than dead."|speech|TEC|M
-1029||(to his crew)|unknown||
-1030|TEC|Let's roll.|speech|TEC|M
+than dead."|speech|TEC|M|True
+1029||(to his crew)|unknown|||
+1030|TEC|Let's roll.|speech|TEC|M|True
 1031||"CUT TO:
 64   OMITTED                                                         64
 65                                                                   65
-66   INT. GLUCKMAN CAMPAIGN HQ - TOM'S OFFICE - SAME TIME            66"|unknown||
+66   INT. GLUCKMAN CAMPAIGN HQ - TOM'S OFFICE - SAME TIME            66"|unknown|||
 1032||"Tom and the campaign strategy team, Brett, Gary and Jen,
-are eating takeout, mid-meeting."|location||
+are eating takeout, mid-meeting."|location|||
 1033|TOM|"All the polls say that since
 Brad's been out of the picture
-we're up six points."|speech|TOM|M
+we're up six points."|speech|TOM|M|True
 1034||"(CONTINUED)
 73.
-66   CONTINUED:                                                   66"|unknown||
+66   CONTINUED:                                                   66"|unknown|||
 1035|BRETT|"We're still dead in the urban
-demo, though."|speech|BRETT|?
-1036||GARY|unknown||
-1037|BRETT|Gays too.|speech|BRETT|?
+demo, though."|speech|BRETT|?|True
+1036||GARY|unknown|||
+1037|BRETT|Gays too.|speech|BRETT|?|True
 1038|JEN|"There's no way we can win without
-them."|speech|JEN|?
-1039||The INTERCOM RINGS.|location||
-1040||TOM|unknown||
-1041|JEN|Yep?|speech|JEN|?
+them."|speech|JEN|?|True
+1039||The INTERCOM RINGS.|location|||
+1040||TOM|unknown|||
+1041|JEN|Yep?|speech|JEN|?|True
 1042|SECRETARY (V.O.)|"I have a Sean on the phone for
-you, sir."|speech|SECRETARY|?
-1043|TOM|Put it through.|speech|TOM|M
-1044||INTERCUT WITH:|location||
-1045||67   EXT. INDUSTRIAL STREET - FREEWAY UNDERPASS - SAME TIME       67|unknown||
+you, sir."|speech|SECRETARY|?|
+1043|TOM|Put it through.|speech|TOM|M|True
+1044||INTERCUT WITH:|location|||
+1045||67   EXT. INDUSTRIAL STREET - FREEWAY UNDERPASS - SAME TIME       67|unknown|||
 1046||"Sean is on a pay phone, terrified. Tec stands next to
-him. The Escalade and Tec's car are parked nearby."|location||
-1047|SEAN|Tom, we have a real problem.|speech|SEAN|M
-1048|TOM|I told you, no more money.|speech|TOM|M
+him. The Escalade and Tec's car are parked nearby."|location|||
+1047|SEAN|Tom, we have a real problem.|speech|SEAN|M|True
+1048|TOM|I told you, no more money.|speech|TOM|M|True
 1049|SEAN|"I know you said that, but we're in
-real serious troub --"|speech|SEAN|M
-1050||Tec rips the phone out of Sean's hand.|location||
+real serious troub --"|speech|SEAN|M|True
+1050||Tec rips the phone out of Sean's hand.|location|||
 1051|TEC|"Listen, fool. Gluckman's boy has
 been kidnapped for real, along
-with your punk friends."|speech|TEC|M
-1052||TOM|unknown||
-1053|TEC|Excuse me?|speech|TEC|M
+with your punk friends."|speech|TEC|M|True
+1052||TOM|unknown|||
+1053|TEC|Excuse me?|speech|TEC|M|True
 1054||"(CONTINUED)
 74.
-67   CONTINUED:                                                  67"|unknown||
+67   CONTINUED:                                                  67"|unknown|||
 1055|TEC|"If Mr. Governor wants to see his
 punk bitch son alive again I'm
 gonna need five hundred grand by
-tomorrow midnight."|speech|TEC|M
-1056|TOM|How do I know this is real?|speech|TOM|M
+tomorrow midnight."|speech|TEC|M|True
+1056|TOM|How do I know this is real?|speech|TOM|M|True
 1057|TEC|"You think your actors are this
-good?"|speech|TEC|M
-1058||Tec puts the phone up to Sean.|location||
-1059|SEAN|Help us, please...|speech|SEAN|M
-1060||(hiccup)|unknown||
-1061|SEAN|I'm...|speech|SEAN|M
-1062||(hiccup)|unknown||
-1063|SEAN|so...|speech|SEAN|M
-1064||(hiccup)|unknown||
-1065|SEAN|Scared!!!|speech|SEAN|M
-1066||Sean begins to wail.      Tec yanks the phone back.|location||
-1067|TOM|Okay, I'm convinced.|speech|TOM|M
-1068||TEC|unknown||
-1069|TOM|Good.   Now get me my money.|speech|TOM|M
+good?"|speech|TEC|M|True
+1058||Tec puts the phone up to Sean.|location|||
+1059|SEAN|Help us, please...|speech|SEAN|M|True
+1060||(hiccup)|unknown|||
+1061|SEAN|I'm...|speech|SEAN|M|True
+1062||(hiccup)|unknown|||
+1063|SEAN|so...|speech|SEAN|M|True
+1064||(hiccup)|unknown|||
+1065|SEAN|Scared!!!|speech|SEAN|M|True
+1066||Sean begins to wail.      Tec yanks the phone back.|location|||
+1067|TOM|Okay, I'm convinced.|speech|TOM|M|True
+1068||TEC|unknown|||
+1069|TOM|Good.   Now get me my money.|speech|TOM|M|True
 1070|TOM|"Fine... Please don't do anything
 until I talk to Mr. Gluckman and
-arrange the finances."|speech|TOM|M
-1071|TEC|You got ten minutes.|speech|TEC|M
-1072||Tec hangs up.|location||
-1073|DEUCE|Now what?|speech|DEUCE|?
-1074|TEC|We wait.|speech|TEC|M
+arrange the finances."|speech|TOM|M|True
+1071|TEC|You got ten minutes.|speech|TEC|M|True
+1072||Tec hangs up.|location|||
+1073|DEUCE|Now what?|speech|DEUCE|?|
+1074|TEC|We wait.|speech|TEC|M|True
 1075||"Behind, no one notices as a low rider cruises by
-slowly."|location||
+slowly."|location|||
 1076||"75.
-68   INT. LOW RIDER - SAME TIME                                   68"|unknown||
+68   INT. LOW RIDER - SAME TIME                                   68"|unknown|||
 1077||"It's Snuffy, his face swollen and bloody from the beating
 he took from Tec. He's with two of his homeboys, members
-of the Rollin' G gang, checking out Tec and the crew."|location||
+of the Rollin' G gang, checking out Tec and the crew."|location|||
 1078||"SNUFFY
 Is that him, ese?
 LOC
@@ -2780,11 +2780,11 @@ Yeah, that's Tec, homes, from the
 I-9's.
 SNUFFY
 Call Cyco, tell him to bring it
-all. We gonna have a party."|unknown||
-1079||The homeboy works his cell, as we:|location||
+all. We gonna have a party."|unknown|||
+1079||The homeboy works his cell, as we:|location|||
 1080||"CUT TO:
-69   INT. GLUCKMAN CAMPAIGN HEADQUARTERS WAR ROOM - NIGHT         69"|unknown||
-1081||Tom stands there with the phone in his hands, shaken.|location||
+69   INT. GLUCKMAN CAMPAIGN HEADQUARTERS WAR ROOM - NIGHT         69"|unknown|||
+1081||Tom stands there with the phone in his hands, shaken.|location|||
 1082||"JEN
 What the hell's going on?
 TOM
@@ -2807,116 +2807,116 @@ TOM
 Well, the negatives are obvious.
 (CONTINUED)
 76.
-69   CONTINUED:                                                     69"|unknown||
+69   CONTINUED:                                                     69"|unknown|||
 1083|GARY|"Bill drops out of the race,
-emotional distress..."|speech|GARY|?
+emotional distress..."|speech|GARY|?|True
 1084|TOM|"I can handle Bill. Let's
-brainstorm the positives."|speech|TOM|M
+brainstorm the positives."|speech|TOM|M|True
 1085|JEN|"There's so many. No more 'Brad
-problem.'"|speech|JEN|?
-1086|BRETT|Right, right, I'm liking it.|speech|BRETT|?
-1087||They start riffing on the idea, getting excited.|location||
+problem.'"|speech|JEN|?|True
+1086|BRETT|Right, right, I'm liking it.|speech|BRETT|?|True
+1087||They start riffing on the idea, getting excited.|location|||
 1088|GARY|"With a dead son, the sympathy
 factor could give us big spike in
-the female and gay demos."|speech|GARY|?
+the female and gay demos."|speech|GARY|?|True
 1089|BRETT|"We've had such a problem with
 Bill's rich guy image, we could
 spin the issue to make him more
 'Everymen,' you know, 'crime
-touches everyone,' like that."|speech|BRETT|?
+touches everyone,' like that."|speech|BRETT|?|True
 1090|TOM|"What about a voter backlash, like
 how could he run on the heels of a
-tragedy?"|speech|TOM|M
+tragedy?"|speech|TOM|M|True
 1091|GARY|"No -- we push the 'courage under
-adversity' angle."|speech|GARY|?
-1092|BRETT|Helps with his leadership profile.|speech|BRETT|?
-1093|JEN|Bill Gluckman, crusader/martyr...|speech|JEN|?
+adversity' angle."|speech|GARY|?|True
+1092|BRETT|Helps with his leadership profile.|speech|BRETT|?|True
+1093|JEN|Bill Gluckman, crusader/martyr...|speech|JEN|?|True
 1094|BRETT|"I've got the image -- Bill weeping
-over Brad's open casket."|speech|BRETT|?
+over Brad's open casket."|speech|BRETT|?|True
 1095|GARY|"Then, after grieving
 appropriately, he goes on the
-offensive..."|speech|GARY|?
+offensive..."|speech|GARY|?|True
 1096||"(CONTINUED)
 77.
-69   CONTINUED:    (2)                                             69"|unknown||
-1097|BRETT|Bill Gluckman's war on crime...|speech|BRETT|?
-1098||GARY|unknown||
-1099|BRETT|... drugs.|speech|BRETT|?
-1100||JEN|unknown||
-1101|BRETT|... gangs.|speech|BRETT|?
-1102|BRETT|War's hot now.|speech|BRETT|?
-1103||GARY|unknown||
-1104|BRETT|War's great.|speech|BRETT|?
-1105|JEN|It's just what we've needed.|speech|JEN|?
+69   CONTINUED:    (2)                                             69"|unknown|||
+1097|BRETT|Bill Gluckman's war on crime...|speech|BRETT|?|True
+1098||GARY|unknown|||
+1099|BRETT|... drugs.|speech|BRETT|?|True
+1100||JEN|unknown|||
+1101|BRETT|... gangs.|speech|BRETT|?|True
+1102|BRETT|War's hot now.|speech|BRETT|?|True
+1103||GARY|unknown|||
+1104|BRETT|War's great.|speech|BRETT|?|True
+1105|JEN|It's just what we've needed.|speech|JEN|?|True
 1106|BRETT|"It's like a green light to
-Sacramento."|speech|BRETT|?
-1107|TOM|Next stop, the White House.|speech|TOM|M
+Sacramento."|speech|BRETT|?|True
+1107|TOM|Next stop, the White House.|speech|TOM|M|True
 1108||"The PHONE RINGS and Tom picks up.
-INTERCUT WITH:"|location||
-1109||70   EXT. INDUSTRIAL STREET - SAME TIME                            70|unknown||
-1110||Tec is on the phone.|location||
-1111||TEC|unknown||
-1112|TOM|What up?|speech|TOM|M
-1113||TOM|unknown||
-1114|TOM|No deal.|speech|TOM|M
-1115||TEC|unknown||
-1116|TOM|Say what?|speech|TOM|M
+INTERCUT WITH:"|location|||
+1109||70   EXT. INDUSTRIAL STREET - SAME TIME                            70|unknown|||
+1110||Tec is on the phone.|location|||
+1111||TEC|unknown|||
+1112|TOM|What up?|speech|TOM|M|True
+1113||TOM|unknown|||
+1114|TOM|No deal.|speech|TOM|M|True
+1115||TEC|unknown|||
+1116|TOM|Say what?|speech|TOM|M|True
 1117|TOM|"Bill Gluckman does not make deals
-with criminals."|speech|TOM|M
+with criminals."|speech|TOM|M|True
 1118|TEC|"That's it, then, fool. I ain't
-playin'. His ass is done."|speech|TEC|M
+playin'. His ass is done."|speech|TEC|M|True
 1119||"(CONTINUED)
 78.
 70    CONTINUED:                                                    70
-TOM"|unknown||
+TOM"|unknown|||
 1120||"You do what you have to do, and
-we'll do what we have to do."|stage direction||
+we'll do what we have to do."|stage direction|||
 1121||"He hangs up and smiles.
 A70   INDUSTRIAL STREET - SAME TIME                                 A70
 Tec hangs up; as he looks over, Brad is pulled from the
 trunk by two I-9s, his mouth still taped. Tec almost
 feels sorry for him.
-TEC"|unknown||
-1122||That's cold.|stage direction||
-1123||(to crew)|unknown||
-1124||Lose the tape.|stage direction||
+TEC"|unknown|||
+1122||That's cold.|stage direction|||
+1123||(to crew)|unknown|||
+1124||Lose the tape.|stage direction|||
 1125||"Tec's homie rips the tape off Brad's mouth.
-BRAD"|unknown||
+BRAD"|unknown|||
 1126||"God damn that hurts!!! I get out
 of this I'ma hafta teach y'all
-some manners!"|stage direction||
-1127||TEC|unknown||
-1128||Your daddy ain't payin'.|stage direction||
-1129||BRAD|unknown||
+some manners!"|stage direction|||
+1127||TEC|unknown|||
+1128||Your daddy ain't payin'.|stage direction|||
+1129||BRAD|unknown|||
 1130||"Yeah, yeah, tell me somethin' I
-don't know!"|stage direction||
-1131||TEC|unknown||
-1132||What?|stage direction||
-1133||BRAD|unknown||
+don't know!"|stage direction|||
+1131||TEC|unknown|||
+1132||What?|stage direction|||
+1133||BRAD|unknown|||
 1134||"You heard me, you half-steppin'
-moist-ass bitch!"|stage direction||
+moist-ass bitch!"|stage direction|||
 1135||"Tec cocks his nine and aims at Brad.
 BRAD
-(fearless)"|unknown||
+(fearless)"|unknown|||
 1136||"Oh what, you gonna do me like
-this? A'ight, then bring it."|stage direction||
-1137||TEC|unknown||
-1138||It's brought.|stage direction||
+this? A'ight, then bring it."|stage direction|||
+1137||TEC|unknown|||
+1138||It's brought.|stage direction|||
 1139||"Man up! Put this wannabe out of
-his misery."|stage direction||
+his misery."|stage direction|||
 1140||"(CONTINUED)
 79.
 A70   CONTINUED:                                                       A70
 Tec is stunned -- the white boy isn't showing any fear.
 Brad steps forward, puts the gun to his own heart, and
 places his thumb on the trigger.
-BRAD"|unknown||
+BRAD"|unknown|||
 1141||"That gat's real, right?    Then do
-it or I'll do it myself"|stage direction||
+it or I'll do it myself"|stage direction|||
 1142||"TEC
-(unnerved)"|unknown||
+(unnerved)"|unknown|||
 1143||"Brotha straight-up crazy, and I
-cannot deal with that shit."|stage direction||
+cannot deal with that shit."|stage direction|||
 1144||"Suddenly GUNFIRE erupts as Tech's car is HIT with a
 BARRAGE of BULLETS. Brad, the crew, Sean and PJ drop to
 the street and roll under the car. Tec has to dive
@@ -2928,70 +2928,70 @@ UNDER CAR
 The I-9s RETURN FIRE. PJ and Sean are in the fetal
 position, freaking out. Brad, thinking it's all fake, is
 laughing, having a great time.
-TEC"|unknown||
-1145||Lay down some cover, fool!|stage direction||
+TEC"|unknown|||
+1145||Lay down some cover, fool!|stage direction|||
 1146||"Tec's pinned down behind the dumpster. He's without
 a weapon, and Rollin' G's are FOCUSING their FIRE on
 him.
-8-BALL"|unknown||
+8-BALL"|unknown|||
 1147||"We're tryin', man, but they're too
-strapped."|stage direction||
-1148||DEUCE|unknown||
-1149||What the hell we gonna do?|stage direction||
-1150||BRAD|unknown||
-1151||Punks.   Gimme dem gats.|stage direction||
+strapped."|stage direction|||
+1148||DEUCE|unknown|||
+1149||What the hell we gonna do?|stage direction|||
+1150||BRAD|unknown|||
+1151||Punks.   Gimme dem gats.|stage direction|||
 1152||"Brad grabs the Uzis and rolls out from under the
 car.
 (CONTINUED)
 80.
 A70   CONTINUED:    (2)                                          A70
-BRAD"|unknown||
+BRAD"|unknown|||
 1153||"Y'all wanna play? Let's play!
 You know who you're dealin'
-with???"|stage direction||
+with???"|stage direction|||
 1154||"He jumps up on the hood of Tec's car and OPENS FIRE with
 both Uzis, laying down a withering rain of lead.
-BRAD"|unknown||
+BRAD"|unknown|||
 1155||"I'm B-Rad G, from the 'BU,
-y'all..."|stage direction||
+y'all..."|stage direction|||
 1156||"(out Denzeling
-Denzel)"|unknown||
+Denzel)"|unknown|||
 1157||"King Kong ain't got nothin' on me!
-Aaaaaaaaaaaaaaaaa!"|stage direction||
-1158||(STOPS FIRING)|unknown||
+Aaaaaaaaaaaaaaaaa!"|stage direction|||
+1158||(STOPS FIRING)|unknown|||
 1159||"Damn. These special effects are
-the bomb!"|stage direction||
-1160||(resumes FIRING)|unknown||
-1161||Aaaaaaaaaaaaaaaaaa!!!|stage direction||
+the bomb!"|stage direction|||
+1160||(resumes FIRING)|unknown|||
+1161||Aaaaaaaaaaaaaaaaaa!!!|stage direction|||
 1162||"The Rollin' G's try to respond, but Brad's fire is too
 intense.
-SNUFFY"|unknown||
-1163||Devil's got some balls.|stage direction||
-1164||LOC|unknown||
-1165||For real!   Let's dip!|stage direction||
+SNUFFY"|unknown|||
+1163||Devil's got some balls.|stage direction|||
+1164||LOC|unknown|||
+1165||For real!   Let's dip!|stage direction|||
 1166||"They all hop in their convertible and tear-ass out of
 there as Brad jumps off the cars and follows on foot,
 FIRING after them as they turn the corner and SQUEAL
 away.
-BRAD"|unknown||
-1167||It's safe now, y'all.|stage direction||
+BRAD"|unknown|||
+1167||It's safe now, y'all.|stage direction|||
 1168||"Tec emerges from behind the dumpster. The crew rolls out
 from under the car, followed by Sean and PJ. They look
 at Brad in awe. They're impressed.
-TEC"|unknown||
+TEC"|unknown|||
 1169||"That was ill!    Y'all definitely
-got juice."|stage direction||
+got juice."|stage direction|||
 1170||"He offers his fist to Brad.        They pound.
-TEC"|unknown||
-1171||Where'd you learn that shit?|stage direction||
-1172||BRAD|unknown||
-1173||Damn.   Jus' MTV.|stage direction||
+TEC"|unknown|||
+1171||Where'd you learn that shit?|stage direction|||
+1172||BRAD|unknown|||
+1173||Damn.   Jus' MTV.|stage direction|||
 1174||"81.
 71   OMITTED                                                    71
 72                                                              72
 CUT TO:
-73   INT. CHANNEL 5 NEWS ROOM - NIGHT                           73"|unknown||
-1175||HAL FISHMAN reads the night's news.|location||
+73   INT. CHANNEL 5 NEWS ROOM - NIGHT                           73"|unknown|||
+1175||HAL FISHMAN reads the night's news.|location|||
 1176||"HAL FISHMAN
 Good evening. A Channel Five
 exclusive. A security camera
@@ -3000,178 +3000,178 @@ gang violence tonight, as it flared
 on the streets of South Central.
 CUT TO:
 74   OMITTED                                                    74
-75   EXT. STREET CORNER - NIGHT (GRAINY SECURITY CAMERA         75"|unknown||
+75   EXT. STREET CORNER - NIGHT (GRAINY SECURITY CAMERA         75"|unknown|||
 1177||"FOOTAGE)
-of Brad, on top of Tec's car, FIRING the UZIS."|location||
+of Brad, on top of Tec's car, FIRING the UZIS."|location|||
 1178||"HAL FISHMAN (V.O.)
 This hardcore gangster, believed to
 be the notorious 'White Kong,' leader
 of I-9 street gang, fires his weapons
 with wanton disregard for human life
-or personal property."|unknown||
+or personal property."|unknown|||
 1179||"CLOSEUP - BRAD'S CRAZED FACE
-in SLOW MOTION as he FIRES."|location||
+in SLOW MOTION as he FIRES."|location|||
 1180||"HAL FISHMAN (V.O.)
 If you have any information on the
 whereabouts of this man, call our
 hot line at 1-555-GANG.
 CUT TO:
-76   INT. GLUCKMAN MANSION - BILL AND BESS'S BEDROOM - NIGHT    76"|unknown||
-1181||They sit in bed, stunned.|location||
+76   INT. GLUCKMAN MANSION - BILL AND BESS'S BEDROOM - NIGHT    76"|unknown|||
+1181||They sit in bed, stunned.|location|||
 1182||"BILL
 Oh...
 CUT TO:
 82.
 77    INT. SHONDRA'S HOUSE - LIVING ROOM - SAME TIME              77
-She's on the couch, blocking a wig, stunned."|unknown||
+She's on the couch, blocking a wig, stunned."|unknown|||
 1183||"... my...
 78    INT. MALI-BREW - MOVING - SAME TIME                         78
 Mocha, Hadji, and Monster, holding half-drunken lattes,
-are all staring at a TV mounted in the corner."|unknown||
+are all staring at a TV mounted in the corner."|unknown|||
 1184||"... Gaaaaa...
 A78   INT. GLUCKMAN CAMPAIGN HEADQUARTERS WAR ROOM - SAME         A78
 TIME
-Tom stares at the TV."|unknown||
+Tom stares at the TV."|unknown|||
 1185||"... aaaaa...
-And then, in QUICK SHOTS, we INTERCUT BETWEEN:"|unknown||
-1186||... oooooo...|unknown||
-1187||... aaaaaa...|unknown||
-1188||... aaaaaa...|unknown||
-1189||... aaaaaa...|unknown||
-1190||... aaaaaa...|unknown||
-1191||... aaaaaa...|unknown||
-1192||... aaaaaa...|unknown||
-1193||... aaaaaa...|unknown||
+And then, in QUICK SHOTS, we INTERCUT BETWEEN:"|unknown|||
+1186||... oooooo...|unknown|||
+1187||... aaaaaa...|unknown|||
+1188||... aaaaaa...|unknown|||
+1189||... aaaaaa...|unknown|||
+1190||... aaaaaa...|unknown|||
+1191||... aaaaaa...|unknown|||
+1192||... aaaaaa...|unknown|||
+1193||... aaaaaa...|unknown|||
 1194||"... oooooo...
 (CONTINUED)
 83.
 A78   CONTINUED:                                                      A78
-TOM"|unknown||
-1195||... aaaaaa...|stage direction||
-1196||MOCHA|unknown||
-1197||... aaaaaa...|stage direction||
-1198||HADJI|unknown||
-1199||... aaaaaa...|stage direction||
-1200||TOM|unknown||
-1201||... aaaaaa...|stage direction||
-1202||GARY|unknown||
-1203||... oooooo...|stage direction||
-1204||JEN|unknown||
-1205||... oooooo...|stage direction||
-1206||BRETT|unknown||
-1207||... oooooo...|stage direction||
-1208||BARISTA|unknown||
-1209||... aaaaaa...|stage direction||
-1210||SHONDRA|unknown||
-1211||... aaaaaad!|stage direction||
+TOM"|unknown|||
+1195||... aaaaaa...|stage direction|||
+1196||MOCHA|unknown|||
+1197||... aaaaaa...|stage direction|||
+1198||HADJI|unknown|||
+1199||... aaaaaa...|stage direction|||
+1200||TOM|unknown|||
+1201||... aaaaaa...|stage direction|||
+1202||GARY|unknown|||
+1203||... oooooo...|stage direction|||
+1204||JEN|unknown|||
+1205||... oooooo...|stage direction|||
+1206||BRETT|unknown|||
+1207||... oooooo...|stage direction|||
+1208||BARISTA|unknown|||
+1209||... aaaaaa...|stage direction|||
+1210||SHONDRA|unknown|||
+1211||... aaaaaad!|stage direction|||
 1212||"CUT TO:
 79    INT. MALI-BREW - NIGHT                                          79
-MOCHA"|unknown||
+MOCHA"|unknown|||
 1213||"Dat is some hardcore shiznit,
-y'all!"|stage direction||
-1214||MONSTER|unknown||
+y'all!"|stage direction|||
+1214||MONSTER|unknown|||
 1215||"If dat's what you got to do to get
-on Big Boy's label, count me out."|stage direction||
-1216||MOCHA|unknown||
+on Big Boy's label, count me out."|stage direction|||
+1216||MOCHA|unknown|||
 1217||"He ain't with Big Boy, fool! B-
 Rad's hangin' with some serious
-bangers!"|stage direction||
-1218||HADJI|unknown||
-1219||What we gonna do, Moch?|stage direction||
-1220||MOCHA|unknown||
+bangers!"|stage direction|||
+1218||HADJI|unknown|||
+1219||What we gonna do, Moch?|stage direction|||
+1220||MOCHA|unknown|||
 1221||"Bounce to our respective cribs,
 jack our moms' and pops' biggest
 gats, jet down to South Central
-and save his ass."|stage direction||
+and save his ass."|stage direction|||
 1222||"(CONTINUED)
 84.
 79   CONTINUED:                                                       79
-HADJI AND MOCHA"|unknown||
-1223|BILL|Word.|speech|BILL|M
+HADJI AND MOCHA"|unknown|||
+1223|BILL|Word.|speech|BILL|M|True
 1224|MONSTER|"But... what if they don't have
-coffee?"|speech|MONSTER|F
-1225|HADJI|Krista -- six Tsunamis to go!|speech|HADJI|F
+coffee?"|speech|MONSTER|F|True
+1225|HADJI|Krista -- six Tsunamis to go!|speech|HADJI|F|True
 1226||"CUT TO:
-80   INT. GLUCKMAN CAMPAIGN HQ - WAR ROOM - NIGHT                     80"|unknown||
+80   INT. GLUCKMAN CAMPAIGN HQ - WAR ROOM - NIGHT                     80"|unknown|||
 1227||"Bill storms in. Tom quickly switches OFF the TV.          The
-staffers move aside as Bill confronts Tom."|location||
+staffers move aside as Bill confronts Tom."|location|||
 1228|BILL|"Bradley's been involved in a gang
-shooting."|speech|BILL|M
-1229|TOM|Are you positive?|speech|TOM|M
+shooting."|speech|BILL|M|True
+1229|TOM|Are you positive?|speech|TOM|M|True
 1230|BILL|"His face was on the news, Tom!   I
-think I know my own son!"|speech|BILL|M
+think I know my own son!"|speech|BILL|M|True
 1231|TOM|"I'm sure there's a logical
 explanation. Why don't you get
-some sleep --"|speech|TOM|M
+some sleep --"|speech|TOM|M|True
 1232|BILL|"Sleep? He's shooting the hell out
 of South Central. We've got to
-get him!"|speech|BILL|M
+get him!"|speech|BILL|M|True
 1233|TOM|"What about the debate tomorrow in
-Sacramento --"|speech|TOM|M
-1234|BILL|Forget the debate!|speech|BILL|M
+Sacramento --"|speech|TOM|M|True
+1234|BILL|Forget the debate!|speech|BILL|M|True
 1235|TOM|"If you cancel, you can kiss this
-campaign good-bye."|speech|TOM|M
+campaign good-bye."|speech|TOM|M|True
 1236||"(CONTINUED)
 85.
-80   CONTINUED:                                                     80"|unknown||
+80   CONTINUED:                                                     80"|unknown|||
 1237|BILL|"You can shove the campaign up your
 ass, Tom! I will not lose my son
-over this election!"|speech|BILL|M
+over this election!"|speech|BILL|M|True
 1238|TOM|"I understand you're upset, Bill,
 but Jesus, for once in your life
 think outside the box! We can
 make Brad's whole gang thing a
-positive..."|speech|TOM|M
-1239||(incredulous)|unknown||
-1240|BILL|A positive!|speech|BILL|M
+positive..."|speech|TOM|M|True
+1239||(incredulous)|unknown|||
+1240|BILL|A positive!|speech|BILL|M|True
 1241|TOM|"If he's arrested or, God forbid
 injured, we spin it so you are the
 victim, you know, 'crime reaches
-everyone,' something like that..."|speech|TOM|M
+everyone,' something like that..."|speech|TOM|M|True
 1242|BILL|"You're trying to get votes out of
-this?"|speech|BILL|M
+this?"|speech|BILL|M|True
 1243|TOM|"I'm trying to win, Bill, and you
-don't seem to care!"|speech|TOM|M
-1244|BILL|I'm his father.|speech|BILL|M
-1245||(laughs)|unknown||
-1246|TOM|When did that happen?|speech|TOM|M
-1247|BILL|I guess right now.|speech|BILL|M
-1248||Bill grabs Tom by the shirt and slams him into the wall.|location||
-1249||BILL|unknown||
-1250|BILL|You're fired.|speech|BILL|M
-1251||As Bill takes off:|location||
+don't seem to care!"|speech|TOM|M|True
+1244|BILL|I'm his father.|speech|BILL|M|True
+1245||(laughs)|unknown|||
+1246|TOM|When did that happen?|speech|TOM|M|True
+1247|BILL|I guess right now.|speech|BILL|M|True
+1248||Bill grabs Tom by the shirt and slams him into the wall.|location|||
+1249||BILL|unknown|||
+1250|BILL|You're fired.|speech|BILL|M|True
+1251||As Bill takes off:|location|||
 1252|TOM|"All right, guys, let's pitch on
-how I get my job back."|speech|TOM|M
-1253||They just stare at him.|location||
+how I get my job back."|speech|TOM|M|True
+1253||They just stare at him.|location|||
 1254||"(CONTINUED)
 86.
 80   CONTINUED:    (2)                                              80
-TOM"|unknown||
-1255|TOM|Guys?|speech|TOM|M
+TOM"|unknown|||
+1255|TOM|Guys?|speech|TOM|M|True
 1256|BRETT|"Just so you know, I never liked
 the way you ran things around
-here."|speech|BRETT|?
-1257||(walking out)|unknown||
-1258|BRETT|Bill? Mr. Gluckman?|speech|BRETT|?
-1259||The other staffers follow Brett out, leaving Tom alone.|location||
+here."|speech|BRETT|?|True
+1257||(walking out)|unknown|||
+1258|BRETT|Bill? Mr. Gluckman?|speech|BRETT|?|True
+1259||The other staffers follow Brett out, leaving Tom alone.|location|||
 1260||"CUT TO:
-81   INT. BILL GLUCKMAN'S HUMMER - MOVING - NIGHT                   81"|unknown||
-1261||Bill hauls-ass down the 405, his headset on.|location||
-1262|HUMAN OPERATOR (V.O.)|This is Lojack.|speech|HUMAN OPERATOR|?
-1263|BILL|I need a location on license number...|speech|BILL|M
-1264||(reluctant)|unknown||
-1265|BILL|'D-SHIZNIT.'|speech|BILL|M
+81   INT. BILL GLUCKMAN'S HUMMER - MOVING - NIGHT                   81"|unknown|||
+1261||Bill hauls-ass down the 405, his headset on.|location|||
+1262|HUMAN OPERATOR (V.O.)|This is Lojack.|speech|HUMAN OPERATOR|?|
+1263|BILL|I need a location on license number...|speech|BILL|M|True
+1264||(reluctant)|unknown|||
+1265|BILL|'D-SHIZNIT.'|speech|BILL|M|True
 1266|HUMAN OPERATOR (V.O.)|"That vehicle is at the corner of
-McKinley and 82nd."|speech|HUMAN OPERATOR|?
+McKinley and 82nd."|speech|HUMAN OPERATOR|?|
 1267||"INSERT - ON DASH NAVIGATION SYSTEM SCREEN
 Suddenly a map of South Central appears, with a red
 blinking dot at the corner of McKinley and 82nd.
-BACK TO SCENE"|location||
+BACK TO SCENE"|location|||
 1268|COMPUTER VOICE (V.O.)|"Your destination is a Lojack
 designated danger zone. Lojack
 does not recommend you venture
-into this area."|speech|COMPUTER VOICE|?
-1269||RAP BLASTS IN as Bill punches the gas, as we:|location||
+into this area."|speech|COMPUTER VOICE|?|
+1269||RAP BLASTS IN as Bill punches the gas, as we:|location|||
 1270||"CUT TO:
 87.
 A81   INT. TEC'S HOUSE - LIVING ROOM - NIGHT                       A81
@@ -3212,255 +3212,255 @@ A'ight Free Willy, think you so
 bad, what you got?
 (CONTINUED)
 88.
-82   CONTINUED:                                                   82"|unknown||
-1271||(embarrassed)|unknown||
-1272|MOCHA|Never mind.|speech|MOCHA|M
+82   CONTINUED:                                                   82"|unknown|||
+1271||(embarrassed)|unknown|||
+1272|MOCHA|Never mind.|speech|MOCHA|M|True
 1273||"He puts an old musty case in the car and starts to close
-the doors. Hadji stops him."|location||
-1274|HADJI|Come on, let's see it.|speech|HADJI|F
-1275|MOCHA|A'ight, a'ight, chill.|speech|MOCHA|M
+the doors. Hadji stops him."|location|||
+1274|HADJI|Come on, let's see it.|speech|HADJI|F|True
+1275|MOCHA|A'ight, a'ight, chill.|speech|MOCHA|M|True
 1276||"He opens the case, revealing an antique blunderbuss
-musket, with a flintlock hammer and a bell muzzle."|location||
-1277|HADJI|Is that a freakin' musket?|speech|HADJI|F
-1278|MOCHA|What?  My pops is a collector.|speech|MOCHA|M
-1279||(off their looks)|unknown||
+musket, with a flintlock hammer and a bell muzzle."|location|||
+1277|HADJI|Is that a freakin' musket?|speech|HADJI|F|True
+1278|MOCHA|What?  My pops is a collector.|speech|MOCHA|M|True
+1279||(off their looks)|unknown|||
 1280|MOCHA|"Come on, man, pirates used that
-shit."|speech|MOCHA|M
-1281||Monster grabs the musket and points it at Mocha.|location||
-1282||(imitating a pirate)|unknown||
+shit."|speech|MOCHA|M|True
+1281||Monster grabs the musket and points it at Mocha.|location|||
+1282||(imitating a pirate)|unknown|||
 1283|MONSTER|"Aargh, matey, give up yer treasure
 or I'll bust me harpoon in yer
-booty."|speech|MONSTER|F
-1284||Monster and Hadji start laughing.|location||
-1285||MOCHA|unknown||
-1286|MONSTER|Shut up!   Damn posers!|speech|MONSTER|F
+booty."|speech|MONSTER|F|True
+1284||Monster and Hadji start laughing.|location|||
+1285||MOCHA|unknown|||
+1286|MONSTER|Shut up!   Damn posers!|speech|MONSTER|F|True
 1287||"He snatches the musket from Monster and carefully places
-it back in the case."|location||
-1288|MONSTER|Hadji, how 'bout you?|speech|MONSTER|F
-1289|HADJI|Couldn't get much, yo...|speech|HADJI|F
-1290||Hadji opens a duffel and pulls out three Kevlar vests.|location||
+it back in the case."|location|||
+1288|MONSTER|Hadji, how 'bout you?|speech|MONSTER|F|True
+1289|HADJI|Couldn't get much, yo...|speech|HADJI|F|True
+1290||Hadji opens a duffel and pulls out three Kevlar vests.|location|||
 1291|HADJI|"When I told my pops we was going
 on a drive-by, he gave me three of
-these."|speech|HADJI|F
+these."|speech|HADJI|F|True
 1292||"(CONTINUED)
 89.
-82   CONTINUED:    (2)                                               82"|unknown||
+82   CONTINUED:    (2)                                               82"|unknown|||
 1293|MONSTER|"Good thinking, but what heat you
-got?"|speech|MONSTER|F
+got?"|speech|MONSTER|F|True
 1294||"He opens a plastic case, revealing a Stinger rocket
-launcher and four missiles."|location||
-1295|HADJI|... dis.|speech|HADJI|F
-1296||Mocha and Monster are blown away.|location||
-1297||MONSTER|unknown||
-1298|HADJI|Dang!   Where'd you get all dat?|speech|HADJI|F
-1299||(nonchalant)|unknown||
+launcher and four missiles."|location|||
+1295|HADJI|... dis.|speech|HADJI|F|True
+1296||Mocha and Monster are blown away.|location|||
+1297||MONSTER|unknown|||
+1298|HADJI|Dang!   Where'd you get all dat?|speech|HADJI|F|True
+1299||(nonchalant)|unknown|||
 1300|HADJI|"Christmas present from Uncle
-Ahmet."|speech|HADJI|F
+Ahmet."|speech|HADJI|F|True
 1301||"CUT TO:
-83   INT. HADJI'S DAD'S MERCEDES - MOMENTS LATER                     83"|unknown||
+83   INT. HADJI'S DAD'S MERCEDES - MOMENTS LATER                     83"|unknown|||
 1302||"Mocha, Hadji, and Monster snap on their seat belts.
-Hadji flips on the in-dash SOS Mercedes GPS system."|location||
+Hadji flips on the in-dash SOS Mercedes GPS system."|location|||
 1303|FEMALE OPERATOR (V.O.)|"Yes, Mr. Amiraslani, can I help
-you?"|speech|FEMALE OPERATOR|?
+you?"|speech|FEMALE OPERATOR|?|
 1304|HADJI|"Hell yes, chicken. I need a
 location on license number D-
-SHIZNIT."|speech|HADJI|F
+SHIZNIT."|speech|HADJI|F|True
 1305||"CUT TO:
 84   OMITTED                                                         84
 85                                                                   85
-86   INT. TEC'S HOUSE - NIGHT                                        86"|unknown||
+86   INT. TEC'S HOUSE - NIGHT                                        86"|unknown|||
 1306||"The party is now in full effect, the system up and
 cranked as the CAMERA FINDS Brad's in the middle of the
 dance floor, freaking and doing the robot with a couple
 of sisters. The girls whisper in his ear, he smiles, and
-they head for a bedroom."|location||
+they head for a bedroom."|location|||
 1307||"(CONTINUED)
 90.
-86   CONTINUED:                                                     86"|unknown||
+86   CONTINUED:                                                     86"|unknown|||
 1308||"Just as they exit, Shondra enters from the kitchen, and
-finds Sean and PJ, still tied up and terrified."|location||
-1309||SHONDRA|unknown||
-1310|HADJI|Where's Brad?|speech|HADJI|F
-1311||(near tears)|unknown||
-1312|SEAN|I haven't seen anything.|speech|SEAN|M
-1313||She moves on.     PJ lifts up his bound wrists.|location||
-1314||PJ|unknown||
-1315|SEAN|Shondra!   Little help, please.|speech|SEAN|M
-1316||But she's gone.|location||
-1317||87   INT. TEC'S HOUSE - BEDROOM - MOMENTS LATER                     87|unknown||
+finds Sean and PJ, still tied up and terrified."|location|||
+1309||SHONDRA|unknown|||
+1310|HADJI|Where's Brad?|speech|HADJI|F|True
+1311||(near tears)|unknown|||
+1312|SEAN|I haven't seen anything.|speech|SEAN|M|True
+1313||She moves on.     PJ lifts up his bound wrists.|location|||
+1314||PJ|unknown|||
+1315|SEAN|Shondra!   Little help, please.|speech|SEAN|M|True
+1316||But she's gone.|location|||
+1317||87   INT. TEC'S HOUSE - BEDROOM - MOMENTS LATER                     87|unknown|||
 1318||"Brad's on the bed with the two women, who are kissing
-him."|location||
+him."|location|||
 1319|BRAD|"Yeah, I just got tested positive
-... for G.A.M.E."|speech|BRAD|M
-1320||(mock surprise)|unknown||
-1321|SISTER #1|Cool playa.|speech|SISTER #1|?
-1322|SISTER #2|Let's get busy.|speech|SISTER #2|?
-1323||They laugh when suddenly Shondra comes through the door.|location||
+... for G.A.M.E."|speech|BRAD|M|True
+1320||(mock surprise)|unknown|||
+1321|SISTER #1|Cool playa.|speech|SISTER #1|?|
+1322|SISTER #2|Let's get busy.|speech|SISTER #2|?|
+1323||They laugh when suddenly Shondra comes through the door.|location|||
 1324|SHONDRA|"That's the same damn line he used
 on me, and now this no good
 deadbeat weak-ass white boy won't
-take care of little Malik."|speech|SHONDRA|F
-1325||BRAD|unknown||
-1326|SHONDRA|What?!|speech|SHONDRA|F
-1327||(sniffles)|unknown||
-1328|SHONDRA|You know he's yours...|speech|SHONDRA|F
-1329|SISTER #1|This gettin' heavy.|speech|SISTER #1|?
+take care of little Malik."|speech|SHONDRA|F|True
+1325||BRAD|unknown|||
+1326|SHONDRA|What?!|speech|SHONDRA|F|True
+1327||(sniffles)|unknown|||
+1328|SHONDRA|You know he's yours...|speech|SHONDRA|F|True
+1329|SISTER #1|This gettin' heavy.|speech|SISTER #1|?|
 1330||"(CONTINUED)
 91.
 87   CONTINUED:                                                     87
-SISTER #2"|unknown||
-1331|SISTER #1|Let's jet.|speech|SISTER #1|?
-1332||The girls leave.|location||
+SISTER #2"|unknown|||
+1331|SISTER #1|Let's jet.|speech|SISTER #1|?|
+1332||The girls leave.|location|||
 1333|BRAD|"Damn, why you throwin' salt on my
-G.A.M.E.?"|speech|BRAD|M
+G.A.M.E.?"|speech|BRAD|M|True
 1334|SHONDRA|"I'm savin' your lily-white ass.
-Come on."|speech|SHONDRA|F
+Come on."|speech|SHONDRA|F|True
 1335|BRAD|"I ain't goin' nowhere. I'm a I-9
-neow, straight-up. Peep my tat."|speech|BRAD|M
+neow, straight-up. Peep my tat."|speech|BRAD|M|True
 1336||"Brad lifts his shirt and shows her the tattoo on his
-stomach: I-9 THUG."|location||
-1337||(urgent)|unknown||
-1338|SHONDRA|Listen, fool.|speech|SHONDRA|F
+stomach: I-9 THUG."|location|||
+1337||(urgent)|unknown|||
+1338|SHONDRA|Listen, fool.|speech|SHONDRA|F|True
 1339|BRAD|"Shut up, Shondra! I know y'all
 set me up, I know it's all fake,
 de kidnap, de stickup, de whole
-nizzy."|speech|BRAD|M
-1340||SHONDRA|unknown||
-1341|BRAD|Oh, damn...|speech|BRAD|M
-1342|BRAD|Why'd you play me, huh?|speech|BRAD|M
-1343|SHONDRA|For the money.|speech|SHONDRA|F
+nizzy."|speech|BRAD|M|True
+1340||SHONDRA|unknown|||
+1341|BRAD|Oh, damn...|speech|BRAD|M|True
+1342|BRAD|Why'd you play me, huh?|speech|BRAD|M|True
+1343|SHONDRA|For the money.|speech|SHONDRA|F|True
 1344||"BRAD
-What you need money"|unknown||
+What you need money"|unknown|||
 1345|SHONDRA|"Money?!   Tch.
-for?"|speech|SHONDRA|F
+for?"|speech|SHONDRA|F|True
 1346|SHONDRA|"Look, fool, this may sound stupid
 to you, but not everybody has
 money, and to people that don't,
-money is important!"|speech|SHONDRA|F
+money is important!"|speech|SHONDRA|F|True
 1347|BRAD|"Please. You prob'ly still
-flippin' me anyway, so --"|speech|BRAD|M
+flippin' me anyway, so --"|speech|BRAD|M|True
 1348||"(CONTINUED)
 92.
-87   CONTINUED:    (2)                                                   87"|unknown||
+87   CONTINUED:    (2)                                                   87"|unknown|||
 1349|SHONDRA|"Dammit, Brad, this is real.   Tec
-and his crew are real --"|speech|SHONDRA|F
+and his crew are real --"|speech|SHONDRA|F|True
 1350|BRAD|"Oh really? Well if Tec is real
-then this gat must be real..."|speech|BRAD|M
-1351||Brad pulls his nine.|location||
-1352|BRAD|And if this gat is real then the|speech|BRAD|M
-1353||in it have got to be real.|unknown||
+then this gat must be real..."|speech|BRAD|M|True
+1351||Brad pulls his nine.|location|||
+1352|BRAD|And if this gat is real then the|speech|BRAD|M|True
+1353||in it have got to be real.|unknown|||
 1354|BRAD|"caps
-And seein' how my foot is real,"|speech|BRAD|M
-1355||this would really hurt...|unknown||
-1356|BRAD|then|speech|BRAD|M
+And seein' how my foot is real,"|speech|BRAD|M|True
+1355||this would really hurt...|unknown|||
+1356|BRAD|then|speech|BRAD|M|True
 1357||"Brad aims at his foot and pulls the trigger and BLAM!          He
-puts a BULLET through the toes of his sneaks."|location||
+puts a BULLET through the toes of his sneaks."|location|||
 1358|BRAD|"See dat. I just shot myself in
-the foot and..."|speech|BRAD|M
-1359||(feeling pain)|unknown||
+the foot and..."|speech|BRAD|M|True
+1359||(feeling pain)|unknown|||
 1360|BRAD|"It's reaaaaalll! It's totally
-reaaaaalll!!!"|speech|BRAD|M
-1361||Brad starts hopping around the room.|location||
+reaaaaalll!!!"|speech|BRAD|M|True
+1361||Brad starts hopping around the room.|location|||
 1362|BRAD|"I just shot my foot!!   I just shot
-my foot!!!"|speech|BRAD|M
+my foot!!!"|speech|BRAD|M|True
 1363|SHONDRA|"Stop hoppin' around, fool, so I
-can look at it."|speech|SHONDRA|F
+can look at it."|speech|SHONDRA|F|True
 1364||"(CONTINUED)
 93.
-87   CONTINUED:    (3)                                             87"|unknown||
-1365||Shondra gets down on her knees to get a closer look.|location||
-1366|BRAD|Oh gaawwwd!|speech|BRAD|M
+87   CONTINUED:    (3)                                             87"|unknown|||
+1365||Shondra gets down on her knees to get a closer look.|location|||
+1366|BRAD|Oh gaawwwd!|speech|BRAD|M|True
 1367|SHONDRA|"Lucky you're such a weak shot.
-Cap just grazed your toe."|speech|SHONDRA|F
+Cap just grazed your toe."|speech|SHONDRA|F|True
 1368|BRAD|"But, it's real, Shondra, it's all
-reeeeeeeeeeeeeeeal!"|speech|BRAD|M
-1369||Tec enters, gun in hand.|location||
-1370|TEC|Who's the hell's poppin' ca --|speech|TEC|M
+reeeeeeeeeeeeeeeal!"|speech|BRAD|M|True
+1369||Tec enters, gun in hand.|location|||
+1370|TEC|Who's the hell's poppin' ca --|speech|TEC|M|True
 1371||"TEC'S POV
 Shondra, on her knees, kneeling before Brad.
-ANOTHER ANGLE"|location||
-1372||(menacing)|unknown||
-1373|TEC|What up, cuz?|speech|TEC|M
-1374||Shondra stands quickly, scared.|location||
+ANOTHER ANGLE"|location|||
+1372||(menacing)|unknown|||
+1373|TEC|What up, cuz?|speech|TEC|M|True
+1374||Shondra stands quickly, scared.|location|||
 1375||"(terrified,
-covering)"|unknown||
+covering)"|unknown|||
 1376|BRAD|"Ha ha, Tec, my road dawg, yeah,
-just the man I wanta see."|speech|BRAD|M
-1377||(to Shondra)|unknown||
-1378|TEC|What's goin' on, Shondra?|speech|TEC|M
-1379||(nervous)|unknown||
+just the man I wanta see."|speech|BRAD|M|True
+1377||(to Shondra)|unknown|||
+1378|TEC|What's goin' on, Shondra?|speech|TEC|M|True
+1379||(nervous)|unknown|||
 1380|SHONDRA|"It's not what it looks like, Tec,
-I swear."|speech|SHONDRA|F
+I swear."|speech|SHONDRA|F|True
 1381|TEC|"Don't you lie to me. That was
 always my line to you, and it
 always was what it looked like.
 Now what's up with your boyfriend
-here."|speech|TEC|M
+here."|speech|TEC|M|True
 1382||"(CONTINUED)
 94.
-87   CONTINUED:    (4)                                            87"|unknown||
+87   CONTINUED:    (4)                                            87"|unknown|||
 1383|BRAD|"Yo, dawg, love to kick it wit' you
 and run the whole thizang, but I
 got some bidness back in the 'Bu,
 li'l somethin' somethin' with Big Boy
-and whatnot, so if y'alls don't mind --"|speech|BRAD|M
-1384||TEC|unknown||
-1385|BRAD|I do mind.|speech|BRAD|M
-1386||Tec grabs Brad and drags him out.|location||
-1387|SHONDRA|No, Tec, stop!|speech|SHONDRA|F
-1388||88   INT. TEC'S LIVING ROOM - SAME TIME                           88|unknown||
+and whatnot, so if y'alls don't mind --"|speech|BRAD|M|True
+1384||TEC|unknown|||
+1385|BRAD|I do mind.|speech|BRAD|M|True
+1386||Tec grabs Brad and drags him out.|location|||
+1387|SHONDRA|No, Tec, stop!|speech|SHONDRA|F|True
+1388||88   INT. TEC'S LIVING ROOM - SAME TIME                           88|unknown|||
 1389||"Tec hauls Brad in, followed by Shondra. The I-9s draw
 weapons; the room fills with tension. Sean and PJ look
-on, getting caught up in the action."|location||
+on, getting caught up in the action."|location|||
 1390|BRAD|"Wait, Tec, lemme explain, 'cause I
-don't belong here..."|speech|BRAD|M
+don't belong here..."|speech|BRAD|M|True
 1391|TEC|"You done forgot already, fool? I
 told you the only one way out of
 the I-9s, and your 'E' ticket's in
-this here chamber."|speech|TEC|M
-1392||Tec cocks his gun.|location||
+this here chamber."|speech|TEC|M|True
+1392||Tec cocks his gun.|location|||
 1393||"(CONTINUED)
 95.
-88   CONTINUED:                                                     88"|unknown||
+88   CONTINUED:                                                     88"|unknown|||
 1394||"ANGLE ON SEAN AND PJ
-watching Tec, riveted."|location||
+watching Tec, riveted."|location|||
 1395|SEAN|"See how committed he is? That's
-the rage I was talking about."|speech|SEAN|M
-1396||(in awe)|unknown||
-1397|PJ|Word.|speech|PJ|?
+the rage I was talking about."|speech|SEAN|M|True
+1396||(in awe)|unknown|||
+1397|PJ|Word.|speech|PJ|?|True
 1398||"BACK TO SCENE
-Tec aims at Brad."|location||
-1399|BRAD|Please, don't be hatin'.|speech|BRAD|M
-1400||Shondra steps in front of Brad.|location||
-1401|SHONDRA|I won't let you do it, Tec.|speech|SHONDRA|F
+Tec aims at Brad."|location|||
+1399|BRAD|Please, don't be hatin'.|speech|BRAD|M|True
+1400||Shondra steps in front of Brad.|location|||
+1401|SHONDRA|I won't let you do it, Tec.|speech|SHONDRA|F|True
 1402|TEC|"No problem, then.   I'll just do
-the both of you."|speech|TEC|M
+the both of you."|speech|TEC|M|True
 1403||"Tec levels the barrel at Shondra and Brad. He starts to
 squeeze the trigger when suddenly Bill's HUMMER CRASHES
 through the wall. I-9's scatter and duck as the Hummer's
 front grill skids to a stop inches from Tec. The
-driver's door pops open and Bill jumps out."|location||
-1404||TEC|unknown||
-1405|TEC|Damn fool!   You just hit my house!|speech|TEC|M
+driver's door pops open and Bill jumps out."|location|||
+1404||TEC|unknown|||
+1405|TEC|Damn fool!   You just hit my house!|speech|TEC|M|True
 1406||"BILL
-(ignoring him)"|unknown||
-1407|TEC|Brad!   Are you okay?|speech|TEC|M
+(ignoring him)"|unknown|||
+1407|TEC|Brad!   Are you okay?|speech|TEC|M|True
 1408|BRAD|"Not really. And unless you
 seriously strapped, you about to
-be not really okay too."|speech|BRAD|M
-1409||Bill turns:     six I-9s are aiming guns at he and Brad.|location||
+be not really okay too."|speech|BRAD|M|True
+1409||Bill turns:     six I-9s are aiming guns at he and Brad.|location|||
 1410|BILL|"Hey there, fellas. Bill
 Gluckman... I'm running for
-governor."|speech|BILL|M
+governor."|speech|BILL|M|True
 1411||"(CONTINUED)
 96.
-88   CONTINUED:    (2)                                              88"|unknown||
-1412|TEC|We know who you are, fool.|speech|TEC|M
+88   CONTINUED:    (2)                                              88"|unknown|||
+1412|TEC|We know who you are, fool.|speech|TEC|M|True
 1413|DEUCE|"You the candidate that's down with
-bitches and ho's."|speech|DEUCE|?
+bitches and ho's."|speech|DEUCE|?|
 1414|TEC|"Tsss. Dude think we ignorant just
 'cause we live down here. You
-better recognize."|speech|TEC|M
+better recognize."|speech|TEC|M|True
 1415|BILL|"I absolutely recognize that street
 violence is tearing Californians
 apart... You see, guys, California
@@ -3469,45 +3469,45 @@ thought. Instead of thinking of
 ourselves as what set we're from,
 or what crew we're rolling with,
 why can't we just be brothers?
-What do you say?"|speech|BILL|M
-1416||(thoughtful)|unknown||
+What do you say?"|speech|BILL|M|True
+1416||(thoughtful)|unknown|||
 1417|TEC|"Hmmm. I guess I never looked at
 it like that before. What do you
-say, 'brothers'?"|speech|TEC|M
+say, 'brothers'?"|speech|TEC|M|True
 1418||"The I-9's smile, cock their weapons, aim them, and just
 as they're about to start blasting, the side WALL
-EXPLODES and Hadji's dad's MERCEDES CRASHES through."|location||
+EXPLODES and Hadji's dad's MERCEDES CRASHES through."|location|||
 1419|TEC|"Don't anybody know where the
-driveway's at?! Damn!"|speech|TEC|M
+driveway's at?! Damn!"|speech|TEC|M|True
 1420||"Gangsters fall back as Hadji, Mocha, and Monster jump out
-wearing the Kevlar vests and wielding their weapons."|location||
-1421||(freaking out)|unknown||
+wearing the Kevlar vests and wielding their weapons."|location|||
+1421||(freaking out)|unknown|||
 1422|HADJI|"Better step, y'all, or I'ma have
 to waste all y'all up in this
-piece!"|speech|HADJI|F
-1423||MONSTER|unknown||
-1424|HADJI|Yeah!   Drop yo gats!|speech|HADJI|F
+piece!"|speech|HADJI|F|True
+1423||MONSTER|unknown|||
+1424|HADJI|Yeah!   Drop yo gats!|speech|HADJI|F|True
 1425||"The I-9s, unafraid, point their guns right back at Hadji,
-Monster and Mocha. It's a multi-player Mexican standoff."|location||
+Monster and Mocha. It's a multi-player Mexican standoff."|location|||
 1426||"(CONTINUED)
 97.
-88   CONTINUED:    (3)                                            88"|unknown||
-1427|DEUCE AND 8-BALL|Drop your gats!|speech|DEUCE AND 8-BALL|?
-1428||Nobody does.     Brad steps out.|location||
+88   CONTINUED:    (3)                                            88"|unknown|||
+1427|DEUCE AND 8-BALL|Drop your gats!|speech|DEUCE AND 8-BALL|?|
+1428||Nobody does.     Brad steps out.|location|||
 1429|BRAD|"Hold dup, y'all. Before anybody
-ices anybody I got to say something."|speech|BRAD|M
-1430||No one stops him, so Brad turns to his dad.|location||
+ices anybody I got to say something."|speech|BRAD|M|True
+1430||No one stops him, so Brad turns to his dad.|location|||
 1431|BRAD|"You really weren't gonna pay my
-ransom?"|speech|BRAD|M
+ransom?"|speech|BRAD|M|True
 1432|BILL|"I didn't know anything about that.
 You've got to believe me, that was
-not part of the plan."|speech|BILL|M
+not part of the plan."|speech|BILL|M|True
 1433|BRAD|"What was the plan? Send me down
-here to scare me white?"|speech|BRAD|M
+here to scare me white?"|speech|BRAD|M|True
 1434|BILL|"It was stupid, I know. I thought
 I'd tried everything... I just
 didn't know how to deal with you
-anymore."|speech|BILL|M
+anymore."|speech|BILL|M|True
 1435|BRAD|"You've never known how to deal
 with me 'cause you don't know me,
 and you never cared to find out.
@@ -3517,72 +3517,72 @@ stand? That's bullshit, Pops.
 Look at me, 'cause this is who I
 am, and if you can't accept that,
 then I'll walk out that door,
-never see your sorry-ass again."|speech|BRAD|M
+never see your sorry-ass again."|speech|BRAD|M|True
 1436||"Shondra, Tec, all the I-9's and Brad's posse slowly turn
 from Brad to Bill, completely caught in the moment,
-waiting for his response."|location||
+waiting for his response."|location|||
 1437|BILL|"I'm not proud of myself, Brad. I
 made a lot of mistakes, and I know
 I wasn't there for you, and I
 can't change that, but I always
-loved you and still do..."|speech|BILL|M
+loved you and still do..."|speech|BILL|M|True
 1438||"(CONTINUED)
 98.
-88   CONTINUED:    (4)                                                 88"|unknown||
+88   CONTINUED:    (4)                                                 88"|unknown|||
 1439|BILL (CONT'D)|"... and if you say this is really
 who you are, then I believe you
 and accept you, and from here on
 in, I promise to be a real father
-to you."|speech|BILL|M
-1440|BRAD|Talk is cheap, Pops.    Prove it.|speech|BRAD|M
-1441|BILL|I'm here, ain't I?|speech|BILL|M
+to you."|speech|BILL|M|True
+1440|BRAD|Talk is cheap, Pops.    Prove it.|speech|BRAD|M|True
+1441|BILL|I'm here, ain't I?|speech|BILL|M|True
 1442||"Brad looks at him.        Bill looks back.   Everyone looks on,
-riveted."|location||
-1443|BRAD|A'ight, Pops, we cool.|speech|BRAD|M
-1444||BILL|unknown||
-1445|BRAD|Much love.|speech|BRAD|M
+riveted."|location|||
+1443|BRAD|A'ight, Pops, we cool.|speech|BRAD|M|True
+1444||BILL|unknown|||
+1445|BRAD|Much love.|speech|BRAD|M|True
 1446||"They pound.
 ANGLE ON GANGSTERS
 getting emotional.        A couple sniffle, a few wipe their
-eyes."|location||
-1447||(sincere)|unknown||
+eyes."|location|||
+1447||(sincere)|unknown|||
 1448|8-BALL|"Wish I could talk to my pops like
-that."|speech|8-BALL|?
-1449||(emotional)|unknown||
-1450|DEUCE|No doubt. He's raising his kid.|speech|DEUCE|?
+that."|speech|8-BALL|?|
+1449||(emotional)|unknown|||
+1450|DEUCE|No doubt. He's raising his kid.|speech|DEUCE|?|
 1451||"(dialing his cell,
-wiping tears)"|unknown||
-1452|8-BALL|I'ma call my pops right now.|speech|8-BALL|?
+wiping tears)"|unknown|||
+1452|8-BALL|I'ma call my pops right now.|speech|8-BALL|?|
 1453|TEC|"Would y'all get a hold of your
 fool selves?! It's time to waste
-these punks!"|speech|TEC|M
-1454||The I-9s straighten up and re-aim their guns.|location||
+these punks!"|speech|TEC|M|True
+1454||The I-9s straighten up and re-aim their guns.|location|||
 1455||"(CONTINUED)
 99.
-88   CONTINUED:    (5)                                               88"|unknown||
-1456||(with confidence)|unknown||
+88   CONTINUED:    (5)                                               88"|unknown|||
+1456||(with confidence)|unknown|||
 1457|BRAD|"Tec, before we all go out in a
 blaze of glory, can I say one last
-thing?"|speech|BRAD|M
-1458||(sighs)|unknown||
-1459|TEC|Whatchya got to say?|speech|TEC|M
-1460|BRAD|Moch, kick it freestyle.|speech|BRAD|M
+thing?"|speech|BRAD|M|True
+1458||(sighs)|unknown|||
+1459|TEC|Whatchya got to say?|speech|TEC|M|True
+1460|BRAD|Moch, kick it freestyle.|speech|BRAD|M|True
 1461||"Mocha rests the musket in the crook of his arm, and does
-his human beat box thing as Brad begins to rap."|location||
+his human beat box thing as Brad begins to rap."|location|||
 1462|BRAD|"'What's up with all this fightin'?
 We all should be unitin'!
 Y'all egos need deflatin',
-Gangstas, please, quit all this"|speech|BRAD|M
-1463||hatin'.'|unknown||
+Gangstas, please, quit all this"|speech|BRAD|M|True
+1463||hatin'.'|unknown|||
 1464|TEC|"Stop, please! If I hear you drop
 one more rhyme, I'ma hafta smoke
-myself."|speech|TEC|M
+myself."|speech|TEC|M|True
 1465|BRAD|"A'ight, cool, but all these gats
-got to go!"|speech|BRAD|M
-1466||As Brad grabs the missile launcher from Hadji...|location||
-1467||(moved, earnest)|unknown||
+got to go!"|speech|BRAD|M|True
+1466||As Brad grabs the missile launcher from Hadji...|location|||
+1467||(moved, earnest)|unknown|||
 1468|MOCHA|"Word up, B. All this hatin' is
-wack!"|speech|MOCHA|M
+wack!"|speech|MOCHA|M|True
 1469||"Mocha slams the butt of the musket down, and the
 flintlock slams forward. Everyone cringes. Nothing
 happens. Everyone looks at the MUSKET, then suddenly it
@@ -3593,25 +3593,25 @@ to fire -- a SPEAR SHOOTS OUT and lands directly into
 Brad's left ass cheek. Brad howls and drops the MISSILE
 LAUNCHER...
 SLOW MOTION:     everyone watches it fall to the ground...
-REAL TIME:     it hits the floor and the MISSILE FIRES."|location||
+REAL TIME:     it hits the floor and the MISSILE FIRES."|location|||
 1470||"(CONTINUED)
 100.
-88   CONTINUED:    (6)                                               88"|unknown||
+88   CONTINUED:    (6)                                               88"|unknown|||
 1471||"Brad... Tec... Bill... and Shondra all watch in horror as
 the missile flies past gang members, through the kitchen
 door, and slams into the side of the gas oven. We hear a
-countdown BEEP BEEP BEEP..."|location||
-1472|TEC|Ruuuuuuunnnnn!|speech|TEC|M
-1473||Everyone runs for the nearest hole in the wall.|location||
-1474||89   EXT. TEC'S HOUSE - NIGHT                                        89|unknown||
+countdown BEEP BEEP BEEP..."|location|||
+1472|TEC|Ruuuuuuunnnnn!|speech|TEC|M|True
+1473||Everyone runs for the nearest hole in the wall.|location|||
+1474||89   EXT. TEC'S HOUSE - NIGHT                                        89|unknown|||
 1475||"Bodies stream out of the house scrambling for safety when
 suddenly...
-The HOUSE BLOWS in a huge orange FIREBALL..."|location||
+The HOUSE BLOWS in a huge orange FIREBALL..."|location|||
 1476||"DISSOLVE TO:
-90   EXT. TEC'S HOUSE - NIGHT                                        90"|unknown||
+90   EXT. TEC'S HOUSE - NIGHT                                        90"|unknown|||
 1477||"We CRANE PAST emergency vehicles parked in front of
 smoldering remains of Tec's house, then MOVE TO Tec, who
-is yelling at a cop."|location||
+is yelling at a cop."|location|||
 1478|TEC|"I know my rights, man, and
 these fools drove two damn
 cars into my house, then they
@@ -3619,154 +3619,154 @@ blew the shit up! This all
 better be rebuilt before my
 ma comes back, or she will
 make you wish you were never
-born."|speech|TEC|M
-1479||CLOSE ON a FEMALE TV REPORTER speaking TO CAMERA.|location||
+born."|speech|TEC|M|True
+1479||CLOSE ON a FEMALE TV REPORTER speaking TO CAMERA.|location|||
 1480|REPORTER|"I have two witnesses who were at
-the scene of the explosion..."|speech|REPORTER|M
+the scene of the explosion..."|speech|REPORTER|M|
 1481||"She turns and the CAMERA WIDENS to include Sean and PJ;
-their clothes are singed and still smoking."|location||
-1482|REPORTER|Can you tell us what happened?|speech|REPORTER|M
+their clothes are singed and still smoking."|location|||
+1482|REPORTER|Can you tell us what happened?|speech|REPORTER|M|
 1483||"(CONTINUED)
 100A.
-90   CONTINUED:    (A1)                                            90"|unknown||
+90   CONTINUED:    (A1)                                            90"|unknown|||
 1484|PJ|"It was hard core, yo. All these
 crazy busters was strapped to the
 nines, and I was like, keepin' the
 peace, telling the brothers to
 talk it out, find their common
-bond..."|speech|PJ|?
-1485||Sean steps in front of PJ, speaking directly INTO CAMERA.|location||
-1486||(going for the   Oscar)|unknown||
+bond..."|speech|PJ|?|True
+1485||Sean steps in front of PJ, speaking directly INTO CAMERA.|location|||
+1486||(going for the   Oscar)|unknown|||
 1487|SEAN|"See, the explosion was   just a
 metaphor for the anger   we
 oppressed young men of   color have
 buried deep inside our   hearts...
-hearts turned dark --"|speech|SEAN|M
-1488||(confused)|unknown||
+hearts turned dark --"|speech|SEAN|M|True
+1488||(confused)|unknown|||
 1489|REPORTER|"Okay, thank you, Bloodbath and
-Tree."|speech|REPORTER|M
-1490||(turns TO CAMERA)|unknown||
+Tree."|speech|REPORTER|M|
+1490||(turns TO CAMERA)|unknown|||
 1491|REPORTER|"And all of this mayhem is rumored
 to have been caused by the
 mysterious White Kong, who remains
 at large. This is Soon Yi Baxter-
 Hernandez, reporting from South
-Central."|speech|REPORTER|M
-1492||(speaking normally)|unknown||
-1493|PJ|When's this gonna air?|speech|PJ|?
+Central."|speech|REPORTER|M|
+1492||(speaking normally)|unknown|||
+1493|PJ|When's this gonna air?|speech|PJ|?|True
 1494|SEAN|"Can I get a copy of this?     I need
-it for my reel."|speech|SEAN|M
+it for my reel."|speech|SEAN|M|True
 1495||"She glares and they move off... We FIND Brad and Shondra
 by an ambulance, talking as a paramedic bandages Brad's
-ass."|location||
-1496||BRAD|unknown||
-1497|SEAN|Aaah!!!|speech|SEAN|M
+ass."|location|||
+1496||BRAD|unknown|||
+1497|SEAN|Aaah!!!|speech|SEAN|M|True
 1498||"(CONTINUED)
 101.
 90   CONTINUED:                                                      90
-SHONDRA"|unknown||
-1499|SEAN|You alright?|speech|SEAN|M
+SHONDRA"|unknown|||
+1499|SEAN|You alright?|speech|SEAN|M|True
 1500|BRAD|"I'm cool... still a little
 confused maybe. I'm still not
 exactly sure what was for real and
-what wasn't."|speech|BRAD|M
+what wasn't."|speech|BRAD|M|True
 1501|SHONDRA|"Well, as far as being real, I can
-only vouch for two things."|speech|SHONDRA|F
-1502||She kisses him full on the lips.|location||
+only vouch for two things."|speech|SHONDRA|F|True
+1502||She kisses him full on the lips.|location|||
 1503|BRAD|"I can deal with a little more of
-that reality."|speech|BRAD|M
-1504||They kiss again, then Brad breaks it.|location||
+that reality."|speech|BRAD|M|True
+1504||They kiss again, then Brad breaks it.|location|||
 1505|BRAD|"Wait a minute. You said two
 things was real. What was the
-other?"|speech|BRAD|M
-1506||Shondra smiles as we...|location||
+other?"|speech|BRAD|M|True
+1506||Shondra smiles as we...|location|||
 1507||"SLAM TO:
-91   CLOSEUP ON BIG BOY                                              91"|unknown||
-1508|BIG BOY|What up, Shondra?|speech|BIG BOY|M
+91   CLOSEUP ON BIG BOY                                              91"|unknown|||
+1508|BIG BOY|What up, Shondra?|speech|BIG BOY|M|
 1509||"WIDEN TO:
 INT. BIG BOY'S MANSION - LIVING ROOM - DAY
-It's an incredibly foofy Baroque nightmare."|location||
+It's an incredibly foofy Baroque nightmare."|location|||
 1510|BRAD|"Damn, you knew Big Boy the whole
-time?"|speech|BRAD|M
-1511|SHONDRA|I told you we go way back.|speech|SHONDRA|F
+time?"|speech|BRAD|M|True
+1511|SHONDRA|I told you we go way back.|speech|SHONDRA|F|True
 1512|BIG BOY|"So Shondra tells me you drop
-rhyme."|speech|BIG BOY|M
+rhyme."|speech|BIG BOY|M|
 1513||"(CONTINUED)
 102.
-91    CONTINUED:                                                     91"|unknown||
-1514||Peep dis.|stage direction||
+91    CONTINUED:                                                     91"|unknown|||
+1514||Peep dis.|stage direction|||
 1515||"He hands over a Mali-Bootay CD.
-BRAD"|unknown||
+BRAD"|unknown|||
 1516||"Once you hear my demo, you're
 gonna want to give me Eminem play,
-dawg!"|stage direction||
+dawg!"|stage direction|||
 1517||"BIG BOY
-(taking the CD)"|unknown||
-1518||I can't wait, y'all. Peace.|stage direction||
+(taking the CD)"|unknown|||
+1518||I can't wait, y'all. Peace.|stage direction|||
 1519||"Big Boy pounds Brad and they exit. Big Boy hands the CD
 to a British butler, who puts it in the system. Big Boy
 puts on the headphones and the butler hits play. Big Boy
 listens for a minute, then smiles.
-BIG BOY"|unknown||
+BIG BOY"|unknown|||
 1520||"I know exactly what to do with
-this."|stage direction||
+this."|stage direction|||
 1521||"CUT TO:
 A91   OMITTED                                                        A91
 92                                                                   92
 A92   EXT. BIG BOY'S BACK PATIO - DAY                                A92
-Big Boy stands there in his bathrobe."|unknown||
-1522||Pull!|stage direction||
+Big Boy stands there in his bathrobe."|unknown|||
+1522||Pull!|stage direction|||
 1523||"Brad's CD flies into the sky like a skeet clay pigeon.
 Big Boy raises a GLOCK and BLOWS it to kingdom come.
 CUT TO:
 93    INT. AMPHITHEATRE - IN WINGS - DAY                             93
 Brad and Shondra stand off to the side of a huge rally.
-BRAD"|unknown||
+BRAD"|unknown|||
 1524||"Damn. Twenty thousand people, all
 here to support my pops. He must
-have charisma."|stage direction||
+have charisma."|stage direction|||
 1525||"(CONTINUED)
 103.
-93   CONTINUED:                                                      93"|unknown||
-1526|SHONDRA|Like father like son.|speech|SHONDRA|F
+93   CONTINUED:                                                      93"|unknown|||
+1526|SHONDRA|Like father like son.|speech|SHONDRA|F|True
 1527|BRAD|"Shondra, girl. I just have to
-thank you."|speech|BRAD|M
-1528||SHONDRA|unknown||
-1529|BRAD|For what?|speech|BRAD|M
+thank you."|speech|BRAD|M|True
+1528||SHONDRA|unknown|||
+1529|BRAD|For what?|speech|BRAD|M|True
 1530|BRAD|"You the only one who accepted me
-for who I really am."|speech|BRAD|M
-1531||(beat)|unknown||
+for who I really am."|speech|BRAD|M|True
+1531||(beat)|unknown|||
 1532|BRAD|"You also car jacked me, kidnapped
 me and tried to turn me white, but
-I'm gonna let that go."|speech|BRAD|M
-1533||They kiss, tongues and all as Bill walks up.|location||
-1534|BILL|Hey, kids... Sorry to interrupt.|speech|BILL|M
-1535||(turning)|unknown||
-1536|BRAD|What up?|speech|BRAD|M
+I'm gonna let that go."|speech|BRAD|M|True
+1533||They kiss, tongues and all as Bill walks up.|location|||
+1534|BILL|Hey, kids... Sorry to interrupt.|speech|BILL|M|True
+1535||(turning)|unknown|||
+1536|BRAD|What up?|speech|BRAD|M|True
 1537|BILL|"Well, I'm about to go on and,
 Brad... I want you to be part of
-this."|speech|BILL|M
-1538|BRAD|You mean, be onstage with you?|speech|BRAD|M
+this."|speech|BILL|M|True
+1538|BRAD|You mean, be onstage with you?|speech|BRAD|M|True
 1539|BILL|"I need you to help me get the
-urban vote. Introduce me."|speech|BILL|M
-1540|BRAD|Dang, I'd be honored.|speech|BRAD|M
-1541|BILL|And, son, don't say it...|speech|BILL|M
-1542||(beat)|unknown||
-1543|BILL|Rap it.|speech|BILL|M
-1544||(blown away)|unknown||
-1545|BRAD|For real, Pops?|speech|BRAD|M
+urban vote. Introduce me."|speech|BILL|M|True
+1540|BRAD|Dang, I'd be honored.|speech|BRAD|M|True
+1541|BILL|And, son, don't say it...|speech|BILL|M|True
+1542||(beat)|unknown|||
+1543|BILL|Rap it.|speech|BILL|M|True
+1544||(blown away)|unknown|||
+1545|BRAD|For real, Pops?|speech|BRAD|M|True
 1546||"(CONTINUED)
 103A.
-93   CONTINUED:    (1A)                                         93"|unknown||
-1547|BILL|For real, son, for rizzeal.|speech|BILL|M
+93   CONTINUED:    (1A)                                         93"|unknown|||
+1547|BILL|For real, son, for rizzeal.|speech|BILL|M|True
 1548||"Shondra looks on proudly as MUSIC -- heavy on emotional
 strings, swells, driving the movie audience to feel as
 good as they've ever felt in a movie. Brad takes the
-stage."|location||
+stage."|location|||
 1549|BRAD|"Hey, y'all! I'm here to introduce
 you to my father, Bill Gluckman!
-The big Gluck!!"|speech|BRAD|M
-1550||A rap beat kicks in as Brad goes all out.|location||
+The big Gluck!!"|speech|BRAD|M|True
+1550||A rap beat kicks in as Brad goes all out.|location|||
 1551|BRAD|"We all gather here on this special
 occasion.
 To listen to my pops, he's your
@@ -3786,8 +3786,8 @@ Let's get Glucked! Y'all get
 Glucked!
 We get Glucked!
 Come on everybody put your hands
-up!"|speech|BRAD|M
-1552||Bill moves onstage and attempts to dance hip hop style.|location||
+up!"|speech|BRAD|M|True
+1552||Bill moves onstage and attempts to dance hip hop style.|location|||
 1553|BRAD|"Immigration, education, and
 runaway inflation.
 It got me so stressed I need to
@@ -3797,54 +3797,54 @@ ol' constipation.
 Vote for dad or I'll bash your
 frickin' face in!
 Come on everybody put your hands
-up!"|speech|BRAD|M
+up!"|speech|BRAD|M|True
 1554||"(CONTINUED)
 103B.
-93   CONTINUED:    (1B)                                         93"|unknown||
+93   CONTINUED:    (1B)                                         93"|unknown|||
 1555|BRAD (CONT'D)|"And if my dad wins this election,
 he'll grow on y'all like a BAD VD
 INFECTION!!
 Yeeah! We all need a Gluckin'!
 Let's all get Glucked! GO GLUCK
-YOURSELF!!"|speech|BRAD|M
-1556||Brad raises Bill's hand up in victory and we FREEZE.|location||
+YOURSELF!!"|speech|BRAD|M|True
+1556||Brad raises Bill's hand up in victory and we FREEZE.|location|||
 1557||"(CONTINUED)
 104.
-93   CONTINUED:    (2)                                                93"|unknown||
+93   CONTINUED:    (2)                                                93"|unknown|||
 1558||"SUPERIMPOSE: Brad did deliver the urban vote... to
 Bill's opponent. Bill Gluckman lost the election by a
-landslide."|location||
+landslide."|location|||
 1559||"CUT TO:
-94   CLOSEUP ON FREEZE-FRAME TWO-SHOT - SEAN AND PJ                   94"|unknown||
+94   CLOSEUP ON FREEZE-FRAME TWO-SHOT - SEAN AND PJ                   94"|unknown|||
 1560||"SUPERIMPOSE: Sean and PJ landed jobs more suitable to
 their talents...
 We WIDEN to reveal Sean and PJ in uniform and working at:
 INT. WIENIE IN A BUN - DAY
-We UNFREEZE.     Sean and PJ wait on a TEN-YEAR-OLD GIRL."|location||
-1561|SEAN|Welcome to Wienie In A Bun.|speech|SEAN|M
-1562|PJ|How about a Double Dog?|speech|PJ|?
+We UNFREEZE.     Sean and PJ wait on a TEN-YEAR-OLD GIRL."|location|||
+1561|SEAN|Welcome to Wienie In A Bun.|speech|SEAN|M|True
+1562|PJ|How about a Double Dog?|speech|PJ|?|True
 1563||"Tom leans in, with a ""Manager"" nametag, whispering
-angrily:"|location||
+angrily:"|location|||
 1564|TOM|"Push the Mega Meal, or you punks
-are so fired."|speech|TOM|M
+are so fired."|speech|TOM|M|True
 1565||"FLASH TO:
-95   INT. MALI-BREW - FREEZE ON MOCHA, HADJI AND MONSTER -            95"|unknown||
+95   INT. MALI-BREW - FREEZE ON MOCHA, HADJI AND MONSTER -            95"|unknown|||
 1566||"DAY
 sitting at their usual table, in mid-argument.
 SUPERIMPOSE: Mocha, Hadji and Monster continued to do
-nothing whatsoever, except for order coffee and argue..."|location||
+nothing whatsoever, except for order coffee and argue..."|location|||
 1567||"FLASH TO:
-96   EXT. MANSION - CLOSE - FREEZE ON TEC - DAY                       96"|unknown||
+96   EXT. MANSION - CLOSE - FREEZE ON TEC - DAY                       96"|unknown|||
 1568||"SUPERIMPOSE: Tec sued Bill Gluckman, and was awarded 100
 thousand dollars for damage to his house, and another
-thirty million for emotional distress. Tec moved..."|location||
+thirty million for emotional distress. Tec moved..."|location|||
 1569||"(CONTINUED)
 105.
 96    CONTINUED:                                                      96
 UNFREEZE:     to reveal Tec leaving his driveway in a
 Bentley.
-TEC"|unknown||
-1570||What up, neighbor?|stage direction||
+TEC"|unknown|||
+1570||What up, neighbor?|stage direction|||
 1571||"PAN TO Bill, in his Hummer, leaving his driveway.       He
 waves grumpily as we...
 FLASH TO:
@@ -3857,82 +3857,82 @@ SHONDRA'S NAIL AND BEAUTY SALON"" to reveal a crowd of
 Malibu women gathered around Brad and Shondra as Shondra
 cuts a ribbon with a huge pair of scissors; the women
 rush inside.
-BRAD (V.O.)"|unknown||
+BRAD (V.O.)"|unknown|||
 1572||"I helped Shondra open up her salon
-right here in the 'Bu."|stage direction||
+right here in the 'Bu."|stage direction|||
 1573||"A97   INT. SALON                                                      A97
 Shondra puts the finishing touches to a woman in a chair.
-BRAD (V.O.)"|unknown||
+BRAD (V.O.)"|unknown|||
 1574||"She styled up all the ladies in
 Malibu so they were stone-cold
-ghetto fabulous."|stage direction||
+ghetto fabulous."|stage direction|||
 1575||"Shondra spins the chair to REVEAL: BEES GLUCKMAN with a
 crazy ghetto hairstyle. She looks like Busta Rhymes.
 She checks herself in the mirror.
-BESS"|unknown||
-1576||I love it.|stage direction||
-1577||(alternate)|unknown||
-1578||Boo-ya!|stage direction||
+BESS"|unknown|||
+1576||I love it.|stage direction|||
+1577||(alternate)|unknown|||
+1578||Boo-ya!|stage direction|||
 1579||"She smiles revealing a GOLD TOOTH with a DIAMOND in it.
 98    INT. NEWS STUDIO - NIGHT                                        98
 SUPERIMPOSE:     FOUR MONTHS LATER...
 (CONTINUED)
 106.
-98   CONTINUED:                                                     98"|unknown||
-1580||L.A.'s own, Hal Fishman reports.|location||
+98   CONTINUED:                                                     98"|unknown|||
+1580||L.A.'s own, Hal Fishman reports.|location|||
 1581|HAL FISHMAN|"It's official. Bill Gluckman is
 California's next governor. We
 have a live report from the
 celebration at Gluckman
-headquarters..."|speech|HAL FISHMAN|?
+headquarters..."|speech|HAL FISHMAN|?|
 1582||"PUSH IN TO the news monitor over Hal Fishman's shoulder,
-to..."|location||
-1583||99   INT. GLUCKMAN CELEBRATION - NIGHT                              99|unknown||
+to..."|location|||
+1583||99   INT. GLUCKMAN CELEBRATION - NIGHT                              99|unknown|||
 1584||"CHEERS, as Bill takes the mic (As he speaks, we SLOWLY
 PULL BACK, gradually revealing the people next to him on
-stage)."|location||
+stage)."|location|||
 1585|BILL|"This is a monumental day for our
 glorious state and there are
 several people I need to thank
-here tonight..."|speech|BILL|M
-1586||(beat)|unknown||
+here tonight..."|speech|BILL|M|True
+1586||(beat)|unknown|||
 1587|BILL|"There's the International
-Brotherhood of Police Officers..."|speech|BILL|M
-1588||APPLAUSE, as POLICE OFFICERS salute Bill.|location||
+Brotherhood of Police Officers..."|speech|BILL|M|True
+1588||APPLAUSE, as POLICE OFFICERS salute Bill.|location|||
 1589|BILL|"The Southern California Rotary
-Club..."|speech|BILL|M
-1590||A table full of well-dressed PROFESSIONALS wave politely.|location||
+Club..."|speech|BILL|M|True
+1590||A table full of well-dressed PROFESSIONALS wave politely.|location|||
 1591|BILL|"And our friends at the
-Environmental Defense Fund..."|speech|BILL|M
+Environmental Defense Fund..."|speech|BILL|M|True
 1592||"A group of granola-type ENVIRONMENTALISTS smile.
 Brad CLEARS HIS THROAT, causing Bill to look at him.
-Brad gives Bill a ""reminder"" nod..."|location||
-1593|BILL|Oh, and of course...|speech|BILL|M
-1594||PULL BACK TO REVEAL:     We're actually in the PROUD BIRD...|location||
-1595||(matter of factly)|unknown||
-1596|BILL|... all the Bitches and Ho's...|speech|BILL|M
+Brad gives Bill a ""reminder"" nod..."|location|||
+1593|BILL|Oh, and of course...|speech|BILL|M|True
+1594||PULL BACK TO REVEAL:     We're actually in the PROUD BIRD...|location|||
+1595||(matter of factly)|unknown|||
+1596|BILL|... all the Bitches and Ho's...|speech|BILL|M|True
 1597||"(CONTINUED)
 107.
-99   CONTINUED:                                                        99"|unknown||
+99   CONTINUED:                                                        99"|unknown|||
 1598||"A pod of SKANKY WOMEN snap their fingers in Bill's
-direction."|location||
-1599|BILL|The Pimps... The Hoodrats...|speech|BILL|M
-1600||The lavishly-dressed PIMPS raise their canes to Bill.|location||
-1601|BILL|The Association of Korean Grocers.|speech|BILL|M
-1602||"An ASIAN FAMILY give Bill the ""thumbs-up."""|location||
+direction."|location|||
+1599|BILL|The Pimps... The Hoodrats...|speech|BILL|M|True
+1600||The lavishly-dressed PIMPS raise their canes to Bill.|location|||
+1601|BILL|The Association of Korean Grocers.|speech|BILL|M|True
+1602||"An ASIAN FAMILY give Bill the ""thumbs-up."""|location|||
 1603|BILL|"The Playas. The Ballers. The
 Shot Callers. And a special shout
-out to the I-9's."|speech|BILL|M
+out to the I-9's."|speech|BILL|M|True
 1604||"ANGLE ON TEC
-and his gang.     They wear dark suits and do rags."|location||
+and his gang.     They wear dark suits and do rags."|location|||
 1605|BILL|"And... The Women's Organization of
-California."|speech|BILL|M
-1606||A table full of prim ELDERLY LADIES golf-clap and smile.|location||
+California."|speech|BILL|M|True
+1606||A table full of prim ELDERLY LADIES golf-clap and smile.|location|||
 1607|BILL|"And most of all, I'd like to thank
 my campaign advisor on urban
-affairs, and my son, B-rad G."|speech|BILL|M
-1608||APPLAUSE as Brad grabs the mic at the podium.|location||
-1609|BRAD|West Coast Reprezzizzin'!|speech|BRAD|M
+affairs, and my son, B-rad G."|speech|BILL|M|True
+1608||APPLAUSE as Brad grabs the mic at the podium.|location|||
+1609|BRAD|West Coast Reprezzizzin'!|speech|BRAD|M|True
 1610||"Bill and Brad hug.
 HIP HOP MUSIC KICKS IN and the entire       Ballroom turns into
 one huge dance party. Bill raises the        roof as he
@@ -3940,43 +3940,43 @@ meanders into the celebrating crowd.        People of all
 different races and backgrounds dance       together, all
 having a blast...
 Hadji grinds on an ELDERLY CONSTITUENT's ass... she's
-into it."|location||
-1611|HADJI|I'm totally taxing your ass.|speech|HADJI|F
+into it."|location|||
+1611|HADJI|I'm totally taxing your ass.|speech|HADJI|F|True
 1612||"(CONTINUED)
 108.
-99   CONTINUED:    (2)                                             99"|unknown||
-1613||Bess compares her diamond ring to Tec's Bling-Bling.|location||
-1614|BESS|You get that from Tiffany?|speech|BESS|M
+99   CONTINUED:    (2)                                             99"|unknown|||
+1613||Bess compares her diamond ring to Tec's Bling-Bling.|location|||
+1614|BESS|You get that from Tiffany?|speech|BESS|M|
 1615|TEC|"I think that was the Bitches'
-name, yeah..."|speech|TEC|M
+name, yeah..."|speech|TEC|M|True
 1616||"They continue to marvel at each other's decorative
 accessories...
 ANGLE ON ELSEWHERE IN THE PARTY
 We see Sean and PJ are caterers, wearing ""Wiener on a
 Bun"" outfits/hats and circulating among the guests.
-They approach a well-to-do PARTYGOER."|location||
+They approach a well-to-do PARTYGOER."|location|||
 1617|PJ|"Would you care for a wiener?
-Courtesy of Wiener on a Bun."|speech|PJ|?
+Courtesy of Wiener on a Bun."|speech|PJ|?|True
 1618|SEAN|"Or perhaps I can interest you in a
 head shot? I'm trained in jazz
 dance, tap, and I can do a
-Southern accent."|speech|SEAN|M
-1619||"Tom enters wearing a ""Wiener on a Bun"" manager's outfit."|location||
+Southern accent."|speech|SEAN|M|True
+1619||"Tom enters wearing a ""Wiener on a Bun"" manager's outfit."|location|||
 1620|TOM|"Idiots. What did I tell you about
 bothering the guests? Now move
 it, those wieners aren't serving
-themselves."|speech|TOM|M
-1621||He pushes them out of there.|location||
-1622||BRAD (O.S.)|unknown||
-1623|TOM|Yo, yo, yo...|speech|TOM|M
+themselves."|speech|TOM|M|True
+1621||He pushes them out of there.|location|||
+1622||BRAD (O.S.)|unknown|||
+1623|TOM|Yo, yo, yo...|speech|TOM|M|True
 1624||"Everyone turns to see Brad still at the podium.
-Confusion..."|location||
+Confusion..."|location|||
 1625|BRAD|"Last time I was here, y'all threw
 my ass out. But now that I haves
 yo attention, I gots somethin' I
 gotta say... And I have to do it
 the only way I know how... Kick
-it, Moch."|speech|BRAD|M
+it, Moch."|speech|BRAD|M|True
 1626||"(CONTINUED)
 109.
 99    CONTINUED:     (3)                                              99
@@ -3985,20 +3985,20 @@ of the stand and begins prowling around the stage.
 (NOTE: Rap can be shortened.)
 SLOW MOTION:     Panic, as everyone realizes Brad is about
 to rap...
-BRAD"|unknown||
+BRAD"|unknown|||
 1627||"I wrote this one just for you,
-Dad."|stage direction||
-1628||(starts to rap)|unknown||
+Dad."|stage direction|||
+1628||(starts to rap)|unknown|||
 1629||"Yeah, yeah. Oh yeah. Yeah,
-yeah... Yeah..."|stage direction||
-1630||(stops)|unknown||
-1631||I'm sorry, I lost my place again.|stage direction||
-1632||(remembers)|unknown||
+yeah... Yeah..."|stage direction|||
+1630||(stops)|unknown|||
+1631||I'm sorry, I lost my place again.|stage direction|||
+1632||(remembers)|unknown|||
 1633||"Oh, here we go...
 Election, erection,
 I got an infection.
 My pops, he won,
-Defying all the pre-dections..."|stage direction||
+Defying all the pre-dections..."|stage direction|||
 1634||"Sean and PJ (waiters) drop their serving trays; Tec and
 the I-9's dive for Brad at the podium; Shondra screams,
 ""NOOOOOO""...
@@ -4006,26 +4006,26 @@ Brad is grabbed and thrown off the stage by the I-9's and
 is projected out over the audience, where we...
 FREEZE ON:     Brad's terrified face.
 BRAD (V.O.)
-(cocky as ever)"|unknown||
+(cocky as ever)"|unknown|||
 1635||"What can I say, ain't nothing but
-a thang..."|stage direction||
+a thang..."|stage direction|||
 1636||"UNFREEZE and Brad falls to the ground.
 100   EXT. COP CAR                                                    100
-HAL FISHMAN (V.O.)"|unknown||
+HAL FISHMAN (V.O.)"|unknown|||
 1637||"After months of searching the
 Southland for notorious criminal
 White Kong, the LAPD has finally
 made an arrest. The suspect, a
 black man, was caught earlier
-today..."|stage direction||
+today..."|stage direction|||
 1638||"Footage of a BLACK MAN being put in a squad car.
 (CONTINUED)
 110.
 100   CONTINUED:                                                       100
-TOM GIBBONS"|unknown||
+TOM GIBBONS"|unknown|||
 1639||"'White Kong'?    Damn! I'm not even
-white."|stage direction||
-1640||COP|unknown||
-1641||That's what they all say.|stage direction||
-1642||(alternate:)|unknown||
-1643||Shut up, White Kong.|stage direction||
+white."|stage direction|||
+1640||COP|unknown|||
+1641||That's what they all say.|stage direction|||
+1642||(alternate:)|unknown|||
+1643||Shut up, White Kong.|stage direction|||

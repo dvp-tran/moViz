@@ -1,7 +1,7 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"SHREK
-Written by"|unknown||
-1||William Steig & Ted Elliott|location||
+Written by"|unknown|||
+1||William Steig & Ted Elliott|location|||
 2|SHREK|"Once upon a time there was a lovely
 princess. But she had an enchantment
 upon her of a fearful sort which could
@@ -15,149 +15,149 @@ dragon's keep in the highest room of
 the tallest tower for her true love
 and true love's first kiss. (laughs)
 Like that's ever gonna happen. What
-a load of - (toilet flush)"|speech|SHREK|F
+a load of - (toilet flush)"|speech|SHREK|F|True
 3||"Allstar - by Smashmouth begins to play. Shrek goes about his
 day. While in a nearby town, the villagers get together to go
 after the ogre.
-NIGHT - NEAR SHREK'S HOME"|stage direction||
-4|MAN1|Think it's in there?|speech|MAN1|?
-5|MAN2|All right. Let's get it!|speech|MAN2|?
+NIGHT - NEAR SHREK'S HOME"|stage direction|||
+4|MAN1|Think it's in there?|speech|MAN1|?|
+5|MAN2|All right. Let's get it!|speech|MAN2|?|
 6|MAN1|"Whoa. Hold on. Do you know what that
-thing can do to you?"|speech|MAN1|?
+thing can do to you?"|speech|MAN1|?|
 7|MAN3|"Yeah, it'll grind your bones for it's
-bread."|speech|MAN3|?
-8||Shrek sneaks up behind them and laughs.|stage direction||
+bread."|speech|MAN3|?|
+8||Shrek sneaks up behind them and laughs.|stage direction|||
 9|SHREK|"Yes, well, actually, that would be a
 giant. Now, ogres, oh they're much worse.
 They'll make a suit from your freshly
-peeled skin."|speech|SHREK|F
-10|MEN|No!|speech|MEN|F
+peeled skin."|speech|SHREK|F|True
+10|MEN|No!|speech|MEN|F|
 11|SHREK|"They'll shave your liver. Squeeze the
 jelly from your eyes! Actually, it's
-quite good on toast."|speech|SHREK|F
+quite good on toast."|speech|SHREK|F|True
 12|MAN1|"Back! Back, beast! Back! I warn ya!
-(waves the torch at Shrek.)"|speech|MAN1|?
+(waves the torch at Shrek.)"|speech|MAN1|?|
 13||"Shrek calmly licks his fingers and extinguishes the torch. The
 men shrink back away from him. Shrek roars very loudly and long
 and his breath extinguishes all the remaining torches until the
-men are in the dark."|stage direction||
+men are in the dark."|stage direction|||
 14|SHREK|"This is the part where you run away.
 (The men scramble to get away. He laughs.)
 And stay out! (looks down and picks
 up a piece of paper. Reads.) ""Wanted.
 Fairy tale creatures.""(He sighs and
-throws the paper over his shoulder.)"|speech|SHREK|F
+throws the paper over his shoulder.)"|speech|SHREK|F|True
 15||"THE NEXT DAY
 There is a line of fairy tale creatures. The head of the guard
 sits at a table paying people for bringing the fairy tale creatures
 to him. There are cages all around. Some of the people in line
 are Peter Pan, who is carrying Tinkerbell in a cage, Gipetto
 who's carrying Pinocchio, and a farmer who is carrying the three
-little pigs."|stage direction||
+little pigs."|stage direction|||
 16|GUARD|"All right. This one's full. Take it
-away! Move it along. Come on! Get up!"|speech|GUARD|M
-17|HEAD GUARD|Next!|speech|HEAD GUARD|M
+away! Move it along. Come on! Get up!"|speech|GUARD|M|
+17|HEAD GUARD|Next!|speech|HEAD GUARD|M|True
 18|GUARD|"(taking the witch's broom) Give me that!
 Your flying days are over. (breaks the
-broom in half)"|speech|GUARD|M
+broom in half)"|speech|GUARD|M|
 19|HEAD GUARD|"That's 20 pieces of silver for the witch.
-Next!"|speech|HEAD GUARD|M
-20|GUARD|Get up! Come on!|speech|GUARD|M
-21|HEAD GUARD|Twenty pieces.|speech|HEAD GUARD|M
-22|LITTLE BEAR|(crying) This cage is too small.|speech|LITTLE BEAR|?
+Next!"|speech|HEAD GUARD|M|True
+20|GUARD|Get up! Come on!|speech|GUARD|M|
+21|HEAD GUARD|Twenty pieces.|speech|HEAD GUARD|M|True
+22|LITTLE BEAR|(crying) This cage is too small.|speech|LITTLE BEAR|?|
 23|DONKEY|"Please, don't turn me in. I'll never
 be stubborn again. I can change. Please!
-Give me another chance!"|speech|DONKEY|M
-24|OLD WOMAN|Oh, shut up. (jerks his rope)|speech|OLD WOMAN|F
-25|DONKEY|Oh!|speech|DONKEY|M
-26|HEAD GUARD|Next! What have you got?|speech|HEAD GUARD|M
-27|GIPETTO|This little wooden puppet.|speech|GIPETTO|?
+Give me another chance!"|speech|DONKEY|M|True
+24|OLD WOMAN|Oh, shut up. (jerks his rope)|speech|OLD WOMAN|F|True
+25|DONKEY|Oh!|speech|DONKEY|M|True
+26|HEAD GUARD|Next! What have you got?|speech|HEAD GUARD|M|True
+27|GIPETTO|This little wooden puppet.|speech|GIPETTO|?|
 28|PINOCCHIO|"I'm not a puppet. I'm a real boy. (his
-nose grows)"|speech|PINOCCHIO|?
+nose grows)"|speech|PINOCCHIO|?|
 29|HEAD GUARD|"Five shillings for the possessed toy.
-Take it away."|speech|HEAD GUARD|M
+Take it away."|speech|HEAD GUARD|M|True
 30|PINOCCHIO|"Father, please! Don't let them do this!
-Help me!"|speech|PINOCCHIO|?
+Help me!"|speech|PINOCCHIO|?|
 31||"Gipetto takes the money and walks off. The old woman steps up
-to the table."|stage direction||
-32|HEAD GUARD|Next! What have you got?|speech|HEAD GUARD|M
-33|OLD WOMAN|Well, I've got a talking donkey.|speech|OLD WOMAN|F
+to the table."|stage direction|||
+32|HEAD GUARD|Next! What have you got?|speech|HEAD GUARD|M|True
+33|OLD WOMAN|Well, I've got a talking donkey.|speech|OLD WOMAN|F|True
 34|HEAD GUARD|"Right. Well, that's good for ten shillings,
-if you can prove it."|speech|HEAD GUARD|M
-35|OLD WOMAN|Oh, go ahead, little fella.|speech|OLD WOMAN|F
-36||Donkey just looks up at her.|stage direction||
-37|HEAD GUARD|Well?|speech|HEAD GUARD|M
+if you can prove it."|speech|HEAD GUARD|M|True
+35|OLD WOMAN|Oh, go ahead, little fella.|speech|OLD WOMAN|F|True
+36||Donkey just looks up at her.|stage direction|||
+37|HEAD GUARD|Well?|speech|HEAD GUARD|M|True
 38|OLD WOMAN|"Oh, oh, he's just...he's just a little
 nervous. He's really quite a chatterbox.
-Talk, you boneheaded dolt..."|speech|OLD WOMAN|F
-39|HEAD GUARD|That's it. I've heard enough. Guards!|speech|HEAD GUARD|M
+Talk, you boneheaded dolt..."|speech|OLD WOMAN|F|True
+39|HEAD GUARD|That's it. I've heard enough. Guards!|speech|HEAD GUARD|M|True
 40|OLD WOMAN|"No, no, he talks! He does. (pretends
 to be Donkey) I can talk. I love to
 talk. I'm the talkingest damn thing
-you ever saw."|speech|OLD WOMAN|F
-41|HEAD GUARD|Get her out of my sight.|speech|HEAD GUARD|M
-42|OLD WOMAN|No, no! I swear! Oh! He can talk!|speech|OLD WOMAN|F
+you ever saw."|speech|OLD WOMAN|F|True
+41|HEAD GUARD|Get her out of my sight.|speech|HEAD GUARD|M|True
+42|OLD WOMAN|No, no! I swear! Oh! He can talk!|speech|OLD WOMAN|F|True
 43||"The guards grab the old woman and she struggles with them. One
 of her legs flies out and kicks Tinkerbell out of Peter Pan's
 hands, and her cage drops on Donkey's head. He gets sprinkled
-with fairy dust and he's able to fly."|stage direction||
-44|DONKEY|Hey! I can fly!|speech|DONKEY|M
-45|PETER PAN|He can fly!|speech|PETER PAN|M
-46|3 LITTLE PIGS|He can fly!|speech|3 LITTLE PIGS|?
-47|HEAD GUARD|He can talk!|speech|HEAD GUARD|M
+with fairy dust and he's able to fly."|stage direction|||
+44|DONKEY|Hey! I can fly!|speech|DONKEY|M|True
+45|PETER PAN|He can fly!|speech|PETER PAN|M|
+46|3 LITTLE PIGS|He can fly!|speech|3 LITTLE PIGS|?|
+47|HEAD GUARD|He can talk!|speech|HEAD GUARD|M|True
 48|DONKEY|"Ha, ha! That's right, fool! Now I'm
 a flying, talking donkey. You might
 have seen a housefly, maybe even a superfly
 but I bet you ain't never seen a donkey
 fly. Ha, ha! (the pixie dust begins
 to wear off) Uh-oh. (he begins to sink
-to the ground.)"|speech|DONKEY|M
-49||He hits the ground with a thud.|stage direction||
+to the ground.)"|speech|DONKEY|M|True
+49||He hits the ground with a thud.|stage direction|||
 50|HEAD GUARD|"Seize him! (Donkey takes of running.)
-After him!"|speech|HEAD GUARD|M
+After him!"|speech|HEAD GUARD|M|True
 51|GUARDS|"He's getting away! Get him! This way!
-Turn!"|speech|GUARDS|F
+Turn!"|speech|GUARDS|F|
 52||"Donkey keeps running and he eventually runs into Shrek. Literally.
 Shrek turns around to see who bumped into him. Donkey looks scared
 for a moment then he spots the guards coming up the path. He
-quickly hides behind Shrek."|stage direction||
-53|HEAD GUARD|You there. Ogre!|speech|HEAD GUARD|M
-54|SHREK|Aye?|speech|SHREK|F
+quickly hides behind Shrek."|stage direction|||
+53|HEAD GUARD|You there. Ogre!|speech|HEAD GUARD|M|True
+54|SHREK|Aye?|speech|SHREK|F|True
 55|HEAD GUARD|"By the order of Lord Farquaad I am authorized
 to place you both under arrest and transport
-you to a designated resettlement facility."|speech|HEAD GUARD|M
-56|SHREK|Oh, really? You and what army?|speech|SHREK|F
+you to a designated resettlement facility."|speech|HEAD GUARD|M|True
+56|SHREK|Oh, really? You and what army?|speech|SHREK|F|True
 57||"He looks behind the guard and the guard turns to look as well
 and we see that the other men have run off. The guard tucks tail
 and runs off. Shrek laughs and goes back about his business and
-begins walking back to his cottage."|stage direction||
+begins walking back to his cottage."|stage direction|||
 58|DONKEY|"Can I say something to you? Listen,
 you was really, really, really somethin'
-back here. Incredible!"|speech|DONKEY|M
+back here. Incredible!"|speech|DONKEY|M|True
 59|SHREK|"Are you talkin' to...(he turns around
 and Donkey is gone) me? (he turns back
 around and Donkey is right in front
-of him.) Whoa!"|speech|SHREK|F
+of him.) Whoa!"|speech|SHREK|F|True
 60|DONKEY|"Yes. I was talkin' to you. Can I tell
 you that you that you was great back
 here? Those guards! They thought they
 was all of that. Then you showed up,
 and bam! They was trippin' over themselves
 like babes in the woods. That really
-made me feel good to see that."|speech|DONKEY|M
-61|SHREK|Oh, that's great. Really.|speech|SHREK|F
-62|DONKEY|Man, it's good to be free.|speech|DONKEY|M
+made me feel good to see that."|speech|DONKEY|M|True
+61|SHREK|Oh, that's great. Really.|speech|SHREK|F|True
+62|DONKEY|Man, it's good to be free.|speech|DONKEY|M|True
 63|SHREK|"Now, why don't you go celebrate your
-freedom with your own friends? Hmm?"|speech|SHREK|F
+freedom with your own friends? Hmm?"|speech|SHREK|F|True
 64|DONKEY|"But, uh, I don't have any friends. And
 I'm not goin' out there by myself. Hey,
 wait a minute! I got a great idea! I'll
 stick with you. You're mean, green,
 fightin' machine. Together we'll scare
 the spit out of anybody that crosses
-us."|speech|DONKEY|M
+us."|speech|DONKEY|M|True
 65||"Shrek turns and regards Donkey for a moment before roaring very
-loudly."|stage direction||
+loudly."|stage direction|||
 66|DONKEY|"Oh, wow! That was really scary. If you
 don't mind me sayin', if that don't
 work, your breath certainly will get
@@ -169,72 +169,72 @@ time...(Shrek covers his mouth but Donkey
 continues to talk, so Shrek removes
 his hand.) ...then I ate some rotten
 berries. I had strong gases leaking
-out of my butt that day."|speech|DONKEY|M
-67|SHREK|Why are you following me?|speech|SHREK|F
+out of my butt that day."|speech|DONKEY|M|True
+67|SHREK|Why are you following me?|speech|SHREK|F|True
 68|DONKEY|"I'll tell you why. (singing) 'Cause
 I'm all alone, There's no one here beside
 me, My problems have all gone, There's
 no one to deride me, But you gotta have
-faith..."|speech|DONKEY|M
+faith..."|speech|DONKEY|M|True
 69|SHREK|"Stop singing! It's no wonder you don't
-have any friends."|speech|SHREK|F
+have any friends."|speech|SHREK|F|True
 70|DONKEY|"Wow. Only a true friend would be that
-cruelly honest."|speech|DONKEY|M
+cruelly honest."|speech|DONKEY|M|True
 71|SHREK|"Listen, little donkey. Take a look at
-me. What am I?"|speech|SHREK|F
+me. What am I?"|speech|SHREK|F|True
 72|DONKEY|"(looks all the way up at Shrek) Uh ...really
-tall?"|speech|DONKEY|M
+tall?"|speech|DONKEY|M|True
 73|SHREK|"No! I'm an ogre! You know. ""Grab your
 torch and pitchforks."" Doesn't that
-bother you?"|speech|SHREK|F
-74|DONKEY|Nope.|speech|DONKEY|M
-75|SHREK|Really?|speech|SHREK|F
-76|DONKEY|Really, really.|speech|DONKEY|M
-77|SHREK|Oh.|speech|SHREK|F
-78|DONKEY|Man, I like you. What's you name?|speech|DONKEY|M
-79|SHREK|Uh, Shrek.|speech|SHREK|F
+bother you?"|speech|SHREK|F|True
+74|DONKEY|Nope.|speech|DONKEY|M|True
+75|SHREK|Really?|speech|SHREK|F|True
+76|DONKEY|Really, really.|speech|DONKEY|M|True
+77|SHREK|Oh.|speech|SHREK|F|True
+78|DONKEY|Man, I like you. What's you name?|speech|DONKEY|M|True
+79|SHREK|Uh, Shrek.|speech|SHREK|F|True
 80|DONKEY|"Shrek? Well, you know what I like about
 you, Shrek? You got that kind of I-don't-care-what-nobody-thinks-of-me
 thing. I like that. I respect that,
 Shrek. You all right. (They come over
 a hill and you can see Shrek's cottage.)
 Whoa! Look at that. Who'd want to live
-in place like that?"|speech|DONKEY|M
-81|SHREK|That would be my home.|speech|SHREK|F
+in place like that?"|speech|DONKEY|M|True
+81|SHREK|That would be my home.|speech|SHREK|F|True
 82|DONKEY|"Oh! And it is lovely! Just beautiful.
 You know you are quite a decorator.
 It's amazing what you've done with such
 a modest budget. I like that boulder.
 That is a nice boulder. I guess you
-don't entertain much, do you?"|speech|DONKEY|M
-83|SHREK|I like my privacy.|speech|SHREK|F
+don't entertain much, do you?"|speech|DONKEY|M|True
+83|SHREK|I like my privacy.|speech|SHREK|F|True
 84|DONKEY|"You know, I do too. That's another thing
 we have in common. Like I hate it when
 you got somebody in your face. You've
 trying to give them a hint, and they
 won't leave. There's that awkward silence.
-(awkward silence) Can I stay with you?"|speech|DONKEY|M
-85|SHREK|Uh, what?|speech|SHREK|F
-86|DONKEY|Can I stay with you, please?|speech|DONKEY|M
-87|SHREK|(sarcastically) Of course!|speech|SHREK|F
-88|DONKEY|Really?|speech|DONKEY|M
-89|SHREK|No.|speech|SHREK|F
+(awkward silence) Can I stay with you?"|speech|DONKEY|M|True
+85|SHREK|Uh, what?|speech|SHREK|F|True
+86|DONKEY|Can I stay with you, please?|speech|DONKEY|M|True
+87|SHREK|(sarcastically) Of course!|speech|SHREK|F|True
+88|DONKEY|Really?|speech|DONKEY|M|True
+89|SHREK|No.|speech|SHREK|F|True
 90|DONKEY|"Please! I don't wanna go back there!
 You don't know what it's like to be
 considered a freak. (pause while he
 looks at Shrek) Well, maybe you do.
 But that's why we gotta stick together.
-You gotta let me stay! Please! Please!"|speech|DONKEY|M
-91|SHREK|Okay! Okay! But one night only.|speech|SHREK|F
-92|DONKEY|Ah! Thank you! (he runs inside the cottage)|speech|DONKEY|M
+You gotta let me stay! Please! Please!"|speech|DONKEY|M|True
+91|SHREK|Okay! Okay! But one night only.|speech|SHREK|F|True
+92|DONKEY|Ah! Thank you! (he runs inside the cottage)|speech|DONKEY|M|True
 93|SHREK|"What are you...? (Donkey hops up onto
-a chair.) No! No!"|speech|SHREK|F
+a chair.) No! No!"|speech|SHREK|F|True
 94|DONKEY|"This is gonna be fun! We can stay up
 late, swappin' manly stories, and in
-the mornin' I'm makin' waffles."|speech|DONKEY|M
-95|SHREK|Oh!|speech|SHREK|F
-96|DONKEY|Where do, uh, I sleep?|speech|DONKEY|M
-97|SHREK|(irritated) Outside!|speech|SHREK|F
+the mornin' I'm makin' waffles."|speech|DONKEY|M|True
+95|SHREK|Oh!|speech|SHREK|F|True
+96|DONKEY|Where do, uh, I sleep?|speech|DONKEY|M|True
+97|SHREK|(irritated) Outside!|speech|SHREK|F|True
 98|DONKEY|"Oh, well, I guess that's cool. I mean,
 I don't know you, and you don't know
 me, so I guess outside is best, you
@@ -244,84 +244,84 @@ like the outdoors. I'm a donkey. I was
 born outside. I'll just be sitting by
 myself outside, I guess, you know. By
 myself, outside. I'm all alone...there's
-no one here beside me..."|speech|DONKEY|M
+no one here beside me..."|speech|DONKEY|M|True
 99||"SHREK'S COTTAGE - NIGHT
 Shrek is getting ready for dinner. He sits himself down and lights
 a candle made out of earwax. He begins to eat when he hears a
-noise. He stands up with a huff."|stage direction||
+noise. He stands up with a huff."|stage direction|||
 100|SHREK|"(to Donkey) I thought I told you to
-stay outside."|speech|SHREK|F
-101|DONKEY|(from the window) I am outside.|speech|DONKEY|M
+stay outside."|speech|SHREK|F|True
+101|DONKEY|(from the window) I am outside.|speech|DONKEY|M|True
 102||"There is another noise and Shrek turns to find the person that
 made the noise. He sees several shadows moving. He finally turns
-and spots 3 blind mice on his table."|stage direction||
+and spots 3 blind mice on his table."|stage direction|||
 103|BLIND MOUSE1|"Well, gents, it's a far cry from the
-farm, but what choice do we have?"|speech|BLIND MOUSE1|?
-104|BLIND MOUSE2|It's not home, but it'll do just fine.|speech|BLIND MOUSE2|?
-105|GORDO|(bouncing on a slug) What a lovely bed.|speech|GORDO|?
+farm, but what choice do we have?"|speech|BLIND MOUSE1|?|
+104|BLIND MOUSE2|It's not home, but it'll do just fine.|speech|BLIND MOUSE2|?|
+105|GORDO|(bouncing on a slug) What a lovely bed.|speech|GORDO|?|
 106|SHREK|"Got ya. (Grabs a mouse, but it escapes
-and lands on his shoulder.)"|speech|SHREK|F
+and lands on his shoulder.)"|speech|SHREK|F|True
 107|GORDO|"I found some cheese. (bites Shrek's
-ear)"|speech|GORDO|?
-108|SHREK|Ow!|speech|SHREK|F
-109|GORDO|Blah! Awful stuff.|speech|GORDO|?
-110|BLIND MOUSE1|Is that you, Gordo?|speech|BLIND MOUSE1|?
-111|GORDO|How did you know?|speech|GORDO|?
+ear)"|speech|GORDO|?|
+108|SHREK|Ow!|speech|SHREK|F|True
+109|GORDO|Blah! Awful stuff.|speech|GORDO|?|
+110|BLIND MOUSE1|Is that you, Gordo?|speech|BLIND MOUSE1|?|
+111|GORDO|How did you know?|speech|GORDO|?|
 112|SHREK|"Enough! (he grabs the 3 mice) What are
 you doing in my house? (He gets bumped
 from behind and he drops the mice.)
 Hey! (he turns and sees the Seven Dwarves
 with Snow White on the table.) Oh, no,
-no, no. Dead broad off the table."|speech|SHREK|F
+no, no. Dead broad off the table."|speech|SHREK|F|True
 113|DWARF|"Where are we supposed to put her? The
-bed's taken."|speech|DWARF|?
-114|SHREK|Huh?|speech|SHREK|F
+bed's taken."|speech|DWARF|?|
+114|SHREK|Huh?|speech|SHREK|F|True
 115||"Shrek marches over to the bedroom and throws back the curtain.
 The Big Bad Wolf is sitting in the bed. The wolf just looks at
-him."|stage direction||
-116|BIG BAD WOLF|What?|speech|BIG BAD WOLF|?
+him."|stage direction|||
+116|BIG BAD WOLF|What?|speech|BIG BAD WOLF|?|
 117||"TIME LAPSE
 Shrek now has the Big Bad Wolf by the collar and is dragging
-him to the front door."|stage direction||
+him to the front door."|stage direction|||
 118|SHREK|"I live in a swamp. I put up signs. I'm
 a terrifying ogre! What do I have to
 do get a little privacy? (He opens the
 front door to throw the Wolf out and
 he sees that all the collected Fairy
 Tale Creatures are on his land.) Oh,
-no. No! No!"|speech|SHREK|F
+no. No! No!"|speech|SHREK|F|True
 119||"The 3 bears sit around the fire, the pied piper is playing his
 pipe and the rats are all running to him, some elves are directing
-flight traffic so that the fairies and witches can land...etc."|stage direction||
+flight traffic so that the fairies and witches can land...etc."|stage direction|||
 120|SHREK|"What are you doing in my swamp? (this
-echoes and everyone falls silent.)"|speech|SHREK|F
+echoes and everyone falls silent.)"|speech|SHREK|F|True
 121||"Gasps are heard all around. The 3 good fairies hide inside a
-tent."|stage direction||
+tent."|stage direction|||
 122|SHREK|"All right, get out of here. All of you,
 move it! Come on! Let's go! Hapaya!
 Hapaya! Hey! Quickly. Come on! (more
 dwarves run inside the house) No, no!
 No, no. Not there. Not there. (they
 shut the door on him) Oh! (turns to
-look at Donkey)"|speech|SHREK|F
+look at Donkey)"|speech|SHREK|F|True
 123|DONKEY|"Hey, don't look at me. I didn't invite
-them."|speech|DONKEY|M
-124|PINOCCHIO|Oh, gosh, no one invited us.|speech|PINOCCHIO|?
-125|SHREK|What?|speech|SHREK|F
-126|PINOCCHIO|We were forced to come here.|speech|PINOCCHIO|?
-127|SHREK|(flabbergasted) By who?|speech|SHREK|F
+them."|speech|DONKEY|M|True
+124|PINOCCHIO|Oh, gosh, no one invited us.|speech|PINOCCHIO|?|
+125|SHREK|What?|speech|SHREK|F|True
+126|PINOCCHIO|We were forced to come here.|speech|PINOCCHIO|?|
+127|SHREK|(flabbergasted) By who?|speech|SHREK|F|True
 128|LITTLE PIG|"Lord Farquaad. He huffed and he puffed
-and he...signed an eviction notice."|speech|LITTLE PIG|?
+and he...signed an eviction notice."|speech|LITTLE PIG|?|
 129|SHREK|"(heavy sigh) All right. Who knows where
-this Farquaad guy is?"|speech|SHREK|F
-130||Everyone looks around at each other but no one answers.|stage direction||
-131|DONKEY|Oh, I do. I know where he is.|speech|DONKEY|M
+this Farquaad guy is?"|speech|SHREK|F|True
+130||Everyone looks around at each other but no one answers.|stage direction|||
+131|DONKEY|Oh, I do. I know where he is.|speech|DONKEY|M|True
 132|SHREK|"Does anyone else know where to find
-him? Anyone at all?"|speech|SHREK|F
-133|DONKEY|Me! Me!|speech|DONKEY|M
-134|SHREK|Anyone?|speech|SHREK|F
+him? Anyone at all?"|speech|SHREK|F|True
+133|DONKEY|Me! Me!|speech|DONKEY|M|True
+134|SHREK|Anyone?|speech|SHREK|F|True
 135|DONKEY|"Oh! Oh, pick me! Oh, I know! I know!
-Me, me!"|speech|DONKEY|M
+Me, me!"|speech|DONKEY|M|True
 136|SHREK|"(sigh) Okay, fine. Attention, all fairy
 tale things. Do not get comfortable.
 Your welcome is officially worn out.
@@ -329,79 +329,79 @@ In fact, I'm gonna see this guy Farquaad
 right now and get you all off my land
 and back where you came from! (Pause.
 Then the crowd goes wild.) Oh! (to Donkey)
-You! You're comin' with me."|speech|SHREK|F
+You! You're comin' with me."|speech|SHREK|F|True
 137|DONKEY|"All right, that's what I like to hear,
 man. Shrek and Donkey, two stalwart
 friends, off on a whirlwind big-city
-adventure. I love it!"|speech|DONKEY|M
+adventure. I love it!"|speech|DONKEY|M|True
 138|DONKEY|"(singing) On the road again. Sing it
 with me, Shrek. I can't wait to get
-on the road again."|speech|DONKEY|M
-139|SHREK|What did I say about singing?|speech|SHREK|F
-140|DONKEY|Can I whistle?|speech|DONKEY|M
-141|SHREK|No.|speech|SHREK|F
-142|DONKEY|Can I hum it?|speech|DONKEY|M
-143|SHREK|All right, hum it.|speech|SHREK|F
+on the road again."|speech|DONKEY|M|True
+139|SHREK|What did I say about singing?|speech|SHREK|F|True
+140|DONKEY|Can I whistle?|speech|DONKEY|M|True
+141|SHREK|No.|speech|SHREK|F|True
+142|DONKEY|Can I hum it?|speech|DONKEY|M|True
+143|SHREK|All right, hum it.|speech|SHREK|F|True
 144||"Donkey begins to hum 'On the Road Again'.
 DULOC - KITCHEN
 A masked man is torturing the Gingerbread Man. He's continually
-dunking him in a glass of milk. Lord Farquaad walks in."|stage direction||
-145|FARQUAAD|That's enough. He's ready to talk.|speech|FARQUAAD|M
+dunking him in a glass of milk. Lord Farquaad walks in."|stage direction|||
+145|FARQUAAD|That's enough. He's ready to talk.|speech|FARQUAAD|M|True
 146||"The Gingerbread Man is pulled out of the milk and slammed down
 onto a cookie sheet. Farquaad laughs as he walks over to the
 table. However when he reaches the table we see that it goes
-up to his eyes. He clears his throat and the table is lowered."|stage direction||
+up to his eyes. He clears his throat and the table is lowered."|stage direction|||
 147|FARQUAAD|"(he picks up the Gingerbread Man's legs
 and plays with them) Run, run, run,
 as fast as you can. You can't catch
-me. I'm the gingerbread man."|speech|FARQUAAD|M
-148|GINGERBREAD MAN|You are a monster.|speech|GINGERBREAD MAN|M
+me. I'm the gingerbread man."|speech|FARQUAAD|M|True
+148|GINGERBREAD MAN|You are a monster.|speech|GINGERBREAD MAN|M|True
 149|FARQUAAD|"I'm not the monster here. You are. You
 and the rest of that fairy tale trash,
 poisoning my perfect world. Now, tell
-me! Where are the others?"|speech|FARQUAAD|M
+me! Where are the others?"|speech|FARQUAAD|M|True
 150|GINGERBREAD MAN|"Eat me! (He spits milk into Farquaad's
-eye.)"|speech|GINGERBREAD MAN|M
+eye.)"|speech|GINGERBREAD MAN|M|True
 151|FARQUAAD|"I've tried to be fair to you creatures.
 Now my patience has reached its end!
 Tell me or I'll...(he makes as if to
-pull off the Gingerbread Man's buttons)"|speech|FARQUAAD|M
+pull off the Gingerbread Man's buttons)"|speech|FARQUAAD|M|True
 152|GINGERBREAD MAN|"No, no, not the buttons. Not my gumdrop
-buttons."|speech|GINGERBREAD MAN|M
-153|FARQUAAD|All right then. Who's hiding them?|speech|FARQUAAD|M
+buttons."|speech|GINGERBREAD MAN|M|True
+153|FARQUAAD|All right then. Who's hiding them?|speech|FARQUAAD|M|True
 154|GINGERBREAD MAN|"Okay, I'll tell you. Do you know the
-muffin man?"|speech|GINGERBREAD MAN|M
-155|FARQUAAD|The muffin man?|speech|FARQUAAD|M
-156|GINGERBREAD MAN|The muffin man.|speech|GINGERBREAD MAN|M
+muffin man?"|speech|GINGERBREAD MAN|M|True
+155|FARQUAAD|The muffin man?|speech|FARQUAAD|M|True
+156|GINGERBREAD MAN|The muffin man.|speech|GINGERBREAD MAN|M|True
 157|FARQUAAD|"Yes, I know the muffin man, who lives
-on Drury Lane?"|speech|FARQUAAD|M
-158|GINGERBREAD MAN|Well, she's married to the muffin man.|speech|GINGERBREAD MAN|M
-159|FARQUAAD|The muffin man?|speech|FARQUAAD|M
-160|GINGERBREAD MAN|The muffin man!|speech|GINGERBREAD MAN|M
-161|FARQUAAD|She's married to the muffin man.|speech|FARQUAAD|M
-162||The door opens and the Head Guard walks in.|stage direction||
-163|HEAD GUARD|My lord! We found it.|speech|HEAD GUARD|M
+on Drury Lane?"|speech|FARQUAAD|M|True
+158|GINGERBREAD MAN|Well, she's married to the muffin man.|speech|GINGERBREAD MAN|M|True
+159|FARQUAAD|The muffin man?|speech|FARQUAAD|M|True
+160|GINGERBREAD MAN|The muffin man!|speech|GINGERBREAD MAN|M|True
+161|FARQUAAD|She's married to the muffin man.|speech|FARQUAAD|M|True
+162||The door opens and the Head Guard walks in.|stage direction|||
+163|HEAD GUARD|My lord! We found it.|speech|HEAD GUARD|M|True
 164|FARQUAAD|"Then what are you waiting for? Bring
-it in."|speech|FARQUAAD|M
+it in."|speech|FARQUAAD|M|True
 165||"More guards enter carrying something that is covered by a sheet.
 They hang up whatever it is and remove the sheet. It is the Magic
-Mirror."|stage direction||
-166|GINGERBREAD MAN|(in awe) Ohhhh...|speech|GINGERBREAD MAN|M
-167|FARQUAAD|Magic mirror...|speech|FARQUAAD|M
+Mirror."|stage direction|||
+166|GINGERBREAD MAN|(in awe) Ohhhh...|speech|GINGERBREAD MAN|M|True
+167|FARQUAAD|Magic mirror...|speech|FARQUAAD|M|True
 168|GINGERBREAD MAN|"Don't tell him anything! (Farquaad picks
 him up and dumps him into a trash can
-with a lid.) No!"|speech|GINGERBREAD MAN|M
+with a lid.) No!"|speech|GINGERBREAD MAN|M|True
 169|FARQUAAD|"Evening. Mirror, mirror on the wall.
 Is this not the most perfect kingdom
-of them all?"|speech|FARQUAAD|M
-170|MIRROR|Well, technically you're not a king.|speech|MIRROR|F
+of them all?"|speech|FARQUAAD|M|True
+170|MIRROR|Well, technically you're not a king.|speech|MIRROR|F|True
 171|FARQUAAD|"Uh, Thelonius. (Thelonius holds up a
 hand mirror and smashes it with his
-fist.) You were saying?"|speech|FARQUAAD|M
+fist.) You were saying?"|speech|FARQUAAD|M|True
 172|MIRROR|"What I mean is you're not a king yet.
 But you can become one. All you have
-to do is marry a princess."|speech|MIRROR|F
-173|FARQUAAD|Go on.|speech|FARQUAAD|M
+to do is marry a princess."|speech|MIRROR|F|True
+173|FARQUAAD|Go on.|speech|FARQUAAD|M|True
 174|MIRROR|"(chuckles nervously) So, just sit back
 and relax, my lord, because it's time
 for you to meet today's eligible bachelorettes.
@@ -428,40 +428,40 @@ and getting caught in the rain. Yours
 for the rescuing, Princess Fiona! (Shows
 picture of Princess Fiona) So will it
 be bachelorette number one, bachelorette
-number two or bachelorette number three?"|speech|MIRROR|F
-175|GUARDS|Two! Two! Three! Three! Two! Two! Three!|speech|GUARDS|F
-176|FARQUAAD|Three? One? Three?|speech|FARQUAAD|M
+number two or bachelorette number three?"|speech|MIRROR|F|True
+175|GUARDS|Two! Two! Three! Three! Two! Two! Three!|speech|GUARDS|F|
+176|FARQUAAD|Three? One? Three?|speech|FARQUAAD|M|True
 177|THELONIUS|"Three! (holds up 2 fingers) Pick number
-three, my lord!"|speech|THELONIUS|?
-178|FARQUAAD|Okay, okay, uh, number three!|speech|FARQUAAD|M
+three, my lord!"|speech|THELONIUS|?|
+178|FARQUAAD|Okay, okay, uh, number three!|speech|FARQUAAD|M|True
 179|MIRROR|"Lord Farquaad, you've chosen Princess
-Fiona."|speech|MIRROR|F
+Fiona."|speech|MIRROR|F|True
 180|FARQUAAD|"Princess Fiona. She's perfect. All I
 have to do is just find someone who
-can go..."|speech|FARQUAAD|M
+can go..."|speech|FARQUAAD|M|True
 181|MIRROR|"But I probably should mention the little
-thing that happens at night."|speech|MIRROR|F
-182|FARQUAAD|I'll do it.|speech|FARQUAAD|M
-183|MIRROR|Yes, but after sunset...|speech|MIRROR|F
+thing that happens at night."|speech|MIRROR|F|True
+182|FARQUAAD|I'll do it.|speech|FARQUAAD|M|True
+183|MIRROR|Yes, but after sunset...|speech|MIRROR|F|True
 184|FARQUAAD|"Silence! I will make this Princess Fiona
 my queen, and DuLoc will finally have
 the perfect king! Captain, assemble
 your finest men. We're going to have
-a tournament. (smiles evilly)"|speech|FARQUAAD|M
+a tournament. (smiles evilly)"|speech|FARQUAAD|M|True
 185||"DuLoc Parking Lot - Lancelot Section
 Shrek and Donkey come out of the field that is right by the parking
-lot. The castle itself is about 40 stories high."|stage direction||
+lot. The castle itself is about 40 stories high."|stage direction|||
 186|DONKEY|"But that's it. That's it right there.
-That's DuLoc. I told ya I'd find it."|speech|DONKEY|M
-187|SHREK|So, that must be Lord Farquaad's castle.|speech|SHREK|F
-188|DONKEY|Uh-huh. That's the place.|speech|DONKEY|M
+That's DuLoc. I told ya I'd find it."|speech|DONKEY|M|True
+187|SHREK|So, that must be Lord Farquaad's castle.|speech|SHREK|F|True
+188|DONKEY|Uh-huh. That's the place.|speech|DONKEY|M|True
 189|SHREK|"Do you think maybe he's compensating
 for something? (He laughs, but then
 groans as Donkey doesn't get the joke.
 He continues walking through the parking
-lot.)"|speech|SHREK|F
-190|DONKEY|Hey, wait. Wait up, Shrek.|speech|DONKEY|M
-191|MAN|Hurry, darling. We're late. Hurry.|speech|MAN|F
+lot.)"|speech|SHREK|F|True
+190|DONKEY|Hey, wait. Wait up, Shrek.|speech|DONKEY|M|True
+191|MAN|Hurry, darling. We're late. Hurry.|speech|MAN|F|
 192|SHREK|"Hey, you! (The attendant, who is wearing
 a giant head that looks like Lord Farquaad,
 screams and begins running through the
@@ -472,16 +472,16 @@ Look, I'm not gonna eat you. I just
 walking straight through the rows. The
 attendant runs into a wall and falls
 down. Shrek and Donkey look at him then
-continue on into DuLoc.)"|speech|SHREK|F
+continue on into DuLoc.)"|speech|SHREK|F|True
 193||"DULOC
-They look around but all is quiet."|stage direction||
-194|SHREK|It's quiet. Too quiet. Where is everybody?|speech|SHREK|F
-195|DONKEY|Hey, look at this!|speech|DONKEY|M
+They look around but all is quiet."|stage direction|||
+194|SHREK|It's quiet. Too quiet. Where is everybody?|speech|SHREK|F|True
+195|DONKEY|Hey, look at this!|speech|DONKEY|M|True
 196||"Donkey runs over and pulls a lever that is attached to a box
 marked 'Information'. The music winds up and then the box doors
 open up. There are little wooden people inside and they begin
-to sing."|stage direction||
-197|WOODEN PEOPLE|Welcome to DuLoc such a perfect town|speech|WOODEN PEOPLE|?
+to sing."|stage direction|||
+197|WOODEN PEOPLE|Welcome to DuLoc such a perfect town|speech|WOODEN PEOPLE|?|
 198||"Here we have some rules
 Let us lay them down
 Don't make waves, stay in line
@@ -491,20 +491,20 @@ Please keep off of the grass
 Shine your shoes, wipe your... face
 DuLoc is, DuLoc is
 DuLoc is perfect place.
-Suddenly a camera takes Donkey and Shrek's picture."|stage direction||
+Suddenly a camera takes Donkey and Shrek's picture."|stage direction|||
 199|DONKEY|"Wow! Let's do that again! (makes ready
-to run over and pull the lever again)"|speech|DONKEY|M
+to run over and pull the lever again)"|speech|DONKEY|M|True
 200|SHREK|"(grabs Donkey's tail and holds him still)
-No. No. No, no, no! No."|speech|SHREK|F
-201||They hear a trumpet fanfare and head over to the arena.|stage direction||
+No. No. No, no, no! No."|speech|SHREK|F|True
+201||They hear a trumpet fanfare and head over to the arena.|stage direction|||
 202|FARQUAAD|"Brave knights. You are the best and
 brightest in all the land. Today one
-of you shall prove himself..."|speech|FARQUAAD|M
+of you shall prove himself..."|speech|FARQUAAD|M|True
 203||"As Shrek and Donkey walk down the tunnel to get into the arena
-Donkey is humming the DuLoc theme song."|stage direction||
+Donkey is humming the DuLoc theme song."|stage direction|||
 204|SHREK|"All right. You're going the right way
-for a smacked bottom."|speech|SHREK|F
-205|DONKEY|Sorry about that.|speech|DONKEY|M
+for a smacked bottom."|speech|SHREK|F|True
+205|DONKEY|Sorry about that.|speech|DONKEY|M|True
 206|FARQUAAD|"That champion shall have the honor -
 - no, no - - the privilege to go forth
 and rescue the lovely Princess Fiona
@@ -515,23 +515,23 @@ and so on and so forth. Some of you
 may die, but it's a sacrifice I am willing
 to make. (cheers) Let the tournament
 begin! (He notices Shrek) Oh! What is
-that? It's hideous!"|speech|FARQUAAD|M
+that? It's hideous!"|speech|FARQUAAD|M|True
 207|SHREK|"(turns to look at Donkey and then back
 at Farquaad) Ah, that's not very nice.
-It's just a donkey."|speech|SHREK|F
+It's just a donkey."|speech|SHREK|F|True
 208|FARQUAAD|"Indeed. Knights, new plan! The one who
 kills the ogre will be named champion!
-Have it him!"|speech|FARQUAAD|M
-209|MEN|Get him!|speech|MEN|F
+Have it him!"|speech|FARQUAAD|M|True
+209|MEN|Get him!|speech|MEN|F|
 210|SHREK|"Oh, hey! Now come on! Hang on now. (bumps
 into a table where there are mugs of
-beer)"|speech|SHREK|F
-211|CROWD|Go ahead! Get him!|speech|CROWD|M
+beer)"|speech|SHREK|F|True
+211|CROWD|Go ahead! Get him!|speech|CROWD|M|
 212|SHREK|"(holds up a mug of beer) Can't we just
-settle this over a pint?"|speech|SHREK|F
-213|CROWD|Kill the beast!|speech|CROWD|M
+settle this over a pint?"|speech|SHREK|F|True
+213|CROWD|Kill the beast!|speech|CROWD|M|
 214|SHREK|"No? All right then. (drinks the beer)
-Come on!"|speech|SHREK|F
+Come on!"|speech|SHREK|F|True
 215||"He takes the mug and smashes the spigot off the large barrel
 of beer behind him. The beer comes rushing out drenching the
 other men and wetting the ground. It's like mud now. Shrek slides
@@ -540,184 +540,184 @@ As Shrek begins to fight Donkey hops up onto one of the larger
 beer barrels. It breaks free of it's ropes and begins to roll.
 Donkey manages to squish two men into the mud. There is so much
 fighting going on here I'm not going to go into detail. Suffice
-to say that Shrek kicks butt."|stage direction||
-216|DONKEY|Hey, Shrek, tag me! Tag me!|speech|DONKEY|M
+to say that Shrek kicks butt."|stage direction|||
+216|DONKEY|Hey, Shrek, tag me! Tag me!|speech|DONKEY|M|True
 217||"Shrek comes over and bangs a man's head up against Donkeys. Shrek
-gets up on the ropes and interacts with the crowd."|stage direction||
-218|SHREK|Yeah!|speech|SHREK|F
+gets up on the ropes and interacts with the crowd."|stage direction|||
+218|SHREK|Yeah!|speech|SHREK|F|True
 219||"A man tries to sneak up behind Shrek, but Shrek turns in time
-and sees him."|stage direction||
-220|WOMAN|The chair! Give him the chair!|speech|WOMAN|F
+and sees him."|stage direction|||
+220|WOMAN|The chair! Give him the chair!|speech|WOMAN|F|
 221||"Shrek smashes a chair over the guys back. Finally all the men
 are down. Donkey kicks one of them in the helmet, and the ding
-sounds the end of the match. The audience goes wild."|stage direction||
+sounds the end of the match. The audience goes wild."|stage direction|||
 222|SHREK|"Oh, yeah! Ah! Ah! Thank you! Thank you
 very much! I'm here till Thursday. Try
-the veal! Ha, ha! (laughs)"|speech|SHREK|F
+the veal! Ha, ha! (laughs)"|speech|SHREK|F|True
 223||"The laughter stops as all of the guards turn their weapons on
-Shrek."|stage direction||
-224|HEAD GUARD|Shall I give the order, sir?|speech|HEAD GUARD|M
+Shrek."|stage direction|||
+224|HEAD GUARD|Shall I give the order, sir?|speech|HEAD GUARD|M|True
 225|FARQUAAD|"No, I have a better idea. People of
-DuLoc, I give you our champion!"|speech|FARQUAAD|M
-226|SHREK|What?|speech|SHREK|F
+DuLoc, I give you our champion!"|speech|FARQUAAD|M|True
+226|SHREK|What?|speech|SHREK|F|True
 227|FARQUAAD|"Congratulations, ogre. You're won the
 honor of embarking on a great and noble
-quest."|speech|FARQUAAD|M
+quest."|speech|FARQUAAD|M|True
 228|SHREK|"Quest? I'm already in a quest, a quest
-to get my swamp back."|speech|SHREK|F
-229|FARQUAAD|Your swamp?|speech|FARQUAAD|M
+to get my swamp back."|speech|SHREK|F|True
+229|FARQUAAD|Your swamp?|speech|FARQUAAD|M|True
 230|SHREK|"Yeah, my swamp! Where you dumped those
-fairy tale creatures!"|speech|SHREK|F
+fairy tale creatures!"|speech|SHREK|F|True
 231|FARQUAAD|"Indeed. All right, ogre. I'll make you
 a deal. Go on this quest for me, and
-I'll give you your swamp back."|speech|FARQUAAD|M
-232|SHREK|Exactly the way it was?|speech|SHREK|F
-233|FARQUAAD|Down to the last slime-covered toadstool.|speech|FARQUAAD|M
-234|SHREK|And the squatters?|speech|SHREK|F
-235|FARQUAAD|As good as gone.|speech|FARQUAAD|M
-236|SHREK|What kind of quest?|speech|SHREK|F
+I'll give you your swamp back."|speech|FARQUAAD|M|True
+232|SHREK|Exactly the way it was?|speech|SHREK|F|True
+233|FARQUAAD|Down to the last slime-covered toadstool.|speech|FARQUAAD|M|True
+234|SHREK|And the squatters?|speech|SHREK|F|True
+235|FARQUAAD|As good as gone.|speech|FARQUAAD|M|True
+236|SHREK|What kind of quest?|speech|SHREK|F|True
 237||"Time Lapse - Donkey and Shrek are now walking through the field
-heading away from DuLoc. Shrek is munching on an onion."|stage direction||
+heading away from DuLoc. Shrek is munching on an onion."|stage direction|||
 238|DONKEY|"Let me get this straight. You're gonna
 go fight a dragon and rescue a princess
 just so Farquaad will give you back
 a swamp which you only don't have because
 he filled it full of freaks in the first
-place. Is that about right?"|speech|DONKEY|M
+place. Is that about right?"|speech|DONKEY|M|True
 239|SHREK|"You know, maybe there's a good reason
-donkeys shouldn't talk."|speech|SHREK|F
+donkeys shouldn't talk."|speech|SHREK|F|True
 240|DONKEY|"I don't get it. Why don't you just pull
 some of that ogre stuff on him? Throttle
 him, lay siege to his fortress, grinds
 his bones to make your bread, the whole
-ogre trip."|speech|DONKEY|M
+ogre trip."|speech|DONKEY|M|True
 241|SHREK|"Oh, I know what. Maybe I could have
 decapitated an entire village and put
 their heads on a pike, gotten a knife,
 cut open their spleen and drink their
-fluids. Does that sound good to you?"|speech|SHREK|F
-242|DONKEY|Uh, no, not really, no.|speech|DONKEY|M
+fluids. Does that sound good to you?"|speech|SHREK|F|True
+242|DONKEY|Uh, no, not really, no.|speech|DONKEY|M|True
 243|SHREK|"For your information, there's a lot
-more to ogres than people think."|speech|SHREK|F
-244|DONKEY|Example?|speech|DONKEY|M
+more to ogres than people think."|speech|SHREK|F|True
+244|DONKEY|Example?|speech|DONKEY|M|True
 245|SHREK|"Example? Okay, um, ogres are like onions.
-(he holds out his onion)"|speech|SHREK|F
-246|DONKEY|(sniffs the onion) They stink?|speech|DONKEY|M
-247|SHREK|Yes - - No!|speech|SHREK|F
-248|DONKEY|They make you cry?|speech|DONKEY|M
-249|SHREK|No!|speech|SHREK|F
+(he holds out his onion)"|speech|SHREK|F|True
+246|DONKEY|(sniffs the onion) They stink?|speech|DONKEY|M|True
+247|SHREK|Yes - - No!|speech|SHREK|F|True
+248|DONKEY|They make you cry?|speech|DONKEY|M|True
+249|SHREK|No!|speech|SHREK|F|True
 250|DONKEY|"You leave them in the sun, they get
 all brown, start sproutin' little white
-hairs."|speech|DONKEY|M
+hairs."|speech|DONKEY|M|True
 251|SHREK|"No! Layers! Onions have layers. Ogres
 have layers! Onions have layers. You
 get it? We both have layers. (he heaves
-a sigh and then walks off)"|speech|SHREK|F
+a sigh and then walks off)"|speech|SHREK|F|True
 252|DONKEY|"(trailing after Shrek) Oh, you both
 have layers. Oh. {Sniffs} You know,
 not everybody likes onions. Cake! Everybody
-loves cakes! Cakes have layers."|speech|DONKEY|M
+loves cakes! Cakes have layers."|speech|DONKEY|M|True
 253|SHREK|"I don't care... what everyone likes.
-Ogres are not like cakes."|speech|SHREK|F
+Ogres are not like cakes."|speech|SHREK|F|True
 254|DONKEY|"You know what else everybody likes?
 Parfaits. Have you ever met a person,
 you say, ""Let's get some parfait,"" they
 say, ""Hell no, I don't like no parfait""?
-Parfaits are delicious."|speech|DONKEY|M
+Parfaits are delicious."|speech|DONKEY|M|True
 255|SHREK|"No! You dense, irritating, miniature
 beast of burden! Ogres are like onions!
-And of story. Bye-bye. See ya later."|speech|SHREK|F
+And of story. Bye-bye. See ya later."|speech|SHREK|F|True
 256|DONKEY|"Parfaits may be the most delicious thing
-on the whole damn planet."|speech|DONKEY|M
-257|SHREK|You know, I think I preferred your humming.|speech|SHREK|F
+on the whole damn planet."|speech|DONKEY|M|True
+257|SHREK|You know, I think I preferred your humming.|speech|SHREK|F|True
 258|DONKEY|"Do you have a tissue or something? I'm
 making a mess. Just the word parfait
-make me start slobbering."|speech|DONKEY|M
+make me start slobbering."|speech|DONKEY|M|True
 259||"They head off. There is a montage of their journey. Walking through
 a field at sunset. Sleeping beneath a bright moon. Shrek trying
 to put the campfire out the next day and having a bit of a problem,
 so Donkey pees on the fire to put it out.
 DRAGON'S KEEP
 Shrek and Donkey are walking up to the keep that's supposed to
-house Princess Fiona. It appears to look like a giant volcano."|stage direction||
+house Princess Fiona. It appears to look like a giant volcano."|stage direction|||
 260|DONKEY|"(sniffs) Ohh! Shrek! Did you do that?
 You gotta warn somebody before you just
 crack one off. My mouth was open and
-everything."|speech|DONKEY|M
+everything."|speech|DONKEY|M|True
 261|SHREK|"Believe me, Donkey, if it was me, you'd
 be dead. (sniffs) It's brimstone. We
-must be getting close."|speech|SHREK|F
+must be getting close."|speech|SHREK|F|True
 262|DONKEY|"Yeah, right, brimstone. Don't be talking
 about it's the brimstone. I know what
 I smell. It wasn't no brimstone. It
-didn't come off no stone neither."|speech|DONKEY|M
+didn't come off no stone neither."|speech|DONKEY|M|True
 263||"They climb up the side of the volcano/keep and look down. There
 is a small piece of rock right in the center and that is where
 the castle is. It is surrounded by boiling lava. It looks very
-foreboding."|stage direction||
+foreboding."|stage direction|||
 264|SHREK|"Sure, it's big enough, but look at the
 location. (laughs...then the laugh turns
-into a groan)"|speech|SHREK|F
+into a groan)"|speech|SHREK|F|True
 265|DONKEY|"Uh, Shrek? Uh, remember when you said
-ogres have layers?"|speech|DONKEY|M
-266|SHREK|Oh, aye.|speech|SHREK|F
+ogres have layers?"|speech|DONKEY|M|True
+266|SHREK|Oh, aye.|speech|SHREK|F|True
 267|DONKEY|"Well, I have a bit of a confession to
 make. Donkeys don't have layers. We
 wear our fear right out there on our
-sleeves."|speech|DONKEY|M
-268|SHREK|Wait a second. Donkeys don't have sleeves.|speech|SHREK|F
-269|DONKEY|You know what I mean.|speech|DONKEY|M
-270|SHREK|You can't tell me you're afraid of heights.|speech|SHREK|F
+sleeves."|speech|DONKEY|M|True
+268|SHREK|Wait a second. Donkeys don't have sleeves.|speech|SHREK|F|True
+269|DONKEY|You know what I mean.|speech|DONKEY|M|True
+270|SHREK|You can't tell me you're afraid of heights.|speech|SHREK|F|True
 271|DONKEY|"No, I'm just a little uncomfortable
 about being on a rickety bridge over
-a boiling like of lava!"|speech|DONKEY|M
+a boiling like of lava!"|speech|DONKEY|M|True
 272|SHREK|"Come on, Donkey. I'm right here beside
 ya, okay? For emotional support., we'll
 just tackle this thing together one
-little baby step at a time."|speech|SHREK|F
-273|DONKEY|Really?|speech|DONKEY|M
-274|SHREK|Really, really.|speech|SHREK|F
-275|DONKEY|Okay, that makes me feel so much better.|speech|DONKEY|M
-276|SHREK|Just keep moving. And don't look down.|speech|SHREK|F
+little baby step at a time."|speech|SHREK|F|True
+273|DONKEY|Really?|speech|DONKEY|M|True
+274|SHREK|Really, really.|speech|SHREK|F|True
+275|DONKEY|Okay, that makes me feel so much better.|speech|DONKEY|M|True
+276|SHREK|Just keep moving. And don't look down.|speech|SHREK|F|True
 277|DONKEY|"Okay, don't look down. Don't look down.
 Don't look down. Keep on moving. Don't
 look down. (he steps through a rotting
 board and ends up looking straight down
 into the lava) Shrek! I'm lookin' down!
 Oh, God, I can't do this! Just let me
-off, please!"|speech|DONKEY|M
-278|SHREK|But you're already halfway.|speech|SHREK|F
-279|DONKEY|But I know that half is safe!|speech|DONKEY|M
+off, please!"|speech|DONKEY|M|True
+278|SHREK|But you're already halfway.|speech|SHREK|F|True
+279|DONKEY|But I know that half is safe!|speech|DONKEY|M|True
 280|SHREK|"Okay, fine. I don't have time for this.
-You go back."|speech|SHREK|F
-281|DONKEY|Shrek, no! Wait!|speech|DONKEY|M
+You go back."|speech|SHREK|F|True
+281|DONKEY|Shrek, no! Wait!|speech|DONKEY|M|True
 282|SHREK|"Just, Donkey - - Let's have a dance
 then, shall me? (bounces and sways the
-bridge)"|speech|SHREK|F
-283|DONKEY|Don't do that!|speech|DONKEY|M
+bridge)"|speech|SHREK|F|True
+283|DONKEY|Don't do that!|speech|DONKEY|M|True
 284|SHREK|"Oh, I'm sorry. Do what? Oh, this? (bounces
-the bridge again)"|speech|SHREK|F
-285|DONKEY|Yes, that!|speech|DONKEY|M
+the bridge again)"|speech|SHREK|F|True
+285|DONKEY|Yes, that!|speech|DONKEY|M|True
 286|SHREK|"Yes? Yes, do it. Okay. (continues to
 bounce and sway as he backs Donkey across
-the bridge)"|speech|SHREK|F
-287|DONKEY|No, Shrek! No! Stop it!|speech|DONKEY|M
-288|SHREK|You said do it! I'm doin' it.|speech|SHREK|F
+the bridge)"|speech|SHREK|F|True
+287|DONKEY|No, Shrek! No! Stop it!|speech|DONKEY|M|True
+288|SHREK|You said do it! I'm doin' it.|speech|SHREK|F|True
 289|DONKEY|"I'm gonna die. I'm gonna die. Shrek,
 I'm gonna die. (steps onto solid ground)
-Oh!"|speech|DONKEY|M
+Oh!"|speech|DONKEY|M|True
 290|SHREK|"That'll do, Donkey. That'll do. (walks
-towards the castle)"|speech|SHREK|F
+towards the castle)"|speech|SHREK|F|True
 291|DONKEY|"Cool. So where is this fire-breathing
-pain-in-the-neck anyway?"|speech|DONKEY|M
+pain-in-the-neck anyway?"|speech|DONKEY|M|True
 292|SHREK|"Inside, waiting for us to rescue her.
-(chuckles)"|speech|SHREK|F
-293|DONKEY|I was talkin' about the dragon, Shrek.|speech|DONKEY|M
-294||INSIDE THE CASTLE|stage direction||
-295|DONKEY|You afraid?|speech|DONKEY|M
-296|SHREK|No.|speech|SHREK|F
-297|DONKEY|But...|speech|DONKEY|M
-298|SHREK|Shh.|speech|SHREK|F
+(chuckles)"|speech|SHREK|F|True
+293|DONKEY|I was talkin' about the dragon, Shrek.|speech|DONKEY|M|True
+294||INSIDE THE CASTLE|stage direction|||
+295|DONKEY|You afraid?|speech|DONKEY|M|True
+296|SHREK|No.|speech|SHREK|F|True
+297|DONKEY|But...|speech|DONKEY|M|True
+298|SHREK|Shh.|speech|SHREK|F|True
 299|DONKEY|"Oh, good. Me neither. (sees a skeleton
 and gasps) 'Cause there's nothin' wrong
 with bein' afraid. Fear's a sensible
@@ -727,47 +727,47 @@ add. With a dragon that breathes fire
 and eats knights and breathes fire,
 it sure doesn't mean you're a coward
 if you're a little scared. I sure as
-heck ain't no coward. I know that."|speech|DONKEY|M
+heck ain't no coward. I know that."|speech|DONKEY|M|True
 300|SHREK|"Donkey, two things, okay? Shut ... up.
 Now go over there and see if you can
-find any stairs."|speech|SHREK|F
+find any stairs."|speech|SHREK|F|True
 301|DONKEY|"Stairs? I thought we was lookin' for
-the princess."|speech|DONKEY|M
+the princess."|speech|DONKEY|M|True
 302|SHREK|"(putting on a helmet) The princess will
 be up the stairs in the highest room
-in the tallest tower."|speech|SHREK|F
-303|DONKEY|What makes you think she'll be there?|speech|DONKEY|M
-304|SHREK|I read it in a book once. (walks off)|speech|SHREK|F
+in the tallest tower."|speech|SHREK|F|True
+303|DONKEY|What makes you think she'll be there?|speech|DONKEY|M|True
+304|SHREK|I read it in a book once. (walks off)|speech|SHREK|F|True
 305|DONKEY|"Cool. You handle the dragon. I'll handle
 the stairs. I'll find those stairs.
 I'll whip their butt too. Those stairs
 won't know which way they're goin'.
-(walks off)"|speech|DONKEY|M
+(walks off)"|speech|DONKEY|M|True
 306||"EMPTY ROOM
-Donkey is still talking to himself as he looks around the room."|stage direction||
+Donkey is still talking to himself as he looks around the room."|stage direction|||
 307|DONKEY|"I'm gonna take drastic steps. Kick it
 to the curb. Don't mess with me. I'm
 the stair master. I've mastered the
 stairs. I wish I had a step right here.
-I'd step all over it."|speech|DONKEY|M
+I'd step all over it."|speech|DONKEY|M|True
 308||"ELSEWHERE
-Shrek spots a light in the tallest tower window."|stage direction||
+Shrek spots a light in the tallest tower window."|stage direction|||
 309|SHREK|"Well, at least we know where the princess
-is, but where's the..."|speech|SHREK|F
-310|DONKEY|(os) Dragon!|speech|DONKEY|M
+is, but where's the..."|speech|SHREK|F|True
+310|DONKEY|(os) Dragon!|speech|DONKEY|M|True
 311||"Donkey gasps and takes off running as the dragon roars again.
 Shrek manages to grab Donkey out of the way just as the dragon
-breathes fire."|stage direction||
+breathes fire."|stage direction|||
 312|SHREK|"Donkey, look out! (he manages to get
 a hold of the dragons tail and holds
-on) Got ya!"|speech|SHREK|F
+on) Got ya!"|speech|SHREK|F|True
 313||"The dragon gets irritated at this and flicks it's tail and Shrek
 goes flying through the air and crashes through the roof of the
 tallest tower. Fiona wakes up with a jerk and looks at him lying
-on the floor."|stage direction||
-314|DONKEY|Oh! Aah! Aah!|speech|DONKEY|M
+on the floor."|stage direction|||
+314|DONKEY|Oh! Aah! Aah!|speech|DONKEY|M|True
 315||"Donkey get cornered as the Dragon knocks away all but a small
-part of the bridge he's on."|stage direction||
+part of the bridge he's on."|stage direction|||
 316|DONKEY|"No. Oh, no, No! (the dragon roars) Oh,
 what large teeth you have. (the dragon
 growls) I mean white, sparkling teeth.
@@ -790,7 +790,7 @@ an asthmatic, and I don't know if it'd
 work out if you're gonna blow smoke
 rings. Shrek! (the dragon picks him
 up with her teeth and carries him off)
-No! Shrek! Shrek! Shrek!"|speech|DONKEY|M
+No! Shrek! Shrek! Shrek!"|speech|DONKEY|M|True
 317||"FIONA'S ROOM
 Shrek groans as he gets up off the floor. His back is to Fiona
 so she straightens her dress and lays back down on the bed. She
@@ -798,54 +798,54 @@ then quickly reaches over and gets the bouquet of flowers off
 the side table. She then lays back down and appears to be asleep.
 Shrek turns and goes over to her. He looks down at Fiona for
 a moment and she puckers her lips. Shrek takes her by the shoulders
-and shakes her away."|stage direction||
-318|FIONA|Oh! Oh!|speech|FIONA|F
-319|SHREK|Wake up!|speech|SHREK|F
-320|FIONA|What?|speech|FIONA|F
-321|SHREK|Are you Princess Fiona?|speech|SHREK|F
+and shakes her away."|stage direction|||
+318|FIONA|Oh! Oh!|speech|FIONA|F|True
+319|SHREK|Wake up!|speech|SHREK|F|True
+320|FIONA|What?|speech|FIONA|F|True
+321|SHREK|Are you Princess Fiona?|speech|SHREK|F|True
 322|FIONA|"I am, awaiting a knight so bold as to
-rescue me."|speech|FIONA|F
-323|SHREK|Oh, that's nice. Now let's go!|speech|SHREK|F
+rescue me."|speech|FIONA|F|True
+323|SHREK|Oh, that's nice. Now let's go!|speech|SHREK|F|True
 324|FIONA|"But wait, Sir Knight. This be-ith our
 first meeting. Should it not be a wonderful,
-romantic moment?"|speech|FIONA|F
-325|SHREK|Yeah, sorry, lady. There's no time.|speech|SHREK|F
+romantic moment?"|speech|FIONA|F|True
+325|SHREK|Yeah, sorry, lady. There's no time.|speech|SHREK|F|True
 326|FIONA|"Hey, wait. What are you doing? You should
 sweep me off my feet out yonder window
-and down a rope onto your valiant steed."|speech|FIONA|F
+and down a rope onto your valiant steed."|speech|FIONA|F|True
 327|SHREK|"You've had a lot of time to plan this,
-haven't you?"|speech|SHREK|F
-328|FIONA|(smiles) Mm-hmm.|speech|FIONA|F
+haven't you?"|speech|SHREK|F|True
+328|FIONA|(smiles) Mm-hmm.|speech|FIONA|F|True
 329||"Shrek breaks the lock on her door and pulls her out and down
-the hallway."|stage direction||
+the hallway."|stage direction|||
 330|FIONA|"But we have to savor this moment! You
 could recite an epic poem for me. A
-ballad? A sonnet! A limerick? Or something!"|speech|FIONA|F
-331|SHREK|I don't think so.|speech|SHREK|F
-332|FIONA|Can I at least know the name of my champion?|speech|FIONA|F
-333|SHREK|Uh, Shrek.|speech|SHREK|F
+ballad? A sonnet! A limerick? Or something!"|speech|FIONA|F|True
+331|SHREK|I don't think so.|speech|SHREK|F|True
+332|FIONA|Can I at least know the name of my champion?|speech|FIONA|F|True
+333|SHREK|Uh, Shrek.|speech|SHREK|F|True
 334|FIONA|"Sir Shrek. (clears throat and holds
 out a handkerchief) I pray that you
-take this favor as a token of my gratitude."|speech|FIONA|F
-335|SHREK|Thanks!|speech|SHREK|F
-336||Suddenly they hear the dragon roar.|stage direction||
-337|FIONA|(surprised)You didn't slay the dragon?|speech|FIONA|F
+take this favor as a token of my gratitude."|speech|FIONA|F|True
+335|SHREK|Thanks!|speech|SHREK|F|True
+336||Suddenly they hear the dragon roar.|stage direction|||
+337|FIONA|(surprised)You didn't slay the dragon?|speech|FIONA|F|True
 338|SHREK|"It's on my to-do list. Now come on!
 (takes off running and drags Fiona behind
-him.)"|speech|SHREK|F
+him.)"|speech|SHREK|F|True
 339|FIONA|"But this isn't right! You were meant
 to charge in, sword drawn, banner flying.
-That's what all the other knights did."|speech|FIONA|F
-340|SHREK|Yeah, right before they burst into flame.|speech|SHREK|F
+That's what all the other knights did."|speech|FIONA|F|True
+340|SHREK|Yeah, right before they burst into flame.|speech|SHREK|F|True
 341|FIONA|"That's not the point. (Shrek suddenly
 stops and she runs into him.) Oh! (Shrek
 ignores her and heads for a wooden door
 off to the side.) Wait. Where are you
-going? The exit's over there."|speech|FIONA|F
-342|SHREK|Well, I have to save my ass.|speech|SHREK|F
-343|FIONA|What kind of knight are you?|speech|FIONA|F
+going? The exit's over there."|speech|FIONA|F|True
+342|SHREK|Well, I have to save my ass.|speech|SHREK|F|True
+343|FIONA|What kind of knight are you?|speech|FIONA|F|True
 344|SHREK|"One of a kind. (opens the door into
-the throne room)"|speech|SHREK|F
+the throne room)"|speech|SHREK|F|True
 345|DONKEY|"(os) Slow down. Slow down, baby, please.
 I believe it's healthy to get to know
 someone over a long period of time.
@@ -869,7 +869,7 @@ my tail! That's my personal tail. You're
 gonna tear it off. I don't give permission
 - - What are you gonna do with that?
 Hey, now. No way. No! No! No, no! No.
-No, no, no. No! Oh!"|speech|DONKEY|M
+No, no, no. No! Oh!"|speech|DONKEY|M|True
 346||"Shrek grabs a chain that's connected to the chandelier and swings
 toward the dragon. He misses and he swings back again. He looks
 up and spots that the chandelier is right above the dragons head.
@@ -880,25 +880,25 @@ roars. Shrek lets go of the chain and the chandelier falls onto
 her head, but it's too big and it goes over her head and forms
 a sort of collar for her. She roars again and Shrek and Donkey
 take off running. Very 'Matrix' style. Shrek grabs Donkey and
-then grabs Princess Fiona as he runs past her."|stage direction||
-347|DONKEY|Hi, Princess!|speech|DONKEY|M
-348|FIONA|It talks!|speech|FIONA|F
+then grabs Princess Fiona as he runs past her."|stage direction|||
+347|DONKEY|Hi, Princess!|speech|DONKEY|M|True
+348|FIONA|It talks!|speech|FIONA|F|True
 349|SHREK|"Yeah, it's getting him to shut up that's
-the trick."|speech|SHREK|F
+the trick."|speech|SHREK|F|True
 350||"They all start screaming as the dragon gains on them. Shrek spots
 a descending slide and jumps on. But unfortunately there is a
 crack in the stone and it hits Shrek right in the groin. His
 eyes cross and as he reaches the bottom of the slide he stumbles
-off and walks lightly."|stage direction||
-351|SHREK|Oh!|speech|SHREK|F
-352||Shrek gets them close to the exit and sets down Donkey and Fiona.|stage direction||
+off and walks lightly."|stage direction|||
+351|SHREK|Oh!|speech|SHREK|F|True
+352||Shrek gets them close to the exit and sets down Donkey and Fiona.|stage direction|||
 353|SHREK|"Okay, you two, heard for the exit! I'll
-take care of the dragon."|speech|SHREK|F
+take care of the dragon."|speech|SHREK|F|True
 354||"Shrek grabs a sword and heads back toward the interior of the
 castle. He throws the sword down in between several overlapping
 chain links. The chain links are attached to the chandelier that
-is still around the dragons neck."|stage direction||
-355|SHREK|(echoing) Run!|speech|SHREK|F
+is still around the dragons neck."|stage direction|||
+355|SHREK|(echoing) Run!|speech|SHREK|F|True
 356||"They all take off running for the exit with the dragon in hot
 pursuit. They make it to the bridge and head across. The dragons
 breathes fire and the bridge begins to burn. They all hang on
@@ -908,7 +908,7 @@ in horror as the dragon makes to fly over the boiling lava to
 get them. But suddenly the chandelier with the chain jerk the
 dragon back and she's unable to get to them. Our gang climbs
 quickly to safety as the dragon looks angry and then gives a
-sad whimper as she watches Donkey walk away."|stage direction||
+sad whimper as she watches Donkey walk away."|stage direction|||
 357|FIONA|"(sliding down the 'volcano' hill) You
 did it! You rescued me! You're amazing.
 (behind her Donkey falls down the hill)
@@ -919,228 +919,228 @@ unorthodox I'll admit. But thy deed
 is great, and thy heart is pure. I am
 eternally in your debt. (Donkey clears
 his throat.) And where would a brave
-knight be without his noble steed?"|speech|FIONA|F
+knight be without his noble steed?"|speech|FIONA|F|True
 358|DONKEY|"I hope you heard that. She called me
-a noble steed. She think I'm a steed."|speech|DONKEY|M
+a noble steed. She think I'm a steed."|speech|DONKEY|M|True
 359|FIONA|"The battle is won. You may remove your
-helmet, good Sir Knight."|speech|FIONA|F
-360|SHREK|Uh, no.|speech|SHREK|F
-361|FIONA|Why not?|speech|FIONA|F
-362|SHREK|I have helmet hair.|speech|SHREK|F
+helmet, good Sir Knight."|speech|FIONA|F|True
+360|SHREK|Uh, no.|speech|SHREK|F|True
+361|FIONA|Why not?|speech|FIONA|F|True
+362|SHREK|I have helmet hair.|speech|SHREK|F|True
 363|FIONA|"Please. I would'st look upon the face
-of my rescuer."|speech|FIONA|F
-364|SHREK|No, no, you wouldn't - - 'st.|speech|SHREK|F
-365|FIONA|But how will you kiss me?|speech|FIONA|F
+of my rescuer."|speech|FIONA|F|True
+364|SHREK|No, no, you wouldn't - - 'st.|speech|SHREK|F|True
+365|FIONA|But how will you kiss me?|speech|FIONA|F|True
 366|SHREK|"What? (to Donkey) That wasn't in the
-job description."|speech|SHREK|F
-367|DONKEY|Maybe it's a perk.|speech|DONKEY|M
+job description."|speech|SHREK|F|True
+367|DONKEY|Maybe it's a perk.|speech|DONKEY|M|True
 368|FIONA|"No, it's destiny. Oh, you must know
 how it goes. A princess locked in a
 tower and beset by a dragon is rescued
 by a brave knight, and then they share
-true love's first kiss."|speech|FIONA|F
+true love's first kiss."|speech|FIONA|F|True
 369|DONKEY|"Hmm? With Shrek? You think- - Wait.
 Wait. You think that Shrek is you true
-love?"|speech|DONKEY|M
-370|FIONA|Well, yes.|speech|FIONA|F
-371||Both Donkey and Shrek burst out laughing.|stage direction||
-372|DONKEY|You think Shrek is your true love!|speech|DONKEY|M
-373|FIONA|What is so funny?|speech|FIONA|F
+love?"|speech|DONKEY|M|True
+370|FIONA|Well, yes.|speech|FIONA|F|True
+371||Both Donkey and Shrek burst out laughing.|stage direction|||
+372|DONKEY|You think Shrek is your true love!|speech|DONKEY|M|True
+373|FIONA|What is so funny?|speech|FIONA|F|True
 374|SHREK|"Let's just say I'm not your type, okay?Fiona:
 Of course, you are. You're my rescuer.
-Now - - Now remove your helmet."|speech|SHREK|F
+Now - - Now remove your helmet."|speech|SHREK|F|True
 375|SHREK|"Look. I really don't think this is a
-good idea."|speech|SHREK|F
-376|FIONA|Just take off the helmet.|speech|FIONA|F
-377|SHREK|I'm not going to.|speech|SHREK|F
-378|FIONA|Take it off.|speech|FIONA|F
-379|SHREK|No!|speech|SHREK|F
-380|FIONA|Now!|speech|FIONA|F
+good idea."|speech|SHREK|F|True
+376|FIONA|Just take off the helmet.|speech|FIONA|F|True
+377|SHREK|I'm not going to.|speech|SHREK|F|True
+378|FIONA|Take it off.|speech|FIONA|F|True
+379|SHREK|No!|speech|SHREK|F|True
+380|FIONA|Now!|speech|FIONA|F|True
 381|SHREK|"Okay! Easy. As you command. Your Highness.
-(takes off his helmet)"|speech|SHREK|F
-382|FIONA|You- - You're a- - an ogre.|speech|FIONA|F
-383|SHREK|Oh, you were expecting Prince Charming.|speech|SHREK|F
+(takes off his helmet)"|speech|SHREK|F|True
+382|FIONA|You- - You're a- - an ogre.|speech|FIONA|F|True
+383|SHREK|Oh, you were expecting Prince Charming.|speech|SHREK|F|True
 384|FIONA|"Well, yes, actually. Oh, no. This is
 all wrong. You're not supposed to be
-an ogre."|speech|FIONA|F
+an ogre."|speech|FIONA|F|True
 385|SHREK|"Princess, I was sent to rescue you by
 Lord Farquaad, okay? He is the one who
-wants to marry you."|speech|SHREK|F
-386|FIONA|Then why didn't he come rescue me?|speech|FIONA|F
+wants to marry you."|speech|SHREK|F|True
+386|FIONA|Then why didn't he come rescue me?|speech|FIONA|F|True
 387|SHREK|"Good question. You should ask him that
-when we get there."|speech|SHREK|F
+when we get there."|speech|SHREK|F|True
 388|FIONA|"But I have to be rescued by my true
 love, not by some ogre and his- - his
-pet."|speech|FIONA|F
-389|DONKEY|Well, so much for noble steed.|speech|DONKEY|M
-390|SHREK|You're not making my job any easier.|speech|SHREK|F
+pet."|speech|FIONA|F|True
+389|DONKEY|Well, so much for noble steed.|speech|DONKEY|M|True
+390|SHREK|You're not making my job any easier.|speech|SHREK|F|True
 391|FIONA|"I'm sorry, but your job is not my problem.
 You can tell Lord Farquaad that if he
 wants to rescue me properly, I'll be
-waiting for him right here."|speech|FIONA|F
+waiting for him right here."|speech|FIONA|F|True
 392|SHREK|"Hey! I'm no one's messenger boy, all
 right? (ominous) I'm a delivery boy.
 (he swiftly picks her up and swings
 her over his shoulder like she was a
-sack of potatoes)"|speech|SHREK|F
-393|FIONA|You wouldn't dare. Put me down!|speech|FIONA|F
-394|SHREK|Ya comin', Donkey?|speech|SHREK|F
-395|DONKEY|I'm right behind ya.|speech|DONKEY|M
+sack of potatoes)"|speech|SHREK|F|True
+393|FIONA|You wouldn't dare. Put me down!|speech|FIONA|F|True
+394|SHREK|Ya comin', Donkey?|speech|SHREK|F|True
+395|DONKEY|I'm right behind ya.|speech|DONKEY|M|True
 396|FIONA|"Put me down, or you will suffer the
 consequences! This is not dignified!
-Put me down!"|speech|FIONA|F
+Put me down!"|speech|FIONA|F|True
 397||"WOODS
 A little time has passed and Fiona has calmed down. She just
-hangs there limply while Shrek carries her."|stage direction||
+hangs there limply while Shrek carries her."|stage direction|||
 398|DONKEY|"Okay, so here's another question. Say
 there's a woman that digs you, right,
 but you don't really like her that way.
 How do you let her down real easy so
 her feelings aren't hurt, but you don't
-get burned to a crisp and eaten?"|speech|DONKEY|M
+get burned to a crisp and eaten?"|speech|DONKEY|M|True
 399|FIONA|"You just tell her she's not your true
 love. Everyone knows what happens when
 you find your...(Shrek drops her on
 the ground) Hey! The sooner we get to
-DuLoc the better."|speech|FIONA|F
+DuLoc the better."|speech|FIONA|F|True
 400|DONKEY|"You're gonna love it there, Princess.
-It's beautiful!"|speech|DONKEY|M
+It's beautiful!"|speech|DONKEY|M|True
 401|FIONA|"And what of my groom-to-be? Lord Farquaad?
-What's he like?"|speech|FIONA|F
+What's he like?"|speech|FIONA|F|True
 402|SHREK|"Let me put it this way, Princess. Men
 of Farquaad's stature are in short supply.
-(he and Donkey laugh)"|speech|SHREK|F
+(he and Donkey laugh)"|speech|SHREK|F|True
 403||"Shrek then proceeds to splash water onto his face to wash off
-the dust and grime."|stage direction||
+the dust and grime."|stage direction|||
 404|DONKEY|"I don't know. There are those who think
 little of him. (they laugh again) Fiona:
 Stop it. Stop it, both of you. You're
 just jealous you can never measure up
-to a great ruler like Lord Farquaad."|speech|DONKEY|M
+to a great ruler like Lord Farquaad."|speech|DONKEY|M|True
 405|SHREK|"Yeah, well, maybe you're right, Princess.
 But I'll let you do the ""measuring""
-when you see him tomorrow."|speech|SHREK|F
+when you see him tomorrow."|speech|SHREK|F|True
 406|FIONA|"(looks at the setting sun) Tomorrow?
 It'll take that long? Shouldn't we stop
-to make camp?"|speech|FIONA|F
+to make camp?"|speech|FIONA|F|True
 407|SHREK|"No, that'll take longer. We can keep
-going."|speech|SHREK|F
-408|FIONA|But there's robbers in the woods.|speech|FIONA|F
+going."|speech|SHREK|F|True
+408|FIONA|But there's robbers in the woods.|speech|FIONA|F|True
 409|DONKEY|"Whoa! Time out, Shrek! Camp is starting
-to sound good."|speech|DONKEY|M
+to sound good."|speech|DONKEY|M|True
 410|SHREK|"Hey, come on. I'm scarier than anything
-we're going to see in this forest."|speech|SHREK|F
-411|FIONA|I need to find somewhere to camp now!|speech|FIONA|F
+we're going to see in this forest."|speech|SHREK|F|True
+411|FIONA|I need to find somewhere to camp now!|speech|FIONA|F|True
 412||"Both Donkey and Shrek's ears lower as they shrink away from her.
 MOUNTAIN CLIFF
 Shrek has found a cave that appears to be in good order. He shoves
-a stone boulder out of the way to reveal the cave."|stage direction||
-413|SHREK|Hey! Over here.|speech|SHREK|F
+a stone boulder out of the way to reveal the cave."|stage direction|||
+413|SHREK|Hey! Over here.|speech|SHREK|F|True
 414|DONKEY|"Shrek, we can do better than that. I
-don't think this is fit for a princess."|speech|DONKEY|M
+don't think this is fit for a princess."|speech|DONKEY|M|True
 415|FIONA|"No, no, it's perfect. It just needs
-a few homey touches."|speech|FIONA|F
+a few homey touches."|speech|FIONA|F|True
 416|SHREK|"Homey touches? Like what? (he hears
 a tearing noise and looks over at Fiona
-who has torn the bark off of a tree.)"|speech|SHREK|F
+who has torn the bark off of a tree.)"|speech|SHREK|F|True
 417|FIONA|"A door? Well, gentlemen, I bid thee
 good night. (goes into the cave and
-puts the bark door up behind her)"|speech|FIONA|F
+puts the bark door up behind her)"|speech|FIONA|F|True
 418|DONKEY|"You want me to read you a bedtime story?
-I will."|speech|DONKEY|M
-419|FIONA|(os) I said good night!|speech|FIONA|F
+I will."|speech|DONKEY|M|True
+419|FIONA|(os) I said good night!|speech|FIONA|F|True
 420||"Shrek looks at Donkey for a second and then goes to move the
 boulder back in front of the entrance to the cave with Fiona
-still inside."|stage direction||
-421|DONKEY|Shrek, What are you doing?|speech|DONKEY|M
+still inside."|stage direction|||
+421|DONKEY|Shrek, What are you doing?|speech|DONKEY|M|True
 422|SHREK|"(laughs) I just- - You know - - Oh,
-come on. I was just kidding."|speech|SHREK|F
+come on. I was just kidding."|speech|SHREK|F|True
 423||"LATER THAT NIGHT
 Shrek and Donkey are sitting around a campfire. They are staring
 up into the sky as Shrek points out certain star constellations
-to Donkey."|stage direction||
+to Donkey."|stage direction|||
 424|SHREK|"And, uh, that one, that's Throwback,
 the only ogre to ever spit over three
-wheat fields."|speech|SHREK|F
+wheat fields."|speech|SHREK|F|True
 425|DONKEY|"Right. Yeah. Hey, can you tell my future
-from these stars?"|speech|DONKEY|M
+from these stars?"|speech|DONKEY|M|True
 426|SHREK|"The stars don't tell the future, Donkey.
 They tell stories. Look, there's Bloodnut,
 the Flatulent. You can guess what he's
-famous for."|speech|SHREK|F
-427|DONKEY|I know you're making this up.|speech|DONKEY|M
+famous for."|speech|SHREK|F|True
+427|DONKEY|I know you're making this up.|speech|DONKEY|M|True
 428|SHREK|"No, look. There he is, and there's the
 group of hunters running away from his
-stench."|speech|SHREK|F
+stench."|speech|SHREK|F|True
 429|DONKEY|"That ain't nothin' but a bunch of little
-dots."|speech|DONKEY|M
+dots."|speech|DONKEY|M|True
 430|SHREK|"You know, Donkey, sometimes things are
-more than they appear. Hmm? Forget it."|speech|SHREK|F
+more than they appear. Hmm? Forget it."|speech|SHREK|F|True
 431|DONKEY|"(heaves a big sigh) Hey, Shrek, what
-we gonna do when we get our swamp anyway?"|speech|DONKEY|M
-432|SHREK|Our swamp?|speech|SHREK|F
+we gonna do when we get our swamp anyway?"|speech|DONKEY|M|True
+432|SHREK|Our swamp?|speech|SHREK|F|True
 433|DONKEY|"You know, when we're through rescuing
-the princess."|speech|DONKEY|M
+the princess."|speech|DONKEY|M|True
 434|SHREK|"We? Donkey, there's no ""we"". There's
 no ""our"". There's just me and my swamp.
 The first thing I'm gonna do is build
-a ten-foot wall around my land."|speech|SHREK|F
+a ten-foot wall around my land."|speech|SHREK|F|True
 435|DONKEY|"You cut me deep, Shrek. You cut me real
 deep just now. You know what I think?
 I think this whole wall thing is just
-a way to keep somebody out."|speech|DONKEY|M
-436|SHREK|No, do ya think?|speech|SHREK|F
-437|DONKEY|Are you hidin' something?|speech|DONKEY|M
-438|SHREK|Never mind, Donkey.|speech|SHREK|F
+a way to keep somebody out."|speech|DONKEY|M|True
+436|SHREK|No, do ya think?|speech|SHREK|F|True
+437|DONKEY|Are you hidin' something?|speech|DONKEY|M|True
+438|SHREK|Never mind, Donkey.|speech|SHREK|F|True
 439|DONKEY|"Oh, this is another one of those onion
-things, isn't it?"|speech|DONKEY|M
+things, isn't it?"|speech|DONKEY|M|True
 440|SHREK|"No, this is one of those drop-it and
-leave-it alone things."|speech|SHREK|F
-441|DONKEY|Why don't you want to talk about it?|speech|DONKEY|M
-442|SHREK|Why do you want to talk about it?|speech|SHREK|F
-443|DONKEY|Why are you blocking?|speech|DONKEY|M
-444|SHREK|I'm not blocking.|speech|SHREK|F
-445|DONKEY|Oh, yes, you are.|speech|DONKEY|M
-446|SHREK|Donkey, I'm warning you.|speech|SHREK|F
-447|DONKEY|Who you trying to keep out?|speech|DONKEY|M
-448|SHREK|Everyone! Okay?|speech|SHREK|F
+leave-it alone things."|speech|SHREK|F|True
+441|DONKEY|Why don't you want to talk about it?|speech|DONKEY|M|True
+442|SHREK|Why do you want to talk about it?|speech|SHREK|F|True
+443|DONKEY|Why are you blocking?|speech|DONKEY|M|True
+444|SHREK|I'm not blocking.|speech|SHREK|F|True
+445|DONKEY|Oh, yes, you are.|speech|DONKEY|M|True
+446|SHREK|Donkey, I'm warning you.|speech|SHREK|F|True
+447|DONKEY|Who you trying to keep out?|speech|DONKEY|M|True
+448|SHREK|Everyone! Okay?|speech|SHREK|F|True
 449|DONKEY|"(pause) Oh, now we're gettin' somewhere.
-(grins)"|speech|DONKEY|M
+(grins)"|speech|DONKEY|M|True
 450||"At this point Fiona pulls the 'door' away from the entrance to
-the cave and peaks out. Neither of the guys see her."|stage direction||
+the cave and peaks out. Neither of the guys see her."|stage direction|||
 451|SHREK|"Oh! For the love of Pete! (gets up and
 walks over to the edge of the cliff
-and sits down)"|speech|SHREK|F
+and sits down)"|speech|SHREK|F|True
 452|DONKEY|"What's your problem? What you got against
-the whole world anyway?"|speech|DONKEY|M
+the whole world anyway?"|speech|DONKEY|M|True
 453|SHREK|"Look, I'm not the one with the problem,
 okay? It's the world that seems to have
 a problem with me. People take one look
 at me and go. ""Aah! Help! Run! A big,
 stupid, ugly ogre!"" They judge me before
 they even know me. That's why I'm better
-off alone."|speech|SHREK|F
+off alone."|speech|SHREK|F|True
 454|DONKEY|"You know what? When we met, I didn't
 think you was just a big, stupid, ugly
-ogre."|speech|DONKEY|M
-455|SHREK|Yeah, I know.|speech|SHREK|F
-456|DONKEY|So, uh, are there any donkeys up there?|speech|DONKEY|M
+ogre."|speech|DONKEY|M|True
+455|SHREK|Yeah, I know.|speech|SHREK|F|True
+456|DONKEY|So, uh, are there any donkeys up there?|speech|DONKEY|M|True
 457|SHREK|"Well, there's, um, Gabby, the Small
-and Annoying."|speech|SHREK|F
+and Annoying."|speech|SHREK|F|True
 458|DONKEY|"Okay, okay, I see it now. The big shiny
-one, right there. That one there?"|speech|DONKEY|M
-459||Fiona puts the door back.|stage direction||
-460|SHREK|That's the moon.|speech|SHREK|F
-461|DONKEY|Oh, okay.|speech|DONKEY|M
+one, right there. That one there?"|speech|DONKEY|M|True
+459||Fiona puts the door back.|stage direction|||
+460|SHREK|That's the moon.|speech|SHREK|F|True
+461|DONKEY|Oh, okay.|speech|DONKEY|M|True
 462||"DuLoc - Farquaad's Bedroom
 The camera pans over a lot of wedding stuff. Soft music plays
 in the background. Farquaad is in bed, watching as the Magic
-Mirror shows him Princess Fiona."|stage direction||
+Mirror shows him Princess Fiona."|stage direction|||
 463|FARQUAAD|"Again, show me again. Mirror, mirror,
-show her to me. Show me the princess."|speech|FARQUAAD|M
-464|MIRROR|Hmph.|speech|MIRROR|F
-465||The Mirror rewinds and begins to play again from the beginning.|stage direction||
-466|FARQUAAD|Ah. Perfect.|speech|FARQUAAD|M
+show her to me. Show me the princess."|speech|FARQUAAD|M|True
+464|MIRROR|Hmph.|speech|MIRROR|F|True
+465||The Mirror rewinds and begins to play again from the beginning.|stage direction|||
+466|FARQUAAD|Ah. Perfect.|speech|FARQUAAD|M|True
 467||"Farquaad looks down at his bare chest and pulls the sheet up
 to cover himself as though Fiona could see him as he gazes sheepishly
 at her image in the mirror.
@@ -1154,183 +1154,183 @@ big and the bird explodes. Fiona looks a little sheepish, but
 she eyes the eggs that the bird left behind. Time lapse, Fiona
 is now cooking the eggs for breakfast. Shrek and Donkey are still
 sleeping. Shrek wakes up and looks at Fiona. Donkey's talking
-in his sleep."|stage direction||
+in his sleep."|stage direction|||
 468|DONKEY|"(quietly) Mmm, yeah, you know I like
 it like that. Come on, baby. I said
-I like it."|speech|DONKEY|M
-469|SHREK|Donkey, wake up. (shakes him)|speech|SHREK|F
-470|DONKEY|Huh? What?|speech|DONKEY|M
-471|SHREK|Wake up.|speech|SHREK|F
-472|DONKEY|What? (stretches and yawns)|speech|DONKEY|M
+I like it."|speech|DONKEY|M|True
+469|SHREK|Donkey, wake up. (shakes him)|speech|SHREK|F|True
+470|DONKEY|Huh? What?|speech|DONKEY|M|True
+471|SHREK|Wake up.|speech|SHREK|F|True
+472|DONKEY|What? (stretches and yawns)|speech|DONKEY|M|True
 473|FIONA|"Good morning. Hm, how do you like your
-eggs?"|speech|FIONA|F
-474|DONKEY|Oh, good morning, Princess!|speech|DONKEY|M
-475||Fiona gets up and sets the eggs down in front of them.|stage direction||
-476|SHREK|What's all this about?|speech|SHREK|F
+eggs?"|speech|FIONA|F|True
+474|DONKEY|Oh, good morning, Princess!|speech|DONKEY|M|True
+475||Fiona gets up and sets the eggs down in front of them.|stage direction|||
+476|SHREK|What's all this about?|speech|SHREK|F|True
 477|FIONA|"You know, we kind of got off to a bad
 start yesterday. I wanted to make it
 up to you. I mean, after all, you did
-rescue me."|speech|FIONA|F
-478|SHREK|Uh, thanks.|speech|SHREK|F
-479||Donkey sniffs the eggs and licks his lips.|stage direction||
+rescue me."|speech|FIONA|F|True
+478|SHREK|Uh, thanks.|speech|SHREK|F|True
+479||Donkey sniffs the eggs and licks his lips.|stage direction|||
 480|FIONA|"Well, eat up. We've got a big day ahead
-of us. (walks off)"|speech|FIONA|F
+of us. (walks off)"|speech|FIONA|F|True
 481||"LATER
 They are once again on their way. They are walking through the
-forest. Shrek belches."|stage direction||
-482|DONKEY|Shrek!|speech|DONKEY|M
+forest. Shrek belches."|stage direction|||
+482|DONKEY|Shrek!|speech|DONKEY|M|True
 483|SHREK|"What? It's a compliment. Better out
-than in, I always say. (laughs)"|speech|SHREK|F
+than in, I always say. (laughs)"|speech|SHREK|F|True
 484|DONKEY|"Well, it's no way to behave in front
-of a princess."|speech|DONKEY|M
-485||Fiona belches|stage direction||
-486|FIONA|Thanks.|speech|FIONA|F
-487|DONKEY|She's as nasty as you are.|speech|DONKEY|M
+of a princess."|speech|DONKEY|M|True
+485||Fiona belches|stage direction|||
+486|FIONA|Thanks.|speech|FIONA|F|True
+487|DONKEY|She's as nasty as you are.|speech|DONKEY|M|True
 488|SHREK|"(chuckles) You know, you're not exactly
-what I expected."|speech|SHREK|F
+what I expected."|speech|SHREK|F|True
 489|FIONA|"Well, maybe you shouldn't judge people
-before you get to know them."|speech|FIONA|F
+before you get to know them."|speech|FIONA|F|True
 490||"She smiles and then continues walking, singing softly. Suddenly
 from out of nowhere, a man swings down and swoops Fiona up into
-a tree."|stage direction||
-491|ROBIN HOOD|La liberte! Hey!|speech|ROBIN HOOD|F
-492|SHREK|Princess!|speech|SHREK|F
-493|FIONA|(to Robin Hood) What are you doing?|speech|FIONA|F
+a tree."|stage direction|||
+491|ROBIN HOOD|La liberte! Hey!|speech|ROBIN HOOD|F|True
+492|SHREK|Princess!|speech|SHREK|F|True
+493|FIONA|(to Robin Hood) What are you doing?|speech|FIONA|F|True
 494|ROBIN HOOD|"Be still, mon cherie, for I am you savior!
 And I am rescuing you from this green...(kisses
 up her arm while Fiona pulls back in
-disgust)...beast."|speech|ROBIN HOOD|F
+disgust)...beast."|speech|ROBIN HOOD|F|True
 495|SHREK|"Hey! That's my princess! Go find you
-own!"|speech|SHREK|F
+own!"|speech|SHREK|F|True
 496|ROBIN HOOD|"Please, monster! Can't you see I'm a
-little busy here?"|speech|ROBIN HOOD|F
+little busy here?"|speech|ROBIN HOOD|F|True
 497|FIONA|"(getting fed up) Look, pal, I don't
-know who you think you are!"|speech|FIONA|F
+know who you think you are!"|speech|FIONA|F|True
 498|ROBIN HOOD|"Oh! Of course! Oh, how rude. Please
 let me introduce myself. Oh, Merry Men.
-(laughs)"|speech|ROBIN HOOD|F
+(laughs)"|speech|ROBIN HOOD|F|True
 499||"Suddenly an accordion begins to play and the Merry men pop out
-from the bushes. They begin to sing Robin's theme song."|stage direction||
-500|MERRY MEN|Ta, dah, dah, dah, whoo.|speech|MERRY MEN|F
+from the bushes. They begin to sing Robin's theme song."|stage direction|||
+500|MERRY MEN|Ta, dah, dah, dah, whoo.|speech|MERRY MEN|F|True
 501|ROBIN HOOD|"I steal from the rich and give to the
-needy."|speech|ROBIN HOOD|F
-502|MERRY MEN|He takes a wee percentage,|speech|MERRY MEN|F
+needy."|speech|ROBIN HOOD|F|True
+502|MERRY MEN|He takes a wee percentage,|speech|MERRY MEN|F|True
 503|ROBIN HOOD|"But I'm not greedy. I rescue pretty
-damsels, man, I'm good."|speech|ROBIN HOOD|F
-504|MERRY MEN|What a guy, Monsieur Hood.|speech|MERRY MEN|F
+damsels, man, I'm good."|speech|ROBIN HOOD|F|True
+504|MERRY MEN|What a guy, Monsieur Hood.|speech|MERRY MEN|F|True
 505|ROBIN HOOD|"Break it down. I like an honest fight
-and a saucy little maid..."|speech|ROBIN HOOD|F
+and a saucy little maid..."|speech|ROBIN HOOD|F|True
 506|MERRY MEN|"What he's basically saying is he likes
-to get..."|speech|MERRY MEN|F
+to get..."|speech|MERRY MEN|F|True
 507|ROBIN HOOD|"Paid. So...When an ogre in the bush
-grabs a lady by the tush. That's bad."|speech|ROBIN HOOD|F
-508|MERRY MEN|That's bad.|speech|MERRY MEN|F
+grabs a lady by the tush. That's bad."|speech|ROBIN HOOD|F|True
+508|MERRY MEN|That's bad.|speech|MERRY MEN|F|True
 509|ROBIN HOOD|"When a beauty's with a beast it makes
-me awfully mad."|speech|ROBIN HOOD|F
-510|MERRY MEN|He's mad, he's really, really mad.|speech|MERRY MEN|F
+me awfully mad."|speech|ROBIN HOOD|F|True
+510|MERRY MEN|He's mad, he's really, really mad.|speech|MERRY MEN|F|True
 511|ROBIN HOOD|"I'll take my blade and ram it through
 your heart, keep your eyes on me, boys
-'cause I'm about to start..."|speech|ROBIN HOOD|F
+'cause I'm about to start..."|speech|ROBIN HOOD|F|True
 512||"There is a grunt as Fiona swings down from the tree limb and
-knocks Robin Hood unconscious."|stage direction||
-513|FIONA|Man, that was annoying!|speech|FIONA|F
-514||Shrek looks at her in admiration.|stage direction||
+knocks Robin Hood unconscious."|stage direction|||
+513|FIONA|Man, that was annoying!|speech|FIONA|F|True
+514||Shrek looks at her in admiration.|stage direction|||
 515|MERRY MAN|"Oh, you little- - (shoots an arrow at
-Fiona but she ducks out of the way)"|speech|MERRY MAN|?
+Fiona but she ducks out of the way)"|speech|MERRY MAN|?|
 516||"The arrow flies toward Donkey who jumps into Shrek's arms to
 get out of the way. The arrow proceeds to just bounce off a tree.
 Another fight sequence begins and Fiona gives a karate yell and
 then proceeds to beat the crap out of the Merry Men. There is
 a very interesting 'Matrix' moment here when Fiona pauses in
 mid-air to fix her hair. Finally all of the Merry Men are down,
-and Fiona begins walking away."|stage direction||
-517|FIONA|Uh, shall we?|speech|FIONA|F
+and Fiona begins walking away."|stage direction|||
+517|FIONA|Uh, shall we?|speech|FIONA|F|True
 518|SHREK|"Hold the phone. (drops Donkey and begins
 walking after Fiona) Oh! Whoa, whoa,
 whoa. Hold on now. Where did that come
-from?"|speech|SHREK|F
-519|FIONA|What?|speech|FIONA|F
+from?"|speech|SHREK|F|True
+519|FIONA|What?|speech|FIONA|F|True
 520|SHREK|"That! Back there. That was amazing!
-Where did you learn that?"|speech|SHREK|F
+Where did you learn that?"|speech|SHREK|F|True
 521|FIONA|"Well...(laughs) when one lives alone,
 uh, one has to learn these things in
 case there's a...(gasps and points)
-there's an arrow in your butt!"|speech|FIONA|F
+there's an arrow in your butt!"|speech|FIONA|F|True
 522|SHREK|"What? (turns and looks) Oh, would you
 look at that? (he goes to pull it out
-but flinches because it's tender)"|speech|SHREK|F
+but flinches because it's tender)"|speech|SHREK|F|True
 523|FIONA|"Oh, no. This is all my fault. I'm so
-sorry."|speech|FIONA|F
-524|DONKEY|(walking up) Why? What's wrong?|speech|DONKEY|M
-525|FIONA|Shrek's hurt.|speech|FIONA|F
+sorry."|speech|FIONA|F|True
+524|DONKEY|(walking up) Why? What's wrong?|speech|DONKEY|M|True
+525|FIONA|Shrek's hurt.|speech|FIONA|F|True
 526|DONKEY|"Shrek's hurt. Shrek's hurt? Oh, no,
-Shrek's gonna die."|speech|DONKEY|M
-527|SHREK|Donkey, I'm okay.|speech|SHREK|F
+Shrek's gonna die."|speech|DONKEY|M|True
+527|SHREK|Donkey, I'm okay.|speech|SHREK|F|True
 528|DONKEY|"You can't do this to me, Shrek. I'm
 too young for you to die. Keep you legs
 elevated. Turn your head and cough.
-Does anyone know the Heimlich?"|speech|DONKEY|M
+Does anyone know the Heimlich?"|speech|DONKEY|M|True
 529|FIONA|"Donkey! Calm down. If you want to help
 Shrek, run into the woods and find me
-a blue flower with red thorns."|speech|FIONA|F
+a blue flower with red thorns."|speech|FIONA|F|True
 530|DONKEY|"Blue flower, red thorns. Okay, I'm on
 it. Blue flower, red thorns. Don't die
 Shrek. If you see a long tunnel, stay
-away from the light!"|speech|DONKEY|M
-531|SHREK & FIONA|Donkey!|speech|SHREK & FIONA|?
+away from the light!"|speech|DONKEY|M|True
+531|SHREK & FIONA|Donkey!|speech|SHREK & FIONA|?|
 532|DONKEY|"Oh, yeah. Right. Blue flower, red thorns.
-(runs off)"|speech|DONKEY|M
-533|SHREK|What are the flowers for?|speech|SHREK|F
+(runs off)"|speech|DONKEY|M|True
+533|SHREK|What are the flowers for?|speech|SHREK|F|True
 534|FIONA|"(like it's obvious) For getting rid
-of Donkey."|speech|FIONA|F
-535|SHREK|Ah.|speech|SHREK|F
+of Donkey."|speech|FIONA|F|True
+535|SHREK|Ah.|speech|SHREK|F|True
 536|FIONA|"Now you hold still, and I'll yank this
 thing out. (gives the arrow a little
-pull)"|speech|FIONA|F
+pull)"|speech|FIONA|F|True
 537|SHREK|"(jumps away) Ow! Hey! Easy with the
-yankin'."|speech|SHREK|F
+yankin'."|speech|SHREK|F|True
 538||"As they continue to talk Fiona keeps going after the arrow and
-Shrek keeps dodging her hands."|stage direction||
-539|FIONA|I'm sorry, but it has to come out.|speech|FIONA|F
-540|SHREK|No, it's tender.|speech|SHREK|F
-541|FIONA|Now, hold on.|speech|FIONA|F
+Shrek keeps dodging her hands."|stage direction|||
+539|FIONA|I'm sorry, but it has to come out.|speech|FIONA|F|True
+540|SHREK|No, it's tender.|speech|SHREK|F|True
+541|FIONA|Now, hold on.|speech|FIONA|F|True
 542|SHREK|"What you're doing is the opposite of
-help."|speech|SHREK|F
-543|FIONA|Don't move.|speech|FIONA|F
-544|SHREK|Look, time out.|speech|SHREK|F
+help."|speech|SHREK|F|True
+543|FIONA|Don't move.|speech|FIONA|F|True
+544|SHREK|Look, time out.|speech|SHREK|F|True
 545|FIONA|"Would you...(grunts as Shrek puts his
 hand over her face to stop her from
 getting at the arrow) Okay. What do
-you propose we do?"|speech|FIONA|F
+you propose we do?"|speech|FIONA|F|True
 546||"ELSEWHERE
-Donkey is still looking for the special flower."|stage direction||
+Donkey is still looking for the special flower."|stage direction|||
 547|DONKEY|"Blue flower, red thorns. Blue flower,
 red thorns. Blue flower, red thorns.
 This would be so much easier if I wasn't
-color-blind! Blue flower, red thorns."|speech|DONKEY|M
-548|SHREK|(os) Ow!|speech|SHREK|F
+color-blind! Blue flower, red thorns."|speech|DONKEY|M|True
+548|SHREK|(os) Ow!|speech|SHREK|F|True
 549|DONKEY|"Hold on, Shrek! I'm comin'! (rips a
 flower off a nearby bush that just happens
-to be a blue flower with red thorns)"|speech|DONKEY|M
-550||THE FOREST PATH|stage direction||
-551|SHREK|Ow! Not good.|speech|SHREK|F
+to be a blue flower with red thorns)"|speech|DONKEY|M|True
+550||THE FOREST PATH|stage direction|||
+551|SHREK|Ow! Not good.|speech|SHREK|F|True
 552|FIONA|"Okay. Okay. I can nearly see the head.
 (Shrek grunts as she pulls) It's just
-about..."|speech|FIONA|F
+about..."|speech|FIONA|F|True
 553|SHREK|"Ow! Ohh! (he jerks and manages to fall
-over with Fiona on top of him)"|speech|SHREK|F
-554|DONKEY|Ahem.|speech|DONKEY|M
+over with Fiona on top of him)"|speech|SHREK|F|True
+554|DONKEY|Ahem.|speech|DONKEY|M|True
 555|SHREK|"(throwing Fiona off of him) Nothing
-happend. We were just, uh - -"|speech|SHREK|F
+happend. We were just, uh - -"|speech|SHREK|F|True
 556|DONKEY|"Look, if you wanted to be alone, all
-you had to do was ask. Okay?"|speech|DONKEY|M
+you had to do was ask. Okay?"|speech|DONKEY|M|True
 557|SHREK|"Oh, come on! That's the last thing on
 my mind. The princess here was just-
 - (Fiona pulls the arrow out) Ugh! (he
 turns to look at Fiona who holds up
-the arrow with a smile) Ow!"|speech|SHREK|F
+the arrow with a smile) Ow!"|speech|SHREK|F|True
 558|DONKEY|"Hey, what's that? (nervous chuckle)
-That's...is that blood?"|speech|DONKEY|M
+That's...is that blood?"|speech|DONKEY|M|True
 559||"Donkey faints. Shrek walks over and picks him up as they continue
 on their way.
 There is a montage of scenes as the group heads back to DuLoc.
@@ -1346,156 +1346,156 @@ Shrek catching a toad and blowing it up like a balloon and presenting
 it to Fiona. Fiona catching a snake, blowing it up, fashioning
 it into a balloon animal and presenting it to Shrek. The group
 arriving at a windmill that is near DuLoc.
-WINDMILL"|stage direction||
+WINDMILL"|stage direction|||
 560|SHREK|"There it is, Princess. Your future awaits
-you."|speech|SHREK|F
-561|FIONA|That's DuLoc?|speech|FIONA|F
+you."|speech|SHREK|F|True
+561|FIONA|That's DuLoc?|speech|FIONA|F|True
 562|DONKEY|"Yeah, I know. You know, Shrek thinks
 Lord Farquaad's compensating for something,
 which I think means he has a really...(Shrek
-steps on his hoof) Ow!"|speech|DONKEY|M
+steps on his hoof) Ow!"|speech|DONKEY|M|True
 563|SHREK|"Um, I, uh- - I guess we better move
-on."|speech|SHREK|F
+on."|speech|SHREK|F|True
 564|FIONA|"Sure. But, Shrek? I'm - - I'm worried
-about Donkey."|speech|FIONA|F
-565|SHREK|What?|speech|SHREK|F
+about Donkey."|speech|FIONA|F|True
+565|SHREK|What?|speech|SHREK|F|True
 566|FIONA|"I mean, look at him. He doesn't look
-so good."|speech|FIONA|F
-567|DONKEY|What are you talking about? I'm fine.|speech|DONKEY|M
+so good."|speech|FIONA|F|True
+567|DONKEY|What are you talking about? I'm fine.|speech|DONKEY|M|True
 568|FIONA|"(kneels to look him in the eyes) That's
 what they always say, and then next
 thing you know, you're on your back.
-(pause) Dead."|speech|FIONA|F
+(pause) Dead."|speech|FIONA|F|True
 569|SHREK|"You know, she's right. You look awful.
-Do you want to sit down?"|speech|SHREK|F
-570|FIONA|Uh, you know, I'll make you some tea.|speech|FIONA|F
+Do you want to sit down?"|speech|SHREK|F|True
+570|FIONA|Uh, you know, I'll make you some tea.|speech|FIONA|F|True
 571|DONKEY|"I didn't want to say nothin', but I
 got this twinge in my neck, and when
 I turn my head like this, look, (turns
 his neck in a very sharp way until his
-head is completely sideways) Ow! See?"|speech|DONKEY|M
-572|SHREK|Who's hungry? I'll find us some dinner.|speech|SHREK|F
-573|FIONA|I'll get the firewood.|speech|FIONA|F
+head is completely sideways) Ow! See?"|speech|DONKEY|M|True
+572|SHREK|Who's hungry? I'll find us some dinner.|speech|SHREK|F|True
+573|FIONA|I'll get the firewood.|speech|FIONA|F|True
 574|DONKEY|"Hey, where you goin'? Oh, man, I can't
 feel my toes! (looks down and yelps)
 I don't have any toes! I think I need
-a hug."|speech|DONKEY|M
+a hug."|speech|DONKEY|M|True
 575||"SUNSET
 Shrek has built a fire and is cooking the rest of dinner while
-Fiona eats."|stage direction||
+Fiona eats."|stage direction|||
 576|FIONA|"Mmm. This is good. This is really good.
-What is this?"|speech|FIONA|F
-577|SHREK|Uh, weed rat. Rotisserie style.|speech|SHREK|F
-578|FIONA|No kidding. Well, this is delicious.|speech|FIONA|F
+What is this?"|speech|FIONA|F|True
+577|SHREK|Uh, weed rat. Rotisserie style.|speech|SHREK|F|True
+578|FIONA|No kidding. Well, this is delicious.|speech|FIONA|F|True
 579|SHREK|"Well, they're also great in stews. Now,
 I don't mean to brag, but I make a mean
-weed rat stew. (chuckles)"|speech|SHREK|F
-580||Fiona looks at DuLoc and sighs.|stage direction||
+weed rat stew. (chuckles)"|speech|SHREK|F|True
+580||Fiona looks at DuLoc and sighs.|stage direction|||
 581|FIONA|"I guess I'll be dining a little differently
-tomorrow night."|speech|FIONA|F
+tomorrow night."|speech|FIONA|F|True
 582|SHREK|"Maybe you can come visit me in the swamp
 sometime. I'll cook all kind of stuff
 for you. Swamp toad soup, fish eye tartare
-- - you name it."|speech|SHREK|F
-583|FIONA|(smiles) I'd like that.|speech|FIONA|F
-584||They smiles at each other.|stage direction||
-585|SHREK|Um, Princess?|speech|SHREK|F
-586|FIONA|Yes, Shrek?|speech|FIONA|F
+- - you name it."|speech|SHREK|F|True
+583|FIONA|(smiles) I'd like that.|speech|FIONA|F|True
+584||They smiles at each other.|stage direction|||
+585|SHREK|Um, Princess?|speech|SHREK|F|True
+586|FIONA|Yes, Shrek?|speech|FIONA|F|True
 587|SHREK|"I, um, I was wondering...are you...(sighs)
-Are you gonna eat that?"|speech|SHREK|F
+Are you gonna eat that?"|speech|SHREK|F|True
 588|DONKEY|"(chuckles) Man, isn't this romantic?
-Just look at that sunset."|speech|DONKEY|M
+Just look at that sunset."|speech|DONKEY|M|True
 589|FIONA|"(jumps up) Sunset? Oh, no! I mean, it's
-late. I-It's very late."|speech|FIONA|F
-590|SHREK|What?|speech|SHREK|F
+late. I-It's very late."|speech|FIONA|F|True
+590|SHREK|What?|speech|SHREK|F|True
 591|DONKEY|"Wait a minute. I see what's goin' on
 here. You're afraid of the dark, aren't
-you?"|speech|DONKEY|M
+you?"|speech|DONKEY|M|True
 592|FIONA|"Yes! Yes, that's it. I'm terrified.
-You know, I'd better go inside."|speech|FIONA|F
+You know, I'd better go inside."|speech|FIONA|F|True
 593|DONKEY|"Don't feel bad, Princess. I used to
 be afraid of the dark, too, until -
 - Hey, no, wait. I'm still afraid of
-the dark."|speech|DONKEY|M
-594||Shrek sighs|stage direction||
-595|FIONA|Good night.|speech|FIONA|F
-596|SHREK|Good night.|speech|SHREK|F
+the dark."|speech|DONKEY|M|True
+594||Shrek sighs|stage direction|||
+595|FIONA|Good night.|speech|FIONA|F|True
+596|SHREK|Good night.|speech|SHREK|F|True
 597||"Fiona goes inside the windmill and closes the door. Donkey looks
-at Shrek with a new eye."|stage direction||
+at Shrek with a new eye."|stage direction|||
 598|DONKEY|"Ohh! Now I really see what's goin' on
-here."|speech|DONKEY|M
-599|SHREK|Oh, what are you talkin' about?|speech|SHREK|F
+here."|speech|DONKEY|M|True
+599|SHREK|Oh, what are you talkin' about?|speech|SHREK|F|True
 600|DONKEY|"I don't even wanna hear it. Look, I'm
 an animal, and I got instincts. And
 I know you two were diggin' on each
-other. I could feel it."|speech|DONKEY|M
+other. I could feel it."|speech|DONKEY|M|True
 601|SHREK|"You're crazy. I'm just bringing her
-back to Farquaad."|speech|SHREK|F
+back to Farquaad."|speech|SHREK|F|True
 602|DONKEY|"Oh, come on, Shrek. Wake up and smell
 the pheromones. Just go on in and tell
-her how you feel."|speech|DONKEY|M
+her how you feel."|speech|DONKEY|M|True
 603|SHREK|"I- - There's nothing to tell. Besides,
 even if I did tell her that, well, you
 know - - and I'm not sayin' I do 'cause
-I don't - - she's a princess, and I'm"|speech|SHREK|F
-604|DONKEY|An ogre?|speech|DONKEY|M
-605|SHREK|Yeah. An ogre.|speech|SHREK|F
-606|DONKEY|Hey, where you goin'?|speech|DONKEY|M
-607|SHREK|To get... move firewood. (sighs)|speech|SHREK|F
+I don't - - she's a princess, and I'm"|speech|SHREK|F|True
+604|DONKEY|An ogre?|speech|DONKEY|M|True
+605|SHREK|Yeah. An ogre.|speech|SHREK|F|True
+606|DONKEY|Hey, where you goin'?|speech|DONKEY|M|True
+607|SHREK|To get... move firewood. (sighs)|speech|SHREK|F|True
 608||"Donkey looks over at the large pile of firewood there already
 is.
 TIME LAPSE
 Donkey opens the door to the Windmill and walks in. Fiona is
-nowhere to be seen."|stage direction||
+nowhere to be seen."|stage direction|||
 609|DONKEY|"Princess? Princess Fiona? Princess,
-where are you? Princess?"|speech|DONKEY|M
-610||Fiona looks at Donkey from the shadows, but we can't see her.|stage direction||
+where are you? Princess?"|speech|DONKEY|M|True
+610||Fiona looks at Donkey from the shadows, but we can't see her.|stage direction|||
 611|DONKEY|"It's very spooky in here. I ain't playing
-no games."|speech|DONKEY|M
+no games."|speech|DONKEY|M|True
 612||"Suddenly Fiona falls from the railing. She gets up only she doesn't
 look like herself. She looks like an ogre and Donkey starts freaking
-out."|stage direction||
-613|DONKEY|Aah!|speech|DONKEY|M
-614|FIONA|Oh, no!|speech|FIONA|F
-615|DONKEY|No, help!|speech|DONKEY|M
-616|FIONA|Shh!|speech|FIONA|F
-617|DONKEY|Shrek! Shrek! Shrek!|speech|DONKEY|M
-618|FIONA|No, it's okay. It's okay.|speech|FIONA|F
-619|DONKEY|What did you do with the princess?|speech|DONKEY|M
-620|FIONA|Donkey, I'm the princess.|speech|FIONA|F
-621|DONKEY|Aah!|speech|DONKEY|M
-622|FIONA|It's me, in this body.|speech|FIONA|F
+out."|stage direction|||
+613|DONKEY|Aah!|speech|DONKEY|M|True
+614|FIONA|Oh, no!|speech|FIONA|F|True
+615|DONKEY|No, help!|speech|DONKEY|M|True
+616|FIONA|Shh!|speech|FIONA|F|True
+617|DONKEY|Shrek! Shrek! Shrek!|speech|DONKEY|M|True
+618|FIONA|No, it's okay. It's okay.|speech|FIONA|F|True
+619|DONKEY|What did you do with the princess?|speech|DONKEY|M|True
+620|FIONA|Donkey, I'm the princess.|speech|FIONA|F|True
+621|DONKEY|Aah!|speech|DONKEY|M|True
+622|FIONA|It's me, in this body.|speech|FIONA|F|True
 623|DONKEY|"Oh, my God! You ate the princess. (to
-her stomach) Can you hear me?"|speech|DONKEY|M
-624|FIONA|Donkey!|speech|FIONA|F
+her stomach) Can you hear me?"|speech|DONKEY|M|True
+624|FIONA|Donkey!|speech|FIONA|F|True
 625|DONKEY|"(still aimed at her stomach) Listen,
 keep breathing! I'll get you out of
-there!"|speech|DONKEY|M
-626|FIONA|No!|speech|FIONA|F
-627|DONKEY|Shrek! Shrek! Shrek!|speech|DONKEY|M
-628|FIONA|Shh.|speech|FIONA|F
-629|DONKEY|Shrek!|speech|DONKEY|M
-630|FIONA|This is me.|speech|FIONA|F
+there!"|speech|DONKEY|M|True
+626|FIONA|No!|speech|FIONA|F|True
+627|DONKEY|Shrek! Shrek! Shrek!|speech|DONKEY|M|True
+628|FIONA|Shh.|speech|FIONA|F|True
+629|DONKEY|Shrek!|speech|DONKEY|M|True
+630|FIONA|This is me.|speech|FIONA|F|True
 631||"Donkey looks into her eyes as she pets his muzzle, and he quiets
-down."|stage direction||
+down."|stage direction|||
 632|DONKEY|"Princess? What happened to you? You're,
-uh, uh, uh, different."|speech|DONKEY|M
-633|FIONA|I'm ugly, okay?|speech|FIONA|F
+uh, uh, uh, different."|speech|DONKEY|M|True
+633|FIONA|I'm ugly, okay?|speech|FIONA|F|True
 634|DONKEY|"Well, yeah! Was it something you ate?
 'Cause I told Shrek those rats was a
 bad idea. You are what you eat, I said.
-Now - -"|speech|DONKEY|M
+Now - -"|speech|DONKEY|M|True
 635|FIONA|"No. I - - I've been this way as long
-as I can remember."|speech|FIONA|F
+as I can remember."|speech|FIONA|F|True
 636|DONKEY|"What do you mean? Look, I ain't never
-seen you like this before."|speech|DONKEY|M
+seen you like this before."|speech|DONKEY|M|True
 637|FIONA|"It only happens when sun goes down.
 ""By night one way, by day another. This
 shall be the norm... until you find
 true love's first kiss... and then take
-love's true form."""|speech|FIONA|F
+love's true form."""|speech|FIONA|F|True
 638|DONKEY|"Ah, that's beautiful. I didn't know
-you wrote poetry."|speech|DONKEY|M
+you wrote poetry."|speech|DONKEY|M|True
 639|FIONA|"It's a spell. (sigh) When I was a little
 girl, a witch cast a spell on me. Every
 night I become this. This horrible,
@@ -1504,25 +1504,25 @@ to await the day my true love would
 rescue me. That's why I have to marry
 Lord Farquaad tomorrow before the sun
 sets and he sees me like this. (begins
-to cry)"|speech|FIONA|F
+to cry)"|speech|FIONA|F|True
 640|DONKEY|"All right, all right. Calm down. Look,
 it's not that bad. You're not that ugly.
 Well, I ain't gonna lie. You are ugly.
 But you only look like this at night.
-Shrek's ugly 24-7."|speech|DONKEY|M
+Shrek's ugly 24-7."|speech|DONKEY|M|True
 641|FIONA|"But Donkey, I'm a princess, and this
-is not how a princess is meant to look."|speech|FIONA|F
+is not how a princess is meant to look."|speech|FIONA|F|True
 642|DONKEY|"Princess, how 'bout if you don't marry
-Farquaad?"|speech|DONKEY|M
+Farquaad?"|speech|DONKEY|M|True
 643|FIONA|"I have to. Only my true love's kiss
-can break the spell."|speech|FIONA|F
+can break the spell."|speech|FIONA|F|True
 644|DONKEY|"But, you know, um, you're kind of an
 orge, and Shrek - - well, you got a
-lot in common."|speech|DONKEY|M
-645|FIONA|Shrek?|speech|FIONA|F
+lot in common."|speech|DONKEY|M|True
+645|FIONA|Shrek?|speech|FIONA|F|True
 646||"OUTSIDE
 Shrek is walking towards the windmill with a sunflower in his
-hand."|stage direction||
+hand."|stage direction|||
 647|SHREK|"(to himself) Princess, I - - Uh, how's
 it going, first of all? Good? Um, good
 for me too. I'm okay. I saw this flower
@@ -1531,77 +1531,77 @@ and - - well, I don't really like it,
 but I thought you might like it 'cause
 you're pretty. But I like you anyway.
 I'd - - uh, uh...(sighs) I'm in trouble.
-Okay, here we go."|speech|SHREK|F
+Okay, here we go."|speech|SHREK|F|True
 648||"He walks up to the door and pauses outside when he hears Donkey
-and Fiona talking."|stage direction||
+and Fiona talking."|stage direction|||
 649|FIONA|"(os) I can't just marry whoever I want.
 Take a good look at me, Donkey. I mean,
 really, who can ever love a beast so
 hideous and ugly? ""Princess"" and ""ugly""
 don't go together. That's why I can't
-stay here with Shrek."|speech|FIONA|F
-650||Shrek steps back in shock.|stage direction||
+stay here with Shrek."|speech|FIONA|F|True
+650||Shrek steps back in shock.|stage direction|||
 651|FIONA|"(os) My only chance to live happily
-ever after is to marry my true love."|speech|FIONA|F
+ever after is to marry my true love."|speech|FIONA|F|True
 652||"Shrek heaves a deep sigh. He throws the flower down and walks
 away.
-INSIDE"|stage direction||
+INSIDE"|stage direction|||
 653|FIONA|"Don't you see, Donkey? That's just how
 it has to be. It's the only way to break
-the spell."|speech|FIONA|F
-654|DONKEY|You at least gotta tell Shrek the truth.|speech|DONKEY|M
+the spell."|speech|FIONA|F|True
+654|DONKEY|You at least gotta tell Shrek the truth.|speech|DONKEY|M|True
 655|FIONA|"No! You can't breathe a word. No one
-must ever know."|speech|FIONA|F
+must ever know."|speech|FIONA|F|True
 656|DONKEY|"What's the point of being able to talk
-if you gotta keep secrets?"|speech|DONKEY|M
-657|FIONA|Promise you won't tell. Promise!|speech|FIONA|F
+if you gotta keep secrets?"|speech|DONKEY|M|True
+657|FIONA|Promise you won't tell. Promise!|speech|FIONA|F|True
 658|DONKEY|"All right, all right. I won't tell him.
 But you should. (goes outside) I just
 know before this is over, I'm gonna
 need a whole lot of serious therapy.
-Look at my eye twitchin'."|speech|DONKEY|M
+Look at my eye twitchin'."|speech|DONKEY|M|True
 659||"Fiona comes out the door and watches him walk away. She looks
 down and spots the sunflower. She picks it up before going back
 inside the windmill.
 MORNING
 Donkey is asleep. Shrek is nowhere to be seen. Fiona is still
-awake. She is plucking petals from the sunflower."|stage direction||
+awake. She is plucking petals from the sunflower."|stage direction|||
 660|FIONA|"I tell him, I tell him not. I tell him,
 I tell him not. I tell him. (she quickly
 runs to the door and goes outside) Shrek!
 Shrek, there's something I want...(she
 looks and sees the rising sun, and as
 the sun crests the sky she turns back
-into a human.)"|speech|FIONA|F
+into a human.)"|speech|FIONA|F|True
 661||"Just as she looks back at the sun she sees Shrek stomping towards
-her."|stage direction||
-662|FIONA|Shrek. Are you all right?|speech|FIONA|F
-663|SHREK|Perfect! Never been better.|speech|SHREK|F
+her."|stage direction|||
+662|FIONA|Shrek. Are you all right?|speech|FIONA|F|True
+663|SHREK|Perfect! Never been better.|speech|SHREK|F|True
 664|FIONA|"I - - I don't - - There's something
-I have to tell you."|speech|FIONA|F
+I have to tell you."|speech|FIONA|F|True
 665|SHREK|"You don't have to tell me anything,
-Princess. I heard enough last night."|speech|SHREK|F
-666|FIONA|You heard what I said?|speech|FIONA|F
-667|SHREK|Every word.|speech|SHREK|F
-668|FIONA|I thought you'd understand.|speech|FIONA|F
+Princess. I heard enough last night."|speech|SHREK|F|True
+666|FIONA|You heard what I said?|speech|FIONA|F|True
+667|SHREK|Every word.|speech|SHREK|F|True
+668|FIONA|I thought you'd understand.|speech|FIONA|F|True
 669|SHREK|"Oh, I understand. Like you said, ""Who
-could love a hideous, ugly beast?"""|speech|SHREK|F
+could love a hideous, ugly beast?"""|speech|SHREK|F|True
 670|FIONA|"But I thought that wouldn't matter to
-you."|speech|FIONA|F
+you."|speech|FIONA|F|True
 671|SHREK|"Yeah? Well, it does. (Fiona looks at
 him in shock. He looks past her and
 spots a group approaching.) Ah, right
 on time. Princess, I've brought you
-a little something."|speech|SHREK|F
+a little something."|speech|SHREK|F|True
 672||"Farquaad has arrived with a group of his men. He looks very regal
 sitting up on his horse. You would never guess that he's only
 like 3 feet tall. Donkey wakes up with a yawn as the soldiers
-march by."|stage direction||
+march by."|stage direction|||
 673|DONKEY|"What'd I miss? What'd I miss? (spots
 the soldiers) (muffled) Who said that?
-Couldn't have been the donkey."|speech|DONKEY|M
-674|FARQUAAD|Princess Fiona.|speech|FARQUAAD|M
-675|SHREK|As promised. Now hand it over.|speech|SHREK|F
+Couldn't have been the donkey."|speech|DONKEY|M|True
+674|FARQUAAD|Princess Fiona.|speech|FARQUAAD|M|True
+675|SHREK|As promised. Now hand it over.|speech|SHREK|F|True
 676|FARQUAAD|"Very well, ogre. (holds out a piece
 of paper) The deed to your swamp, cleared
 out, as agreed. Take it and go before
@@ -1609,319 +1609,319 @@ I change my mind. (Shrek takes the paper)
 Forgive me, Princess, for startling
 you, but you startled me, for I have
 never seen such a radiant beauty before.
-I'm Lord Farquaad."|speech|FARQUAAD|M
+I'm Lord Farquaad."|speech|FARQUAAD|M|True
 677|FIONA|"Lord Farquaad? Oh, no, no. (Farquaad
 snaps his fingers) Forgive me, my lord,
 for I was just saying a short... (Watches
 as Farquaad is lifted off his horse
 and set down in front of her. He comes
-to her waist.) farewell."|speech|FIONA|F
+to her waist.) farewell."|speech|FIONA|F|True
 678|FARQUAAD|"Oh, that is so sweet. You don't have
 to waste good manners on the ogre. It's
-not like it has feelings."|speech|FARQUAAD|M
-679|FIONA|No, you're right. It doesn't.|speech|FIONA|F
-680||Donkey watches this exchange with a curious look on his face.|stage direction||
+not like it has feelings."|speech|FARQUAAD|M|True
+679|FIONA|No, you're right. It doesn't.|speech|FIONA|F|True
+680||Donkey watches this exchange with a curious look on his face.|stage direction|||
 681|FARQUAAD|"Princess Fiona, beautiful, fair, flawless
 Fiona. I ask your hand in marriage.
 Will you be the perfect bride for the
-perfect groom?"|speech|FARQUAAD|M
+perfect groom?"|speech|FARQUAAD|M|True
 682|FIONA|"Lord Farquaad, I accept. Nothing would
-make - -"|speech|FIONA|F
+make - -"|speech|FIONA|F|True
 683|FARQUAAD|"(interrupting) Excellent! I'll start
-the plans, for tomorrow we wed!"|speech|FARQUAAD|M
+the plans, for tomorrow we wed!"|speech|FARQUAAD|M|True
 684|FIONA|"No! I mean, uh, why wait? Let's get
-married today before the sun sets."|speech|FIONA|F
+married today before the sun sets."|speech|FIONA|F|True
 685|FARQUAAD|"Oh, anxious, are you? You're right.
 The sooner, the better. There's so much
 to do! There's the caterer, the cake,
 the band, the guest list. Captain, round
 up some guests! (a guard puts Fiona
-on the back of his horse)"|speech|FARQUAAD|M
-686|FIONA|Fare-thee-well, ogre.|speech|FIONA|F
+on the back of his horse)"|speech|FARQUAAD|M|True
+686|FIONA|Fare-thee-well, ogre.|speech|FIONA|F|True
 687||"Farquaad's whole party begins to head back to DuLoc. Donkey watches
-them go."|stage direction||
+them go."|stage direction|||
 688|DONKEY|"Shrek, what are you doing? You're letting
-her get away."|speech|DONKEY|M
-689|SHREK|Yeah? So what?|speech|SHREK|F
+her get away."|speech|DONKEY|M|True
+689|SHREK|Yeah? So what?|speech|SHREK|F|True
 690|DONKEY|"Shrek, there's something about her you
 don't know. Look, I talked to her last
-night, She's - -"|speech|DONKEY|M
+night, She's - -"|speech|DONKEY|M|True
 691|SHREK|"I know you talked to her last night.
 You're great pals, aren't ya? Now, if
 you two are such good friends, why don't
-you follow her home?"|speech|SHREK|F
-692|DONKEY|Shrek, I - - I wanna go with you.|speech|DONKEY|M
+you follow her home?"|speech|SHREK|F|True
+692|DONKEY|Shrek, I - - I wanna go with you.|speech|DONKEY|M|True
 693|SHREK|"I told you, didn't I? You're not coming
 home with me. I live alone! My swamp!
 Me! Nobody else! Understand? Nobody!
 Especially useless, pathetic, annoying,
-talking donkeys!"|speech|SHREK|F
-694|DONKEY|But I thought - -|speech|DONKEY|M
+talking donkeys!"|speech|SHREK|F|True
+694|DONKEY|But I thought - -|speech|DONKEY|M|True
 695|SHREK|"Yeah. You know what? You thought wrong!
-(stomps off)"|speech|SHREK|F
-696|DONKEY|Shrek.|speech|DONKEY|M
+(stomps off)"|speech|SHREK|F|True
+696|DONKEY|Shrek.|speech|DONKEY|M|True
 697||"Montage of different scenes. Shrek arriving back home. Fiona
 being fitted for the wedding dress. Donkey at a stream running
 into the dragon. Shrek cleaning up his house. Fiona eating dinner
 alone. Shrek eating dinner alone.
 SHREK'S HOME
 Shrek is eating dinner when he hears a sound outside. He goes
-outside to investigate."|stage direction||
+outside to investigate."|stage direction|||
 698|SHREK|"Donkey? (Donkey ignores him and continues
 with what he's doing.) What are you
-doing?"|speech|SHREK|F
+doing?"|speech|SHREK|F|True
 699|DONKEY|"I would think, of all people, you would
-recognize a wall when you see one."|speech|DONKEY|M
+recognize a wall when you see one."|speech|DONKEY|M|True
 700|SHREK|"Well, yeah. But the wall's supposed
-to go around my swamp, not through it."|speech|SHREK|F
+to go around my swamp, not through it."|speech|SHREK|F|True
 701|DONKEY|"It is around your half. See that's your
-half, and this is my half."|speech|DONKEY|M
-702|SHREK|Oh! Your half. Hmm.|speech|SHREK|F
+half, and this is my half."|speech|DONKEY|M|True
+702|SHREK|Oh! Your half. Hmm.|speech|SHREK|F|True
 703|DONKEY|"Yes, my half. I helped rescue the princess.
 I did half the work. I get half the
 booty. Now hand me that big old rock,
-the one that looks like your head."|speech|DONKEY|M
-704|SHREK|Back off!|speech|SHREK|F
-705|DONKEY|No, you back off.|speech|DONKEY|M
-706|SHREK|This is my swamp!|speech|SHREK|F
-707|DONKEY|Our swamp.|speech|DONKEY|M
+the one that looks like your head."|speech|DONKEY|M|True
+704|SHREK|Back off!|speech|SHREK|F|True
+705|DONKEY|No, you back off.|speech|DONKEY|M|True
+706|SHREK|This is my swamp!|speech|SHREK|F|True
+707|DONKEY|Our swamp.|speech|DONKEY|M|True
 708|SHREK|"(grabs the tree branch Donkey is working
-with) Let go, Donkey!"|speech|SHREK|F
-709|DONKEY|You let go.|speech|DONKEY|M
-710|SHREK|Stubborn jackass!|speech|SHREK|F
-711|DONKEY|Smelly ogre.|speech|DONKEY|M
+with) Let go, Donkey!"|speech|SHREK|F|True
+709|DONKEY|You let go.|speech|DONKEY|M|True
+710|SHREK|Stubborn jackass!|speech|SHREK|F|True
+711|DONKEY|Smelly ogre.|speech|DONKEY|M|True
 712|SHREK|"Fine! (drops the tree branch and walks
-away)"|speech|SHREK|F
+away)"|speech|SHREK|F|True
 713|DONKEY|"Hey, hey, come back here. I'm not through
-with you yet."|speech|DONKEY|M
-714|SHREK|Well, I'm through with you.|speech|SHREK|F
+with you yet."|speech|DONKEY|M|True
+714|SHREK|Well, I'm through with you.|speech|SHREK|F|True
 715|DONKEY|"Uh-uh. You know, with you it's always,
 ""Me, me, me!"" Well, guess what! Now
 it's my turn! So you just shut up and
 pay attention! You are mean to me. You
 insult me and you don't appreciate anything
 that I do! You're always pushing me
-around or pushing me away."|speech|DONKEY|M
+around or pushing me away."|speech|DONKEY|M|True
 716|SHREK|"Oh, yeah? Well, if I treated you so
-bad, how come you came back?"|speech|SHREK|F
+bad, how come you came back?"|speech|SHREK|F|True
 717|DONKEY|"Because that's what friends do! They
-forgive each other!"|speech|DONKEY|M
+forgive each other!"|speech|DONKEY|M|True
 718|SHREK|"Oh, yeah. You're right, Donkey. I forgive
 you... for stabbin' me in the back!
 (goes into the outhouse and slams the
-door)"|speech|SHREK|F
+door)"|speech|SHREK|F|True
 719|DONKEY|"Ohh! You're so wrapped up in layers,
 onion boy, you're afraid of your own
-feelings."|speech|DONKEY|M
-720|SHREK|(os) Go away!|speech|SHREK|F
+feelings."|speech|DONKEY|M|True
+720|SHREK|(os) Go away!|speech|SHREK|F|True
 721|DONKEY|"There you are , doing it again just
 like you did to Fiona. All she ever
-do was like you, maybe even love you."|speech|DONKEY|M
+do was like you, maybe even love you."|speech|DONKEY|M|True
 722|SHREK|"(os) Love me? She said I was ugly, a
 hideous creature. I heard the two of
-you talking."|speech|SHREK|F
+you talking."|speech|SHREK|F|True
 723|DONKEY|"She wasn't talkin' about you. She was
-talkin' about, uh, somebody else."|speech|DONKEY|M
+talkin' about, uh, somebody else."|speech|DONKEY|M|True
 724|SHREK|"(opens the door and comes out) She wasn't
 talking about me? Well, then who was
-she talking about?"|speech|SHREK|F
+she talking about?"|speech|SHREK|F|True
 725|DONKEY|"Uh-uh, no way. I ain't saying anything.
 You don't wanna listen to me. Right?
-Right?"|speech|DONKEY|M
-726|SHREK|Donkey!|speech|SHREK|F
-727|DONKEY|No!|speech|DONKEY|M
+Right?"|speech|DONKEY|M|True
+726|SHREK|Donkey!|speech|SHREK|F|True
+727|DONKEY|No!|speech|DONKEY|M|True
 728|SHREK|"Okay, look. I'm sorry, all right? (sigh)
 I'm sorry. I guess I am just a big,
-stupid, ugly ogre. Can you forgive me?"|speech|SHREK|F
-729|DONKEY|Hey, that's what friends are for, right?|speech|DONKEY|M
-730|SHREK|Right. Friends?|speech|SHREK|F
-731|DONKEY|Friends.|speech|DONKEY|M
-732|SHREK|So, um, what did Fiona say about me?|speech|SHREK|F
+stupid, ugly ogre. Can you forgive me?"|speech|SHREK|F|True
+729|DONKEY|Hey, that's what friends are for, right?|speech|DONKEY|M|True
+730|SHREK|Right. Friends?|speech|SHREK|F|True
+731|DONKEY|Friends.|speech|DONKEY|M|True
+732|SHREK|So, um, what did Fiona say about me?|speech|SHREK|F|True
 733|DONKEY|"What are you asking me for? Why don't
-you just go ask her?"|speech|DONKEY|M
+you just go ask her?"|speech|DONKEY|M|True
 734|SHREK|"The wedding! We'll never make it in
-time."|speech|SHREK|F
+time."|speech|SHREK|F|True
 735|DONKEY|"Ha-ha-ha! Never fear, for where, there's
 a will, there's a way and I have a way.
-(whistles)"|speech|DONKEY|M
+(whistles)"|speech|DONKEY|M|True
 736||"Suddenly the dragon arrives overhead and flies low enough so
-they can climb on."|stage direction||
-737|SHREK|Donkey?|speech|SHREK|F
-738|DONKEY|I guess it's just my animal magnetism.|speech|DONKEY|M
-739||They both laugh.|stage direction||
+they can climb on."|stage direction|||
+737|SHREK|Donkey?|speech|SHREK|F|True
+738|DONKEY|I guess it's just my animal magnetism.|speech|DONKEY|M|True
+739||They both laugh.|stage direction|||
 740|SHREK|"Aw, come here, you. (gives Donkey a
-noogie)"|speech|SHREK|F
+noogie)"|speech|SHREK|F|True
 741|DONKEY|"All right, all right. Don't get all
 slobbery. No one likes a kiss ass. All
 right, hop on and hold on tight. I haven't
 had a chance to install the seat belts
-yet."|speech|DONKEY|M
+yet."|speech|DONKEY|M|True
 742||"They climb aboard the dragon and she takes off for DuLoc.
 DULOC - CHURCH
 Fiona and Farquaad are getting married. The whole town is there.
-The prompter card guy holds up a card that says 'Revered Silence'."|stage direction||
+The prompter card guy holds up a card that says 'Revered Silence'."|stage direction|||
 743|PRIEST|"People of DuLoc, we gather here today
-to bear witness to the union...."|speech|PRIEST|M
-744|FIONA|(eyeing the setting sun) Um-|speech|FIONA|F
-745|PRIEST|...of our new king...|speech|PRIEST|M
+to bear witness to the union...."|speech|PRIEST|M|
+744|FIONA|(eyeing the setting sun) Um-|speech|FIONA|F|True
+745|PRIEST|...of our new king...|speech|PRIEST|M|
 746|FIONA|"Excuse me. Could we just skip ahead
-to the ""I do's""?"|speech|FIONA|F
+to the ""I do's""?"|speech|FIONA|F|True
 747|FARQUAAD|"(chuckles and then motions to the priest
-to indulge Fiona) Go on."|speech|FARQUAAD|M
+to indulge Fiona) Go on."|speech|FARQUAAD|M|True
 748||"COURTYARD
 Some guards are milling around. Suddenly the dragon lands with
-a boom. The guards all take off running."|stage direction||
+a boom. The guards all take off running."|stage direction|||
 749|DONKEY|"(to Dragon) Go ahead, HAVE SOME FUN.
 If we need you, I'll whistle. How about
 that? (she nods and goes after the guards)
 Shrek, wait, wait! Wait a minute! You
-wanna do this right, don't you?"|speech|DONKEY|M
+wanna do this right, don't you?"|speech|DONKEY|M|True
 750|SHREK|"(at the Church door) What are you talking
-about?"|speech|SHREK|F
+about?"|speech|SHREK|F|True
 751|DONKEY|"There's a line you gotta wait for. The
 preacher's gonna say, ""Speak now or
 forever hold your peace."" That's when
-you say, ""I object!"""|speech|DONKEY|M
-752|SHREK|I don't have time for this!|speech|SHREK|F
+you say, ""I object!"""|speech|DONKEY|M|True
+752|SHREK|I don't have time for this!|speech|SHREK|F|True
 753|DONKEY|"Hey, wait. What are you doing? Listen
 to me! Look, you love this woman, don't
-you?"|speech|DONKEY|M
-754|SHREK|Yes.|speech|SHREK|F
-755|DONKEY|You wanna hold her?|speech|DONKEY|M
-756|SHREK|Yes.|speech|SHREK|F
-757|DONKEY|Please her?|speech|DONKEY|M
-758|SHREK|Yes!|speech|SHREK|F
+you?"|speech|DONKEY|M|True
+754|SHREK|Yes.|speech|SHREK|F|True
+755|DONKEY|You wanna hold her?|speech|DONKEY|M|True
+756|SHREK|Yes.|speech|SHREK|F|True
+757|DONKEY|Please her?|speech|DONKEY|M|True
+758|SHREK|Yes!|speech|SHREK|F|True
 759|DONKEY|"(singing James Brown style) Then you
 got to, got to try a little tenderness.
 (normal) The chicks love that romantic
-crap!"|speech|DONKEY|M
+crap!"|speech|DONKEY|M|True
 760|SHREK|"All right! Cut it out. When does this
-guy say the line?"|speech|SHREK|F
-761|DONKEY|We gotta check it out.|speech|DONKEY|M
+guy say the line?"|speech|SHREK|F|True
+761|DONKEY|We gotta check it out.|speech|DONKEY|M|True
 762||"INSIDE CHURCH
 As the priest talks we see Donkey's shadow through one of the
-windows Shrek tosses him up so he can see."|stage direction||
-763|PRIEST|And so, by the power vested in me...|speech|PRIEST|M
-764||Outside|stage direction||
-765|SHREK|What do you see?|speech|SHREK|F
-766|DONKEY|The whole town's in there.|speech|DONKEY|M
-767||Inside|stage direction||
-768|PRIEST|I now pronounce you husband and wife...|speech|PRIEST|M
-769||Outside|stage direction||
-770|DONKEY|They're at the altar.|speech|DONKEY|M
-771||Inside|stage direction||
-772|PRIEST|...king and queen.|speech|PRIEST|M
-773||Outside|stage direction||
-774|DONKEY|Mother Fletcher! He already said it.|speech|DONKEY|M
-775|SHREK|Oh, for the love of Pete!|speech|SHREK|F
+windows Shrek tosses him up so he can see."|stage direction|||
+763|PRIEST|And so, by the power vested in me...|speech|PRIEST|M|
+764||Outside|stage direction|||
+765|SHREK|What do you see?|speech|SHREK|F|True
+766|DONKEY|The whole town's in there.|speech|DONKEY|M|True
+767||Inside|stage direction|||
+768|PRIEST|I now pronounce you husband and wife...|speech|PRIEST|M|
+769||Outside|stage direction|||
+770|DONKEY|They're at the altar.|speech|DONKEY|M|True
+771||Inside|stage direction|||
+772|PRIEST|...king and queen.|speech|PRIEST|M|
+773||Outside|stage direction|||
+774|DONKEY|Mother Fletcher! He already said it.|speech|DONKEY|M|True
+775|SHREK|Oh, for the love of Pete!|speech|SHREK|F|True
 776||"He runs inside without catching Donkey, who hits the ground hard.
-INSIDE CHURCH"|stage direction||
-777|SHREK|(running toward the alter) I object!|speech|SHREK|F
-778|FIONA|Shrek?|speech|FIONA|F
-779||The whole congregation gasps as they see Shrek.|stage direction||
-780|FARQUAAD|Oh, now what does he want?|speech|FARQUAAD|M
+INSIDE CHURCH"|stage direction|||
+777|SHREK|(running toward the alter) I object!|speech|SHREK|F|True
+778|FIONA|Shrek?|speech|FIONA|F|True
+779||The whole congregation gasps as they see Shrek.|stage direction|||
+780|FARQUAAD|Oh, now what does he want?|speech|FARQUAAD|M|True
 781|SHREK|"(to congregation as he reaches the front
 of the Church) Hi, everyone. Havin'
 a good time, are ya? I love DuLoc, first
-of all. Very clean."|speech|SHREK|F
-782|FIONA|What are you doing here?|speech|FIONA|F
+of all. Very clean."|speech|SHREK|F|True
+782|FIONA|What are you doing here?|speech|FIONA|F|True
 783|SHREK|"Really, it's rude enough being alive
 when no one wants you, but showing up
-uninvited to a wedding..."|speech|SHREK|F
-784|SHREK|Fiona! I need to talk to you.|speech|SHREK|F
+uninvited to a wedding..."|speech|SHREK|F|True
+784|SHREK|Fiona! I need to talk to you.|speech|SHREK|F|True
 785|FIONA|"Oh, now you wanna talk? It's a little
-late for that, so if you'll excuse me"|speech|FIONA|F
-786|SHREK|But you can't marry him.|speech|SHREK|F
-787|FIONA|And why not?|speech|FIONA|F
+late for that, so if you'll excuse me"|speech|FIONA|F|True
+786|SHREK|But you can't marry him.|speech|SHREK|F|True
+787|FIONA|And why not?|speech|FIONA|F|True
 788|SHREK|"Because- - Because he's just marring
-you so he can be king."|speech|SHREK|F
-789|FARQUAAD|Outrageous! Fiona, don't listen to him.|speech|FARQUAAD|M
-790|SHREK|He's not your true love.|speech|SHREK|F
-791|FIONA|And what do you know about true love?|speech|FIONA|F
-792|SHREK|Well, I - - Uh - - I mean - -|speech|SHREK|F
+you so he can be king."|speech|SHREK|F|True
+789|FARQUAAD|Outrageous! Fiona, don't listen to him.|speech|FARQUAAD|M|True
+790|SHREK|He's not your true love.|speech|SHREK|F|True
+791|FIONA|And what do you know about true love?|speech|FIONA|F|True
+792|SHREK|Well, I - - Uh - - I mean - -|speech|SHREK|F|True
 793|FARQUAAD|"Oh, this is precious. The ogee has fallen
 in love with the princess! Oh, good
-Lord. (laughs)"|speech|FARQUAAD|M
+Lord. (laughs)"|speech|FARQUAAD|M|True
 794||"The prompter card guy holds up a card that says 'Laugh'. The
-whole congregation laughs."|stage direction||
-795|FARQUAAD|An ogre and a princess!|speech|FARQUAAD|M
-796|FIONA|Shrek, is this true?|speech|FIONA|F
+whole congregation laughs."|stage direction|||
+795|FARQUAAD|An ogre and a princess!|speech|FARQUAAD|M|True
+796|FIONA|Shrek, is this true?|speech|FIONA|F|True
 797|FARQUAAD|"Who cares? It's preposterous! Fiona,
 my love, we're but a kiss away from
 our ""happily ever after."" Now kiss me!
 (puckers his lips and leans toward her,
-but she pulls back.)"|speech|FARQUAAD|M
+but she pulls back.)"|speech|FARQUAAD|M|True
 798|FIONA|"(looking at the setting sun) ""By night
 one way, by day another."" (to Shrek)
-I wanted to show you before."|speech|FIONA|F
+I wanted to show you before."|speech|FIONA|F|True
 799||"She backs up and as the sun sets she changes into her ogre self.
-She gives Shrek a sheepish smile."|stage direction||
+She gives Shrek a sheepish smile."|stage direction|||
 800|SHREK|"Well, uh, that explains a lot. (Fiona
-smiles)"|speech|SHREK|F
+smiles)"|speech|SHREK|F|True
 801|FARQUAAD|"Ugh! It's disgusting! Guards! Guards!
 I order you to get that out of my sight
-now! Get them! Get them both!"|speech|FARQUAAD|M
+now! Get them! Get them both!"|speech|FARQUAAD|M|True
 802||"The guards run in and separate Fiona and Shrek. Shrek fights
-them."|stage direction||
-803|SHREK|No, no!|speech|SHREK|F
-804|FIONA|Shrek!|speech|FIONA|F
+them."|stage direction|||
+803|SHREK|No, no!|speech|SHREK|F|True
+804|FIONA|Shrek!|speech|FIONA|F|True
 805|FARQUAAD|"This hocus-pocus alters nothing. This
 marriage is binding, and that makes
-me king! See? See?"|speech|FARQUAAD|M
-806|FIONA|No, let go of me! Shrek!|speech|FIONA|F
-807|SHREK|No!|speech|SHREK|F
-808|FARQUAAD|Don't just stand there, you morons.|speech|FARQUAAD|M
-809|SHREK|Get out of my way! Fiona! Arrgh!|speech|SHREK|F
+me king! See? See?"|speech|FARQUAAD|M|True
+806|FIONA|No, let go of me! Shrek!|speech|FIONA|F|True
+807|SHREK|No!|speech|SHREK|F|True
+808|FARQUAAD|Don't just stand there, you morons.|speech|FARQUAAD|M|True
+809|SHREK|Get out of my way! Fiona! Arrgh!|speech|SHREK|F|True
 810|FARQUAAD|"I'll make you regret the day we met.
 I'll see you drawn and quartered! You'll
-beg for death to save you!"|speech|FARQUAAD|M
-811|FIONA|No, Shrek!|speech|FIONA|F
+beg for death to save you!"|speech|FARQUAAD|M|True
+811|FIONA|No, Shrek!|speech|FIONA|F|True
 812|FARQUAAD|"(hold a dagger to Fiona's throat) And
-as for you, my wife..."|speech|FARQUAAD|M
-813|SHREK|Fiona!|speech|SHREK|F
+as for you, my wife..."|speech|FARQUAAD|M|True
+813|SHREK|Fiona!|speech|SHREK|F|True
 814|FARQUAAD|"I'll have you locked back in that tower
-for the rest of your days! I'm king!"|speech|FARQUAAD|M
-815||Shrek manages to get a hand free and he whistles.|stage direction||
+for the rest of your days! I'm king!"|speech|FARQUAAD|M|True
+815||Shrek manages to get a hand free and he whistles.|stage direction|||
 816|FARQUAAD|"I will have order! I will have perfection!
 I will have - - (Donkey and the dragon
 show up and the dragon leans down and
-eats Farquaad) Aaaah! Aah!"|speech|FARQUAAD|M
+eats Farquaad) Aaaah! Aah!"|speech|FARQUAAD|M|True
 817|DONKEY|"All right. Nobody move. I got a dragon
 here, and I'm not afraid to use it.
 (The dragon roars.) I'm a donkey on
-the edge!"|speech|DONKEY|M
+the edge!"|speech|DONKEY|M|True
 818||"The dragon belches and Farquaad's crown flies out of her mouth
-and falls to the ground."|stage direction||
+and falls to the ground."|stage direction|||
 819|DONKEY|"Celebrity marriages. They never last,
-do they?"|speech|DONKEY|M
-820||The congregation cheers.|stage direction||
-821|DONKEY|Go ahead, Shrek.|speech|DONKEY|M
-822|SHREK|Uh, Fiona?|speech|SHREK|F
-823|FIONA|Yes, Shrek?|speech|FIONA|F
-824|SHREK|I - - I love you.|speech|SHREK|F
-825|FIONA|Really?|speech|FIONA|F
-826|SHREK|Really, really.|speech|SHREK|F
-827|FIONA|(smiles) I love you too.|speech|FIONA|F
+do they?"|speech|DONKEY|M|True
+820||The congregation cheers.|stage direction|||
+821|DONKEY|Go ahead, Shrek.|speech|DONKEY|M|True
+822|SHREK|Uh, Fiona?|speech|SHREK|F|True
+823|FIONA|Yes, Shrek?|speech|FIONA|F|True
+824|SHREK|I - - I love you.|speech|SHREK|F|True
+825|FIONA|Really?|speech|FIONA|F|True
+826|SHREK|Really, really.|speech|SHREK|F|True
+827|FIONA|(smiles) I love you too.|speech|FIONA|F|True
 828||"Shrek and Fiona kiss. Thelonius takes one of the cards and writes
-'Awwww' on the back and then shows it to the congregation."|stage direction||
-829|CONGREGATION|Aawww!|speech|CONGREGATION|M
+'Awwww' on the back and then shows it to the congregation."|stage direction|||
+829|CONGREGATION|Aawww!|speech|CONGREGATION|M|
 830||"Suddenly the magic of the spell pulls Fiona away. She's lifted
 up into the air and she hovers there while the magic works around
-her."|stage direction||
+her."|stage direction|||
 831|WHISPERS|"""Until you find true love's first kiss
 and then take love's true form. Take
-love's true form. Take love's true form."""|speech|WHISPERS|?
+love's true form. Take love's true form."""|speech|WHISPERS|?|
 832||"Suddenly Fiona's eyes open wide. She's consumed by the spell
-and then is slowly lowered to the ground."|stage direction||
+and then is slowly lowered to the ground."|stage direction|||
 833|SHREK|"(going over to her) Fiona? Fiona. Are
-you all right?"|speech|SHREK|F
+you all right?"|speech|SHREK|F|True
 834|FIONA|"(standing up, she's still an ogre) Well,
 yes. But I don't understand. I'm supposed
-to be beautiful."|speech|FIONA|F
-835|SHREK|But you ARE beautiful.|speech|SHREK|F
-836||They smile at each other.|stage direction||
+to be beautiful."|speech|FIONA|F|True
+835|SHREK|But you ARE beautiful.|speech|SHREK|F|True
+836||They smile at each other.|stage direction|||
 837|DONKEY|"(chuckles) I was hoping this would be
-a happy ending."|speech|DONKEY|M
+a happy ending."|speech|DONKEY|M|True
 838||"Shrek and Fiona kiss...and the kiss fades into...
 THE SWAMP
 ...their wedding kiss. Shrek and Fiona are now married. 'I'm
@@ -1933,8 +1933,8 @@ up getting into a cat fight and so the dragon catches the bouquet
 instead. The Gingerbread man has been mended somewhat and now
 has one leg and walks with a candy cane cane. Shrek and Fiona
 walk off as the rest of the guests party and Donkey takes over
-singing the song."|stage direction||
-839|GINGERBREAD MAN|God bless us, every one.|speech|GINGERBREAD MAN|M
+singing the song."|stage direction|||
+839|GINGERBREAD MAN|God bless us, every one.|speech|GINGERBREAD MAN|M|True
 840|DONKEY|"(as he's done singing and we fade to
 black) Oh, that's funny. Oh. Oh. I can't
-breathe. I can't breathe."|speech|DONKEY|M
+breathe. I can't breathe."|speech|DONKEY|M|True

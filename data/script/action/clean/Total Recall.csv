@@ -1,4 +1,4 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"""TOTAL RECALL""
 Screen Story and Screenplay
 by
@@ -7,9 +7,9 @@ Fifth Revision
 by
 Ronald Shusett and Steven Pressfield
 ______________________________________________________________________________
-""TOTAL RECALL"""|unknown||
-1||FADE IN:|stage direction||
-2||1       EXT. DESERT - DAY|unknown||
+""TOTAL RECALL"""|unknown|||
+1||FADE IN:|stage direction|||
+2||1       EXT. DESERT - DAY|unknown|||
 3||"All we can see, filling the entire frame is a flame-orange
 sky...almost like the sky from the burning of Atlanta in
 ""Gone with the Wind"".
@@ -42,8 +42,8 @@ towards the eyes, which appear to be red gems.
 As CAMERA APPROACHES one of the eyes, it appears to be
 stained red glass, as in a temple.  Suddenly there is a
 terrific explosion and the glass shatters into millions of
-fragments which hurtle toward the camera..."|stage direction||
-4||"2       INT. CATACOMB BELOW ""SPHINX"" - DAY"|unknown||
+fragments which hurtle toward the camera..."|stage direction|||
+4||"2       INT. CATACOMB BELOW ""SPHINX"" - DAY"|unknown|||
 5||"A MAN wearing a LIGHTWEIGHT THERMAL SUIT is RUNNING THROUGH
 THIS LABYRINTH of TUNNELS.  The GROUND TREMBLES under him,
 as if in an earthquake.  We cannot clearly make out his face,
@@ -68,25 +68,25 @@ with YELLOW LAYOVERS.  (So that all the images we see --
 ENTIRE FRAME -- are small YELLOW AREAS diffused on a RED
 BACKGROUND.)  It is much like looking at a tableau made out
 of molten lava.
-SUPERIMPOSE MAIN TITLE:"|stage direction||
-6||TOTAL RECALL|unknown||
-7||HOLD.|stage direction||
+SUPERIMPOSE MAIN TITLE:"|stage direction|||
+6||TOTAL RECALL|unknown|||
+7||HOLD.|stage direction|||
 8||"DISSOLVE TO:
-3       INT. BEDROOM IN SMALL APARTMENT - MORNING"|unknown||
+3       INT. BEDROOM IN SMALL APARTMENT - MORNING"|unknown|||
 9||"DOUGLAS QUAIL and his wife KRISTEN, are asleep in bed.
 Gradually the room lights BRIGHTEN.  The CLOCK CHIMES and
-begins SPEAKING in a soft, feminine voice."|stage direction||
-10||(sweetly)|location||
+begins SPEAKING in a soft, feminine voice."|stage direction|||
+10||(sweetly)|location|||
 11|CLOCK|"Tick, tock, seven o'clock.  Time
-to rise and open your eyes."|speech|CLOCK|M
-12||They don't budge.  Shortly, the clock CHIMES again.|stage direction||
-13||(continuing)|location||
+to rise and open your eyes."|speech|CLOCK|M|
+12||They don't budge.  Shortly, the clock CHIMES again.|stage direction|||
+13||(continuing)|location|||
 14|CLOCK|"Tick, tock, seven-oh-one.  Time
-to get up, the day had begun."|speech|CLOCK|M
+to get up, the day had begun."|speech|CLOCK|M|
 15||"Quail's wife stirs.  Maddeningly, the clock CHIMES a third
-time."|stage direction||
-16||(continuing)|location||
-17|CLOCK|Tick, tock --|speech|CLOCK|M
+time."|stage direction|||
+16||(continuing)|location|||
+17|CLOCK|Tick, tock --|speech|CLOCK|M|
 18||"Quail reaches out and shuts the clock off.  Then he sits up
 in bed.
 He swings his legs out from under the covers and sits on the
@@ -96,29 +96,29 @@ He is a good-looking but conventional man in his early
 thirties.  He seems rather in awe of his wife, who is
 attractive and rather off-hand towards him.
 Kirsten pulls on her robe, lights a cigarette, sits fishing
-for her slippers."|stage direction||
+for her slippers."|stage direction|||
 19|QUAIL|"I dreamed about Mars again... it
-was bizarre, yet is was so real..."|speech|QUAIL|M
-20||(casual)|location||
-21|KIRSTEN|It's your time of the month again.|speech|KIRSTEN|F
-22||Quail looks at her quizzically.|stage direction||
-23||(continuing;|location||
-24||world-weary air)|unknown||
+was bizarre, yet is was so real..."|speech|QUAIL|M|True
+20||(casual)|location|||
+21|KIRSTEN|It's your time of the month again.|speech|KIRSTEN|F|True
+22||Quail looks at her quizzically.|stage direction|||
+23||(continuing;|location|||
+24||world-weary air)|unknown|||
 25|KIRSTEN|"At least once a month.  Douglas
 Quail's obsession.  For twelve
 years you've been talking about
-Mars."|speech|KIRSTEN|F
-26|QUAIL|People do go to Mars, you know.|speech|QUAIL|M
+Mars."|speech|KIRSTEN|F|True
+26|QUAIL|People do go to Mars, you know.|speech|QUAIL|M|True
 27|KIRSTEN|"That's right, Douglas.  But not
-you.  Not us."|speech|KIRSTEN|F
-28||Quail looks crestfallen.|stage direction||
-29||(continuing;|location||
-30||disdainful)|unknown||
+you.  Not us."|speech|KIRSTEN|F|True
+28||Quail looks crestfallen.|stage direction|||
+29||(continuing;|location|||
+30||disdainful)|unknown|||
 31|KIRSTEN|"As it is, we can barely scrape by
-on your lousy ten thousand a week."|speech|KIRSTEN|F
+on your lousy ten thousand a week."|speech|KIRSTEN|F|True
 32||"She leaves the room.  He meditates on what she said,
-depressed."|stage direction||
-33||4       INT. KITCHENETTE - MORNING|unknown||
+depressed."|stage direction|||
+33||4       INT. KITCHENETTE - MORNING|unknown|||
 34||"Quail and Kirsten sit at a small table, eating breakfast.
 On the WALL is projected the front page of a NEWSPAPER.
 Drinking his coffee, Quail studies the wall with the air
@@ -127,114 +127,114 @@ his wife.
 The newspaper headline reads:  ""RIOTING ON MARS OVER WATER
 TAX.""
 His wife is reading a different article:  ""Four Women Rape
-Man in Park."""|stage direction||
-35||(mumbling)|location||
+Man in Park."""|stage direction|||
+35||(mumbling)|location|||
 36|KIRSTEN|"What do they expect ... the
 way men dress these days ...
-then they scream rape."|speech|KIRSTEN|F
-37||Quail is absorbed in his own paper and doesn't hear her.|stage direction||
-38|QUAIL|You know -- let's really do it.|speech|QUAIL|M
-39|KIRSTEN|Rape men in the park?|speech|KIRSTEN|F
-40|QUAIL|No.  Go to Mars.|speech|QUAIL|M
-41||(withering)|location||
-42|KIRSTEN|Go to hell.|speech|KIRSTEN|F
+then they scream rape."|speech|KIRSTEN|F|True
+37||Quail is absorbed in his own paper and doesn't hear her.|stage direction|||
+38|QUAIL|You know -- let's really do it.|speech|QUAIL|M|True
+39|KIRSTEN|Rape men in the park?|speech|KIRSTEN|F|True
+40|QUAIL|No.  Go to Mars.|speech|QUAIL|M|True
+41||(withering)|location|||
+42|KIRSTEN|Go to hell.|speech|KIRSTEN|F|True
 43|QUAIL|"We can pool our savings and
 I've got some sick leave
 coming, besides my regular
-vacation..."|speech|QUAIL|M
-44||(interrupting;|location||
-45||corrects herself)|unknown||
+vacation..."|speech|QUAIL|M|True
+44||(interrupting;|location|||
+45||corrects herself)|unknown|||
 46|KIRSTEN|"...more of a half-wit.  For
 a start a war could break out
-there any day ..."|speech|KIRSTEN|F
+there any day ..."|speech|KIRSTEN|F|True
 47||"She gestures toward the TV screen where Martian police
 are keeping protesters behind a barrier.  Some have signs
 reading ""A FREE MARS"", ""DOWN WITH COHAAGEN"", ""EARTH - OUT""
-etc."|stage direction||
-48|QUAIL|That's just media talk.  They're...|speech|QUAIL|M
-49||(indicating|location||
-50||the protesters)|unknown||
+etc."|stage direction|||
+48|QUAIL|That's just media talk.  They're...|speech|QUAIL|M|True
+49||(indicating|location|||
+50||the protesters)|unknown|||
 51|QUAIL|"...just a minority.  They're
-powerless."|speech|QUAIL|M
+powerless."|speech|QUAIL|M|True
 52|KIRSTEN|"Well, there's a lot of things
 we need around here before
 we waste our money on a trip
 to Mars.  We're broke.  I'm
 just a slave around this dump.
 Now if you were capable of
-finding a better job...."|speech|KIRSTEN|F
-53||The kitchen clock chimes and talks.|stage direction||
+finding a better job...."|speech|KIRSTEN|F|True
+53||The kitchen clock chimes and talks.|stage direction|||
 54|CLOCK|"It's now eight.  You'll be
-late!"|speech|CLOCK|M
-55|QUAIL|I'll be late!|speech|QUAIL|M
+late!"|speech|CLOCK|M|
+55|QUAIL|I'll be late!|speech|QUAIL|M|True
 56||"He jumps up quickly from the table, picks up his coat and
 briefcase, kisses KIRSTEN's perfunctorily offered cheek
-and leaves."|stage direction||
-57||4A      EXT. CITY - EARLY MORNING|unknown||
+and leaves."|stage direction|||
+57||4A      EXT. CITY - EARLY MORNING|unknown|||
 58||"CAMERA TRACKS with Quail as he walks along the busy modern
 street towards a subway station.  Modern cars (out of focus)
 pass noiselessly between the camera and Quail.  There is a
 plaintive tune being played on violin.  Quail pauses and
 gives a wad of notes to the aged violinist, then walks on
-briskly."|stage direction||
-59||5       INT. SUBWAY STATION - EARLY MORNING|unknown||
+briskly."|stage direction|||
+59||5       INT. SUBWAY STATION - EARLY MORNING|unknown|||
 60||"Quail enters the station.  Everybody must pass through a
 weapons check before proceeding to the platforms.
 TWO ARMED GUARDS stand at either side, as commuters pass
 through an electronic beam.  On a screen, the entire body
 of each person is seen in X-ray.  All of them are clearly
-carrying a gun in their inside coat pocket."|stage direction||
-61|GUARD|No weapon again, Mr. Quail?|speech|GUARD|M
+carrying a gun in their inside coat pocket."|stage direction|||
+61|GUARD|No weapon again, Mr. Quail?|speech|GUARD|M|
 62|QUAIL|"I keep forgetting, Herb.  They
-frighten me."|speech|QUAIL|M
+frighten me."|speech|QUAIL|M|True
 63|GUARD|"Yeah?  Well, it's the law,
 Mr. Quail.  Has been since
 1990 they tell me.  Tomorrow -
 ya carry ya gun or ya get
-reported."|speech|GUARD|M
+reported."|speech|GUARD|M|
 64||"GUARD gestures to his associate.  They've obviously been
-through this with Quail before."|stage direction||
-65|QUAIL|Okay.  Herb, okay.|speech|QUAIL|M
+through this with Quail before."|stage direction|||
+65|QUAIL|Okay.  Herb, okay.|speech|QUAIL|M|True
 66||"Quail walks on to the track area.  The train arrives.
 Signs above each approaching car say ""CAR FULL"", ""ROOM
 FOR 10 PERSONS"", etc.  Quail goes to a carriage marked
-""NEW CAR""."|stage direction||
-67||6       INT. URBAN TRANSIT TRAIN - DAY|unknown||
+""NEW CAR""."|stage direction|||
+67||6       INT. URBAN TRANSIT TRAIN - DAY|unknown|||
 68||"The doors open and the crowd surges on.  Quail grabs a
 seat.  At intervals throughout the car are VIDEO MONITORS
-on which a NEWS BROADCAST is showing."|stage direction||
+on which a NEWS BROADCAST is showing."|stage direction|||
 69|NEWSCASTER (V.O.)|"-- more violence today from Mars's
-strike-torn ore colonies --"|speech|NEWSCASTER|?
+strike-torn ore colonies --"|speech|NEWSCASTER|?|
 70||"Everyone ignores the broadcast -- except Quail, who perks
 instantly at the word ""Mars.""
-The NEWSCASTER is a young black man."|stage direction||
-71||(continuing)|location||
+The NEWSCASTER is a young black man."|stage direction|||
+71||(continuing)|location|||
 72|NEWSCASTER|"...but Earth Intelligence Operations
 Director Vilos Cohaagen, clearly
 worried about the damage to Mars's
 all important tourist
 industry was today dismissive
-of the dissident groups...."|speech|NEWSCASTER|?
+of the dissident groups...."|speech|NEWSCASTER|?|
 73||"TV scene switches to a press conference.  COHAAGEN, sur-
 rounded by AIDES, steps in front of a podium packed with
 news network microphones and cameras.  Cohaagen is a
-striking, intense man with an obvious air of power."|stage direction||
+striking, intense man with an obvious air of power."|stage direction|||
 74||"We're dealing with a bunch of
 extremists and unrepresentative
 lunatics.  Mars is a happy and
 prosperous protectorate of Earth...
-and will remain so."|unknown||
+and will remain so."|unknown|||
 75||"The train stops at another station and more people pile on.
 Quail tries to watch the broadcast through the bodies
 passing in front of him and intermittently blocking the
-image."|stage direction||
+image."|stage direction|||
 76|REPORTER (V.O.)|"There have been some criticisms,
-sir...."|speech|REPORTER|?
-77|COHAAGEN|I have no further comment.|speech|COHAAGEN|M
+sir...."|speech|REPORTER|?|
+77|COHAAGEN|I have no further comment.|speech|COHAAGEN|M|True
 78||"The news conference ends and a bright looking young man
 comes on the screen.  Quail continues to watch, though
 not as interested, initially, as he was by the Mars story.
-Few of the other passengers bother looking at the screen."|stage direction||
+Few of the other passengers bother looking at the screen."|stage direction|||
 79|ANNOUNCER|"Good morning, commuters.  This
 portion of your trip is brought
 to you by Rekall, Inc.  Do you
@@ -245,53 +245,53 @@ adventure passed you by?  Then
 come to... REKALL, where what
 might have been will have been.
 For the memories of a
-lifetime... REKALL."|speech|ANNOUNCER|?
+lifetime... REKALL."|speech|ANNOUNCER|?|
 80||"Quail watches the commercial through to the end, but doesn't
 seem to take it very seriously.  He glances away as a card
-comes on the screen with REKALL's numbers."|stage direction||
-81||6B      INT. QUAIL'S OFFICE - DAY|unknown||
+comes on the screen with REKALL's numbers."|stage direction|||
+81||6B      INT. QUAIL'S OFFICE - DAY|unknown|||
 82||"Quail is seated at a computer console in a vast beehive
 of a room.  Numerous people are typing information onto
 the screens.  Quail pauses in his typing, thoughtful.  He
 then types in a little more information, then pauses again.
 On the screen, a sentence types itself...
 WHY HAVE YOU STOPPED?  REQUEST MORE INFORMATION.
-Quail read it and continues."|stage direction||
-83||9       INT. McCLANE'S OFFICE - REKALL - DAY|unknown||
+Quail read it and continues."|stage direction|||
+83||9       INT. McCLANE'S OFFICE - REKALL - DAY|unknown|||
 84||"Scene opens on a CU of McCLANE, a genial, bubbling, enthus-
-iastic man."|stage direction||
+iastic man."|stage direction|||
 85|McCLANE|"We're all dreamers, Douglas.
 But here at Rekall, dreams
-are our business."|speech|McCLANE|M
+are our business."|speech|McCLANE|M|True
 86||"He presses a button on his desk and the chairs on which
 they are seated appear to be in outer space.  Countless
 stars glitter all around.  Startlingly, a comet whizzes by.
 Quail is amazed.  McClane grins and presses the button
 again.  The scene changes to a beautiful underwater coral
-reef.  Multi-colored fish swim around the chairs and desk."|stage direction||
+reef.  Multi-colored fish swim around the chairs and desk."|stage direction|||
 87|QUAIL|"But... is the process really
 that effective?  A false
-memory!?"|speech|QUAIL|M
-88||(shaking his head;|location||
-89||smiling)|unknown||
+memory!?"|speech|QUAIL|M|True
+88||(shaking his head;|location|||
+89||smiling)|unknown|||
 90|McCLANE|"We prefer the term ""extra-
 factual implant"".  Your
 memory will be complete in
 every way.  You will have
 gone to Mars.  We guarantee
-that."|speech|McCLANE|M
+that."|speech|McCLANE|M|True
 91|QUAIL|"Is it in any way dangerous?
-I mean, the medical techniques?"|speech|QUAIL|M
+I mean, the medical techniques?"|speech|QUAIL|M|True
 92|McCLANE|"Not when you deal with
 qualified operators - like
-us."|speech|McCLANE|M
+us."|speech|McCLANE|M|True
 93||"He presses the button again and the normal office returns.
-Quail looks around, impressed."|stage direction||
-94|QUAIL|It's just - incredible.|speech|QUAIL|M
+Quail looks around, impressed."|stage direction|||
+94|QUAIL|It's just - incredible.|speech|QUAIL|M|True
 95|McCLANE|"And look at our follow-up
-program!"|speech|McCLANE|M
-96||He puts items on the desk as he talks.|stage direction||
-97||(continuing)|location||
+program!"|speech|McCLANE|M|True
+96||He puts items on the desk as he talks.|stage direction|||
+97||(continuing)|location|||
 98|McCLANE|"Space-flight ticket stub...
 passport... vaccination
 certificates... matchbooks
@@ -303,48 +303,48 @@ who you can call and discuss
 your trip with... by the way,
 we plant these things where
 you'll come across them at
-random in the future."|speech|McCLANE|M
+random in the future."|speech|McCLANE|M|True
 99|QUAIL|"But... I'll know I hired you.
 That'll destroy the whole
-illusion."|speech|QUAIL|M
-100||(smiling; self-|location||
-101||satisfied)|unknown||
+illusion."|speech|QUAIL|M|True
+100||(smiling; self-|location|||
+101||satisfied)|unknown|||
 102|McCLANE|"But you won't remember me, or
-having been here."|speech|McCLANE|M
-103|QUAIL|I won't?|speech|QUAIL|M
+having been here."|speech|McCLANE|M|True
+103|QUAIL|I won't?|speech|QUAIL|M|True
 104|McCLANE|"Your money back if you do!
-We've never paid out yet."|speech|McCLANE|M
-105||Quail slumps backs in his chair, overwhelmed.|stage direction||
-106||(continuing)|location||
+We've never paid out yet."|speech|McCLANE|M|True
+105||Quail slumps backs in his chair, overwhelmed.|stage direction|||
+106||(continuing)|location|||
 107|McCLANE|"And we have a special this
 month, for only two-hundred
-thousand dollars more."|speech|McCLANE|M
+thousand dollars more."|speech|McCLANE|M|True
 108||"At the press of a button, a list appears on the wall...
 A14  MILLIONAIRE PLAYBOY
 A15  SPORTS HERO
 A16  INDUSTRIAL TYCOON
-A17  INTELLIGENCE AGENT"|stage direction||
-109||(continuing)|location||
+A17  INTELLIGENCE AGENT"|stage direction|||
+109||(continuing)|location|||
 110|McCLANE|"You can have a new identity
 for the duration of the trip.
-Pick one."|speech|McCLANE|M
-111||"Quail's eyes linger on ""Intelligence Agent."""|stage direction||
+Pick one."|speech|McCLANE|M|True
+111||"Quail's eyes linger on ""Intelligence Agent."""|stage direction|||
 112|QUAIL|"""Intelligence Agent""... wouldn't
 that be dangerous?  I might
-attack...."|speech|QUAIL|M
-113||(airily)|location||
+attack...."|speech|QUAIL|M|True
+113||(airily)|location|||
 114|McCLANE|"No.  No.  You're a retired
 agent.  Mars was your last
 mission and you're never to
 break your cover.  But you'll
 have got the girl, killed the
 baddies, and saved the
-Universe.  Not bad, eh?"|speech|McCLANE|M
+Universe.  Not bad, eh?"|speech|McCLANE|M|True
 115|QUAIL|"I don't know... about the
 whole thing... it's all such
 a fake.  I won't really have
-gone.  I won't really...."|speech|QUAIL|M
-116||(kind but firm)|location||
+gone.  I won't really...."|speech|QUAIL|M|True
+116||(kind but firm)|location|||
 117|McCLANE|"Let's face it, Douglas, you,
 and millions of people like
 you have no chance of ever
@@ -352,9 +352,9 @@ getting to Mars and you'd
 never qualify as a secret
 agent for EIO.  This - REKALL
 - is the only way to achieve
-your dream."|speech|McCLANE|M
-118||He gets up and walks around to Quail's chair.|stage direction||
-119||(continuing)|location||
+your dream."|speech|McCLANE|M|True
+118||He gets up and walks around to Quail's chair.|stage direction|||
+119||(continuing)|location|||
 120|McCLANE|"Think about it, Douglas.
 Think, too, what a terrible
 boor a real holiday is.
@@ -362,24 +362,24 @@ Lost tickets, endless arguments,
 lousy hotels, missed connections,
 rotten weather... Rekall will
 supply you with perfect, happy
-memories."|speech|McCLANE|M
-121||Quail is thoughtful, willing to be totally convinced.|stage direction||
-122||9A      INT. QUAIL'S APARTMENT - NIGHT|unknown||
+memories."|speech|McCLANE|M|True
+121||Quail is thoughtful, willing to be totally convinced.|stage direction|||
+122||9A      INT. QUAIL'S APARTMENT - NIGHT|unknown|||
 123||"Quail is sitting, distracted, in an uncomfortable modern
 chair.  Kirsten is watching a near-pornographic film on
-TV.  She casually lights a cigarette."|stage direction||
-124|QUAIL|You know that's illegal.|speech|QUAIL|M
-125||KIRSTEN|unknown||
+TV.  She casually lights a cigarette."|stage direction|||
+124|QUAIL|You know that's illegal.|speech|QUAIL|M|True
+125||KIRSTEN|unknown|||
 126|QUAIL|"Yeah?  Who's going to report
-me?  You?... wimp...."|speech|QUAIL|M
-127||She watches a torrid love scene on the video.|stage direction||
-128||(continuing)|location||
+me?  You?... wimp...."|speech|QUAIL|M|True
+127||She watches a torrid love scene on the video.|stage direction|||
+128||(continuing)|location|||
 129|KIRSTEN|"Screwing around's illegal,
 too.  But just give me half
-a chance..."|speech|KIRSTEN|F
+a chance..."|speech|KIRSTEN|F|True
 130||"Quail looks at her with distaste.  His expression changes
-to one of resolve."|stage direction||
-131||10      INT. MEMORY STUDIO - DAY|unknown||
+to one of resolve."|stage direction|||
+131||10      INT. MEMORY STUDIO - DAY|unknown|||
 132||"Quail is stretched out on a plush reclining couch, alongside
 some strange-looking lab equipment, wearing a hospital-type
 smock.  In the b.g. hovers a TECHNICIAN, adjusting some
@@ -390,27 +390,27 @@ Quail looks a little concerned as he studies all the
 instrumentation next to him -- as one always does at the
 dentist's, looking at the drills.
 The door opens abruptly, in walks a cute-looking LITTLE
-OLD LADY, wearing a JOGGING SUIT.  (A RUTH GORDON-TYPE.)"|stage direction||
+OLD LADY, wearing a JOGGING SUIT.  (A RUTH GORDON-TYPE.)"|stage direction|||
 133|OLD LADY|"Hi, I'm Doctor Sophie Lull.
-Sorry I'm late."|speech|OLD LADY|?
-134||(walks toward|location||
-135||coat closet)|unknown||
-136|OLD LADY|I'll be right with you.|speech|OLD LADY|?
+Sorry I'm late."|speech|OLD LADY|?|
+134||(walks toward|location|||
+135||coat closet)|unknown|||
+136|OLD LADY|I'll be right with you.|speech|OLD LADY|?|
 137||"She dons a white medical smock that covers her jogging
-suit, then slings on heavy, lead-lined protective vest."|stage direction||
-138||(looking at|location||
+suit, then slings on heavy, lead-lined protective vest."|stage direction|||
+138||(looking at|location|||
 139||"instrument
-console)"|unknown||
-140|QUAIL|This really going to work?|speech|QUAIL|M
-141|LULL|It the Pope Martian?|speech|LULL|M
+console)"|unknown|||
+140|QUAIL|This really going to work?|speech|QUAIL|M|True
+141|LULL|It the Pope Martian?|speech|LULL|M|True
 142||"Lull's assistant, the TECHNICIAN in b.g., who had been
 steadily working on the instrumentation, now looks over
-at Lull."|stage direction||
-143||(at machine)|location||
-144|ERNIE (TECHNICIAN)|Okay -- that's it.|speech|ERNIE|M
+at Lull."|stage direction|||
+143||(at machine)|location|||
+144|ERNIE (TECHNICIAN)|Okay -- that's it.|speech|ERNIE|M|
 145||"Now, Lull extends a long rubber tube, a hypodermic needle
 attached to it.  Quail eyes it warily.  She swabs the back
-of his hand in preparation, notices his apprehension."|stage direction||
+of his hand in preparation, notices his apprehension."|stage direction|||
 146|LULL|"Now, just relax, kid.  This
 ain't gonna hurt.  Just a
 controlled drip of Narkadine.
@@ -420,168 +420,168 @@ real personal, just full
 details of yer private life
 so's we can tailor the
 wish-fulfillment program to
-your needs."|speech|LULL|M
+your needs."|speech|LULL|M|True
 147||"She injects the needle into his hand as she speaks, tapes
-it down."|stage direction||
-148||(continuing)|location||
+it down."|stage direction|||
+148||(continuing)|location|||
 149|LULL|"See?  Painless.  I didn't feel
 a thing.  Hey, you're a nice
 kid... you like a little
-somethin' extra?"|speech|LULL|M
-150||Quail, embarrassed, starting to go under, nods.|stage direction||
-151||(continuing;|location||
-152||pleased)|unknown||
+somethin' extra?"|speech|LULL|M|True
+150||Quail, embarrassed, starting to go under, nods.|stage direction|||
+151||(continuing;|location|||
+152||pleased)|unknown|||
 153|LULL|"Good!  Kid -- have I got a
 girl for you!  She's gonna
-like you.  You're good-lookin'."|speech|LULL|M
-154||(beat)|location||
-155|LULL|Gettin' sleepy?|speech|LULL|M
-156||(he nods)|location||
+like you.  You're good-lookin'."|speech|LULL|M|True
+154||(beat)|location|||
+155|LULL|Gettin' sleepy?|speech|LULL|M|True
+156||(he nods)|location|||
 157|LULL|"Good.  Now, what's the first
 thing you think of when you're
-thinkin' about Mars?"|speech|LULL|M
-158||(wistfully)|location||
+thinkin' about Mars?"|speech|LULL|M|True
+158||(wistfully)|location|||
 159|QUAIL|"Well... I'd like to see the
-Martian Sphinx..."|speech|QUAIL|M
+Martian Sphinx..."|speech|QUAIL|M|True
 160|LULL|"Okay -- you will, Dougle!  I
 want ya to start counting
 backwards from a hundred for
-me."|speech|LULL|M
-161||QUAIL|unknown||
-162||(sleepily)|location||
+me."|speech|LULL|M|True
+161||QUAIL|unknown|||
+162||(sleepily)|location|||
 163|LULL|"One hundred... ninety-nine...
 ninety-eight... ninety-seven...
-ninety-six... ninety-five...."|speech|LULL|M
+ninety-six... ninety-five...."|speech|LULL|M|True
 164||"His voice drops off; his eyes close.  Lull studies him,
 adjusts some instruments, then turns to Ernie, glancing
-briefly at a typed sheet in front of her."|stage direction||
+briefly at a typed sheet in front of her."|stage direction|||
 165|LULL|"Okay, Ernie, the trip to Mars;
 number sixty-two... and throw
 in that blonde... We'll give
-him a real good time."|speech|LULL|M
-166||ERNIE|unknown||
-167|LULL|Sixty-two... and... the blonde...|speech|LULL|M
-168||He takes two discs and inserts the first one into a machine.|stage direction||
+him a real good time."|speech|LULL|M|True
+166||ERNIE|unknown|||
+167|LULL|Sixty-two... and... the blonde...|speech|LULL|M|True
+168||He takes two discs and inserts the first one into a machine.|stage direction|||
 169|ERNIE|"Boy, is this one wild.  He
-won't want to come back."|speech|ERNIE|M
-170||Ernie inserts the second disk.|stage direction||
+won't want to come back."|speech|ERNIE|M|
+170||Ernie inserts the second disk.|stage direction|||
 171|LULL|"Dougie?  This Sophie Lull.
-Can ya hear me?"|speech|LULL|M
-172|QUAIL|...Sophie....|speech|QUAIL|M
+Can ya hear me?"|speech|LULL|M|True
+172|QUAIL|...Sophie....|speech|QUAIL|M|True
 173|LULL|"Good! ... I'm gonna ask ya
 a few more questions now.  Ya
 think you'll be able to
-answer 'em?"|speech|LULL|M
-174|QUAIL|...Yes....|speech|QUAIL|M
+answer 'em?"|speech|LULL|M|True
+174|QUAIL|...Yes....|speech|QUAIL|M|True
 175|LULL|"Attaboy!  To begin with, I
 wanna ask ya; -- You sex
 life.  How many orgasms a
-week?"|speech|LULL|M
-176||11      INT. McCLANE'S OFFICE - DAY|unknown||
+week?"|speech|LULL|M|True
+176||11      INT. McCLANE'S OFFICE - DAY|unknown|||
 177||"McClane has several file drawers open and is removing diverse
 objects and placing them on his desk.
 These items apparently are objects Rekall, Inc. intends
 to ""plant"" for some client of theirs to find (perhaps
 even Quail) -- as part of his fantasy.
 While he is putting these things on his desk, the PHONE
-BUZZES.  He answers it."|stage direction||
-178|McCLANE|Yes?|speech|McCLANE|M
-179||(filtered;|location||
-180||tense)|unknown||
+BUZZES.  He answers it."|stage direction|||
+178|McCLANE|Yes?|speech|McCLANE|M|True
+179||(filtered;|location|||
+180||tense)|unknown|||
 181|LULL (V.O.)|"Howie?  Listen, you'd better
-get in here."|speech|LULL|M
-182||(not too|location||
-183||concerned)|unknown||
-184|McCLANE|Not another schizoid embolism.|speech|McCLANE|M
-185||(filtered)|location||
-186|LULL (V.O.)|You'd better get in here.|speech|LULL|M
-187||12      INT. MEMORY STUDIO - DAY|unknown||
+get in here."|speech|LULL|M|True
+182||(not too|location|||
+183||concerned)|unknown|||
+184|McCLANE|Not another schizoid embolism.|speech|McCLANE|M|True
+185||(filtered)|location|||
+186|LULL (V.O.)|You'd better get in here.|speech|LULL|M|True
+187||12      INT. MEMORY STUDIO - DAY|unknown|||
 188||"McClane come quickly in, brushing the swinging door open.
 Lull and Ernie look up as he enters.  Quail lies on the
 couch, breathing slowly and regularly, his eyes closed.
 McClane looks queryingly at Lull, who motions him to
-silence."|stage direction||
-189||(bends over|location||
-190||Quail)|unknown||
-191|LULL|Quail?  Dougie, can you hear me?|speech|LULL|M
-192|QUAIL|Yes.|speech|QUAIL|M
-193|LULL|Tell McClane what you told us.|speech|LULL|M
+silence."|stage direction|||
+189||(bends over|location|||
+190||Quail)|unknown|||
+191|LULL|Quail?  Dougie, can you hear me?|speech|LULL|M|True
+192|QUAIL|Yes.|speech|QUAIL|M|True
+193|LULL|Tell McClane what you told us.|speech|LULL|M|True
 194||"McClane glances sharply at Lull, then turns to Quail.
 Quail's eyes open and scan the room.  They settle on
 McClane.  These eyes have changed:  they have become
 cold and steely.  In fact, Quail's entire personality
 seems to have changed -- his face has acquired a flint-
-edged hardness.  He is chillingly menacing."|stage direction||
-195||(a deadly|location||
-196||voice)|unknown||
+edged hardness.  He is chillingly menacing."|stage direction|||
+195||(a deadly|location|||
+196||voice)|unknown|||
 197|QUAIL|"All of you in this room are
-dead."|speech|QUAIL|M
-198||(not quite|location||
+dead."|speech|QUAIL|M|True
+198||(not quite|location|||
 199||"taking it
-seriously)"|unknown||
-200|McCLANE|What's he talking about?|speech|McCLANE|M
-201|QUAIL|You've broken my cover.|speech|QUAIL|M
-202|McCLANE|What is this?...|speech|McCLANE|M
-203||McClane's eyes flash angrily at Lull.|stage direction||
+seriously)"|unknown|||
+200|McCLANE|What's he talking about?|speech|McCLANE|M|True
+201|QUAIL|You've broken my cover.|speech|QUAIL|M|True
+202|McCLANE|What is this?...|speech|McCLANE|M|True
+203||McClane's eyes flash angrily at Lull.|stage direction|||
 204|LULL|"The Narkadine cracked a memory
-cap.  Mars --"|speech|LULL|M
-205||(she's scared)|location||
-206|LULL|He's really been there.|speech|LULL|M
+cap.  Mars --"|speech|LULL|M|True
+205||(she's scared)|location|||
+206|LULL|He's really been there.|speech|LULL|M|True
 207||"There is a chilly silence in the room as McClane digests
-this."|stage direction||
-208|McCLANE|Forced suppression?|speech|McCLANE|M
-209|ERNIE|With spontaneous breakthrough.|speech|ERNIE|M
-210|McCLANE|Holy shit.|speech|McCLANE|M
-211||They stare at Quail as if he's a ticking bomb.|stage direction||
-212||(coldly)|location||
+this."|stage direction|||
+208|McCLANE|Forced suppression?|speech|McCLANE|M|True
+209|ERNIE|With spontaneous breakthrough.|speech|ERNIE|M|
+210|McCLANE|Holy shit.|speech|McCLANE|M|True
+211||They stare at Quail as if he's a ticking bomb.|stage direction|||
+212||(coldly)|location|||
 213|QUAIL|"You've compromised the Sphinx
 Project.  You'll have to be
-silenced."|speech|QUAIL|M
-214||Now they're all panicked.|stage direction||
-215|McCLANE|Wait a minute.  Quail --|speech|McCLANE|M
-216|QUAIL|My name isn't Quail.|speech|QUAIL|M
+silenced."|speech|QUAIL|M|True
+214||Now they're all panicked.|stage direction|||
+215|McCLANE|Wait a minute.  Quail --|speech|McCLANE|M|True
+216|QUAIL|My name isn't Quail.|speech|QUAIL|M|True
 217|McCLANE|"Listen... whoever you are...
-sir...."|speech|McCLANE|M
-218||(almost|location||
-219||pleading)|unknown||
+sir...."|speech|McCLANE|M|True
+218||(almost|location|||
+219||pleading)|unknown|||
 220|McCLANE|"...This is all an accident.
 We'll destroy all the records.
 No one will know.  I swear it.
-Believe me."|speech|McCLANE|M
+Believe me."|speech|McCLANE|M|True
 221|QUAIL|"I believe you, but that won't
-stop E.T.O. from killing you."|speech|QUAIL|M
-222||The Rekall people stare at each other in quiet horror.|stage direction||
-223||(continuing)|location||
+stop E.T.O. from killing you."|speech|QUAIL|M|True
+222||The Rekall people stare at each other in quiet horror.|stage direction|||
+223||(continuing)|location|||
 224|QUAIL|"Killing you... killing you...
-killing you...."|speech|QUAIL|M
-225||His voice trails off, his eyes close.|stage direction||
-226||(intensely)|location||
+killing you...."|speech|QUAIL|M|True
+225||His voice trails off, his eyes close.|stage direction|||
+226||(intensely)|location|||
 227|LULL|"He wants a false memory
 implanted -- of a trip he
-really took."|speech|LULL|M
-228||(pause)|location||
+really took."|speech|LULL|M|True
+228||(pause)|location|||
 229|LULL|"Someone at Earth Intelligence
 Operations erased his memory.
 All he know was going to Mars
 meant something special to
-him."|speech|LULL|M
+him."|speech|LULL|M|True
 230|ERNIE|"What do we do?  Graft a false
 memory pattern over the real
-memory of the same thing?"|speech|ERNIE|M
-231||(shaking her|location||
+memory of the same thing?"|speech|ERNIE|M|
+231||(shaking her|location|||
 232||"head)
 Uh-uh... That could promote
 a partial breakthrough of
-the real trip."|unknown||
-233||(overlapping)|location||
+the real trip."|unknown|||
+233||(overlapping)|location|||
 234|McCLANE|"Revive him without any false
 memory implantation and get
-him out of here."|speech|McCLANE|M
+him out of here."|speech|McCLANE|M|True
 235|LULL|"Why don't we just wipe out
 the memory of his visit
-here?"|speech|LULL|M
-236||(nodding;|location||
-237||relieved)|unknown||
+here?"|speech|LULL|M|True
+236||(nodding;|location|||
+237||relieved)|unknown|||
 238|McCLANE|"Yes.  Good.  I'll destroy
 his file and cancel his fee.
 I have a feeling that the
@@ -590,47 +590,47 @@ he is, where he's been,
 where he's going and who we
 are, the better off we'll
 all be.  I'm taking a holiday.
-A real one."|speech|McCLANE|M
-239||He leaves.  The others stare after him, looking very grim.|stage direction||
-240||12A     INT. RECEPTION AREA OF REKALL - DAY|unknown||
+A real one."|speech|McCLANE|M|True
+239||He leaves.  The others stare after him, looking very grim.|stage direction|||
+240||12A     INT. RECEPTION AREA OF REKALL - DAY|unknown|||
 241||"A dazed and disoriented Douglas Quail comes out of an
 inner door and walks through the lobby towards the exit
 door.
 An attractive RECEPTIONIST, her bare breasts visible
 through a clear plastic blouse, watches him; she then
 looks toward McClane who has half-opened the door to view
-Quail's progress."|stage direction||
-242||12B     INT. ELEVATOR - DAY|unknown||
+Quail's progress."|stage direction|||
+242||12B     INT. ELEVATOR - DAY|unknown|||
 243||"Quail travels down.  Uncomprehendingly, he looks out at
-the city."|stage direction||
-244||12C     INT. BUILDING FOYER - DAY|unknown||
+the city."|stage direction|||
+244||12C     INT. BUILDING FOYER - DAY|unknown|||
 245||"Quail stumbles through the fairly crowded foyer, oblivious
 to anything around him.  A red-headed man may or may not be
-watching him.  He makes a phone call from a pocket phone."|stage direction||
-246||12D     INT. ROBOT TAXI CAB - AFTERNOON|unknown||
+watching him.  He makes a phone call from a pocket phone."|stage direction|||
+246||12D     INT. ROBOT TAXI CAB - AFTERNOON|unknown|||
 247||"Scene open on Quail, in the back of the cab; he looks
-around, slowly coming to his senses."|stage direction||
-248|QUAIL|Where am I?|speech|QUAIL|M
+around, slowly coming to his senses."|stage direction|||
+248|QUAIL|Where am I?|speech|QUAIL|M|True
 249|DRIVER|"Travelling south along Third
 Avenue, passing Fourty-third
-street."|speech|DRIVER|M
+street."|speech|DRIVER|M|
 250||"Although the driver's voice is a little mechanical (flat
 in tone) he is filmed from Quail's POV, and it isn't
-obvious he is anything other than an ordinary cab driver."|stage direction||
-251|QUAIL|Where am I going?|speech|QUAIL|M
+obvious he is anything other than an ordinary cab driver."|stage direction|||
+251|QUAIL|Where am I going?|speech|QUAIL|M|True
 252|DRIVER|"Thirty-three thirteen ""G""
 Street, Sector ""L"", Twin
 Towers, Apartment six-thirty-
-five."|speech|DRIVER|M
-253|QUAIL|How did I get here?|speech|QUAIL|M
+five."|speech|DRIVER|M|
+253|QUAIL|How did I get here?|speech|QUAIL|M|True
 254||"Camera now cuts to a shot in front of the driver.  He is
-a fairly human-like robot."|stage direction||
+a fairly human-like robot."|stage direction|||
 255|DRIVER|"I don not understand the
-question, sir or madam."|speech|DRIVER|M
-256|QUAIL|How did I get into this cab?|speech|QUAIL|M
+question, sir or madam."|speech|DRIVER|M|
+256|QUAIL|How did I get into this cab?|speech|QUAIL|M|True
 257|DRIVER|"You stepped into it in the
-normal manner, sir or madam."|speech|DRIVER|M
-258||15      INT. CORRIDOR OF QUAIL'S APARTMENT - DAY|unknown||
+normal manner, sir or madam."|speech|DRIVER|M|
+258||15      INT. CORRIDOR OF QUAIL'S APARTMENT - DAY|unknown|||
 259||"The reception area and hallway leading to the elevators is
 smart and clean, though not lavish.  A uniformed and armed
 DOORMAN is standing by the entrance door.
@@ -639,73 +639,73 @@ pull up and Quail alight and enter the building.  He nods
 to the doorman and approaches the elevators.  As he reaches
 them a MAN steps out from behind the camera.  A 2ND MAN
 enters from a door opposite the elevators.  Quail looks
-at them and becomes quite panicky."|stage direction||
-260|1ST AGENT|Aren't you the man from Mars?|speech|1ST AGENT|?
+at them and becomes quite panicky."|stage direction|||
+260|1ST AGENT|Aren't you the man from Mars?|speech|1ST AGENT|?|
 261||"He takes a modern, lethal gun from his pocket.  Quail turns,
-but the other man is behind him."|stage direction||
+but the other man is behind him."|stage direction|||
 262|2ND AGENT|"Don't give us a reason to
-kill you."|speech|2ND AGENT|?
+kill you."|speech|2ND AGENT|?|
 263||"Quail looks toward the doorman, who is paying little
 attention to the events.  As the two men edge Quail towards
-the door, he call out..."|stage direction||
+the door, he call out..."|stage direction|||
 264|QUAIL|"Mr. Zimmer...Mr. Zimmer...
-help me... they're..."|speech|QUAIL|M
-265||But the doorman turns calmly away.|stage direction||
-266||16      INT. BASEMENT CAR PARK - DAY|unknown||
+help me... they're..."|speech|QUAIL|M|True
+265||But the doorman turns calmly away.|stage direction|||
+266||16      INT. BASEMENT CAR PARK - DAY|unknown|||
 267||"The two men lead Quail past a number of cars to their own
-vehicle."|stage direction||
-268|QUAIL|Where are you taking me?|speech|QUAIL|M
+vehicle."|stage direction|||
+268|QUAIL|Where are you taking me?|speech|QUAIL|M|True
 269|1ST AGENT|"You told everyone at Rekall
 about you trip to Mars.
 Where you went, who you worked
-for, what you did --"|speech|1ST AGENT|?
+for, what you did --"|speech|1ST AGENT|?|
 270|QUAIL|"But I didn't... Are you telling
 me... I did go to Mars?  I
-don't remember?"|speech|QUAIL|M
+don't remember?"|speech|QUAIL|M|True
 271|1ST AGENT|"You've remembered too much.
 The Sphinx Project, for a
-start...."|speech|1ST AGENT|?
-272||(confused;|location||
+start...."|speech|1ST AGENT|?|
+272||(confused;|location|||
 273||"remembers only
-fragments)"|unknown||
+fragments)"|unknown|||
 274|QUAIL|"Sphinx?... No, no, I don't,
 I... What about the people
 at Rekall?  I don't recall
 Rekall but you said if they
 know what I did?  Why don't
 you ask them?  They'll tell
-you I didn't..."|speech|QUAIL|M
-275|1ST AGENT|They've been taken care of.|speech|1ST AGENT|?
-276|QUAIL|What do you mean?|speech|QUAIL|M
+you I didn't..."|speech|QUAIL|M|True
+275|1ST AGENT|They've been taken care of.|speech|1ST AGENT|?|
+276|QUAIL|What do you mean?|speech|QUAIL|M|True
 277||"Neither man bothers answering.  They arrive at their car
-and open the door for Quail.  He hesitates."|stage direction||
-278||(continuing)|location||
+and open the door for Quail.  He hesitates."|stage direction|||
+278||(continuing)|location|||
 279|QUAIL|"What are you going to do with
-me?"|speech|QUAIL|M
-280|1ST AGENT|Get in the car.|speech|1ST AGENT|?
+me?"|speech|QUAIL|M|True
+280|1ST AGENT|Get in the car.|speech|1ST AGENT|?|
 281||"He slaps Quail hard across the face.  Quail is terrified.
-He is tearful with fear."|stage direction||
+He is tearful with fear."|stage direction|||
 282|QUAIL|"My God!  No!  You're going to
-kill me!"|speech|QUAIL|M
-283||He cringes.  His hands across his face.|stage direction||
-284||1ST AGENT|unknown||
+kill me!"|speech|QUAIL|M|True
+283||He cringes.  His hands across his face.|stage direction|||
+284||1ST AGENT|unknown|||
 285|QUAIL|"No one's going to kill you if
 [you do what you're told.]
 We're visiting E.I.O. for some
 new tests.  Now get in, or do
-we start playing rough?"|speech|QUAIL|M
+we start playing rough?"|speech|QUAIL|M|True
 286|QUAIL|"No!  It's not my fault!  You
-can't do it!"|speech|QUAIL|M
+can't do it!"|speech|QUAIL|M|True
 287||"They start to force him into the car physically.
 Suddenly, Quail stops cringing.  the FEAR DISAPPEARS FROM
-HIS FACE, and is replaced by an odd, thoughtful expression."|stage direction||
-288||(continuing)|location||
-289|QUAIL|Wait a minute, I remember --|speech|QUAIL|M
-290||1ST AGENT|unknown||
+HIS FACE, and is replaced by an odd, thoughtful expression."|stage direction|||
+288||(continuing)|location|||
+289|QUAIL|Wait a minute, I remember --|speech|QUAIL|M|True
+290||1ST AGENT|unknown|||
 291|QUAIL|"What, Quail?  What do you
-remember?"|speech|QUAIL|M
+remember?"|speech|QUAIL|M|True
 292|QUAIL|"On Mars... they tried to kill
-me... And...."|speech|QUAIL|M
+me... And...."|speech|QUAIL|M|True
 293||"QUAIL TRANSFORMS INTO A HIGHLY SKILLED KILLING MACHINE.
 In an instant, he karate-chops both agents across the
 windpipe, and they crumple to the ground.
@@ -713,64 +713,64 @@ Quail steps back.  He stares at the two bodies, incredulous;
 then stares at his own deadly HANDS.  It is as though they
 belong to someone else.
 Then, leaving the two agents sprawled across the alley, he
-races back into the basement door of his building."|stage direction||
-294||18      INT. QUAIL'S APARTMENT - EVENING|unknown||
+races back into the basement door of his building."|stage direction|||
+294||18      INT. QUAIL'S APARTMENT - EVENING|unknown|||
 295||"Kirsten is watching another pornographic video when Quail
-bursts in.  He is still disoriented."|stage direction||
+bursts in.  He is still disoriented."|stage direction|||
 296|QUAIL|"Did you know I've been to
-Mars?"|speech|QUAIL|M
-297||Kirsten gets up and turns off the movie.|stage direction||
-298|KIRSTEN|What!  This stupid obsess...|speech|KIRSTEN|F
-299||(interrupting)|location||
+Mars?"|speech|QUAIL|M|True
+297||Kirsten gets up and turns off the movie.|stage direction|||
+298|KIRSTEN|What!  This stupid obsess...|speech|KIRSTEN|F|True
+299||(interrupting)|location|||
 300|QUAIL|"I think I've been.  I vaguely
-recall..."|speech|QUAIL|M
-301|KIRSTEN|Doug, you've got to forget...|speech|KIRSTEN|F
-302||(interrupting)|location||
+recall..."|speech|QUAIL|M|True
+301|KIRSTEN|Doug, you've got to forget...|speech|KIRSTEN|F|True
+302||(interrupting)|location|||
 303|QUAIL|"Forget?  Remembering is the
 problem I must've been
 to one of those artificial
-memory places..."|speech|QUAIL|M
-304|KIRSTEN|Oh my God...|speech|KIRSTEN|F
+memory places..."|speech|QUAIL|M|True
+304|KIRSTEN|Oh my God...|speech|KIRSTEN|F|True
 305|QUAIL|"But something went wrong...
 something about a real
 memory... and then those
-men...  tried to kill me."|speech|QUAIL|M
-306|KIRSTEN|What men?  Doug, you're crazy.|speech|KIRSTEN|F
-307||She starts to mix a drink from a well-stocked cabinet.|stage direction||
-308||(continuing)|location||
+men...  tried to kill me."|speech|QUAIL|M|True
+306|KIRSTEN|What men?  Doug, you're crazy.|speech|KIRSTEN|F|True
+307||She starts to mix a drink from a well-stocked cabinet.|stage direction|||
+308||(continuing)|location|||
 309|KIRSTEN|"You're here now.  They didn't
-kill you."|speech|KIRSTEN|F
+kill you."|speech|KIRSTEN|F|True
 310|QUAIL|"No.  That's what's so amazing.
-I killed them.  I think..."|speech|QUAIL|M
-311||Kirsten stops pouring her drink and look at him sharply.|stage direction||
-312|KIRSTEN|Where?  Where are they?|speech|KIRSTEN|F
-313||Quail points down with his finger.|stage direction||
-314||(continuing)|location||
+I killed them.  I think..."|speech|QUAIL|M|True
+311||Kirsten stops pouring her drink and look at him sharply.|stage direction|||
+312|KIRSTEN|Where?  Where are they?|speech|KIRSTEN|F|True
+313||Quail points down with his finger.|stage direction|||
+314||(continuing)|location|||
 315|KIRSTEN|"Doug!  It's something they
 put into your mind at the
 memory place.  Fantasies.
-That's their business."|speech|KIRSTEN|F
-316||She sips her drink.|stage direction||
-317||(continuing)|location||
+That's their business."|speech|KIRSTEN|F|True
+316||She sips her drink.|stage direction|||
+317||(continuing)|location|||
 318|KIRSTEN|"You're a computer operator.
 You're a bore.  You're a
-wimp.  You're not a killer."|speech|KIRSTEN|F
+wimp.  You're not a killer."|speech|KIRSTEN|F|True
 319|QUAIL|"I'm involved somehow with
 E.I.O.  It's true.  It's no
-fantasy."|speech|QUAIL|M
+fantasy."|speech|QUAIL|M|True
 320||"He walks around the apartment drawing curtains and putting
-out the lights."|stage direction||
+out the lights."|stage direction|||
 321|KIRSTEN|"Doug, I want you to see a
 doctor.  Now Alec and Shirley
 Turnbull have a good man.  He
 helped Alec through his
-breakdown."|speech|KIRSTEN|F
+breakdown."|speech|KIRSTEN|F|True
 322|QUAIL|"For fuck's sake, this is no
-breakdown!"|speech|QUAIL|M
+breakdown!"|speech|QUAIL|M|True
 323||"Kirsten is taken aback at his use of language.  He strides
 into the bathroom and slams the door.  She turns on one
-lamp, goes to a telephone and dials."|stage direction||
-324||19      INT. BATHROOM - TWILIGHT|unknown||
+lamp, goes to a telephone and dials."|stage direction|||
+324||19      INT. BATHROOM - TWILIGHT|unknown|||
 325||"Quail takes a washcloth, turns the hot water up full and
 soaks the cloth under the steaming water.  Using it as a
 compress, he presses it against his face and his neck, to
@@ -781,8 +781,8 @@ The instant he does this, a blinding white BURST OF LIGHT
 comes arcing into the bathroom, and the back wall crinkles
 and CHARS into a swatch of blackness.
 QUAIL DIVES OUT THE DOOR, just as ANOTHER BOLT incinerates
-the spot where he was standing."|stage direction||
-326||20      INT. LIVING ROOM - TWILIGHT|unknown||
+the spot where he was standing."|stage direction|||
+326||20      INT. LIVING ROOM - TWILIGHT|unknown|||
 327||"THE ROOM IS IN TOTAL DARKNESS.  The only thing visible is
 the pale rectangle of the balcony window, with the curtains
 drawn over it.
@@ -794,101 +794,101 @@ The LIGHT COMES ON.  Quail is standing with one hand on the
 lamp, and the other twisting KIRSTEN's arm up behind her
 back.  A pistol lies on the floor.  Quail is totally stunned.
 He releases her arm, shoving her away from him, at the same
-time scooping up the pistol."|stage direction||
+time scooping up the pistol."|stage direction|||
 328|QUAIL|"My God!  Did you say I need a
-psychiatrist?"|speech|QUAIL|M
-329||(coolly)|location||
+psychiatrist?"|speech|QUAIL|M|True
+329||(coolly)|location|||
 330|KIRSTEN|"I haven't seen you move that
-fast since I've known you."|speech|KIRSTEN|F
-331||(outraged)|location||
+fast since I've known you."|speech|KIRSTEN|F|True
+331||(outraged)|location|||
 332|QUAIL|"How could you do it?  After
-eight years!"|speech|QUAIL|M
-333|KIRSTEN|I'm not your wife, Quail.|speech|KIRSTEN|F
+eight years!"|speech|QUAIL|M|True
+333|KIRSTEN|I'm not your wife, Quail.|speech|KIRSTEN|F|True
 334|QUAIL|"Not my wife!  You are out of
-your mind."|speech|QUAIL|M
-335||(indifferent;|location||
+your mind."|speech|QUAIL|M|True
+335||(indifferent;|location|||
 336||"nursing her
-arm)"|unknown||
+arm)"|unknown|||
 337|KIRSTEN|"It's a false memory implant.
 I never saw you before six
-weeks ago."|speech|KIRSTEN|F
-338||Quail is totally disoriented.|stage direction||
-339|QUAIL|Why are you lying like this?|speech|QUAIL|M
+weeks ago."|speech|KIRSTEN|F|True
+338||Quail is totally disoriented.|stage direction|||
+339|QUAIL|Why are you lying like this?|speech|QUAIL|M|True
 340|KIRSTEN|"No, Quail.  It's true.  You
-work for E.I.O.  So do I."|speech|KIRSTEN|F
+work for E.I.O.  So do I."|speech|KIRSTEN|F|True
 341||"As she speaks, she walks to a picture on the wall and from
 behind it pulls out a small wallet.  She flips it open to
 show him her E.I.O. badge.  He looks down uncomprehendingly
-at the holographic lettering ""Earth Intelligence Organisation""."|stage direction||
-342||(indicating their|location||
-343||surroundings)|unknown||
-344|QUAIL|But why all of this?|speech|QUAIL|M
-345||(shrugging)|location||
+at the holographic lettering ""Earth Intelligence Organisation""."|stage direction|||
+342||(indicating their|location|||
+343||surroundings)|unknown|||
+344|QUAIL|But why all of this?|speech|QUAIL|M|True
+345||(shrugging)|location|||
 346|KIRSTEN|"We had to watchdog you...make
 sure the erasure took.  A wife
-seemed like a good idea."|speech|KIRSTEN|F
+seemed like a good idea."|speech|KIRSTEN|F|True
 347|QUAIL|"But I remember it!  All of
-it!... Us!"|speech|QUAIL|M
-348|KIRSTEN|All implanted.|speech|KIRSTEN|F
+it!... Us!"|speech|QUAIL|M|True
+348|KIRSTEN|All implanted.|speech|KIRSTEN|F|True
 349|QUAIL|"Our friends... my work...
-eight years."|speech|QUAIL|M
+eight years."|speech|QUAIL|M|True
 350|KIRSTEN|"The job's real -- you've had
 is six weeks -- since you got
-back from Mars."|speech|KIRSTEN|F
-351||He sits down, holds his hand to his head.|stage direction||
-352||(continuing)|location||
+back from Mars."|speech|KIRSTEN|F|True
+351||He sits down, holds his hand to his head.|stage direction|||
+352||(continuing)|location|||
 353|KIRSTEN|"It's all a fabrication, Quail.
-Everything you know."|speech|KIRSTEN|F
+Everything you know."|speech|KIRSTEN|F|True
 354|QUAIL|"This is crazy!  If all my
 memories are false, who am
 I?  What am I?  Jesus... it's
-like I don't exist."|speech|QUAIL|M
-355|KIRSTEN|You exist, all right.|speech|KIRSTEN|F
-356||(very cold)|location||
-357|KIRSTEN|That's the problem.|speech|KIRSTEN|F
+like I don't exist."|speech|QUAIL|M|True
+355|KIRSTEN|You exist, all right.|speech|KIRSTEN|F|True
+356||(very cold)|location|||
+357|KIRSTEN|That's the problem.|speech|KIRSTEN|F|True
 358||"A pause as Quail mentally gropes frantically, for what to
-do next."|stage direction||
+do next."|stage direction|||
 359|QUAIL|"Why did you try to kill me?
-Why does E.I.O. want me dead?"|speech|QUAIL|M
+Why does E.I.O. want me dead?"|speech|QUAIL|M|True
 360|KIRSTEN|"They don't particularly.  That
 was my idea.  This assignment was
 boring me to death.  The
 personality they gave you
-wasn't too thrilling."|speech|KIRSTEN|F
+wasn't too thrilling."|speech|KIRSTEN|F|True
 361|QUAIL|"Well, what did I do on Mars
 that they have to keep me from
-telling?"|speech|QUAIL|M
+telling?"|speech|QUAIL|M|True
 362|KIRSTEN|"I've no idea.  I just work
-here."|speech|KIRSTEN|F
+here."|speech|KIRSTEN|F|True
 363|QUAIL|"All right... I'm leaving.
-Don't try and follow me --"|speech|QUAIL|M
+Don't try and follow me --"|speech|QUAIL|M|True
 364|KIRSTEN|"I don't have to follow you.
 You can't get away from E.I.O.
-Nobody does."|speech|KIRSTEN|F
-365||Quail looks at her as if seeing her for the first time.|stage direction||
+Nobody does."|speech|KIRSTEN|F|True
+365||Quail looks at her as if seeing her for the first time.|stage direction|||
 366|QUAIL|"No wonder you got the role as
-my bitchy wife -- type casting."|speech|QUAIL|M
+my bitchy wife -- type casting."|speech|QUAIL|M|True
 367||"He leaves.  Kirsten smiles secretively.  She goes to a
 drawer, opens it and removes a tiny instrument that looks
 like a TV channel-changer.  There is a very small light
 on the instrument, which begins flashing on and off, as
-the instrument  begins to make BEEPING SOUNDS."|stage direction||
-368||21      EXT. STREET OUTSIDE QUAIL'S APARTMENT - NIGHT|unknown||
+the instrument  begins to make BEEPING SOUNDS."|stage direction|||
+368||21      EXT. STREET OUTSIDE QUAIL'S APARTMENT - NIGHT|unknown|||
 369||"Quail walks briskly out onto the street, controlling his
 paces, trying not to look suspicious.  After a beat, he
-heads for the nearest subway entrance."|stage direction||
-370||22      INT. SUBWAY STATION - NIGHT|unknown||
+heads for the nearest subway entrance."|stage direction|||
+370||22      INT. SUBWAY STATION - NIGHT|unknown|||
 371||"Now underground, Quail tries to blend in with the other
-subway people.  He heads toward the weapons check."|stage direction||
-372||23      EXT. STREET SUBWAY ENTRANCE - NIGHT|unknown||
+subway people.  He heads toward the weapons check."|stage direction|||
+372||23      EXT. STREET SUBWAY ENTRANCE - NIGHT|unknown|||
 373||"An OFFICIAL VEHICLE slams to a halt next to the subway
-entrance and a whole load of INTENSE MEN pours out of it."|stage direction||
-374||24      INT. SUBWAY - NIGHT|unknown||
+entrance and a whole load of INTENSE MEN pours out of it."|stage direction|||
+374||24      INT. SUBWAY - NIGHT|unknown|||
 375||"Quail now shuffles along in a lineup of people waiting
 to get through the WEAPONS CHECK.  He tries to control
 his nervousness.  He passes.  The guard smiles at him,
-pleased to see he has remembered his gun."|stage direction||
-376||25      INT. SUBWAY - NIGHT|unknown||
+pleased to see he has remembered his gun."|stage direction|||
+376||25      INT. SUBWAY - NIGHT|unknown|||
 377||"All the men with guns drawn come pouring down the subway
 stairs.  The SUBWAY COPS and WEAPONS CHECK are stunned to
 see four large men brandishing guns push their way through
@@ -897,257 +897,257 @@ gunman flashes a HOLOGRAPHIC BADGE ENCASED IN PLASTIC at
 them.
 The gunman reach the bottom of the stairs and race closer
 to the subway train, which is just departing.  The men
-halt abruptly."|stage direction||
-378|FIRST GUNMAN|Fuck it!|speech|FIRST GUNMAN|?
+halt abruptly."|stage direction|||
+378|FIRST GUNMAN|Fuck it!|speech|FIRST GUNMAN|?|
 379||"The second gunman adjusts a small plug - a radio receiver -
-in his ear."|stage direction||
+in his ear."|stage direction|||
 380|SECOND GUNMAN (EARPLUG WEARER)|"We won't be able to track him
 again until he comes up above
-ground!"|speech|SECOND GUNMAN|M
-381||26      INT. SUBWAY CAR - NIGHT|unknown||
+ground!"|speech|SECOND GUNMAN|M|
+381||26      INT. SUBWAY CAR - NIGHT|unknown|||
 382||"Quail sits in the subway car as it barrels through the
 night, not knowing exactly where he will go.  He is
-confused, distraught.  A commercial comes onto the video."|stage direction||
+confused, distraught.  A commercial comes onto the video."|stage direction|||
 383|TV AS VOICE OVER|"Tired?  Exhausted?  Need a
 vacation?  Don't settle for
 memories, experience the real
 thing.  Daily departures on the
 space shuttle to Mars.  Visit
-the wonders of...."|speech|TV AS VOICE OVER|?
-384||27      EXT. SUBWAY STOP - NIGHT|unknown||
+the wonders of...."|speech|TV AS VOICE OVER|?|
+384||27      EXT. SUBWAY STOP - NIGHT|unknown|||
 385||"Quail emerges from underground and looks around.  The
-streets are almost deserted."|stage direction||
-386||28      INT. MOVING OFFICAL VEHICLE - NIGHT|unknown||
+streets are almost deserted."|stage direction|||
+386||28      INT. MOVING OFFICAL VEHICLE - NIGHT|unknown|||
 387||"THE GUNMEN SIT IN THE OV.  The one with the ear plug
-[suddenly talks.]"|stage direction||
+[suddenly talks.]"|stage direction|||
 388|EARPLUG WEARER|"Coming in again.  Loud and
-clear."|speech|EARPLUG WEARER|?
+clear."|speech|EARPLUG WEARER|?|
 389||"He looks down at an illuminated street map built into the
-car's dashboard."|stage direction||
-390||28A     EXT. SUBWAY STOP - NIGHT|unknown||
+car's dashboard."|stage direction|||
+390||28A     EXT. SUBWAY STOP - NIGHT|unknown|||
 391||"A cab comes into view.  Quail quickly hails it and jumps
-in.  Cab moves off."|stage direction||
-392||28B     INT. CAB - NIGHT|unknown||
+in.  Cab moves off."|stage direction|||
+392||28B     INT. CAB - NIGHT|unknown|||
 393||"Quail is still pondering what to do next.  He glances out
 one window, though not at anything in particular.  Suddenly,
 the silence is shattered as bullets rip through the window
-on the other side.  Quail ducks to the floor."|stage direction||
-394||28C     EXT. CAB - NIGHT|unknown||
+on the other side.  Quail ducks to the floor."|stage direction|||
+394||28C     EXT. CAB - NIGHT|unknown|||
 395||"A wide shot shows that the cab is being fired on by a man
 leaning from the window of an official patrol vehicle.  He
 is aiming at the tires and driver, rather than directly at
-Quail."|stage direction||
-396||28D     INT. CAB - NIGHT|unknown||
-397||Bullets are still pouring in.|stage direction||
-398||(unemotionally)|location||
+Quail."|stage direction|||
+396||28D     INT. CAB - NIGHT|unknown|||
+397||Bullets are still pouring in.|stage direction|||
+398||(unemotionally)|location|||
 399|ROBOT DRIVER|"You are being fired on, sir
 or madam, please leave the
-cab at once."|speech|ROBOT DRIVER|M
+cab at once."|speech|ROBOT DRIVER|M|
 400||"From the floor, Quail pushes the door handle and rolls
 out onto the street.  The pursuing car occupants fail to
-notice his exit."|stage direction||
-401||28E     EXT. STREETS - NIGHT|unknown||
+notice his exit."|stage direction|||
+401||28E     EXT. STREETS - NIGHT|unknown|||
 402||"Cars continue, as Quail picks himself up from the gutter
-and moves off down a narrow side street."|stage direction||
-403||28F     INT. CAB - NIGHT|unknown||
-404|ROBOT DRIVER|[Please....]|speech|ROBOT DRIVER|M
+and moves off down a narrow side street."|stage direction|||
+403||28F     INT. CAB - NIGHT|unknown|||
+404|ROBOT DRIVER|[Please....]|speech|ROBOT DRIVER|M|
 405||"Bullets rip into the robot driver's neck, severing the
 head from the body.  The head hits the window then bounces
-back onto the front seat.  It continues talking."|stage direction||
-406||(continuing)|location||
+back onto the front seat.  It continues talking."|stage direction|||
+406||(continuing)|location|||
 407|ROBOT DRIVER|"...leave the cab as bullets
 are hitting the vehicle in
-considerable quantities."|speech|ROBOT DRIVER|M
-408||28G     EXT. STREETS - NIGHT|unknown||
+considerable quantities."|speech|ROBOT DRIVER|M|
+408||28G     EXT. STREETS - NIGHT|unknown|||
 409||"The taxi mounts the footpath and smashes through the display
 window of a store.  Clothes models are scattered and broken.
 When the noise abates, the severed head of the robot driver
-is lying among the dummies."|stage direction||
+is lying among the dummies."|stage direction|||
 410|ROBOT DRIVER|"This company, sir or madam,
 will institute legal action
-for damages..."|speech|ROBOT DRIVER|M
-411||"29      EXT. STREET - ""END OF THE LINE"" HOTEL - NIGHT"|unknown||
+for damages..."|speech|ROBOT DRIVER|M|
+411||"29      EXT. STREET - ""END OF THE LINE"" HOTEL - NIGHT"|unknown|||
 412||"Quail emerges from the side street and sees ""End of the
 Line"" Hotel.  It is clean, bland, middle class.  He quickly
-crosses the road and enters."|stage direction||
-413||"29A     INT. ""END OF THE LINE"" HOTEL LOBBY - NIGHT"|unknown||
+crosses the road and enters."|stage direction|||
+413||"29A     INT. ""END OF THE LINE"" HOTEL LOBBY - NIGHT"|unknown|||
 414||"The foyer is brightly lit and empty.  Quail approaches the
 DESK CLERK, who is reading a book.  ""Dr. No"", marked, in
-flowing script, ""from the classic series""."|stage direction||
-415||(without looking|location||
-416||up)|unknown||
-417|DESK CLERK|Help you, sir?|speech|DESK CLERK|?
-418||(handing over|location||
-419||money)|unknown||
-420|QUAIL|A room for the night.|speech|QUAIL|M
-421||(reluctantly|location||
+flowing script, ""from the classic series""."|stage direction|||
+415||(without looking|location|||
+416||up)|unknown|||
+417|DESK CLERK|Help you, sir?|speech|DESK CLERK|?|
+418||(handing over|location|||
+419||money)|unknown|||
+420|QUAIL|A room for the night.|speech|QUAIL|M|True
+421||(reluctantly|location|||
 422||"putting down
-the book)"|unknown||
-423|DESK CLERK|ID.|speech|DESK CLERK|?
-424||(handing over|location||
-425||money)|unknown||
+the book)"|unknown|||
+423|DESK CLERK|ID.|speech|DESK CLERK|?|
+424||(handing over|location|||
+425||money)|unknown|||
 426|QUAIL|"Here's ten thousand.  Forget
-the ID."|speech|QUAIL|M
+the ID."|speech|QUAIL|M|True
 427||"DESK CLERK looks up at him, with interest.  His hand
-hovers over the money."|stage direction||
-428||(continuing)|location||
+hovers over the money."|stage direction|||
+428||(continuing)|location|||
 429|QUAIL|"I have a liaison with a
-lady... and I'm married..."|speech|QUAIL|M
+lady... and I'm married..."|speech|QUAIL|M|True
 430|DESK CLERK|"I understand, sir.  Nothing
 like a bit on the side, eh?
 Bit of fugitive flesh.  The
 greatest aphrodisiac is a new
-body, wouldn't you say, sir?"|speech|DESK CLERK|?
+body, wouldn't you say, sir?"|speech|DESK CLERK|?|
 431||"Quail looks at him with distaste but is only anxious to
-be given the key to his room.  He says nothing."|stage direction||
-432||"30      INT. ""END OF THE LINE"" HOTEL ROOM - NIGHT"|unknown||
+be given the key to his room.  He says nothing."|stage direction|||
+432||"30      INT. ""END OF THE LINE"" HOTEL ROOM - NIGHT"|unknown|||
 433||"Quail unlocks the door and enters.  No sooner does he
 relock the door then THE PHONE RINGS.  He freezes, stares
-at it for three rings, then picks it up."|stage direction||
-434||(into receiver)|location||
+at it for three rings, then picks it up."|stage direction|||
+434||(into receiver)|location|||
 435|QUAIL|"I told you, I don't want to
-be disturbed."|speech|QUAIL|M
-436||(filtered)|location||
+be disturbed."|speech|QUAIL|M|True
+436||(filtered)|location|||
 437|TELEPHONE VOICE|"If you want to live, don't
-hand up."|speech|TELEPHONE VOICE|?
-438||Quail is stunned.  He says nothing, but doesn't hang up.|stage direction||
-439||(continuing;|location||
-440||filtered)|unknown||
+hand up."|speech|TELEPHONE VOICE|?|True
+438||Quail is stunned.  He says nothing, but doesn't hang up.|stage direction|||
+439||(continuing;|location|||
+440||filtered)|unknown|||
 441|TELEPHONE VOICE|"They've got you bugged...
 They're gonna find you.
 Faster than you can say ""Back
-Rodgers""."|speech|TELEPHONE VOICE|?
-442||(quickly)|unknown||
+Rodgers""."|speech|TELEPHONE VOICE|?|True
+442||(quickly)|unknown|||
 443|TELEPHONE VOICE|"And don't bother shaking down
 your clothes -- the monitor
-is embedded in your skull."|speech|TELEPHONE VOICE|?
-444||(reeling)|location||
+is embedded in your skull."|speech|TELEPHONE VOICE|?|True
+444||(reeling)|location|||
 445|QUAIL|"Who are you?  What the hell
-is this?"|speech|QUAIL|M
-446||30A     INT. BAR BASEMENT - NIGHT|unknown||
+is this?"|speech|QUAIL|M|True
+446||30A     INT. BAR BASEMENT - NIGHT|unknown|||
 447||"The man telephoning Quail is calling from a bar.  Occasion-
 ally people pass him on their way to the toilets.  He is
 youngish and conservatively dressed.  He speaks rapidly
-and urgently."|stage direction||
+and urgently."|stage direction|||
 448|TELEPHONE VOICE|"Take a wet towel and wrap it
 around your head.  That will
 deaden the signal.  It'll
 take longer for them to
-pinpoint you."|speech|TELEPHONE VOICE|?
-449||30B     INT QUAIL'S ROOM - NIGHT|unknown||
-450|QUAIL|Why should I trust you?|speech|QUAIL|M
-451||(filtered)|location||
+pinpoint you."|speech|TELEPHONE VOICE|?|True
+449||30B     INT QUAIL'S ROOM - NIGHT|unknown|||
+450|QUAIL|Why should I trust you?|speech|QUAIL|M|True
+451||(filtered)|location|||
 452|TELEPHONE VOICE|"There's a real old saying -
 ""Beggars can't be choosers"".
-Go and soak your head!"|speech|TELEPHONE VOICE|?
-453||Quail puts the phone down and rushes to the bathroom.|stage direction||
-454||30B1    INT. PATROL CAR - NIGHT|unknown||
+Go and soak your head!"|speech|TELEPHONE VOICE|?|True
+453||Quail puts the phone down and rushes to the bathroom.|stage direction|||
+454||30B1    INT. PATROL CAR - NIGHT|unknown|||
 455||"The earphone wearer and driver are moving in on the signal
 generated by Quail's bug.  Suddenly, the small illuminated
-cross on the dashboard map cuts out."|stage direction||
-456|EARPHONE WEARER|Shit!|speech|EARPHONE WEARER|?
-457||DRIVER|unknown||
-458|EARPHONE WEARER|Cut the language, will ya?|speech|EARPHONE WEARER|?
-459||EARPHONE WEARER|unknown||
-460|EARPHONE WEARER|It's gone!  Some...malfunction...|speech|EARPHONE WEARER|?
-461||Unscientifically, he prod the screen.|stage direction||
-462||DRIVER|unknown||
-463||(world-weary air)|location||
+cross on the dashboard map cuts out."|stage direction|||
+456|EARPHONE WEARER|Shit!|speech|EARPHONE WEARER|?|
+457||DRIVER|unknown|||
+458|EARPHONE WEARER|Cut the language, will ya?|speech|EARPHONE WEARER|?|
+459||EARPHONE WEARER|unknown|||
+460|EARPHONE WEARER|It's gone!  Some...malfunction...|speech|EARPHONE WEARER|?|
+461||Unscientifically, he prod the screen.|stage direction|||
+462||DRIVER|unknown|||
+463||(world-weary air)|location|||
 464|EARPHONE WEARER|"Toldya the Martian assembled
-[stuff don't work.]"|speech|EARPHONE WEARER|?
-465||30B2    INT. QUAIL'S ROOM - NIGHT|unknown||
+[stuff don't work.]"|speech|EARPHONE WEARER|?|
+465||30B2    INT. QUAIL'S ROOM - NIGHT|unknown|||
 466||"Quail rushes back into the room with a wet towel,
 turban-like, wrapped around his head.  He rapidly picks
-up the phone."|stage direction||
-467|QUAIL|Keep talking.|speech|QUAIL|M
-468||(filtered)|location||
+up the phone."|stage direction|||
+467|QUAIL|Keep talking.|speech|QUAIL|M|True
+468||(filtered)|location|||
 469|TELEPHONE VOICE|"Head over to Skid Row -- to
 the Lucky Stub Pawnshop --
 corner of Park Avenue and
 Fifty-eighth.  Tell the man
 you're Mr. Hotchkiss; you
 came for your Grecian
-candlesticks."|speech|TELEPHONE VOICE|?
-470||(infuriated)|location||
+candlesticks."|speech|TELEPHONE VOICE|?|True
+470||(infuriated)|location|||
 471|QUAIL|"What do I want with Grecian
-candlesticks!"|speech|QUAIL|M
-472||30C     INT. BAR BASEMENT - NIGHT|unknown||
-473||The man on the phone looks around anxiously.|stage direction||
+candlesticks!"|speech|QUAIL|M|True
+472||30C     INT. BAR BASEMENT - NIGHT|unknown|||
+473||The man on the phone looks around anxiously.|stage direction|||
 474|TELEPHONE VOICE|"Just do it!  This is no time
-for small talk."|speech|TELEPHONE VOICE|?
-475||(filtered; not|location||
-476||quite convinced)|unknown||
+for small talk."|speech|TELEPHONE VOICE|?|True
+475||(filtered; not|location|||
+476||quite convinced)|unknown|||
 477|QUAIL (V.O.)|"How did you know where to
-find me?"|speech|QUAIL|M
+find me?"|speech|QUAIL|M|True
 478|TELEPHONE VOICE|"I've been tailing you since you
-get back from Mars."|speech|TELEPHONE VOICE|?
-479||30D     INT. QUAIL'S ROOM - NIGHT|unknown||
+get back from Mars."|speech|TELEPHONE VOICE|?|True
+479||30D     INT. QUAIL'S ROOM - NIGHT|unknown|||
 480|QUAIL|"You're E.I.O.  You're on the
-other team."|speech|QUAIL|M
-481||(filtered)|location||
+other team."|speech|QUAIL|M|True
+481||(filtered)|location|||
 482|TELEPHONE VOICE|"I'm E.I.O.  But I was your
 best friend.  Scott Stevens -
-we arranged this..."|speech|TELEPHONE VOICE|?
-483||(trying to|location||
-484||recall)|unknown||
-485|QUAIL|I can't remember - only bits...|speech|QUAIL|M
-486||(filtered;|location||
-487||overlapping)|unknown||
+we arranged this..."|speech|TELEPHONE VOICE|?|True
+483||(trying to|location|||
+484||recall)|unknown|||
+485|QUAIL|I can't remember - only bits...|speech|QUAIL|M|True
+486||(filtered;|location|||
+487||overlapping)|unknown|||
 488|TELEPHONE VOICE|"I was your fail-safe -- if and
 when the shooting started.
 Good luck.  Look me up if you
-remember me."|speech|TELEPHONE VOICE|?
-489||30E     INT. BAR BASEMENT - NIGHT|unknown||
+remember me."|speech|TELEPHONE VOICE|?|True
+489||30E     INT. BAR BASEMENT - NIGHT|unknown|||
 490||"Scott Stevens hangs up the phone.  He looks around
-cautiously, then walks a few steps to the mens room."|stage direction||
-491||30F     INT. MENS ROOM - NIGHT|unknown||
+cautiously, then walks a few steps to the mens room."|stage direction|||
+491||30F     INT. MENS ROOM - NIGHT|unknown|||
 492||"Scott Stevens walks to the row of troughs and begins to
 urinate.  The room is empty.  He hears a noise and looks
 around.  Two EIO men are standing there aiming lethal-looking
 high-velocity weapons at him.  One of them is the red-headed
-man we've already seen."|stage direction||
+man we've already seen."|stage direction|||
 493|1ST MAN (RED-HEADED)|"Well, look at that.  He's
-really got his hands full."|speech|1ST MAN|?
-494|2ND MAN|Not so full, so I've heard.|speech|2ND MAN|?
+really got his hands full."|speech|1ST MAN|?|
+494|2ND MAN|Not so full, so I've heard.|speech|2ND MAN|?|
 495||"Still urinating, the frustrated Scott Stevens can only look
 back over his shoulder.  Laughing, both men open fire,
 riddling him with bullets.  He collapses in an undignified
-heap, his head in the water at the base of the trough."|stage direction||
-496||"31      INT. ""END OF THE LINE"" CORRIDOR - NIGHT"|unknown||
+heap, his head in the water at the base of the trough."|stage direction|||
+496||"31      INT. ""END OF THE LINE"" CORRIDOR - NIGHT"|unknown|||
 497||"Quail, with towel around his head, glances up and down the
 corridor -- spots a sign that says ""FIRE EXIT"".  He races
-towards it."|stage direction||
-498||"32      EXT. ""END OF THE LINE"" FRONT ENTRANCE - NIGHT"|unknown||
+towards it."|stage direction|||
+498||"32      EXT. ""END OF THE LINE"" FRONT ENTRANCE - NIGHT"|unknown|||
 499||"The OV slams up in front of the hotel and a carload of
-MEN tear out of it and barge into the hotel."|stage direction||
-500||"32A     INT. ""END OF THE LINE"" HOTEL LOBBY - NIGHT"|unknown||
+MEN tear out of it and barge into the hotel."|stage direction|||
+500||"32A     INT. ""END OF THE LINE"" HOTEL LOBBY - NIGHT"|unknown|||
 501||"The startled clerk jumps to his feet as the group of
-armed men enter rapidly."|stage direction||
+armed men enter rapidly."|stage direction|||
 502|EARPHONE WEARER|"Quick.  The guy who checked
-in fifteen minutes ago."|speech|EARPHONE WEARER|?
-503||(nervous)|location||
-504|CLERK|Room...thirty-six.|speech|CLERK|M
+in fifteen minutes ago."|speech|EARPHONE WEARER|?|
+503||(nervous)|location|||
+504|CLERK|Room...thirty-six.|speech|CLERK|M|True
 505||"Most of the armed men instantly head off up the stairs,
-their weapons at the ready.  Clerk watches, astonished."|stage direction||
-506||(continuing)|location||
+their weapons at the ready.  Clerk watches, astonished."|stage direction|||
+506||(continuing)|location|||
 507|CLERK|"He was only meeting a lady...
 Aren't you guys overdoing it
-a bit?"|speech|CLERK|M
-508||32B     EXT. STREET - NIGHT|unknown||
+a bit?"|speech|CLERK|M|True
+508||32B     EXT. STREET - NIGHT|unknown|||
 509||"Quail is walking along briskly, still with the towel
 around his head.  A few passers-by look at him curiously.
-He puts his hand together and greets them Indian-style."|stage direction||
-510||33      EXT. PARK AVENUE - NIGHT - CLOSE ON STREET SIGN|unknown||
+He puts his hand together and greets them Indian-style."|stage direction|||
+510||33      EXT. PARK AVENUE - NIGHT - CLOSE ON STREET SIGN|unknown|||
 511||"which reads: ""PARK AVENUE / 58TH STREET"".
 PULL BACK to reveal ""The Lucky Stub Pawnshop"".  WINOS
 lurk on the corner.  Park Avenue has deteriorated into
 a slum.
 QUAIL ENTERS FRAME, and approaching the pawnshop, stepping
-over a BUM in a doorway."|stage direction||
-512||34      INT. PAWNSHOP - NIGHT|unknown||
+over a BUM in a doorway."|stage direction|||
+512||34      INT. PAWNSHOP - NIGHT|unknown|||
 513||"Quail is just entering; an old-fashioned BELL overhead,
 tripped by the door opening, announces his entrance.
-At once, an immense FAT MAN emerges from the back room."|stage direction||
+At once, an immense FAT MAN emerges from the back room."|stage direction|||
 514|PAWNBROKER|"You wanta camera?  I got some
 good, top-quality ones.  You
 want silk rugs?  Handmade last
@@ -1155,24 +1155,24 @@ century in Iran...all perfect.
 You want videos?  Old movies...
 classics...all those Vietnam
 war ones...real quaint stuff...
-you want..."|speech|PAWNBROKER|?
-515||(interrupting;|location||
-516||awkwardly)|unknown||
+you want..."|speech|PAWNBROKER|?|
+515||(interrupting;|location|||
+516||awkwardly)|unknown|||
 517|QUAIL|"I'm Hotchkiss...I came for
-the...Grecian candlesticks..."|speech|QUAIL|M
+the...Grecian candlesticks..."|speech|QUAIL|M|True
 518||"The Fat Man studies him warily for a long moment; then
 he disappears through the curtain.
 In a brief moment, he emerges again, carrying a small,
 ""makeup-sized"" case, as well as two large candelabra.
 The Pawnbroker puts the case on the counter.  Quail looks
-at the case with curiosity."|stage direction||
-519||(continuing)|location||
+at the case with curiosity."|stage direction|||
+519||(continuing)|location|||
 520|QUAIL|"I wonder if you could tell
-me..."|speech|QUAIL|M
-521||They both look around as someone enters.|stage direction||
+me..."|speech|QUAIL|M|True
+521||They both look around as someone enters.|stage direction|||
 522|PAWNBROKER|"I trust these will look well
-in you... mosque."|speech|PAWNBROKER|?
-523||35      INT. FLOP HOUSE - NIGHT - CLOSE ON HANDS|unknown||
+in you... mosque."|speech|PAWNBROKER|?|
+523||35      INT. FLOP HOUSE - NIGHT - CLOSE ON HANDS|unknown|||
 524||"Opening up the small case.
 PULL BACK to reveal they are Quail's hands.  The hotel
 room he's now in is obviously a different one than the
@@ -1184,9 +1184,9 @@ CARDS and also MONEY, several stacks of bills, neatly
 tied -- some of it the conventional green, but most of
 it red.
 CLOSE ON RED MONEY
-On the face of it is printed:  ""MARS FEDERAL COLONY""."|stage direction||
-525||(mutters)|location||
-526|QUAIL|Martian money....|speech|QUAIL|M
+On the face of it is printed:  ""MARS FEDERAL COLONY""."|stage direction|||
+525||(mutters)|location|||
+526|QUAIL|Martian money....|speech|QUAIL|M|True
 527||"Quail thumbs through the money, and whistles softly to
 himself as he sees how much there is.
 Also in the case are:  TWO PASSPORTS;  a small CASSETTE
@@ -1201,9 +1201,9 @@ SHOCK, QUAIL SEES A MAN MANIFEST HIMSELF HIMSELF OUT OF
 THIN AIR AND STAND THERE IN THE ROOM A FEW FEET AWAY FROM
 QUAIL:  he's an EXACT HOLOGRAPHIC DUPLICATE of Quail --
 down to the clothes Quail is wearing now.
-The image stands and watches Quail."|stage direction||
-528||(continuing)|location||
-529|QUAIL|What the hell...?|speech|QUAIL|M
+The image stands and watches Quail."|stage direction|||
+528||(continuing)|location|||
+529|QUAIL|What the hell...?|speech|QUAIL|M|True
 530||"Quail smiles, presses the red button again.  There is a
 HUMMING SOUND -- and the man FADES INTO THIN AIR -- like
 a television set being turned off.
@@ -1213,23 +1213,23 @@ he finds what look like SURGICAL INSTRUMENTS;  a sponge,
 a long piece of wire doubled over, with some attachments
 and a tiny METAL HEAD on one end, and some tubes of salve.
 He turns on the cassette recorder.
-The VOICE he hears on the cassette TAPE is HIS OWN!"|stage direction||
-531||(Quail's voice)|location||
+The VOICE he hears on the cassette TAPE is HIS OWN!"|stage direction|||
+531||(Quail's voice)|location|||
 532|CASSETTE VOICE (V.O.)|"""Hauser, this is Hauser -- or
 whatever you think your name
 is now.  If you're listening
 to this, I'm talking to myself.
 Your memory's been erased and
 you've got a wet towel around
-your head."|speech|CASSETTE VOICE|?
-533||(he does)|location||
+your head."|speech|CASSETTE VOICE|?|
+533||(he does)|location|||
 534|CASSETTE VOICE (V.O.)|"""The first thing you've got to
 do is get rid of that bug in
-your head."""|speech|CASSETTE VOICE|?
-535||36      INT. HOTEL BATHROOM - NIGHT|unknown||
+your head."""|speech|CASSETTE VOICE|?|
+535||36      INT. HOTEL BATHROOM - NIGHT|unknown|||
 536||"The sound of the tape continues as Quail follows
 instructions - pushing the wire up into a bloody portion
-of his neck, just below the ear."|stage direction||
+of his neck, just below the ear."|stage direction|||
 537|CASSETTE VOICE (V.O.)|"The monitoring device is
 located in your left maxillary
 sinus cavity.  Make a small
@@ -1237,39 +1237,39 @@ incision in your neck just
 below the left ear, and
 insert the wire up into the
 sinus.  The head is
-self-guiding.  Just shove."|speech|CASSETTE VOICE|?
-538||Quail makes a face.|stage direction||
-539||(continuing)|location||
+self-guiding.  Just shove."|speech|CASSETTE VOICE|?|
+538||Quail makes a face.|stage direction|||
+539||(continuing)|location|||
 540|CASSETTE VOICE (V.O.)|"You won't feel a thing.  The
 spray cartridge contains a
 local anesthetic and a blood
 coagulant.  Careful, it's my
-neck, too."|speech|CASSETTE VOICE|?
+neck, too."|speech|CASSETTE VOICE|?|
 541||"Holding the wet towel against his neck, Quail slowly
 withdraws the wire.  On the end of it is a tiny, metal
-bead, the Transmitter."|stage direction||
-542||37      INT. MOVING OFFICIAL VEHICLE - NIGHT|unknown||
-543||The man with the ear plug suddenly reacts.|stage direction||
-544|EARPLUG WEARER|It's come on again.|speech|EARPLUG WEARER|?
-545|DRIVER|Where?|speech|DRIVER|M
+bead, the Transmitter."|stage direction|||
+542||37      INT. MOVING OFFICIAL VEHICLE - NIGHT|unknown|||
+543||The man with the ear plug suddenly reacts.|stage direction|||
+544|EARPLUG WEARER|It's come on again.|speech|EARPLUG WEARER|?|
+545|DRIVER|Where?|speech|DRIVER|M|
 546||"The 1st man quickly check the map-grid in the dashboard.
-A small bright 'x' is flashing."|stage direction||
+A small bright 'x' is flashing."|stage direction|||
 547|EARPLUG WEARER|"He's in that old flophouse.
 Plaza Hotel.  Central Park
-South."|speech|EARPLUG WEARER|?
-548||37A     INT. HOTEL BEDROOM - NIGHT|unknown||
+South."|speech|EARPLUG WEARER|?|
+548||37A     INT. HOTEL BEDROOM - NIGHT|unknown|||
 549||"Quail is anxious to get rid of the transmitter.  He looks
 around and notices a rat trap near a rat hole in the
 skirting board.
 He carefully - avoiding springing the trap - removes the
 piece of cheese and pushes the transmitter inside.  He
-then throws the cheese into the rat hole."|stage direction||
-550||38      INT. MOVING OFFICIAL VEHICLE - NIGHT|unknown||
-551||The car is moving swiftly through the streets.|stage direction||
+then throws the cheese into the rat hole."|stage direction|||
+550||38      INT. MOVING OFFICIAL VEHICLE - NIGHT|unknown|||
+551||The car is moving swiftly through the streets.|stage direction|||
 552|EARPLUG WEARER|"Boy, he's really moving
-around."|speech|EARPLUG WEARER|?
-553||A CU of the screen shows the small 'x' moving in circles.|stage direction||
-554||38A     EXT. HOTEL SIDE ENTRANCE - NIGHT|unknown||
+around."|speech|EARPLUG WEARER|?|
+553||A CU of the screen shows the small 'x' moving in circles.|stage direction|||
+554||38A     EXT. HOTEL SIDE ENTRANCE - NIGHT|unknown|||
 555||"The car pulls up.  Another follows it.  Armed men leap
 out from both.  The EARPLUG WEARER indicates they should
 go down an alley at the side of a service door.  They
@@ -1280,9 +1280,9 @@ up to it, their guns at the ready.
 A large rat scurries out from behind overfull garbage
 bins.  Furious, they fire.  The bullets rip the bins to
 shreds, scattering refuse everywhere.  The rat is killed.
-They all stare in disbelief."|stage direction||
-556|EARPLUG WEARER|Ya dirty rat!|speech|EARPLUG WEARER|?
-557||40      INT. E.I.O. HEADQUARTERS - MEMORY LAB - NIGHT|unknown||
+They all stare in disbelief."|stage direction|||
+556|EARPLUG WEARER|Ya dirty rat!|speech|EARPLUG WEARER|?|
+557||40      INT. E.I.O. HEADQUARTERS - MEMORY LAB - NIGHT|unknown|||
 558||"OPENING CLOSE on a MONITOR SCREEN slated ""HAUSER/QUAIL""
 followed by a serial number and some dates.  The slate
 vanishes, replaced by a scene of Quail -- undergoing
@@ -1292,53 +1292,53 @@ action scenes -- on some kind of mission, driving a car,
 etc.
 TECHNICIANS man the monitors, scrolling through them in
 fast-forward and fast reverse as if searching files.
-The technicians turn as Cohaagen and his aides enter."|stage direction||
-559||(demands)|location||
-560|COHAAGEN|Anything?|speech|COHAAGEN|M
+The technicians turn as Cohaagen and his aides enter."|stage direction|||
+559||(demands)|location|||
+560|COHAAGEN|Anything?|speech|COHAAGEN|M|True
 561|SUPERVISOR|"We're running every one of
 his memory tapes for the past
 fifteen years.  Nothing yet,
-sir."|speech|SUPERVISOR|?
+sir."|speech|SUPERVISOR|?|
 562|COHAAGEN|"There must be something -- some
 place he would go, some friend
-he would run to."|speech|COHAAGEN|M
-563||The red-haired E.I.O. man joins them.|stage direction||
-564||(to Cohaagen;|location||
-565||quietly)|unknown||
-566|RED-HEADED MAN|They lost him.|speech|RED-HEADED MAN|M
-567|COHAAGEN|Again?!|speech|COHAAGEN|M
-568||The red-headed man nods.|stage direction||
-569||(continuing)|location||
+he would run to."|speech|COHAAGEN|M|True
+563||The red-haired E.I.O. man joins them.|stage direction|||
+564||(to Cohaagen;|location|||
+565||quietly)|unknown|||
+566|RED-HEADED MAN|They lost him.|speech|RED-HEADED MAN|M|
+567|COHAAGEN|Again?!|speech|COHAAGEN|M|True
+568||The red-headed man nods.|stage direction|||
+569||(continuing)|location|||
 570|COHAAGEN|"Are you sure the original
-suppression took?"|speech|COHAAGEN|M
+suppression took?"|speech|COHAAGEN|M|True
 571|SUPERVISOR|"Absolutely, sir.  He thinks
-he's Quail, a computer..."|speech|SUPERVISOR|?
-572||(interrupting)|location||
+he's Quail, a computer..."|speech|SUPERVISOR|?|
+572||(interrupting)|location|||
 573|COHAAGEN|"Then how do you explain what
-he's doing?"|speech|COHAAGEN|M
+he's doing?"|speech|COHAAGEN|M|True
 574|SUPERVISOR|"Just his instincts.  He was
 well trained by E.I.O.... Maybe
 the memory cap's fractured.
 Portions of his prior identity
-could be leaking through."|speech|SUPERVISOR|?
-575||(very anxious)|location||
+could be leaking through."|speech|SUPERVISOR|?|
+575||(very anxious)|location|||
 576|COHAAGEN|"He'll remember Mars?  The
-Sphinx Project?"|speech|COHAAGEN|M
+Sphinx Project?"|speech|COHAAGEN|M|True
 577|SUPERVISOR|"Fragments.  Nothing more.
 Nothing he could piece together.
 I did advise terminating him,
 rather than implanting an
-identify alternative."|speech|SUPERVISOR|?
+identify alternative."|speech|SUPERVISOR|?|
 578|COHAAGEN|"What do you think I am?  A
 barbarian?  We're not living
-in the twentieth century!"|speech|COHAAGEN|M
+in the twentieth century!"|speech|COHAAGEN|M|True
 579||"He looks at the video screen again.  An image has flashed
-onto it of an attractive Eurasian girl."|stage direction||
-580||(continuing)|location||
-581|COHAAGEN|Hold it there.|speech|COHAAGEN|M
+onto it of an attractive Eurasian girl."|stage direction|||
+580||(continuing)|location|||
+581|COHAAGEN|Hold it there.|speech|COHAAGEN|M|True
 582||"He studies the picture, which changes to show the same
-girl from different angles."|stage direction||
-583||42      INT. SPACE PORT - DAY|unknown||
+girl from different angles."|stage direction|||
+583||42      INT. SPACE PORT - DAY|unknown|||
 584||"Passengers are boarding a COMMERCIAL SPACECRAFT.  In
 addition to the STEWARDESSES checking their tickets, there
 are two PLAINCLOTHES MEN checking every passenger.  They
@@ -1353,18 +1353,18 @@ are being marshaled by an harassed TOUR ORGANIZER, who is
 carrying aloft a hand-painted sign... ""MARTIAN TOUR GROUP"".
 The last of the passengers board the spacecraft.  The
 chief PLAINCLOTHES MAN nods to an official and the door
-begins to close."|stage direction||
+begins to close."|stage direction|||
 585|PLAINCLOTHES MAN #1|"If he had to travel to Mars
 with that bunch, I'd be sorry
-for him."|speech|PLAINCLOTHES MAN #1|?
-586|PLAINCLOTHES MAN #2|We couldn't have missed him?|speech|PLAINCLOTHES MAN #2|?
+for him."|speech|PLAINCLOTHES MAN #1|?|
+586|PLAINCLOTHES MAN #2|We couldn't have missed him?|speech|PLAINCLOTHES MAN #2|?|
 587|PLAINCLOTHES MAN #1|"No way.  Let's get a coffee
-before the next shuttle."|speech|PLAINCLOTHES MAN #1|?
-588||43      INT. SPACELINER - IN FLIGHT|unknown||
+before the next shuttle."|speech|PLAINCLOTHES MAN #1|?|
+588||43      INT. SPACELINER - IN FLIGHT|unknown|||
 589||"One of the PASSENGERS -- a middle-aged WOMAN - unbuckles
 her seat belt and heads for the restroom, carrying her
-handbag, and some clothes on a hanger."|stage direction||
-590||44      INT. LAVATORY - IN FLIGHT|unknown||
+handbag, and some clothes on a hanger."|stage direction|||
+590||44      INT. LAVATORY - IN FLIGHT|unknown|||
 591||"The woman locks the door and turns to the mirror.  She
 opens her bag, takes out a spray container, SPRAYS HER
 FACE with it, and takes out -- the SILVER FACE MASK we
@@ -1376,8 +1376,8 @@ He tears up a passport and drops it down a chute.
 He reaches inside his dress, starts to REMOVE his ""FALSIES.""
 CLOSE ON MASK
 We can read the BLACK LETTERING written across it now:
-""LASER FACIAL""."|stage direction||
-592||45      INT. SPACELINER - IN FLIGHT|unknown||
+""LASER FACIAL""."|stage direction|||
+592||45      INT. SPACELINER - IN FLIGHT|unknown|||
 593||"Quail exits from the lavatory and glances toward the
 ebullient tour crowd.  He turns and looks in the other
 direction and sees a video theater advertising ""ROCKY 36""
@@ -1385,25 +1385,25 @@ with Sylvester Stallone III, Jnr.  He isn't too excited,
 but heads towards it.  He pauses a little when an
 announcement comes over the intercom.
 A LITTLE BELL sounds, followed by INTERCOM STATIC.  Quail
-looks up."|stage direction||
+looks up."|stage direction|||
 594|CAPTAIN'S VOICE (V.O.)|"Ladies and gentlemen, if you'll
 glance out the starboard
 viewports, you'll behold an
-indeed awesome sight --"|speech|CAPTAIN'S VOICE|?
+indeed awesome sight --"|speech|CAPTAIN'S VOICE|?|
 595||"Quail goes to a viewport and PEERS, transfixed.  He is
-seeing... at last... the object of his obsession."|stage direction||
-596||46      EXT. SPACELINER - IN ORBIT AROUND MARS|unknown||
+seeing... at last... the object of his obsession."|stage direction|||
+596||46      EXT. SPACELINER - IN ORBIT AROUND MARS|unknown|||
 597||"The SPACELINER -- which we have deliberately not seen before
 this moment for dramatic effect -- banks and turns, suddenly
 bringing into view -- MARS.
 AN IMMENSE ORANGE GLOBE -- so close it looks like it's
-going to fall on us.  It dwarfs the spaceliner."|stage direction||
+going to fall on us.  It dwarfs the spaceliner."|stage direction|||
 598|CAPTAIN'S VOICE (V.O.)|"Those long gorges you see,
 clearly are the legendary
-canals of Mars...."|speech|CAPTAIN'S VOICE|?
+canals of Mars...."|speech|CAPTAIN'S VOICE|?|
 599||"The liner drops toward the surface of Mars.  Below:  a
-NETWORK OF INTERSECTING LINES crisscross the planet."|stage direction||
-600||(continuing)|location||
+NETWORK OF INTERSECTING LINES crisscross the planet."|stage direction|||
+600||(continuing)|location|||
 601|CAPTAIN'S VOICE (V.O.)|"Of course, they are not manmade
 canals, but vast natural chasms
 ...many deeper and larger than
@@ -1412,11 +1412,11 @@ utterly without moisture now,
 scientists have determined
 that they were formed by
 massive flooding millions of
-years ago."|speech|CAPTAIN'S VOICE|?
-602||47      INT. SPACELINER|unknown||
+years ago."|speech|CAPTAIN'S VOICE|?|
+602||47      INT. SPACELINER|unknown|||
 603||"Quail stares, his brow furrowing as if with some deep
-hidden memory he can't quite recall."|stage direction||
-604||(continuing)|location||
+hidden memory he can't quite recall."|stage direction|||
+604||(continuing)|location|||
 605|CAPTAIN'S VOICE (V.O.)|"Surface temperatures at the
 Martian equator is minus
 one-hundred and twenty degrees
@@ -1424,8 +1424,8 @@ Centigrade -- in winter.
 Fortunately, this time of year
 it's slightly more seasonable:
 Sixty degrees, Fahrenheit,
-outside the domes."|speech|CAPTAIN'S VOICE|?
-606||(beat)|location||
+outside the domes."|speech|CAPTAIN'S VOICE|?|
+606||(beat)|location|||
 607|CAPTAIN'S VOICE (V.O.)|"Please remember, folks, that
 outside the domes you'll need
 to carry your own personal
@@ -1434,11 +1434,11 @@ The atmosphere of Mars is
 almost a vacuum.  Thank you
 for flying with Interstellar
 and we hope your stay will be
-a pleasant one."|speech|CAPTAIN'S VOICE|?
-608||48      EXT. MARS - OUTER SPACE|unknown||
+a pleasant one."|speech|CAPTAIN'S VOICE|?|
+608||48      EXT. MARS - OUTER SPACE|unknown|||
 609||"CAMERA follows the spaceliner until the ENTIRE FRAME is
-filled with the RED-ORANGE sands of MARS."|stage direction||
-610||49      EXT. MARTIAN DESERT - DAY|unknown||
+filled with the RED-ORANGE sands of MARS."|stage direction|||
+610||49      EXT. MARTIAN DESERT - DAY|unknown|||
 611||"An endless expanse of boulder-studded red sand, under
 a red-orange sky.
 The desert is cut by a ROAD, which snakes across the
@@ -1453,23 +1453,23 @@ midday, scorching -- rises a huge weatherbeaten GEODESIC
 STRUCTURE, its glass surface scarred by sandstorm damage.
 Its feeling is like an old Western, when Clint Eastwood
 rides into Tombstone -- the raw, forbidding vistas, with
-a tough town carved out of the wilderness."|stage direction||
-612||50      INT. MARSPORT - DAY|unknown||
+a tough town carved out of the wilderness."|stage direction|||
+612||50      INT. MARSPORT - DAY|unknown|||
 613||"Quail is looking out at the desolate landscape.  The TOUR
 ORGANISER, an amiable middle-aged man sits beside him.
-It is possible he is not a married man."|stage direction||
-614|QUAIL|It's no Garden of Eden.|speech|QUAIL|M
+It is possible he is not a married man."|stage direction|||
+614|QUAIL|It's no Garden of Eden.|speech|QUAIL|M|True
 615|TOUR ORGANISER|"No.  Quite a bit to see, though.
-The canyons, the old Sphinx..."|speech|TOUR ORGANISER|?
-616|QUAIL|What do you know about that?|speech|QUAIL|M
+The canyons, the old Sphinx..."|speech|TOUR ORGANISER|?|
+616|QUAIL|What do you know about that?|speech|QUAIL|M|True
 617|TOUR ORANISER|"Not much, really.  Millions
 of years old.  Bit like the
 one that used to be in Egypt,
-you know..."|speech|TOUR ORANISER|?
+you know..."|speech|TOUR ORANISER|?|
 618|QUAIL|"Yeah.  Got destroyed in the
 Arab wars... What about this
-independence movement?"|speech|QUAIL|M
-619||(dismissive)|location||
+independence movement?"|speech|QUAIL|M|True
+619||(dismissive)|location|||
 620|TOUR ORGANISER|"Not worth worrying about.
 Mostly descendants of the
 original colonists from Earth.
@@ -1477,13 +1477,13 @@ Now they want self-rule so they
 can sell us all the minerals...
 I don't think we've met.  You
 with our group?  Takes me a
-while to know everyone."|speech|TOUR ORGANISER|?
-621|QUAIL|Sure.  Douglas Quail.|speech|QUAIL|M
-622|TOUR ORGANISER|Richard Toltz.|speech|TOUR ORGANISER|?
-623||(they shake hands)|location||
+while to know everyone."|speech|TOUR ORGANISER|?|
+621|QUAIL|Sure.  Douglas Quail.|speech|QUAIL|M|True
+622|TOUR ORGANISER|Richard Toltz.|speech|TOUR ORGANISER|?|
+623||(they shake hands)|location|||
 624|TOUR ORGANISER|"Well, Doug, I hope we'll see
-a lot more of each other."|speech|TOUR ORGANISER|?
-625||55      EXT. CITY (UNDER THE DOOM) - DAY|unknown||
+a lot more of each other."|speech|TOUR ORGANISER|?|
+625||55      EXT. CITY (UNDER THE DOOM) - DAY|unknown|||
 626||"The bus pulls up outside a modern tourist hotel.  The
 buildings surrounding it have a much more improvised,
 temporary look.  Most are pre-fabricated structures.
@@ -1496,22 +1496,22 @@ dome.
 Some small, ragged boys look at QUAIL as he looks around
 before going inside the hotel.  Suddenly, one of them throws
 a small sack at him.  It hits his chest and leaves a yellow
-stain.  The hotel DOORMAN chases the boys away...."|stage direction||
-627|BOY|Smogpsucker!|speech|BOY|M
+stain.  The hotel DOORMAN chases the boys away...."|stage direction|||
+627|BOY|Smogpsucker!|speech|BOY|M|
 628||"From the other side of the street, a gang of URCHINS with
 a harmonica start singing some kind of defiant PATRIOTIC
-SONG."|stage direction||
+SONG."|stage direction|||
 629|DOORMAN|"You know how it is, sir.  Some
 of these red-asses are a bit
-prejudiced."|speech|DOORMAN|M
-630|QUAIL|Prejudiced?  Against what?|speech|QUAIL|M
-631|DOORMAN|Earthmen.|speech|DOORMAN|M
+prejudiced."|speech|DOORMAN|M|
+630|QUAIL|Prejudiced?  Against what?|speech|QUAIL|M|True
+631|DOORMAN|Earthmen.|speech|DOORMAN|M|
 632||"The street song has swelled, adult MINERS and CITIZENS
-joining the belligerent chorus."|stage direction||
-633|QUAIL|What are they singing?|speech|QUAIL|M
-634|DOORMAN|The Martian National Anthem.|speech|DOORMAN|M
-635||Quail tips the doorman, enter the hotel.|stage direction||
-636||57      INT. MARS HILTON LOBBY - DAY|unknown||
+joining the belligerent chorus."|stage direction|||
+633|QUAIL|What are they singing?|speech|QUAIL|M|True
+634|DOORMAN|The Martian National Anthem.|speech|DOORMAN|M|
+635||Quail tips the doorman, enter the hotel.|stage direction|||
+636||57      INT. MARS HILTON LOBBY - DAY|unknown|||
 637||"Quail passes several kiosks -- a magazine stand, currency
 exchange, clothing store, shoeshine stand.  A SHOESHINE
 BOY looks up at Quail.
@@ -1522,62 +1522,62 @@ spotless linen fill the lobby.
 Quail stops to examine a large ROTATING DISPLAY sitting on
 a table in the middle of the lobby.  It is a stand-up model
 of a SPHINX.  Across the top is written ""THE FIRST WONDER
-OF MARS"".  A recorded VOICE repeats a canned speech --"|stage direction||
+OF MARS"".  A recorded VOICE repeats a canned speech --"|stage direction|||
 638|CANNED VOICE|"""...the Martian Sphinx...
 only evidence of non-human
 civilization ever discovered
 ...age estimated at over
-eighteen million years..."|speech|CANNED VOICE|?
+eighteen million years..."|speech|CANNED VOICE|?|
 639||"CLOSE - SHOESHINE BOY
 He stares at Quail.
 BACK TO SCENE
-Quail approaches the Registration Desk."|stage direction||
+Quail approaches the Registration Desk."|stage direction|||
 640|CLERK|"Nice to have you back with us,
-Mr. Hauser."|speech|CLERK|M
+Mr. Hauser."|speech|CLERK|M|True
 641||"Quail is startled to be recognized -- particularly by
-this name.  He tries to stay casual."|stage direction||
-642|QUAIL|Nice to be back.|speech|QUAIL|M
-643||(pick up pen)|location||
-644|QUAIL|I'm flattered you remember me.|speech|QUAIL|M
-645|CLERK|Part of my job, sir.|speech|CLERK|M
-646||(starts to sign;|location||
-647||hesitates)|unknown||
+this name.  He tries to stay casual."|stage direction|||
+642|QUAIL|Nice to be back.|speech|QUAIL|M|True
+643||(pick up pen)|location|||
+644|QUAIL|I'm flattered you remember me.|speech|QUAIL|M|True
+645|CLERK|Part of my job, sir.|speech|CLERK|M|True
+646||(starts to sign;|location|||
+647||hesitates)|unknown|||
 648|QUAIL|"Do you remember my first name,
-too?"|speech|QUAIL|M
-649|CLERK|Charles.  Charles Hauser, right?|speech|CLERK|M
-650|QUAIL|I'm impressed.|speech|QUAIL|M
-651||(now he signs)|location||
+too?"|speech|QUAIL|M|True
+649|CLERK|Charles.  Charles Hauser, right?|speech|CLERK|M|True
+650|QUAIL|I'm impressed.|speech|QUAIL|M|True
+651||(now he signs)|location|||
 652|QUAIL|"Listen.  I need transportation
 to the... uh... the Sphinx.
-Can you arrange it for me?"|speech|QUAIL|M
+Can you arrange it for me?"|speech|QUAIL|M|True
 653|CLERK|"I'm sorry, sir.  But Earth
 government has sealed off the
 excavation site completely.
 No one but survey teams and
 archaeologists are allowed
-closer than twenty miles."|speech|CLERK|M
-654||The Clerk taps a few keys on a computer.|stage direction||
-655|CLERK|Oh...|speech|CLERK|M
-656||(spots something|location||
-657||on the computer)|unknown||
+closer than twenty miles."|speech|CLERK|M|True
+654||The Clerk taps a few keys on a computer.|stage direction|||
+655|CLERK|Oh...|speech|CLERK|M|True
+656||(spots something|location|||
+657||on the computer)|unknown|||
 658|CLERK|"Do you want the item you left
-with us?"|speech|CLERK|M
-659|QUAIL|What item?  Oh... yes, please.|speech|QUAIL|M
+with us?"|speech|CLERK|M|True
+659|QUAIL|What item?  Oh... yes, please.|speech|QUAIL|M|True
 660||"The Clerk turns to the safe, retrieves an envelope. He
-hands it -- and an ELECTRONIC ROOM KEY -- to Quail."|stage direction||
-661||58      P.O.V. - THROUGH BINOCULARS - THE SPHINX|unknown||
+hands it -- and an ELECTRONIC ROOM KEY -- to Quail."|stage direction|||
+661||58      P.O.V. - THROUGH BINOCULARS - THE SPHINX|unknown|||
 662||"Far in the distance, a dusty red structure squats amid
 barren dunes.  We see vehicles, scaffolding, a fortified
-perimeter."|stage direction||
-663||59      INT. QUAIL'S HOTEL ROOM - DAY|unknown||
+perimeter."|stage direction|||
+663||59      INT. QUAIL'S HOTEL ROOM - DAY|unknown|||
 664||"Quail stands at the window, looking through binoculars.
 He lowers them irritably, tosses them on the bed.
 Quail tugs the envelope from his pocket, tears it open.
 Inside is a single slip of paper, on which is written
-in longhand:"|stage direction||
-665||Last Chance Air Station|location||
+in longhand:"|stage direction|||
+665||Last Chance Air Station|location|||
 666||"Kilometer 61   Gird Square T9""
-60      EXT. MARS HILTON - SUNSET"|unknown||
+60      EXT. MARS HILTON - SUNSET"|unknown|||
 667||"It is now sunset on Mars and it's literally of inearthly
 beauty.  The sun is bold and blood red;  the foggy, drip-
 ping glass of the Dome tints the light into strange colors.
@@ -1588,30 +1588,30 @@ Boy.  He keeps out of sight -- but is definitely tailing
 Quail.
 As Quail nears the first solar-powered taxi in line, he is
 approached by an amiable-looking CALYPSO GUY wearing a West
-Indian shirt and bright straw hat."|stage direction||
-668|CALYPSO GUY (BENNIE)|Need a cab, boss mon?|speech|CALYPSO GUY|?
-669||Quail hesitates, unsure of the protocol.|stage direction||
-670||(continuing)|location||
-671|BENNIE|Mine's right around the corner.|speech|BENNIE|M
-672||(indicating first|location||
-673||cab in line)|unknown||
-674|QUAIL|That one's closer.|speech|QUAIL|M
-675|BENNIE|But I out-hustle him, right?|speech|BENNIE|M
-676||(smiling)|location||
-677|QUAIL|Right.|speech|QUAIL|M
+Indian shirt and bright straw hat."|stage direction|||
+668|CALYPSO GUY (BENNIE)|Need a cab, boss mon?|speech|CALYPSO GUY|?|
+669||Quail hesitates, unsure of the protocol.|stage direction|||
+670||(continuing)|location|||
+671|BENNIE|Mine's right around the corner.|speech|BENNIE|M|True
+672||(indicating first|location|||
+673||cab in line)|unknown|||
+674|QUAIL|That one's closer.|speech|QUAIL|M|True
+675|BENNIE|But I out-hustle him, right?|speech|BENNIE|M|True
+676||(smiling)|location|||
+677|QUAIL|Right.|speech|QUAIL|M|True
 678||"TWO CABBIES exchange curses as Quail, wary, follows the
 Calypso Guy around a corner, climbs into the small solar
-car."|stage direction||
-679||62      EXT. CITY DOME - AIR LOCK - SUNSET|unknown||
+car."|stage direction|||
+679||62      EXT. CITY DOME - AIR LOCK - SUNSET|unknown|||
 680||"An AIR LOCK whooshes open underneath a Checker Cab sign.
 Bennie and Quail emerge in the solar-powered car -- set
-off into the desert."|stage direction||
-681||63      EXT. DESERT - SUNSET|unknown||
+off into the desert."|stage direction|||
+681||63      EXT. DESERT - SUNSET|unknown|||
 682||"The taxi traverses the same type desert that Quail crossed
 a few hours ago.  Only now is looks completely different.
 The late light tints everything in pastel shades, Quail is
-awed by the grandeur of the Lawrence-of-Arabia-like setting."|stage direction||
-683||68      EXT. DESERT TRUCK STOP - NIGHT|unknown||
+awed by the grandeur of the Lawrence-of-Arabia-like setting."|stage direction|||
+683||68      EXT. DESERT TRUCK STOP - NIGHT|unknown|||
 684||"Quail and Bennie's taxi approaches a brightly-lit oasis in
 the middle of the desert.  There's a cafe, repair facilities
 and a huge parking lot -- all under a garish neon sign:
@@ -1620,207 +1620,207 @@ Quail and Bennie's taxi pulls in and parks.  In the lot is
 a collection of strange and colorful vehicles:  huge ore
 trucks that pull eight trailers, mountain prospecting jeeps,
 Grapes-of-Wrath jalopies.  Quail and Bennie disembark, wear-
-ing breathing masks, and enter the main building."|stage direction||
-685||69      INT. LAST CHANCE AIR STATION - NIGHT|unknown||
+ing breathing masks, and enter the main building."|stage direction|||
+685||69      INT. LAST CHANCE AIR STATION - NIGHT|unknown|||
 686||"The joint is a combination saloon/cathouse/casino.  There
 are slot machines, HOOKERS, MINERS and HOMESTEADERS; it is
 like a Nevada brothel -- packed with wild and woolly indi-
 vidualists, the equivalent of Old West trappers, prospectors
 and cowboys -- but with a space-age look.
 Quail and Bennie elbow their way to the bar.  Fragments of
-conversation are overheard."|stage direction||
+conversation are overheard."|stage direction|||
 687|MINER #1|"...if that intergalactic little
 Napoleon thinks I'm sellin' and
 clearin' outta here, he can
-think again!"|speech|MINER #1|?
-688||(with a laugh)|location||
+think again!"|speech|MINER #1|?|
+688||(with a laugh)|location|||
 689|MINER #2|"...watcha gonna do when he cuts
-off the air, Luke?"|speech|MINER #2|?
+off the air, Luke?"|speech|MINER #2|?|
 690|MINER #3|"...you'll be breathin' red dust
-and shittin' bricks."|speech|MINER #3|?
-691||Bennie and Quail pass another group.|stage direction||
+and shittin' bricks."|speech|MINER #3|?|
+691||Bennie and Quail pass another group.|stage direction|||
 692|MINER #4|"...my wife ain't goin' on
 one of those space shuttles...
-she hates flyin'..."|speech|MINER #4|?
+she hates flyin'..."|speech|MINER #4|?|
 693|MINER #5|"...aw, come on... flyin's
-safer'n crossin' the road..."|speech|MINER #5|?
+safer'n crossin' the road..."|speech|MINER #5|?|
 694|MINER #6|"...yeah, there ain't been a
 real disaster since that
 collision off Phobos, nigh on
-twenty years ago..."|speech|MINER #6|?
-695||(alarmed)|location||
+twenty years ago..."|speech|MINER #6|?|
+695||(alarmed)|location|||
 696|MINER #4|"...well, that killed twelve
-thousand..."|speech|MINER #4|?
+thousand..."|speech|MINER #4|?|
 697|QUAIL|"What is this, Bennie...
-Tombstone?"|speech|QUAIL|M
+Tombstone?"|speech|QUAIL|M|True
 698|BENNIE|"Sorta.  Bunch of miners out
 here got their own claims, from
 way back.  Cohaagen's buyin' em
 all up, says he's gonna cut off
 the air an' water if they won't
-sell..."|speech|BENNIE|M
-699||Quail attracts the attention of the BARTENDER.|stage direction||
-700|QUAIL|I'm looking for Melina Noel.|speech|QUAIL|M
-701|BARTENDER|You've found her.|speech|BARTENDER|?
+sell..."|speech|BENNIE|M|True
+699||Quail attracts the attention of the BARTENDER.|stage direction|||
+700|QUAIL|I'm looking for Melina Noel.|speech|QUAIL|M|True
+701|BARTENDER|You've found her.|speech|BARTENDER|?|
 702||"His nod indicates an area behind Quail.  He turns to see
 an attractive waitress placing drinks on tables.  She
 doesn't notice Quail.  He walks toward her through the
 crowd.  Bennie watches, then tactfully slips away.
 MELINA turns to return to the bar and runs straight into
-Quail.  She stops, obviously astonished to see him."|stage direction||
-703|MELINA|You bastard!|speech|MELINA|M
+Quail.  She stops, obviously astonished to see him."|stage direction|||
+703|MELINA|You bastard!|speech|MELINA|M|True
 704||"Almost in tears, she pushes her way through the crowd to a
 billiard room, which is separated from the main bar by
 swinging doors.
 There are no occupants and it is almost in darkness.  Quail,
 bewildered, follows her.  Inside the billiard room he turns
 on the lights which illuminates the area of the table.
-(NOTE:  As Quail and Melina speak, the activity in the"|stage direction||
-705||outside bar can be seen above the swinging doors.)|unknown||
+(NOTE:  As Quail and Melina speak, the activity in the"|stage direction|||
+705||outside bar can be seen above the swinging doors.)|unknown|||
 706||"Melina is still fighting back tears.  Quail stops in front
 of her, unsure about what to do.  He has no recollection
 of how well he might have known this woman.
-Suddenly, she slaps him hard across the face."|stage direction||
-707||(quietly)|location||
-708|MELINA|You bastard...|speech|MELINA|M
-709||He rubs his painful cheek.|stage direction||
-710||(continuing)|location||
+Suddenly, she slaps him hard across the face."|stage direction|||
+707||(quietly)|location|||
+708|MELINA|You bastard...|speech|MELINA|M|True
+709||He rubs his painful cheek.|stage direction|||
+710||(continuing)|location|||
 711|MELINA|"That's new -- the innocent
-look."|speech|MELINA|M
-712||(bitter sarcasm)|location||
+look."|speech|MELINA|M|True
+712||(bitter sarcasm)|location|||
 713|MELINA|"You didn't have that one
-before."|speech|MELINA|M
-714||(beat)|location||
-715|MELINA|Well?|speech|MELINA|M
-716||Quail is speechless.|stage direction||
-717|QUAIL|Well, uh... I...|speech|QUAIL|M
+before."|speech|MELINA|M|True
+714||(beat)|location|||
+715|MELINA|Well?|speech|MELINA|M|True
+716||Quail is speechless.|stage direction|||
+717|QUAIL|Well, uh... I...|speech|QUAIL|M|True
 718|MELINA|"All right, I'll say it for
-you."|speech|MELINA|M
-719||He looks relieved (but tries to cover).|stage direction||
-720||(continuing)|location||
+you."|speech|MELINA|M|True
+719||He looks relieved (but tries to cover).|stage direction|||
+720||(continuing)|location|||
 721|MELINA|"Don't worry.  I got the note.
-You discharged your obligation."|speech|MELINA|M
-722|QUAIL|What note?|speech|QUAIL|M
+You discharged your obligation."|speech|MELINA|M|True
+722|QUAIL|What note?|speech|QUAIL|M|True
 723|MELINA|"Oh, the usual one.  ""Must
 return immediately to Earth...
-the wife needs me..."""|speech|MELINA|M
+the wife needs me..."""|speech|MELINA|M|True
 724|QUAIL|"I don't have a wife.  Well,
-I do - but not a real wife."|speech|QUAIL|M
-725||(getting|location||
-726||desperate)|unknown||
+I do - but not a real wife."|speech|QUAIL|M|True
+725||(getting|location|||
+726||desperate)|unknown|||
 727|QUAIL|"Hell... look... someone else
-sent that note.  Someone who --"|speech|QUAIL|M
-728|MELINA|What are you here for?!|speech|MELINA|M
+sent that note.  Someone who --"|speech|QUAIL|M|True
+728|MELINA|What are you here for?!|speech|MELINA|M|True
 729|QUAIL|"For you!  I don't even know
-why --"|speech|QUAIL|M
+why --"|speech|QUAIL|M|True
 730||"Melina bursts into tears.  Quail rather tentatively puts
 his arms around her.  She welcomes this at first, but then
-pushes him away."|stage direction||
-731||(continuing)|location||
+pushes him away."|stage direction|||
+731||(continuing)|location|||
 732|QUAIL|"Whoever I was, I must have
-been a helluva guy."|speech|QUAIL|M
-733|MELINA|"""Whoever you were""???"|speech|MELINA|M
+been a helluva guy."|speech|QUAIL|M|True
+733|MELINA|"""Whoever you were""???"|speech|MELINA|M|True
 734|QUAIL|"Listen.  I've for to tell  you
 something.  I beg you to
-believe me... help me --"|speech|QUAIL|M
-735||All Melina's suspicions come rushing back.|stage direction||
-736||(continuing)|location||
+believe me... help me --"|speech|QUAIL|M|True
+735||All Melina's suspicions come rushing back.|stage direction|||
+736||(continuing)|location|||
 737|QUAIL|"Something happened to my mind.
 Memory suppression, false
 implant, I don't know
-what --"|speech|QUAIL|M
-738||Melina backs off.  Quail grows more desperate.|stage direction||
-739||(continuing)|location||
+what --"|speech|QUAIL|M|True
+738||Melina backs off.  Quail grows more desperate.|stage direction|||
+739||(continuing)|location|||
 740|QUAIL|"What I'm saying is... I don't
 remember you.  I don't remember
-us.  I don't remember me --"|speech|QUAIL|M
-741||Melina's expression grows dead hard.|stage direction||
-742|MELINA|[And I thought...]|speech|MELINA|M
-743|QUAIL|Who is us?|speech|QUAIL|M
-744||(ignoring the|location||
-745||question)|unknown||
+us.  I don't remember me --"|speech|QUAIL|M|True
+741||Melina's expression grows dead hard.|stage direction|||
+742|MELINA|[And I thought...]|speech|MELINA|M|True
+743|QUAIL|Who is us?|speech|QUAIL|M|True
+744||(ignoring the|location|||
+745||question)|unknown|||
 746|MELINA|"Memory erasure is what they
-use on agents.  Go away."|speech|MELINA|M
+use on agents.  Go away."|speech|MELINA|M|True
 747|QUAIL|"Wait... I was an agent -- I'm
 not now -- just tell me who
 I am!  How did we know each
 other?  Why are they trying
-to kill me?!"|speech|QUAIL|M
-748||He takes a step toward her, nearly frantic.|stage direction||
-749|MELINA|I'm not trusting you again.|speech|MELINA|M
+to kill me?!"|speech|QUAIL|M|True
+748||He takes a step toward her, nearly frantic.|stage direction|||
+749|MELINA|I'm not trusting you again.|speech|MELINA|M|True
 750|QUAIL|"You loved me once, you must
-have --"|speech|QUAIL|M
+have --"|speech|QUAIL|M|True
 751|MELINA|"That you was a liar.  Who you
-are now I don't even know."|speech|MELINA|M
-752|QUAIL|Please, Melina --|speech|QUAIL|M
-753||(tears starting)|location||
-754|MELINA|Get out!|speech|MELINA|M
-755|QUAIL|I need your help --|speech|QUAIL|M
-756||(crying quietly)|location||
+are now I don't even know."|speech|MELINA|M|True
+752|QUAIL|Please, Melina --|speech|QUAIL|M|True
+753||(tears starting)|location|||
+754|MELINA|Get out!|speech|MELINA|M|True
+755|QUAIL|I need your help --|speech|QUAIL|M|True
+756||(crying quietly)|location|||
 757|MELINA|"Get out!  Get the hell away
-from me!"|speech|MELINA|M
+from me!"|speech|MELINA|M|True
 758||"Quail gives up; goes through the doors and leaves.  Melina
-slumps her shoulder against the table and cries."|stage direction||
-759||77      INT. LAST CHANCE AIR STATION GARAGE - NIGHT|unknown||
+slumps her shoulder against the table and cries."|stage direction|||
+759||77      INT. LAST CHANCE AIR STATION GARAGE - NIGHT|unknown|||
 760||"Quail enters from the cafe.  Bennie is kneeling beside his
 taxi, repairing a tire.  He look up, sees Quail approach.
 On his right hand, Bennie has a mechanical device
 capable of spinning 360 degrees.  He uses it to twirl
 a lug nut tight on his tire.  As Quail approaches,
 Bennie removes the TOOL ATTACHMENT from his HAND,
-tosses it into a kit beside the taxi."|stage direction||
+tosses it into a kit beside the taxi."|stage direction|||
 761|BENNIE|"You don't look so good, boss.
 All over the Universe, women
-is an awful curse."|speech|BENNIE|M
-762||He opens the door for Quail, beams.|stage direction||
-763||80      INT. SOLAR-POWERED CAR - NIGHT - MOVING - DESERT BACKGROUND|unknown||
-764||Quail still broods, Bennie tries to cheer him up.|stage direction||
-765|BENNIE|It's a tough planet, boss.|speech|BENNIE|M
-766|QUAIL|Yeah, right.|speech|QUAIL|M
+is an awful curse."|speech|BENNIE|M|True
+762||He opens the door for Quail, beams.|stage direction|||
+763||80      INT. SOLAR-POWERED CAR - NIGHT - MOVING - DESERT BACKGROUND|unknown|||
+764||Quail still broods, Bennie tries to cheer him up.|stage direction|||
+765|BENNIE|It's a tough planet, boss.|speech|BENNIE|M|True
+766|QUAIL|Yeah, right.|speech|QUAIL|M|True
 767|BENNIE|"Some guy really screwed her -
 screwed her up real good.
 Some Earthman.  Just hopped
-on a space shuttle."|speech|BENNIE|M
-768||Bennie bright tone isn't improving Quail's mood.|stage direction||
+on a space shuttle."|speech|BENNIE|M|True
+768||Bennie bright tone isn't improving Quail's mood.|stage direction|||
 769|QUAIL|"Listen, Bennie.  You're pretty
-well informed?"|speech|QUAIL|M
+well informed?"|speech|QUAIL|M|True
 770|BENNIE|"If that means I know it all,
-you're right, boss."|speech|BENNIE|M
+you're right, boss."|speech|BENNIE|M|True
 771|QUAIL|"What do you know about the
-Sphinx?"|speech|QUAIL|M
+Sphinx?"|speech|QUAIL|M|True
 772|BENNIE|"I don't know nothin'.  Not
 about the Sphinx.  That's out
-of the ball park."|speech|BENNIE|M
+of the ball park."|speech|BENNIE|M|True
 773|QUAIL|"I have to get there.  Can't
-you help me?"|speech|QUAIL|M
+you help me?"|speech|QUAIL|M|True
 774|BENNIE|"No can do, mon.  You want
 women, cigarettes, red-market
 money, booze, even air or
 water... Bennie's your man.
 But the Sphinx... that's
-E.I.O. --"|speech|BENNIE|M
-775||80A     INT. CITY UNDER THE DOME - NIGHT|unknown||
+E.I.O. --"|speech|BENNIE|M|True
+775||80A     INT. CITY UNDER THE DOME - NIGHT|unknown|||
 776||"The solar car is moving through the crowd, when suddenly
 SIRENS approach on a cross street.  Bennie brakes and stops.
 He and Quail watch as POLICE MOTORCYCLES clear a path for a
 huge, GAS-POWERED LIMO.  MINERS on the sidewalks shout
-CURSES, OBSCENITIES --"|stage direction||
-777|BENNIE|Well... look at that one, eh?|speech|BENNIE|M
-778|QUAIL|What?|speech|QUAIL|M
+CURSES, OBSCENITIES --"|stage direction|||
+777|BENNIE|Well... look at that one, eh?|speech|BENNIE|M|True
+778|QUAIL|What?|speech|QUAIL|M|True
 779|BENNIE|"Big cheese in town.  Big
-smelly cheese."|speech|BENNIE|M
+smelly cheese."|speech|BENNIE|M|True
 780|QUAIL|"Cohaagen?  But isn't he often
-here?"|speech|QUAIL|M
+here?"|speech|QUAIL|M|True
 781|BENNIE|"No way.  That cat just cheat
 the Martian workers without
 ever leavin' his place in
 Beverly Hills.  Somethin' must
-be cookin'."|speech|BENNIE|M
+be cookin'."|speech|BENNIE|M|True
 782||"Quail keeps his face in shadow and watches Cohaagen with
 curiosity as he passes.  Cohaagen is lit up briefly by a
 street lamp.  His face makes an impression on Quail, who
-perhaps faintly remembers him in the past."|stage direction||
-783||82      INT. QUAIL'S HOTEL ROOM - NIGHT|unknown||
+perhaps faintly remembers him in the past."|stage direction|||
+783||82      INT. QUAIL'S HOTEL ROOM - NIGHT|unknown|||
 784||"Quail enters, turns on the lights, locks the door.  He
 checks all the rooms.  Then he crosses to the dresser,
 studies himself in the mirror.  He looks haggard.
@@ -1831,87 +1831,87 @@ He sets the recorder down gingerly, as if somewhere in
 there were contained the answers to all his questions.
 He's just about to activate it, when he hears a KNOCK at
 the door.
-Quail freezes.  Another KNOCK."|stage direction||
-785||(through door)|location||
-786|VOICE (O.S.)|Mr. Hauser...|speech|VOICE|M
-787|QUAIL|Who is it?|speech|QUAIL|M
+Quail freezes.  Another KNOCK."|stage direction|||
+785||(through door)|location|||
+786|VOICE (O.S.)|Mr. Hauser...|speech|VOICE|M|True
+787|QUAIL|Who is it?|speech|QUAIL|M|True
 788|VOICE (O.S.)|"Mr. Hauser, I want to talk to
-you... about Douglas Quail."|speech|VOICE|M
+you... about Douglas Quail."|speech|VOICE|M|True
 789||"Quail ditches the recorder and the ""emergency case"" into
 the drawer -- everything except the PISTOL.
 Quail approaches the door very cautiously (from the side --
-out of the line of fire)."|stage direction||
-790||(tensely)|location||
-791|QUAIL|Who are you?|speech|QUAIL|M
+out of the line of fire)."|stage direction|||
+790||(tensely)|location|||
+791|QUAIL|Who are you?|speech|QUAIL|M|True
 792|VOICE (O.S.)|"My name is George Edgemar.
-I work for Rekall, Incorporated."|speech|VOICE|M
-793||(stunned;|location||
-794||incredulous)|unknown||
-795|QUAIL|Rekall??|speech|QUAIL|M
+I work for Rekall, Incorporated."|speech|VOICE|M|True
+793||(stunned;|location|||
+794||incredulous)|unknown|||
+795|QUAIL|Rekall??|speech|QUAIL|M|True
 796|VOICE (O.S.)|"Yes.  It's difficult to
 explain... Could you open the
-door, please?  I'm not armed."|speech|VOICE|M
+door, please?  I'm not armed."|speech|VOICE|M|True
 797||"Quail opens it carefully, his gun at the ready, but out
 of view of the person at the door.
 A dignified-looking GENTLEMAN stands there, calm and
-pleasant, wearing an Earth-style business suit."|stage direction||
+pleasant, wearing an Earth-style business suit."|stage direction|||
 798|EDGEMAR|"Hello, Mr. Quail.  May I come
 in?  I won't be offended if
 you prefer to keep the gun
-you're holding trained on me."|speech|EDGEMAR|F
-799||He can't see the gun, but somehow knows.|stage direction||
-800|QUAIL|All right... come in.|speech|QUAIL|M
+you're holding trained on me."|speech|EDGEMAR|F|True
+799||He can't see the gun, but somehow knows.|stage direction|||
+800|QUAIL|All right... come in.|speech|QUAIL|M|True
 801||"Quail does keep his gun trained on the man.  The man enters,
-holding in his outstretched hand -- a business card."|stage direction||
-802|EDGEMAR|My card, Mr. Quail.|speech|EDGEMAR|F
-803||Quail frisks him, then takes the card, glances at it.|stage direction||
+holding in his outstretched hand -- a business card."|stage direction|||
+802|EDGEMAR|My card, Mr. Quail.|speech|EDGEMAR|F|True
+803||Quail frisks him, then takes the card, glances at it.|stage direction|||
 804|QUAIL|"Okay -- so you're Doctor
 George Edgemar of 'Rekall,
-Inc.'  So?"|speech|QUAIL|M
+Inc.'  So?"|speech|QUAIL|M|True
 805|EDGEMAR|"As I said... this is going to
 be very difficult -- for both
-of us."|speech|EDGEMAR|F
-806|QUAIL|I'm listening.|speech|QUAIL|M
+of us."|speech|EDGEMAR|F|True
+806|QUAIL|I'm listening.|speech|QUAIL|M|True
 807|EDGEMAR|"Mr. Quail... I'm afraid you're
 not really standing here at
-this moment."|speech|EDGEMAR|F
-808|QUAIL|Sat that again.|speech|QUAIL|M
+this moment."|speech|EDGEMAR|F|True
+808|QUAIL|Sat that again.|speech|QUAIL|M|True
 809|EDGEMAR|"I said, you're not really
 here.  Neither am I.  We're
 both in the Memory Studio --
 in the offices of Rekall, Inc.
-On Earth."|speech|EDGEMAR|F
-810||Long pause.|stage direction||
+On Earth."|speech|EDGEMAR|F|True
+810||Long pause.|stage direction|||
 811|QUAIL|"Are you trying to tell me that
 this is all part of some...
 artificially injected fantasy?
-That I never really left Earth?"|speech|QUAIL|M
+That I never really left Earth?"|speech|QUAIL|M|True
 812|EDGEMAR|"No, not quite.  We didn't give
 you this.  You're creating it
-yourself --"|speech|EDGEMAR|F
-813||(pauses, choosing|location||
-814||his words)|unknown||
+yourself --"|speech|EDGEMAR|F|True
+813||(pauses, choosing|location|||
+814||his words)|unknown|||
 815|EDGEMAR|"Remember the option we offered
 you?  Intelligence agent?
 Something inside you liked
 that idea, fastened on it.
 What you're experiencing now
 is a free-form delusion that
-you yourself are fabricating."|speech|EDGEMAR|F
+you yourself are fabricating."|speech|EDGEMAR|F|True
 816|QUAIL|"What is this shit you're
-giving me?"|speech|QUAIL|M
+giving me?"|speech|QUAIL|M|True
 817|EDGEMAR|"This is not -- shit, Mr. Quail.
-It's the truth."|speech|EDGEMAR|F
-818||(beat)|location||
+It's the truth."|speech|EDGEMAR|F|True
+818||(beat)|location|||
 819|EDGEMAR|"I know it's very hard for you
 to accept, but you're having
 a schizophrenic reaction...
 we can't snap you out of the
 Narkadine.  You're in a world
-of your own fantasy."|speech|EDGEMAR|F
+of your own fantasy."|speech|EDGEMAR|F|True
 820|QUAIL|"Then how the hell can you be
 in my dream -- if you know it's
-just a dream?"|speech|QUAIL|M
+just a dream?"|speech|QUAIL|M|True
 821|EDGEMAR|"I've been artificially
 implanted -- like the first
 part of your fantasy.  I'm
@@ -1921,76 +1921,76 @@ This is a last resort.  When
 somebody gets stuck in their
 own fantasy, we send in
 someone after them.  A
-specialist, like myself."|speech|EDGEMAR|F
+specialist, like myself."|speech|EDGEMAR|F|True
 822|QUAIL|"I don't believe a word you're
-saying."|speech|QUAIL|M
+saying."|speech|QUAIL|M|True
 823|EDGEMAR|"I was afraid you'd think that.
 I'm sorry to have to do this,
-but you really are stuck."|speech|EDGEMAR|F
-824||(calls out)|location||
+but you really are stuck."|speech|EDGEMAR|F|True
+824||(calls out)|location|||
 825|EDGEMAR|"Doctor Noel, would you come in
-now please?"|speech|EDGEMAR|F
+now please?"|speech|EDGEMAR|F|True
 826||"The door starts to open.  Quail pivots and points his
 gun at the opening door.
 MELINA walks in, carrying a CLIPBOARD.  She looks at Quail
-with professional detachment."|stage direction||
+with professional detachment."|stage direction|||
 827|MELINA|"Yes, Mr. Quail, I'm afraid
-it's all true."|speech|MELINA|M
-828||Quail is staggered.|stage direction||
-829||(continuing)|location||
+it's all true."|speech|MELINA|M|True
+828||Quail is staggered.|stage direction|||
+829||(continuing)|location|||
 830|MELINA|"I tried to break through to
 you earlier, but you just
 molded me into your fantasy.
 Sometimes it takes Dr. Edgemar
 to get through to a client as
-tough as you."|speech|MELINA|M
-831||(wavering)|location||
+tough as you."|speech|MELINA|M|True
+831||(wavering)|location|||
 832|QUAIL|"So what's supposed to happen
-now?"|speech|QUAIL|M
+now?"|speech|QUAIL|M|True
 833|EDGEMAR|"Just do exactly as we tell
-you."|speech|EDGEMAR|F
-834||(stares at him|location||
-835||coldly)|unknown||
+you."|speech|EDGEMAR|F|True
+834||(stares at him|location|||
+835||coldly)|unknown|||
 836|QUAIL|"Somehow that doesn't appeal
-to me."|speech|QUAIL|M
+to me."|speech|QUAIL|M|True
 837|MELINA|"Please, Mr. Quail... try to
 cooperate.  You're having a
-schizophrenic embolism."|speech|MELINA|M
+schizophrenic embolism."|speech|MELINA|M|True
 838|EDGEMAR|"If we can't get you out now...
 you may never come out of it.
-Your wife calls every day --"|speech|EDGEMAR|F
+Your wife calls every day --"|speech|EDGEMAR|F|True
 839||"CLOSE - QUAIL
 Even more suspicious.
-TWO SHOT - QUAIL AND EDGEMAR"|stage direction||
+TWO SHOT - QUAIL AND EDGEMAR"|stage direction|||
 840|QUAIL|"If this is a fantasy, there'll
 be no real consequences when
-I pull this trigger."|speech|QUAIL|M
+I pull this trigger."|speech|QUAIL|M|True
 841|EDGEMAR|"But there will by consequences
 inside your mind.  Consequences
 that won't hurt me... but could
-be fatal to you."|speech|EDGEMAR|F
-842||(beat)|location||
+be fatal to you."|speech|EDGEMAR|F|True
+842||(beat)|location|||
 843|EDGEMAR|"If you shoot me, you'll wipe
 me out of your fantasy -- I
 can't come back again.  Because
 to you, I'll be dead.  I can't
 help you get back to reality.
 You'll be stuck in permanent
-psychosis."|speech|EDGEMAR|F
+psychosis."|speech|EDGEMAR|F|True
 844||"CLOSE - QUAIL
 Trembling, holding the gun point blank in Edgemar's face.
 CLOSE - EDGEMAR
-Showing no fear of tension whatever."|stage direction||
+Showing no fear of tension whatever."|stage direction|||
 845|EDGEMAR|"You're going to lower the gun,
 Mr. Quail.  You're going to
-hand it to me --"|speech|EDGEMAR|F
+hand it to me --"|speech|EDGEMAR|F|True
 846||"CLOSE - QUAIL
 Straining desperately to find the true ""reality.""
 EXTREME CLOSEUP - TRIGGER OF GUN
 Quail's finger on it.
-TWO SHOT - QUAIL AND EDGEMAR"|stage direction||
+TWO SHOT - QUAIL AND EDGEMAR"|stage direction|||
 847|EDGEMAR|"You're going to do exactly
-what I tell you --"|speech|EDGEMAR|F
+what I tell you --"|speech|EDGEMAR|F|True
 848||"Quail PULLS THE TRIGGER!
 REVERSE ANGLE - BACK OF EDGEMAR'S HEAD
 We SEE the results of the gunshot from this angle only,
@@ -1998,127 +1998,127 @@ and so BRIEFLY as to produce an almost SUBLIMINAL effect:
 the back of Edgemar's head blows off --
 He collapses to the floor.
 Melina LEAPS at Edgemar's falling form and CLAMPS HER HANDS
-over Edgemar's RIGHT HAND!"|stage direction||
+over Edgemar's RIGHT HAND!"|stage direction|||
 849|MELINA|"Watch out, Charles!  There's
-more of them in the hall!"|speech|MELINA|M
+more of them in the hall!"|speech|MELINA|M|True
 850||"Quail spins toward the door just as it BURSTS OPEN.  A man
 enters, firing, but Quail has fallen to the floor and
 returns the fire.  He staggers back out into the corridor
-and slams against the wall, dead."|stage direction||
-851||(from hall)|location||
+and slams against the wall, dead."|stage direction|||
+851||(from hall)|location|||
 852|VOICE (O.S.)|"You've had it, Hauser!  Throw
 out your weapon if you want
-a past!"|speech|VOICE|M
+a past!"|speech|VOICE|M|True
 853||"Melina is still crouched by Edgemar's body, holding his
-HAND for some reason.  Her CLIPBOARD dangles by her side."|stage direction||
-854||(whispering)|location||
+HAND for some reason.  Her CLIPBOARD dangles by her side."|stage direction|||
+854||(whispering)|location|||
 855|MELINA|"There's an explosive in the
 clipboard!  He has a dead-man
-switch in his hand!"|speech|MELINA|M
+switch in his hand!"|speech|MELINA|M|True
 856||"Squeezing Edgemar's hand shut with one of hers, she holds
 up her other wrist -- to show that the CLIPBOARD IS BOUND
-TO HER WRIST BY A CHAIN!"|stage direction||
+TO HER WRIST BY A CHAIN!"|stage direction|||
 857|VOICE (O.S.)|"What do you say, Hauser?  We
-haven't got all night!  Hauser?"|speech|VOICE|M
-858||Quail (Hauser) SHOOTS OFF the chain.|stage direction||
-859|QUAIL|What happens it I come out?|speech|QUAIL|M
+haven't got all night!  Hauser?"|speech|VOICE|M|True
+858||Quail (Hauser) SHOOTS OFF the chain.|stage direction|||
+859|QUAIL|What happens it I come out?|speech|QUAIL|M|True
 860||"Quail takes the CLIPBOARD from Melina and eases himself to
-the side of the doorway."|stage direction||
+the side of the doorway."|stage direction|||
 861|VOICE (O.S.)|"We'll put in a word with the
 big boys.  Maybe you'll just
-get exile to Venus."|speech|VOICE|M
+get exile to Venus."|speech|VOICE|M|True
 862|QUAIL|"All right.  Here comes the
-weapon."|speech|QUAIL|M
+weapon."|speech|QUAIL|M|True
 863||"Quail reaches around the corner and SAILS THE CLIPBOARD into
 the hallway.  Melina lets go of Edgemar's hand --
-There is a TREMENDOUS EXPLOSION in the hallway,"|stage direction||
-864||83      INT. HALLWAY - NIGHT|unknown||
+There is a TREMENDOUS EXPLOSION in the hallway,"|stage direction|||
+864||83      INT. HALLWAY - NIGHT|unknown|||
 865||"Quail comes out in crouch, ready to shoot.  On the floor
 lies a DEAD MAN and the body of the Shoeshine Boy, sprawled
 grotesquely.  The hallway is filled with smoke.  The floor
 covered with debris.  Plaster falling from the ceiling.
-All over the hotel, ALARMS begin BLARING."|stage direction||
-866||84      INT. QUAIL'S ROOM - NIGHT|unknown||
+All over the hotel, ALARMS begin BLARING."|stage direction|||
+866||84      INT. QUAIL'S ROOM - NIGHT|unknown|||
 867||"Quail strides back in, icy-furious.  He seizes Melina by
-the wrist and drags her after him into the corridor."|stage direction||
-868||84A     INT. CORRIDOR - NIGHT|unknown||
+the wrist and drags her after him into the corridor."|stage direction|||
+868||84A     INT. CORRIDOR - NIGHT|unknown|||
 869||"Two more E.I.O. men appear but Quail shoots them while
 dragging Melina down the hall in the opposite direction.
-He pushes open the door leading to the staircase."|stage direction||
-870||84B     INT. STAIRCASE - NIGHT|unknown||
+He pushes open the door leading to the staircase."|stage direction|||
+870||84B     INT. STAIRCASE - NIGHT|unknown|||
 871||"Quail and Melina run down the stairs.  On the next landing
 is a service elevator, from which a waiter is emerging
-carefully carrying a tray with hors d'oeuvres and champagne."|stage direction||
-872|QUAIL|Back in, quick!|speech|QUAIL|M
+carefully carrying a tray with hors d'oeuvres and champagne."|stage direction|||
+872|QUAIL|Back in, quick!|speech|QUAIL|M|True
 873|WAITER|"Wouldn't you prefer your order
-in your room, sir?"|speech|WAITER|?
-874|QUAIL|In!|speech|QUAIL|M
+in your room, sir?"|speech|WAITER|?|
+874|QUAIL|In!|speech|QUAIL|M|True
 875||"Quail bundles the waiter unceremoniously back inside the
-elevator."|stage direction||
-876||84C     INT. LIFT - NIGHT|unknown||
+elevator."|stage direction|||
+876||84C     INT. LIFT - NIGHT|unknown|||
 877||"Quail presses the basement button.  As he talks to Melina
 he opens the champagne and pours two glasses.  The waiter
-is too frightened to protest."|stage direction||
-878|QUAIL|Okay.  Answers!  Now!|speech|QUAIL|M
+is too frightened to protest."|stage direction|||
+878|QUAIL|Okay.  Answers!  Now!|speech|QUAIL|M|True
 879|MELINA|"They kidnapped me.  Said
 they'd kill you if I didn't
 cooperate.  I told them I
 didn't care, but then when
-I realized they meant it..."|speech|MELINA|M
+I realized they meant it..."|speech|MELINA|M|True
 880|QUAIL|"I don't know why they're
 after me, but what's your
-connection with all this?"|speech|QUAIL|M
-881|MELINA|We were together before.|speech|MELINA|M
+connection with all this?"|speech|QUAIL|M|True
+881|MELINA|We were together before.|speech|MELINA|M|True
 882|QUAIL|"Believe me, I'm really sorry
 I can't recall the details
-of that encounter."|speech|QUAIL|M
-883||The elevator has reached the basement.  They rush out.|stage direction||
-884||85      EXT. ALLEY BEHIND HILTON - NIGHT|unknown||
+of that encounter."|speech|QUAIL|M|True
+883||The elevator has reached the basement.  They rush out.|stage direction|||
+884||85      EXT. ALLEY BEHIND HILTON - NIGHT|unknown|||
 885||"Quail and Melina run from a basement door into an alley.
 A solar car whips out in front of them.  Quail and Melina
-leap aboard."|stage direction||
-886|MELINA|Go, Bennie, for God's sake!|speech|MELINA|M
-887||86      INT. BENNIE'S SOLAR CAR - NIGHT|unknown||
+leap aboard."|stage direction|||
+886|MELINA|Go, Bennie, for God's sake!|speech|MELINA|M|True
+887||86      INT. BENNIE'S SOLAR CAR - NIGHT|unknown|||
 888||"Bennie weaves as fast as he can in and out of the traffic,
-Quail and Melina ducking out of view in the passenger seat."|stage direction||
-889||(glances in|location||
-890||mirror)|unknown||
-891|BENNIE|Bad news, boss lady.|speech|BENNIE|M
-892|MELINA|What?|speech|MELINA|M
+Quail and Melina ducking out of view in the passenger seat."|stage direction|||
+889||(glances in|location|||
+890||mirror)|unknown|||
+891|BENNIE|Bad news, boss lady.|speech|BENNIE|M|True
+892|MELINA|What?|speech|MELINA|M|True
 893|BENNIE|"Black cruiser just pull out
-behind us."|speech|BENNIE|M
-894||86A     EXT. CITY STREET - NIGHT|unknown||
+behind us."|speech|BENNIE|M|True
+894||86A     EXT. CITY STREET - NIGHT|unknown|||
 895||"A large gas-powered official-looking car is pushing its way
-through the crowds and traffic behind them."|stage direction||
-896||86B     INT. BENNIE'S CAR - NIGHT|unknown||
-897||Quail is aiming his gun at the following car.|stage direction||
+through the crowds and traffic behind them."|stage direction|||
+896||86B     INT. BENNIE'S CAR - NIGHT|unknown|||
+897||Quail is aiming his gun at the following car.|stage direction|||
 898|BENNIE|"Forget the shooter, boss.  I
-lose 'em for you."|speech|BENNIE|M
-899|QUAIL|Lose them?  In this?|speech|QUAIL|M
-900|BENNIE|Hang on!|speech|BENNIE|M
+lose 'em for you."|speech|BENNIE|M|True
+899|QUAIL|Lose them?  In this?|speech|QUAIL|M|True
+900|BENNIE|Hang on!|speech|BENNIE|M|True
 901||"Bennie reaches down, grasps a KNOB.  He yanks it, like
 someone starting an outboard motor -- and an ear-splitting
 LOUD ENGINE roars to life.
 Bennie opens the throttle and the solar car HURTLES DOWN
-THE STREET.  Quail and Melina are thrown back in the seat."|stage direction||
-902||87      EXT. STREETS - NIGHT|unknown||
+THE STREET.  Quail and Melina are thrown back in the seat."|stage direction|||
+902||87      EXT. STREETS - NIGHT|unknown|||
 903||"GUNFIRE blazes all around the car.  Quail FIRES back at
-the pursuing car."|stage direction||
-904||(shouts over|location||
-905||GUNFIRE)|unknown||
+the pursuing car."|stage direction|||
+904||(shouts over|location|||
+905||GUNFIRE)|unknown|||
 906|QUAIL|"You're gonna get a ticket
-for that engine, Bennie --"|speech|QUAIL|M
+for that engine, Bennie --"|speech|QUAIL|M|True
 907|BENNIE|"Yutani 650 -- you like it,
 boss?  Nothing like the old
 gas when you want a bit of
-speed."|speech|BENNIE|M
-908||BULLETS from the cruiser rip through the car.|stage direction||
+speed."|speech|BENNIE|M|True
+908||BULLETS from the cruiser rip through the car.|stage direction|||
 909|MELINA|"You better have two aces,
-Bennie."|speech|MELINA|M
-910||(glances behind)|location||
+Bennie."|speech|MELINA|M|True
+910||(glances behind)|location|||
 911|MELINA|"There's a second cruiser --
-and it's gaining --"|speech|MELINA|M
-912||87A     EXT. CITY STREETS - NIGHT|unknown||
+and it's gaining --"|speech|MELINA|M|True
+912||87A     EXT. CITY STREETS - NIGHT|unknown|||
 913||"Bennie's car hurtles through the crowds with the official
 car gaining on it.  Bennie takes a corner sharply near a
 huge water selling stand.  The official car brakes to make
@@ -2128,8 +2128,8 @@ roof (i.e. through which one of the Agents has been firing)
 so that the car completely fills.  The driver continues the
 chase, but the occupants are now submerged.  They frantic-
 ally open the windows while continuing to follow Bennie's
-car."|stage direction||
-914||88      EXT. ALLEY - NIGHT|unknown||
+car."|stage direction|||
+914||88      EXT. ALLEY - NIGHT|unknown|||
 915||"The solar car rushes down what appears to be a dead-end
 street, with the official vehicle (water pouring out of
 the windows) in pursuit.
@@ -2142,90 +2142,90 @@ The second official car pulls up behind.  A chauffeur jumps
 out and opens the rear door.  Cohaagen steps out.  He sur-
 veys the scene.  The four men in the wrecked car clamber
 their way backwards out of the wreckage.  They are covered
-in blood and their clothes are in shreds."|stage direction||
+in blood and their clothes are in shreds."|stage direction|||
 916|COHAAGEN|"I take it, then, you've failed
-to get him again."|speech|COHAAGEN|M
+to get him again."|speech|COHAAGEN|M|True
 917||"Cohaagen turns to an associate, EMILE, a youngish,
-well-dressed executive type."|stage direction||
-918||(continuing)|location||
-919|COHAAGEN|Proceed with Operation Sphinx.|speech|COHAAGEN|M
-920|EMILE|But, sir...|speech|EMILE|M
-921|COHAAGEN|With him...|speech|COHAAGEN|M
-922||(gestures toward|location||
-923||the mine)|unknown||
+well-dressed executive type."|stage direction|||
+918||(continuing)|location|||
+919|COHAAGEN|Proceed with Operation Sphinx.|speech|COHAAGEN|M|True
+920|EMILE|But, sir...|speech|EMILE|M|True
+921|COHAAGEN|With him...|speech|COHAAGEN|M|True
+922||(gestures toward|location|||
+923||the mine)|unknown|||
 924|COHAAGEN|"...on the lose, I'm not
 taking any more chances.
 Operation Sphinx will flush
-him out."|speech|COHAAGEN|M
-925||93      INT. OLD MINE - NIGHT|unknown||
+him out."|speech|COHAAGEN|M|True
+925||93      INT. OLD MINE - NIGHT|unknown|||
 926||"The solar car proceeds along the tunnel.  It enters an area
 full of smoke.  Dozens of men are sitting around smoking
 cigarettes, pipes and cigars.  Quail looks at them in
-amazement."|stage direction||
-927|QUAIL|What's all this?|speech|QUAIL|M
+amazement."|stage direction|||
+927|QUAIL|What's all this?|speech|QUAIL|M|True
 928|BENNIE|"Nothin', boss.  Just old
 smokies.  Only place they
 can come for a puff.  It's
-all banned topside."|speech|BENNIE|M
+all banned topside."|speech|BENNIE|M|True
 929||"They have now climbed out of the car.  Quail looks
-searchingly at Melina and Bennie."|stage direction||
+searchingly at Melina and Bennie."|stage direction|||
 930|QUAIL|"So you two are into something
 a bit more serious than the
-taxi and truck-stop business."|speech|QUAIL|M
-931|BENNIE|That's right, boss.|speech|BENNIE|M
+taxi and truck-stop business."|speech|QUAIL|M|True
+931|BENNIE|That's right, boss.|speech|BENNIE|M|True
 932||"He unzips his jacket to reveal a T-shirt with ""MARTIAN
 LIBERATION FRONT"" (and an appropriate symbol) emblazoned
-on it."|stage direction||
+on it."|stage direction|||
 933|QUAIL|"My God!... T-shirts.  They
-died out on Earth years ago."|speech|QUAIL|M
-934||(hurt)|location||
+died out on Earth years ago."|speech|QUAIL|M|True
+934||(hurt)|location|||
 935|BENNIE|"Well, maybe we ain't fashion
-leaders, boss."|speech|BENNIE|M
+leaders, boss."|speech|BENNIE|M|True
 936|MELINA|"No.  But we still believe in
-a free Mars."|speech|MELINA|M
+a free Mars."|speech|MELINA|M|True
 937||"They walk as they talk - into a room off the main tunnel.
 It is adorned with ""FREE MARS"" and ""MARTIAN LIBERATION
 FRONT"" posters.  A group of people are printing T-shirts
 and leaflets.  They exchange greetings with Melina and
-Bennie."|stage direction||
+Bennie."|stage direction|||
 938|QUAIL|"So where did I fit into all
-this?"|speech|QUAIL|M
+this?"|speech|QUAIL|M|True
 939|MELINA|"You - when you were Charles
 Hauser with E.I.O -
 infiltrated our group.  I
 guess Cohaagen didn't trust
 you any more when you and
-I..."|speech|MELINA|M
-940||Her gesture suggests their liaison.|stage direction||
+I..."|speech|MELINA|M|True
+940||Her gesture suggests their liaison.|stage direction|||
 941|QUAIL|"Yeah.  And I can't even
 remember it.  We'll have to
-arrange a return bout."|speech|QUAIL|M
+arrange a return bout."|speech|QUAIL|M|True
 942|MELINA|"...so he had your memory
 wiped and fixed you up with
-a new identity."|speech|MELINA|M
+a new identity."|speech|MELINA|M|True
 943|QUAIL|"But - the Sphinx.  Why is
 that stuck in my mind?  Why's
-it so important?"|speech|QUAIL|M
-944|MELINA|I don't know.|speech|MELINA|M
+it so important?"|speech|QUAIL|M|True
+944|MELINA|I don't know.|speech|MELINA|M|True
 945|BENNIE|"Just an ole heap o' stone,
-boss."|speech|BENNIE|M
+boss."|speech|BENNIE|M|True
 946|QUAIL|"It's more than that, Bennie,
 I know it's more.  Somehow
-it's connected."|speech|QUAIL|M
-947||He slumps into a chair with frustration.|stage direction||
-948||(reflecting)|location||
+it's connected."|speech|QUAIL|M|True
+947||He slumps into a chair with frustration.|stage direction|||
+948||(reflecting)|location|||
 949|MELINA|"Maybe there's a way  you can
-get your memory back."|speech|MELINA|M
-950|QUAIL|How?  What?  Where?  When?|speech|QUAIL|M
+get your memory back."|speech|MELINA|M|True
+950|QUAIL|How?  What?  Where?  When?|speech|QUAIL|M|True
 951|MELINA|"A bit of Martian Wisdom.
 We're not all stupid
-colonists."|speech|MELINA|M
-952||99      EXT. CITY - NIGHT|unknown||
+colonists."|speech|MELINA|M|True
+952||99      EXT. CITY - NIGHT|unknown|||
 953||"Bennie, Quail and Melina are walking in a crowded area
 of town.  Water sellers and food stalls are everywhere.
 An ARMORED LOUDSPEAKER VEHICLE appears, broadcasting to
 the crowd.  It is also swinging a powerful searchlight
-along the footpaths and streets."|stage direction||
+along the footpaths and streets."|stage direction|||
 954|VOICE FROM LOUDSPEAKER|"...all residents are to
 report to their nearest
 space-travel agent within
@@ -2233,23 +2233,23 @@ twelve hours, all residents
 will be departing on shuttles
 within twenty-four hours.  Air
 and water supplies will be cut
-off at that time.  I repeat..."|speech|VOICE FROM LOUDSPEAKER|?
-955|MELINA|He's doing it!|speech|MELINA|M
-956|QUAIL|What?  Why?|speech|QUAIL|M
+off at that time.  I repeat..."|speech|VOICE FROM LOUDSPEAKER|?|
+955|MELINA|He's doing it!|speech|MELINA|M|True
+956|QUAIL|What?  Why?|speech|QUAIL|M|True
 957|MELINA|"Clearing everyone out!  It's
-been rumored for months..."|speech|MELINA|M
+been rumored for months..."|speech|MELINA|M|True
 958||"The searchlight approaches Bennie, Quail and Melina.  Bennie
 ducks into a doorway, while Quail grabs Melina and kisses
 her passionately.  The light sees only the back of his head.
-She responds warmly to his kiss."|stage direction||
+She responds warmly to his kiss."|stage direction|||
 959|QUAIL|"Wow.  I can see why I was
-willing to betray E.I.O."|speech|QUAIL|M
+willing to betray E.I.O."|speech|QUAIL|M|True
 960|MELINA|"I though you believed in
-our cause?"|speech|MELINA|M
-961|QUAIL|Yes.  Of course.  That, too.|speech|QUAIL|M
+our cause?"|speech|MELINA|M|True
+961|QUAIL|Yes.  Of course.  That, too.|speech|QUAIL|M|True
 962||"They move into the crowd.  The message on the
-loudspeaker is repeated."|stage direction||
-963||101     INT. KUATO'S SANCTUARY - NIGHT|unknown||
+loudspeaker is repeated."|stage direction|||
+963||101     INT. KUATO'S SANCTUARY - NIGHT|unknown|||
 964||"The interior of the room is an amazing contrast to its
 ghetto exterior.  The decor is a baroque combination of
 Middle Eastern opulence and 21st century flash.  It looks
@@ -2257,45 +2257,45 @@ like something out of ""The Arabian Nights"".
 A man enters from another room.  Although the man's features
 are East Indian, he is very much a Peter Lorre type;  he
 wears a small fez cap and a white linen robe with a cowl
-draped around the back of his neck."|stage direction||
-965||(nodding to|location||
-966||Quail)|unknown||
+draped around the back of his neck."|stage direction|||
+965||(nodding to|location|||
+966||Quail)|unknown|||
 967|STRANGE MAN|"Your servant, Fahreem Kuato.
 I greet you by the
 twenty-seven names that still
 remain, praying that you cast
 jewels into the darkness and
 given them to glow with the
-colors of life."|speech|STRANGE MAN|?
+colors of life."|speech|STRANGE MAN|?|
 968||"As Kuato speaks, Quail, unimpressed, talks, sotto voce,
-to Melina."|stage direction||
-969|QUAIL|What use is this weirdo?|speech|QUAIL|M
+to Melina."|stage direction|||
+969|QUAIL|What use is this weirdo?|speech|QUAIL|M|True
 970|MELINA|"Ssssh...there are skills on
-mars that Earth has forgotten."|speech|MELINA|M
+mars that Earth has forgotten."|speech|MELINA|M|True
 971|KUATO|"No need to introduce yourself,
-Mr. Quail."|speech|KUATO|M
-972||(smiles at Quail's|location||
-973||surprise)|unknown||
+Mr. Quail."|speech|KUATO|M|True
+972||(smiles at Quail's|location|||
+973||surprise)|unknown|||
 974|KUATO|"Tolerate my presumption, but
 it does not tax my powers to
 know that you are the most
 sought-after man on two
-worlds."|speech|KUATO|M
+worlds."|speech|KUATO|M|True
 975||"From the street the sound of loudspeakers giving information
 about Quail and Co. can be heard.  Searchlight beams
-occasionally sweep past the windows."|stage direction||
-976||(continuing)|location||
+occasionally sweep past the windows."|stage direction|||
+976||(continuing)|location|||
 977|KUATO|"This way, my dear man.  We
-have much to accomplish --"|speech|KUATO|M
-978||(ominously)|location||
-979|KUATO|-- and very little time.|speech|KUATO|M
-980||102     INT. KUATO'S INNER SANCTUM - NIGHT|unknown||
+have much to accomplish --"|speech|KUATO|M|True
+978||(ominously)|location|||
+979|KUATO|-- and very little time.|speech|KUATO|M|True
+980||102     INT. KUATO'S INNER SANCTUM - NIGHT|unknown|||
 981||"A Bysantine salon filled with enormous Oriental pillows.
-(NOTE:  In the scenes inside Kuato's sanctum, the loudspeaker"|stage direction||
+(NOTE:  In the scenes inside Kuato's sanctum, the loudspeaker"|stage direction|||
 982||"vans in the outside streets can be heard from time to
 to time.  They are repeating the evacuation message
 from scene 99, but alternating it with a call for the
-apprehension of Quail and Melina..."|unknown||
+apprehension of Quail and Melina..."|unknown|||
 983|VOICE FROM LOUDSPEAKER|"...for information leading to
 these arrests, first-class
 travel to Earth will be
@@ -2308,81 +2308,81 @@ company of a black taxi driver.
 These are dangerous subversives
 and sworn enemies of the
 glorious Peoples Republic of
-Mars...)"|speech|VOICE FROM LOUDSPEAKER|?
+Mars...)"|speech|VOICE FROM LOUDSPEAKER|?|
 984|KUATO|"The turbulence you hear
 outside is but a reflection
 of the turmoil within you.
 You have brought it to Mars
-in your search for yourself."|speech|KUATO|M
+in your search for yourself."|speech|KUATO|M|True
 985||"Kuato takes a seat on the pillows, invites the others to
-join him.  Quail hesitates."|stage direction||
+join him.  Quail hesitates."|stage direction|||
 986|QUAIL|"And you're going to help me
-by reading my mind?"|speech|QUAIL|M
+by reading my mind?"|speech|QUAIL|M|True
 987|KUATO|"Indubitably.  There is only
-small matter of a fee."|speech|KUATO|M
-988||THREE RESPONSES COME TOGETHER.|stage direction||
-989|QUAIL|A fee!|speech|QUAIL|M
-990|KAUTO|Naturally.|speech|KAUTO|M
-991|MELINA|This is for our cause!|speech|MELINA|M
-992||(soothingly)|location||
+small matter of a fee."|speech|KUATO|M|True
+988||THREE RESPONSES COME TOGETHER.|stage direction|||
+989|QUAIL|A fee!|speech|QUAIL|M|True
+990|KAUTO|Naturally.|speech|KAUTO|M|
+991|MELINA|This is for our cause!|speech|MELINA|M|True
+992||(soothingly)|location|||
 993|KUATO|"Income before ideals.  Shall
 we say five-hundred-thousand
-dollars?"|speech|KUATO|M
-994||(appalled)|location||
+dollars?"|speech|KUATO|M|True
+994||(appalled)|location|||
 995|QUAIL|"Five-hundred-thousand Martian
-dollars, that's..."|speech|QUAIL|M
-996||(think,|location||
+dollars, that's..."|speech|QUAIL|M|True
+996||(think,|location|||
 997||"calculating the
-exchange rate)"|unknown||
+exchange rate)"|unknown|||
 998|KUATO|"Not Martian dollars, Mr.
-Quail - Earth dollars."|speech|KUATO|M
-999|MELINA|That's interplanetary robbery!|speech|MELINA|M
+Quail - Earth dollars."|speech|KUATO|M|True
+999|MELINA|That's interplanetary robbery!|speech|MELINA|M|True
 1000|QUAIL|"With today's exchange rate...
 that's over two million
-Martian dollars!"|speech|QUAIL|M
-1001||(suave)|location||
+Martian dollars!"|speech|QUAIL|M|True
+1001||(suave)|location|||
 1002|KUATO|"What price do you put, Mr.
 Quail, on the future of the
-solar system?"|speech|KUATO|M
+solar system?"|speech|KUATO|M|True
 1003|BENNIE|"Aw, come off it, man.  Just
 for a bit of mumbo-jumbo
-with a crystal ball."|speech|BENNIE|M
-1004||(his manner|location||
-1005||slipping)|unknown||
+with a crystal ball."|speech|BENNIE|M|True
+1004||(his manner|location|||
+1005||slipping)|unknown|||
 1006|KUATO|"Listen, buster, we're talking
 heavy stuff here.  You try
 and work out what's with this
-guy!"|speech|KUATO|M
-1007||He jerks his thumb toward Quail.|stage direction||
+guy!"|speech|KUATO|M|True
+1007||He jerks his thumb toward Quail.|stage direction|||
 1008|QUAIL|"Okay!  Okay!  I'll pay it,
 but the Interstellar Trade
 Practices Commission might
-be interested in this."|speech|QUAIL|M
+be interested in this."|speech|QUAIL|M|True
 1009||"Everyone calms down.
 Kuato smiles.  He extinguishes all the lights save one
 small blue one, which illuminates the room eerily, like
-a seance."|stage direction||
+a seance."|stage direction|||
 1010|KUATO|"Retrieving the past is like
 walking backwards along a
 perilous road.  The
 half-recalled, the
 half-forgotten, the repressed,
 the fantasies, the triumphs,
-joys, failures, betrayals..."|speech|KUATO|M
-1011||He closes his eyes and concentrates.|stage direction||
-1012||(continuing)|location||
+joys, failures, betrayals..."|speech|KUATO|M|True
+1011||He closes his eyes and concentrates.|stage direction|||
+1012||(continuing)|location|||
 1013|KUATO|"Yes... I can feel it... a
 wall.  Erasure techniques are
-so brutal."|speech|KUATO|M
-1014||(frowns; scans|location||
-1015||harder)|unknown||
+so brutal."|speech|KUATO|M|True
+1014||(frowns; scans|location|||
+1015||harder)|unknown|||
 1016|KUATO|"Blocks.  Side channels.
 Future and past all jumbled.
 I shall have to enter deep
-trance to break through."|speech|KUATO|M
-1017||(rising)|location||
+trance to break through."|speech|KUATO|M|True
+1017||(rising)|location|||
 1018|KUATO|"I will be scanning you through
-the Oracle Head."|speech|KUATO|M
+the Oracle Head."|speech|KUATO|M|True
 1019||"Kauto turns around and sits down with back toward Quail.
 He reaches up and lowers his cowl, REVEALING:
 A TINY LITTLE HEAD GROWING OUT OF THE BACK OF HIS NECK!
@@ -2391,31 +2391,31 @@ and looks like one of those dolls made from dried apples; a
 shriveled, ancient-looking yellow little ball.
 The LITTLE FACE TWITCHED, YAWNS and OPENS ITS EYES, BLINKS.
 It looks at Melina, then at Quail.
-It opens its toothless little mouth and SPEAKS."|stage direction||
+It opens its toothless little mouth and SPEAKS."|stage direction|||
 1020|ORACLE HEAD|"Do not fear me.  I need your
-openness..."|speech|ORACLE HEAD|M
-1021||ZOOM IN ON QUAIL'S EYES.|stage direction||
-1022||(continuing)|location||
+openness..."|speech|ORACLE HEAD|M|
+1021||ZOOM IN ON QUAIL'S EYES.|stage direction|||
+1022||(continuing)|location|||
 1023|ORACLE HEAD|"Open you thoughts to my
-presence..."|speech|ORACLE HEAD|M
-1024||CONTINUE ZOOM UNTIL ENTIRE FRAME is filled by QUAIL'S EYE.|stage direction||
-1025||(continuing)|location||
-1026|ORACLE HEAD|Open...|speech|ORACLE HEAD|M
-1027||DISSOLVE TO:|unknown||
+presence..."|speech|ORACLE HEAD|M|
+1024||CONTINUE ZOOM UNTIL ENTIRE FRAME is filled by QUAIL'S EYE.|stage direction|||
+1025||(continuing)|location|||
+1026|ORACLE HEAD|Open...|speech|ORACLE HEAD|M|
+1027||DISSOLVE TO:|unknown|||
 1028||"BLACKNESS BROKEN BY PULSES OF WHITE LIGHT
 The alternations between dark (ACTION) and white (LIGHT)
 are RHYTHMICAL so as to create a hypnotic, dream-like
-feeling."|stage direction||
-1029||103     WHITE LIGHT|unknown||
+feeling."|stage direction|||
+1029||103     WHITE LIGHT|unknown|||
 1030||"Fades to reveal a dramatic CLOSE UP of the SPHINX.  We see
-its face, shoulders and behind it the red Martian sky --"|stage direction||
-1031||103A    PULL BACK|unknown||
+its face, shoulders and behind it the red Martian sky --"|stage direction|||
+1031||103A    PULL BACK|unknown|||
 1032||"to reveal the Sphinx is a PROJECTION on a screen in a
 windowless briefing room.  Quail is seated across from
 Cohaagen and other SENIOR E.I.O. OFFICERS.  On the walls
 are numerous satellite photos, recon maps and excavation
-drawings -- all relating to the Sphinx."|stage direction||
-1033||107     EXT. MARTIAN SPHINX - SUNSET|unknown||
+drawings -- all relating to the Sphinx."|stage direction|||
+1033||107     EXT. MARTIAN SPHINX - SUNSET|unknown|||
 1034||"Scaffolding and excavation works cover a wall of the Sphinx;
 the Sphinx's huge CARVED FACE visible in the background.
 Quail and several other E.I.O. agents stand poised, wearing
@@ -2423,25 +2423,25 @@ breathing masks and protective gear, as a powerful
 excavation device prizes back a huge stone, revealing
 an ENTRANCE TO SOME KIND OF HIDDEN CHAMBER.
 The other agents are fearful, don't want to proceed.  Quail
-ignores them, enters the chamber --"|stage direction||
-1035||107A    CLOSE - QUAIL'S FACE|unknown||
+ignores them, enters the chamber --"|stage direction|||
+1035||107A    CLOSE - QUAIL'S FACE|unknown|||
 1036||"As he enters.  We read awe, shock and fascination on his
 features.  He approaches something we can't see.  His
 hand reaches out.
 Suddenly, a bolt of incredible powerful energy flashes out,
 striking Quail like a bolt of lightning.
-WHITE LIGHT."|stage direction||
-1037||105     INT. LAST CHANCE SALOON - NIGHT|unknown||
+WHITE LIGHT."|stage direction|||
+1037||105     INT. LAST CHANCE SALOON - NIGHT|unknown|||
 1038||"Quail and Melina are dancing.  The faceted mirror ball on
 the ceiling become the --
-WHITE LIGHT."|stage direction||
-1039||106     INT. BEDROOM - DAY|unknown||
+WHITE LIGHT."|stage direction|||
+1039||106     INT. BEDROOM - DAY|unknown|||
 1040||"Melina watches from the bed as Quail dresses.  She rises,
 with only the sheet around her, tries desperately to make
 Quail stay.  Plainly he wants to, but he can't.  They kiss
 lingeringly;  then Quail, as if ""called to duty,"" exits.
-WHITE LIGHT."|stage direction||
-1041||108     INT. DETENTION CELL - WINDOWLESS|unknown||
+WHITE LIGHT."|stage direction|||
+1041||108     INT. DETENTION CELL - WINDOWLESS|unknown|||
 1042||"Quail alone, hands bound, in a holding chamber.  Suddenly,
 the door opens and THREE BEEFY E.I.O. AGENTS enter.  They
 grab Quail to haul him out.  Quail battles them with
@@ -2451,8 +2451,8 @@ PUNCHES a second man with a two-handed blow and KNOCKS
 HIM UNCONSCIOUS.  The third man sneaks around behind
 Quail and DROPS HIM WITH A BLACKJACK to the back of the
 head.
-WHITE LIGHT."|stage direction||
-1043||109     INT. HOSPITAL ROOM - WINDOWLESS|unknown||
+WHITE LIGHT."|stage direction|||
+1043||109     INT. HOSPITAL ROOM - WINDOWLESS|unknown|||
 1044||"Quail on his back, all four limbs pinned by some futuristic
 version of ""the rack,"" his head held imobile by a FEARSOME
 DEVICE similar to the one we glimpsed on Earth, in the van
@@ -2461,11 +2461,11 @@ Several DOCTORS stand over him.  INTO FRAME moves...
 Cohaagen!
 Cohaagen orders the doctors to attach electrodes to PROBES
 already inserted into Quail's brain.  As they turn up the
-power, Quail's face contorts in a grimace of agony --"|stage direction||
+power, Quail's face contorts in a grimace of agony --"|stage direction|||
 1045|ORACLE HEAD'S VOICE|"You have seen your past.
-Now read the future..."|speech|ORACLE HEAD'S VOICE|?
-1046||WHITE LIGHT.|stage direction||
-1047||110     INT. SURREAL TUNNEL - DAY OR NIGHT|unknown||
+Now read the future..."|speech|ORACLE HEAD'S VOICE|?|
+1046||WHITE LIGHT.|stage direction|||
+1047||110     INT. SURREAL TUNNEL - DAY OR NIGHT|unknown|||
 1048||"The same scene we saw during the film's OPENING SEQUENCE.
 A man wearing a LIGHT-WEIGHT THERMAL SUIT races through a
 LABYRINTH OF TUNNELS.  The GROUND TREMBLES beneath him, as
@@ -2481,31 +2481,31 @@ to promise safety.  He battles toward it.  SOUNDS OF
 EXPLOSIONS increase, building urgency.  Up ahead, emerging
 from the light, HANDS REACH OUT TO HELP QUAIL.  He seems
 almost to safety.  But just as he REACHES THE HANDS --
-TWO GUNSHOTS RING OUT!"|stage direction||
+TWO GUNSHOTS RING OUT!"|stage direction|||
 1049||"SHOCK CUT TO:
-111     INT. KUATO'S INNER SANCTUM - NIGHT"|unknown||
+111     INT. KUATO'S INNER SANCTUM - NIGHT"|unknown|||
 1050||"Quail awakens with a jolt.  White as a sheet... sweating
 like he's just run ten miles.  Then:  a transformation
 seems to come over him.  He LOOKS -- and SEES:
 KUATO slumped across the cushions -- MELINA beside Kuato --
-BENNIE standing holding a smoking GUN trained on Kuato."|stage direction||
-1051||(rushes to Quail)|location||
-1052|MELINA|Charles!  Are you all right?|speech|MELINA|M
+BENNIE standing holding a smoking GUN trained on Kuato."|stage direction|||
+1051||(rushes to Quail)|location|||
+1052|MELINA|Charles!  Are you all right?|speech|MELINA|M|True
 1053||"Quail stares at her, as if an entire bank of lost memories
-were suddenly clicking back into place --"|stage direction||
-1054||(continuing)|location||
+were suddenly clicking back into place --"|stage direction|||
+1054||(continuing)|location|||
 1055|MELINA|"He kept dragging you deeper
 and deeper into the trance!
 We couldn't wake either of
-you!"|speech|MELINA|M
-1056|BENNIE|You stopped breathing!|speech|BENNIE|M
+you!"|speech|MELINA|M|True
+1056|BENNIE|You stopped breathing!|speech|BENNIE|M|True
 1057||"Quail gives Bennie that same eerie look, then turns to
 Kuato, who is sprawled motionless across the pillows, a
-curl of smoke rising from two entry wounds in his spine."|stage direction||
+curl of smoke rising from two entry wounds in his spine."|stage direction|||
 1058|QUAIL|"Why did you kill him?  It
-was the next bit I really..."|speech|QUAIL|M
+was the next bit I really..."|speech|QUAIL|M|True
 1059|BENNIE|"No choice, boss.  It was him
-or you."|speech|BENNIE|M
+or you."|speech|BENNIE|M|True
 1060||"Quail lunges across the pillows to Kuato's unbreathing
 form.  Quail shakes the ancient mystic, trying to find a
 last flicker of life.
@@ -2514,22 +2514,22 @@ he about to give up when --
 A MUFFLED CHOCKED SOUND comes from behind Kuato's neck.
 It's the Oracle Head!  Quail instantly rolls Kuato's body
 over.  The Head is still alive!
-Quail bends closer, kneeling."|stage direction||
-1061||(whispers)|location||
+Quail bends closer, kneeling."|stage direction|||
+1061||(whispers)|location|||
 1062|ORACLE HEAD|"-- the vengence you seek...
 and the salvation of Mars...
 are waiting for you in the
-crown of the Sphinx."|speech|ORACLE HEAD|M
-1063||(sags, gasping)|location||
+crown of the Sphinx."|speech|ORACLE HEAD|M|
+1063||(sags, gasping)|location|||
 1064||"The Oracle Head lets out a LONG SIGH and goes limp, a
 small trickle of blood oozing from the corner of its
-mouth."|stage direction||
+mouth."|stage direction|||
 1065|BENNIE|"Phobos and Demos!  What was
-that all about?"|speech|BENNIE|M
+that all about?"|speech|BENNIE|M|True
 1066||"Quail ignores him, still kneeling -- deep in thought --
-over the Oracle Head."|stage direction||
+over the Oracle Head."|stage direction|||
 1067|MELINA|"Are you okay?... Charles?
-Doug?  Whoever?"|speech|MELINA|M
+Doug?  Whoever?"|speech|MELINA|M|True
 1068||"Quail reaches out and closes the Oracle Head's tiny
 eyelids.  Melina and Bennie exchange a glance.  Then:
 QUAIL
@@ -2538,118 +2538,118 @@ Then he turns.
 He has become a different man.  His eyes gleam.  He is
 forceful, purposeful, contained.  Once again the ace E.I.O.
 agent.  Melina senses immediately that this is the man she
-knew before"|stage direction||
-1069||(even his voice|location||
-1070||has changed)|unknown||
+knew before"|stage direction|||
+1069||(even his voice|location|||
+1070||has changed)|unknown|||
 1071|QUAIL|"I'm fine... only I'm not
 Doug -- I'm Charles Hauser...
 and I know everything Hauser
-knew."|speech|QUAIL|M
-1072||He turns to Bennie|stage direction||
-1073||(continuing)|location||
-1074|QUAIL|Bennie, where's your depot?|speech|QUAIL|M
-1075||(working it out)|location||
+knew."|speech|QUAIL|M|True
+1072||He turns to Bennie|stage direction|||
+1073||(continuing)|location|||
+1074|QUAIL|Bennie, where's your depot?|speech|QUAIL|M|True
+1075||(working it out)|location|||
 1076|BENNIE|"Well... you go outta here...
 take a left, then down past
 the first... no second...
-water bureau you..."|speech|BENNIE|M
-1077||(briskly)|location||
-1078|QUAIL|Can you get us there?|speech|QUAIL|M
-1079|BENNIE|No problem.|speech|BENNIE|M
-1080|MELINA|But why?|speech|MELINA|M
-1081|QUAIL|We're going to the Sphinx.|speech|QUAIL|M
-1082||He strides off.  The others follow, still full of questions.|stage direction||
+water bureau you..."|speech|BENNIE|M|True
+1077||(briskly)|location|||
+1078|QUAIL|Can you get us there?|speech|QUAIL|M|True
+1079|BENNIE|No problem.|speech|BENNIE|M|True
+1080|MELINA|But why?|speech|MELINA|M|True
+1081|QUAIL|We're going to the Sphinx.|speech|QUAIL|M|True
+1082||He strides off.  The others follow, still full of questions.|stage direction|||
 1083|BENNIE|"Impossible, man.  Guards
-everywhere."|speech|BENNIE|M
+everywhere."|speech|BENNIE|M|True
 1084|MELINA|"The Oracle... what did you
-learn?"|speech|MELINA|M
+learn?"|speech|MELINA|M|True
 1085|QUAIL|"Only everything.  I've got
-total recall."|speech|QUAIL|M
-1086||They are now heading down the stairs toward the street.|stage direction||
-1087||114     EXT. STREET - EARLY MORNING|unknown||
+total recall."|speech|QUAIL|M|True
+1086||They are now heading down the stairs toward the street.|stage direction|||
+1087||114     EXT. STREET - EARLY MORNING|unknown|||
 1088||"Quail, Melina and Bennie make their way through the crowds
 to Bennie's depot.  The streets are even busier then before -
 people are now beginning to evacuate the city.  Everyone is
 carrying their possessions - bundles, suitcases, pets, etc.,
 etc.  The loudspeaker vans are still touring and broad-
 casting the same message.
-Bennie indicates a building on their left."|stage direction||
-1089||115     INT. CAR POOL - EARLY MORNING|unknown||
+Bennie indicates a building on their left."|stage direction|||
+1089||115     INT. CAR POOL - EARLY MORNING|unknown|||
 1090||"Bennie and Melina follow Quail as he walks up and down the
 rows of vehicles in the vast building.  There are bull-
-dozers and ore haulers as well as solar taxis."|stage direction||
+dozers and ore haulers as well as solar taxis."|stage direction|||
 1091|BENNIE|"We'll never get near the
 Sphinx!  They'll blow us
-apart!"|speech|BENNIE|M
+apart!"|speech|BENNIE|M|True
 1092||"Quail ignores him as he continues to mumble to himself.
 He rapidly but carefully inspects each vehicle as they
-pass.  Camera tracks rapidly with them."|stage direction||
+pass.  Camera tracks rapidly with them."|stage direction|||
 1093|MELINA|"What are we doing, Charles?
-For God's sake, tell us."|speech|MELINA|M
+For God's sake, tell us."|speech|MELINA|M|True
 1094|QUAIL|"The Sphinx... it's not some
 useless artifact, it's a
 machine built by some alien
 race eighteen millions years
 ago.  The same race that
 built the on one Earth...
-for the same purpose."|speech|QUAIL|M
+for the same purpose."|speech|QUAIL|M|True
 1095||"He stops in front of a large, odd-shaped vehicle with a
-large scoop or propeller on the front."|stage direction||
-1096||(continuing)|location||
-1097|QUAIL|This is what we need.|speech|QUAIL|M
-1098||He begins to climb in;  the others follow.|stage direction||
-1099||(referring to the|location||
-1100||Sphinx)|unknown||
+large scoop or propeller on the front."|stage direction|||
+1096||(continuing)|location|||
+1097|QUAIL|This is what we need.|speech|QUAIL|M|True
+1098||He begins to climb in;  the others follow.|stage direction|||
+1099||(referring to the|location|||
+1100||Sphinx)|unknown|||
 1101|BENNIE|"It's a hunk of old stone,
-man."|speech|BENNIE|M
-1102||(ditto)|location||
-1103|MELINA|Purpose?  What purpose?|speech|MELINA|M
-1104||Bennie starts the engine.|stage direction||
-1105|QUAIL|Come on, Bennie, move it.|speech|QUAIL|M
-1106||(then, to Melina)|location||
+man."|speech|BENNIE|M|True
+1102||(ditto)|location|||
+1103|MELINA|Purpose?  What purpose?|speech|MELINA|M|True
+1104||Bennie starts the engine.|stage direction|||
+1105|QUAIL|Come on, Bennie, move it.|speech|QUAIL|M|True
+1106||(then, to Melina)|location|||
 1107|QUAIL|"Have you heard the word,
-""terriform""?"|speech|QUAIL|M
-1108||Melina shakes her head.  The vehicle moves off.|stage direction||
-1109||115A    EXT. AIR LOCK - MORNING|unknown||
+""terriform""?"|speech|QUAIL|M|True
+1108||Melina shakes her head.  The vehicle moves off.|stage direction|||
+1109||115A    EXT. AIR LOCK - MORNING|unknown|||
 1110||"GUARDS are carefully checking every vehicle leaving the
 city, though this has to be done fairly rapidly because
 of the inhabitants leaving for the Space Ports.
-The vehicle with Bennie, Quail and Melina arrives."|stage direction||
-1111||115B    INT. VEHICLE - AIR LOCK - MORNING|unknown||
+The vehicle with Bennie, Quail and Melina arrives."|stage direction|||
+1111||115B    INT. VEHICLE - AIR LOCK - MORNING|unknown|||
 1112||"Bennie is nervous.  Melina and Quail are in the back, but
 cannot be seen.  Guards are checking all vehicles exiting,
-looking for Quail and Melina."|stage direction||
-1113||(calling to|location||
-1114||Guards)|unknown||
+looking for Quail and Melina."|stage direction|||
+1113||(calling to|location|||
+1114||Guards)|unknown|||
 1115|BENNIE|"Just deliverin' some old junk
 to the mine out at Apidalia
 Planitia.  Got them people
 you're lookin' for in the
-back as well."|speech|BENNIE|M
+back as well."|speech|BENNIE|M|True
 1116||"The Guards laugh and signal him on.
 Once through the second door of the air lock (i.e. to the
 area outside the city), Quail and Melina emerge and sit
-up on the rear seats."|stage direction||
+up on the rear seats."|stage direction|||
 1117|QUAIL|"The machine in the Sphinx is
 tapped straight down to the
 molten core of this planet.
 There are tunnels and ducts
 everywhere, all powered by
-fusion generators..."|speech|QUAIL|M
+fusion generators..."|speech|QUAIL|M|True
 1118|BENNIE|"You sure the little man
-didn't fry your brain, Quail?"|speech|BENNIE|M
-1119||(overlapping)|location||
-1120|MELINA|For what?  To do what?|speech|MELINA|M
+didn't fry your brain, Quail?"|speech|BENNIE|M|True
+1119||(overlapping)|location|||
+1120|MELINA|For what?  To do what?|speech|MELINA|M|True
 1121|QUAIL|"To combine elements in the
 Martian core and release
 them as oxygen, hydrogen
-and nitrogen."|speech|QUAIL|M
-1122|BENNIE|That's air!|speech|BENNIE|M
-1123||116B    EXT. DESERT - MORNING|unknown||
+and nitrogen."|speech|QUAIL|M|True
+1122|BENNIE|That's air!|speech|BENNIE|M|True
+1123||116B    EXT. DESERT - MORNING|unknown|||
 1124||"In a wide shot, the vehicle is traversing the desert.  The
 domed city is some distance in the background.  Voices are
 heard in false perspective.  Emphasis is on the dry and
-hostile natural landscape of Mars."|stage direction||
+hostile natural landscape of Mars."|stage direction|||
 1125|QUAIL|"That's right.  Air and water.
 Terriforming will create a
 permanent livable environment
@@ -2657,100 +2657,100 @@ for Mars.  No more pressurized
 cities, no more containers in
 the desert.  There'll be
 rivers, vegetation - life -
-the same as Earth."|speech|QUAIL|M
-1126||(baffled)|location||
+the same as Earth."|speech|QUAIL|M|True
+1126||(baffled)|location|||
 1127|MELINA|"So why is Cohaagen shipping
-everyone out?"|speech|MELINA|M
+everyone out?"|speech|MELINA|M|True
 1128|QUAIL|"Don't you see?!  From being
 a pile of red dirt with
 minerals, Mars is going to
 change into  a chunk of
-priceless real estate."|speech|QUAIL|M
+priceless real estate."|speech|QUAIL|M|True
 1129|MELINA|"And Cohaagen's going to own
-it all!"|speech|MELINA|M
+it all!"|speech|MELINA|M|True
 1130|QUAIL|"Right!  He can start selling
 it off to well-heeled investors
 from Earth.  Beach condos, ski
-resorts, you name it."|speech|QUAIL|M
+resorts, you name it."|speech|QUAIL|M|True
 1131|MELINA|"No wonder he wanted you to...
-penetrate... out group."|speech|MELINA|M
-1132||(nods)|location||
+penetrate... out group."|speech|MELINA|M|True
+1132||(nods)|location|||
 1133|QUAIL|"Once word of this gets out,
 the whole planet will support
-you."|speech|QUAIL|M
-1134||117     EXT. DESERT - DAY|unknown||
+you."|speech|QUAIL|M|True
+1134||117     EXT. DESERT - DAY|unknown|||
 1135||"The vehicle is now approaching the Sphinx.  Both it and
 the pyramids can be seen some distance away.
-Voice are heard in CU perspective."|stage direction||
-1136|MELINA|So what can we do?|speech|MELINA|M
+Voice are heard in CU perspective."|stage direction|||
+1136|MELINA|So what can we do?|speech|MELINA|M|True
 1137|QUAIL|"Ruin his little scheme by
 terriforming ahead of
 schedule - while the
-inhabitants are still here."|speech|QUAIL|M
-1138||Melina is amazed.|stage direction||
+inhabitants are still here."|speech|QUAIL|M|True
+1138||Melina is amazed.|stage direction|||
 1139|MELINA|"But who'll work the machine?
-Do you know how?"|speech|MELINA|M
+Do you know how?"|speech|MELINA|M|True
 1140|QUAIL|"I'm the only one who does.
 Why do you think Cohaagen's
-left me alone all this time?"|speech|QUAIL|M
-1141||118     EXT. DESERT - DAY|unknown||
-1142||The vehicle is even closer to the Sphinx.|stage direction||
+left me alone all this time?"|speech|QUAIL|M|True
+1141||118     EXT. DESERT - DAY|unknown|||
+1142||The vehicle is even closer to the Sphinx.|stage direction|||
 1143|QUAIL|"I was the first one inside
 when they cracked the riddle
 of the Sphinx.  It must've
 been programmed.  Some kind
-of...force...shot into me."|speech|QUAIL|M
+of...force...shot into me."|speech|QUAIL|M|True
 1144|MELINA|"But Cohaagen wiped your
-memory!!!"|speech|MELINA|M
-1145||(smoothly)|location||
+memory!!!"|speech|MELINA|M|True
+1145||(smoothly)|location|||
 1146|QUAIL|"Just a way of putting me on
 ice.  He'd of reversed it
-once the planet was evacuated."|speech|QUAIL|M
+once the planet was evacuated."|speech|QUAIL|M|True
 1147|BENNIE|"Man!  This is real complicated.
-Go over it again, real slow."|speech|BENNIE|M
-1148||119     INT. VEHICLE - DAY|unknown||
-1149||(ignoring Bennie's|location||
-1150||aside)|unknown||
+Go over it again, real slow."|speech|BENNIE|M|True
+1148||119     INT. VEHICLE - DAY|unknown|||
+1149||(ignoring Bennie's|location|||
+1150||aside)|unknown|||
 1151|QUAIL|"What he hadn't counted on was
-your effect on me."|speech|QUAIL|M
-1152||(smiling)|location||
+your effect on me."|speech|QUAIL|M|True
+1152||(smiling)|location|||
 1153|MELINA|"And all without the marvels
-of modern science!"|speech|MELINA|M
+of modern science!"|speech|MELINA|M|True
 1154||"Quail looks out the back window, his attention attracted
 by two patrol vehicles.  They are some distance away, but
-approaching steadily."|stage direction||
-1155||119A    EXT. DESERT - DAY|unknown||
+approaching steadily."|stage direction|||
+1155||119A    EXT. DESERT - DAY|unknown|||
 1156||"A wide shot shows a total of four patrol vehicles approach-
 ing the vehicle with Quail, Melina and Bennie.  Suddenly,
-it stops moving."|stage direction||
-1157||120     INT. VEHICLE - DAY|unknown||
-1158||The vehicle had just stopped.|stage direction||
+it stops moving."|stage direction|||
+1157||120     INT. VEHICLE - DAY|unknown|||
+1158||The vehicle had just stopped.|stage direction|||
 1159|QUAIL|"Bennie, don't stop now, take
-it..."|speech|QUAIL|M
+it..."|speech|QUAIL|M|True
 1160||"He turns to see Bennie is covering him and Melina with a
-pistol."|stage direction||
-1161|MELINA|You bastard.|speech|MELINA|M
+pistol."|stage direction|||
+1161|MELINA|You bastard.|speech|MELINA|M|True
 1162|BENNIE|"Like I said.  It's a tough
 planet.  I'm a baddie, not
-a goodie."|speech|BENNIE|M
+a goodie."|speech|BENNIE|M|True
 1163|QUAIL|"I should have known, you
-were just too helpful."|speech|QUAIL|M
+were just too helpful."|speech|QUAIL|M|True
 1164|BENNIE|"EIO Rule One, man.  Trust
 Nobody.  Now you can do
 your terriforming stuff
 right when those space
-shuttles are gone."|speech|BENNIE|M
+shuttles are gone."|speech|BENNIE|M|True
 1165|MELINA|"But what about the Martian
 people?  Out cause?  I thought
-you believed in it."|speech|MELINA|M
+you believed in it."|speech|MELINA|M|True
 1166|BENNIE|"Your cause?  That bunch of
 dead beat radicals!  When I
-hand in this little number..."|speech|BENNIE|M
-1167||(flicks his gun|location||
-1168||in Quail's face)|unknown||
+hand in this little number..."|speech|BENNIE|M|True
+1167||(flicks his gun|location|||
+1168||in Quail's face)|unknown|||
 1169|BENNIE|"...I'll get real estate rights
 on the whole of Chryse
-Planitia..."|speech|BENNIE|M
+Planitia..."|speech|BENNIE|M|True
 1170||"At that instant, Melina lunges, PUNCHES A RED EMERGENCY
 BUTTON.  The VENT beside Bennie's hand BLOWS OPEN, [causing]
 a powerful suction caused by Mars's vacuum atmosphere.
@@ -2763,16 +2763,16 @@ PISTOL IS SUCKED, CLATTERING, OUT THE VENT!
 Quail delivers a roundhouse punch to Bennie, knocking him
 clear across the bus.
 Melina seals the vent, REPRESSURIZES THE CABIN.
-Bennie gets up off the floor, shaking off Quail's punch--"|stage direction||
-1171||121     EXT. DESERT - DAY|unknown||
-1172||The E.I.O. vehicle are a half mile off -- and closing in.|stage direction||
-1173||122     INT. SAND MOLE - DAY|unknown||
+Bennie gets up off the floor, shaking off Quail's punch--"|stage direction|||
+1171||121     EXT. DESERT - DAY|unknown|||
+1172||The E.I.O. vehicle are a half mile off -- and closing in.|stage direction|||
+1173||122     INT. SAND MOLE - DAY|unknown|||
 1174||"Quail glances at the vehicles, turns to Bennie -- ready
 to jump him.  But stops short at what he sees Bennie doing.
 Bennie is clipping on his MECHANICAL ARM.  It sprouts
-several rows of vicious-looking STEEL BLADES --"|stage direction||
+several rows of vicious-looking STEEL BLADES --"|stage direction|||
 1175|BENNIE|"This makes Bennie a cut above
-anyone else."|speech|BENNIE|M
+anyone else."|speech|BENNIE|M|True
 1176||"Bennie presses another button and the BLADES START SPINNING.
 Bennie's mechanical arm is in effect now a BUZZ SAW!
 The fight begins.  Bennie attacks Quail with his buzz-saw
@@ -2802,69 +2802,69 @@ ing, he falters.  Quail aims a titanic blow, PUNCHES
 BENNIE out through the hole in the mole's wall!
 Quail and Melina, masks on, stare out as Bennie claws
 desperately at his severed air line.  The Martian vacuum
-pulls the oxygen from Bennie's lungs, he chokes, staggers --"|stage direction||
-1177||122AA   EXT. DESERT - DAY|unknown||
+pulls the oxygen from Bennie's lungs, he chokes, staggers --"|stage direction|||
+1177||122AA   EXT. DESERT - DAY|unknown|||
 1178||"Bennie is beside the vehicle.  He implodes like a balloon
-with all its air gone."|stage direction||
-1179||122AB   INT/EXT. VEHICLE - DAY|unknown||
-1180||Melina hides her face in horror.  At that instant --|stage direction||
-1181||122A    EXT. DESERT - DAY|unknown||
+with all its air gone."|stage direction|||
+1179||122AB   INT/EXT. VEHICLE - DAY|unknown|||
+1180||Melina hides her face in horror.  At that instant --|stage direction|||
+1181||122A    EXT. DESERT - DAY|unknown|||
 1182||"Bullets dig into the sand all around the vehicle.  The
 patrol cars are only a few hundred yards away!  Loud-
-speakers call for Quail's surrender."|stage direction||
-1183||122B    INT. VEHICLE - DAY|unknown||
+speakers call for Quail's surrender."|stage direction|||
+1183||122B    INT. VEHICLE - DAY|unknown|||
 1184||"Quail lunges for the vehicle controls.  Presses a button
-marked ""Dive"".  The vehicle tilts."|stage direction||
-1185||122C    EXT. DESERT - DAY|unknown||
+marked ""Dive"".  The vehicle tilts."|stage direction|||
+1185||122C    EXT. DESERT - DAY|unknown|||
 1186||"The vehicle burrows powerfully into the sand.  As the
 patrol cars close in and rake the desert with gunfire,
 the vehicle vanishes from sight.  In the distance, the
 Sphinx looms ominously.
 A driver in one of the patrol vehicles (filmed from outside
 the windscreen) is speaking into a microphone.  He can't
-be heard but can only be radioing a report."|stage direction||
-1187||123     INT. SAND MOLE - MOVING - UNDERGROUND|unknown||
+be heard but can only be radioing a report."|stage direction|||
+1187||123     INT. SAND MOLE - MOVING - UNDERGROUND|unknown|||
 1188||"The little mining vehicle moves powerfully, propelled by
 its BORER NOSE.
 Quail mans the controls while Melina struggles to shore up
 the gaping hole in the side, into which SAND is POURING
 as the mole moves forward.  Quail looks at a compass in
-the control panel.  He makes a correction."|stage direction||
-1189||(shouts over|location||
-1190||engine noise)|unknown||
+the control panel.  He makes a correction."|stage direction|||
+1189||(shouts over|location|||
+1190||engine noise)|unknown|||
 1191|QUAIL|"Hope I've got this direction
-right."|speech|QUAIL|M
+right."|speech|QUAIL|M|True
 1192||"Sand pours over him from bullet holes resulting from the
 encounter with patrol cars.
 CU speedometer:  22 MPH.  Every other gauge is overheating,
-flashing WARNING LIGHTS --"|stage direction||
-1193||124     INT. SPHINX CONTROL ROOM - DAY|unknown||
+flashing WARNING LIGHTS --"|stage direction|||
+1193||124     INT. SPHINX CONTROL ROOM - DAY|unknown|||
 1194||"Cohaagen and a number of his associates, plus scientists
-and heavily arms troops are present."|stage direction||
+and heavily arms troops are present."|stage direction|||
 1195|COHAAGEN|"The air supply is off under
-the domes?"|speech|COHAAGEN|M
+the domes?"|speech|COHAAGEN|M|True
 1196|EMILE|"Yes, sir.  In a couple of
-hours it'll be all gone."|speech|EMILE|M
-1197|COHAAGEN|Any trouble with the rabble?|speech|COHAAGEN|M
+hours it'll be all gone."|speech|EMILE|M|True
+1197|COHAAGEN|Any trouble with the rabble?|speech|COHAAGEN|M|True
 1198|EMILE|"Not much, sir.  A lot of
 complaining.  But they're
 all heading towards the
-shuttle areas."|speech|EMILE|M
+shuttle areas."|speech|EMILE|M|True
 1199||"On some of the video screens a number of space shuttles
-can be seen, ready for departure to Earth."|stage direction||
-1200||123     INT. TUNNEL BENEATH SPHINX|unknown||
+can be seen, ready for departure to Earth."|stage direction|||
+1200||123     INT. TUNNEL BENEATH SPHINX|unknown|||
 1201||"The Mole bores through a sand wall, emerges into a cramped
 horizontal tunnel.  Quail and Melina leap out.  The poor
 Mole is smoking like an overheated drill bit.  Its nose
-is worn to a nub."|stage direction||
+is worn to a nub."|stage direction|||
 1202|MELINA|"We got in with this thing,
-but we'll never get back out."|speech|MELINA|M
+but we'll never get back out."|speech|MELINA|M|True
 1203|QUAIL|"A shame.  Such a pleasant
-trip."|speech|QUAIL|M
+trip."|speech|QUAIL|M|True
 1204||"There's a lighted area at the end of the tunnel.  Quail
 and Melina hurry toward it, moving silently, close to
-the wall."|stage direction||
-1205||126B    INT. MAIN DOWNSHAFT|unknown||
+the wall."|stage direction|||
+1205||126B    INT. MAIN DOWNSHAFT|unknown|||
 1206||"They draw up an abyss -- where their tunnel intersects the
 MAIN DOWNSHAFT.  Melina gasps at the colossal scale of the
 drilling, hundreds of yards across, deeper than the eye
@@ -2872,121 +2872,121 @@ can see, and crisscrossed by catwalks, buttresses and
 super-sophisticated technology.
 Quail and Melina are forty feet below the upper end of
 the main downshaft.  They can look up the shaft and
-see the first interior level of the Sphinx itself."|stage direction||
-1207||(points down|location||
-1208||shaft)|unknown||
+see the first interior level of the Sphinx itself."|stage direction|||
+1207||(points down|location|||
+1208||shaft)|unknown|||
 1209|QUAIL|"This is the main tap --
 straight down to the core
 of Mars.  When we trigger
 the mechanism, fusion
 reactors will detonate down
 there -- four hundred miles
-deep."|speech|QUAIL|M
-1210|MELINA|Remind me not to slip.|speech|MELINA|M
+deep."|speech|QUAIL|M|True
+1210|MELINA|Remind me not to slip.|speech|MELINA|M|True
 1211|QUAIL|"The new elements will come
 booming up through this
 shaft -- and six thousand
 others all around the
-planet."|speech|QUAIL|M
+planet."|speech|QUAIL|M|True
 1212||"He's right at home -- and full of confidence.
 Quail climbs onto the ladder, which links various top
 levels.
 He starts to climb.  Melina follows him.  They are tiny
-figures.  The space around them plummets down to infinity."|stage direction||
-1213||127     INT. CORRIDOR AT TOP OF SHAFT - LOWEST MANNED LEVEL (LEVEL ONE)|unknown||
+figures.  The space around them plummets down to infinity."|stage direction|||
+1213||127     INT. CORRIDOR AT TOP OF SHAFT - LOWEST MANNED LEVEL (LEVEL ONE)|unknown|||
 1214||"A patrol of NINE HEAVILY-ARMED GUARDS appear from a corridor
 in Level One -- directly above where Quail and Melina are
-climbing."|stage direction||
-1215||128     ON THE WALL OF THE SHAFT|unknown||
+climbing."|stage direction|||
+1215||128     ON THE WALL OF THE SHAFT|unknown|||
 1216||"Quail and Melina's heads inch into view at floor level.
 They take one peek at these formidable warriors and duck
-back swiftly out of sight."|stage direction||
-1217||129     INT. TOP OF SHAFT - LOWEST MANNED LEVEL (LEVEL ONE)|unknown||
-1218||(to two of his|location||
-1219||men)|unknown||
+back swiftly out of sight."|stage direction|||
+1217||129     INT. TOP OF SHAFT - LOWEST MANNED LEVEL (LEVEL ONE)|unknown|||
+1218||(to two of his|location|||
+1219||men)|unknown|||
 1220|GUARD LEADER|"Stay in contact.  I want to
 hear from this checkpoint
-every four minutes."|speech|GUARD LEADER|?
+every four minutes."|speech|GUARD LEADER|?|
 1221||"Seven of the Guards move off, two remain in position.
 We HEAR the FOOTSTEPS of the seven guards recede.
 The two remaining guards realize their isolation; they
-glance tensely to one another."|stage direction||
-1222|GUARD #1|Did you hear something?|speech|GUARD #1|?
-1223|GUARD #2|No.  Where?|speech|GUARD #2|M
-1224|GUARD #1|Over there.|speech|GUARD #1|?
+glance tensely to one another."|stage direction|||
+1222|GUARD #1|Did you hear something?|speech|GUARD #1|?|
+1223|GUARD #2|No.  Where?|speech|GUARD #2|M|
+1224|GUARD #1|Over there.|speech|GUARD #1|?|
 1225||"The First Guard points to the edge  of the main shaft --
 right where Quail and Melina are hiding.  The Guards
 cock their weapons, start cautiously forward.  Just as
 they're about to peer over the brink, guns at the
-ready:"|stage direction||
-1226||(from behind the|location||
-1227||guards)|unknown||
+ready:"|stage direction|||
+1226||(from behind the|location|||
+1227||guards)|unknown|||
 1228|QUAIL'S VOICE (O.S.)|"I'm not there, boys.  I'm
-here."|speech|QUAIL'S VOICE|?
+here."|speech|QUAIL'S VOICE|?|
 1229||"The guards spin around, weapons poised.  Standing in the
 shadows, near the corridor, is Quail!  (Still with no
 gun)
 Both guards walk quickly toward Quail, covering him with
-their weapons."|stage direction||
-1230||(to Guard #2)|location||
+their weapons."|stage direction|||
+1230||(to Guard #2)|location|||
 1231|GUARD #1|"Watch him.  He was EIO trained.
-They're all full of tricks."|speech|GUARD #1|?
+They're all full of tricks."|speech|GUARD #1|?|
 1232|GUARD #2|"Yeah?  Like...who was that
-guy? -- Fred Bond??"|speech|GUARD #2|M
-1233||(to Quail)|location||
+guy? -- Fred Bond??"|speech|GUARD #2|M|
+1233||(to Quail)|location|||
 1234|GUARD #2|"Keep 'em up, Fred, keep 'em
-up."|speech|GUARD #2|M
+up."|speech|GUARD #2|M|
 1235||"Quail has his arms raised high.  Just as the Guards reach
 him, he fizzes electronically, emitting a humming sound,
-then disappears."|stage direction||
-1236|GUARD #1|A hologram!|speech|GUARD #1|?
+then disappears."|stage direction|||
+1236|GUARD #1|A hologram!|speech|GUARD #1|?|
 1237||"Before either Guard can react, the real Quail appears --
 one foot behind them.  With two LIGHTNING BLOWS, he
 dispatches the Guards.  (Apparently Quail has climbed out
 of the shaft while the Guards were distracted.)
 Quail snatches both Guards' weapons, grenades and ammo
 belts.  Melina climbs out of the shaft.  Quail tosses her
-one of the Guard's guns."|stage direction||
-1238||130     INT. CORRIDOR - LEVEL ONE|unknown||
+one of the Guard's guns."|stage direction|||
+1238||130     INT. CORRIDOR - LEVEL ONE|unknown|||
 1239||"ALARMS go off everywhere.  Quail -- carrying a gun and all
 the grenades and ammo belts -- and Melina (just carrying a
-gun) bolt down a corridor past a sign: ""LEVEL ONE""."|stage direction||
-1240||(running)|location||
+gun) bolt down a corridor past a sign: ""LEVEL ONE""."|stage direction|||
+1240||(running)|location|||
 1241|MELINA|"Where'd you get that little
-trick?"|speech|MELINA|M
-1242||(running)|location||
+trick?"|speech|MELINA|M|True
+1242||(running)|location|||
 1243|QUAIL|"Mail-order company.  It's a
 great one for fooling the
-wife."|speech|QUAIL|M
-1244||131     INT. CONTROL ROOM (LEVEL THIRTEEN)|unknown||
+wife."|speech|QUAIL|M|True
+1244||131     INT. CONTROL ROOM (LEVEL THIRTEEN)|unknown|||
 1245||"Cohaagen and his Aides hear the ALARMS, see Quail and
 Melina on MONITORS as they race down the corridor on
-Level One."|stage direction||
-1246|COHAAGEN|How the hell did they get in?|speech|COHAAGEN|M
-1247|SECURITY AIDE|Up the fusion core.|speech|SECURITY AIDE|?
-1248|COHAAGEN|Up the fusion core??|speech|COHAAGEN|M
-1249||He exhibits begrudging admiration for Quail.|stage direction||
-1250||(studies monitor|location||
-1251||more carefully)|unknown||
-1252|SECURITY AIDE|They're on Level One.|speech|SECURITY AIDE|?
-1253||"A wall sign behind Cohaagen reads:  ""LEVEL THIRTEEN""."|stage direction||
-1254|COHAAGEN|Seal all upper levels.|speech|COHAAGEN|M
+Level One."|stage direction|||
+1246|COHAAGEN|How the hell did they get in?|speech|COHAAGEN|M|True
+1247|SECURITY AIDE|Up the fusion core.|speech|SECURITY AIDE|?|
+1248|COHAAGEN|Up the fusion core??|speech|COHAAGEN|M|True
+1249||He exhibits begrudging admiration for Quail.|stage direction|||
+1250||(studies monitor|location|||
+1251||more carefully)|unknown|||
+1252|SECURITY AIDE|They're on Level One.|speech|SECURITY AIDE|?|
+1253||"A wall sign behind Cohaagen reads:  ""LEVEL THIRTEEN""."|stage direction|||
+1254|COHAAGEN|Seal all upper levels.|speech|COHAAGEN|M|True
 1255||"A button is pressed and huge doors slide across in front
 of the formidable doors already closing the Control Room
-off from the outside corridors."|stage direction||
-1256||133     INT. LEVEL ONE CORRIDOR|unknown||
+off from the outside corridors."|stage direction|||
+1256||133     INT. LEVEL ONE CORRIDOR|unknown|||
 1257||"Quail and Melina are still racing through the corridors.
-He passes her a fresh ammo belt."|stage direction||
-1258||(indicates|location||
-1259||weapons)|unknown||
-1260|QUAIL|Know how to use one of these?|speech|QUAIL|M
+He passes her a fresh ammo belt."|stage direction|||
+1258||(indicates|location|||
+1259||weapons)|unknown|||
+1260|QUAIL|Know how to use one of these?|speech|QUAIL|M|True
 1261||"Melina expertly ejects her spent clip (that Guards fired
 at Quail), slams in a fresh clip and cocks the gun.
 Quail has a half-second to react, impressed, then --
 FOUR GUARDS pound into view at the end of the corridor.
 Melina opens fire, nails two.  Quail heaves a grenade; as
-it EXPLODES, he and Melina bolt down a side corridor --"|stage direction||
-1262||134     INT. VARIOUS CORRIDORS, CATWALKS, STAIRS|unknown||
+it EXPLODES, he and Melina bolt down a side corridor --"|stage direction|||
+1262||134     INT. VARIOUS CORRIDORS, CATWALKS, STAIRS|unknown|||
 1263||"ALARMS continue as Quail and Melina dash down the side
 passageway.  MORE GUARDS cut them off;  Melina's machine
 gun sends them scattering --
@@ -2994,32 +2994,32 @@ Quail pauses at a corner.  He looks around quickly and sees
 that an elevator is arriving.  He motions Melina back.  The
 doors of the elevator begin to open.  Very quickly, Quail
 bobs his head and arm around the corner.  He calls out,
-loudly..."|stage direction||
-1264|QUAIL|Catch!|speech|QUAIL|M
+loudly..."|stage direction|||
+1264|QUAIL|Catch!|speech|QUAIL|M|True
 1265||"He hurls something toward the armed men in the elevator.
 Instinctively one of them reaches for the thrown object.
 It is an explosive device of some sort.  Quail and Melina
 press themselves against the wall just around a corner from
 the elevator.  There is a tremendous explosion.
 Quail, followed by Melina, rounds a corner.  The elevator
-is in ruins; bodies are scattered everywhere."|stage direction||
+is in ruins; bodies are scattered everywhere."|stage direction|||
 1266|MELINA|"Great stuff, but how do we
-get up?"|speech|MELINA|M
-1267||She points toward the upper levels.|stage direction||
-1268||135     INT. CONTROL ROOM (LEVEL THIRTEEN)|unknown||
+get up?"|speech|MELINA|M|True
+1267||She points toward the upper levels.|stage direction|||
+1268||135     INT. CONTROL ROOM (LEVEL THIRTEEN)|unknown|||
 1269||"Melina and Quail can be seen on the security monitor from
 a high angle.  Quail looks up, spots the monitor, and
-shoots is to pieces.  The image on the screen goes black."|stage direction||
+shoots is to pieces.  The image on the screen goes black."|stage direction|||
 1270|COHAAGEN|"Forget them.  We'll pick up
 Quail once the shuttles have
-left for Earth."|speech|COHAAGEN|M
-1271||137     INT. CORRIDOR|unknown||
+left for Earth."|speech|COHAAGEN|M|True
+1271||137     INT. CORRIDOR|unknown|||
 1272||"Quail spots a large WINDOWED AIR LOCK at the end of the
 corridor.  He and Melina race to it.  Quail starts to open
-the inner door of the air lock."|stage direction||
+the inner door of the air lock."|stage direction|||
 1273|QUAIL|"If you're afraid of the
 heights, you better get
-over it real quick."|speech|QUAIL|M
+over it real quick."|speech|QUAIL|M|True
 1274||"He is pulling Melina through the inner air lock door just
 as --
 GUARDS stampede around the corner of the corridor toward
@@ -3029,53 +3029,53 @@ window.  She waves and smiles to them, hiding her gun behind
 her body.  They slow down and approach less cautiously,
 beguiled by her manner and attractiveness.  As they get
 close, she suddenly lifts her gun and opens fire, mowing
-them down."|stage direction||
-1275||140     EXT. SPHINX'S FACE - DAY|unknown||
+them down."|stage direction|||
+1275||140     EXT. SPHINX'S FACE - DAY|unknown|||
 1276||"Quail and Melina climb through the outer air lock door.
 They are at the Sphinx's shoulder, with a dizzying drop
 beneath them.  Melina looks down.  She's sorry she did:
 the fall is at least 200 feet.  (Both are wearing their
 breathing apparatus.)
 Quail and Melina start to climb.  Up the Sphinx's shoulder,
-along its Egyptian-like headdress --"|stage direction||
-1277||141     INT. CONTROL ROOM - DAY|unknown||
-1278||Cohaagen's chief aide, Emile, addresses him quietly.|stage direction||
+along its Egyptian-like headdress --"|stage direction|||
+1277||141     INT. CONTROL ROOM - DAY|unknown|||
+1278||Cohaagen's chief aide, Emile, addresses him quietly.|stage direction|||
 1279|EMILE|"If Quail's the only one who
-can operate all this..."|speech|EMILE|M
-1280||(gestures toward|location||
-1281||Sphinx's controls)|unknown||
+can operate all this..."|speech|EMILE|M|True
+1280||(gestures toward|location|||
+1281||Sphinx's controls)|unknown|||
 1282|EMILE|"...then he can call all the
-shots."|speech|EMILE|M
+shots."|speech|EMILE|M|True
 1283|COHAAGEN|"We'll tell him the computer's
 worked out the operational
 details so we don't really
 need him.  We're just doing
-him a favor."|speech|COHAAGEN|M
-1284|EMILE|And if that doesn't work?|speech|EMILE|M
-1285|COHAAGEN|We offer him rewards.|speech|COHAAGEN|M
-1286|EMILE|What if that doesn't work?|speech|EMILE|M
+him a favor."|speech|COHAAGEN|M|True
+1284|EMILE|And if that doesn't work?|speech|EMILE|M|True
+1285|COHAAGEN|We offer him rewards.|speech|COHAAGEN|M|True
+1286|EMILE|What if that doesn't work?|speech|EMILE|M|True
 1287|COHAAGEN|"We'll torture him.  You don't
 think I got this far by being
-a nice guy?"|speech|COHAAGEN|M
-1288||142     EXT. SPHINX'S FACE - DAY|unknown||
+a nice guy?"|speech|COHAAGEN|M|True
+1288||142     EXT. SPHINX'S FACE - DAY|unknown|||
 1289||"Quail and Melina traverse across the cheekbones, haul
-themselves up at the base of the red translucent eyes --"|stage direction||
-1290||142A    INT. CONTROL ROOM - DAY|unknown||
+themselves up at the base of the red translucent eyes --"|stage direction|||
+1290||142A    INT. CONTROL ROOM - DAY|unknown|||
 1291||"The video monitors show the space shuttles.  An operator,
-with earphones, turns to Cohaagen."|stage direction||
+with earphones, turns to Cohaagen."|stage direction|||
 1292|OPERATOR|"First of the shuttles ready
 for departure, sir.  Two
-minute countdown."|speech|OPERATOR|?
-1293||142B    EXT. SPHINX - DAY|unknown||
+minute countdown."|speech|OPERATOR|?|
+1293||142B    EXT. SPHINX - DAY|unknown|||
 1294||"Quail jams THREE GRENADES against the glass of the eyes,
-pulls Melina back behind the stone cheeks --"|stage direction||
-1295||143     INT. SPHINX CONTROL ROOM|unknown||
+pulls Melina back behind the stone cheeks --"|stage direction|||
+1295||143     INT. SPHINX CONTROL ROOM|unknown|||
 1296||"A MUFFLED EXPLOSION (due to the thin Martian atmosphere)
 detonates overhead.  THE SPHINX'S RIGHT EYE BLOWS IN a
 storm of shards and shrapnell.
 Instantly, the room turns into a hurricane as the Martian
-vacuum sucks out all air!  Everyone panics, grabbing their"|stage direction||
-1297|COHAAGEN|Seal the breach!  Repressurize!|speech|COHAAGEN|M
+vacuum sucks out all air!  Everyone panics, grabbing their"|stage direction|||
+1297|COHAAGEN|Seal the breach!  Repressurize!|speech|COHAAGEN|M|True
 1298||"An aide dives for an EMERGENCY SWITCH.  But now --
 Quail and Melina, wearing breather masks, bursts in onto
 an overhead catwalk.  They OPEN FIRE on the Guards, who are
@@ -3087,53 +3087,53 @@ None of the men inside the control room still moves.  The
 victors tug off their masks, spring down to the main level.
 Melina hurries to the main control panel.
 Melina looks towards the video monitors showing half a
-dozen huge space shuttles lined up for departure."|stage direction||
+dozen huge space shuttles lined up for departure."|stage direction|||
 1299|MELINA|"Those shuttles are starting up
 any minute.  If you know how
 to work this thing, you better
-do it now."|speech|MELINA|M
+do it now."|speech|MELINA|M|True
 1300||"Quail tentatively approaches the imposingly complex
-machinery."|stage direction||
-1301|QUAIL|Yes...|speech|QUAIL|M
-1302||He hesitates.|stage direction||
-1303|MELINA|Don't you know how?|speech|MELINA|M
+machinery."|stage direction|||
+1301|QUAIL|Yes...|speech|QUAIL|M|True
+1302||He hesitates.|stage direction|||
+1303|MELINA|Don't you know how?|speech|MELINA|M|True
 1304||"Transfixed, mesmerized, Quail moves closer to the control
-panel."|stage direction||
+panel."|stage direction|||
 1305|QUAIL|"Yes... there's a vital
-connection missing..."|speech|QUAIL|M
+connection missing..."|speech|QUAIL|M|True
 1306||"He approaches even closer.  He begins to raise his arm
-towards a blank area a little above his head."|stage direction||
-1307||(continuing)|location||
-1308|QUAIL|...me...|speech|QUAIL|M
-1309|COHAAGEN|Wait!|speech|COHAAGEN|M
-1310|MELINA|Don't wait!|speech|MELINA|M
+towards a blank area a little above his head."|stage direction|||
+1307||(continuing)|location|||
+1308|QUAIL|...me...|speech|QUAIL|M|True
+1309|COHAAGEN|Wait!|speech|COHAAGEN|M|True
+1310|MELINA|Don't wait!|speech|MELINA|M|True
 1311|COHAAGEN|"If you activate the mechanism
 you'll die...there were
 glimpses of it in your
-memory."|speech|COHAAGEN|M
+memory."|speech|COHAAGEN|M|True
 1312|QUAIL|"Wrong, Cohaagen, there's a
 long tunnel, a brilliant
 white light, hands reaching
-for me..."|speech|QUAIL|M
-1313||(assured)|location||
+for me..."|speech|QUAIL|M|True
+1313||(assured)|location|||
 1314|COHAAGEN|"That's your death.  That's
 what it looks like.  That's
-what is always looks like."|speech|COHAAGEN|M
-1315||Quail looks around him, half-convinced.|stage direction||
-1316||(looking toward|location||
+what is always looks like."|speech|COHAAGEN|M|True
+1315||Quail looks around him, half-convinced.|stage direction|||
+1316||(looking toward|location|||
 1317||"space shuttles
-on video screens)"|unknown||
-1318|MELINA|Charles - for Mars's sake....|speech|MELINA|M
-1319||Quail hesitates.  He looks from Melina to Cohaagen.|stage direction||
+on video screens)"|unknown|||
+1318|MELINA|Charles - for Mars's sake....|speech|MELINA|M|True
+1319||Quail hesitates.  He looks from Melina to Cohaagen.|stage direction|||
 1320|COHAAGEN|"It's not too late.  Join us
 again.  U've a lot to offer.
-A whole world."|speech|COHAAGEN|M
-1321||Quail continues to look at him, thoughtfully.|stage direction||
+A whole world."|speech|COHAAGEN|M|True
+1321||Quail continues to look at him, thoughtfully.|stage direction|||
 1322|QUAIL|"You don't deserve a new world,
 you and people like you made
 too big a mess of the old one.
 Time someone else had a
-chance."|speech|QUAIL|M
+chance."|speech|QUAIL|M|True
 1323||"He turns back to the machine and slowly raises his arm
 again.  His fingers reach towards the blank section on
 the panel.  Slowly, through the panel, a luminous hand
@@ -3144,8 +3144,8 @@ Quail reaches for Melina, Cohaagen suddenly dives on him.
 They grapple amid the shuddering Sphinx and can be seen
 only intermittently as debris crashes around them.
 The fight ends as Cohaagen is hurled backwards and
-disappears when a section of floor collapses underneath him."|stage direction||
-1324||144     INT. SURREAL TUNNEL|unknown||
+disappears when a section of floor collapses underneath him."|stage direction|||
+1324||144     INT. SURREAL TUNNEL|unknown|||
 1325||"A reprise of the sequence that opened the movie.
 Quail RUNS THROUGH A LABYRINTH OF TUNNELS.  THE GROUND
 HEAVES BENEATH HIM ... HUGE STONE BLOCKS CRASH DONW ON
@@ -3166,8 +3166,8 @@ too weak to move.  He struggles --
 HANDS ARE REACHING OUT TO HIM, from out of the brilliant
 light.  Quail stretches for them, just as --
 A FINAL EXPLOSION blows him forward -- straight into the
-WHITE LIGHT!  The HANDS SEIZE HIM, pull him upward to --"|stage direction||
-1326||145     EXT. MARTIAN DESERT - DAY|unknown||
+WHITE LIGHT!  The HANDS SEIZE HIM, pull him upward to --"|stage direction|||
+1326||145     EXT. MARTIAN DESERT - DAY|unknown|||
 1327||"The hands belong to breather-masked MINERS, dismounting
 rapidly from an overloaded transport vehicle which was
 taking them to the Space Port.  Quail looks from them to
@@ -3177,41 +3177,41 @@ The miners' desert garb, shield goggles and breathers add
 to the surreal nightmare quality of Quail's tortured
 perspective --
 BACK TO QUAIL
-In terror, lost, disoriented totally."|stage direction||
-1328|QUAIL|Am I dying?|speech|QUAIL|M
+In terror, lost, disoriented totally."|stage direction|||
+1328|QUAIL|Am I dying?|speech|QUAIL|M|True
 1329|MASKED MINER|"I won't lie to you, pal.
-You are."|speech|MASKED MINER|?
-1330|MINER (from Melina's bar)|I'd say in about forty years...|speech|MINER|M
-1331||(he and others|location||
+You are."|speech|MASKED MINER|?|
+1330|MINER (from Melina's bar)|I'd say in about forty years...|speech|MINER|M|
+1331||(he and others|location|||
 1332||"help Quail to
-his feet)"|unknown||
+his feet)"|unknown|||
 1333|MINER (from Melina's bar)|"...come on, we've gotta get
 to the Space Port.  That
 Intergalactic Napoleon's
-switched off the air."|speech|MINER|M
+switched off the air."|speech|MINER|M|
 1334|2ND MINER|"Shippin' us all out.  Mars
-is finished."|speech|2ND MINER|?
+is finished."|speech|2ND MINER|?|
 1335||"A MINER'S WIFE watches them.  She is crying.
 Quail looks up at the sky.  Melina follows his glance.
 So do the others.
 Slowly, but perceptibly, the color is changing from yellow
-to blue."|stage direction||
-1336|MELINA|It's happening.|speech|MELINA|M
-1337|MINER|What is it?|speech|MINER|M
+to blue."|stage direction|||
+1336|MELINA|It's happening.|speech|MELINA|M|True
+1337|MINER|What is it?|speech|MINER|M|
 1338||"All the miners are puzzled, apprehensive.  Quail reaches
 toward the one who spoke to him before and pulls off his
 breathing apparatus.  At first the man is shocked, then
 realizes he can breathe without it.  Quail takes off
 his own, then Melina's
 All the miners watch in amazement.  They all remove their
-breathing masks."|stage direction||
+breathing masks."|stage direction|||
 1339|QUAIL|"That's just the start.  Next
 there'll be rain and growth
-and ... life."|speech|QUAIL|M
-1340||Melina embraces him.|stage direction||
-1341||(continuing)|location||
+and ... life."|speech|QUAIL|M|True
+1340||Melina embraces him.|stage direction|||
+1341||(continuing)|location|||
 1342|QUAIL|"Rekall could never have come
-up with anything like this."|speech|QUAIL|M
+up with anything like this."|speech|QUAIL|M|True
 1343||"Melina looks oddly at him, smiling, mysterious.
 As the sky becomes more and more blue, more of the Miners
 descend from the bus.  Softly at first, then with more and
@@ -3220,4 +3220,4 @@ Anthem.
 The music swells.  Quail puts his arm around Melina.  They
 both join in the chorus.
 It reaches an impassioned crescendo as the FRAME FREEZES
-and the END CREDITS ROLL UP the screen."|stage direction||
+and the END CREDITS ROLL UP the screen."|stage direction|||

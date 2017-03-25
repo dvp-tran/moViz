@@ -1,7 +1,7 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"PHONE BOOTH
 by
-Larry Cohen"|unknown||
+Larry Cohen"|unknown|||
 1||"FADE IN:
 NEW YORK CITY - AERIAL VIEW OF DOWNTOWN MANHATTAN - DAY
 MULTIPLE STREET SCENES - DAY
@@ -18,11 +18,11 @@ Side and West Side -- uptown and down.
 One frustrated caller has lost his money in the slot and he
 takes it out on the equipment -- smashing the receiver
 violently against the coin box until the instrument splinters
-into a dozen pieces."|stage direction||
+into a dozen pieces."|stage direction|||
 2|NARRATOR|"There are 237,911 pay telephones in
 the five burroughs of the city of
 New York.  Many of them are still
-in working order."|speech|NARRATOR|?
+in working order."|speech|NARRATOR|?|
 3||"DOZENS OF QUICK CUTS --
 NEW YORKERS on the phone in extreme close up.  We don't hear
 the words.  Only the facial expressions inform us that these
@@ -30,17 +30,17 @@ are human beings under tremendous pressure.  Life in the city
 is wearing them down.
 MULTIPLE SHOTS - JUST MOUTHS
 Lips jabbering into receivers.  Cross-cut against one
-another."|stage direction||
+another."|stage direction|||
 4|NARRATOR|"Despite increased usage of cellular
 devices, an estimated four and a
 half million New Yorkers and two
 million visitors still utilize pay
 telephones on a regular basis.  At
 thirty-five cents a pop... for the
-first three minutes."|speech|NARRATOR|?
+first three minutes."|speech|NARRATOR|?|
 5||"ANGLE ON CORNER IN MID-MANHATTAN - DAY
 There's a phone booth situated on the southeast side of the
-street."|stage direction||
+street."|stage direction|||
 6|NARRATOR|"You're looking at the telephone
 booth at the corner of 45th Street
 and 8th Avenue in the heart of the
@@ -48,25 +48,25 @@ Manhattan theatrical district.  It
 has been scheduled to be removed
 and replaced by a kiosk.  It's one
 of the few remaining phone booths
-left in the city."|speech|NARRATOR|?
+left in the city."|speech|NARRATOR|?|
 7||"CAMERA MOVES IN on the irate caller in the booth -- a very
 well-dressed gray-haired lady -- totally conservative in
-appearance."|stage direction||
-8||(into receiver)|location||
+appearance."|stage direction|||
+8||(into receiver)|location|||
 9|WOMAN IN BOOTH|"You have lied to me for the last
 time, you lowlife prick bastard!  I
 don't ever want to hear the sound
-of your fucking voice again."|speech|WOMAN IN BOOTH|?
-10||(listens)|location||
-11|WOMAN IN BOOTH|Yes, well fuck you, too!|speech|WOMAN IN BOOTH|?
+of your fucking voice again."|speech|WOMAN IN BOOTH|?|
+10||(listens)|location|||
+11|WOMAN IN BOOTH|Yes, well fuck you, too!|speech|WOMAN IN BOOTH|?|
 12||"She slams down the receiver and exits.  The booth remains
-vacant for a brief interval."|stage direction||
+vacant for a brief interval."|stage direction|||
 13|NARRATOR|"At least three hundred calls daily
 originate from this booth.  The
 coins are collected twice a day.
 This booth has been burglarized
 forty-one times in the last six
-months."|speech|NARRATOR|?
+months."|speech|NARRATOR|?|
 14||"Someone is approaching the booth, fishing in his pocket for
 coins.  This is STUART SHEPARD, snappily dressed, his hair
 styled and his nails manicured.  Here is a man who clearly
@@ -74,50 +74,50 @@ takes excellent care of himself.  He sports a Donna Karen
 suit and silk Armani tie.
 He's about to step into the booth when he's accosted by a
 middle-aged man in a soiled apron who's run out of a nearby
-restaurant and has finally caught up with him."|stage direction||
-15|MARIO|Stu, we got to talk.|speech|MARIO|M
+restaurant and has finally caught up with him."|stage direction|||
+15|MARIO|Stu, we got to talk.|speech|MARIO|M|True
 16|STU|"Wish I could accommodate you,
 Mario, but this is my busy time of
-day."|speech|STU|M
+day."|speech|STU|M|True
 17|MARIO|"How come you cross the street every
-time you go past the restaurant?"|speech|MARIO|M
+time you go past the restaurant?"|speech|MARIO|M|True
 18|STU|"Why don't I stop in later for some
-lunch?"|speech|STU|M
+lunch?"|speech|STU|M|True
 19|MARIO|"There's no more drinks or free
 meals until the restaurant starts
 showing up in the columns like you
-said."|speech|MARIO|M
+said."|speech|MARIO|M|True
 20|STU|"I'm doing my level best for you
-people."|speech|STU|M
+people."|speech|STU|M|True
 21|MARIO|"One lousy mention in the Post and
-you expect to eat for six months!"|speech|MARIO|M
+you expect to eat for six months!"|speech|MARIO|M|True
 22|STU|"I got the food critic from the
 Village Voice all lined up to give
-you a review."|speech|STU|M
+you a review."|speech|STU|M|True
 23|MARIO|"That's what you tell me last July.
-And he never shows."|speech|MARIO|M
+And he never shows."|speech|MARIO|M|True
 24|STU|"I was allowing you time to expand
 the menu.  Wallpaper the bathrooms,
 for God sakes.  You get only one
 shot with these fucking critics and
 I don't want you to blow a rare
-opportunity."|speech|STU|M
+opportunity."|speech|STU|M|True
 25|MARIO|"You the one blowing it.  How long
-you think you can fuck everybody?"|speech|MARIO|M
+you think you can fuck everybody?"|speech|MARIO|M|True
 26|STU|"Hold on right there.  I've got a
 very excellent reputation around
-this town."|speech|STU|M
+this town."|speech|STU|M|True
 27|MARIO|"So how come you take two nice suits
 of clothes from Harry and never get
-his daughter on David Letterman?"|speech|MARIO|M
+his daughter on David Letterman?"|speech|MARIO|M|True
 28|STU|"Hell, I'm not an agent.  I'm a
-publicist."|speech|STU|M
-29|MARIO|Mister, you're nothing!|speech|MARIO|M
+publicist."|speech|STU|M|True
+29|MARIO|Mister, you're nothing!|speech|MARIO|M|True
 30|STU|"Believe me, Valerie's on the
 waiting list to audition.  Harry's
 got no complaints.  He just let me
-pick out this tie the other day."|speech|STU|M
-31|MARIO|That Harry's a damn fool!|speech|MARIO|M
+pick out this tie the other day."|speech|STU|M|True
+31|MARIO|That Harry's a damn fool!|speech|MARIO|M|True
 32|STU|"Mario, please let me make this up
 to you.  How about I arrange for
 the opening night party for this
@@ -128,47 +128,47 @@ eleven?  I mean I had it promised
 to another client -- who actually
 pays me money.  But it isn't firmed
 up yet.  And I could throw it your
-way.  Maybe."|speech|STU|M
-33|MARIO|What is involved?|speech|MARIO|M
+way.  Maybe."|speech|STU|M|True
+33|MARIO|What is involved?|speech|MARIO|M|True
 34|STU|"You'd toss in the buffet for say
 seventy or eighty.  The producers
 would supply their own vino, of
 course.  I'd deliver you a
 truckload of celebrities.  And if
 they like the food, they'll all
-come back, naturally."|speech|STU|M
-35|MARIO|What celebrities?|speech|MARIO|M
+come back, naturally."|speech|STU|M|True
+35|MARIO|What celebrities?|speech|MARIO|M|True
 36|STU|"You want Liza Minelli?  An Oscar
-winner.  Or Douglas Fairbanks, Jr.?"|speech|STU|M
-37|MARIO|Is he still alive?|speech|MARIO|M
+winner.  Or Douglas Fairbanks, Jr.?"|speech|STU|M|True
+37|MARIO|Is he still alive?|speech|MARIO|M|True
 38|STU|"I saw him last night going into the
 Four Seasons.  I'll bring you over
 a whole VIP list when we come by
-for dinner."|speech|STU|M
+for dinner."|speech|STU|M|True
 39|MARIO|"How come everybody wants to eat but
-nobody wants to pay?"|speech|MARIO|M
+nobody wants to pay?"|speech|MARIO|M|True
 40|STU|"You can't think small like that.
 Hey, you still feature musicians
-Fridays and Saturdays?"|speech|STU|M
-41|MARIO|At least they work for their meals.|speech|MARIO|M
+Fridays and Saturdays?"|speech|STU|M|True
+41|MARIO|At least they work for their meals.|speech|MARIO|M|True
 42|STU|"What about Harry's daughter as an
 extra added attraction?  She'll
 belt out five or six showtunes --
 two sets a night -- and it won't
-cost you a fucking nickel."|speech|STU|M
-43|MARIO|How come?|speech|MARIO|M
+cost you a fucking nickel."|speech|STU|M|True
+43|MARIO|How come?|speech|MARIO|M|True
 44|STU|"Star Showcase!  Let me handle
 setting that up.  And when she
 eventually goes on Letterman,
 she'll announce I'm currently
 appearing over at Mario's fine
 supper club.  Right over CBS she'll
-say that, Mario."|speech|STU|M
+say that, Mario."|speech|STU|M|True
 45|MARIO|"You're full of shit.  You know
-that?  All bullshit!"|speech|MARIO|M
-46|STU|That's just a vulgar word for PR.|speech|STU|M
+that?  All bullshit!"|speech|MARIO|M|True
+46|STU|That's just a vulgar word for PR.|speech|STU|M|True
 47||"(placing an arm around
-him)"|location||
+him)"|location|||
 48|STU|"Mario, you can't hurt my feelings.
 Even when I was a kid and they
 hurled certain invectives my way,
@@ -184,31 +184,31 @@ loved me for that.  I could take
 abuse.  After a while, I kind of
 wore them down.  There was nothing
 more they could say to me.  So they
-stopped.  I kind of missed it."|speech|STU|M
-49|MARIO|I'm sorry I even talked to you.|speech|MARIO|M
+stopped.  I kind of missed it."|speech|STU|M|True
+49|MARIO|I'm sorry I even talked to you.|speech|MARIO|M|True
 50|STU|"I'll bet your loving wife put you
 up to this.  She saw me pass by and
 she sent you out in the street.
 But I don't hold it against you
 personally -- you still serve up
-superior veal chop."|speech|STU|M
-51||(entering phone booth)|location||
+superior veal chop."|speech|STU|M|True
+51||(entering phone booth)|location|||
 52|STU|"Now I got urgent business to
-conduct, Mario."|speech|STU|M
+conduct, Mario."|speech|STU|M|True
 53||"He slides the booth closed in Mario's face.
 The frustrated restaurateur glares at him through the glass
 before giving up and walking off -- talking to himself as he
 goes up the block.
 INSIDE THE BOOTH, Stu inserts his thirty-five cents and
-dials."|stage direction||
-54|STU|Hello, Mavis, sweet creature.|speech|STU|M
+dials."|stage direction|||
+54|STU|Hello, Mavis, sweet creature.|speech|STU|M|True
 55|MAVIS' VOICE|"Where have you been?  Do you think
 I have nothing to do but wait
-around for you to call?"|speech|MAVIS' VOICE|M
+around for you to call?"|speech|MAVIS' VOICE|M|True
 56|STU|"I'm only a few minutes late,
-loveliest individual on earth."|speech|STU|M
+loveliest individual on earth."|speech|STU|M|True
 57|MAVIS' VOICE|"Stu, I'm so lonely.  When can I see
-you?"|speech|MAVIS' VOICE|M
+you?"|speech|MAVIS' VOICE|M|True
 58|STU|"Good news in that arena.  Kelly
 goes into rehearsal as of Monday.
 You know how dedicated she is.  By
@@ -217,26 +217,26 @@ her ass off, she goes right to
 sleep.  We'll have both our days
 and certain nights.  Not to mention
 when they take the show on the
-road."|speech|STU|M
-59|MAVIS' VOICE|How long is that for?|speech|MAVIS' VOICE|M
-60|STU|Four to five weeks -- minimum.|speech|STU|M
+road."|speech|STU|M|True
+59|MAVIS' VOICE|How long is that for?|speech|MAVIS' VOICE|M|True
+60|STU|Four to five weeks -- minimum.|speech|STU|M|True
 61|MAVIS' VOICE|"Maybe I should quit my job so we
-can be together full time."|speech|MAVIS' VOICE|M
-62|STU|I wouldn't do that.|speech|STU|M
+can be together full time."|speech|MAVIS' VOICE|M|True
+62|STU|I wouldn't do that.|speech|STU|M|True
 63|MAVIS' VOICE|"Sometimes I think if I have to give
-one more fucking manicure..."|speech|MAVIS' VOICE|M
-64|STU|That's how you met me.|speech|STU|M
+one more fucking manicure..."|speech|MAVIS' VOICE|M|True
+64|STU|That's how you met me.|speech|STU|M|True
 65|MAVIS' VOICE|"I never saw a worse set of nails.
-Bit right down to the quick."|speech|MAVIS' VOICE|M
+Bit right down to the quick."|speech|MAVIS' VOICE|M|True
 66|STU|"I'm much better groomed since
-you've been looking after me."|speech|STU|M
-67|MAVIS' VOICE|I'm glad you admit it.|speech|MAVIS' VOICE|M
+you've been looking after me."|speech|STU|M|True
+67|MAVIS' VOICE|I'm glad you admit it.|speech|MAVIS' VOICE|M|True
 68|STU|"Even Kelly remarked on it when I
-first met her."|speech|STU|M
+first met her."|speech|STU|M|True
 69|MAVIS' VOICE|"She could care less how you look.
 She's only interested in pushing
 her own career.  Some wife you're
-stuck with!"|speech|MAVIS' VOICE|M
+stuck with!"|speech|MAVIS' VOICE|M|True
 70|STU|"The marriage is not without its
 compensations.  Do you imagine I
 could afford that apartment on what
@@ -248,28 +248,28 @@ profession trying to cut me out.
 And one thing you can't expect from
 your clients is loyalty.  They get
 a couple of bad notices, they dump
-you.  Goodbye."|speech|STU|M
-71|MAVIS' VOICE|Don't go.|speech|MAVIS' VOICE|M
+you.  Goodbye."|speech|STU|M|True
+71|MAVIS' VOICE|Don't go.|speech|MAVIS' VOICE|M|True
 72|STU|"I wasn't saying goodbye to you.  I
 was saying how the clients try to
 give you the wave off without even
-a month's notice."|speech|STU|M
+a month's notice."|speech|STU|M|True
 73||"A conservative businessman now stands outside the booth
 waiting to use it.  He deliberately glances at his watch a
 few times to demonstrate his impatience.  This bothers Stu
-who slides the booth open a crack."|stage direction||
-74||(yelling)|location||
+who slides the booth open a crack."|stage direction|||
+74||(yelling)|location|||
 75|STU|"What?  Is your watch busted?  It's
 twenty after eleven and I'm gonna
 be occupied indefinitely with my
 transaction.  So get out of my
-face!"|speech|STU|M
+face!"|speech|STU|M|True
 76||"He closes the booth up again and turns his back to the
-gentleman who gives up and departs."|stage direction||
+gentleman who gives up and departs."|stage direction|||
 77|STU|"Sorry, honey.  There will be no
-further interruption."|speech|STU|M
+further interruption."|speech|STU|M|True
 78|MAVIS' VOICE|"Why must you always be calling me
-from some booth?"|speech|MAVIS' VOICE|M
+from some booth?"|speech|MAVIS' VOICE|M|True
 79|STU|"On account of that phone records
 are regularly subpoenaed in divorce
 proceedings.  And I don't want some
@@ -277,71 +277,71 @@ entry showing up on my cellular
 bill either.  She gets the mail.
 She looks these items over.
 Sometimes she even dials up a
-strange number to see who it is."|speech|STU|M
-80|MAVIS' VOICE|Then she suspects something.|speech|MAVIS' VOICE|M
+strange number to see who it is."|speech|STU|M|True
+80|MAVIS' VOICE|Then she suspects something.|speech|MAVIS' VOICE|M|True
 81|STU|"It's only because her last husband,
 the choreographer, ran around on
 her.  She can't get that out of her
 head.  That's how she caught onto
-him.  The phone bills."|speech|STU|M
+him.  The phone bills."|speech|STU|M|True
 82|MAVIS' VOICE|"She hasn't developed much skill at
-holding a man."|speech|MAVIS' VOICE|M
+holding a man."|speech|MAVIS' VOICE|M|True
 83|STU|"You know what a self-fulfilling
 prophecy is?  She was so sure I was
 going to find me a woman that she
 finally drove me back to you.  I
 thought I'd feel all guilty about
 it -- but I guess it hasn't kicked
-in yet."|speech|STU|M
-84||(beat)|location||
+in yet."|speech|STU|M|True
+84||(beat)|location|||
 85|STU|"Still, I wouldn't do anything to
 hurt her.  Basically, Kelly's a
-decent individual."|speech|STU|M
+decent individual."|speech|STU|M|True
 86|MAVIS' VOICE|"What about hurting me?  Like last
-time?"|speech|MAVIS' VOICE|M
+time?"|speech|MAVIS' VOICE|M|True
 87|STU|"Hurt?  You were glad to be rid of
-me."|speech|STU|M
+me."|speech|STU|M|True
 88|MAVIS' VOICE|"For a while I was, 'til I took
 stock of what was around.  You're
-the lesser of many evils."|speech|MAVIS' VOICE|M
+the lesser of many evils."|speech|MAVIS' VOICE|M|True
 89|STU|"That's about the nicest thing you
-ever said."|speech|STU|M
-90|MAVIS' VOICE|I'll have it engraved.|speech|MAVIS' VOICE|M
+ever said."|speech|STU|M|True
+90|MAVIS' VOICE|I'll have it engraved.|speech|MAVIS' VOICE|M|True
 91|STU|"We've been up front with each other
 from the beginning.  Let's keep it
 that way.  How about a drink?  Say
-seven o'clock?  The Monkey Bar?"|speech|STU|M
+seven o'clock?  The Monkey Bar?"|speech|STU|M|True
 92|MAVIS' VOICE|"Meet me in front.  I don't like
-walking in there unescorted."|speech|MAVIS' VOICE|M
+walking in there unescorted."|speech|MAVIS' VOICE|M|True
 93|STU|"Yeah, you're great enough looking
 to be mistaken for one of those
-thousand dollar a night girls."|speech|STU|M
-94|MAVIS' VOICE|It happens all the time lately.|speech|MAVIS' VOICE|M
+thousand dollar a night girls."|speech|STU|M|True
+94|MAVIS' VOICE|It happens all the time lately.|speech|MAVIS' VOICE|M|True
 95|STU|"And wear that short black number I
-bought you from Bendel's."|speech|STU|M
+bought you from Bendel's."|speech|STU|M|True
 96|MAVIS' VOICE|"Again?  I don't know if it's me or
-that dress you like."|speech|MAVIS' VOICE|M
+that dress you like."|speech|MAVIS' VOICE|M|True
 97|STU|"Have a good day.  Make plenty of
 tips.  And leave the whole evening
 open.  She thinks I've got Knicks
-tickets."|speech|STU|M
+tickets."|speech|STU|M|True
 98||"He hangs up.  Then whips a tiny cellular phone out of his
 jacket pocket, flips it open and dials.  Someone answers on
-the first ring."|stage direction||
-99|COLUMNIST (V.O.)|Speak!|speech|COLUMNIST|?
-100||(into cellular)|location||
+the first ring."|stage direction|||
+99|COLUMNIST (V.O.)|Speak!|speech|COLUMNIST|?|True
+100||(into cellular)|location|||
 101|STU|"It's your boy Stuart.  When was the
-last time I called you for a favor?"|speech|STU|M
-102|COLUMNIST (V.O.)|The column is already full.|speech|COLUMNIST|?
+last time I called you for a favor?"|speech|STU|M|True
+102|COLUMNIST (V.O.)|The column is already full.|speech|COLUMNIST|?|True
 103|STU|"I just need one line.  Anybody you
 wanna say was seen dining out at
-Mario's Stromboli restaurant."|speech|STU|M
+Mario's Stromboli restaurant."|speech|STU|M|True
 104|COLUMNIST (V.O.)|"Maybe you don't hear so good?  I
-got no space for you."|speech|COLUMNIST|?
+got no space for you."|speech|COLUMNIST|?|True
 105|STU|"Who's asking any favors?  I'm
-offering reciprocal information."|speech|STU|M
+offering reciprocal information."|speech|STU|M|True
 106|COLUMNIST (V.O.)|"Since when were you ever a reliable
-source?"|speech|COLUMNIST|?
+source?"|speech|COLUMNIST|?|True
 107|STU|"Check it out.  Tony award-winning
 producer Willie Beagle tossed his
 wife back into rehab again
@@ -349,319 +349,319 @@ following her third attempt at
 diving off the terrace at their
 plush eighteen room residence at
 the San Remo.  I got it from the
-doorman."|speech|STU|M
+doorman."|speech|STU|M|True
 108|COLUMNIST (V.O.)|"I got it from their maid yesterday.
 It's in the paper today.  Or don't
-you bother to read my shit?"|speech|COLUMNIST|?
+you bother to read my shit?"|speech|COLUMNIST|?|True
 109|STU|"Louis, my intentions were entirely
-honorable."|speech|STU|M
+honorable."|speech|STU|M|True
 110|COLUMNIST (V.O.)|"I'll drop your item in sometime
 next week.  If you promise not to
-call me for a month."|speech|COLUMNIST|?
+call me for a month."|speech|COLUMNIST|?|True
 111||"He hangs up.  Stu looks pleased as he folds the cell phone
 and tucks it away.
 Then he starts to vacate the booth.  The phone rings.  And
 rings.  Curious, he picks up the receiver.  There's a voice
-on the other end of the line.  A DISTINCTIVE MALE VOICE."|stage direction||
+on the other end of the line.  A DISTINCTIVE MALE VOICE."|stage direction|||
 112|VOICE|"Don't even think about leaving that
-booth."|speech|VOICE|M
-113|STU|What?|speech|STU|M
+booth."|speech|VOICE|M|True
+113|STU|What?|speech|STU|M|True
 114|VOICE|"Stay exactly where you are and
-listen carefully."|speech|VOICE|M
-115|STU|I've got a heavy day, mister.|speech|STU|M
-116|VOICE|You know better than to disobey me.|speech|VOICE|M
-117|STU|I don't know you at all.|speech|STU|M
-118|VOICE|Are you absolutely sure?|speech|VOICE|M
-119|STU|Who is this?|speech|STU|M
-120|VOICE|Someone who's watching you.|speech|VOICE|M
-121|STU|Get lost!|speech|STU|M
+listen carefully."|speech|VOICE|M|True
+115|STU|I've got a heavy day, mister.|speech|STU|M|True
+116|VOICE|You know better than to disobey me.|speech|VOICE|M|True
+117|STU|I don't know you at all.|speech|STU|M|True
+118|VOICE|Are you absolutely sure?|speech|VOICE|M|True
+119|STU|Who is this?|speech|STU|M|True
+120|VOICE|Someone who's watching you.|speech|VOICE|M|True
+121|STU|Get lost!|speech|STU|M|True
 122|VOICE|"Love the gray suit.  That red and
-black tie makes a nice combination."|speech|VOICE|M
+black tie makes a nice combination."|speech|VOICE|M|True
 123||"Stu is taken back by the accurate description of his apparel.
-He looks around nervously."|stage direction||
-124|STU|Where?  Where are you?|speech|STU|M
-125|VOICE|Closer than you think.|speech|VOICE|M
-126|STU|I don't see you.|speech|STU|M
+He looks around nervously."|stage direction|||
+124|STU|Where?  Where are you?|speech|STU|M|True
+125|VOICE|Closer than you think.|speech|VOICE|M|True
+126|STU|I don't see you.|speech|STU|M|True
 127|VOICE|"There are any number of windows.
-Check them out."|speech|VOICE|M
+Check them out."|speech|VOICE|M|True
 128||"Indeed that street corner is surrounded by high rise
-buildings and hotels."|stage direction||
-129|STU|Okay, you had your little joke.|speech|STU|M
+buildings and hotels."|stage direction|||
+129|STU|Okay, you had your little joke.|speech|STU|M|True
 130|VOICE|"I'm not sufficiently amused.  Not
-yet.  We have more to talk about."|speech|VOICE|M
+yet.  We have more to talk about."|speech|VOICE|M|True
 131||"Stu knows he should simply hang up but something tells him
-not to.  Perhaps it's the strange tone of the man's voice."|stage direction||
+not to.  Perhaps it's the strange tone of the man's voice."|stage direction|||
 132|STU|"Do me a favor.  Call up somebody
-else."|speech|STU|M
+else."|speech|STU|M|True
 133|VOICE|"But it's you I'm interested in.
 You know how many people use that
-booth every day?"|speech|VOICE|M
-134|STU|Why don't you tell me?|speech|STU|M
+booth every day?"|speech|VOICE|M|True
+134|STU|Why don't you tell me?|speech|STU|M|True
 135|VOICE|"Better than two-hundred people on
-average."|speech|VOICE|M
-136|STU|Is that what you do?  Count them?|speech|STU|M
+average."|speech|VOICE|M|True
+136|STU|Is that what you do?  Count them?|speech|STU|M|True
 137|VOICE|"What else do I have to do?  It's
 interesting watching people.
 Trying to guess who they are.  And
-what they're up to."|speech|VOICE|M
+what they're up to."|speech|VOICE|M|True
 138|STU|"What are you -- a shut-in of some
-kind?"|speech|STU|M
+kind?"|speech|STU|M|True
 139|VOICE|"You might say that.  I can't go
-out.  I might be seen."|speech|VOICE|M
-140|STU|Somebody's looking for you?|speech|STU|M
-141|VOICE|Desperately.|speech|VOICE|M
-142|STU|The cops?|speech|STU|M
-143|VOICE|Not yet.|speech|VOICE|M
+out.  I might be seen."|speech|VOICE|M|True
+140|STU|Somebody's looking for you?|speech|STU|M|True
+141|VOICE|Desperately.|speech|VOICE|M|True
+142|STU|The cops?|speech|STU|M|True
+143|VOICE|Not yet.|speech|VOICE|M|True
 144|STU|"The ex-wife.  What'd you do -- run
-out on child support?"|speech|STU|M
-145|VOICE|What kind of man do you think I am?|speech|VOICE|M
+out on child support?"|speech|STU|M|True
+145|VOICE|What kind of man do you think I am?|speech|VOICE|M|True
 146|STU|"Frankly, I could care less.  You
-had your fun.  Now goodbye."|speech|STU|M
+had your fun.  Now goodbye."|speech|STU|M|True
 147|VOICE|"It's not in your best interests to
 hang up on me.  That would make me
-angry."|speech|VOICE|M
-148|STU|Isn't that just too bad?|speech|STU|M
-149|VOICE|For you.|speech|VOICE|M
+angry."|speech|VOICE|M|True
+148|STU|Isn't that just too bad?|speech|STU|M|True
+149|VOICE|For you.|speech|VOICE|M|True
 150|STU|"There's ten million names in the
-phonebook.  Pester somebody else."|speech|STU|M
+phonebook.  Pester somebody else."|speech|STU|M|True
 151|VOICE|"I never talk to people I can't see.
-I need to study their reactions."|speech|VOICE|M
+I need to study their reactions."|speech|VOICE|M|True
 152|STU|"Alright, bullshit artist, what am
-I doing right now?"|speech|STU|M
+I doing right now?"|speech|STU|M|True
 153|VOICE|"Scratching your forehead with your
 left hand.  Now you're brushing
-your hair back."|speech|VOICE|M
+your hair back."|speech|VOICE|M|True
 154|STU|"Okay, okay, you got me in your
-scrutiny.  So what?"|speech|STU|M
-155|VOICE|So let's talk.|speech|VOICE|M
-156|STU|Only I got nothing to say.|speech|STU|M
+scrutiny.  So what?"|speech|STU|M|True
+155|VOICE|So let's talk.|speech|VOICE|M|True
+156|STU|Only I got nothing to say.|speech|STU|M|True
 157|VOICE|"Oh, you will.  You'll do a lot of
 talking before this conversation is
 over.  And it'll only end when I
-want it to."|speech|VOICE|M
+want it to."|speech|VOICE|M|True
 158|STU|"Is that a fact?  Well if you watch
-closely, you will see me hang up."|speech|STU|M
-159|VOICE|I don't think you will.|speech|VOICE|M
-160|STU|Why not?|speech|STU|M
-161|VOICE|I interest you.|speech|VOICE|M
+closely, you will see me hang up."|speech|STU|M|True
+159|VOICE|I don't think you will.|speech|VOICE|M|True
+160|STU|Why not?|speech|STU|M|True
+161|VOICE|I interest you.|speech|VOICE|M|True
 162|STU|"Why should I be interested in some
 creep who gets his jollies spying
-on strangers in phone booths?"|speech|STU|M
-163|VOICE|But you're not a stranger, Stu.|speech|VOICE|M
-164||The sound of his own name sends a chill through him.|stage direction||
-165|STU|Who put you up to this?|speech|STU|M
-166|VOICE|You were my very own selection.|speech|VOICE|M
-167|STU|Why me in particular?|speech|STU|M
-168|VOICE|Because you're so afraid.|speech|VOICE|M
-169|STU|Ha!  What've I got to be afraid of?|speech|STU|M
+on strangers in phone booths?"|speech|STU|M|True
+163|VOICE|But you're not a stranger, Stu.|speech|VOICE|M|True
+164||The sound of his own name sends a chill through him.|stage direction|||
+165|STU|Who put you up to this?|speech|STU|M|True
+166|VOICE|You were my very own selection.|speech|VOICE|M|True
+167|STU|Why me in particular?|speech|STU|M|True
+168|VOICE|Because you're so afraid.|speech|VOICE|M|True
+169|STU|Ha!  What've I got to be afraid of?|speech|STU|M|True
 170|STU|"Just about everything.  You have so
-much to hide."|speech|STU|M
-171|STU|How do you figure that?|speech|STU|M
+much to hide."|speech|STU|M|True
+171|STU|How do you figure that?|speech|STU|M|True
 172|VOICE|"Why else would a man with a
 perfectly good cellular bother to
-make calls from a pay booth?"|speech|VOICE|M
-173|STU|That's my business.|speech|STU|M
-174|VOICE|I've made it mine.|speech|VOICE|M
+make calls from a pay booth?"|speech|VOICE|M|True
+173|STU|That's my business.|speech|STU|M|True
+174|VOICE|I've made it mine.|speech|VOICE|M|True
 175|STU|"All of a sudden I'm required to
-give explanations to you?"|speech|STU|M
-176|VOICE|In explicit detail.|speech|VOICE|M
+give explanations to you?"|speech|STU|M|True
+176|VOICE|In explicit detail.|speech|VOICE|M|True
 177|STU|"What is this?  Some kind of candid
 camera gag?  Or like that thing on
 HBO where the cab driver is taping
-what goes on in the back seat?"|speech|STU|M
+what goes on in the back seat?"|speech|STU|M|True
 178|VOICE|"This is not showbusiness, my
-friend.  This is reality."|speech|VOICE|M
+friend.  This is reality."|speech|VOICE|M|True
 179|STU|"Your reality.  Not mine, you
-lowlife fuck."|speech|STU|M
+lowlife fuck."|speech|STU|M|True
 180|VOICE|"Stu, you'll be made to suffer for
 your attitude, so let's dispense
-with the vulgarities."|speech|VOICE|M
+with the vulgarities."|speech|VOICE|M|True
 181|STU|"Now you're threatening me!  Fuck
-you.  Could that be any clearer?"|speech|STU|M
+you.  Could that be any clearer?"|speech|STU|M|True
 182|VOICE|"You're only making it easier for me
-to do you harm."|speech|VOICE|M
+to do you harm."|speech|VOICE|M|True
 183|STU|"Oh yeah.  Right.  Can you see how
-I'm trembling?"|speech|STU|M
-184|VOICE|You will be.|speech|VOICE|M
+I'm trembling?"|speech|STU|M|True
+184|VOICE|You will be.|speech|VOICE|M|True
 185|STU|"Shit, this is a new one.  Fucking
 threatening calls in a goddam phone
 booth.  When are you going to start
-with the heavy breathing."|speech|STU|M
+with the heavy breathing."|speech|STU|M|True
 186|VOICE|"I'm not the degenerate.  You are,
-Stu."|speech|VOICE|M
-187|STU|You don't know anything about me.|speech|STU|M
+Stu."|speech|VOICE|M|True
+187|STU|You don't know anything about me.|speech|STU|M|True
 188|VOICE|"Infinitely more than you know about
-me."|speech|VOICE|M
-189|STU|Like what?|speech|STU|M
+me."|speech|VOICE|M|True
+189|STU|Like what?|speech|STU|M|True
 190|VOICE|"Like the number you dialed when you
-first entered the booth."|speech|VOICE|M
-191|STU|How would you know that?|speech|STU|M
+first entered the booth."|speech|VOICE|M|True
+191|STU|How would you know that?|speech|STU|M|True
 192|VOICE|"I'm watching through a scope and I
 could clearly read the buttons you
 pushed.  I have another extension
 here by the window.  Shall I dial
 that same number back for you?
-Would that convince you?"|speech|VOICE|M
+Would that convince you?"|speech|VOICE|M|True
 193||"Stu nervously cranes his neck, looking around at all the tall
 buildings that surround the street corner.
 STU'S POV
 PANNING up at thousands of windows.  The Voice could be
 coming from anywhere.
-BACK TO STU IN THE BOOTH"|stage direction||
+BACK TO STU IN THE BOOTH"|stage direction|||
 194|VOICE|"Let's see who's on the other end of
-the line."|speech|VOICE|M
-195|STU|Don't.|speech|STU|M
-196|VOICE|Too late.|speech|VOICE|M
-197||(beat)|location||
+the line."|speech|VOICE|M|True
+195|STU|Don't.|speech|STU|M|True
+196|VOICE|Too late.|speech|VOICE|M|True
+197||(beat)|location|||
 198|VOICE|"It's already ringing.  I'll hold
 the receiver up so you can listen
-in."|speech|VOICE|M
+in."|speech|VOICE|M|True
 199||"Stu can hear the beeping as the other line rings.
 Then Mavis' voice can be heard answering.  Stu listens
-helplessly."|stage direction||
-200|MAVIS' VOICE|Hello?|speech|MAVIS' VOICE|M
-201|VOICE|Well, hello.|speech|VOICE|M
-202|MAVIS' VOICE|Who is this?|speech|MAVIS' VOICE|M
+helplessly."|stage direction|||
+200|MAVIS' VOICE|Hello?|speech|MAVIS' VOICE|M|True
+201|VOICE|Well, hello.|speech|VOICE|M|True
+202|MAVIS' VOICE|Who is this?|speech|MAVIS' VOICE|M|True
 203|VOICE|"Someone who's really tight with
 your boyfriend -- who just called
-you from his favorite phone booth."|speech|VOICE|M
-204|MAVIS' VOICE|You know Stu?|speech|MAVIS' VOICE|M
+you from his favorite phone booth."|speech|VOICE|M|True
+204|MAVIS' VOICE|You know Stu?|speech|MAVIS' VOICE|M|True
 205|VOICE|"Stu?  Oh, I know him better than
 anyone.  What he does -- how he
-thinks.  How he lies."|speech|VOICE|M
-206|MAVIS' VOICE|Who the hell is this?|speech|MAVIS' VOICE|M
+thinks.  How he lies."|speech|VOICE|M|True
+206|MAVIS' VOICE|Who the hell is this?|speech|MAVIS' VOICE|M|True
 207|VOICE|"Stu is listening in.  He knows what
-we're both saying."|speech|VOICE|M
-208|MAVIS' VOICE|Stu?  Is that true?  Are you there?|speech|MAVIS' VOICE|M
-209|VOICE|He doesn't feel like talking.|speech|VOICE|M
-210||(shouts)|location||
+we're both saying."|speech|VOICE|M|True
+208|MAVIS' VOICE|Stu?  Is that true?  Are you there?|speech|MAVIS' VOICE|M|True
+209|VOICE|He doesn't feel like talking.|speech|VOICE|M|True
+210||(shouts)|location|||
 211|STU|"Mavis!  Just hang up the goddam
-phone."|speech|STU|M
-212|VOICE|She can't hear you, Stu.  Only me.|speech|VOICE|M
-213||(a pause)|location||
+phone."|speech|STU|M|True
+212|VOICE|She can't hear you, Stu.  Only me.|speech|VOICE|M|True
+213||(a pause)|location|||
 214|VOICE|"Mavis, I'm afraid Stu hasn't been
 totally honest with you.  But then
 he can't be honest with anyone, can
-he?"|speech|VOICE|M
+he?"|speech|VOICE|M|True
 215|MAVIS' VOICE|"What's your name?  To whom am I
-speaking?"|speech|MAVIS' VOICE|M
+speaking?"|speech|MAVIS' VOICE|M|True
 216|VOICE|"You've never heard of me, Mavis.
 He doesn't want you to know I
 exist.  He wishes I didn't exist.
 But there isn't anything he can do
-about that."|speech|VOICE|M
-217||(beat)|location||
+about that."|speech|VOICE|M|True
+217||(beat)|location|||
 218|VOICE|"Still there, Stu?  All you can do
-is listen."|speech|VOICE|M
+is listen."|speech|VOICE|M|True
 219|STU|"Mavis -- the guy is a fucking
-nutcase!  Hang the fuck up."|speech|STU|M
+nutcase!  Hang the fuck up."|speech|STU|M|True
 220|VOICE|"She doesn't want to.  She wants to
 know all about us.  Don't you,
-Mavis?"|speech|VOICE|M
+Mavis?"|speech|VOICE|M|True
 221|MAVIS' VOICE|"Did his wife put you up to this?
-That bitch, Kelly?"|speech|MAVIS' VOICE|M
+That bitch, Kelly?"|speech|MAVIS' VOICE|M|True
 222|VOICE|"Oh yes, the bitch wife, Kelly.  My
-very next call."|speech|VOICE|M
-223||(yells)|location||
+very next call."|speech|VOICE|M|True
+223||(yells)|location|||
 224|STU|"He doesn't know my wife!  Don't
-tell him anything else."|speech|STU|M
+tell him anything else."|speech|STU|M|True
 225||"Outside the booth, a huge, heavy-set black woman in a too
 tight dress, now appears with the clear desire to use the
-phone.  Her name is FELICIA.  She taps on the glass."|stage direction||
-226|FELICIA|Could you hurry it along?|speech|FELICIA|F
+phone.  Her name is FELICIA.  She taps on the glass."|stage direction|||
+226|FELICIA|Could you hurry it along?|speech|FELICIA|F|True
 227||"Stu ignores her and Felicia glares at him through the glass
 with hostility.
 Stu has no inclination to deal with anybody else.  He's too
-distracted by the madness happening over the telephone."|stage direction||
+distracted by the madness happening over the telephone."|stage direction|||
 228|STU|"Can you hear me, Mavis?  Keep your
-big mouth shut."|speech|STU|M
+big mouth shut."|speech|STU|M|True
 229|VOICE|"Is that any way to talk to a woman
-you love?"|speech|VOICE|M
-230||(beat)|location||
+you love?"|speech|VOICE|M|True
+230||(beat)|location|||
 231|VOICE|"Mavis, is he always that abusive to
-you?"|speech|VOICE|M
+you?"|speech|VOICE|M|True
 232|MAVIS' VOICE|"You're getting me all upset.  I
 don't know who you are or how you
-know all this --"|speech|MAVIS' VOICE|M
+know all this --"|speech|MAVIS' VOICE|M|True
 233|VOICE|"I find out things -- from watching
-people and listening to them."|speech|VOICE|M
+people and listening to them."|speech|VOICE|M|True
 234|MAVIS' VOICE|"Just what is your relationship to
-Stu?  That's all I want to know."|speech|MAVIS' VOICE|M
-235|VOICE|Well, what do you think?|speech|VOICE|M
-236|MAVIS' VOICE|Answer me, goddam it!|speech|MAVIS' VOICE|M
+Stu?  That's all I want to know."|speech|MAVIS' VOICE|M|True
+235|VOICE|Well, what do you think?|speech|VOICE|M|True
+236|MAVIS' VOICE|Answer me, goddam it!|speech|MAVIS' VOICE|M|True
 237|VOICE|"Well alright.  Stu and I are --
 longtime companions.  A pair.  Two
 of a kind.  Closer than close.
-Peas in a pod.  Spoons in a drawer."|speech|VOICE|M
-238|MAVIS' VOICE|You pervert!|speech|MAVIS' VOICE|M
-239|VOICE|That, too.|speech|VOICE|M
+Peas in a pod.  Spoons in a drawer."|speech|VOICE|M|True
+238|MAVIS' VOICE|You pervert!|speech|MAVIS' VOICE|M|True
+239|VOICE|That, too.|speech|VOICE|M|True
 240|STU|"Don't believe a word of it.  It's
-all lies."|speech|STU|M
+all lies."|speech|STU|M|True
 241|VOICE|"Too late, Stu.  She already
-believes it."|speech|VOICE|M
+believes it."|speech|VOICE|M|True
 242|MAVIS' VOICE|"You can tell that scumbag never to
-bother me again."|speech|MAVIS' VOICE|M
+bother me again."|speech|MAVIS' VOICE|M|True
 243|VOICE|"He won't care.  He'll still have
-me."|speech|VOICE|M
-244|STU|It's not true.  I do care.|speech|STU|M
+me."|speech|VOICE|M|True
+244|STU|It's not true.  I do care.|speech|STU|M|True
 245||"From outside the booth, there's a louder rapping on the
-glass.  Felicia really wants in."|stage direction||
+glass.  Felicia really wants in."|stage direction|||
 246|FELICIA|"Get done in there, mister.  I got
-me an important call."|speech|FELICIA|F
-247|STU|Go away.|speech|STU|M
-248|FELICIA|Shit I will!  Finish up!|speech|FELICIA|F
+me an important call."|speech|FELICIA|F|True
+247|STU|Go away.|speech|STU|M|True
+248|FELICIA|Shit I will!  Finish up!|speech|FELICIA|F|True
 249||"She continues to rap on the glass as Stu tries to focus on
-the two-way phone call."|stage direction||
+the two-way phone call."|stage direction|||
 250|VOICE|"Why don't you tell me what you
-think of us?"|speech|VOICE|M
-251|MAVIS' VOICE|You're both disgusting.|speech|MAVIS' VOICE|M
+think of us?"|speech|VOICE|M|True
+251|MAVIS' VOICE|You're both disgusting.|speech|MAVIS' VOICE|M|True
 252|VOICE|"That's what he said about you.
 Well, if Stu didn't have the balls
 to come out and tell you the truth,
 I felt it was my responsibility to
 clear the air.  Goodbye now, Mavis.
-Thanks for your time."|speech|VOICE|M
+Thanks for your time."|speech|VOICE|M|True
 253||"(the phone clicks off; we
-hear only a dial tone)"|location||
-254|VOICE|Back to you again, Stu.|speech|VOICE|M
+hear only a dial tone)"|location|||
+254|VOICE|Back to you again, Stu.|speech|VOICE|M|True
 255|STU|"You total asshole!  How could you
-do that?"|speech|STU|M
+do that?"|speech|STU|M|True
 256|VOICE|"Speaking of females, that woman
 hovering outside the booth -- may
 as well tell her that you'll be on
-the line forever."|speech|VOICE|M
-257|STU|Like hell I will.|speech|STU|M
+the line forever."|speech|VOICE|M|True
+257|STU|Like hell I will.|speech|STU|M|True
 258|VOICE|"I'm ready for you to take out your
 cellular and phone home.  And this
-time, I'll listen in."|speech|VOICE|M
-259|STU|There's no chance of that.|speech|STU|M
+time, I'll listen in."|speech|VOICE|M|True
+259|STU|There's no chance of that.|speech|STU|M|True
 260|VOICE|"Or should I call Kelly and make up
 something totally outrageous?  You
 must realize by now I have a vivid
-imagination."|speech|VOICE|M
-261|STU|You don't know our phone number!|speech|STU|M
+imagination."|speech|VOICE|M|True
+261|STU|You don't know our phone number!|speech|STU|M|True
 262|VOICE|"Are you absolutely sure?  I may
 have been watching you on a regular
 basis.  Keeping track of all the
-numbers I see you dial."|speech|VOICE|M
-263|STU|And I'm supposed to believe that?|speech|STU|M
+numbers I see you dial."|speech|VOICE|M|True
+263|STU|And I'm supposed to believe that?|speech|STU|M|True
 264|VOICE|"I've put a great deal of
 preparation into this -- prior to
 actually saying hello.  Now do you
 want to dial 832-7165 -- or should
-I?"|speech|VOICE|M
+I?"|speech|VOICE|M|True
 265||"The sound of the actual number being spoken shocks him even
-more than the earlier mention of his name."|stage direction||
-266|STU|What are you going to tell her?|speech|STU|M
-267|VOICE|You'll do the talking.|speech|VOICE|M
-268|STU|What am I supposed to say?|speech|STU|M
-269|VOICE|Try telling her the truth.|speech|VOICE|M
+more than the earlier mention of his name."|stage direction|||
+266|STU|What are you going to tell her?|speech|STU|M|True
+267|VOICE|You'll do the talking.|speech|VOICE|M|True
+268|STU|What am I supposed to say?|speech|STU|M|True
+269|VOICE|Try telling her the truth.|speech|VOICE|M|True
 270|STU|"Look, I don't want to hurt Kelly.
 She's always there for me.  It's
 just my nature to have a little
 'strange' on the side.  It doesn't
-mean shit."|speech|STU|M
-271|VOICE|But you still find it necessary?|speech|VOICE|M
+mean shit."|speech|STU|M|True
+271|VOICE|But you still find it necessary?|speech|VOICE|M|True
 272|STU|"Kind of like having a beautiful
 home.  With everything you ever
 dreamed of.  But you still need
@@ -672,223 +672,223 @@ want to spend more than a few days
 in any hotel.  Eventually, you want
 to go back to your home and all
 your stuff.  You're real glad to
-check out."|speech|STU|M
+check out."|speech|STU|M|True
 273|VOICE|"Kelly is home and Mavis is a hotel?
 I'm sure they'll both appreciate
-that explanation."|speech|VOICE|M
+that explanation."|speech|VOICE|M|True
 274|STU|"You're ruining my fucking life, you
-sonofabitch."|speech|STU|M
+sonofabitch."|speech|STU|M|True
 275|VOICE|"Didn't I warn you about calling me
-names?  It makes me vindictive."|speech|VOICE|M
-276|STU|What else can you do to me?|speech|STU|M
-277|VOICE|We haven't even begun.|speech|VOICE|M
-278|STU|She's not home.  She went out.|speech|STU|M
+names?  It makes me vindictive."|speech|VOICE|M|True
+276|STU|What else can you do to me?|speech|STU|M|True
+277|VOICE|We haven't even begun.|speech|VOICE|M|True
+278|STU|She's not home.  She went out.|speech|STU|M|True
 279|VOICE|"I'll bet she's back.  Now hold the
 cellular up where I can see it --
 so I can be certain you don't
-misdial on me."|speech|VOICE|M
-280||(pause)|location||
+misdial on me."|speech|VOICE|M|True
+280||(pause)|location|||
 281|VOICE|"A little higher and to your left.
 Now I have it in perfect view.
-Dial slowly."|speech|VOICE|M
+Dial slowly."|speech|VOICE|M|True
 282||"More violent rapping on the glass from the persistent black
-lady outside."|stage direction||
+lady outside."|stage direction|||
 283|FELICIA|"If you got you a cell phone, how
 come you taking up the whole
 fucking booth!  This here's an
-emergency!"|speech|FELICIA|F
+emergency!"|speech|FELICIA|F|True
 284|STU|"There's another booth on the next
-block."|speech|STU|M
+block."|speech|STU|M|True
 285|FELICIA|"It's busted.  Every damn phone on
 Eighth Avenue is busted but this
-one."|speech|FELICIA|F
+one."|speech|FELICIA|F|True
 286|STU|"Well, I'm not through!  Go in a
 restaurant or someplace, but get
-away from me!"|speech|STU|M
+away from me!"|speech|STU|M|True
 287|FELICIA|"I'm gonna pull you out of that
-booth and snatch you ballheaded!"|speech|FELICIA|F
+booth and snatch you ballheaded!"|speech|FELICIA|F|True
 288||"She tries to pull open the sliding door to the booth but Stu
-jams it shut, right on her hand."|stage direction||
-289|FELICIA|You assaulted my person.|speech|FELICIA|F
-290|STU|Let me hear from your lawyer!|speech|STU|M
+jams it shut, right on her hand."|stage direction|||
+289|FELICIA|You assaulted my person.|speech|FELICIA|F|True
+290|STU|Let me hear from your lawyer!|speech|STU|M|True
 291|FELICIA|"You're hear alright.  I'm coming
 back.  And your ass better not be
-around."|speech|FELICIA|F
-292||She stalks off obviously in search of assistance.|stage direction||
+around."|speech|FELICIA|F|True
+292||She stalks off obviously in search of assistance.|stage direction|||
 293|VOICE|"Good work, Stu.  Now let me see you
 dial.  Tuck the receiver under your
-chin and dial your remote."|speech|VOICE|M
-294|STU|I'm doing it.|speech|STU|M
-295||He punches in the digits.  The phone rings -- and rings.|stage direction||
-296|STU|I told you she was out.|speech|STU|M
-297|VOICE|Let it ring.|speech|VOICE|M
-298||Then a girl's voice is heard.|stage direction||
-299|KELLY'S VOICE|Shepard residence.|speech|KELLY'S VOICE|F
+chin and dial your remote."|speech|VOICE|M|True
+294|STU|I'm doing it.|speech|STU|M|True
+295||He punches in the digits.  The phone rings -- and rings.|stage direction|||
+296|STU|I told you she was out.|speech|STU|M|True
+297|VOICE|Let it ring.|speech|VOICE|M|True
+298||Then a girl's voice is heard.|stage direction|||
+299|KELLY'S VOICE|Shepard residence.|speech|KELLY'S VOICE|F|True
 300|VOICE|"Hold it close to the receiver so I
-can hear."|speech|VOICE|M
-301|KELLY'S VOICE|Hello?|speech|KELLY'S VOICE|F
-302|STU|Honey, it's me.|speech|STU|M
+can hear."|speech|VOICE|M|True
+301|KELLY'S VOICE|Hello?|speech|KELLY'S VOICE|F|True
+302|STU|Honey, it's me.|speech|STU|M|True
 303|KELLY'S VOICE|"What's taking you so long?  I
 thought we were having some lunch
-at Mario's?"|speech|KELLY'S VOICE|F
+at Mario's?"|speech|KELLY'S VOICE|F|True
 304|STU|"Change of plan.  We're not eating
-in that dump any more."|speech|STU|M
-305|KELLY'S VOICE|How come?|speech|KELLY'S VOICE|F
+in that dump any more."|speech|STU|M|True
+305|KELLY'S VOICE|How come?|speech|KELLY'S VOICE|F|True
 306|STU|"The Health Department gave them a
 'C' rating -- that's how come.
 Here I'm trying to put the place on
 the map and he fucks it all up with
-a major roach problem."|speech|STU|M
+a major roach problem."|speech|STU|M|True
 307|KELLY'S VOICE|"That's disgusting.  Okay, I'll fix
-us a sandwich.  Where are you now?"|speech|KELLY'S VOICE|F
-308|STU|Just in a phone booth.|speech|STU|M
+us a sandwich.  Where are you now?"|speech|KELLY'S VOICE|F|True
+308|STU|Just in a phone booth.|speech|STU|M|True
 309|KELLY'S VOICE|"How come?  The caller ID says
-you're on your cellular."|speech|KELLY'S VOICE|F
-310|STU|Oh yeah, I am.|speech|STU|M
+you're on your cellular."|speech|KELLY'S VOICE|F|True
+310|STU|Oh yeah, I am.|speech|STU|M|True
 311|KELLY'S VOICE|"But you're also in some phone
-booth?"|speech|KELLY'S VOICE|F
-312|VOICE|Explain that one, Stu.|speech|VOICE|M
+booth?"|speech|KELLY'S VOICE|F|True
+312|VOICE|Explain that one, Stu.|speech|VOICE|M|True
 313|STU|"I only stepped in because the
-traffic was so loud outside."|speech|STU|M
-314|KELLY'S VOICE|Well just hurry on back.|speech|KELLY'S VOICE|F
-315|VOICE|Tell her you can't.|speech|VOICE|M
-316|STU|Not for a few minutes.|speech|STU|M
+traffic was so loud outside."|speech|STU|M|True
+314|KELLY'S VOICE|Well just hurry on back.|speech|KELLY'S VOICE|F|True
+315|VOICE|Tell her you can't.|speech|VOICE|M|True
+316|STU|Not for a few minutes.|speech|STU|M|True
 317|KELLY'S VOICE|"Are you sure you're alone?  I hear
-somebody in the background."|speech|KELLY'S VOICE|F
+somebody in the background."|speech|KELLY'S VOICE|F|True
 318|STU|"The guy in the next booth.  He's
 got a bad connection and he's
-hollering his fool head off."|speech|STU|M
+hollering his fool head off."|speech|STU|M|True
 319|VOICE|"You've got an answer for
-everything."|speech|VOICE|M
-320|STU|I love you, baby.|speech|STU|M
-321|KELLY'S VOICE|Do you?|speech|KELLY'S VOICE|F
-322|STU|You know that.|speech|STU|M
-323|KELLY'S VOICE|Stu -- who was that man?|speech|KELLY'S VOICE|F
-324|STU|What man?|speech|STU|M
+everything."|speech|VOICE|M|True
+320|STU|I love you, baby.|speech|STU|M|True
+321|KELLY'S VOICE|Do you?|speech|KELLY'S VOICE|F|True
+322|STU|You know that.|speech|STU|M|True
+323|KELLY'S VOICE|Stu -- who was that man?|speech|KELLY'S VOICE|F|True
+324|STU|What man?|speech|STU|M|True
 325|KELLY'S VOICE|"Some person who phoned fifteen
 minutes ago -- just after you went
-out."|speech|KELLY'S VOICE|F
-326|STU|I don't understand...|speech|STU|M
+out."|speech|KELLY'S VOICE|F|True
+326|STU|I don't understand...|speech|STU|M|True
 327|KELLY'S VOICE|"This total stranger rang up and
 told me to wait by the phone --
 because you'd be calling me in a
 few minutes -- from a booth.  And I
 said what would he be doing in any
-phone booth?"|speech|KELLY'S VOICE|F
-328|STU|And what did this guy say?|speech|STU|M
+phone booth?"|speech|KELLY'S VOICE|F|True
+328|STU|And what did this guy say?|speech|STU|M|True
 329|KELLY'S VOICE|"He said you'd be making phone
-calls.  What else?"|speech|KELLY'S VOICE|F
+calls.  What else?"|speech|KELLY'S VOICE|F|True
 330|STU|"Making calls is part of my
-business."|speech|STU|M
-331|KELLY'S VOICE|To whom?|speech|KELLY'S VOICE|F
+business."|speech|STU|M|True
+331|KELLY'S VOICE|To whom?|speech|KELLY'S VOICE|F|True
 332|STU|"Clients.  People.  Planting items
-like I do."|speech|STU|M
-333|KELLY'S VOICE|Women?|speech|KELLY'S VOICE|F
+like I do."|speech|STU|M|True
+333|KELLY'S VOICE|Women?|speech|KELLY'S VOICE|F|True
 334|STU|"Once in a while one of them could
 be a woman.  I just called
 ""Elaine's"" and talked to her to see
-who was in there last night."|speech|STU|M
-335|KELLY'S VOICE|You know exactly what I mean.|speech|KELLY'S VOICE|F
+who was in there last night."|speech|STU|M|True
+335|KELLY'S VOICE|You know exactly what I mean.|speech|KELLY'S VOICE|F|True
 336|STU|"You're not going to start that shit
-again?"|speech|STU|M
-337|KELLY'S VOICE|I just feel something is wrong.|speech|KELLY'S VOICE|F
-338|STU|What could be wrong?|speech|STU|M
+again?"|speech|STU|M|True
+337|KELLY'S VOICE|I just feel something is wrong.|speech|KELLY'S VOICE|F|True
+338|STU|What could be wrong?|speech|STU|M|True
 339|KELLY'S VOICE|"The way you sound.  You don't sound
-like yourself."|speech|KELLY'S VOICE|F
-340|STU|Yeah?  Who do I sound like?|speech|STU|M
+like yourself."|speech|KELLY'S VOICE|F|True
+340|STU|Yeah?  Who do I sound like?|speech|STU|M|True
 341|KELLY'S VOICE|"Someone who's scared.  There's fear
 in your voice like I've never heard
-before."|speech|KELLY'S VOICE|F
-342|VOICE|See, Stu?  Kelly agrees with me.|speech|VOICE|M
-343|KELLY'S VOICE|I want you to come back home.  Now!|speech|KELLY'S VOICE|F
-344|STU|I told you.  In a while.|speech|STU|M
+before."|speech|KELLY'S VOICE|F|True
+342|VOICE|See, Stu?  Kelly agrees with me.|speech|VOICE|M|True
+343|KELLY'S VOICE|I want you to come back home.  Now!|speech|KELLY'S VOICE|F|True
+344|STU|I told you.  In a while.|speech|STU|M|True
 345|KELLY'S VOICE|"No.  I want you here now.  In case
 he calls back, I don't want to
-answer again."|speech|KELLY'S VOICE|F
-346|STU|Why should he call back?|speech|STU|M
-347|KELLY'S VOICE|I feel like he's going to.|speech|KELLY'S VOICE|F
+answer again."|speech|KELLY'S VOICE|F|True
+346|STU|Why should he call back?|speech|STU|M|True
+347|KELLY'S VOICE|I feel like he's going to.|speech|KELLY'S VOICE|F|True
 348|STU|"You're the one that sounds
-frightened.  And of nobody."|speech|STU|M
+frightened.  And of nobody."|speech|STU|M|True
 349|KELLY'S VOICE|"He's not a nobody.  He knows about
-us."|speech|KELLY'S VOICE|F
+us."|speech|KELLY'S VOICE|F|True
 350|STU|"You're not telling me all he said.
-What are you holding back?"|speech|STU|M
+What are you holding back?"|speech|STU|M|True
 351|KELLY'S VOICE|"I can't discuss it on the phone.
-Just get over here!"|speech|KELLY'S VOICE|F
-352||CLICK!  She hangs up.|stage direction||
-353||(into pay phone)|location||
+Just get over here!"|speech|KELLY'S VOICE|F|True
+352||CLICK!  She hangs up.|stage direction|||
+353||(into pay phone)|location|||
 354|STU|"Why did you do that to her?  She
-never did you any harm."|speech|STU|M
+never did you any harm."|speech|STU|M|True
 355|VOICE|"How would you know?  Everybody does
 harm to somebody.  And then they
-try their best to forget it."|speech|VOICE|M
+try their best to forget it."|speech|VOICE|M|True
 356|STU|"Maybe me -- but not her.  Whatever
 I've done, there's no reason to
-take it out on her."|speech|STU|M
+take it out on her."|speech|STU|M|True
 357|VOICE|"Suppose that's the only way I can
 get to you?  You claim you love
-her."|speech|VOICE|M
-358|STU|Yeah, I do.|speech|STU|M
-359|VOICE|You don't even love yourself.|speech|VOICE|M
-360|STU|But Kelly... I would never hurt.|speech|STU|M
+her."|speech|VOICE|M|True
+358|STU|Yeah, I do.|speech|STU|M|True
+359|VOICE|You don't even love yourself.|speech|VOICE|M|True
+360|STU|But Kelly... I would never hurt.|speech|STU|M|True
 361|VOICE|"Still you have to uphold your
-status as an honorary asshole."|speech|VOICE|M
+status as an honorary asshole."|speech|VOICE|M|True
 362|STU|"Listen, I've treated all my women
 decent.  I never laid a hand on any
 of them, even when provoked.  And I
-always let them down easy."|speech|STU|M
-363||(beat)|location||
+always let them down easy."|speech|STU|M|True
+363||(beat)|location|||
 364|STU|"I'm not ready to let Kelly go.
-Maybe I never will be."|speech|STU|M
+Maybe I never will be."|speech|STU|M|True
 365|VOICE|"What if she dumps you first?
 What's the odds she's already taken
 up with somebody?  One day soon
 you'll come home and find her gone
 along with the CD player and the
-VCR."|speech|VOICE|M
+VCR."|speech|VOICE|M|True
 366|STU|"I'm not gonna let you mind-fuck me
 all day!  That's it.  This call is
-ended."|speech|STU|M
-367|VOICE|Not until I say it is.|speech|VOICE|M
-368|STU|What happens if I hang up?|speech|STU|M
-369|VOICE|You don't really want to find out.|speech|VOICE|M
+ended."|speech|STU|M|True
+367|VOICE|Not until I say it is.|speech|VOICE|M|True
+368|STU|What happens if I hang up?|speech|STU|M|True
+369|VOICE|You don't really want to find out.|speech|VOICE|M|True
 370|STU|"I'm dying to hear this!!!  What the
 fuck can you do about it -- up in
 your fucking high window with your
-goddam binoculars?"|speech|STU|M
+goddam binoculars?"|speech|STU|M|True
 371|VOICE|"I never indicated I had binoculars.
 I said I had a highly magnified
 telescopic image of you that
 brought you up so close I could see
 where you nicked yourself under the
-chin shaving this morning."|speech|VOICE|M
+chin shaving this morning."|speech|VOICE|M|True
 372|STU|"Oh -- while you're at it, have a
-look up my ass."|speech|STU|M
+look up my ass."|speech|STU|M|True
 373|VOICE|"I may very well do that, Stu.  In
 the meantime, think about what kind
 of device has a telescopic sight
-mounted on it."|speech|VOICE|M
-374|STU|What?  You mean... like a rifle?|speech|STU|M
+mounted on it."|speech|VOICE|M|True
+374|STU|What?  You mean... like a rifle?|speech|STU|M|True
 375|VOICE|"A high-powered .30 calibre bolt
 action Remington 700 with a carbon
 one modification and a state of the
 art Henzholdt tactical sniperscope.
-And you're in the cross hairs, Stu."|speech|VOICE|M
-376|STU|I'm supposed to believe that?|speech|STU|M
+And you're in the cross hairs, Stu."|speech|VOICE|M|True
+376|STU|I'm supposed to believe that?|speech|STU|M|True
 377|VOICE|"There's only one way I can prove it
 to you.  Hang up the receiver and
 find out.  At this range, the exit
 wound ought to be about the size of
-a small tangerine."|speech|VOICE|M
+a small tangerine."|speech|VOICE|M|True
 378|STU|"And you're just going to kill me
-for no reason?"|speech|STU|M
+for no reason?"|speech|STU|M|True
 379|VOICE|"For plenty of reasons!  Because you
 hung up.  For years I hated people
 hanging up on me.  Ex-girlfriends.
 Women I didn't even know.
-Prospective employers."|speech|VOICE|M
+Prospective employers."|speech|VOICE|M|True
 380|STU|"I get hung up on all the time.  You
-get used to it."|speech|STU|M
+get used to it."|speech|STU|M|True
 381|VOICE|"Or else you don't.  I worked for
 months getting people to switch to
 MCI -- being insulted at and being
@@ -897,33 +897,33 @@ The ones that cursed me out for
 invading their privacy never
 bothered me as much as those that
 clicked off without even bothering
-to reply."|speech|VOICE|M
+to reply."|speech|VOICE|M|True
 382|STU|"Then why didn't you go after one of
-them?"|speech|STU|M
-383|VOICE|Maybe you are one of them.|speech|VOICE|M
+them?"|speech|STU|M|True
+383|VOICE|Maybe you are one of them.|speech|VOICE|M|True
 384|STU|"Hey, I have worked in a boiler room
 myself peddling ""Term Life.""  I
 Would never be rude to a fellow
-salesperson."|speech|STU|M
+salesperson."|speech|STU|M|True
 385|VOICE|"Can you feel it on you now?  The
 heat of it.  I'm moving the strike
 zone down to your stomach area.
 Now I'm raising it up again.
 Directly above the chest cavity --
 sliding up to the forehead just
-above the left ear."|speech|VOICE|M
-386|STU|Shit -- I do feel it.|speech|STU|M
+above the left ear."|speech|VOICE|M|True
+386|STU|Shit -- I do feel it.|speech|STU|M|True
 387|VOICE|"Tell me where I'm going with it
-now."|speech|VOICE|M
+now."|speech|VOICE|M|True
 388|STU|"Across my forehead -- now back
-where it was before."|speech|STU|M
+where it was before."|speech|STU|M|True
 389|VOICE|"I'm amazed how you can do that.
-You're amazingly accurate."|speech|VOICE|M
-390||(beat)|location||
+You're amazingly accurate."|speech|VOICE|M|True
+390||(beat)|location|||
 391|VOICE|"Now I know what you're thinking.
 If I drop down on the floor of the
-booth and flatten myself out..."|speech|VOICE|M
-392|STU|No, I'm not thinking that.|speech|STU|M
+booth and flatten myself out..."|speech|VOICE|M|True
+392|STU|No, I'm not thinking that.|speech|STU|M|True
 393|VOICE|"Oh yes you are.  Can I crawl out
 using the booth as a shield?  Can I
 crawl to that Chrysler illegally
@@ -931,136 +931,136 @@ parked only three or four feet
 away?  The shattering glass may cut
 me, but it'll only be superficial.
 Otherwise, this lunatic will never
-let me out alive."|speech|VOICE|M
+let me out alive."|speech|VOICE|M|True
 394|STU|"No.  You will.  I know you will.
-If I just cooperate."|speech|STU|M
+If I just cooperate."|speech|STU|M|True
 395|VOICE|"Where is it now?  Think and feel
-for the warm spot."|speech|VOICE|M
-396|STU|Below the shoulder?|speech|STU|M
-397|VOICE|Which one?|speech|VOICE|M
-398|STU|The right shoulder.|speech|STU|M
+for the warm spot."|speech|VOICE|M|True
+396|STU|Below the shoulder?|speech|STU|M|True
+397|VOICE|Which one?|speech|VOICE|M|True
+398|STU|The right shoulder.|speech|STU|M|True
 399|VOICE|"Remarkable how we're in tune.
 You're doing far better than the
-others."|speech|VOICE|M
-400|STU|What others?  What do you mean?|speech|STU|M
-401||(no reply)|location||
-402|STU|You said 'others!'|speech|STU|M
-403||(finally)|location||
+others."|speech|VOICE|M|True
+400|STU|What others?  What do you mean?|speech|STU|M|True
+401||(no reply)|location|||
+402|STU|You said 'others!'|speech|STU|M|True
+403||(finally)|location|||
 404|VOICE|"I'm sure you read about the Italian
 tourist shot dead ten days ago at
 the corner of Forty-fifth and
-Eighth?"|speech|VOICE|M
-405|STU|I saw it on the news.|speech|STU|M
-406|VOICE|And where are we now?|speech|VOICE|M
-407|STU|Oh, God.  Forty-fifth and Eighth.|speech|STU|M
+Eighth?"|speech|VOICE|M|True
+405|STU|I saw it on the news.|speech|STU|M|True
+406|VOICE|And where are we now?|speech|VOICE|M|True
+407|STU|Oh, God.  Forty-fifth and Eighth.|speech|STU|M|True
 408|VOICE|"What else do you remember about
-that killing?"|speech|VOICE|M
-409|STU|I don't know.|speech|STU|M
-410|VOICE|Try.|speech|VOICE|M
+that killing?"|speech|VOICE|M|True
+409|STU|I don't know.|speech|STU|M|True
+410|VOICE|Try.|speech|VOICE|M|True
 411|STU|"He was gunned down.  And nobody was
 caught.  And they didn't even
 bother to take his wallet or his
-watch... or anything."|speech|STU|M
+watch... or anything."|speech|STU|M|True
 412|VOICE|"Now you know why.  It wasn't a
-robbery."|speech|VOICE|M
-413|STU|What did he do?|speech|STU|M
+robbery."|speech|VOICE|M|True
+413|STU|What did he do?|speech|STU|M|True
 414|VOICE|"He hung up -- so I disconnected him
-permanently."|speech|VOICE|M
+permanently."|speech|VOICE|M|True
 415|STU|"Please -- don't do it to me.  You
-got no reason to do it to me."|speech|STU|M
-416|VOICE|Don't give me reason.|speech|VOICE|M
+got no reason to do it to me."|speech|STU|M|True
+416|VOICE|Don't give me reason.|speech|VOICE|M|True
 417|STU|"I'm not looking to.  Tell me what
-you want!"|speech|STU|M
-418|VOICE|Tell me about your job.|speech|VOICE|M
+you want!"|speech|STU|M|True
+418|VOICE|Tell me about your job.|speech|VOICE|M|True
 419|STU|"What's to tell?  I'm in Public
 Relations.  They used to call us
 ""flacks.""  Now we're media
-consultants."|speech|STU|M
-420|VOICE|What do you do, exactly?|speech|VOICE|M
+consultants."|speech|STU|M|True
+420|VOICE|What do you do, exactly?|speech|VOICE|M|True
 421|STU|"Plant items in the paper and on the
 tube.  More important sometimes,
-keep stuff out."|speech|STU|M
-422|VOICE|What've you kept out?|speech|VOICE|M
+keep stuff out."|speech|STU|M|True
+422|VOICE|What've you kept out?|speech|VOICE|M|True
 423|STU|"One of my people got nailed for
 indecent exposure.  I managed for
 the cops to use his real name
 instead of his stage name so nobody
-picked up on it."|speech|STU|M
+picked up on it."|speech|STU|M|True
 424|VOICE|"You saved the little deviate's ass,
-didn't you?"|speech|VOICE|M
+didn't you?"|speech|VOICE|M|True
 425|STU|"He's in major therapy now.  I swear
-he is."|speech|STU|M
+he is."|speech|STU|M|True
 426|VOICE|"You must hang with some major
 celebrities.  Journalists,
-newscasters -- those types."|speech|VOICE|M
+newscasters -- those types."|speech|VOICE|M|True
 427|STU|"I'm real close with Larry King.
-And the ""Hard Copy"" people."|speech|STU|M
+And the ""Hard Copy"" people."|speech|STU|M|True
 428|VOICE|"Could you get him down here?  Larry
-King?"|speech|VOICE|M
-429|STU|Why would he want to come here?|speech|STU|M
-430|VOICE|Because you asked him to.|speech|VOICE|M
-431|STU|He comes from Atlanta.|speech|STU|M
-432|VOICE|Well, who could you get?|speech|VOICE|M
-433|STU|I don't know.|speech|STU|M
-434|VOICE|Wolf Blitzer?|speech|VOICE|M
-435|VOICE|Probably not.|speech|VOICE|M
-436|VOICE|Regis?|speech|VOICE|M
-437|STU|Definitely no chance.|speech|STU|M
+King?"|speech|VOICE|M|True
+429|STU|Why would he want to come here?|speech|STU|M|True
+430|VOICE|Because you asked him to.|speech|VOICE|M|True
+431|STU|He comes from Atlanta.|speech|STU|M|True
+432|VOICE|Well, who could you get?|speech|VOICE|M|True
+433|STU|I don't know.|speech|STU|M|True
+434|VOICE|Wolf Blitzer?|speech|VOICE|M|True
+435|VOICE|Probably not.|speech|VOICE|M|True
+436|VOICE|Regis?|speech|VOICE|M|True
+437|STU|Definitely no chance.|speech|STU|M|True
 438|VOICE|"You'd be offering them an exclusive
 newsbreak.  I'm talking about more
-than one homicide."|speech|VOICE|M
-439|STU|How many?|speech|STU|M
+than one homicide."|speech|VOICE|M|True
+439|STU|How many?|speech|STU|M|True
 440|VOICE|"I don't answer questions.  I ask
-them."|speech|VOICE|M
+them."|speech|VOICE|M|True
 441|STU|"I gotta have the facts.  They might
 not believe me.  My record isn't
 too good when it comes to hard
-news."|speech|STU|M
+news."|speech|STU|M|True
 442|VOICE|"You're not considered a reliable
-source?"|speech|VOICE|M
+source?"|speech|VOICE|M|True
 443|STU|"On a divorce or separation, maybe.
 Or who's gay, or who isn't gay any
 more.  I kind of specialize in that
 kind of material.  I mean I could
-probably get you Joe Franklin."|speech|STU|M
-444|VOICE|How about Cindy Adams?|speech|VOICE|M
+probably get you Joe Franklin."|speech|STU|M|True
+444|VOICE|How about Cindy Adams?|speech|VOICE|M|True
 445|STU|"I might have a shot.  Are you
-familiar with Liz Smith?"|speech|STU|M
-446|VOICE|Do you know her number?|speech|VOICE|M
+familiar with Liz Smith?"|speech|STU|M|True
+446|VOICE|Do you know her number?|speech|VOICE|M|True
 447|STU|"Want I should call her?  How much
-can I say?"|speech|STU|M
+can I say?"|speech|STU|M|True
 448|VOICE|"Tell her you're in direct touch
 with a killer who's willing to
 speak honestly if she shows up here
 alone and without notifying the
-authorities."|speech|VOICE|M
+authorities."|speech|VOICE|M|True
 449|STU|"She usually likes to have a
 celebrity involved.  If you had an
 actor or a sports figure held
 prisoner instead of me, there'd be
-better odds she's come."|speech|STU|M
+better odds she's come."|speech|STU|M|True
 450|VOICE|"Then lie.  Pick a celebrity and put
-them in the booth."|speech|VOICE|M
+them in the booth."|speech|VOICE|M|True
 451|STU|"Let's see.  Who does she like?  Who
-couldn't be reached to deny it?"|speech|STU|M
+couldn't be reached to deny it?"|speech|STU|M|True
 452|VOICE|"I'm anxious to see you in action.
-Don't keep me waiting."|speech|VOICE|M
-453||Stu uses his cellular again.|stage direction||
-454||(dialing)|location||
-455|STU|Sometimes you only get her service.|speech|STU|M
-456||(into cellular)|location||
+Don't keep me waiting."|speech|VOICE|M|True
+453||Stu uses his cellular again.|stage direction|||
+454||(dialing)|location|||
+455|STU|Sometimes you only get her service.|speech|STU|M|True
+456||(into cellular)|location|||
 457|STU|"Hi -- Stu Shepard.  Put me through.
 I've got hard news for her.  I can
 only talk to her directly.  But say
-it regards -- Liza."|speech|STU|M
-458|VOICE|Liza?  That was imaginative.|speech|VOICE|M
-459||(into cellular)|location||
+it regards -- Liza."|speech|STU|M|True
+458|VOICE|Liza?  That was imaginative.|speech|VOICE|M|True
+459||(into cellular)|location|||
 460|STU|"No, I can't call back.  I'll have
 to lay in on somebody else.
-Alright, but I can't hang on long."|speech|STU|M
-461||(to pay phone)|location||
-462|STU|She's coming on.|speech|STU|M
-463||(to cellular)|location||
+Alright, but I can't hang on long."|speech|STU|M|True
+461||(to pay phone)|location|||
+462|STU|She's coming on.|speech|STU|M|True
+463||(to cellular)|location|||
 464|STU|"Liz, hello.  Sure I'll make it
 brief.  Killing two weeks ago in
 the theatre district?  Turn out a
@@ -1075,303 +1075,303 @@ right in the sniper's sights.  But
 he says he'll talk to you and let
 her walk.  I know it'll take balls
 to do this, but you're a fine and
-courageous newspaper woman..."|speech|STU|M
-465||There's a click.  Silence.|stage direction||
-466|STU|Hello?  Hello?|speech|STU|M
-467||(to pay phone)|location||
+courageous newspaper woman..."|speech|STU|M|True
+465||There's a click.  Silence.|stage direction|||
+466|STU|Hello?  Hello?|speech|STU|M|True
+467||(to pay phone)|location|||
 468|STU|"Either she's on her way over or she
-doesn't believe me."|speech|STU|M
+doesn't believe me."|speech|STU|M|True
 469|VOICE|"You weren't particularly
-convincing."|speech|VOICE|M
+convincing."|speech|VOICE|M|True
 470|STU|"I didn't really believe in what I
-was saying."|speech|STU|M
+was saying."|speech|STU|M|True
 471|VOICE|"Because you don't really believe my
-Remington is pointed at you?"|speech|VOICE|M
-472|STU|I do.|speech|STU|M
-473|VOICE|You're ninety percent sure.|speech|VOICE|M
-474|STU|At least ninety-five percent, easy.|speech|STU|M
-475|VOICE|Let me erase all doubt.|speech|VOICE|M
-476|STU|No.  Don't shoot.|speech|STU|M
+Remington is pointed at you?"|speech|VOICE|M|True
+472|STU|I do.|speech|STU|M|True
+473|VOICE|You're ninety percent sure.|speech|VOICE|M|True
+474|STU|At least ninety-five percent, easy.|speech|STU|M|True
+475|VOICE|Let me erase all doubt.|speech|VOICE|M|True
+476|STU|No.  Don't shoot.|speech|STU|M|True
 477|VOICE|"Control yourself, Stu.  Glance down
-at your chest.  What do you see."|speech|VOICE|M
+at your chest.  What do you see."|speech|VOICE|M|True
 478|STU|"Oh, my God.  A dot.  A fucking red
-dot."|speech|STU|M
-479||A tiny red dot now moves across Stu's chest.|stage direction||
-480|VOICE|Like you've seen in the movies?|speech|VOICE|M
+dot."|speech|STU|M|True
+479||A tiny red dot now moves across Stu's chest.|stage direction|||
+480|VOICE|Like you've seen in the movies?|speech|VOICE|M|True
 481|STU|"The laser dot.  Just before some
 poor bastard always gets blown
-away."|speech|STU|M
+away."|speech|STU|M|True
 482|VOICE|"Usually a supporting player.  That
 lovely but by now generic special
 effect of the bullet piercing the
-forehead."|speech|VOICE|M
+forehead."|speech|VOICE|M|True
 483||"The tiny red laser dot dances around Stu's chest and stomach
--- the jumps up and remains between his eyes."|stage direction||
+-- the jumps up and remains between his eyes."|stage direction|||
 484|VOICE|"This takes all the guesswork out of
 it.  You know exactly where to
 expect it before I even tighten my
-finger on the trigger."|speech|VOICE|M
+finger on the trigger."|speech|VOICE|M|True
 485|STU|"Don't tighten.  Don't even tickle
-that fucking finger."|speech|STU|M
+that fucking finger."|speech|STU|M|True
 486|VOICE|"How about Geraldo?  He's run his
-ass off to get in on this."|speech|VOICE|M
+ass off to get in on this."|speech|VOICE|M|True
 487|STU|"You're talking about the old
 Geraldo.  Look, I can try and reach
-cable NBC.  They're hungry."|speech|STU|M
+cable NBC.  They're hungry."|speech|STU|M|True
 488|VOICE|"I'm disappointed.  I wanted to go
-first class."|speech|VOICE|M
+first class."|speech|VOICE|M|True
 489|STU|"They do a great job.  They'll haul
 a whole crew over to cover your
-surrender ""live."""|speech|STU|M
+surrender ""live."""|speech|STU|M|True
 490|VOICE|"I never expressed interest in
 giving myself up.  There are so
 many other phone booths in the
-city.  I'm just getting warmed up."|speech|VOICE|M
+city.  I'm just getting warmed up."|speech|VOICE|M|True
 491|STU|"That's entirely up to you.  Your
 choice.  I'm just trying to set you
-up with the proper communicator."|speech|STU|M
-492||(beat)|location||
+up with the proper communicator."|speech|STU|M|True
+492||(beat)|location|||
 493|STU|"I suppose Liza wasn't strong
-enough.  I should've said Madonna."|speech|STU|M
-494|VOICE|Now you're being creative.|speech|VOICE|M
+enough.  I should've said Madonna."|speech|STU|M|True
+494|VOICE|Now you're being creative.|speech|VOICE|M|True
 495||"Outside the booth, the angry black woman has returned,
 bringing with her a gaudily dressed pimp named LEON who looks
 like he means business.  He slams his fist against the glass,
-nearly shattering it."|stage direction||
+nearly shattering it."|stage direction|||
 496|LEON|"Drag your baggy butt out of that
 booth.  We got business to conduct
-out of there."|speech|LEON|M
-497|FELICIA|He been in there all day.|speech|FELICIA|F
-498|STU|I'm not through.|speech|STU|M
+out of there."|speech|LEON|M|True
+497|FELICIA|He been in there all day.|speech|FELICIA|F|True
+498|STU|I'm not through.|speech|STU|M|True
 499|LEON|"Hang up that receiver or I'll make
-you eat the fucking thing!"|speech|LEON|M
-500|STU|Fuck off or I'll call a cop.|speech|STU|M
+you eat the fucking thing!"|speech|LEON|M|True
+500|STU|Fuck off or I'll call a cop.|speech|STU|M|True
 501|LEON|"Do you see one around here?  What
 you think I'm gonna be doing while
 you're waiting for a prowl car to
 get assigned?  I'm about to cut you
 a second asshole if you don't
-vacate those premises."|speech|LEON|M
-502|STU|I can't.|speech|STU|M
+vacate those premises."|speech|LEON|M|True
+502|STU|I can't.|speech|STU|M|True
 503|FELICIA|"He's got him a fucking cellular.
 What's he need to be on our booth
-for?"|speech|FELICIA|F
-504|STU|I can't explain it.|speech|STU|M
+for?"|speech|FELICIA|F|True
+504|STU|I can't explain it.|speech|STU|M|True
 505|LEON|"I'm not interested in your
-explanations even if you had any."|speech|LEON|M
+explanations even if you had any."|speech|LEON|M|True
 506||"He withdraws a switchblade knife from his pocket but doesn't
-open it -- yet."|stage direction||
-507|LEON|If I flick this, I use it.|speech|LEON|M
+open it -- yet."|stage direction|||
+507|LEON|If I flick this, I use it.|speech|LEON|M|True
 508|STU|"I'll make it worth your while to go
-away.  How much do you want?"|speech|STU|M
-509|LEON|Make me an offer.|speech|LEON|M
+away.  How much do you want?"|speech|STU|M|True
+509|LEON|Make me an offer.|speech|LEON|M|True
 510|STU|"Thirty dollars.  It's all I've got
-in cash.  Take it and go."|speech|STU|M
+in cash.  Take it and go."|speech|STU|M|True
 511|LEON|"You're offering to rent my phone
-booth?  For how long?"|speech|LEON|M
+booth?  For how long?"|speech|LEON|M|True
 512|STU|"I don't know.  For as long as it
-takes."|speech|STU|M
-513|LEON|What's so special in there?|speech|LEON|M
-514|STU|Do you want the money?|speech|STU|M
+takes."|speech|STU|M|True
+513|LEON|What's so special in there?|speech|LEON|M|True
+514|STU|Do you want the money?|speech|STU|M|True
 515|LEON|"Is that a genuine Rolex you've got
-on?"|speech|LEON|M
+on?"|speech|LEON|M|True
 516|STU|"Come on, man.  That's my good
-watch."|speech|STU|M
-517|LEON|That's what it's gonna take.|speech|LEON|M
-518|STU|Then here.  Take the damn thing.|speech|STU|M
-519|LEON|And the thirty!|speech|LEON|M
-520|STU|Take it all.|speech|STU|M
+watch."|speech|STU|M|True
+517|LEON|That's what it's gonna take.|speech|LEON|M|True
+518|STU|Then here.  Take the damn thing.|speech|STU|M|True
+519|LEON|And the thirty!|speech|LEON|M|True
+520|STU|Take it all.|speech|STU|M|True
 521||"The pimp pockets the watch and the money.  But doesn't go
-away."|stage direction||
+away."|stage direction|||
 522|LEON|"Now I'm satisfied.  But you still
 got to deal with Felicia here.  I
-believe you spoke harshly to her."|speech|LEON|M
-523|STU|I apologize.|speech|STU|M
-524|LEON|And did her some injury.|speech|LEON|M
+believe you spoke harshly to her."|speech|LEON|M|True
+523|STU|I apologize.|speech|STU|M|True
+524|LEON|And did her some injury.|speech|LEON|M|True
 525|STU|"An accident.  I'm sorry about that,
-too."|speech|STU|M
+too."|speech|STU|M|True
 526|FELICIA|"The man don't sound like he means
-it."|speech|FELICIA|F
-527|LEON|I agree.|speech|LEON|M
-528||(to Stu)|location||
+it."|speech|FELICIA|F|True
+527|LEON|I agree.|speech|LEON|M|True
+528||(to Stu)|location|||
 529|LEON|"Why don't you hang up a minute so
 we can discuss this matter at
-length."|speech|LEON|M
+length."|speech|LEON|M|True
 530|STU|"It's long distance.  I can't lose
 the call -- I might not get them
-back."|speech|STU|M
+back."|speech|STU|M|True
 531|LEON|"Do I have to rip that fucking phone
-out of there?"|speech|LEON|M
-532|STU|That wouldn't be a good idea.|speech|STU|M
-533||(into pay phone)|location||
-534|STU|Would it?|speech|STU|M
-535|VOICE|Not at all.|speech|VOICE|M
-536|STU|I gave you everything I've got.|speech|STU|M
+out of there?"|speech|LEON|M|True
+532|STU|That wouldn't be a good idea.|speech|STU|M|True
+533||(into pay phone)|location|||
+534|STU|Would it?|speech|STU|M|True
+535|VOICE|Not at all.|speech|VOICE|M|True
+536|STU|I gave you everything I've got.|speech|STU|M|True
 537|LEON|"That pinky ring looks attractive.
-Felicia might like that."|speech|LEON|M
-538|FELICIA|It might fit.|speech|FELICIA|F
+Felicia might like that."|speech|LEON|M|True
+538|FELICIA|It might fit.|speech|FELICIA|F|True
 539|STU|"You want the ring, you've got the
-ring.  If I can get it off."|speech|STU|M
-540|LEON|I can get it off you.|speech|LEON|M
-541||Leon reaches in and grabs Stu's ring hand.|stage direction||
+ring.  If I can get it off."|speech|STU|M|True
+540|LEON|I can get it off you.|speech|LEON|M|True
+541||Leon reaches in and grabs Stu's ring hand.|stage direction|||
 542|STU|"Let go of me!  It's coming loose.
-There."|speech|STU|M
-543||(he tosses it)|location||
+There."|speech|STU|M|True
+543||(he tosses it)|location|||
 544|STU|"Okay, Felicia, with my deepest
-apologies.  Goodbye now."|speech|STU|M
+apologies.  Goodbye now."|speech|STU|M|True
 545|LEON|"What's really going on in that
 booth -- that escapes the naked
-eye?"|speech|LEON|M
-546|STU|Nothing.  Talk.  That's all.|speech|STU|M
+eye?"|speech|LEON|M|True
+546|STU|Nothing.  Talk.  That's all.|speech|STU|M|True
 547|LEON|"That your connection on the end of
-the line?  Or are you dealing?"|speech|LEON|M
-548|STU|This has nothing to do with drugs.|speech|STU|M
+the line?  Or are you dealing?"|speech|LEON|M|True
+548|STU|This has nothing to do with drugs.|speech|STU|M|True
 549|LEON|"You gotta be high on something to
 willingly divest yourself of your
 valuables -- just to maintain
 occupancy of a fucking phone booth
 that the local bums piss in every
-night."|speech|LEON|M
-550|STU|I knew it smelled for some reason.|speech|STU|M
+night."|speech|LEON|M|True
+550|STU|I knew it smelled for some reason.|speech|STU|M|True
 551|LEON|"You look like you're ready to piss
-yourself."|speech|LEON|M
-552|STU|Because I am.|speech|STU|M
+yourself."|speech|LEON|M|True
+552|STU|Because I am.|speech|STU|M|True
 553|LEON|"Maybe if the city provided decent
 public toilets, folks wouldn't
 relieve themselves in the subway
-stations and phone booths!"|speech|LEON|M
-554|STU|I'll take it up with the mayor.|speech|STU|M
+stations and phone booths!"|speech|LEON|M|True
+554|STU|I'll take it up with the mayor.|speech|STU|M|True
 555|LEON|"Next thing you know you're gonna
 claim we mugged you -- took your
-billfold and watch."|speech|LEON|M
+billfold and watch."|speech|LEON|M|True
 556|STU|"No, you didn't.  It was a fair and
 equitable deal.  You had
 territorial rights to this booth
 and I paid a license fee.  Fair is
-fair.  Now leave me in peace."|speech|STU|M
-557|LEON|You sure you're alright?|speech|LEON|M
-558||(to Felicia)|location||
-559|LEON|He don't look well.|speech|LEON|M
+fair.  Now leave me in peace."|speech|STU|M|True
+557|LEON|You sure you're alright?|speech|LEON|M|True
+558||(to Felicia)|location|||
+559|LEON|He don't look well.|speech|LEON|M|True
 560|FELICIA|"Kind of pale.  Even for a white
-man."|speech|FELICIA|F
+man."|speech|FELICIA|F|True
 561|LEON|"Jaundice they calls it.  Probably
-advanced liver trouble."|speech|LEON|M
-562||(to Stu)|location||
+advanced liver trouble."|speech|LEON|M|True
+562||(to Stu)|location|||
 563|LEON|"If it's cirrhosis, you better find
 yourself a twelve step program and
-quick."|speech|LEON|M
+quick."|speech|LEON|M|True
 564|STU|"Thanks for your interest but I'm in
-perfect health."|speech|STU|M
-565|FELICIA|So how come his hand is shaking?|speech|FELICIA|F
-566|LEON|The man is cracking up.|speech|LEON|M
+perfect health."|speech|STU|M|True
+565|FELICIA|So how come his hand is shaking?|speech|FELICIA|F|True
+566|LEON|The man is cracking up.|speech|LEON|M|True
 567|FELICIA|"Lookit the sweat pouring off the
 sonofabitch.  That's one sick
-mother you started up with, Leon!"|speech|FELICIA|F
+mother you started up with, Leon!"|speech|FELICIA|F|True
 568|LEON|"Me?  You're the one that brought me
 over and exposed me to all his
-germs."|speech|LEON|M
+germs."|speech|LEON|M|True
 569|STU|"I'm terminal, okay?  Now can I
 close the booth and continue my
-conversation?"|speech|STU|M
+conversation?"|speech|STU|M|True
 570|LEON|"I'm worried now it might be
 catching.  All that money out of
 your sweaty pocket is probably
 crawling with some rare and
-incurable disease."|speech|LEON|M
-571|STU|Fine.  Give it back.|speech|STU|M
+incurable disease."|speech|LEON|M|True
+571|STU|Fine.  Give it back.|speech|STU|M|True
 572|LEON|"What good's that?  We done touched
-it."|speech|LEON|M
-573|STU|Well go wash your hands.|speech|STU|M
+it."|speech|LEON|M|True
+573|STU|Well go wash your hands.|speech|STU|M|True
 574|LEON|"Come on now.  Own up to what you're
 carrying.  Is it some of that
 sexually transmitted shit?  Cause
-in that case, we can relax."|speech|LEON|M
+in that case, we can relax."|speech|LEON|M|True
 575|STU|"I'm sick of you.  Now get out of my
-face."|speech|STU|M
+face."|speech|STU|M|True
 576|LEON|"Here we's being solicitous as to
 your health and you respond by
-heaping abuse!"|speech|LEON|M
-577|FELICIA|Whip his arrogant ass.|speech|FELICIA|F
-578||Leon reaches into the booth and grabs Stu's jacket.|stage direction||
-579|STU|Touch me and I'll throw up on you.|speech|STU|M
+heaping abuse!"|speech|LEON|M|True
+577|FELICIA|Whip his arrogant ass.|speech|FELICIA|F|True
+578||Leon reaches into the booth and grabs Stu's jacket.|stage direction|||
+579|STU|Touch me and I'll throw up on you.|speech|STU|M|True
 580||"At the suggestion, Leon lets go quickly.
 It looks like a stalemate.  Stu isn't vacating the booth and
 Leon and his lady are reluctant to touch him further.  He
-does indeed look sick."|stage direction||
-581||(into pay phone)|location||
+does indeed look sick."|stage direction|||
+581||(into pay phone)|location|||
 582|STU|"You can see what I'm up against
-here."|speech|STU|M
-583|VOICE|Want me to get rid of him for you?|speech|VOICE|M
-584|STU|What do you have in mind?|speech|STU|M
-585|VOICE|I'll think of something.|speech|VOICE|M
+here."|speech|STU|M|True
+583|VOICE|Want me to get rid of him for you?|speech|VOICE|M|True
+584|STU|What do you have in mind?|speech|STU|M|True
+585|VOICE|I'll think of something.|speech|VOICE|M|True
 586||"Suddenly the red dot reappears on the forehead of the pimp.
 Leon doesn't realize it's there.  The hooker behind him has
 no way of seeing it.  But to Stu, there's no way to miss it.
-He reacts."|stage direction||
-587|STU|God -- no.|speech|STU|M
-588||(into pay phone)|location||
-589|STU|Don't.  It's not necessary.|speech|STU|M
-590|VOICE|You asked for my help.|speech|VOICE|M
-591|STU|I'll handle it myself.|speech|STU|M
+He reacts."|stage direction|||
+587|STU|God -- no.|speech|STU|M|True
+588||(into pay phone)|location|||
+589|STU|Don't.  It's not necessary.|speech|STU|M|True
+590|VOICE|You asked for my help.|speech|VOICE|M|True
+591|STU|I'll handle it myself.|speech|STU|M|True
 592|VOICE|"You're not doing too well.  I can
 settle it in a fraction of a
-second.  Shall I demonstrate?"|speech|VOICE|M
-593|STU|No.|speech|STU|M
-594||(to Leon)|location||
+second.  Shall I demonstrate?"|speech|VOICE|M|True
+593|STU|No.|speech|STU|M|True
+594||(to Leon)|location|||
 595|STU|"For your own safety, mister, just
-walk away."|speech|STU|M
+walk away."|speech|STU|M|True
 596|LEON|"Now the man is turning
 aggressive... issuing threats upon
-my person."|speech|LEON|M
-597|STU|You're making this happen.|speech|STU|M
+my person."|speech|LEON|M|True
+597|STU|You're making this happen.|speech|STU|M|True
 598|LEON|"If you don't hang up and step out,
 I'm about to topple this booth into
-the gutter with you inside it."|speech|LEON|M
+the gutter with you inside it."|speech|LEON|M|True
 599||"Reluctant to touch Stu again, Leon assaults the booth itself.
 He begins shaking it violently -- trying to rip it from its
 foundation.  And the rickety booth is not too sturdy.  It
 starts rocking back and forth.
-Stu is thrown around inside it, barely keeping his footing."|stage direction||
-600||(into pay phone)|location||
-601|STU|This isn't my fault.|speech|STU|M
-602||(shouts)|location||
-603|STU|Stop that!|speech|STU|M
+Stu is thrown around inside it, barely keeping his footing."|stage direction|||
+600||(into pay phone)|location|||
+601|STU|This isn't my fault.|speech|STU|M|True
+602||(shouts)|location|||
+603|STU|Stop that!|speech|STU|M|True
 604||"But Leon continues rocking the booth.  It won't come loose --
 so in frustration, he punches in a side pane of glass.
 The glass shatters all around Stu, who does his best to
-shield himself from the slivers."|stage direction||
-605||(into pay phone)|location||
-606|STU|The guy's insane!|speech|STU|M
+shield himself from the slivers."|stage direction|||
+605||(into pay phone)|location|||
+606|STU|The guy's insane!|speech|STU|M|True
 607|VOICE|"Only one way to stop a mad dog.
-Give me permission."|speech|VOICE|M
-608|STU|I can't.|speech|STU|M
+Give me permission."|speech|VOICE|M|True
+608|STU|I can't.|speech|STU|M|True
 609|VOICE|"If he forces you out of that booth,
 I've told you what to expect.  You
-or him, Stu."|speech|VOICE|M
+or him, Stu."|speech|VOICE|M|True
 610||"Leon is smashing other panes of glass now -- one after
-another -- as Stu cowers inside."|stage direction||
-611|FELICIA|Don't cut yourself, honey.|speech|FELICIA|F
+another -- as Stu cowers inside."|stage direction|||
+611|FELICIA|Don't cut yourself, honey.|speech|FELICIA|F|True
 612||"A crowd of derelicts and street people are now gathering to
 watch the out of control pimp take out his wrath on the booth
-and its occupant."|stage direction||
+and its occupant."|stage direction|||
 613|DERELICT|"Looks like the fucker is comin'
-loose."|speech|DERELICT|?
+loose."|speech|DERELICT|?|
 614|STREET PERSON|"Shove it out into the oncoming
-traffic."|speech|STREET PERSON|M
+traffic."|speech|STREET PERSON|M|
 615|DERELICT|"What'll you bet the bus could knock
-that fifty feet?"|speech|DERELICT|?
-616||The booth is being decimated but Stu hangs onto the phone.|stage direction||
-617||(into pay phone)|location||
-618|STU|Hello?  Hello?|speech|STU|M
-619||(with heavy static)|location||
+that fifty feet?"|speech|DERELICT|?|
+616||The booth is being decimated but Stu hangs onto the phone.|stage direction|||
+617||(into pay phone)|location|||
+618|STU|Hello?  Hello?|speech|STU|M|True
+619||(with heavy static)|location|||
 620|VOICE|"You're breaking up.  We're about to
-be cut off."|speech|VOICE|M
-621|STU|I can't help it!|speech|STU|M
-622|VOICE|That counts as a hang-up.|speech|VOICE|M
-623|STU|No.  It can't.  That's not fair.|speech|STU|M
+be cut off."|speech|VOICE|M|True
+621|STU|I can't help it!|speech|STU|M|True
+622|VOICE|That counts as a hang-up.|speech|VOICE|M|True
+623|STU|No.  It can't.  That's not fair.|speech|STU|M|True
 624|VOICE|"I can still make him stop.  Say the
-word.  Can you hear me?"|speech|VOICE|M
-625|STU|Yes.|speech|STU|M
+word.  Can you hear me?"|speech|VOICE|M|True
+625|STU|Yes.|speech|STU|M|True
 626||"Stu sees the red dot reappear on Leon's chest as he continues
 to barrage the booth with punches and kicks.
 Then Leon recoils, staggers a step backward.  He doesn't
@@ -1387,130 +1387,130 @@ wound on the pimp's chest -- staining his yellow vest.
 He isn't assaulting the booth anymore.  He's trying to keep
 his balance.  He slumps forward, hanging onto the booth for
 support -- only a few inches from Stu's face.  The blood runs
-down the side of the booth."|stage direction||
-627||(into pay phone)|location||
-628|STU|You did it!|speech|STU|M
-629|VOICE|You said 'yes.'|speech|VOICE|M
+down the side of the booth."|stage direction|||
+627||(into pay phone)|location|||
+628|STU|You did it!|speech|STU|M|True
+629|VOICE|You said 'yes.'|speech|VOICE|M|True
 630|STU|"I said 'Yes, I can hear you.'  Not
-'Yes -- kill the motherfucker!'"|speech|STU|M
+'Yes -- kill the motherfucker!'"|speech|STU|M|True
 631|VOICE|"Don't try to renege on it.  I was
-following orders."|speech|VOICE|M
+following orders."|speech|VOICE|M|True
 632|STU|"You're twisting it all around.  I
-didn't do this!"|speech|STU|M
+didn't do this!"|speech|STU|M|True
 633||"Meanwhile, Leon leans upright against the booth.  Then his
 legs cave in and he begins to slide to his knees.
-Felicia runs up beside him.  She sees the blood."|stage direction||
-634|FELICIA|I warned you not to cut yourself.|speech|FELICIA|F
-635||(to crowd)|location||
+Felicia runs up beside him.  She sees the blood."|stage direction|||
+634|FELICIA|I warned you not to cut yourself.|speech|FELICIA|F|True
+635||(to crowd)|location|||
 636|FELICIA|"Look at all that blood.  He must've
-hit an artery."|speech|FELICIA|F
+hit an artery."|speech|FELICIA|F|True
 637||"She screams as Leon topples backwards onto the pavement.  Now
-his chest wound is evident."|stage direction||
+his chest wound is evident."|stage direction|||
 638|FELICIA|"Oh, Jesus.  What is that?  Talk to
-me!  What happened?"|speech|FELICIA|F
+me!  What happened?"|speech|FELICIA|F|True
 639||"The crowd tightens around the fallen body.  Street people who
-are fascinated but not shocked."|stage direction||
-640|DERELICT|Gunshot!|speech|DERELICT|?
+are fascinated but not shocked."|stage direction|||
+640|DERELICT|Gunshot!|speech|DERELICT|?|
 641|STREET PERSON|"Yeah.  Sucking chest wound right
-over the heart."|speech|STREET PERSON|M
-642|FELICIA|Somebody call an ambulance.|speech|FELICIA|F
+over the heart."|speech|STREET PERSON|M|
+642|FELICIA|Somebody call an ambulance.|speech|FELICIA|F|True
 643|STREET PERSON|"Call the meatwagon.  He's fucked
-up."|speech|STREET PERSON|M
-644|FELICIA|You shut the fuck up!|speech|FELICIA|F
-645||Her focus turns to Stu in the battered phone booth.|stage direction||
-646|FELICIA|Why did you do that to him?|speech|FELICIA|F
-647|STU|I didn't.|speech|STU|M
-648||(to crowd)|location||
+up."|speech|STREET PERSON|M|
+644|FELICIA|You shut the fuck up!|speech|FELICIA|F|True
+645||Her focus turns to Stu in the battered phone booth.|stage direction|||
+646|FELICIA|Why did you do that to him?|speech|FELICIA|F|True
+647|STU|I didn't.|speech|STU|M|True
+648||(to crowd)|location|||
 649|FELICIA|"You all saw it!  He shot my man
-without no provocation!"|speech|FELICIA|F
+without no provocation!"|speech|FELICIA|F|True
 650|DERELICT|"Yeah.  Pumped one right into him at
-close range."|speech|DERELICT|?
+close range."|speech|DERELICT|?|
 651|STU|"How could I?  I don't even have a
-gun.  Look!"|speech|STU|M
+gun.  Look!"|speech|STU|M|True
 652|STREET PERSON|"Everybody get the fuck back!  They
 shoot one -- then they shoot
 everybody in sight!  Kill all the
-fucking witnesses!"|speech|STREET PERSON|M
+fucking witnesses!"|speech|STREET PERSON|M|
 653||"The crowd disperses to doorways and around the corner -- out
-of immediate range."|stage direction||
+of immediate range."|stage direction|||
 654|STU|"Come back.  You've got to see --
-I'm not armed."|speech|STU|M
+I'm not armed."|speech|STU|M|True
 655||"Only Felicia remains, leaning over the pimp's body, staring
-helplessly."|stage direction||
+helplessly."|stage direction|||
 656|FELICIA|"Hang up and dial 911.  Get a
-doctor!"|speech|FELICIA|F
+doctor!"|speech|FELICIA|F|True
 657|STU|"I can't hang up.  That's what this
-is all about."|speech|STU|M
+is all about."|speech|STU|M|True
 658|FELICIA|"You're gonna stand there and let
-him die?"|speech|FELICIA|F
-659||(takes out cellular)|location||
-660|STU|I can use this.|speech|STU|M
-661||(he dials)|location||
+him die?"|speech|FELICIA|F|True
+659||(takes out cellular)|location|||
+660|STU|I can use this.|speech|STU|M|True
+661||(he dials)|location|||
 662|STU|"Emergency.  Yes.  There's been a
 shooting at Forty-fifth and Eighth
 -- on the corner.  A man is down.
 What's the difference who I am?  I
-don't want to be involved."|speech|STU|M
-663||(shouts)|location||
+don't want to be involved."|speech|STU|M|True
+663||(shouts)|location|||
 664|FELICIA|"That's bullshit.  He's the shooter.
-You're talking to the shooter."|speech|FELICIA|F
-665||Stu quickly disconnects the cellular.|stage direction||
-666|STU|That wasn't nice.|speech|STU|M
+You're talking to the shooter."|speech|FELICIA|F|True
+665||Stu quickly disconnects the cellular.|stage direction|||
+666|STU|That wasn't nice.|speech|STU|M|True
 667|FELICIA|"Go ahead -- make a fucking run for
 it.  I hope they gun you down --
-like you did him!"|speech|FELICIA|F
+like you did him!"|speech|FELICIA|F|True
 668|STU|"I'm not going anyplace.  I'm
-staying right here in this booth."|speech|STU|M
-669||(into pay phone)|location||
-670|STU|Unless you give me permission.|speech|STU|M
+staying right here in this booth."|speech|STU|M|True
+669||(into pay phone)|location|||
+670|STU|Unless you give me permission.|speech|STU|M|True
 671|VOICE|"You're attracting a lot of
 attention.  I suppose when the
-police get there, you'll accuse me."|speech|VOICE|M
-672|STU|What do you expect me to say?|speech|STU|M
+police get there, you'll accuse me."|speech|VOICE|M|True
+672|STU|What do you expect me to say?|speech|STU|M|True
 673|VOICE|"That's up to you.  But any mention
-of me will not be appreciated."|speech|VOICE|M
-674|STU|You mean...?|speech|STU|M
+of me will not be appreciated."|speech|VOICE|M|True
+674|STU|You mean...?|speech|STU|M|True
 675|VOICE|"You won't even get to finish your
 sentence.  Oh look, that little red
 dot is dancing around all over you
 again.  You saw how quickly it can
-happen.  And how accurate I can be."|speech|VOICE|M
+happen.  And how accurate I can be."|speech|VOICE|M|True
 676|STU|"They can't blame me -- I'm not
-armed."|speech|STU|M
+armed."|speech|STU|M|True
 677|VOICE|"Who's going to believe that?  With
 all those witnesses to the
-contrary."|speech|VOICE|M
-678|STU|They can see with their own eyes.|speech|STU|M
+contrary."|speech|VOICE|M|True
+678|STU|They can see with their own eyes.|speech|STU|M|True
 679||"Not far away, we hear the BLAST of POLICE SIRENS drawing
-closer."|stage direction||
-680|VOICE|Remember to leave me out of it.|speech|VOICE|M
-681|STU|How can I?|speech|STU|M
+closer."|stage direction|||
+680|VOICE|Remember to leave me out of it.|speech|VOICE|M|True
+681|STU|How can I?|speech|STU|M|True
 682|VOICE|"You'll put the proper spin on it.
 Isn't that your specialty?  Feeding
 the public a story that may not
 have a shred of truth -- and making
-it totally believable?"|speech|VOICE|M
+it totally believable?"|speech|VOICE|M|True
 683|STU|"This isn't a story.  This is real.
-This is murder."|speech|STU|M
+This is murder."|speech|STU|M|True
 684|VOICE|"If you'd only dealt with the man
 reasonably, shown him some respect,
-this might not have been necessary."|speech|VOICE|M
-685|STU|I gave him my money, my watch...|speech|STU|M
+this might not have been necessary."|speech|VOICE|M|True
+685|STU|I gave him my money, my watch...|speech|STU|M|True
 686|VOICE|"But not your respect.  Which is
-what he required of you."|speech|VOICE|M
-687|STU|He was a fucking thief.|speech|STU|M
+what he required of you."|speech|VOICE|M|True
+687|STU|He was a fucking thief.|speech|STU|M|True
 688|VOICE|"And now he's a fucking dead thief.
-Do you feel better about that?"|speech|VOICE|M
+Do you feel better about that?"|speech|VOICE|M|True
 689|STU|"I don't feel a bit guilty.  This is
-all your doing!"|speech|STU|M
+all your doing!"|speech|STU|M|True
 690|VOICE|"Now you're being disrespectful of
 me.  You never learn.  Your job is
 to deal with people -- but you're
-not good at it."|speech|VOICE|M
+not good at it."|speech|VOICE|M|True
 691|STU|"Hey, I'm not taking any more
 criticism from some lunatic sniper
 who gets his kicks killing
-strangers."|speech|STU|M
+strangers."|speech|STU|M|True
 692|VOICE|"You keep insisting I'm a stranger.
 Probably because you don't
 recognize the voice.  But there are
@@ -1520,28 +1520,28 @@ not even be a man.  I might be one
 of those many women you've almost
 totally forgotten.  One who doesn't
 forgive easily.  One who wants to
-watch you squirm."|speech|VOICE|M
+watch you squirm."|speech|VOICE|M|True
 693|STU|"You're a man.  I know you're a man.
 Women don't kill with telescopic
-rifles.  They stab you."|speech|STU|M
+rifles.  They stab you."|speech|STU|M|True
 694|VOICE|"You sound so sure of that.  But
 you've never provoked any man as
 much as have the women in your
-life.  And so many of them, Stu."|speech|VOICE|M
-695||(a beat)|location||
-696|VOICE|Do you even remember their names?|speech|VOICE|M
+life.  And so many of them, Stu."|speech|VOICE|M|True
+695||(a beat)|location|||
+696|VOICE|Do you even remember their names?|speech|VOICE|M|True
 697|STU|"I've got no time to rehash my whole
 life.  Oh my God!  The cops are
-here."|speech|STU|M
+here."|speech|STU|M|True
 698||"Police cars are pulling up on all sides of Eighth Avenue.
 Traffic has suddenly been shut down.  Prowl cars have now
 blocked the streets.
 PRODUCTION NOTE: Everything is seen from Stu's perspective
 without intercuts.
-Half a dozen cops now emerge and approach with drawn guns."|stage direction||
-699||(pointing)|location||
+Half a dozen cops now emerge and approach with drawn guns."|stage direction|||
+699||(pointing)|location|||
 700|FELICIA|"That's him -- in the booth.  He's
-got a gun!"|speech|FELICIA|F
+got a gun!"|speech|FELICIA|F|True
 701||"As she hurls accusations, she's lugging Leon's lifeless body
 out into the gutter into the center of Eighth Avenue.
 It's a bright afternoon.  In the distance, we hear the
@@ -1550,252 +1550,252 @@ rerouted, creating a huge bottleneck and raising the anger of
 irate motorists and bus drivers whose horns provide their
 simplest form of protest.  It's a discordant concert that
 echoes the confusion and frustration which Stu now feels...
-As the cops surround the booth -- at a distance."|stage direction||
-702||(into bullhorn)|location||
+As the cops surround the booth -- at a distance."|stage direction|||
+702||(into bullhorn)|location|||
 703|SERGEANT|"Throw down your weapon and come out
-with your hands raised."|speech|SERGEANT|M
-704||(into phone)|location||
-705|STU|They're ordering me to come out.|speech|STU|M
-706|VOICE|I can see that.  Ignore them.|speech|VOICE|M
-707|STU|What if they open fire?|speech|STU|M
+with your hands raised."|speech|SERGEANT|M|True
+704||(into phone)|location|||
+705|STU|They're ordering me to come out.|speech|STU|M|True
+706|VOICE|I can see that.  Ignore them.|speech|VOICE|M|True
+707|STU|What if they open fire?|speech|STU|M|True
 708|VOICE|"They probably won't.  Look across
 on the east side of the street.  Do
 you see the tourist with the home
-video camera?"|speech|VOICE|M
+video camera?"|speech|VOICE|M|True
 709||"STU'S POV
 A distant crowd gathering on the opposite west side corner
 behind the police cars.  Some tourist is capturing the event
 on video.
-BACK TO STU"|stage direction||
-710|STU|What about him?|speech|STU|M
+BACK TO STU"|stage direction|||
+710|STU|What about him?|speech|STU|M|True
 711|VOICE|"He's going to keep the police on
 their best behavior.  So long as
 you don't take what could be
 interpreted as hostile action,
-you'll be safe."|speech|VOICE|M
+you'll be safe."|speech|VOICE|M|True
 712|STU|"You call this safe?  Six cops with
-guns pointed my way?"|speech|STU|M
+guns pointed my way?"|speech|STU|M|True
 713|VOICE|"You want me to reduce them to three
--- or two?"|speech|VOICE|M
+-- or two?"|speech|VOICE|M|True
 714|STU|"Absolutely no more shooting.  Now
-is that clear?"|speech|STU|M
-715|VOICE|You can always change your mind.|speech|VOICE|M
-716||(with bullhorn)|location||
+is that clear?"|speech|STU|M|True
+715|VOICE|You can always change your mind.|speech|VOICE|M|True
+716||(with bullhorn)|location|||
 717|SERGEANT|"You know the drill.  Hands clasped
 behind the back of your neck --
 moving slowly -- step out of the
 booth.  If we see any sign of a
-weapon, we will respond."|speech|SERGEANT|M
-718||(shouts)|location||
-719|STU|You won't, because there isn't any.|speech|STU|M
-720||(bullhorn)|location||
-721|SERGEANT|I repeat.  Raise your hands.|speech|SERGEANT|M
-722|STU|I can't.  I'm on a phone call.|speech|STU|M
+weapon, we will respond."|speech|SERGEANT|M|True
+718||(shouts)|location|||
+719|STU|You won't, because there isn't any.|speech|STU|M|True
+720||(bullhorn)|location|||
+721|SERGEANT|I repeat.  Raise your hands.|speech|SERGEANT|M|True
+722|STU|I can't.  I'm on a phone call.|speech|STU|M|True
 723||"Now a black POLICE CAPTAIN arrives and takes full command of
-the situation."|stage direction||
-724|CAPTAIN RAMEY|You have thirty seconds to comply.|speech|CAPTAIN RAMEY|M
+the situation."|stage direction|||
+724|CAPTAIN RAMEY|You have thirty seconds to comply.|speech|CAPTAIN RAMEY|M|
 725|STU|"I told you.  I'm busy.  Come back
-later."|speech|STU|M
-726|VOICE|Very good, Stu.|speech|VOICE|M
+later."|speech|STU|M|True
+726|VOICE|Very good, Stu.|speech|VOICE|M|True
 727||"The cops take cover behind parked cars, keeping Stu clearly
 in their sights.  He has no place to hide.  He's in the
-battered phone booth in plain view from all sides."|stage direction||
-728|RAMEY|You've been given an order.|speech|RAMEY|M
+battered phone booth in plain view from all sides."|stage direction|||
+728|RAMEY|You've been given an order.|speech|RAMEY|M|True
 729||"The Sergeant slides up beside the Captain to confer.
 PRODUCTION NOTE: We remain in LONG SHOT of the cops -- always
 from Stu's POV.  But we can hear their voices and all that is
 said as if they were in close up.  It has an odd, unreal and
-distancing effect."|stage direction||
+distancing effect."|stage direction|||
 730|SERGEANT|"We're dealing with a mental case.
-He's looking for us to kill him."|speech|SERGEANT|M
-731|RAMEY|Well he's not getting his wish.|speech|RAMEY|M
+He's looking for us to kill him."|speech|SERGEANT|M|True
+731|RAMEY|Well he's not getting his wish.|speech|RAMEY|M|True
 732||"In the center of the street, an ambulance pulls up and a team
 of medics jump out.  They rush to Leon's body.  (Again we
 hear their voices close, even though visually they are far
-off.)"|stage direction||
-733|FELICIA|Tell me he's gonna be alright.|speech|FELICIA|F
-734|MEDIC|Step aside.  Let us look at him.|speech|MEDIC|M
+off.)"|stage direction|||
+733|FELICIA|Tell me he's gonna be alright.|speech|FELICIA|F|True
+734|MEDIC|Step aside.  Let us look at him.|speech|MEDIC|M|True
 735||"The medics push her aside -- then examine the victim.  He's
-DOA."|stage direction||
+DOA."|stage direction|||
 736|MEDIC|"Nothing we can do.  Don't touch the
 body.  They'll need it to mark the
-crime scene."|speech|MEDIC|M
+crime scene."|speech|MEDIC|M|True
 737||"Far across the street, the Captain confers with his
 subordinates.  They are small figures on the screen but we
-hear them sharply."|stage direction||
-738|SERGEANT|Same corner as two weeks ago.|speech|SERGEANT|M
+hear them sharply."|stage direction|||
+738|SERGEANT|Same corner as two weeks ago.|speech|SERGEANT|M|True
 739|RAMEY|"Maybe it's more than a coincidence.
-Cover me.  I need to talk to him."|speech|RAMEY|M
-740|SERGEANT|You've got your vest on?|speech|SERGEANT|M
-741|RAMEY|What do you think?|speech|RAMEY|M
+Cover me.  I need to talk to him."|speech|RAMEY|M|True
+740|SERGEANT|You've got your vest on?|speech|SERGEANT|M|True
+741|RAMEY|What do you think?|speech|RAMEY|M|True
 742||"The Captain steps out of cover and boldly approaches the
-phone booth.  He stops cautiously about fifteen feet away."|stage direction||
-743|RAMEY|I'm not armed.|speech|RAMEY|M
-744|STU|Neither am I.|speech|STU|M
+phone booth.  He stops cautiously about fifteen feet away."|stage direction|||
+743|RAMEY|I'm not armed.|speech|RAMEY|M|True
+744|STU|Neither am I.|speech|STU|M|True
 745|RAMEY|"Yeah, sure.  I need to know what
-happened."|speech|RAMEY|M
-746|STU|Can't talk about it.|speech|STU|M
+happened."|speech|RAMEY|M|True
+746|STU|Can't talk about it.|speech|STU|M|True
 747|RAMEY|"Sure you can.  My name's Ramey.
-Captain Ed Ramey.  What's yours?"|speech|RAMEY|M
-748|STU|Look, I don't want to be friends.|speech|STU|M
-749|RAMEY|You look like you need a friend.|speech|RAMEY|M
+Captain Ed Ramey.  What's yours?"|speech|RAMEY|M|True
+748|STU|Look, I don't want to be friends.|speech|STU|M|True
+749|RAMEY|You look like you need a friend.|speech|RAMEY|M|True
 750|VOICE|"Tell him you've already got a
-friend."|speech|VOICE|M
-751||(yells)|location||
-752|STU|I've got a friend, okay.|speech|STU|M
+friend."|speech|VOICE|M|True
+751||(yells)|location|||
+752|STU|I've got a friend, okay.|speech|STU|M|True
 753|RAMEY|"Is that who you're talking to on
-the phone?"|speech|RAMEY|M
-754|STU|None of your business.|speech|STU|M
+the phone?"|speech|RAMEY|M|True
+754|STU|None of your business.|speech|STU|M|True
 755|RAMEY|"When somebody gets shot, it becomes
 my business.  Let's not have
 anybody else killed.  I want to
-hear your side of it."|speech|RAMEY|M
-756|STU|I've got no side of it.|speech|STU|M
+hear your side of it."|speech|RAMEY|M|True
+756|STU|I've got no side of it.|speech|STU|M|True
 757|VOICE|"Don't worry, Stu.  I've got him
 fixed right in my sights.  I won't
-let him hurt you."|speech|VOICE|M
+let him hurt you."|speech|VOICE|M|True
 758|RAMEY|"Has this happened to you before?
 The need to hurt someone?  To put a
-bullet in them?"|speech|RAMEY|M
-759|STU|You won't believe anything I say.|speech|STU|M
-760|RAMEY|Try me.|speech|RAMEY|M
+bullet in them?"|speech|RAMEY|M|True
+759|STU|You won't believe anything I say.|speech|STU|M|True
+760|RAMEY|Try me.|speech|RAMEY|M|True
 761|STU|"I couldn't shoot anybody.  I'm not
-armed."|speech|STU|M
+armed."|speech|STU|M|True
 762|RAMEY|"You're right.  I don't believe you.
 What's that bulge in your pants
-pocket?"|speech|RAMEY|M
-763|STU|That?  That's my cellular.|speech|STU|M
+pocket?"|speech|RAMEY|M|True
+763|STU|That?  That's my cellular.|speech|STU|M|True
 764|RAMEY|"A cellular?  Then what are you
 doing in a phone booth making
-calls?"|speech|RAMEY|M
-765|STU|Do you want to see it?|speech|STU|M
-766|RAMEY|Don't reach for it, mister.|speech|RAMEY|M
-767|STU|Then how can I show it to you?|speech|STU|M
+calls?"|speech|RAMEY|M|True
+765|STU|Do you want to see it?|speech|STU|M|True
+766|RAMEY|Don't reach for it, mister.|speech|RAMEY|M|True
+767|STU|Then how can I show it to you?|speech|STU|M|True
 768|RAMEY|"I don't need to see it.  I know
 what's there.  All these witnesses
-saw you use it on him."|speech|RAMEY|M
-769||From behind a parked car, a HOMELESS PERSON calls out.|stage direction||
-770||(hollers)|location||
-771|STREET PERSON|Damn straight!|speech|STREET PERSON|M
-772||Another DERELICT, crouched in a doorway, joins in.|stage direction||
-773||(shouts)|location||
-774|DERELICT|Yeah!  Shot him down like a dog!|speech|DERELICT|?
+saw you use it on him."|speech|RAMEY|M|True
+769||From behind a parked car, a HOMELESS PERSON calls out.|stage direction|||
+770||(hollers)|location|||
+771|STREET PERSON|Damn straight!|speech|STREET PERSON|M|
+772||Another DERELICT, crouched in a doorway, joins in.|stage direction|||
+773||(shouts)|location|||
+774|DERELICT|Yeah!  Shot him down like a dog!|speech|DERELICT|?|
 775|STU|"They're all lying.  Nobody saw it
-because it didn't happen."|speech|STU|M
-776|RAMEY|A man is dead but it didn't happen.|speech|RAMEY|M
+because it didn't happen."|speech|STU|M|True
+776|RAMEY|A man is dead but it didn't happen.|speech|RAMEY|M|True
 777|STU|"Not on account of me!  This is like
-some bad dream."|speech|STU|M
+some bad dream."|speech|STU|M|True
 778|RAMEY|"You're walking through a bad dream
 and you can't wake up.  Do you want
-to wake up?"|speech|RAMEY|M
-779|STU|I'm trying.|speech|STU|M
+to wake up?"|speech|RAMEY|M|True
+779|STU|I'm trying.|speech|STU|M|True
 780|RAMEY|"And in this dream, you killed that
 man.  He was bothering you so you
-iced him."|speech|RAMEY|M
-781|STU|No.|speech|STU|M
-782|RAMEY|Then who did?|speech|RAMEY|M
+iced him."|speech|RAMEY|M|True
+781|STU|No.|speech|STU|M|True
+782|RAMEY|Then who did?|speech|RAMEY|M|True
 783|VOICE|"Don't tell him, Stu.  Or it'll be
 the last thing he ever hears.  His
-blood will be on your hands."|speech|VOICE|M
-784||(to Ramey)|location||
-785|STU|I don't know.|speech|STU|M
-786|RAMEY|But you saw it happen?|speech|RAMEY|M
-787|STU|Yes.|speech|STU|M
+blood will be on your hands."|speech|VOICE|M|True
+784||(to Ramey)|location|||
+785|STU|I don't know.|speech|STU|M|True
+786|RAMEY|But you saw it happen?|speech|RAMEY|M|True
+787|STU|Yes.|speech|STU|M|True
 788|RAMEY|"You were the closest one to him.
-You must've seen who did it."|speech|RAMEY|M
-789|STU|No.|speech|STU|M
+You must've seen who did it."|speech|RAMEY|M|True
+789|STU|No.|speech|STU|M|True
 790|RAMEY|"We're trying to be honest with each
-other, aren't we?"|speech|RAMEY|M
-791|STU|Not necessarily.|speech|STU|M
-792|VOICE|I'm losing patience with this cop.|speech|VOICE|M
-793||(into phone)|location||
-794|STU|I'm handling this.|speech|STU|M
+other, aren't we?"|speech|RAMEY|M|True
+791|STU|Not necessarily.|speech|STU|M|True
+792|VOICE|I'm losing patience with this cop.|speech|VOICE|M|True
+793||(into phone)|location|||
+794|STU|I'm handling this.|speech|STU|M|True
 795|RAMEY|"Who do you keep talking to on the
-phone?"|speech|RAMEY|M
-796|STU|Nobody.  My psychiatrist.|speech|STU|M
+phone?"|speech|RAMEY|M|True
+796|STU|Nobody.  My psychiatrist.|speech|STU|M|True
 797|VOICE|"Excellent, Stu.  You're getting
-good at this."|speech|VOICE|M
+good at this."|speech|VOICE|M|True
 798|RAMEY|"What's this doctor's name?  It's
-important we know."|speech|RAMEY|M
+important we know."|speech|RAMEY|M|True
 799|STU|"He says not to tell you.  It's
-privileged information."|speech|STU|M
+privileged information."|speech|STU|M|True
 800|VOICE|"Damn good reply.  Now you're having
-fun.  Admit it."|speech|VOICE|M
-801|STU|Whatever you say.|speech|STU|M
+fun.  Admit it."|speech|VOICE|M|True
+801|STU|Whatever you say.|speech|STU|M|True
 802|VOICE|"Playing it so close to the edge.
 I'll bet you've never felt so
 alive.  That's how I feel when I
 look through the sight and select
-somebody."|speech|VOICE|M
-803||The Captain begins advancing a few steps closer.|stage direction||
+somebody."|speech|VOICE|M|True
+803||The Captain begins advancing a few steps closer.|stage direction|||
 804|RAMEY|"I respect your right to privacy.
 I've been to therapy myself.  The
 department provides it.  I know
 it's not good form for a cop to be
-admitting that, but..."|speech|RAMEY|M
-805|VOICE|Tell him not to come any closer.|speech|VOICE|M
+admitting that, but..."|speech|RAMEY|M|True
+805|VOICE|Tell him not to come any closer.|speech|VOICE|M|True
 806|STU|"Stop right there.  Back up a few
-steps.  Back where you were."|speech|STU|M
-807|RAMEY|If it makes you more comfortable.|speech|RAMEY|M
-808|VOICE|Tell him to read you your rights.|speech|VOICE|M
+steps.  Back where you were."|speech|STU|M|True
+807|RAMEY|If it makes you more comfortable.|speech|RAMEY|M|True
+808|VOICE|Tell him to read you your rights.|speech|VOICE|M|True
 809|STU|"I want you to read me my rights and
-stop asking questions."|speech|STU|M
-810|RAMEY|Al least tell me your first name.|speech|RAMEY|M
-811|STU|It's my right not to have any name.|speech|STU|M
+stop asking questions."|speech|STU|M|True
+810|RAMEY|Al least tell me your first name.|speech|RAMEY|M|True
+811|STU|It's my right not to have any name.|speech|STU|M|True
 812|RAMEY|"No gun and no name.  You're a
-highly underprivileged person."|speech|RAMEY|M
-813|VOICE|Demand a lawyer.|speech|VOICE|M
+highly underprivileged person."|speech|RAMEY|M|True
+813|VOICE|Demand a lawyer.|speech|VOICE|M|True
 814|STU|"And get me a lawyer, too.  I want a
 lawyer brought down here to
-negotiate my surrender."|speech|STU|M
-815|VOICE|Brilliant, Stu.  Keep winging it.|speech|VOICE|M
+negotiate my surrender."|speech|STU|M|True
+815|VOICE|Brilliant, Stu.  Keep winging it.|speech|VOICE|M|True
 816|RAMEY|"It'll be hard to find a lawyer
 willing to risk his life.  But if
-you hand over the gun..."|speech|RAMEY|M
+you hand over the gun..."|speech|RAMEY|M|True
 817|STU|"How can I when you won't let me
-take it out?"|speech|STU|M
+take it out?"|speech|STU|M|True
 818|RAMEY|"We'll take it out for you -- as
 soon as you exit the booth with
-your hands raised and..."|speech|RAMEY|M
-819||(interrupts)|location||
+your hands raised and..."|speech|RAMEY|M|True
+819||(interrupts)|location|||
 820|STU|"Now we're back to that again.  It's
 always ""Get out of the booth.'
 'You can't stay in the booth.'
 Well, I like it in the fucking
 booth.  It's my whole world now.
 It's my booth and I'm never coming
-out."|speech|STU|M
+out."|speech|STU|M|True
 821|RAMEY|"We're not about to force you
 because there could be a
 miscalculation and then we'd never
-find out why this happened."|speech|RAMEY|M
+find out why this happened."|speech|RAMEY|M|True
 822|STU|"Why is it so important to know?
 The guy is dead.  Isn't that
 enough?  Knowing isn't going to
 make him alive again.  So who gives
-a fuck!"|speech|STU|M
+a fuck!"|speech|STU|M|True
 823|RAMEY|"It's what makes the job
 interesting.  Finding out why.
 Something drove you to do this.
 You didn't go out today expecting
 this to happen.  It was a nice day.
 You were out for a walk.  And then
-suddenly it all changed."|speech|RAMEY|M
+suddenly it all changed."|speech|RAMEY|M|True
 824|STU|"All I wanted was to make a phone
 call.  One lousy phone call for
-thirty-five fucking cents."|speech|STU|M
+thirty-five fucking cents."|speech|STU|M|True
 825|VOICE|"Careful, Stu.  Don't volunteer too
-much."|speech|VOICE|M
-826|RAMEY|You got some bad news on that call.|speech|RAMEY|M
-827|STU|The worst.|speech|STU|M
+much."|speech|VOICE|M|True
+826|RAMEY|You got some bad news on that call.|speech|RAMEY|M|True
+827|STU|The worst.|speech|STU|M|True
 828|RAMEY|"Something that pushed you over the
-edge?"|speech|RAMEY|M
-829|STU|And I've been falling ever since.|speech|STU|M
-830|RAMEY|Time to land.|speech|RAMEY|M
-831|STU|When you hit bottom, you die.|speech|STU|M
-832|RAMEY|I'm your safety net.|speech|RAMEY|M
+edge?"|speech|RAMEY|M|True
+829|STU|And I've been falling ever since.|speech|STU|M|True
+830|RAMEY|Time to land.|speech|RAMEY|M|True
+831|STU|When you hit bottom, you die.|speech|STU|M|True
+832|RAMEY|I'm your safety net.|speech|RAMEY|M|True
 833|STU|"If I tell you what you want to know
--- you'll die, too."|speech|STU|M
+-- you'll die, too."|speech|STU|M|True
 834||"Something about the implied threat sends a chill through
 Captain Ramey.
 INSERT SHOT
@@ -1806,30 +1806,30 @@ perspective is when we see the sniper's POV through his
 scope.
 ANGLE BACK ON STU IN THE BOOTH,
 the detective fifteen feet away.
-Ramey decides to back off momentarily."|stage direction||
-835|RAMEY|I'll go see about that lawyer.|speech|RAMEY|M
-836|STU|Now that's a good idea.|speech|STU|M
-837||The Captain withdraws back across the street.|stage direction||
+Ramey decides to back off momentarily."|stage direction|||
+835|RAMEY|I'll go see about that lawyer.|speech|RAMEY|M|True
+836|STU|Now that's a good idea.|speech|STU|M|True
+837||The Captain withdraws back across the street.|stage direction|||
 838|VOICE|"He's lucky.  I had him centered in
 my cross hairs.  I really had to
-restrain myself."|speech|VOICE|M
+restrain myself."|speech|VOICE|M|True
 839||"We hear the approach of a helicopter.
 Stu peers up ward as not one but two choppers appear above
-the tall buildings."|stage direction||
+the tall buildings."|stage direction|||
 840|VOICE|"It's not the police.  It's the
-media.  You're news, Stuart."|speech|VOICE|M
-841||The helicopters circle above.|stage direction||
+media.  You're news, Stuart."|speech|VOICE|M|True
+841||The helicopters circle above.|stage direction|||
 842|VOICE|"You've never gotten this much press
 for any of your clients.  I'm
-making you a famous person."|speech|VOICE|M
+making you a famous person."|speech|VOICE|M|True
 843|STU|"They're just hoping for coverage of
-me dying in the gutter."|speech|STU|M
+me dying in the gutter."|speech|STU|M|True
 844|VOICE|"Their presence is putting the
 police on their continued best
-behavior."|speech|VOICE|M
+behavior."|speech|VOICE|M|True
 845|STU|"Those cops are just looking for any
-excuse."|speech|STU|M
-846|VOICE|Then don't give them one.|speech|VOICE|M
+excuse."|speech|STU|M|True
+846|VOICE|Then don't give them one.|speech|VOICE|M|True
 847||"Then, as if on cue, Stu's cellular phone in his pocket starts
 ringing.
 But he can't allows himself to reach for it.  To do so might
@@ -1838,49 +1838,49 @@ It rings quietly -- virtually inaudible outside the booth.
 Drowned out by the traffic horns, the static from the police
 radios and the newly introduced sound of television
 helicopters circling over Eighth Avenue taking video coverage
-of the event below."|stage direction||
-848|VOICE|Who could it be?|speech|VOICE|M
-849|STU|Kelly.  She was worried about me.|speech|STU|M
+of the event below."|stage direction|||
+848|VOICE|Who could it be?|speech|VOICE|M|True
+849|STU|Kelly.  She was worried about me.|speech|STU|M|True
 850||"Stu is afraid to reach in his pocket lest the cops think he's
-going for a gun."|stage direction||
+going for a gun."|stage direction|||
 851|VOICE|"Maybe she's seen this on
 television.  It must be on every
-channel by now.  Breaking news."|speech|VOICE|M
-852|STU|She doesn't watch daytime TV.|speech|STU|M
+channel by now.  Breaking news."|speech|VOICE|M|True
+852|STU|She doesn't watch daytime TV.|speech|STU|M|True
 853|VOICE|"One of the neighbors could've
-alerted her."|speech|VOICE|M
+alerted her."|speech|VOICE|M|True
 854||"The cell phone keeps ringing, almost drowned out by the sound
-of helicopters circling overhead."|stage direction||
+of helicopters circling overhead."|stage direction|||
 855|STU|"Why are you saying this?  You want
 me to reach in my pocket so you can
-see them open fire?"|speech|STU|M
+see them open fire?"|speech|STU|M|True
 856|VOICE|"That's an unwarranted accusation
 and very unbecoming in light of the
 good advice I've given in the past.
-Have I ever steered you wrong?"|speech|VOICE|M
+Have I ever steered you wrong?"|speech|VOICE|M|True
 857|STU|"God -- how I'd love to hear her
-voice."|speech|STU|M
+voice."|speech|STU|M|True
 858|VOICE|"It might even be worth it.  She's
-insistent, isn't she?"|speech|VOICE|M
-859||The cellular won't stop ringing.|stage direction||
+insistent, isn't she?"|speech|VOICE|M|True
+859||The cellular won't stop ringing.|stage direction|||
 860|STU|"If she knows I'm in trouble, she
-won't give up."|speech|STU|M
+won't give up."|speech|STU|M|True
 861|VOICE|"Probably glued to the TV by now.
 I'm watching coverage on two
-stations now.  Channel surfing."|speech|VOICE|M
-862||(pause)|location||
+stations now.  Channel surfing."|speech|VOICE|M|True
+862||(pause)|location|||
 863|VOICE|"Well, there you are on two and four
 and five.  Not any decent angles on
-you, though, stuck inside there."|speech|VOICE|M
+you, though, stuck inside there."|speech|VOICE|M|True
 864||"The cell phone continues beeping until the sound of it is
 maddening.  Stu is still afraid to reach for it and provide
-the cops with an excuse to open fire."|stage direction||
+the cops with an excuse to open fire."|stage direction|||
 865|VOICE|"But if you'd take one or two steps
 outside and look up, I think they
-could get a clear picture of you."|speech|VOICE|M
+could get a clear picture of you."|speech|VOICE|M|True
 866|STU|"You said I'm not allowed to leave
-the booth."|speech|STU|M
-867||Finally the cell phone stops ringing.|stage direction||
+the booth."|speech|STU|M|True
+867||Finally the cell phone stops ringing.|stage direction|||
 868|VOICE|"I might be willing to bend the
 rules and let you enjoy your moment
 of fame.  Set the phone down
@@ -1889,16 +1889,16 @@ step or two outside.  Just for a
 minute.  Then come straight back in
 or I'll be forced to provide 'live'
 coverage that should rival the
-historic Zapruder footage."|speech|VOICE|M
-869||(beat)|location||
+historic Zapruder footage."|speech|VOICE|M|True
+869||(beat)|location|||
 870|VOICE|"Nothing like an exploding head to
-excite viewer interest."|speech|VOICE|M
-871|STU|No, thanks.  I'll stay where I am.|speech|STU|M
+excite viewer interest."|speech|VOICE|M|True
+871|STU|No, thanks.  I'll stay where I am.|speech|STU|M|True
 872|VOICE|"It was only a suggestion.  Since
 you're convinced I'm going to plug
-you anyway, it can't matter much."|speech|VOICE|M
+you anyway, it can't matter much."|speech|VOICE|M|True
 873|STU|"If you shoot me, you give yourself
-away."|speech|STU|M
+away."|speech|STU|M|True
 874|VOICE|"Even without a muffler, they'd
 never hear the report with all this
 noise.  Afterwards, it'd take them
@@ -1907,26 +1907,26 @@ weren't plugged by some overzealous
 officer.  Then they'll blame the
 media for inciting a crackpot
 vigilante to come down here and do
-the SWAT team's job for them."|speech|VOICE|M
+the SWAT team's job for them."|speech|VOICE|M|True
 875|STU|"You expected them to come.  You had
-this all worked out."|speech|STU|M
+this all worked out."|speech|STU|M|True
 876|VOICE|"I write the scenario and you all
-play your parts -- as directed."|speech|VOICE|M
+play your parts -- as directed."|speech|VOICE|M|True
 877||"The damned cell phone starts beeping again.  Stu fights the
 temptation to grab for it and hear Kelly's voice for one last
-time."|stage direction||
+time."|stage direction|||
 878|STU|"Poor Kelly.  What she must be going
-through."|speech|STU|M
+through."|speech|STU|M|True
 879|VOICE|"Why don't you tell her how you feel
-about her?"|speech|VOICE|M
+about her?"|speech|VOICE|M|True
 880|STU|"I'd never get the words out.  Not
 with fifteen or twenty rounds in
-me."|speech|STU|M
+me."|speech|STU|M|True
 881|VOICE|"You can't be certain they'd fire.
-They'd see it was only a phone."|speech|VOICE|M
-882|STU|They wouldn't wait to see.|speech|STU|M
-883||The cellular ringing continues jangling Stu's nerves.|stage direction||
-884|STU|Why doesn't she hang up?|speech|STU|M
+They'd see it was only a phone."|speech|VOICE|M|True
+882|STU|They wouldn't wait to see.|speech|STU|M|True
+883||The cellular ringing continues jangling Stu's nerves.|stage direction|||
+884|STU|Why doesn't she hang up?|speech|STU|M|True
 885||"Then Stu notices something in the crowd gathering far across
 the street behind the police barricades.  Countless faces
 rubbernecking, probably hoping to see some display of
@@ -1935,44 +1935,44 @@ pavement.
 And in the midst of them -- one face familiar to him.  A
 female, quite pretty... even in tears.  It's Kelly.  (We see
 her only in LONG SHOT -- a distant figure in bright green
-jacket that makes her stand out from the crowd.)"|stage direction||
+jacket that makes her stand out from the crowd.)"|stage direction|||
 886|STU|"It's her!  She's not calling me.
-She's over there."|speech|STU|M
-887|VOICE|Is she?|speech|VOICE|M
+She's over there."|speech|STU|M|True
+887|VOICE|Is she?|speech|VOICE|M|True
 888|STU|"The blonde girl in the green
-jacket."|speech|STU|M
+jacket."|speech|STU|M|True
 889|VOICE|"Can't miss her.  Very attractive,
-isn't she?"|speech|VOICE|M
+isn't she?"|speech|VOICE|M|True
 890|STU|"She must've heard all the commotion
-and come downstairs."|speech|STU|M
-891||The cellular is still ringing.|stage direction||
+and come downstairs."|speech|STU|M|True
+891||The cellular is still ringing.|stage direction|||
 892|STU|"It's somebody else who knows my
-cell number."|speech|STU|M
-893||(beat)|location||
-894|STU|It's you!|speech|STU|M
-895|VOICE|You continue to impress.|speech|VOICE|M
+cell number."|speech|STU|M|True
+893||(beat)|location|||
+894|STU|It's you!|speech|STU|M|True
+895|VOICE|You continue to impress.|speech|VOICE|M|True
 896|STU|"Why is it so important that they
-kill me?"|speech|STU|M
-897|VOICE|Because that's how I win.|speech|VOICE|M
+kill me?"|speech|STU|M|True
+897|VOICE|Because that's how I win.|speech|VOICE|M|True
 898|STU|"This time you won't.  If you want
 me dead, you'll have to do it
-yourself."|speech|STU|M
-899|VOICE|Either way I can't lose.|speech|VOICE|M
+yourself."|speech|STU|M|True
+899|VOICE|Either way I can't lose.|speech|VOICE|M|True
 900|STU|"It's all a game to you -- because
 you're incapable of feelings.
-You're not even human."|speech|STU|M
+You're not even human."|speech|STU|M|True
 901|VOICE|"I pride myself on that.  What's so
 great about being human?  It's the
 lowest form of life on this planet
 and I've taken it upon myself to
-thin the herd."|speech|VOICE|M
+thin the herd."|speech|VOICE|M|True
 902|STU|"I quit.  I'm not answering back any
 more.  I won't hang up but I'm not
-playing."|speech|STU|M
-903||There's silence now between them.|stage direction||
+playing."|speech|STU|M|True
+903||There's silence now between them.|stage direction|||
 904|VOICE|"Stu?  Stu, don't be that way.
 You're taking the pleasure out of
-it."|speech|VOICE|M
+it."|speech|VOICE|M|True
 905||"Stu doesn't take the bait.  He remains absolutely silent.
 A stalemate has been reached.
 WE RACK FOCUS ACROSS THE STREET TO THE POLICE
@@ -1980,50 +1980,50 @@ clustered behind an emergency vehicle.  The Sergeant brings a
 civilian to meet Captain Ramey of the SWAT unit.  The
 newcomer wears coveralls stenciled ""AT&T.""  (Although they
 are very far away, we hear their voices close up as they come
-into sharper focus.)"|stage direction||
+into sharper focus.)"|stage direction|||
 906|SERGEANT|"This here's Helfand, of New York
-Telephone."|speech|SERGEANT|M
-907|HELFAND|Glad to help out.|speech|HELFAND|M
+Telephone."|speech|SERGEANT|M|True
+907|HELFAND|Glad to help out.|speech|HELFAND|M|
 908|RAMEY|"Have you got the number of that
-booth?"|speech|RAMEY|M
-909|HELFAND|Sure do.|speech|HELFAND|M
-910|RAMEY|Can you tap into that call?|speech|RAMEY|M
-911|HELFAND|It can be done.|speech|HELFAND|M
+booth?"|speech|RAMEY|M|True
+909|HELFAND|Sure do.|speech|HELFAND|M|
+910|RAMEY|Can you tap into that call?|speech|RAMEY|M|True
+911|HELFAND|It can be done.|speech|HELFAND|M|
 912|SERGEANT|"But not without a warrant.  You
 could be violating this psycho's
 civil rights.  Especially if he's
 on the line with his fucking
-psychiatrist."|speech|SERGEANT|M
+psychiatrist."|speech|SERGEANT|M|True
 913|RAMEY|"Shit.  I don't want to blow this on
 a technicality.  Tracing the call
-isn't any violation, is it?"|speech|RAMEY|M
-914|SERGEANT|As long as we don't listen in.|speech|SERGEANT|M
+isn't any violation, is it?"|speech|RAMEY|M|True
+914|SERGEANT|As long as we don't listen in.|speech|SERGEANT|M|True
 915||"We remain in LONG SHOT of the POLICE as they continue in
-heated conversation."|stage direction||
-916||(to Helfand)|location||
+heated conversation."|stage direction|||
+916||(to Helfand)|location|||
 917|RAMEY|"Okay, we've got to know who he's
 talking to and their current
-location."|speech|RAMEY|M
+location."|speech|RAMEY|M|True
 918|HELFAND|"That I can handle.  As long as they
-keep the circuit open."|speech|HELFAND|M
+keep the circuit open."|speech|HELFAND|M|
 919|RAMEY|"I need the number and an address to
-go with it."|speech|RAMEY|M
+go with it."|speech|RAMEY|M|True
 920||"Helfand rushes off.  At the corner, we can glimpse him
 entering a phone company utility truck parked on Forty-Fifth
 Street.
 RACK FOCUS BACK TO PHONE BOOTH
 Stu remains tight lipped and silent, refusing to give his
-tormentor the conversation he so craves."|stage direction||
+tormentor the conversation he so craves."|stage direction|||
 921|VOICE|"Stuart, my friend.  Do you want to
 see how close I can come without
-actually hitting you?"|speech|VOICE|M
+actually hitting you?"|speech|VOICE|M|True
 922||"Stu resists pleading because he knows his silence is more
 powerful.
 There's no glass in the left side of the booth since the late
 Leon smashed it all out.
-Nothing to shatter when the sniper squeezes off his shot."|stage direction||
+Nothing to shatter when the sniper squeezes off his shot."|stage direction|||
 923|VOICE|"May I call attention to the yellow
-pages?"|speech|VOICE|M
+pages?"|speech|VOICE|M|True
 924||"The frayed yellow phonebook dangling from a chain under the
 telephone shudders under the impact of a direct hit.
 There's been no sound of a gunshot, but the damage is there
@@ -2034,7 +2034,7 @@ calibre slug have shattered into many tiny fragments and are
 imbedded between the pages, half-way through the thick
 volume.
 Stu pries pieces out of the pages of the directory.  He looks
-at them in the palm of his hand."|stage direction||
+at them in the palm of his hand."|stage direction|||
 925|VOICE|"Hollow points are designed to break
 up on impact.  It would've behaved
 differently if it had pierced your
@@ -2042,9 +2042,9 @@ soft flesh.  The pieces would've
 bounced around looking for a way
 out.  That's where the real damage
 occurs -- finding an exit --
-deflecting off all that bone..."|speech|VOICE|M
+deflecting off all that bone..."|speech|VOICE|M|True
 926||"Stu wants to shout ""STOP,"" but restrains himself.  Not
-talking gives him some degree of power."|stage direction||
+talking gives him some degree of power."|stage direction|||
 927|VOICE|"Still the silent treatment?  My
 father used to dish that out when
 he chose to punish me.  Not a word
@@ -2053,34 +2053,34 @@ month.  I'd try and goad him to
 acknowledge I existed, but he
 stared right through me.  You're
 bringing back unhappy childhood,
-Stu.  That's not wise."|speech|VOICE|M
+Stu.  That's not wise."|speech|VOICE|M|True
 928||"Stu still declines to answer.  His silence seems his only
 weapon.  He tosses the bullet fragments out of the booth onto
-the pavement."|stage direction||
+the pavement."|stage direction|||
 929|VOICE|"Since you're ignoring me, I'll
-focus on someone else."|speech|VOICE|M
-930||(a beat)|location||
+focus on someone else."|speech|VOICE|M|True
+930||(a beat)|location|||
 931|VOICE|"There she is -- nice and sharp.  I
 can see the two little punctures in
 each earlobe and my God, what kind
 of a girl would have her nostril
-pierced?"|speech|VOICE|M
-932||Stu realizes the sniper now has Kelly in his sights.|stage direction||
-933|STU|No!|speech|STU|M
+pierced?"|speech|VOICE|M|True
+932||Stu realizes the sniper now has Kelly in his sights.|stage direction|||
+933|STU|No!|speech|STU|M|True
 934|VOICE|"What was that?  Louder, Stu.  We
-must have a bad connection."|speech|VOICE|M
-935|STU|Leave her out of it.|speech|STU|M
+must have a bad connection."|speech|VOICE|M|True
+935|STU|Leave her out of it.|speech|STU|M|True
 936|VOICE|"I didn't expect her to show up
 here.  But since she has -- I'll
-improvise."|speech|VOICE|M
+improvise."|speech|VOICE|M|True
 937|STU|"Don't.  Please don't.  I'm sorry.
 I'm talking to you again.  I'll
-talk all you want!"|speech|STU|M
+talk all you want!"|speech|STU|M|True
 938|VOICE|"It's a bad dye job.  The black
 roots are growing in and it makes
-her look cheap."|speech|VOICE|M
+her look cheap."|speech|VOICE|M|True
 939|STU|"I've screwed up her life enough
-already.  Please don't hurt her."|speech|STU|M
+already.  Please don't hurt her."|speech|STU|M|True
 940|VOICE|"I don't necessarily have to kill
 her.  I could be persuaded to
 settle for a reasonable mutilation.
@@ -2091,7 +2091,7 @@ remove the tip of her unpleasantly
 protruding nose.  It's just
 cartilage.  Any decent cosmetic
 surgeon will have her looking
-better than ever."|speech|VOICE|M
+better than ever."|speech|VOICE|M|True
 941||"STU'S POV - FOCUS SHIFTS TO KELLY
 in the crowd.  Distant yet distinct amongst the curious
 onlookers.
@@ -2103,13 +2103,13 @@ the police officers.
 Her face virtually fills the screen.
 PRODUCTION NOTE: The only time we deviate from Stu and his
 POV is when we see the sniper's own POV through his
-telescopic sight."|stage direction||
+telescopic sight."|stage direction|||
 942|VOICE|"You can see her talking to the
 police now.  She's identifying
 herself as your wife.  They're very
 interested in who you are.  They're
 taking her over to see the officer
-in charge.  What was his name?"|speech|VOICE|M
+in charge.  What was his name?"|speech|VOICE|M|True
 943||"SNIPER'S POV
 Through the cross hairs of the sniperscope, we can see Kelly
 conversing with Captain Ramey.  She's in a state of complete
@@ -2119,56 +2119,56 @@ half leaning out of the booth, staring at his wife and the
 cops in the distance.
 RACK FOCUS TO THEM --
 and suddenly we can hear them clearly in spite of the
-distance."|stage direction||
+distance."|stage direction|||
 944|KELLY|"What do you mean psychiatrist?  He
-doesn't see any psychiatrist."|speech|KELLY|F
+doesn't see any psychiatrist."|speech|KELLY|F|True
 945|RAMEY|"Then who'd your husband be talking
-to?"|speech|RAMEY|M
+to?"|speech|RAMEY|M|True
 946|KELLY|"There was some guy that called the
 house this morning and said weird
-stuff to me."|speech|KELLY|F
+stuff to me."|speech|KELLY|F|True
 947|RAMEY|"Stu seems to be checking things out
-with this person."|speech|RAMEY|M
+with this person."|speech|RAMEY|M|True
 948|KELLY|"He hasn't got many friends -- I can
-tell you that."|speech|KELLY|F
+tell you that."|speech|KELLY|F|True
 949|RAMEY|"Remain here, please.  We may need
-you later."|speech|RAMEY|M
-950|KELLY|You won't hurt him?|speech|KELLY|F
-951|RAMEY|We'll do our best not to.|speech|RAMEY|M
+you later."|speech|RAMEY|M|True
+950|KELLY|You won't hurt him?|speech|KELLY|F|True
+951|RAMEY|We'll do our best not to.|speech|RAMEY|M|True
 952||"Kelly is left alone as the Captain returns to their command
 center.
 Kelly is once again a solitary target.  She could be picked
-off without attracting undue attention."|stage direction||
+off without attracting undue attention."|stage direction|||
 953|VOICE|"She won't even feel it when it
-happens."|speech|VOICE|M
-954||BACK TO PHONE BOOTH|stage direction||
-955|STU|Take me instead.|speech|STU|M
+happens."|speech|VOICE|M|True
+954||BACK TO PHONE BOOTH|stage direction|||
+955|STU|Take me instead.|speech|STU|M|True
 956|VOICE|"Don't distract me.  Now's the time
 to be absolutely still.  I have to
 hold my breath as I squeeze
-gently --"|speech|VOICE|M
-957|STU|No!  I'm hanging up.  That's it.|speech|STU|M
+gently --"|speech|VOICE|M|True
+957|STU|No!  I'm hanging up.  That's it.|speech|STU|M|True
 958||"Stu hangs up the receiver.  He disconnects.
 RACK FOCUS TO LONG SHOT --
 The police as they react.  We see a flurry of activity across
-the street.  Voices become clear as focus shifts."|stage direction||
-959|RAMEY|Shit.  He hung up.|speech|RAMEY|M
+the street.  Voices become clear as focus shifts."|stage direction|||
+959|RAMEY|Shit.  He hung up.|speech|RAMEY|M|True
 960|SERGEANT|"Maybe they already traced it.
 Anyhow, it doesn't matter.  Looks
-like he's coming out."|speech|SERGEANT|M
+like he's coming out."|speech|SERGEANT|M|True
 961||"RACK FOCUS BACK TO STU --
-slowly stepping out of the booth.  His hands are raised."|stage direction||
-962||(shouts)|location||
-963|STU|I've giving myself up.  Take me!|speech|STU|M
-964||(distant)|location||
+slowly stepping out of the booth.  His hands are raised."|stage direction|||
+962||(shouts)|location|||
+963|STU|I've giving myself up.  Take me!|speech|STU|M|True
+964||(distant)|location|||
 965|SWAT OFFICER|"First the gun.  We want to see you
-toss away your weapon!"|speech|SWAT OFFICER|?
-966|STU|Shit.  I can't.|speech|STU|M
-967||(distant)|location||
+toss away your weapon!"|speech|SWAT OFFICER|?|
+966|STU|Shit.  I can't.|speech|STU|M|True
+967||(distant)|location|||
 968|SWAT OFFICER|"Freeze where you are!  Turn around
-and keep those hands clasped."|speech|SWAT OFFICER|?
-969||(signals the others)|location||
-970|SWAT OFFICER|Take him.|speech|SWAT OFFICER|?
+and keep those hands clasped."|speech|SWAT OFFICER|?|
+969||(signals the others)|location|||
+970|SWAT OFFICER|Take him.|speech|SWAT OFFICER|?|
 971||"The SWAT OFFICERS in protective gear now step out of cover
 and fan out as they approach the booth.
 TIGHTER ON STU
@@ -2180,86 +2180,86 @@ RACK FOCUS AGAIN
 to the police.
 All the cops react.  Particularly the Captain and the
 Sergeant.  Their voices seem close up when they sharpen in
-focus."|stage direction||
+focus."|stage direction|||
 972|SERGEANT|"What is going on with these fucking
-phone calls?"|speech|SERGEANT|M
-973||(shouts)|location||
-974|RAMEY|Hold your fire.  Let him answer it.|speech|RAMEY|M
-975||The SWAT team backs up but maintain their aim.|stage direction||
-976|SERGEANT|Are you nuts?|speech|SERGEANT|M
+phone calls?"|speech|SERGEANT|M|True
+973||(shouts)|location|||
+974|RAMEY|Hold your fire.  Let him answer it.|speech|RAMEY|M|True
+975||The SWAT team backs up but maintain their aim.|stage direction|||
+976|SERGEANT|Are you nuts?|speech|SERGEANT|M|True
 977|RAMEY|"Let them talk.  He's not going
-anywhere."|speech|RAMEY|M
-978||(shouts)|location||
-979|RAMEY|He's going back inside the booth.|speech|RAMEY|M
+anywhere."|speech|RAMEY|M|True
+978||(shouts)|location|||
+979|RAMEY|He's going back inside the booth.|speech|RAMEY|M|True
 980||"Indeed we see Stu re-enter the battered phone booth and pick
 up the receiver.
-FOCUS RETURNS TO STU"|stage direction||
-981||(into pay phone)|location||
-982|STU|Yeah?|speech|STU|M
+FOCUS RETURNS TO STU"|stage direction|||
+981||(into pay phone)|location|||
+982|STU|Yeah?|speech|STU|M|True
 983||"A strange voice begins chattering away in Spanish.  Totally
-unintelligible to Stu."|stage direction||
-984||(into pay phone)|location||
-985|STU|You got the wrong number.  Hang up.|speech|STU|M
+unintelligible to Stu."|stage direction|||
+984||(into pay phone)|location|||
+985|STU|You got the wrong number.  Hang up.|speech|STU|M|True
 986||"The voice, probably a Puerto Rican gentleman, rattles on in
-Spanish."|stage direction||
-987|STU|Wrong number.  Wrong number.|speech|STU|M
+Spanish."|stage direction|||
+987|STU|Wrong number.  Wrong number.|speech|STU|M|True
 988||"Then the voice on the phone suddenly alters the Hispanic
-accent.  It is the now familiar tone of his tormentor."|stage direction||
+accent.  It is the now familiar tone of his tormentor."|stage direction|||
 989|VOICE|"Aw, relax, Stu.  Only yanking your
-chain.  Now can we start over?"|speech|VOICE|M
-990|STU|Those cops won't wait much longer.|speech|STU|M
+chain.  Now can we start over?"|speech|VOICE|M|True
+990|STU|Those cops won't wait much longer.|speech|STU|M|True
 991|VOICE|"What else can they do?  They can't
 afford to just shoot you like I
 can.  Not with so much media
 coverage.  Not unless you make some
-stupid aggressive move."|speech|VOICE|M
-992||(beat)|location||
-993|VOICE|The ABC Mobile Unit just rolled up.|speech|VOICE|M
+stupid aggressive move."|speech|VOICE|M|True
+992||(beat)|location|||
+993|VOICE|The ABC Mobile Unit just rolled up.|speech|VOICE|M|True
 994||"Across the street, Stu can see various TV units from local
-stations setting up cameras on roofs of trucks."|stage direction||
+stations setting up cameras on roofs of trucks."|stage direction|||
 995|STU|"Will you look at that?  I must be
 going out over the network.  Bet
 they're pre-empting usual
-programming."|speech|STU|M
+programming."|speech|STU|M|True
 996|VOICE|"And just think -- if you survive
 this, your trial will be televised.
 And you can try and make the world
 believe I ever existed.  I'd be
-your only defense."|speech|VOICE|M
+your only defense."|speech|VOICE|M|True
 997|STU|"How are they gonna prove that I
-killed anybody when there's no gun?"|speech|STU|M
+killed anybody when there's no gun?"|speech|STU|M|True
 998|VOICE|"They'll plant one.  The police
 aren't above that -- when they're
-desperate to convict."|speech|VOICE|M
-999|STU|No, sir.  No gun and I walk.|speech|STU|M
+desperate to convict."|speech|VOICE|M|True
+999|STU|No, sir.  No gun and I walk.|speech|STU|M|True
 1000|VOICE|"Don't you think I took that into
-account?  Am I a fool?"|speech|VOICE|M
-1001|STU|What do you mean?|speech|STU|M
+account?  Am I a fool?"|speech|VOICE|M|True
+1001|STU|What do you mean?|speech|STU|M|True
 1002|VOICE|"Haven't I considered every
 eventuality?  I knew they'd come
-and cordon off the block."|speech|VOICE|M
-1003||(beat)|location||
+and cordon off the block."|speech|VOICE|M|True
+1003||(beat)|location|||
 1004|VOICE|"And that there'd have to be a gun
-someplace."|speech|VOICE|M
-1005|STU|Where?|speech|STU|M
+someplace."|speech|VOICE|M|True
+1005|STU|Where?|speech|STU|M|True
 1006|VOICE|"It's a small booth, Stu.  Have you
-checked every inch of it?"|speech|VOICE|M
-1007||(looking up and down)|location||
-1008|STU|It's not on the floor.|speech|STU|M
-1009|VOICE|Then what's left?|speech|VOICE|M
-1010|STU|Up above.|speech|STU|M
+checked every inch of it?"|speech|VOICE|M|True
+1007||(looking up and down)|location|||
+1008|STU|It's not on the floor.|speech|STU|M|True
+1009|VOICE|Then what's left?|speech|VOICE|M|True
+1010|STU|Up above.|speech|STU|M|True
 1011|VOICE|"Could be.  Why don't you reach up
 there and lift the plastic sheet --
-and feel around."|speech|VOICE|M
+and feel around."|speech|VOICE|M|True
 1012|STU|"If they see me reach for something,
-they could open fire."|speech|STU|M
+they could open fire."|speech|STU|M|True
 1013|VOICE|"They could.  But you have to know
-if it's there.  Don't you?"|speech|VOICE|M
-1014|STU|I totally don't give a shit.|speech|STU|M
+if it's there.  Don't you?"|speech|VOICE|M|True
+1014|STU|I totally don't give a shit.|speech|STU|M|True
 1015|VOICE|"In a narrow space, tucked just to
 the left of the fluorescent bulb.
 You can almost see it outlined if
-you look closely."|speech|VOICE|M
+you look closely."|speech|VOICE|M|True
 1016||"Stu peers upward at the clouded plastic, now stained and
 dirty.  There are shadows of objects above in the shallows
 area around the light fixture that automatically goes on when
@@ -2267,76 +2267,76 @@ the door to the phone booth is tightly closed.
 Stu opens and closes the door a few times, watching the light
 click on -- watching the shadows around the light.
 Could that be an accumulation of dirt, dust, or dead insects?
-Or could something be stashed up there?"|stage direction||
+Or could something be stashed up there?"|stage direction|||
 1017|STU|"It doesn't matter.  I know about
 ballistics.  The slug in that dead
 guy came from your rifle, not any
-handgun."|speech|STU|M
+handgun."|speech|STU|M|True
 1018|VOICE|"You saw how hollow points splinter
 on impact.  There's nothing much
 for ballistics to match to.  The
 same make .30 calibre bullets are
 in that handgun.  The prosecution
-rests."|speech|VOICE|M
+rests."|speech|VOICE|M|True
 1019|STU|"There's no gun up there.  I don't
-see a damn thing."|speech|STU|M
+see a damn thing."|speech|STU|M|True
 1020|VOICE|"Slide your finger up under the
 plastic and you'll feel the cold
 metal surface.  There are four
 rounds left in it.  Should you
-decide to shoot your way out."|speech|VOICE|M
-1021|STU|I could never shoot anybody.|speech|STU|M
+decide to shoot your way out."|speech|VOICE|M|True
+1021|STU|I could never shoot anybody.|speech|STU|M|True
 1022|VOICE|"You could shoot me, Stu.  You'd do
-that in a minute if you could."|speech|VOICE|M
-1023|STU|And I'd fucking love it!|speech|STU|M
+that in a minute if you could."|speech|VOICE|M|True
+1023|STU|And I'd fucking love it!|speech|STU|M|True
 1024|VOICE|"Now you're speaking from the heart.
 Come on, just lift the partition a
 few inches and feel what's there
-for you."|speech|VOICE|M
+for you."|speech|VOICE|M|True
 1025|STU|"I'm not getting my fingerprints on
 your fucking weapon.  What about
 powder residue?  How are they going
-to explain that to a jury?"|speech|STU|M
+to explain that to a jury?"|speech|STU|M|True
 1026|VOICE|"Do you think that'll matter with so
-many eye witnesses?"|speech|VOICE|M
-1027||(beat)|location||
+many eye witnesses?"|speech|VOICE|M|True
+1027||(beat)|location|||
 1028|VOICE|"Do it... or should I re-focus my
-attention on Kelly?"|speech|VOICE|M
-1029|STU|No.|speech|STU|M
+attention on Kelly?"|speech|VOICE|M|True
+1029|STU|No.|speech|STU|M|True
 1030|VOICE|"You carefully distracted me from
 her before and I let you get away
 with it.  But if you're not going
-to play fairly --"|speech|VOICE|M
-1031||(a pause)|location||
+to play fairly --"|speech|VOICE|M|True
+1031||(a pause)|location|||
 1032|VOICE|"There she is again.  So close I
-feel like I could touch her."|speech|VOICE|M
-1033|STU|Get off her!|speech|STU|M
-1034|VOICE|Then mind me when I speak.|speech|VOICE|M
+feel like I could touch her."|speech|VOICE|M|True
+1033|STU|Get off her!|speech|STU|M|True
+1034|VOICE|Then mind me when I speak.|speech|VOICE|M|True
 1035|STU|"Look!  I'm reaching up with my left
 hand.  I'm pushing against the
 partition.  It's giving.  I'm
 feeling around with my fingertips.
-It's filthy up there."|speech|STU|M
+It's filthy up there."|speech|STU|M|True
 1036||"TIGHT SHOT - STU'S FINGERS
 feel about inside the shallow space.  The shriveled remains
-of dead flies -- a layer of dust -- and then a .30 handgun."|stage direction||
-1037|STU|I'm -- touching something.|speech|STU|M
+of dead flies -- a layer of dust -- and then a .30 handgun."|stage direction|||
+1037|STU|I'm -- touching something.|speech|STU|M|True
 1038|VOICE|"One of the finest handguns
 Remington makes.  Lightweight,
-efficient and highly accurate."|speech|VOICE|M
-1039|STU|I'm not picking it up.|speech|STU|M
-1040|VOICE|Not right now.  But eventually...|speech|VOICE|M
-1041||Stu lowers his hand, still empty.|stage direction||
-1042|STU|I wouldn't have a chance.|speech|STU|M
-1043|VOICE|I never said you would.|speech|VOICE|M
-1044|STU|I'm not insane.|speech|STU|M
+efficient and highly accurate."|speech|VOICE|M|True
+1039|STU|I'm not picking it up.|speech|STU|M|True
+1040|VOICE|Not right now.  But eventually...|speech|VOICE|M|True
+1041||Stu lowers his hand, still empty.|stage direction|||
+1042|STU|I wouldn't have a chance.|speech|STU|M|True
+1043|VOICE|I never said you would.|speech|VOICE|M|True
+1044|STU|I'm not insane.|speech|STU|M|True
 1045|VOICE|"But you're getting there.  It
-wouldn't take much."|speech|VOICE|M
-1046|STU|That won't happen.|speech|STU|M
+wouldn't take much."|speech|VOICE|M|True
+1046|STU|That won't happen.|speech|STU|M|True
 1047|VOICE|"You could pull the gun down, shove
 it in your own mouth and jerk the
-trigger.  That's another option."|speech|VOICE|M
-1048|STU|Why would I do that?|speech|STU|M
+trigger.  That's another option."|speech|VOICE|M|True
+1048|STU|Why would I do that?|speech|STU|M|True
 1049|VOICE|"To please me.  And ensure that
 nothing happens to Kelly.  I don't
 necessarily have to deal with her
@@ -2346,9 +2346,9 @@ I like.  When she goes to pull down
 her blinds at night or when she
 walks the dog first thing in the
 morning.  What is it -- a Jack
-Russell?"|speech|VOICE|M
+Russell?"|speech|VOICE|M|True
 1050|STU|"Okay.  I know you can do it.  But
-don't talk about that.  Please."|speech|STU|M
+don't talk about that.  Please."|speech|STU|M|True
 1051|VOICE|"I'd rather see you remembered as
 the gallant gunman who tried to
 shoot his way past an army of
@@ -2361,33 +2361,33 @@ When some lowlife street person
 tries to invade his territory, he
 retaliated.  And when the forces of
 the law closed in, he was
-defiant... to the end."|speech|VOICE|M
+defiant... to the end."|speech|VOICE|M|True
 1052|STU|"Like that nerdy sonofabitch who
 blew those three wiseass kids away
-on the subway?"|speech|STU|M
+on the subway?"|speech|STU|M|True
 1053|VOICE|"Exactly.  Nobody minded that he was
 a sicko.  He was living out a New
 Yorker's pet fantasy.  Can you
 remember that movie where Peter
 Finch started screaming 'I'm not
 taking it anymore!'  And everybody
-picked up on it."|speech|VOICE|M
+picked up on it."|speech|VOICE|M|True
 1054|STU|"'I'm mad as hell and I'm not taking
-it anymore.'"|speech|STU|M
+it anymore.'"|speech|STU|M|True
 1055|VOICE|"That was it.  Poor Finch got
 himself an Oscar for that.  But he
 was dead by then.  I mean he really
 died.  Maybe playing that part took
-too much out of him."|speech|VOICE|M
-1056||(softly to himself)|location||
+too much out of him."|speech|VOICE|M|True
+1056||(softly to himself)|location|||
 1057|STU|"'I'm not taking it anymore.'  'I'm
-not taking it anymore.'"|speech|STU|M
+not taking it anymore.'"|speech|STU|M|True
 1058|VOICE|"That's the way!  Psyche yourself
 up.  Everybody respects a man who
 fights back, even if he goes a
-little berserk in the process."|speech|VOICE|M
+little berserk in the process."|speech|VOICE|M|True
 1059|STU|"Fighting back.  That's what it's
-about."|speech|STU|M
+about."|speech|STU|M|True
 1060|VOICE|"Exactly!  We all understand the
 poor schmuck that gets laid off and
 comes back and shoots all his
@@ -2403,252 +2403,252 @@ come back at you.  I'm still
 holding on Kelly and she looks very
 concerned.  I could relieve all
 that anguish in a fraction of a
-second.  Shall I?"|speech|VOICE|M
+second.  Shall I?"|speech|VOICE|M|True
 1061||"Stu is hearing these words but thinking only of what the man
 on the line has done to him.  His turn has come to fight
 back.  He has an idea.
 If the sniper is focused on Kelly, he can't be watching Stu.
 Turning his back to the police, Stu slowly sinks to his
-knees."|stage direction||
-1062|STU|I'm on my knees begging you.|speech|STU|M
+knees."|stage direction|||
+1062|STU|I'm on my knees begging you.|speech|STU|M|True
 1063|VOICE|"Stand up, Stu.  You're embarrassing
-yourself."|speech|VOICE|M
+yourself."|speech|VOICE|M|True
 1064||"TIGHT ANGLE --
 Stu now down on his knees in the booth.  He's curled up
 almost into a fetal position.
 By doing so, he hopes to hide the fact that he's reaching
 into his pants pocket and pulling out his cellular phone.
 He half expects to hear a shot ring out either from the
-sniper or the cops.  But nothing happens."|stage direction||
+sniper or the cops.  But nothing happens."|stage direction|||
 1065|VOICE|"Stu -- I want you back on your feet
 facing me.  So you can see what I'm
-going to do to her."|speech|VOICE|M
+going to do to her."|speech|VOICE|M|True
 1066||"Stu ignores the command.  He's quickly dialing.
 911.
 He's calling police emergency.
 SNIPER'S POV
 Stu seen through the cross hairs of the sniperscope,
 crouched, doubled up at the foot of the booth.  But the cell
-phone is hidden in front of him."|stage direction||
+phone is hidden in front of him."|stage direction|||
 1067|VOICE|"Be a man, Stuart.  Don't let them
 see you like this.  You're an
-embarrassment to me."|speech|VOICE|M
+embarrassment to me."|speech|VOICE|M|True
 1068||"WIDER SHOT - THE BOOTH
 with Stu still kneeling.
 RACK FOCUS
-to police across the street as their voices become clear --"|stage direction||
+to police across the street as their voices become clear --"|stage direction|||
 1069||"(listening to
-transmission)"|location||
+transmission)"|location|||
 1070|SERGEANT|"Officer on east side of the street
 reports subject removed a dark
 metallic object from his pocket.
-We better move."|speech|SERGEANT|M
+We better move."|speech|SERGEANT|M|True
 1071|RAMEY|"Hold all fire until you actually
 identify a weapon.  We're doing
-this on fucking TV!"|speech|RAMEY|M
+this on fucking TV!"|speech|RAMEY|M|True
 1072||"RACK FOCUS BACK TO -- STU IN THE BOOTH
 crouched forward.  The pay phone receiver dangles just above
 his head.  The cellular remains cupped in his hand.
 Stu never lifts the cell phone.  He keeps the palm of his
 hand over the speaker of the phone to muffle any sound from
 the other end.
-It rings and finally someone answers."|stage direction||
-1073||(faint)|location||
+It rings and finally someone answers."|stage direction|||
+1073||(faint)|location|||
 1074|EMERGENCY OPERATOR|"Police.  Is this an emergency?
-Hello?  Is someone on the line?"|speech|EMERGENCY OPERATOR|M
+Hello?  Is someone on the line?"|speech|EMERGENCY OPERATOR|M|
 1075||"But Stu addresses himself loudly to the pay phone which he
 now grips in his other hand.  Hoping that his words will be
 picked up by the emergency operator listening via the
 cellular.  To help in this regard, he reaches back and slides
 the door to the booth tightly closed.
 He pretends to be talking to the sniper but his words are
-meant for the 911 operator to hear."|stage direction||
-1076||(loud)|location||
+meant for the 911 operator to hear."|stage direction|||
+1076||(loud)|location|||
 1077|STU|"You've made your point.  Who's
 going to believe I've got a sniper
 with a telescopic sight holding me
 in a fucking phone booth at 45th
-and 8th?"|speech|STU|M
+and 8th?"|speech|STU|M|True
 1078|VOICE|"It took you a while to believe it
-yourself."|speech|VOICE|M
+yourself."|speech|VOICE|M|True
 1079|STU|"If you'd put a bullet in that
 Captain Ramey, it would've been a
 different story -- but you were too
-wise to do that."|speech|STU|M
+wise to do that."|speech|STU|M|True
 1080|VOICE|"Why don't you do it for me?  Wave
 the old captain back over and get
 him nice and close and then use the
-handgun on him."|speech|VOICE|M
-1081||(talking loud)|location||
+handgun on him."|speech|VOICE|M|True
+1081||(talking loud)|location|||
 1082|STU|"Why me?  You could pick off any of
 those cops from your window up
 there.  Like you did that pimp.
 And that tourist last week.  But
 this time you want me to do your
-killing for you."|speech|STU|M
-1083|VOICE|And you will!  To save Kelly.|speech|VOICE|M
+killing for you."|speech|STU|M|True
+1083|VOICE|And you will!  To save Kelly.|speech|VOICE|M|True
 1084||"EXTREME TIGHT SHOT - CELL PHONE
 cupped in Stu's hand and held low.  Can they hear him on the
-other end?"|stage direction||
+other end?"|stage direction|||
 1085||"(muffled, almost
-inaudible)"|location||
+inaudible)"|location|||
 1086|EMERGENCY OPERATOR|"Can you speak up, sir?  What is
-your name?"|speech|EMERGENCY OPERATOR|M
+your name?"|speech|EMERGENCY OPERATOR|M|
 1087||"Stu is concerned that the sniper might hear the voice of the
 emergency operator.  He sets the cell phone down flat on the
 floor of the booth facing upward.  He puts his foot over the
 receiving end to muffle the incoming voice.  Then he stands
-up."|stage direction||
+up."|stage direction|||
 1088|VOICE|"That's better, Stu.  Now turn
-around so I can see you."|speech|VOICE|M
+around so I can see you."|speech|VOICE|M|True
 1089||"Stu talks close into the pay phone receiver now.  But keeps
-his voice raised."|stage direction||
+his voice raised."|stage direction|||
 1090|STU|"This booth.  It's my whole world --
 shrunk down to four feet by three
 feet.  Not much bigger than the
-size of a coffin."|speech|STU|M
+size of a coffin."|speech|STU|M|True
 1091|VOICE|"They can put handles on the booth
-and bury you in it."|speech|VOICE|M
-1092||(loudly into pay phone)|location||
+and bury you in it."|speech|VOICE|M|True
+1092||(loudly into pay phone)|location|||
 1093|STU|"When I saw you put that bullet into
 that black dude, I knew you'd never
 let me out of this phone booth
-alive."|speech|STU|M
+alive."|speech|STU|M|True
 1094|VOICE|"You're wasting my time.  Reach up
-and take the gun."|speech|VOICE|M
+and take the gun."|speech|VOICE|M|True
 1095||"(peering upward,
-squinting)"|location||
+squinting)"|location|||
 1096|STU|"Let me see you first.  What harm
 can that do you?  You're in one of
 those windows.  I've got to know
-which one."|speech|STU|M
-1097|VOICE|No need for that.|speech|VOICE|M
+which one."|speech|STU|M|True
+1097|VOICE|No need for that.|speech|VOICE|M|True
 1098|STU|"Being so far, I could never
 identify you.  I don't even want
-to."|speech|STU|M
-1099|VOICE|What is it then?|speech|VOICE|M
+to."|speech|STU|M|True
+1099|VOICE|What is it then?|speech|VOICE|M|True
 1100|STU|"Don't worry that I'd try to point
 you out.  You'd shut me up with one
 of your .30 calibre hollow points
-before I could even raise a finger."|speech|STU|M
-1101|VOICE|Why does it matter so much?|speech|VOICE|M
+before I could even raise a finger."|speech|STU|M|True
+1101|VOICE|Why does it matter so much?|speech|VOICE|M|True
 1102|STU|"I want to see that you exist.  Like
 God exists.  It's not enough to
 believe.  You want to see him --
-just once -- even at a distance."|speech|STU|M
+just once -- even at a distance."|speech|STU|M|True
 1103|VOICE|"And then you'd take the gun down.
 And use it.  We have a deal on
-that?"|speech|VOICE|M
+that?"|speech|VOICE|M|True
 1104|STU|"Show yourself to me and I'll take
-the gun down.  I swear."|speech|STU|M
-1105||There's a pause as the sniper mulls it over.|stage direction||
+the gun down.  I swear."|speech|STU|M|True
+1105||There's a pause as the sniper mulls it over.|stage direction|||
 1106|VOICE|"I don't have to make deals.  And
 you're irritating me by trying to
 negotiate.  God doesn't have to
 prove anything.  He just strikes
-you down when he gets in the mood."|speech|VOICE|M
+you down when he gets in the mood."|speech|VOICE|M|True
 1107|STU|"Stop!  I won't ask to see you
-anymore."|speech|STU|M
+anymore."|speech|STU|M|True
 1108|VOICE|"I'm glad that's settled.  But look
-who else has showed up?"|speech|VOICE|M
-1109|STU|Who?|speech|STU|M
+who else has showed up?"|speech|VOICE|M|True
+1109|STU|Who?|speech|STU|M|True
 1110|VOICE|"I guess she saw the coverage on TV
-and just couldn't keep away."|speech|VOICE|M
-1111|STU|What are you talking about?|speech|STU|M
+and just couldn't keep away."|speech|VOICE|M|True
+1111|STU|What are you talking about?|speech|STU|M|True
 1112|VOICE|"The 'hotel' just arrived.  And a
 very beautiful little hotel she is.
 Actually, I'd classify her as more
-of a motel."|speech|VOICE|M
-1113|STU|Mavis?  I don't see her.|speech|STU|M
+of a motel."|speech|VOICE|M|True
+1113|STU|Mavis?  I don't see her.|speech|STU|M|True
 1114|VOICE|"She's too far back behind the
 police line.  But I've got a fine
-shot at her from up here."|speech|VOICE|M
+shot at her from up here."|speech|VOICE|M|True
 1115|STU|"You don't even know what she looks
-like."|speech|STU|M
+like."|speech|STU|M|True
 1116|VOICE|"You're in an enviable position now,
 Stu.  You get to choose between
-them.  Tell me which one."|speech|VOICE|M
-1117|STU|I can't.|speech|STU|M
+them.  Tell me which one."|speech|VOICE|M|True
+1117|STU|I can't.|speech|STU|M|True
 1118|VOICE|"Which will it be?  Kelly or Mavis?
-Or should I simply select one?"|speech|VOICE|M
+Or should I simply select one?"|speech|VOICE|M|True
 1119||"INSERT SHOT - THE CELL PHONE
 lying face up on the floor of the booth.  Is anybody
 listening?
 BACK TO STU
 Stu looks down at the cellular.  He has no way of knowing if
-the police operator can hear any of his words."|stage direction||
-1120|STU|I need time to think...|speech|STU|M
+the police operator can hear any of his words."|stage direction|||
+1120|STU|I need time to think...|speech|STU|M|True
 1121|VOICE|"You've got to be more in touch with
 your feelings.  You said you love
-Kelly."|speech|VOICE|M
-1122|STU|I do.|speech|STU|M
+Kelly."|speech|VOICE|M|True
+1122|STU|I do.|speech|STU|M|True
 1123|VOICE|"Then I'm doing you a favor putting
-you out of the way of temptation."|speech|VOICE|M
+you out of the way of temptation."|speech|VOICE|M|True
 1124|STU|"It wasn't Mavis' fault.  It was all
-my fault."|speech|STU|M
+my fault."|speech|STU|M|True
 1125|VOICE|"Then take the third option.  Reach
-above you and pick up the gun."|speech|VOICE|M
-1126|STU|You'll leave them both alone?|speech|STU|M
+above you and pick up the gun."|speech|VOICE|M|True
+1126|STU|You'll leave them both alone?|speech|STU|M|True
 1127|VOICE|"There won't be much point in
 harming them without you around to
-impress."|speech|VOICE|M
-1128|STU|I'll do it.|speech|STU|M
-1129|VOICE|Let me see you do it.|speech|VOICE|M
+impress."|speech|VOICE|M|True
+1128|STU|I'll do it.|speech|STU|M|True
+1129|VOICE|Let me see you do it.|speech|VOICE|M|True
 1130|STU|"I need one minute.  One last
 minute, please.  Can you give me
-that?"|speech|STU|M
+that?"|speech|STU|M|True
 1131|VOICE|"Don't tell me you're going to say
-your prayers?"|speech|VOICE|M
-1132|STU|Something like that.|speech|STU|M
+your prayers?"|speech|VOICE|M|True
+1132|STU|Something like that.|speech|STU|M|True
 1133||"WE RACK FOCUS AWAY TO LONG SHOT - THE POLICE
-assembled on the opposite side of the street."|stage direction||
+assembled on the opposite side of the street."|stage direction|||
 1134|RAMEY|"They should've traced the fucking
-call by now."|speech|RAMEY|M
-1135||(listening on transmitter)|location||
+call by now."|speech|RAMEY|M|True
+1135||(listening on transmitter)|location|||
 1136|SERGEANT|"There's something else coming in.
 A 911 operator says your name was
 mentioned by somebody that's still
 on the line.  Somebody talking
-about a phone booth.  And a sniper."|speech|SERGEANT|M
+about a phone booth.  And a sniper."|speech|SERGEANT|M|True
 1137|RAMEY|"Patch me through.  Hello, this is
 Captain Edward Ramey.  What about
-that call?"|speech|RAMEY|M
+that call?"|speech|RAMEY|M|True
 1138|EMERGENCY OPERATOR|"The line is still open.  It's
 originating from a booth at 45th
-and 8th."|speech|EMERGENCY OPERATOR|M
+and 8th."|speech|EMERGENCY OPERATOR|M|
 1139|RAMEY|"We're there!  Can you play me back
-your recording of the entire call?"|speech|RAMEY|M
+your recording of the entire call?"|speech|RAMEY|M|True
 1140|EMERGENCY OPERATOR|"I can't replay the tape while it's
-still running."|speech|EMERGENCY OPERATOR|M
+still running."|speech|EMERGENCY OPERATOR|M|
 1141|RAMEY|"Then switch to another machine and
-play back what you've got."|speech|RAMEY|M
+play back what you've got."|speech|RAMEY|M|True
 1142|EMERGENCY OPERATOR|"It's awful faint.  He's not talking
-directly into the receiver."|speech|EMERGENCY OPERATOR|M
+directly into the receiver."|speech|EMERGENCY OPERATOR|M|
 1143||"Ramey begins to listen.  We hear snatches of Stu's call
-picking up words which are at times incomprehensible."|stage direction||
-1144||(faint)|location||
+picking up words which are at times incomprehensible."|stage direction|||
+1144||(faint)|location|||
 1145|STU'S VOICE|"'Who's going to believe I've got a
 sniper with a telescopic sight
 holding me in some fucking phone
-booth...'"|speech|STU'S VOICE|?
+booth...'"|speech|STU'S VOICE|?|
 1146||"The uniformed TELEPHONE TECHNICIAN now joins Ramey and the
-Sergeant."|stage direction||
+Sergeant."|stage direction|||
 1147|TELEPHONE TECHNICIAN|"Got what you wanted.  The call's
 coming from up the street.  The
-Hotel Broadway."|speech|TELEPHONE TECHNICIAN|?
-1148|RAMEY|Have you got the room?|speech|RAMEY|M
+Hotel Broadway."|speech|TELEPHONE TECHNICIAN|?|
+1148|RAMEY|Have you got the room?|speech|RAMEY|M|True
 1149|TELEPHONE TECHNICIAN|"It's not that easy.  Electronic
-switchboard."|speech|TELEPHONE TECHNICIAN|?
-1150||(to Sergeant)|location||
+switchboard."|speech|TELEPHONE TECHNICIAN|?|
+1150||(to Sergeant)|location|||
 1151|RAMEY|"Move your SWAT units to the hotel.
 No... wait.  Any movement will
 alert the sniper.  If he sees any
-of us withdraw, he may panic."|speech|RAMEY|M
+of us withdraw, he may panic."|speech|RAMEY|M|True
 1152|SERGEANT|"There's another SWAT unit on the
-way."|speech|SERGEANT|M
+way."|speech|SERGEANT|M|True
 1153|RAMEY|"Intercept them.  Divert them to the
-hotel."|speech|RAMEY|M
-1154|SERGEANT|It's done.|speech|SERGEANT|M
+hotel."|speech|RAMEY|M|True
+1154|SERGEANT|It's done.|speech|SERGEANT|M|True
 1155|RAMEY|"Send them in from the Forty-third
 Street side.  I don't want any
 activity the sniper might catch
@@ -2657,36 +2657,36 @@ and facing that booth.  He's got to
 continue to believe our full
 attention is focused on the man
 inside -- whoever the hell that
-poor bastard is."|speech|RAMEY|M
-1156||(to emergency operator)|location||
+poor bastard is."|speech|RAMEY|M|True
+1156||(to emergency operator)|location|||
 1157|RAMEY|"Hello 911 operator, I missed some
 of that.  Run it halfway back and
-repeat it."|speech|RAMEY|M
-1158||(faint)|location||
+repeat it."|speech|RAMEY|M|True
+1158||(faint)|location|||
 1159|STU'S VOICE (REPLAY)|"'... Like you did that pimp.  And
 that tourist last week.  But this
 time you want me to do the killing
-for you...'"|speech|STU'S VOICE|?
-1160||(listening)|location||
-1161|RAMEY|Jesus... he's a dead man.|speech|RAMEY|M
-1162||BACK INSIDE PHONE BOOTH|stage direction||
+for you...'"|speech|STU'S VOICE|?|
+1160||(listening)|location|||
+1161|RAMEY|Jesus... he's a dead man.|speech|RAMEY|M|True
+1162||BACK INSIDE PHONE BOOTH|stage direction|||
 1163|VOICE|"The police seem all excited about
-something, Stu."|speech|VOICE|M
-1164|STU|Are they?  I wasn't looking.|speech|STU|M
+something, Stu."|speech|VOICE|M|True
+1164|STU|Are they?  I wasn't looking.|speech|STU|M|True
 1165|VOICE|"I can't wait any longer.  Say amen,
 then reach up for the gun.  When
 your hand comes down, I want to see
-it."|speech|VOICE|M
-1166|STU|I'm too afraid.|speech|STU|M
+it."|speech|VOICE|M|True
+1166|STU|I'm too afraid.|speech|STU|M|True
 1167|VOICE|"For once, be brave.  Surprise
-yourself."|speech|VOICE|M
-1168|STU|I'm shaking all over.|speech|STU|M
+yourself."|speech|VOICE|M|True
+1168|STU|I'm shaking all over.|speech|STU|M|True
 1169|VOICE|"Guys in combat situations even shit
 their pants.  But they follow
-orders."|speech|VOICE|M
+orders."|speech|VOICE|M|True
 1170|STU|"As soon as the cops see a gun,
-they'll open fire."|speech|STU|M
-1171|VOICE|Then I'd advise you to fire first.|speech|VOICE|M
+they'll open fire."|speech|STU|M|True
+1171|VOICE|Then I'd advise you to fire first.|speech|VOICE|M|True
 1172||"Stu's arm goes up in a supreme act of willpower.
 His fingers run along the two clouded plastic sheets that
 cover the roof of the booth.  It raises up easily at the
@@ -2704,31 +2704,31 @@ as below he continues to hesitate -- it's agony --
 The sweat pours down his forehead and his eyes are squeezed
 tightly shut.  He can already imagine the police bullets
 tearing into him.
-A POLICE SNIPER IS MOVING INTO POSITION."|stage direction||
-1173||(into transmitter)|location||
-1174|POLICE SNIPER|Give me the word.|speech|POLICE SNIPER|?
+A POLICE SNIPER IS MOVING INTO POSITION."|stage direction|||
+1173||(into transmitter)|location|||
+1174|POLICE SNIPER|Give me the word.|speech|POLICE SNIPER|?|
 1175||"RACK BACK TO STU - IN THE BOOTH
 His arm still raised.  He hasn't brought it down with the gun
 in it.  Not yet.  He holds the pay phone receiver jammed up
-against his mouth."|stage direction||
+against his mouth."|stage direction|||
 1176|VOICE|"Hard part's over.  Drop your arm
 and point it like you'd point your
-finger and squeeze."|speech|VOICE|M
+finger and squeeze."|speech|VOICE|M|True
 1177|STU|"No.  You do it.  If you want me
-dead, then fucking murder me!"|speech|STU|M
+dead, then fucking murder me!"|speech|STU|M|True
 1178|VOICE|"Why must I keep invoking some poor
 girl's name every time we come to
 an impasse?  I'm focused back on
 Kelly again.  You're obviously not
 willing to trade your life for
-hers."|speech|VOICE|M
-1179|STU|I am!  I'm doing it!|speech|STU|M
+hers."|speech|VOICE|M|True
+1179|STU|I am!  I'm doing it!|speech|STU|M|True
 1180||"He pulls the handgun down into full view.  Curiously, the
-police do not open fire."|stage direction||
+police do not open fire."|stage direction|||
 1181|STU|"There!  You see it?  They all see
-it."|speech|STU|M
-1182||He waves the gun so nobody can miss it.|stage direction||
-1183|STU|Where are you?  Damn you!!|speech|STU|M
+it."|speech|STU|M|True
+1182||He waves the gun so nobody can miss it.|stage direction|||
+1183|STU|Where are you?  Damn you!!|speech|STU|M|True
 1184||"He drops the receiver and steps halfway out of the booth.
 Still the cops do not open fire.
 Then Stu starts shooting.
@@ -2744,12 +2744,12 @@ The remaining glass on the south side of the booth shatters.
 Stu tumbles forward, sprawling out of the booth onto the
 pavement.
 RACK FOCUS TO KELLY
-She screams, tries to break through but cops restrain her."|stage direction||
-1185||INT.  PHONE BOOTH|location||
+She screams, tries to break through but cops restrain her."|stage direction|||
+1185||INT.  PHONE BOOTH|location|||
 1186||"ANGLE ON DANGLING RECEIVER
-as it sways back and forth.  From it, we hear the voice."|stage direction||
+as it sways back and forth.  From it, we hear the voice."|stage direction|||
 1187|VOICE|"Thanks for such an interesting
-afternoon."|speech|VOICE|M
+afternoon."|speech|VOICE|M|True
 1188||"THEN THERE ARE OTHER SOUNDS EMANATING FROM THE DANGLING
 SWAYING PHONE.
 A wooden door being battered open.  A few incomprehensible
@@ -2760,132 +2760,132 @@ THE SOUND OF A MUFFLED SCREAM.
 The police have broken in on Stu's tormentor and there has
 been a rapid exchange of shots.
 A HAND reaches into the booth and grabs the receiver.
-ANGLE WIDENS as Ramey places it to his ear."|stage direction||
+ANGLE WIDENS as Ramey places it to his ear."|stage direction|||
 1189|RAMEY|"Hello?  This is Captain Ramey.
-Somebody talk to me."|speech|RAMEY|M
+Somebody talk to me."|speech|RAMEY|M|True
 1190|SWAT OFFICER'S VOICE|"Yeah.  We took him out, Captain.
-Nobody else got hurt."|speech|SWAT OFFICER'S VOICE|?
-1191|RAMEY|What's his condition?|speech|RAMEY|M
+Nobody else got hurt."|speech|SWAT OFFICER'S VOICE|?|
+1191|RAMEY|What's his condition?|speech|RAMEY|M|True
 1192|SWAT OFFICER'S VOICE|"Critical.  The sonofabitch took
 two.  Probably won't survive the
-ride."|speech|SWAT OFFICER'S VOICE|?
+ride."|speech|SWAT OFFICER'S VOICE|?|
 1193|RAMEY|"Get a statement from him.  I'll be
-right over."|speech|RAMEY|M
+right over."|speech|RAMEY|M|True
 1194||"He drops the receiver so that it dangles again.
 CAMERA FOLLOWS RAMEY to where Stu lies surrounded by cops and
-medics.  He's stunned, but very much alive."|stage direction||
-1195|MEDIC|Don't try to sit up.|speech|MEDIC|M
-1196|STU|What was that?|speech|STU|M
-1197||(kneeling)|location||
-1198|RAMEY|Rubber bullet.|speech|RAMEY|M
+medics.  He's stunned, but very much alive."|stage direction|||
+1195|MEDIC|Don't try to sit up.|speech|MEDIC|M|True
+1196|STU|What was that?|speech|STU|M|True
+1197||(kneeling)|location|||
+1198|RAMEY|Rubber bullet.|speech|RAMEY|M|True
 1199|MEDIC|"You'll have one hell of a nasty
 welt.  Busted rib.  Maybe a
-permanent scar there."|speech|MEDIC|M
+permanent scar there."|speech|MEDIC|M|True
 1200|STU|"It couldn't hurt much more if you
-really shot me."|speech|STU|M
+really shot me."|speech|STU|M|True
 1201|RAMEY|"Somebody was going to and we
-thought it may as well be us."|speech|RAMEY|M
-1202|STU|Did you get him?|speech|STU|M
-1203|RAMEY|Sure as hell did.  Thanks to you.|speech|RAMEY|M
-1204|STU|Still alive?|speech|STU|M
-1205|RAMEY|Barely.|speech|RAMEY|M
+thought it may as well be us."|speech|RAMEY|M|True
+1202|STU|Did you get him?|speech|STU|M|True
+1203|RAMEY|Sure as hell did.  Thanks to you.|speech|RAMEY|M|True
+1204|STU|Still alive?|speech|STU|M|True
+1205|RAMEY|Barely.|speech|RAMEY|M|True
 1206|MEDIC|"We'll be giving him a hypo for the
 pain.  It'll put him out for a
-while."|speech|MEDIC|M
+while."|speech|MEDIC|M|True
 1207||"Kelly is now brought over by a female cop.  She drops to her
 knees beside Stu and tries to embrace him.  The medics
-restrain her."|stage direction||
-1208|STU|It's okay.  I'm not really shot.|speech|STU|M
-1209|KELLY|I was so afraid.  I thought...|speech|KELLY|F
+restrain her."|stage direction|||
+1208|STU|It's okay.  I'm not really shot.|speech|STU|M|True
+1209|KELLY|I was so afraid.  I thought...|speech|KELLY|F|True
 1210|STU|"I thought so, too.  But we're going
-to be alright.  Both of us."|speech|STU|M
+to be alright.  Both of us."|speech|STU|M|True
 1211|KELLY|"Remember how you swore up and down
 you'd get me on TV?  Well, you did.
 I already got interviewed on Fox
 and Channel Eleven and they even
 want me on A.M. America tomorrow
-morning."|speech|KELLY|F
+morning."|speech|KELLY|F|True
 1212|STU|"Bet you didn't think I could
-deliver on that."|speech|STU|M
+deliver on that."|speech|STU|M|True
 1213|MEDIC|"Will you please let go of him,
-Miss?"|speech|MEDIC|M
+Miss?"|speech|MEDIC|M|True
 1214||"A gurney is wheeled over from a police ambulance.  The medic
-is about to administer the hypo but Stu pushes him away."|stage direction||
+is about to administer the hypo but Stu pushes him away."|stage direction|||
 1215|STU|"No.  No hypo.  I want to see him
-first."|speech|STU|M
+first."|speech|STU|M|True
 1216||"The medics are now ready to lift Stu onto the gurney and cart
-him off.  But Stu struggles against them."|stage direction||
-1217|RAMEY|Relax.  The guy's dying.|speech|RAMEY|M
+him off.  But Stu struggles against them."|stage direction|||
+1217|RAMEY|Relax.  The guy's dying.|speech|RAMEY|M|True
 1218|STU|"That's why I've gotta talk to him.
-Please!"|speech|STU|M
-1219|RAMEY|We'll see.|speech|RAMEY|M
-1220||(to Kelly)|location||
+Please!"|speech|STU|M|True
+1219|RAMEY|We'll see.|speech|RAMEY|M|True
+1220||(to Kelly)|location|||
 1221|MEDIC|"You can ride with him in the
-ambulance."|speech|MEDIC|M
+ambulance."|speech|MEDIC|M|True
 1222||"The woman cop escorts Kelly to the waiting ambulance.
 Ramey meanwhile tries to resume contact with the SWAT team
-inside the hotel."|stage direction||
+inside the hotel."|stage direction|||
 1223|RAMEY|"This is Ramey.  Over.  This is
-Ramey.  Ten-Four."|speech|RAMEY|M
+Ramey.  Ten-Four."|speech|RAMEY|M|True
 1224||"There's nothing but static, mixed up feedback and multiple
-garbled voices on the other end of the line."|stage direction||
+garbled voices on the other end of the line."|stage direction|||
 1225|RAMEY|"Shit.  Get everybody off this
-wavelength."|speech|RAMEY|M
+wavelength."|speech|RAMEY|M|True
 1226||"He crosses back to the phone booth -- picks up the dangling
-receiver."|stage direction||
+receiver."|stage direction|||
 1227|RAMEY|"Hello.  Hello!  Pick up!  Yeah,
 it's Ramey again.  Can you hold the
 phone close enough so the perp can
-listen?"|speech|RAMEY|M
-1228|COP'S VOICE|He's not saying a word, Captain.|speech|COP'S VOICE|?
+listen?"|speech|RAMEY|M|True
+1228|COP'S VOICE|He's not saying a word, Captain.|speech|COP'S VOICE|?|
 1229|RAMEY|"He's not about to talk to us.
-Maybe to him."|speech|RAMEY|M
+Maybe to him."|speech|RAMEY|M|True
 1230||"Ramey looks back to where the medics are still trying to lift
-Stu onto the gurney."|stage direction||
-1231|RAMEY|Forget that.  Stand him up.|speech|RAMEY|M
-1232||(to Stu)|location||
-1233|RAMEY|Can you stand?|speech|RAMEY|M
-1234|STU|I can try.|speech|STU|M
-1235|RAMEY|Help him over here.|speech|RAMEY|M
+Stu onto the gurney."|stage direction|||
+1231|RAMEY|Forget that.  Stand him up.|speech|RAMEY|M|True
+1232||(to Stu)|location|||
+1233|RAMEY|Can you stand?|speech|RAMEY|M|True
+1234|STU|I can try.|speech|STU|M|True
+1235|RAMEY|Help him over here.|speech|RAMEY|M|True
 1236||"The medics support Stu and inch him back to the booth.  It's
 painful, but Stu ignores it.
-Ramey holds the phone up so Stu can both listen and speak."|stage direction||
-1237|RAMEY|Here.  Speak up.|speech|RAMEY|M
-1238||(into pay phone)|location||
+Ramey holds the phone up so Stu can both listen and speak."|stage direction|||
+1237|RAMEY|Here.  Speak up.|speech|RAMEY|M|True
+1238||(into pay phone)|location|||
 1239|STU|"It's me.  Do you hear me?  Answer
-me."|speech|STU|M
-1240||(wheezing)|location||
-1241|VOICE|Had to have the last word, Stu.|speech|VOICE|M
+me."|speech|STU|M|True
+1240||(wheezing)|location|||
+1241|VOICE|Had to have the last word, Stu.|speech|VOICE|M|True
 1242|STU|"I finally beat your ass.  Admit it,
-you fuck."|speech|STU|M
+you fuck."|speech|STU|M|True
 1243|VOICE|"But you'll never forget me.  I gave
 you the most thrilling day of your
-life.  Say thanks."|speech|VOICE|M
-1244|STU|Now you're gonna die, you bastard.|speech|STU|M
+life.  Say thanks."|speech|VOICE|M|True
+1244|STU|Now you're gonna die, you bastard.|speech|STU|M|True
 1245|VOICE|"I lost a lot of blood.  Don't you
 want to donate some for me?  Then
-we'd really be part of each other."|speech|VOICE|M
+we'd really be part of each other."|speech|VOICE|M|True
 1246|STU|"Hang on.  I can't wait to see you
 at the hospital.  So I can yank
-your fucking air tube out."|speech|STU|M
+your fucking air tube out."|speech|STU|M|True
 1247|VOICE|"Wish I could give you that
-pleasure.  You deserve it."|speech|VOICE|M
-1248||(coughing)|location||
-1249|VOICE|... Only I'm out of time.|speech|VOICE|M
+pleasure.  You deserve it."|speech|VOICE|M|True
+1248||(coughing)|location|||
+1249|VOICE|... Only I'm out of time.|speech|VOICE|M|True
 1250|STU|"What's your name?  At least tell me
-who you are."|speech|STU|M
+who you are."|speech|STU|M|True
 1251||"There's more violent coughing, then silence.  Then a cop's
-voice is heard."|stage direction||
-1252|COP'S VOICE|He's gone.|speech|COP'S VOICE|?
-1253||Stu stares at the receiver.|stage direction||
+voice is heard."|stage direction|||
+1252|COP'S VOICE|He's gone.|speech|COP'S VOICE|?|
+1253||Stu stares at the receiver.|stage direction|||
 1254|RAMEY|"Don't worry.  We'll find out who he
-is.  And why he picked you."|speech|RAMEY|M
-1255|STU|No.  You won't.|speech|STU|M
-1256||(a beat)|location||
-1257|STU|What do you want to bet you won't?|speech|STU|M
-1258||Stu reaches over and hangs up the receiver.  CLICK.|stage direction||
+is.  And why he picked you."|speech|RAMEY|M|True
+1255|STU|No.  You won't.|speech|STU|M|True
+1256||(a beat)|location|||
+1257|STU|What do you want to bet you won't?|speech|STU|M|True
+1258||Stu reaches over and hangs up the receiver.  CLICK.|stage direction|||
 1259|STU|"I'll spend my whole life trying to
-figure that out."|speech|STU|M
+figure that out."|speech|STU|M|True
 1260||"Then he sinks into the arms of the medics who lower him onto
 the waiting gurney.
 The hypo is finally administered.  It kicks in immediately,
@@ -2897,6 +2897,6 @@ STU'S POV - BEING WHEELED AWAY FROM THE EMPTY BOOTH
 pulling away in LOW ANGLE.
 CAMERA SLIDES BACK inside the ambulance with Stu.  The doors
 shut, obliterating our view of the phone booth that was his
-entire world until moments ago."|stage direction||
-1261||(groggy)|location||
-1262|STU|Gotta sleep now.  No phone calls...|speech|STU|M
+entire world until moments ago."|stage direction|||
+1261||(groggy)|location|||
+1262|STU|Gotta sleep now.  No phone calls...|speech|STU|M|True

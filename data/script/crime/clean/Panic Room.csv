@@ -1,17 +1,17 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"PANIC ROOM
 by
 David Koepp
-February 23, 2000"|unknown||
-1||FADE IN:|stage direction||
-2||EXT.  MANHATTAN - DAY|location||
-3||The whole island, from the south.  For a second.  Literally.|stage direction||
-4||EXT.  NEW YORK SKYLINE - DAY|location||
-5||Closer, just the skyline.  For another second.|stage direction||
-6||EXT.  UPPER WEST SIDE - DAY|location||
+February 23, 2000"|unknown|||
+1||FADE IN:|stage direction|||
+2||EXT.  MANHATTAN - DAY|location|||
+3||The whole island, from the south.  For a second.  Literally.|stage direction|||
+4||EXT.  NEW YORK SKYLINE - DAY|location|||
+5||Closer, just the skyline.  For another second.|stage direction|||
+6||EXT.  UPPER WEST SIDE - DAY|location|||
 7||"Closer still, the Upper West Side.  For another second.  No
-time to waste admiring the scenery."|stage direction||
-8||EXT.  WEST 83RD STREET - DAY|location||
+time to waste admiring the scenery."|stage direction|||
+8||EXT.  WEST 83RD STREET - DAY|location|||
 9||"Race across a field of PEDESTRIANS to pick up three women
 hurrying down the sidewalk.  LYDIA LYNCH, a real estate
 broker, vaults down the sidewalk, she's got a hell of a
@@ -20,63 +20,63 @@ her, she's tall, wafer-thin, pale as a ghost.  SARAH, a nine
 year old girl, flat out runs to keep up, dribbling a
 basketball as she goes.  The kid's athletic, much tougher
 than Meg, who she resembles.
-Lydia reads from a sheet she carries in her bouncing hands."|stage direction||
+Lydia reads from a sheet she carries in her bouncing hands."|stage direction|||
 10|LYDIA|"-- seventeen feet wide, fifty-five
 feet deep, forty-two hundred square
 feet, four floors with a rentable
 basement apartment, so five
-altogether, courtyard in back --"|speech|LYDIA|F
-11|MEG|Could you slow down a little?|speech|MEG|F
-12||(looking back over her|location||
-13||shoulder)|unknown||
-14|MEG|Or we could wait for the car...|speech|MEG|F
-15|LYDIA|No cars.  Feet are faster.|speech|LYDIA|F
-16|MEG|How many more do we have after this?|speech|MEG|F
+altogether, courtyard in back --"|speech|LYDIA|F|True
+11|MEG|Could you slow down a little?|speech|MEG|F|True
+12||(looking back over her|location|||
+13||shoulder)|unknown|||
+14|MEG|Or we could wait for the car...|speech|MEG|F|True
+15|LYDIA|No cars.  Feet are faster.|speech|LYDIA|F|True
+16|MEG|How many more do we have after this?|speech|MEG|F|True
 17|LYDIA|"None, there's nothing else, you know
-how tight the market is."|speech|LYDIA|F
+how tight the market is."|speech|LYDIA|F|True
 18|MEG|"This is it?  I told you on the
 phone, I have to be moved in in two
 weeks.  Sarah, please don't bounce
-that here."|speech|MEG|F
-19|SARAH|Mom, it's the sidewalk.|speech|SARAH|F
+that here."|speech|MEG|F|True
+19|SARAH|Mom, it's the sidewalk.|speech|SARAH|F|True
 20|LYDIA|"Oh, that miserable little prick is
-already leaving."|speech|LYDIA|F
+already leaving."|speech|LYDIA|F|True
 21||"They approach a row of brownstones, narrow four story
 townhouses, nice looking buildings, a hundred years old or
 more.  EVAN, a sour-looking man, has just locked the front
 door of number 26 and is coming down the steps.  He sees them
-coming."|stage direction||
+coming."|stage direction|||
 22|EVAN|"One day you will learn to respect
 other people's time, Lydia, one day
-you --"|speech|EVAN|M
+you --"|speech|EVAN|M|True
 23|LYDIA|"Evan, I am so sorry, you were a
-saint to wait for us!"|speech|LYDIA|F
-24||CUT TO:|unknown||
-25||INT.  TOWNHOUSE - FOYER - DAY|location||
+saint to wait for us!"|speech|LYDIA|F|True
+24||CUT TO:|unknown|||
+25||INT.  TOWNHOUSE - FOYER - DAY|location|||
 26||"Evan throws open the front door, revealing the airy foyer of
 the townhouse.  The place is completely empty.  He talks
 fast, races through the tour.  The three of them come in,
-Sarah still bouncing her basketball."|stage direction||
+Sarah still bouncing her basketball."|stage direction|||
 27|EVAN|"This is the middle of the house, the
 entry floor, living room's over
 there.  The kitchen floor's below us
 and there's two bedroom floors
-above."|speech|EVAN|M
+above."|speech|EVAN|M|True
 28||"The front door closes behind them, with a THUD so
 authoritative it seems to say no one's ever getting out.  Meg
 tries to get her daughter's attention, to tell her to stop
-bouncing the ball in the house."|stage direction||
+bouncing the ball in the house."|stage direction|||
 29|EVAN|"It's an enormous amount of space for
 the money and I'll be perfectly
 honest, the family is in no hurry
-whatsoever."|speech|EVAN|M
+whatsoever."|speech|EVAN|M|True
 30||"Meg whispers Sarah's name, but Sarah still ignores her, goes
-on bouncing the ball."|stage direction||
+on bouncing the ball."|stage direction|||
 31|EVAN|"I don't have to tell you there is an
 acute shortage of living space in
 Manhattan right now and this is a
-highly unique property."|speech|EVAN|M
-32|LYDIA|No ball, kid.|speech|LYDIA|F
+highly unique property."|speech|EVAN|M|True
+32|LYDIA|No ball, kid.|speech|LYDIA|F|True
 33||"Sarah immediately stops bouncing.  She wanders into the
 living room, peers through the big French doors, which look
 out over the courtyard area.  There's another row of
@@ -87,116 +87,116 @@ window.  There is a profound melancholy about her.  Meg
 watches her, tries to catch eyes with her in the reflection.
 Can't.
 Evan flings open the door of an old-fashioned cage-style
-elevator."|stage direction||
+elevator."|stage direction|||
 34|EVAN|"Working elevator.  Mr. Pearlstine,
 the previous owner, was disabled the
 last ten years of his life.  Highly
 unusual, the elevator, you will not
 find this in ninety percent of
-brownstones."|speech|EVAN|M
+brownstones."|speech|EVAN|M|True
 35|MEG|"Will they take asking price?  I need
 a two week escrow and I'm already
-approved for the loan."|speech|MEG|F
-36||"Lydia turns, gives Meg an ""are you insane?"" look."|stage direction||
+approved for the loan."|speech|MEG|F|True
+36||"Lydia turns, gives Meg an ""are you insane?"" look."|stage direction|||
 37|EVAN|"What say we see the house before we
-dicker, hmm?"|speech|EVAN|M
-38||(starting up the stairs)|location||
+dicker, hmm?"|speech|EVAN|M|True
+38||(starting up the stairs)|location|||
 39|EVAN|"I have to warn you, this is exactly
 the response we expected to get.
-It's a very emotional property."|speech|EVAN|M
+It's a very emotional property."|speech|EVAN|M|True
 40||"As he disappears upstairs, Lydia turns to Meg, lowers her
-voice."|stage direction||
-41|LYDIA|Who taught you to negotiate?|speech|LYDIA|F
+voice."|stage direction|||
+41|LYDIA|Who taught you to negotiate?|speech|LYDIA|F|True
 42|SARAH|"It's not like Saks', Mom, you don't
-have to pay the price on the tag."|speech|SARAH|F
+have to pay the price on the tag."|speech|SARAH|F|True
 43||"She gets in the elevator and RATTLES the door shut with a
 bang.  That kid's got an attitude.  Meg takes a deep breath,
 turns to Lydia.  She brushes her hair behind an ear, we
-notice her thin hand is shaking."|stage direction||
+notice her thin hand is shaking."|stage direction|||
 44|MEG|"I'm sorry.  Apartments, and...
 money, and... this is more my
-husband's area."|speech|MEG|F
+husband's area."|speech|MEG|F|True
 45||"She digs in her purse for a prescription pill bottle and some
-water."|stage direction||
+water."|stage direction|||
 46|MEG|"Was.  His area.  I'm not very good
-at..."|speech|MEG|F
+at..."|speech|MEG|F|True
 47||"Lydia watches as she swallows a pill, waiting for Meg to
-finish her sentence.  Not very good at what?"|stage direction||
+finish her sentence.  Not very good at what?"|stage direction|||
 48|MEG|"Things, and if I can't prove to my
 soon to-be ex-husband that I can
 provide a suitable place for our
 daughter to live in the next
 fourteen days, it's going to get
-ugly between us.  Uglier."|speech|MEG|F
+ugly between us.  Uglier."|speech|MEG|F|True
 49||"Lydia just looks at her, no idea what to say.  These two are
-from different places."|stage direction||
-50||(from upstairs)|location||
+from different places."|stage direction|||
+50||(from upstairs)|location|||
 51|EVAN (O.S.)|"It would be so lovely if I could
-shot the property before I leave!"|speech|EVAN|M
-52||CUT TO:|unknown||
-53||INT.  TOP FLOOR BEDROOM - DAY|location||
+shot the property before I leave!"|speech|EVAN|M|True
+52||CUT TO:|unknown|||
+53||INT.  TOP FLOOR BEDROOM - DAY|location|||
 54||"Evan, Lydia, and Meg poke their heads in a series of rooms,
 one after the other, the tour flying by quickly.  First, an
-upstairs bedroom.  Nice, roomy, looks out on the courtyard."|stage direction||
+upstairs bedroom.  Nice, roomy, looks out on the courtyard."|stage direction|||
 55|EVAN|"Top floor.  Two bedrooms, one
-bathroom."|speech|EVAN|M
-56||INT.  DEN - DAY|location||
-57||Another floor, another empty room.  The trio passes through.|stage direction||
+bathroom."|speech|EVAN|M|True
+56||INT.  DEN - DAY|location|||
+57||Another floor, another empty room.  The trio passes through.|stage direction|||
 58|EVAN|"Third floor, spare bedroom, den,
 what have you.  Mr. Pearlstine used
-it as an office."|speech|EVAN|M
-59||(low voice, to Meg)|location||
+it as an office."|speech|EVAN|M|True
+59||(low voice, to Meg)|location|||
 60|LYDIA|"He's talking about Bernard
-Pearlstine."|speech|LYDIA|F
-61||Meg shrugs, who's that?|stage direction||
-62||(moving, through a|location||
-63||bathroom)|unknown||
-64|EVAN|Master bath.|speech|EVAN|M
+Pearlstine."|speech|LYDIA|F|True
+61||Meg shrugs, who's that?|stage direction|||
+62||(moving, through a|location|||
+63||bathroom)|unknown|||
+64|EVAN|Master bath.|speech|EVAN|M|True
 65|LYDIA|"The hotel guy?  It's been in the
 papers lately.  His kids are all
 suing each other over his estate.
 He was a total recluse, paranoid,
 rich as hell, he was worth thirty
 million or something, now it turns
-out they can't find half of it."|speech|LYDIA|F
-66||(singsong)|location||
+out they can't find half of it."|speech|LYDIA|F|True
+66||(singsong)|location|||
 67|LYDIA|"Somebody took something didn't
-belong to them!"|speech|LYDIA|F
+belong to them!"|speech|LYDIA|F|True
 68|EVAN|"I hardly see how family gossip is
-germane to showing the property."|speech|EVAN|M
-69||(low, to Meg)|location||
+germane to showing the property."|speech|EVAN|M|True
+69||(low, to Meg)|location|||
 70|LYDIA|"Stop calling it the property, you
-sound ridiculous."|speech|LYDIA|F
-71||(through a closet)|location||
-72|EVAN|Master closet.|speech|EVAN|M
+sound ridiculous."|speech|LYDIA|F|True
+71||(through a closet)|location|||
+72|EVAN|Master closet.|speech|EVAN|M|True
 73||"From the hallway, there is a GROANING METALLIC sound, the
 elevator, and the happy laughter of the little girl as she
 puts it through its paces.  Evan winces, speaks as if his
-mouth hurts when he moves it."|stage direction||
-74|EVAN|Could the child please stop that?|speech|EVAN|M
-75|LYDIA|KID!  NO ELEVATOR!|speech|LYDIA|F
-76||She looks at Meg and winks.|stage direction||
-77||INT.  MASTER BEDROOM - DAY|location||
-78|EVAN|And we emerge in the master bedroom.|speech|EVAN|M
+mouth hurts when he moves it."|stage direction|||
+74|EVAN|Could the child please stop that?|speech|EVAN|M|True
+75|LYDIA|KID!  NO ELEVATOR!|speech|LYDIA|F|True
+76||She looks at Meg and winks.|stage direction|||
+77||INT.  MASTER BEDROOM - DAY|location|||
+78|EVAN|And we emerge in the master bedroom.|speech|EVAN|M|True
 79||"He checks his watch.
 Meg looks around, studying the dimensions of the room.  She
 looks at the far wall, the one that borders the house next
 door.  She looks at the wall that corners it, opposite the
-window wall.  She takes two steps back from it."|stage direction||
-80|MEG|Something's weird.|speech|MEG|F
-81|LYDIA|What?|speech|LYDIA|F
+window wall.  She takes two steps back from it."|stage direction|||
+80|MEG|Something's weird.|speech|MEG|F|True
+81|LYDIA|What?|speech|LYDIA|F|True
 82|MEG|"I don't know, doesn't that corner
-seem funny to you?"|speech|MEG|F
+seem funny to you?"|speech|MEG|F|True
 83||"She points to the far end of the wall, near the entrance to
 the closet.  There is a mirrored door that leads to the
 closet, and a mirror on the wall alongside it.  If you look
 closely, you'll see that the mirrors are raked slightly
 toward one another, which causes an optical illusion in which
 the corner of the room appears much closer to the door than
-it is."|stage direction||
+it is."|stage direction|||
 84|EVAN|"I was waiting to see if you'd
 notice!  On caravan, no one from our
-office had the slightest idea."|speech|EVAN|M
+office had the slightest idea."|speech|EVAN|M|True
 85||"He pushes on the top of the mirror on the wall.  It makes a
 faint CLICK, then glides open a few inches off the wall.  He
 pulls it toward him, opens it all the way, a hundred eighty
@@ -206,28 +206,28 @@ closely, there is a faint vertical crack in the wall.
 Meg looks at him -- what in the world?  Even pushes again,
 twice this time, first at the top, then at the bottom, and
 the smooth wall CLICKS ajar.  He pulls it wide open.  Meg and
-Lydia step forward, fascinated."|stage direction||
-86||INT.  PANIC ROOM - DAY|location||
+Lydia step forward, fascinated."|stage direction|||
+86||INT.  PANIC ROOM - DAY|location|||
 87||"From the opposite end of a lone, narrow, windowless space, we
 see the three of them standing in the open doorway,
 silhouetted by the sunlight streaming through the bedroom
-windows behind them."|stage direction||
-88|EVAN|It's called a panic room.|speech|EVAN|M
-89||He hits a switch and a row of bulbs flick on overhead.|stage direction||
-90|MEG|A what?|speech|MEG|F
+windows behind them."|stage direction|||
+88|EVAN|It's called a panic room.|speech|EVAN|M|True
+89||He hits a switch and a row of bulbs flick on overhead.|stage direction|||
+90|MEG|A what?|speech|MEG|F|True
 91|EVAN|"A safe room.  An inner sanctum.  A
-castle keep, in medieval times."|speech|EVAN|M
-92|LYDIA|Oh, I've seen these...|speech|LYDIA|F
+castle keep, in medieval times."|speech|EVAN|M|True
+92|LYDIA|Oh, I've seen these...|speech|LYDIA|F|True
 93|EVAN|"It's quite in vogue in high end
 construction right now.  One really
 can't be too careful about home
-invasion."|speech|EVAN|M
+invasion."|speech|EVAN|M|True
 94||"The other two walk inside, but Meg lingers near the door,
 looking around, studying the neatly arrayed survival supplies
 -- water, food packs, batteries, flashlights, tools, rope,
-clothes, blankets -- you get the idea."|stage direction||
-95|LYDIA|Hey, this is perfect for you...|speech|LYDIA|F
-96||(Meg scoffs)|location||
+clothes, blankets -- you get the idea."|stage direction|||
+95|LYDIA|Hey, this is perfect for you...|speech|LYDIA|F|True
+96||(Meg scoffs)|location|||
 97|LYDIA|"Absolutely!  You're a woman, you're
 living alone now.  Your alarm goes
 off, or you head glass break, or for
@@ -238,7 +238,7 @@ do?  Call the police and wait until
 they get here on Tuesday?  Traipse
 downstairs in your sexy little
 underthings and check it out?  I
-think not!"|speech|LYDIA|F
+think not!"|speech|LYDIA|F|True
 98|EVAN|"Reinforced steel core walls.  Buried
 phone line, completely separate, not
 connected to the house's main line
@@ -250,66 +250,66 @@ Your own ventilation system,
 complete with oxygen scrubber, so
 you've got plenty of fresh air for
 as long as you like.  And a bank of
-video monitors --"|speech|EVAN|M
+video monitors --"|speech|EVAN|M|True
 99||"He hits a switch next to a dozen tiny video monitors,
-revealing a dozen different views of the house."|stage direction||
+revealing a dozen different views of the house."|stage direction|||
 100|EVAN|"-- covering almost every corner of
-the house."|speech|EVAN|M
-101||Meg nods, starting to sweat.|stage direction||
-102|MEG|Makes me nervous.|speech|MEG|F
-103|LYDIA|Why?|speech|LYDIA|F
-104|MEG|Ever read any Poe?|speech|MEG|F
+the house."|speech|EVAN|M|True
+101||Meg nods, starting to sweat.|stage direction|||
+102|MEG|Makes me nervous.|speech|MEG|F|True
+103|LYDIA|Why?|speech|LYDIA|F|True
+104|MEG|Ever read any Poe?|speech|MEG|F|True
 105|LYDIA|"I don't think so, but I love her
-album."|speech|LYDIA|F
-106|MEG|No, Edgar Allen.|speech|MEG|F
-107||(thinks)|location||
-108|LYDIA|The furniture guy?|speech|LYDIA|F
-109||(giving up)|location||
+album."|speech|LYDIA|F|True
+106|MEG|No, Edgar Allen.|speech|MEG|F|True
+107||(thinks)|location|||
+108|LYDIA|The furniture guy?|speech|LYDIA|F|True
+109||(giving up)|location|||
 110|MEG|"What's to keep them from prying open
-the door?"|speech|MEG|F
+the door?"|speech|MEG|F|True
 111||"Evan reaches past Meg and pushes a red button on the wall
 behind her.  With a sudden WHANG of steel, a heavy metal door
 leaps out of a slot in the wall and SLAMS shut, like a
 submarine hatch.  A series of metal latches CLICK into place
-inside it, from top to bottom, securing it into place."|stage direction||
-112|EVAN|Steel, four inches thick.|speech|EVAN|M
-113||Meg takes a step back.  They're now enclosed in the room.|stage direction||
+inside it, from top to bottom, securing it into place."|stage direction|||
+112|EVAN|Steel, four inches thick.|speech|EVAN|M|True
+113||Meg takes a step back.  They're now enclosed in the room.|stage direction|||
 114|EVAN|"Everything's spring-loaded, even if
 the power's out it's fully
-functional."|speech|EVAN|M
-115|MEG|Open it.|speech|MEG|F
+functional."|speech|EVAN|M|True
+115|MEG|Open it.|speech|MEG|F|True
 116|LYDIA|"Old Bernie didn't miss a trick with
-this room, did he?"|speech|LYDIA|F
-117|MEG|Open the door.|speech|MEG|F
+this room, did he?"|speech|LYDIA|F|True
+117|MEG|Open the door.|speech|MEG|F|True
 118|LYDIA|"And with kids like he's got, no
-wonder he wanted a place to hide."|speech|LYDIA|F
-119|EVAN|That's highly inappropriate.|speech|EVAN|M
-120|MEG|I said open the door.|speech|MEG|F
+wonder he wanted a place to hide."|speech|LYDIA|F|True
+119|EVAN|That's highly inappropriate.|speech|EVAN|M|True
+120|MEG|I said open the door.|speech|MEG|F|True
 121||"Evan hits a green button and the door GROANS slowly open,
 recoiling its massive spring, and revealing Sarah, the little
-girl, standing in the entryway, grinning widely."|stage direction||
-122|SARAH|My room.  Definitely my room.|speech|SARAH|F
-123||She bolts in, just as her mother bolts out.|stage direction||
-124||INT.  MASTER BEDROOM - DAY|location||
+girl, standing in the entryway, grinning widely."|stage direction|||
+122|SARAH|My room.  Definitely my room.|speech|SARAH|F|True
+123||She bolts in, just as her mother bolts out.|stage direction|||
+124||INT.  MASTER BEDROOM - DAY|location|||
 125||"Meg stands just outside the door to the panic room, regaining
 her composure.  Not crazy about tight spaces.  Which we
-already knew."|stage direction||
-126|LYDIA|That door is a safely hazard.|speech|LYDIA|F
-127|EVAN|Not at all.|speech|EVAN|M
+already knew."|stage direction|||
+126|LYDIA|That door is a safely hazard.|speech|LYDIA|F|True
+127|EVAN|Not at all.|speech|EVAN|M|True
 128||"He points.  There's a tiny red beam that shines across the
-doorway, one at shoulder height --"|stage direction||
+doorway, one at shoulder height --"|stage direction|||
 129|EVAN|"Infrared.  Like the beam in an
 elevator doorway.  Won't let the
 door close if something's blocking
-it."|speech|EVAN|M
+it."|speech|EVAN|M|True
 130||"-- and one at shin height.  Even bend down, blocks the one at
-shin height with his hand."|stage direction||
-131|EVAN|Watch.|speech|EVAN|M
+shin height with his hand."|stage direction|||
+131|EVAN|Watch.|speech|EVAN|M|True
 132||"He reaches up, to push the close button, but with one hand
-anchored at the floor, he can't quite reach it."|stage direction||
-133||(to Lydia)|location||
-134|EVAN|Push that button for me, will you?|speech|EVAN|M
-135|MEG|Don't!|speech|MEG|F
+anchored at the floor, he can't quite reach it."|stage direction|||
+133||(to Lydia)|location|||
+134|EVAN|Push that button for me, will you?|speech|EVAN|M|True
+135|MEG|Don't!|speech|MEG|F|True
 136||"Lydia pushes the close button, nothing happens.  Evan pulls
 his hand put of the beam, takes a step back.  Lydia pushes
 the button again.
@@ -322,37 +322,37 @@ over the hidden door, making the corner of the room look like
 a corner again.
 As the mirrored door closes, it shows Meg her own reflection.
 She looks at herself, still rattled.  She wipes a trickle of
-sweat from the side of her face."|stage direction||
-137||CUT TO:|unknown||
-138||INT.  TOWNHOUSE - FOYER - DAY|location||
+sweat from the side of her face."|stage direction|||
+137||CUT TO:|unknown|||
+138||INT.  TOWNHOUSE - FOYER - DAY|location|||
 139||"The same house, two weeks later.  The entry floor is piled
 high with moving boxes.  Sarah and Meg lie sprawled out in
 the middle of the black and white tile, arms and legs splayed
 wide, exhausted.
-They stare up at the ceiling, beat."|stage direction||
-140|SARAH|Too many stairs.|speech|SARAH|F
-141|MEG|Got us in here, didn't I?|speech|MEG|F
-142|SARAH|Shoulda got an apartment.|speech|SARAH|F
-143|MEG|Well, I know that now.|speech|MEG|F
-144|SARAH|478-0150.|speech|SARAH|F
+They stare up at the ceiling, beat."|stage direction|||
+140|SARAH|Too many stairs.|speech|SARAH|F|True
+141|MEG|Got us in here, didn't I?|speech|MEG|F|True
+142|SARAH|Shoulda got an apartment.|speech|SARAH|F|True
+143|MEG|Well, I know that now.|speech|MEG|F|True
+144|SARAH|478-0150.|speech|SARAH|F|True
 145||"Meg raises her hand to her face, she's got her cell phone in
-her palm."|stage direction||
-146|MEG|Battery's dead.|speech|MEG|F
-147||CUT TO:|unknown||
-148||INT.  KITCHEN - DAY|location||
-149||Meg picks up the wall phone in the kitchen, gets a dial tone.|stage direction||
-150|MEG|The phone works.|speech|MEG|F
-151||(to Sarah)|location||
-152|MEG|Hey, I hooked up the phone.|speech|MEG|F
-153||(sarcastic)|location||
-154|SARAH|The crowd goes wild.|speech|SARAH|F
-155||(ignoring the slight)|location||
-156|MEG|478...|speech|MEG|F
-157|SARAH|0150.|speech|SARAH|F
-158||Meg finishes dialing.  It rings, someone answers.|stage direction||
-159|VOICE|Perry's Pizza, please hold.|speech|VOICE|F
-160||CUT TO:|unknown||
-161||INT.  KITCHEN - NIGHT|location||
+her palm."|stage direction|||
+146|MEG|Battery's dead.|speech|MEG|F|True
+147||CUT TO:|unknown|||
+148||INT.  KITCHEN - DAY|location|||
+149||Meg picks up the wall phone in the kitchen, gets a dial tone.|stage direction|||
+150|MEG|The phone works.|speech|MEG|F|True
+151||(to Sarah)|location|||
+152|MEG|Hey, I hooked up the phone.|speech|MEG|F|True
+153||(sarcastic)|location|||
+154|SARAH|The crowd goes wild.|speech|SARAH|F|True
+155||(ignoring the slight)|location|||
+156|MEG|478...|speech|MEG|F|True
+157|SARAH|0150.|speech|SARAH|F|True
+158||Meg finishes dialing.  It rings, someone answers.|stage direction|||
+159|VOICE|Perry's Pizza, please hold.|speech|VOICE|F|
+160||CUT TO:|unknown|||
+161||INT.  KITCHEN - NIGHT|location|||
 162||"Night has fallen.  Meg and Sarah sit at a small table in the
 middle of the kitchen, surrounded by packing boxes.  They eat
 pizza.  They chew, silently.  Sarah drinks a diet Dr.
@@ -360,22 +360,22 @@ Pepper.  Meg finishes a glass of wine.
 Meg's eyes are moist.  Sarah notices.  She notices her
 noticing, shrugs.  I'm human, what do you want me to do, hide
 it?
-Sarah looks away, goes back to chewing.  After a moment:"|stage direction||
-163|SARAH|Fuck him.|speech|SARAH|F
-164|MEG|Don't.|speech|MEG|F
-165|SARAH|Fuck her too.|speech|SARAH|F
-166||Meg looks at her, not sure how to confront the open defiance.|stage direction||
-167|MEG|I agree.  But don't.|speech|MEG|F
+Sarah looks away, goes back to chewing.  After a moment:"|stage direction|||
+163|SARAH|Fuck him.|speech|SARAH|F|True
+164|MEG|Don't.|speech|MEG|F|True
+165|SARAH|Fuck her too.|speech|SARAH|F|True
+166||Meg looks at her, not sure how to confront the open defiance.|stage direction|||
+167|MEG|I agree.  But don't.|speech|MEG|F|True
 168||"Sarah stares at her for a moment, then goes back to eating.
 Meg picks up the bottle of wine.
 Sarah's eyes flick over and watch as wine GLUGS into her
-mother's glass."|stage direction||
-169||CUT TO:|unknown||
-170||INT.  SARAH'S BEDROOM - NIGHT|location||
+mother's glass."|stage direction|||
+169||CUT TO:|unknown|||
+170||INT.  SARAH'S BEDROOM - NIGHT|location|||
 171||"Sarah's bedroom is full of unpacked boxes, but her twin bed
 has been set up and Sarah is in it, hair wet, pajamas on.
 She reads from a book (""Tom Swift and His Repelatron Skyway"")
-while Meg, drowsy, lies next to her, listening."|stage direction||
+while Meg, drowsy, lies next to her, listening."|stage direction|||
 172|SARAH|"""Tom's throat felt so dry and tight
 that it was a moment before he could
 make any sound come out.  ""Dad!"" He
@@ -386,34 +386,34 @@ the laboratory and switched off the
 repelatron's motor.  ""What happened,
 son?"" ""The Durafoam hardened, Dad.
 Get a solvent, quick -- you know the
-formula!"""|speech|SARAH|F
-173||INT.  BATHROOM - NIGHT|location||
+formula!"""|speech|SARAH|F|True
+173||INT.  BATHROOM - NIGHT|location|||
 174||"In the master bathroom, Meg soaks in a bath.  She is
 exhausted.  She reaches for her wine glass, finishes the last
 of it.
 She stretches for the bottle, which is on the floor next to
-her.  She refills the glass.  Again."|stage direction||
-175||INT.  MASTER BEDROOM - NIGHT|location||
+her.  She refills the glass.  Again."|stage direction|||
+175||INT.  MASTER BEDROOM - NIGHT|location|||
 176||"Meg, dressed in an old Knicks T-shirt and boxer shorts,
 stands next to the alarm panel in the master bedroom, reading
 from an instruction manual.  She's frustrated.  She mutters,
-slurring, a bit drunk."|stage direction||
+slurring, a bit drunk."|stage direction|||
 177|MEG|"Bypass non-ready zones... shunt,
-enter, zone number..."|speech|MEG|F
+enter, zone number..."|speech|MEG|F|True
 178||"She tries it, pushing a few buttons, but the alarm panel
 BEEPS at her disapprovingly.  She's doing something wrong.
 She sighs, sits on the floor, gets serious about figuring out
-the instructions."|stage direction||
+the instructions."|stage direction|||
 179|MEG|"Bypass non-ready zones... ah, shunt,
 enter, shunt again, zone number...
-wait..."|speech|MEG|F
+wait..."|speech|MEG|F|True
 180||"HER FINGERS
 dance over the alarm panel, some time later.  She seems to
 have figured it out, and a small light on the panel lights
 up.
 SYSTEM ARMED
-The very moment the red light goes on, we cut sharply to --"|stage direction||
-181||INT.  PANIC ROOM - NIGHT|location||
+The very moment the red light goes on, we cut sharply to --"|stage direction|||
+181||INT.  PANIC ROOM - NIGHT|location|||
 182||"-- the darkened panic room, where the dozen small video
 screens all suddenly wink to life, showing a dozen views of
 the house.  Whatever she pushed turned these on too, probably
@@ -422,8 +422,8 @@ for the night.
 The door that leads from the panic room to the master bedroom
 hangs open.  In the middle of the floor in here, somebody has
 made a small tent of blankets and couch cushions.  Sarah must
-have been playing here before bed."|stage direction||
-183||INT.  MASTER BEDROOM - NIGHT|location||
+have been playing here before bed."|stage direction|||
+183||INT.  MASTER BEDROOM - NIGHT|location|||
 184||"Meg puts sheets on her bed in the master bedroom.
 She fills a glass of water, puts it on a box she's using for
 a night table.
@@ -435,9 +435,9 @@ She gets in bed, her side, the left side.
 She lies in the dark, half an acre of empty bed across from
 her.
 We drift off her, see the clock again.  The time changes, the
-number one dissolves away, changing the time to --"|stage direction||
-185||DISSOLVE TO:|unknown||
-186||INT.  MASTER BEDROOM - NIGHT|location||
+number one dissolves away, changing the time to --"|stage direction|||
+185||DISSOLVE TO:|unknown|||
+186||INT.  MASTER BEDROOM - NIGHT|location|||
 187||"-- 2:26.  Meg is in a hard, boozy sleep.  We drift out the
 door of the master bedroom, into the third floor hallway, and
 down the open stairwell.  We glide through the entry floor,
@@ -471,8 +471,8 @@ The Man climbs, his feet disappearing from our field of
 vision.
 We turn around, facing the other way in the kitchen.  We
 start back the way we came, through the canyon of boxes in
-the kitchen, toward the stairwell."|stage direction||
-188||INT.  STAIRWELL - NIGHT|location||
+the kitchen, toward the stairwell."|stage direction|||
+188||INT.  STAIRWELL - NIGHT|location|||
 189||"Back in the stairwell, the exact reverse of the shot we saw
 earlier.  We're drifting up, off the kitchen floor, through
 the entry floor, and as we rise we notice something all the
@@ -502,23 +502,23 @@ edges of the portal.
 It slithers along the edge of the hatchway, searching for
 something.  It finds a small round nub in the crack.  The
 silver something stops.  It HUMS with electricity for a
-moment, then there is a bright spark and a soft CRACK."|stage direction||
-190||INT.  MASTER BEDROOM - NIGHT|location||
+moment, then there is a bright spark and a soft CRACK."|stage direction|||
+190||INT.  MASTER BEDROOM - NIGHT|location|||
 191||"In the master bedroom, a message appears on the alarm panel:
-ZONE 19 DISABLED"|stage direction||
-192||INT.  CLOSET - NIGHT|location||
+ZONE 19 DISABLED"|stage direction|||
+192||INT.  CLOSET - NIGHT|location|||
 193||"In the closet, the silver something withdraws and the roof
 access panel is removed.  A million stars are visible in the
 night sky above.  But we're inside.
 And in a moment, so is this intruder.  The Man peers down,
 through the open hatchway, then slips through the opening and
-climbs silently down the ladder."|stage direction||
-194||INT.  MASTER BEDROOM - NIGHT|location||
+climbs silently down the ladder."|stage direction|||
+194||INT.  MASTER BEDROOM - NIGHT|location|||
 195||"In bed, Meg stirs.  An alcohol sleep is a restless one, and
 she's suffering.
 She sits up groggily, chugs a glass of water.  Lies down
-again."|stage direction||
-196||INT.  FOURTH FLOOR HALLWAY - NIGHT|location||
+again."|stage direction|||
+196||INT.  FOURTH FLOOR HALLWAY - NIGHT|location|||
 197||"One floor up, the Man steps into the hallway and starts for
 the stairs, moving quickly and confidently.  Knows where he's
 going, knows what he wants.  He starts down the stairs,
@@ -537,8 +537,8 @@ He takes a step back and a breath.  He turns, looks to the
 end of the hall.  His eyes now adjusted to the darkness, he
 notices something he didn't see before, something coming from
 under the door to the fourth floor bedroom.
-Light.  From inside.  From another nightlight."|stage direction||
-198||INT.  SARAH'S BEDROOM - NIGHT|location||
+Light.  From inside.  From another nightlight."|stage direction|||
+198||INT.  SARAH'S BEDROOM - NIGHT|location|||
 199||"In the top floor bedroom, a nightlight burns in another
 outlet.  Nearby, Sarah is asleep in bed, the covers kicked
 off.
@@ -547,8 +547,8 @@ The Man stands in the doorway, staring, aghast, at the
 mountain of moving boxes piled in the room.  His gaze falls
 on Sarah in the bed.
 The Man just stares, beside himself.  His lips mouth a word,
-soundlessly.  Doesn't take a lip reader to guess it."|stage direction||
-200||INT.  MASTER BEDROOM - NIGHT|location||
+soundlessly.  Doesn't take a lip reader to guess it."|stage direction|||
+200||INT.  MASTER BEDROOM - NIGHT|location|||
 201||"In the master bedroom, Meg flops over in bed, facing away
 from the doorway, really having a rough go of it.  She slept
 too hard before, now she's awake, her head is killing her,
@@ -564,9 +564,9 @@ the doorway to her bedroom.
 Noiselessly, the Man moves away, down the hall.  The moment
 his head disappears down the stairwell --
 -- Meg flops over again, facing the doorway.  She closes her
-eyes, gives sleep another try."|stage direction||
-202||CUT TO:|unknown||
-203||INT.  KITCHEN - NIGHT|location||
+eyes, gives sleep another try."|stage direction|||
+202||CUT TO:|unknown|||
+203||INT.  KITCHEN - NIGHT|location|||
 204||"The Man walks across the kitchen, shaking his head in
 exasperation at the packing boxes all around him.  He goes to
 the front window, peers outside.  He reaches for a light
@@ -592,101 +592,101 @@ looks like gravity does all the work, just pulling him
 forward.  JUNIOR is much smaller, very high-strung, dresses
 like a homey, very street, but can't hide the fact that the
 street is Park Avenue.
-They all freeze, staring at the moving boxes."|stage direction||
-205|JUNIOR|Fuck.|speech|JUNIOR|M
-206|BURNHAM|I know.|speech|BURNHAM|M
-207|RAOUL|What?|speech|RAOUL|M
+They all freeze, staring at the moving boxes."|stage direction|||
+205|JUNIOR|Fuck.|speech|JUNIOR|M|True
+206|BURNHAM|I know.|speech|BURNHAM|M|True
+207|RAOUL|What?|speech|RAOUL|M|True
 208|BURNHAM|"A woman and a little girl, both
-asleep upstairs."|speech|BURNHAM|M
-209|JUNIOR|Fuck!|speech|JUNIOR|M
-210|BURNHAM|Keep your voice down.|speech|BURNHAM|M
-211|JUNIOR|They're not supposed to be here!|speech|JUNIOR|M
-212|BURNHAM|This was your department, Junior.|speech|BURNHAM|M
-213|JUNIOR|They're not supposed to be here!|speech|JUNIOR|M
+asleep upstairs."|speech|BURNHAM|M|True
+209|JUNIOR|Fuck!|speech|JUNIOR|M|True
+210|BURNHAM|Keep your voice down.|speech|BURNHAM|M|True
+211|JUNIOR|They're not supposed to be here!|speech|JUNIOR|M|True
+212|BURNHAM|This was your department, Junior.|speech|BURNHAM|M|True
+213|JUNIOR|They're not supposed to be here!|speech|JUNIOR|M|True
 214|BURNHAM|"That's why the key didn't work, they
-changed the locks."|speech|BURNHAM|M
+changed the locks."|speech|BURNHAM|M|True
 215|JUNIOR|"Fourteen day escrow, man, that's
 almost three weeks!  They shouldn't
 be here for another week!  They
-don't own this house yet!"|speech|JUNIOR|M
-216||(pause)|location||
+don't own this house yet!"|speech|JUNIOR|M|True
+216||(pause)|location|||
 217|BURNHAM|"Exactly how is fourteen days almost
-three weeks?"|speech|BURNHAM|M
+three weeks?"|speech|BURNHAM|M|True
 218|JUNIOR|"Fourteen business days.  Escrow is
-always business days."|speech|JUNIOR|M
-219||Burnham sighs.|stage direction||
-220|JUNIOR|I mean, right?  Isn't it?|speech|JUNIOR|M
-221|BURNHAM|You're an idiot.|speech|BURNHAM|M
+always business days."|speech|JUNIOR|M|True
+219||Burnham sighs.|stage direction|||
+220|JUNIOR|I mean, right?  Isn't it?|speech|JUNIOR|M|True
+221|BURNHAM|You're an idiot.|speech|BURNHAM|M|True
 222||"Raoul steps forward, shoves Burnham with both hands in the
-chest."|stage direction||
-223|RAOUL|Watch your mouth.|speech|RAOUL|M
-224|JUNIOR|It's okay, Raoul.|speech|JUNIOR|M
-225||(to Junior)|location||
-226|BURNHAM|Who is this guy?|speech|BURNHAM|M
+chest."|stage direction|||
+223|RAOUL|Watch your mouth.|speech|RAOUL|M|True
+224|JUNIOR|It's okay, Raoul.|speech|JUNIOR|M|True
+225||(to Junior)|location|||
+226|BURNHAM|Who is this guy?|speech|BURNHAM|M|True
 227|JUNIOR|"Raoul is cool.  That's all you need
-to know."|speech|JUNIOR|M
-228|BURNHAM|This is insane.  I'm outta here.|speech|BURNHAM|M
-229||He starts for the door.|stage direction||
+to know."|speech|JUNIOR|M|True
+228|BURNHAM|This is insane.  I'm outta here.|speech|BURNHAM|M|True
+229||He starts for the door.|stage direction|||
 230|JUNIOR|"Wait a minute, wait a minute.  We
-can still handle this."|speech|JUNIOR|M
-231||(to Raoul)|location||
-232|JUNIOR|Can we still handle this?|speech|JUNIOR|M
-233|RAOUL|It's just the woman and the kid?|speech|RAOUL|M
-234|BURNHAM|Unless Daddy comes back later.|speech|BURNHAM|M
+can still handle this."|speech|JUNIOR|M|True
+231||(to Raoul)|location|||
+232|JUNIOR|Can we still handle this?|speech|JUNIOR|M|True
+233|RAOUL|It's just the woman and the kid?|speech|RAOUL|M|True
+234|BURNHAM|Unless Daddy comes back later.|speech|BURNHAM|M|True
 235|JUNIOR|"Daddy's not coming back, she's in
 the middle of a divorce, it's just
-the two of them.  We're okay, here."|speech|JUNIOR|M
-236||(to Raoul)|location||
-237|JUNIOR|We can do this, right?|speech|JUNIOR|M
-238|RAOUL|You're fuckin' A we can do this.|speech|RAOUL|M
-239|BURNHAM|Not with me.  Not with people.|speech|BURNHAM|M
+the two of them.  We're okay, here."|speech|JUNIOR|M|True
+236||(to Raoul)|location|||
+237|JUNIOR|We can do this, right?|speech|JUNIOR|M|True
+238|RAOUL|You're fuckin' A we can do this.|speech|RAOUL|M|True
+239|BURNHAM|Not with me.  Not with people.|speech|BURNHAM|M|True
 240|JUNIOR|"Forty-five minutes.  That's all you
-said you need.  That's like nothing."|speech|JUNIOR|M
+said you need.  That's like nothing."|speech|JUNIOR|M|True
 241|BURNHAM|"She'll call the cops, they'll be
-here before I get unpacked."|speech|BURNHAM|M
+here before I get unpacked."|speech|BURNHAM|M|True
 242|JUNIOR|"So we keep an eye on her.  Raoul can
-totally administrate that part."|speech|JUNIOR|M
-243|RAOUL|No problem.|speech|RAOUL|M
+totally administrate that part."|speech|JUNIOR|M|True
+243|RAOUL|No problem.|speech|RAOUL|M|True
 244|BURNHAM|"I don't want Raoul to administrate
-that part."|speech|BURNHAM|M
-245|JUNIOR|They won't get hurt.|speech|JUNIOR|M
+that part."|speech|BURNHAM|M|True
+245|JUNIOR|They won't get hurt.|speech|JUNIOR|M|True
 246|BURNHAM|"What about us?  What if she has a
-gun?"|speech|BURNHAM|M
+gun?"|speech|BURNHAM|M|True
 247|JUNIOR|"Raoul, what in God's name do we do
-if she has a gun?"|speech|JUNIOR|M
+if she has a gun?"|speech|JUNIOR|M|True
 248||"Raoul pulls up his sweatshirt, revealing a .38 tucked into
-his belt."|stage direction||
-249|BURNHAM|Asshole.|speech|BURNHAM|M
+his belt."|stage direction|||
+249|BURNHAM|Asshole.|speech|BURNHAM|M|True
 250|JUNIOR|"A guy shows you a gun, Burnham, and
 you insult him?  Hey, who's the
-idiot?  Huh?"|speech|JUNIOR|M
-251|BURNHAM|Where did you get this clown?|speech|BURNHAM|M
+idiot?  Huh?"|speech|JUNIOR|M|True
+251|BURNHAM|Where did you get this clown?|speech|BURNHAM|M|True
 252|JUNIOR|"I met him at the tables, same as
 you.  And frankly, I'm grateful we
 have a little muscle right about
-now."|speech|JUNIOR|M
+now."|speech|JUNIOR|M|True
 253|BURNHAM|"What tables?  I've never seen him
-before."|speech|BURNHAM|M
-254|JUNIOR|Different tables.|speech|JUNIOR|M
-255||(to Raoul)|location||
-256|BURNHAM|The fuck did you bring a gun for?|speech|BURNHAM|M
-257|RAOUL|You're welcome.|speech|RAOUL|M
-258|BURNHAM|Peace out.|speech|BURNHAM|M
+before."|speech|BURNHAM|M|True
+254|JUNIOR|Different tables.|speech|JUNIOR|M|True
+255||(to Raoul)|location|||
+256|BURNHAM|The fuck did you bring a gun for?|speech|BURNHAM|M|True
+257|RAOUL|You're welcome.|speech|RAOUL|M|True
+258|BURNHAM|Peace out.|speech|BURNHAM|M|True
 259||"He moves for the door.  Junior, trying desperately to hold
 this together, gets there first, blocks the door with his
-back."|stage direction||
-260|JUNIOR|We can't do it without you, Burnham.|speech|JUNIOR|M
-261||Junior starts at Burnham.  Raoul stares at Burnham.|stage direction||
+back."|stage direction|||
+260|JUNIOR|We can't do it without you, Burnham.|speech|JUNIOR|M|True
+261||Junior starts at Burnham.  Raoul stares at Burnham.|stage direction|||
 262|JUNIOR|"It's still a good plan.  It's
-just... got a twist."|speech|JUNIOR|M
-263|BURNHAM|Yeah.  Kidnapping.|speech|BURNHAM|M
+just... got a twist."|speech|JUNIOR|M|True
+263|BURNHAM|Yeah.  Kidnapping.|speech|BURNHAM|M|True
 264|JUNIOR|"Not if we keep 'em here.  You can't
 kidnap somebody in their own house.
 It's just breaking and entering,
 unless we take 'em someplace.  Or
 something like that, I'm pretty
-sure."|speech|JUNIOR|M
-265|BURNHAM|Pure idiot.|speech|BURNHAM|M
+sure."|speech|JUNIOR|M|True
+265|BURNHAM|Pure idiot.|speech|BURNHAM|M|True
 266|JUNIOR|"I am.  I'm an idiot's son.  An
 idiot's grandson.  I'm third-
 generation idiot.  But for once in
@@ -696,24 +696,24 @@ Are you actually telling me that for
 the first time in your life you're
 gonna throw your cards on the table
 and go home early?  I can't believe
-my eyes."|speech|JUNIOR|M
-267||(Burnham hesitates)|location||
+my eyes."|speech|JUNIOR|M|True
+267||(Burnham hesitates)|location|||
 268|JUNIOR|"Fourteen million dollars upstairs,
 Burnham.  You'll be out of the hole.
 Baby, you'll be so far out of the
 hole you could draw bricks every
 night for the next twenty years and
-still shit green."|speech|JUNIOR|M
-269||(Burnham sways)|location||
-270|JUNIOR|Come on, Buddy.  One more hand.|speech|JUNIOR|M
-271||CUT TO:|unknown||
-272||INT.  MASTER BEDROOM - NIGHT|location||
+still shit green."|speech|JUNIOR|M|True
+269||(Burnham sways)|location|||
+270|JUNIOR|Come on, Buddy.  One more hand.|speech|JUNIOR|M|True
+271||CUT TO:|unknown|||
+272||INT.  MASTER BEDROOM - NIGHT|location|||
 273||"Meg sits up in bed.  She's bleary, her head feels like
 someone rested a manhole cover on it.  She gets up, in the
 dark, and staggers off toward the bathroom door, feeling her
 way with her arms, her eyes not adjusted to the dark.
-She steps through the door."|stage direction||
-274||INT.  PANIC ROOM - NIGHT|location||
+She steps through the door."|stage direction|||
+274||INT.  PANIC ROOM - NIGHT|location|||
 275||"She walks into the bathroom and feels around for a light
 switch, but can't find it.  She blinks, squints, tries to get
 her bearings.  The only light is a harsh white glow that
@@ -728,23 +728,23 @@ We linger for a look at the video screens.  If only she'd
 done the same, she'd see what we see.
 ON THE MONITORS,
 we see the three men, still in the kitchen, huddled in a
-group, silently debating what to do."|stage direction||
-276||INT.  MASTER BEDROOM - NIGHT|location||
+group, silently debating what to do."|stage direction|||
+276||INT.  MASTER BEDROOM - NIGHT|location|||
 277||"Using the light that spills from the open door to the panic
 room, Meg comes back into the master bedroom and finds the
-proper door to the bathroom."|stage direction||
-278||INT.  BATHROOM - NIGHT|location||
+proper door to the bathroom."|stage direction|||
+278||INT.  BATHROOM - NIGHT|location|||
 279||"Meg SNAPS the cap off a jug of Advil and dumps three into her
 palm.  She pops them in her mouth, searches for a glass for
 water, finds none, bends to the spout for a gulp to wash them
 down.
-She turns to the toilet."|stage direction||
-280||INT.  PANIC ROOM - NIGHT|location||
+She turns to the toilet."|stage direction|||
+280||INT.  PANIC ROOM - NIGHT|location|||
 281||"On the monitor, we see the three men leave the kitchen and
-start up the stairs."|stage direction||
-282||INT.  BATHROOM - NIGHT|location||
-283||Meg stands, flushes the toilet.|stage direction||
-284||INT.  LIVING ROOM - NIGHT|location||
+start up the stairs."|stage direction|||
+282||INT.  BATHROOM - NIGHT|location|||
+283||Meg stands, flushes the toilet.|stage direction|||
+284||INT.  LIVING ROOM - NIGHT|location|||
 285||"One floor down, Burnham, Raoul, and Junior freeze, just
 coming up the stairs from the kitchen.  They look up, hearing
 the water rushing through the pipes in the ceiling directly
@@ -754,17 +754,17 @@ pair of feet pad across the CREAKY floor.  Finally, they hear
 a SQUEAK of bedsprings as Meg climbs back into bed.
 They hold a moment longer, a silence grows.  Raoul reaches
 into his jacket pocket and pulls out a ski mask.  He pulls it
-over his head.  They look at him."|stage direction||
-286||(whispers)|location||
-287|RAOUL|No face.|speech|RAOUL|M
+over his head.  They look at him."|stage direction|||
+286||(whispers)|location|||
+287|RAOUL|No face.|speech|RAOUL|M|True
 288||"Burnham rolls his eyes.  Doesn't know this guy much, but
 hates him so far.  They start across the foyer toward the
-stairs."|stage direction||
-289||INT.  MASTER BEDROOM - NIGHT|location||
+stairs."|stage direction|||
+289||INT.  MASTER BEDROOM - NIGHT|location|||
 290||"Meg rolls over, to go back to sleep.  She sees she's left the
 lights on in the panic room.  She TSKS, gets out of bed, and
-walks across the floor toward it."|stage direction||
-291||INT.  PANIC ROOM - NIGHT|location||
+walks across the floor toward it."|stage direction|||
+291||INT.  PANIC ROOM - NIGHT|location|||
 292||"Meg steps into the panic room, raises her hand to the light
 switch --
 -- and stops, her hand frozen in mid-air.  She cocks her
@@ -775,61 +775,61 @@ stealing silently across the foyer.
 This can't be.  These are just pictures, they have no
 relation to reality.  She drops to her knees, her face inches
 from the screens, and reaches out to touch them, as if trying
-to make sure they're really there."|stage direction||
-293||INT.  STAIRWELL - NIGHT|location||
+to make sure they're really there."|stage direction|||
+293||INT.  STAIRWELL - NIGHT|location|||
 294||"They reach the base of the stairs, Junior in the lead.  As he
 reaches a bend at the base of the stairs, he places one foot
 short on an angled step and it slips off.  He trips, falls
-forward."|stage direction||
-295||INT.  PANIC ROOM - NIGHT|location||
+forward."|stage direction|||
+295||INT.  PANIC ROOM - NIGHT|location|||
 296||"Watching the video monitors, Meg stares in horror as the
 image of Junior slipping is verified by the SLAP of his hands
 on the stairs as he catches himself, audible through the open
 door to the panic room.
-She GASPS.  It is real."|stage direction||
-297||INT.  STAIRWELL - NIGHT|location||
+She GASPS.  It is real."|stage direction|||
+297||INT.  STAIRWELL - NIGHT|location|||
 298||"In the living room, Burnham's eyes are wide as saucers,
 staring at Junior as he turns and pulls himself to his feet.
-Junior points at Raoul, speaks in an urgent whisper."|stage direction||
+Junior points at Raoul, speaks in an urgent whisper."|stage direction|||
 299|JUNIOR|"Top floor, get the little girl and
 keep her there.  I'll bring the
-woman up.  Gimme."|speech|JUNIOR|M
-300||He holds out his hand for the gun and Raoul gives it to him.|stage direction||
-301||(points to Burnham)|location||
-302|JUNIOR|Stay here.  Nobody gets past you.|speech|JUNIOR|M
+woman up.  Gimme."|speech|JUNIOR|M|True
+300||He holds out his hand for the gun and Raoul gives it to him.|stage direction|||
+301||(points to Burnham)|location|||
+302|JUNIOR|Stay here.  Nobody gets past you.|speech|JUNIOR|M|True
 303||"He heads for the stairs.  Raoul follows close behind him.
 Burnham stays, reluctant -- what the fuck has he gotten
-himself into?"|stage direction||
-304||INT.  PANIC ROOM - NIGHT|location||
-305||Meg moves.  Leaps to her feet and dashes out of the room.|stage direction||
-306||INT.  MASTER BEDROOM - NIGHT|location||
+himself into?"|stage direction|||
+304||INT.  PANIC ROOM - NIGHT|location|||
+305||Meg moves.  Leaps to her feet and dashes out of the room.|stage direction|||
+306||INT.  MASTER BEDROOM - NIGHT|location|||
 307||"Meg races across her bedroom, flies out the door, and bolts
-up the carpeted stairs, headed for the top floor."|stage direction||
-308||INT.  SARAH'S BEDROOM - NIGHT|location||
+up the carpeted stairs, headed for the top floor."|stage direction|||
+308||INT.  SARAH'S BEDROOM - NIGHT|location|||
 309||"Meg races into Sarah's room, drops onto the bed, and grabs
-Sarah by the shoulders, trying to rouse her."|stage direction||
-310|MEG|Wake up... wake up...|speech|MEG|F
-311||But she's in a profound child's sleep and won't wake up.|stage direction||
-312||INT.  THIRD FLOOR HALLWAY - NIGHT|location||
+Sarah by the shoulders, trying to rouse her."|stage direction|||
+310|MEG|Wake up... wake up...|speech|MEG|F|True
+311||But she's in a profound child's sleep and won't wake up.|stage direction|||
+312||INT.  THIRD FLOOR HALLWAY - NIGHT|location|||
 313||"One floor down, Junior and Raoul reach the third floor
 landing.  Still moving stealthily, Junior heads down the hall
 for the master bedroom, where he thinks Meg is sleeping.
-Raoul heads for the stairs that lead to the top floor."|stage direction||
-314||INT.  SARAH'S BEDROOM - NIGHT|location||
-315||Meg is desperate, still can't wake Sarah.|stage direction||
-316|MEG|Wake up...come on, come on...|speech|MEG|F
+Raoul heads for the stairs that lead to the top floor."|stage direction|||
+314||INT.  SARAH'S BEDROOM - NIGHT|location|||
+315||Meg is desperate, still can't wake Sarah.|stage direction|||
+316|MEG|Wake up...come on, come on...|speech|MEG|F|True
 317||"She sees a plastic cup on her night table/box, half filled
 with water.  She snatches it and tosses the water in her
 face.
-Now she's awake.  And pissed off.  She SPUTTERS, SHOUTS."|stage direction||
-318|SARAH|WHAT DID YOU DO THAT FOR?!|speech|SARAH|F
-319||INT.  THIRD FLOOR HALLWAY - NIGHT|location||
+Now she's awake.  And pissed off.  She SPUTTERS, SHOUTS."|stage direction|||
+318|SARAH|WHAT DID YOU DO THAT FOR?!|speech|SARAH|F|True
+319||INT.  THIRD FLOOR HALLWAY - NIGHT|location|||
 320||"Raoul, at the base of the stairs that lead to the top floor,
-hears the kid shouting.  He starts up the stairs, quickly."|stage direction||
-321||INT.  SARAH'S BEDROOM - NIGHT|location||
+hears the kid shouting.  He starts up the stairs, quickly."|stage direction|||
+321||INT.  SARAH'S BEDROOM - NIGHT|location|||
 322||"On the top floor, Meg is already dragging Sarah out of the
-room and into the hallway."|stage direction||
-323||INT.  HALLWAY - NIGHT|location||
+room and into the hallway."|stage direction|||
+323||INT.  HALLWAY - NIGHT|location|||
 324||"Meg and Sarah come out of Sarah's bedroom just as Raoul
 reaches the top of the stairs at the other end.  They're cut
 off.
@@ -841,22 +841,22 @@ She looks to her left.
 The elevator.
 She yanks open the elevator door, throws aside the gate, and
 races inside with Sarah.
-Raoul takes off down the hall, lunging for the elevator."|stage direction||
-325||INT.  ELEVATOR - NIGHT|location||
+Raoul takes off down the hall, lunging for the elevator."|stage direction|||
+325||INT.  ELEVATOR - NIGHT|location|||
 326||"Meg SLAMS the gate shut and PUNCHES the button for the first
 floor.  The elevator GROANS to life and starts down --
 slowly.
-Sarah looks up at her, terrified."|stage direction||
-327|SARAH|What's going on?!|speech|SARAH|F
-328|MEG|People.  In the house.|speech|MEG|F
+Sarah looks up at her, terrified."|stage direction|||
+327|SARAH|What's going on?!|speech|SARAH|F|True
+328|MEG|People.  In the house.|speech|MEG|F|True
 329||"As the elevator descends, they see Raoul, through the window
 in the door, as he drops to his knees, to get a good look at
-them."|stage direction||
-330||INT.  TOP FLOOR HALLWAY - NIGHT|location||
-331||Raoul turns from the elevator, SHOUTS to the open stairwell.|stage direction||
+them."|stage direction|||
+330||INT.  TOP FLOOR HALLWAY - NIGHT|location|||
+331||Raoul turns from the elevator, SHOUTS to the open stairwell.|stage direction|||
 332|RAOUL|"IN THE ELEVATOR!  BOTH OF 'EM HEADED
-TOWARD YOU!"|speech|RAOUL|M
-333||INT.  THIRD FLOOR HALLWAY - NIGHT|location||
+TOWARD YOU!"|speech|RAOUL|M|True
+333||INT.  THIRD FLOOR HALLWAY - NIGHT|location|||
 334||"Junior turns from the open doorway of the master bedroom and
 races back down the hall, toward the elevator.  He reaches
 the door, peers through the window.
@@ -866,46 +866,46 @@ stays locked, with the elevator moving beyond.
 He bangs on the button, hoping the elevator will stop.  As
 Meg and Sarah drop fully into view, he stands there, eye to
 moving eye with her for a moment.  But the elevator doesn't
-stop, it keeps going down."|stage direction||
-335||INT.  ELEVATOR - NIGHT|location||
+stop, it keeps going down."|stage direction|||
+335||INT.  ELEVATOR - NIGHT|location|||
 336||"Meg stands frozen, terrified, staring at Junior as they move
 past him.
 Junior has another go at the door, pulling as hard as he can,
 actually bending the door, but the elevator is still moving,
 the catch holds fast and the door won't open.
-As they pass, his face suddenly disappears, he takes off."|stage direction||
-337||INT.  STAIRWELL - NIGHT|location||
+As they pass, his face suddenly disappears, he takes off."|stage direction|||
+337||INT.  STAIRWELL - NIGHT|location|||
 338||"Junior flies down the stairs, to cut them off at the first
-floor."|stage direction||
-339||INT.  ELEVATOR - NIGHT|location||
-340|MEG|He's going down.|speech|MEG|F
-341|SARAH|That room!|speech|SARAH|F
-342|MEG|What?!|speech|MEG|F
-343|SARAH|PANIC ROOM!|speech|SARAH|F
+floor."|stage direction|||
+339||INT.  ELEVATOR - NIGHT|location|||
+340|MEG|He's going down.|speech|MEG|F|True
+341|SARAH|That room!|speech|SARAH|F|True
+342|MEG|What?!|speech|MEG|F|True
+343|SARAH|PANIC ROOM!|speech|SARAH|F|True
 344||"Meg thinks, then punches the button for three, to go back up.
-But the elevator continues down.  She jabs at it, futilely."|stage direction||
-345|SARAH|No.  you gotta...|speech|SARAH|F
+But the elevator continues down.  She jabs at it, futilely."|stage direction|||
+345|SARAH|No.  you gotta...|speech|SARAH|F|True
 346||"She reaches past her, pushes the STOP button.  The elevator
 jerks to a halt.  Then Sarah pushes three.  Now the elevator
 starts to rise.
-Meg looks at her, impressed.  Love that kid."|stage direction||
-347||INT.  ENTRY FLOOR - NIGHT|location||
+Meg looks at her, impressed.  Love that kid."|stage direction|||
+347||INT.  ENTRY FLOOR - NIGHT|location|||
 348||"In the foyer, Junior freezes, hearing the elevator stop and
-start again."|stage direction||
-349|JUNIOR|SHE'S COMING BACK UP TOWARD YOU!!|speech|JUNIOR|M
+start again."|stage direction|||
+349|JUNIOR|SHE'S COMING BACK UP TOWARD YOU!!|speech|JUNIOR|M|True
 350||"He takes off up the stairs again.  Burnham can't take it
-anymore, he takes off after Junior, following him upstairs."|stage direction||
-351||INT.  FOURTH FLOOR HALLWAY - NIGHT|location||
-352||Raoul, still on the top floor, heads for the stairs, fast.|stage direction||
-353||INT.  STAIRWELL - NIGHT|location||
+anymore, he takes off after Junior, following him upstairs."|stage direction|||
+351||INT.  FOURTH FLOOR HALLWAY - NIGHT|location|||
+352||Raoul, still on the top floor, heads for the stairs, fast.|stage direction|||
+353||INT.  STAIRWELL - NIGHT|location|||
 354||"Junior races back up the stairs.  They have her caught in the
-middle."|stage direction||
-355||INT.  THIRD FLOOR HALLWAY - NIGHT|location||
+middle."|stage direction|||
+355||INT.  THIRD FLOOR HALLWAY - NIGHT|location|||
 356||"The door to the elevator BANGS open on three, the gate
 RATTLES aside, and Meg and Sarah leap out.  They take off
 down the hall, toward the doorway to the master bedroom.
-Raoul flies down the stairs, not twenty feet behind them."|stage direction||
-357||INT.  MASTER BEDROOM - NIGHT|location||
+Raoul flies down the stairs, not twenty feet behind them."|stage direction|||
+357||INT.  MASTER BEDROOM - NIGHT|location|||
 358||"Meg and Sarah run through the master bedroom.  As she passes
 the night table, Sarah swings an open hand to grab her cell
 phone from its cradle.  But in her haste she starts to pull
@@ -918,8 +918,8 @@ turns the corner and Raoul thunders down the steps from four.
 She abandons the phone, grabs Sarah, and they lunge through
 the open doorway to the panic room.
 Junior and Raoul burst through the doorway to the bedroom,
-just a few steps away."|stage direction||
-359||INT.  PANIC ROOM - NIGHT|location||
+just a few steps away."|stage direction|||
+359||INT.  PANIC ROOM - NIGHT|location|||
 360||"Meg and Sarah trip over each other coming through the
 doorway, they tumble to the floor of the panic room, the door
 wide open behind them.  Meg spins around, hurls herself at
@@ -928,11 +928,11 @@ the red button on the wall --
 -- Meg SLAMS her open palm on the red button, the massive
 coiled spring that holds the metal door open is released, the
 steel barrier leaps forward out of the wall --
--- and WHANGS shut in a split-second."|stage direction||
-361||INT.  MASTER BEDROOM - NIGHT|location||
+-- and WHANGS shut in a split-second."|stage direction|||
+361||INT.  MASTER BEDROOM - NIGHT|location|||
 362||"Junior SLAMS into the closing metal door, banging his
-shoulder into it, and slithers to the ground, too late."|stage direction||
-363||INT.  PANIC ROOM - NIGHT|location||
+shoulder into it, and slithers to the ground, too late."|stage direction|||
+363||INT.  PANIC ROOM - NIGHT|location|||
 364||"Meg rolls over and pulls Sarah into her arms, both of them
 breathing hard, asking each other if they're okay, scared out
 of their minds.
@@ -940,14 +940,14 @@ But safe.
 She spots the telephone, the one with the special buried
 phone line.  She lunges for it, snatches it from its cradle,
 listens for a dial tone.
-Nothing there either."|stage direction||
-365|MEG|Damn it!|speech|MEG|F
-366|SARAH|It doesn't work?!|speech|SARAH|F
+Nothing there either."|stage direction|||
+365|MEG|Damn it!|speech|MEG|F|True
+366|SARAH|It doesn't work?!|speech|SARAH|F|True
 367|MEG|"Different phone line, I never hooked
-it up!"|speech|MEG|F
+it up!"|speech|MEG|F|True
 368||"She hurls it down, looks back at Sarah.  She seems a bit
-pale, scared.  She goes to her, holds her, reassures her."|stage direction||
-369||INT.  MASTER BEDROOM - NIGHT|location||
+pale, scared.  She goes to her, holds her, reassures her."|stage direction|||
+369||INT.  MASTER BEDROOM - NIGHT|location|||
 370||"Junior is slumped at the base of the door, livid, in pain,
 pounding on it with his fists, screaming ""NO!"" over and over
 again, crazy with rage.
@@ -955,9 +955,9 @@ Raoul stands in the middle of the room, chest heaving, hands
 on his knees.
 Burnham finally walks into the room and stops in the doorway,
 looks from Raoul to Junior to the door to the panic room,
-figures out the situation."|stage direction||
+figures out the situation."|stage direction|||
 371|BURNHAM|"Tell me... tell me they're not in
-there..."|speech|BURNHAM|M
+there..."|speech|BURNHAM|M|True
 372||"We rise up, above them, above the room, looking down on them,
 the rats-in-a-maze shot.
 We rise up further still, above where the ceiling ought to
@@ -965,33 +965,33 @@ be, to look down on this room and the one beside it, the room
 behind the four inches of reinforced steel, the panic room in
 which Meg and Sarah kneel in the middle of the floor, holding
 each other tight.
-Standoff."|stage direction||
-373||CUT TO:|unknown||
-374||INT.  PANIC ROOM - NIGHT|location||
+Standoff."|stage direction|||
+373||CUT TO:|unknown|||
+374||INT.  PANIC ROOM - NIGHT|location|||
 375||"Very close on the metal door, from inside the panic room.  An
 ear moves slowly into frame, presses against the cold steel.
 Listens.
-Meg pulls away from the door, shaking her head."|stage direction||
-376|MEG|Can't hear a thing.|speech|MEG|F
-377|SARAH|What do they want?|speech|SARAH|F
+Meg pulls away from the door, shaking her head."|stage direction|||
+376|MEG|Can't hear a thing.|speech|MEG|F|True
+377|SARAH|What do they want?|speech|SARAH|F|True
 378|MEG|"I don't know.  Rob us.  I don't
-know."|speech|MEG|F
+know."|speech|MEG|F|True
 379||"She sits back against a wall, looks around, at the tiny room.
-She's trying not to show how freaked out she is."|stage direction||
-380|SARAH|What do we do?|speech|SARAH|F
-381|MEG|Wait.|speech|MEG|F
-382|SARAH|What if they get in here?|speech|SARAH|F
+She's trying not to show how freaked out she is."|stage direction|||
+380|SARAH|What do we do?|speech|SARAH|F|True
+381|MEG|Wait.|speech|MEG|F|True
+382|SARAH|What if they get in here?|speech|SARAH|F|True
 383|MEG|"They can't.  They can't get in here.
-No.  They can't."|speech|MEG|F
-384|SARAH|I heard you.|speech|SARAH|F
-385|MEG|Feel okay?|speech|MEG|F
-386|SARAH|Yeah.|speech|SARAH|F
-387|MEG|Shaky?|speech|MEG|F
-388|SARAH|Nope.|speech|SARAH|F
-389|MEG|Chills?|speech|MEG|F
-390|SARAH|Huh uh.|speech|SARAH|F
-391||She checks her wristwatch, for some reason.|stage direction||
-392|SARAH|Don't worry about me.|speech|SARAH|F
+No.  They can't."|speech|MEG|F|True
+384|SARAH|I heard you.|speech|SARAH|F|True
+385|MEG|Feel okay?|speech|MEG|F|True
+386|SARAH|Yeah.|speech|SARAH|F|True
+387|MEG|Shaky?|speech|MEG|F|True
+388|SARAH|Nope.|speech|SARAH|F|True
+389|MEG|Chills?|speech|MEG|F|True
+390|SARAH|Huh uh.|speech|SARAH|F|True
+391||She checks her wristwatch, for some reason.|stage direction|||
+392|SARAH|Don't worry about me.|speech|SARAH|F|True
 393||"The implications being, worry about yourself.
 Sarah crawls over to the bank of video monitors, studies
 them.  Meg crawls over to join her.  They scan the screens.
@@ -1009,45 +1009,45 @@ IN THE PANIC ROOM,
 Meg furrows her brow, noticing something interesting to the
 right of the video monitors.  She slides over, studies a
 panel there with sixteen different buttons and a small
-grilled area."|stage direction||
-394|MEG|Hey...|speech|MEG|F
+grilled area."|stage direction|||
+394|MEG|Hey...|speech|MEG|F|True
 395||"Sarah joins her, looks at the buttons.  Each one is labeled
 with a different room name -- den, kitchen, master bedroom,
 etc.  Up in the corner there is a button that says ""ALL
 PAGE,"" down in the opposite corner there's a button marked
 ""TALK.""
-Meg looks at Sarah."|stage direction||
-396|SARAH|Go ahead.|speech|SARAH|F
+Meg looks at Sarah."|stage direction|||
+396|SARAH|Go ahead.|speech|SARAH|F|True
 397||"Meg is reluctant, frightened.  Sarah is encouraging, for the
-first time."|stage direction||
-398|SARAH|You can do it.|speech|SARAH|F
-399||Meg leans forward, clears her throat.|stage direction||
-400||INT.  LIVING ROOM - NIGHT|location||
+first time."|stage direction|||
+398|SARAH|You can do it.|speech|SARAH|F|True
+399||Meg leans forward, clears her throat.|stage direction|||
+400||INT.  LIVING ROOM - NIGHT|location|||
 401||"Burnham, Raoul, and Junior are standing in the half-darkened
 living room, in the middle of their argument, when a VOICE
-booms around them."|stage direction||
-402|MEG (O.S.)|Excuse me.|speech|MEG|F
+booms around them."|stage direction|||
+402|MEG (O.S.)|Excuse me.|speech|MEG|F|True
 403||"They practically jump out of their shoes, looking around for
-the source of the voice."|stage direction||
-404|MEG (O.S.)|The police are on their way.|speech|MEG|F
+the source of the voice."|stage direction|||
+404|MEG (O.S.)|The police are on their way.|speech|MEG|F|True
 405||"Only Burnham has remained relatively calm.  After he gets
 over the initial shock, he walks toward the tiny camera
 that's hidden in an upper corner of the living room wall and
 stares up at it.  Raoul, who has taken off his ski mask, is
 careful to move out of the camera's range, and turn his back
-to it."|stage direction||
-406|MEG|I suggest you leave.|speech|MEG|F
+to it."|stage direction|||
+406|MEG|I suggest you leave.|speech|MEG|F|True
 407||"ON THE MONITORS,
 Burnham looks up at the camera and shakes his head, wagging a
 finger from side to side.  He raises a hand, makes a gesture
 like a telephone, then wags his finger again.  The message is
 clear -- you don't have a phone.
 IN THE PANIC ROOM,
-Meg is puzzled."|stage direction||
-408|MEG|How'd he know that?|speech|MEG|F
-409||She presses the talk button again.|stage direction||
-410||(into speaker)|location||
-411|MEG|Take what you want and get out.|speech|MEG|F
+Meg is puzzled."|stage direction|||
+408|MEG|How'd he know that?|speech|MEG|F|True
+409||She presses the talk button again.|stage direction|||
+410||(into speaker)|location|||
+411|MEG|Take what you want and get out.|speech|MEG|F|True
 412||"That sounded fairly tough.  She looks at the monitor again.
 ON THE MONITORS,
 the three of them have an urgent, whispered conference, then
@@ -1068,14 +1068,14 @@ After a suitable pause for reading, he turns to the second
 page, where four more words are written.
 IS IN THAT ROOM.
 IN THE PANIC ROOM,
-Sarah GASPS, Meg sits back."|stage direction||
-413|MEG|"""What we want is in that room."""|speech|MEG|F
-414|SARAH|They're coming in here, aren't they?|speech|SARAH|F
+Sarah GASPS, Meg sits back."|stage direction|||
+413|MEG|"""What we want is in that room."""|speech|MEG|F|True
+414|SARAH|They're coming in here, aren't they?|speech|SARAH|F|True
 415|MEG|"No, I told you, they can't.  It's
-not a possibility."|speech|MEG|F
-416||Angry, she sits forward and jabs the talk button.|stage direction||
-417||(into speaker)|location||
-418|MEG|What do you know about this room?|speech|MEG|F
+not a possibility."|speech|MEG|F|True
+416||Angry, she sits forward and jabs the talk button.|stage direction|||
+417||(into speaker)|location|||
+418|MEG|What do you know about this room?|speech|MEG|F|True
 419||"ON THE MONITORS,
 there is more frenzied writing, more arguing, and a first
 draft of a response torn up.  Finally, Junior steps forward
@@ -1083,77 +1083,77 @@ with another sign:
 MORE THAN YOU.
 IN THE PANIC ROOM,
 Meg's confidence is ebbing, but she doesn't want to show it.
-She hits the talk button again."|stage direction||
-420||(into speaker)|location||
+She hits the talk button again."|stage direction|||
+420||(into speaker)|location|||
 421|MEG|"We're not coming out.  We're not
 letting you in.  Get out of my
-house."|speech|MEG|F
-422||(clicks off)|location||
-423|SARAH|Say fuck.|speech|SARAH|F
-424||(into speaker)|location||
-425|MEG|Fuck.|speech|MEG|F
-426|SARAH|"""Get the fuck out of my house."""|speech|SARAH|F
-427||(into speaker)|location||
-428|MEG|Get the fuck out of my house!|speech|MEG|F
+house."|speech|MEG|F|True
+422||(clicks off)|location|||
+423|SARAH|Say fuck.|speech|SARAH|F|True
+424||(into speaker)|location|||
+425|MEG|Fuck.|speech|MEG|F|True
+426|SARAH|"""Get the fuck out of my house."""|speech|SARAH|F|True
+427||(into speaker)|location|||
+428|MEG|Get the fuck out of my house!|speech|MEG|F|True
 429||"She clicks off again, looks to Sarah for approval, and gets
 it, sort of, in Sarah's half-smile.  But Sarah's eyes go back
-to the screen."|stage direction||
-430|SARAH|Answer.|speech|SARAH|F
+to the screen."|stage direction|||
+430|SARAH|Answer.|speech|SARAH|F|True
 431||"Meg follows Sarah's eyes back to the screen, where another
 message is being held up for them.
 ON THE MONITORS,
 the notepad says:
 WE WILL LET YOU GO.
 IN THE PANIC ROOM,
-Meg and Sarah speak at the same time."|stage direction||
-432|MEG|Oh, please.|speech|MEG|F
-433|SARAH|Give me a break.|speech|SARAH|F
-434||INT.  LIVING ROOM - NIGHT|location||
-435||In the living room, her voice booms from the speaker.|stage direction||
-436|MEG (O.S.)|Conversation's over.|speech|MEG|F
+Meg and Sarah speak at the same time."|stage direction|||
+432|MEG|Oh, please.|speech|MEG|F|True
+433|SARAH|Give me a break.|speech|SARAH|F|True
+434||INT.  LIVING ROOM - NIGHT|location|||
+435||In the living room, her voice booms from the speaker.|stage direction|||
+436|MEG (O.S.)|Conversation's over.|speech|MEG|F|True
 437||"With an audible CLICK, she signs off.  Burnham, Raoul, and
 Junior stand arrayed beneath the camera, staring up at it,
-dumbfounded."|stage direction||
+dumbfounded."|stage direction|||
 438|BURNHAM|"Got her right where you want her,
-Junior."|speech|BURNHAM|M
-439|JUNIOR|Shut up.|speech|JUNIOR|M
+Junior."|speech|BURNHAM|M|True
+439|JUNIOR|Shut up.|speech|JUNIOR|M|True
 440|BURNHAM|"When you said you'd let 'em go I
 thought she'd come running right out
-for sure."|speech|BURNHAM|M
-441|JUNIOR|Shut up and let me think.|speech|JUNIOR|M
+for sure."|speech|BURNHAM|M|True
+441|JUNIOR|Shut up and let me think.|speech|JUNIOR|M|True
 442||"He opens a pack of cigarettes, takes out a joint and lights
-it."|stage direction||
+it."|stage direction|||
 443|BURNHAM|"I'm afraid to let you think, Junior.
-Things get worse when you think."|speech|BURNHAM|M
-444||(sniffs)|location||
-445|BURNHAM|Oh, that's gonna help.|speech|BURNHAM|M
-446||(holding in a hit)|location||
+Things get worse when you think."|speech|BURNHAM|M|True
+444||(sniffs)|location|||
+445|BURNHAM|Oh, that's gonna help.|speech|BURNHAM|M|True
+446||(holding in a hit)|location|||
 447|JUNIOR|"Okay, fuckball, you think.  What are
-we gonna do?"|speech|JUNIOR|M
-448|RAOUL|What if she called the cops?|speech|RAOUL|M
-449|BURNHAM|She didn't.|speech|BURNHAM|M
-450|JUNIOR|She said she did.|speech|JUNIOR|M
+we gonna do?"|speech|JUNIOR|M|True
+448|RAOUL|What if she called the cops?|speech|RAOUL|M|True
+449|BURNHAM|She didn't.|speech|BURNHAM|M|True
+450|JUNIOR|She said she did.|speech|JUNIOR|M|True
 451|BURNHAM|"She lied.  Cops woulda been here by
 now if she called 'em.  Besides,
-Junior cut the phones."|speech|BURNHAM|M
+Junior cut the phones."|speech|BURNHAM|M|True
 452||"Burnham goes to the window and stares outside.  He laughs,
-covers his face."|stage direction||
-453|RAOUL|What the fuck is funny about this?|speech|RAOUL|M
-454|BURNHAM|God.|speech|BURNHAM|M
-455|RAOUL|There is not one thing funny here.|speech|RAOUL|M
+covers his face."|stage direction|||
+453|RAOUL|What the fuck is funny about this?|speech|RAOUL|M|True
+454|BURNHAM|God.|speech|BURNHAM|M|True
+455|RAOUL|There is not one thing funny here.|speech|RAOUL|M|True
 456|BURNHAM|"Who else but God could think this
 shit up?  I spend ten years building
 those fucking rooms to keep people
 out, now I gotta figure out how to
 get in.  God, man, He just loves the
-irony."|speech|BURNHAM|M
+irony."|speech|BURNHAM|M|True
 457|JUNIOR|"Yes.  Yes, it's all terrible ironic
 and amusing.  You fuck.  Now how are
-you gonna get us into that room?"|speech|JUNIOR|M
+you gonna get us into that room?"|speech|JUNIOR|M|True
 458|BURNHAM|"Can't.  Whole point.  Can't get in
-the room."|speech|BURNHAM|M
+the room."|speech|BURNHAM|M|True
 459|RAOUL|"So what the fuck are we supposed to
-do?!"|speech|RAOUL|M
+do?!"|speech|RAOUL|M|True
 460|BURNHAM|"Make her come out.  And when she
 does, that's when we gotta be
 careful.  She can't get out of this
@@ -1161,8 +1161,8 @@ house.  She can't even think she can
 get out of this house.  We just keep
 them here and keep them quiet for
 forty-five minutes.  And I don't
-want"|speech|BURNHAM|M
-461||(Raoul)|location||
+want"|speech|BURNHAM|M|True
+461||(Raoul)|location|||
 462|BURNHAM|"Joe Pesci here standing over them
 with his fat sweaty finger on the
 trigger.  That's a sure way for us
@@ -1173,17 +1173,17 @@ we're gonna seal the place up.  They
 wanna hole up in here?  Fine, we'll
 help 'em.  Make it impossible for
 them to leave.  Once they come out
-of that room."|speech|BURNHAM|M
+of that room."|speech|BURNHAM|M|True
 463|JUNIOR|"And why exactly would they want to
-come out?"|speech|JUNIOR|M
+come out?"|speech|JUNIOR|M|True
 464||"At the window, Burnham notices something sitting just outside
 the French doors, on the balcony.  It's a large outdoor
 barbecue grill.  He thinks, takes a step closer.
 He sees a white five gallon tank of some kind underneath the
-grill."|stage direction||
-465|BURNHAM|Workin' on it.|speech|BURNHAM|M
-466||CUT TO:|unknown||
-467||INT.  PANIC ROOM - NIGHT|location||
+grill."|stage direction|||
+465|BURNHAM|Workin' on it.|speech|BURNHAM|M|True
+466||CUT TO:|unknown|||
+467||INT.  PANIC ROOM - NIGHT|location|||
 468||"In the panic room, Meg is sitting cross-legged on the floor,
 leaning against a wall, but Sarah is in motion, sorting
 through shelves, opening drawers.  Every drawer has something
@@ -1204,78 +1204,78 @@ It's a small round portal, about eight inches across, with a
 four-pronged cloverlike seal.  The portal is closed tight, as
 Sarah pokes and scrapes at it idly with a finger or two, it
 resists her attempts to crank it open.
-Meg notices."|stage direction||
-469|MEG|Hey.  Relax, okay?|speech|MEG|F
+Meg notices."|stage direction|||
+469|MEG|Hey.  Relax, okay?|speech|MEG|F|True
 470||"But Sarah keeps at it, feels along the edges of the portal,
 then all along the wall, looking for some kind of hidden
-switch that controls it."|stage direction||
+switch that controls it."|stage direction|||
 471|MEG|"I mean it, lie down.  You get your
 adrenaline up and you know what's
-gonna happen."|speech|MEG|F
+gonna happen."|speech|MEG|F|True
 472||"Sarah stops, looks at her mother, who is pale and wan,
-huddled in the corner."|stage direction||
-473|SARAH|Are you freaking out?|speech|SARAH|F
-474|MEG|Little bit.  Yeah.|speech|MEG|F
-475||Sarah looks around the room.|stage direction||
-476|SARAH|Small space?|speech|SARAH|F
-477||(nods, fast)|location||
-478|MEG|Don't though.|speech|MEG|F
-479||(talk about it, that is)|location||
+huddled in the corner."|stage direction|||
+473|SARAH|Are you freaking out?|speech|SARAH|F|True
+474|MEG|Little bit.  Yeah.|speech|MEG|F|True
+475||Sarah looks around the room.|stage direction|||
+476|SARAH|Small space?|speech|SARAH|F|True
+477||(nods, fast)|location|||
+478|MEG|Don't though.|speech|MEG|F|True
+479||(talk about it, that is)|location|||
 480||"Sarah looks at her, thinks.  It's not an unfamiliar
-situation, her needing to comfort her mother."|stage direction||
-481|SARAH|Why did the chicken cross the road?|speech|SARAH|F
-482|MEG|What am I, a five year old?|speech|MEG|F
-483|SARAH|Why did the chicken cross the road?|speech|SARAH|F
-484|MEG|I don't know, why?|speech|MEG|F
-485|SARAH|To prove he wasn't chicken.|speech|SARAH|F
+situation, her needing to comfort her mother."|stage direction|||
+481|SARAH|Why did the chicken cross the road?|speech|SARAH|F|True
+482|MEG|What am I, a five year old?|speech|MEG|F|True
+483|SARAH|Why did the chicken cross the road?|speech|SARAH|F|True
+484|MEG|I don't know, why?|speech|MEG|F|True
+485|SARAH|To prove he wasn't chicken.|speech|SARAH|F|True
 486||"Meg tries to push a smile across her face, but it's
 immediately dashes as she looks back at the video screens.
-Her eyes show alarm, staring at the kitchen."|stage direction||
-487|MEG|What the hell are they doing?|speech|MEG|F
-488||CUT TO:|unknown||
-489||INT.  KITCHEN - NIGHT|location||
+Her eyes show alarm, staring at the kitchen."|stage direction|||
+487|MEG|What the hell are they doing?|speech|MEG|F|True
+488||CUT TO:|unknown|||
+489||INT.  KITCHEN - NIGHT|location|||
 490||"The contents of one of the satchels is dumped out over the
 kitchen counter, every kind of tool imaginable, many that are
 unfamiliar to us.  They sort through the pile, choosing
-things."|stage direction||
-491||INT.  KITCHEN FLOOR - REAR DOORS - NIGHT|location||
+things."|stage direction|||
+491||INT.  KITCHEN FLOOR - REAR DOORS - NIGHT|location|||
 492||"At the French doors that lead to the garden, Burnham has a
 cordless screwdriver and a pile of long screws in his hand.
 He reaches up, drills a screw through the door, into the
 corner of the door frame.  He does the same at the bottom of
 the door.
 He unlocks the doorknob, tries it.  The screws hold the door
-fast.  He moves on, to the next door."|stage direction||
-493||INT.  PANIC ROOM - NIGHT|location||
+fast.  He moves on, to the next door."|stage direction|||
+493||INT.  PANIC ROOM - NIGHT|location|||
 494||"In the panic room, Meg stares at the video screens, eyes
 wide, terrified.  She watches them.  Can't take her eyes off
-them."|stage direction||
-495||(barely audible)|location||
-496|MEG|... locking us in...|speech|MEG|F
-497||INT.  LIBRARY - NIGHT|location||
+them."|stage direction|||
+495||(barely audible)|location|||
+496|MEG|... locking us in...|speech|MEG|F|True
+497||INT.  LIBRARY - NIGHT|location|||
 498||"In the library, in the front of the house, Raoul screws shut
 a window, driving the long screws into its frame.  He looks
 out at the street, at two CLUBGOERS walking home.
-He pulls the drape."|stage direction||
-499||INT.  PANIC ROOM - NIGHT|location||
+He pulls the drape."|stage direction|||
+499||INT.  PANIC ROOM - NIGHT|location|||
 500||"Meg's hands are over her mouth, she's trembling, shaking her
-head from side to side.  This can't be happening."|stage direction||
-501||INT.  KITCHEN - NIGHT|location||
+head from side to side.  This can't be happening."|stage direction|||
+501||INT.  KITCHEN - NIGHT|location|||
 502||"In the kitchen, Junior goes to the wall phone Meg used to
 call for pizza earlier.  He cuts the phone wire with a
 knife.
 He stands there, staring at the phone, wiping the sweat from
 his palms on his pants.  Not satisfied, he pulls the phone
-itself out of the wall, cuts the cord for the handset too."|stage direction||
-503||CUT TO:|unknown||
-504||INT.  PANIC ROOM - NIGHT|location||
+itself out of the wall, cuts the cord for the handset too."|stage direction|||
+503||CUT TO:|unknown|||
+504||INT.  PANIC ROOM - NIGHT|location|||
 505||"Meg pushes herself back into the corner of the panic room,
 horrified.  Sweat has broken out on her forehead, her whole
 body seems to vibrate.  Sarah comes over, leans in front of
-her."|stage direction||
-506|SARAH|Mom?|speech|SARAH|F
-507||But Sarah's voice is hollow, seems far away.|stage direction||
-508|SARAH|Are you okay?|speech|SARAH|F
+her."|stage direction|||
+506|SARAH|Mom?|speech|SARAH|F|True
+507||But Sarah's voice is hollow, seems far away.|stage direction|||
+508|SARAH|Are you okay?|speech|SARAH|F|True
 509||"Meg looks at her.  As she watches, Sarah floats away from
 her.  In fact, the entire room is floating away from her,
 elongating.
@@ -1285,32 +1285,32 @@ on her.
 Meg opens her mouth, screams, but no sound comes out.
 Sarah stands up and bends over her, but now she's just a
 figure far away, all the way at the end of a long, impossibly
-narrow hall."|stage direction||
-510||(barely heard)|location||
-511|SARAH|MOM?!  MOM!!|speech|SARAH|F
+narrow hall."|stage direction|||
+510||(barely heard)|location|||
+511|SARAH|MOM?!  MOM!!|speech|SARAH|F|True
 512||"Meg crawls out, into the middle of that hallway, to get away
-from the wall, but they both continue moving in on her."|stage direction||
+from the wall, but they both continue moving in on her."|stage direction|||
 513|MEG|"Not here... not here... someplace
-else... someplace else..."|speech|MEG|F
+else... someplace else..."|speech|MEG|F|True
 514||"Her eyes roll back into her head, we see just the whites, and
 she loses her balance, falling over onto her back.
 We fall with her, move in tight on her face, and the dark
 hallway carpet beneath it turns to green, all green, grassy
 green.  She sits up, looks around, and we realize she is in
-fact somewhere else, she's --"|stage direction||
-515||EXT.  GREAT LAWN - DAY|location||
+fact somewhere else, she's --"|stage direction|||
+515||EXT.  GREAT LAWN - DAY|location|||
 516||"-- in the middle of the Great Lawn, in Central Park.  She
 stands, turns in a circle, she's completely alone on the
 great green grassy plain in the middle of a beautiful spring
 day, tall buildings sparkling in the distance.
 Meg stretches her arms out, smiles, but far off in the
-distance, she hears a voice calling to her, dimly:"|stage direction||
-517|SARAH (O.S.)|Mom?!  Mom!!|speech|SARAH|F
+distance, she hears a voice calling to her, dimly:"|stage direction|||
+517|SARAH (O.S.)|Mom?!  Mom!!|speech|SARAH|F|True
 518||"Meg ignores the voice, she's so happy to be out here, out in
 the open, in the beautiful wide open, she could stay here
 forever, she spins around, throws her head back, but there's
-that voice again, insistent:"|stage direction||
-519|SARAH (O.S.)|Mom, please!!|speech|SARAH|F
+that voice again, insistent:"|stage direction|||
+519|SARAH (O.S.)|Mom, please!!|speech|SARAH|F|True
 520||"There is the sharp sound of a SLAP, and Meg's face abruptly
 jerks to the side.  She touches her cheek, confused, as a hot
 red handprint rises up on it.
@@ -1324,26 +1324,26 @@ the sound.
 BAM!  A third one, and on this one Meg falls to her knees,
 covering her ears, walls spring up around her, right there on
 the Great Lawn, we rush in on her, the walls close in, and
-she's right back --"|stage direction||
-521||INT.  PANIC ROOM - NIGHT|location||
+she's right back --"|stage direction|||
+521||INT.  PANIC ROOM - NIGHT|location|||
 522||"-- in the panic room, where she always was, and that pounding
 is real, it's right outside the door, it's like somebody's
 trying to smash their way right through the wall.
 Sarah is right over Meg, holding her by the arms, and that
 handprint on Meg's face is real, Sarah must have slapped her
-to try to bring her out of it."|stage direction||
+to try to bring her out of it."|stage direction|||
 523|SARAH|"THEY'RE COMING IN!  THEY'RE COMING
-IN!"|speech|SARAH|F
+IN!"|speech|SARAH|F|True
 524||"Meg looks to the wall, watches it seem to vibrate as another
 deafening BANG crunches into it from outside.
 BAM!  BAM!  BAM!  The sound is deafening.  Sarah throws both
-hands over her ears.  Meg looks around, still disoriented."|stage direction||
+hands over her ears.  Meg looks around, still disoriented."|stage direction|||
 525|SARAH|"YOU CAN'T DO THAT!  YOU CAN'T FREAK
 OUT LIKE THAT!  YOU HAVE TO STAY
-HERE WITH ME!"|speech|SARAH|F
-526|MEG|I am.  I'm here.|speech|MEG|F
-527|SARAH|YOU HAVE TO!|speech|SARAH|F
-528|MEG|I'm here.  I'm here.|speech|MEG|F
+HERE WITH ME!"|speech|SARAH|F|True
+526|MEG|I am.  I'm here.|speech|MEG|F|True
+527|SARAH|YOU HAVE TO!|speech|SARAH|F|True
+528|MEG|I'm here.  I'm here.|speech|MEG|F|True
 529||"They huddle there, terrified.  Meg blinks, wipes the sweat
 from her forehead, begins to come back around.  She turns her
 head, sneaks a look at the funny wristwatch Sarah wears,
@@ -1351,11 +1351,11 @@ tries to look without her daughter knowing.  It's not an
 ordinary watch, it only has one number, a tall, flashing
 digital display:
 120
-Meg nods, as if reassuring herself."|stage direction||
-530|MEG|We're fine.  We're okay.|speech|MEG|F
+Meg nods, as if reassuring herself."|stage direction|||
+530|MEG|We're fine.  We're okay.|speech|MEG|F|True
 531||"She turns, looks at the video monitors to see what the hell
-they're doing out there."|stage direction||
-532||INT.  MASTER BEDROOM - NIGHT|location||
+they're doing out there."|stage direction|||
+532||INT.  MASTER BEDROOM - NIGHT|location|||
 533||"BAM!
 In the master bedroom, a claw hammer CRUNCHES into the
 sheetrock on the outer wall of the panic room.
@@ -1400,12 +1400,12 @@ CAUTION - FLAMMABLE
 Along with a number of other dire warnings.
 Burnham raises his hand to the knob, hesitates, doesn't
 really want to do this, but doesn't stop himself either.
-He spins it open.  Halfway."|stage direction||
-534|JUNIOR|Open it.|speech|JUNIOR|M
-535|BURNHAM|I did.|speech|BURNHAM|M
-536|RAOUL|He said open it.|speech|RAOUL|M
+He spins it open.  Halfway."|stage direction|||
+534|JUNIOR|Open it.|speech|JUNIOR|M|True
+535|BURNHAM|I did.|speech|BURNHAM|M|True
+536|RAOUL|He said open it.|speech|RAOUL|M|True
 537|BURNHAM|"Just sending a message.  She'll get
-the point."|speech|BURNHAM|M
+the point."|speech|BURNHAM|M|True
 538||"Gas HISSES through the spigot and into the hose.  We follow
 along the length of the hose, across the floor of the room,
 through the hole in the sheetrock, into the hole that's been
@@ -1413,8 +1413,8 @@ drilled in the air duct --
 INSIDE THE WALL
 -- through the wall itself, where we see the horizontal lines
 of an air vent up ahead.  We squeeze between two of the
-horizontal lines --"|stage direction||
-539||INT.  PANIC ROOM - NIGHT|location||
+horizontal lines --"|stage direction|||
+539||INT.  PANIC ROOM - NIGHT|location|||
 540||"-- and come out in the panic room.  Three red streamers, tied
 to the air vent, flap to life as the gas HISSES into the
 panic room.
@@ -1426,29 +1426,29 @@ Sarah sniffs.
 They look at each other.
 She looks up.  Sees the streamers floating above her.
 She leaps to her feet, steps up onto a shelf, and stretches
-her nose toward the streamers.  Just as she does --"|stage direction||
-541||INT.  MASTER BEDROOM - NIGHT|location||
-542||Near the tank, Raoul shoves Burnham out of the way.|stage direction||
-543|RAOUL|We ain't playin', here.|speech|RAOUL|M
+her nose toward the streamers.  Just as she does --"|stage direction|||
+541||INT.  MASTER BEDROOM - NIGHT|location|||
+542||Near the tank, Raoul shoves Burnham out of the way.|stage direction|||
+543|RAOUL|We ain't playin', here.|speech|RAOUL|M|True
 544||"He cranks the valve handle of the grill open all the way.
-The gas pours into the hose with an audible WHOOSH."|stage direction||
-545||INT.  PANIC ROOM - NIGHT|location||
+The gas pours into the hose with an audible WHOOSH."|stage direction|||
+545||INT.  PANIC ROOM - NIGHT|location|||
 546||"Meg, at the vent, falls back, two lungfuls of propane, and
-drops to her knees on the floor."|stage direction||
-547|SARAH|What, what, what is it?!|speech|SARAH|F
-548|MEG|On the floor!  Get on the floor!|speech|MEG|F
-549||Now Sarah coughs.  The gas is pouring into the room.|stage direction||
-550||INT.  MASTER BEDROOM - NIGHT|location||
+drops to her knees on the floor."|stage direction|||
+547|SARAH|What, what, what is it?!|speech|SARAH|F|True
+548|MEG|On the floor!  Get on the floor!|speech|MEG|F|True
+549||Now Sarah coughs.  The gas is pouring into the room.|stage direction|||
+550||INT.  MASTER BEDROOM - NIGHT|location|||
 551||"Raoul is standing guard over the tank, to make sure no one
-messes with the valve."|stage direction||
-552|BURNHAM|Look, don't be stupid...|speech|BURNHAM|M
+messes with the valve."|stage direction|||
+552|BURNHAM|Look, don't be stupid...|speech|BURNHAM|M|True
 553||"Junior has his head pressed against the door to the panic
-room, trying to hear any sounds from within."|stage direction||
-554|JUNIOR|Be quiet.|speech|JUNIOR|M
+room, trying to hear any sounds from within."|stage direction|||
+554|JUNIOR|Be quiet.|speech|JUNIOR|M|True
 555|BURNHAM|"We're trying to scare them, not kill
-them!"|speech|BURNHAM|M
-556|JUNIOR|They're coughing.|speech|JUNIOR|M
-557|BURNHAM|They're gonna die in there!|speech|BURNHAM|M
+them!"|speech|BURNHAM|M|True
+556|JUNIOR|They're coughing.|speech|JUNIOR|M|True
+557|BURNHAM|They're gonna die in there!|speech|BURNHAM|M|True
 558|JUNIOR|"Nobody is gonna die, man, will you
 please have the balls to follow
 through with a good idea?  Think
@@ -1460,16 +1460,16 @@ forty-five minutes, forty-five
 fucking minutes!  The worst that's
 gonna happen is they pass out, we
 drag 'em out here into the fresh
-air, and they'll be fine."|speech|JUNIOR|M
+air, and they'll be fine."|speech|JUNIOR|M|True
 559|BURNHAM|"Junior, you gigantic idiot, how are
 we supposed to get into the room if
-they pass out?"|speech|BURNHAM|M
-560||Pause.  Junior turns to Raoul.|stage direction||
-561|JUNIOR|Cut it back a little bit.|speech|JUNIOR|M
-562|RAOUL|No fucking way.|speech|RAOUL|M
+they pass out?"|speech|BURNHAM|M|True
+560||Pause.  Junior turns to Raoul.|stage direction|||
+561|JUNIOR|Cut it back a little bit.|speech|JUNIOR|M|True
+562|RAOUL|No fucking way.|speech|RAOUL|M|True
 563|JUNIOR|"He's right, we can't get into the
-room if they're dead!"|speech|JUNIOR|M
-564||INT.  PANIC ROOM - NIGHT|location||
+room if they're dead!"|speech|JUNIOR|M|True
+564||INT.  PANIC ROOM - NIGHT|location|||
 565||"Meg and Sarah are down on the floor, rags covering their
 mouths, trying like crazy to filter the air, but it's not
 working.  Sarah is crawling around the base of the wall, near
@@ -1487,8 +1487,8 @@ She sits up, gestures to her mother to bend down next to her.
 She does, and they both jam their mouths up near the end of
 the tube, gulping fresh air greedily.
 Meg looks at Sarah, good job, and they both drop to the floor
-at the portal and suck air.  It's temporary, but it works."|stage direction||
-566||INT.  MASTER BEDROOM - NIGHT|location||
+at the portal and suck air.  It's temporary, but it works."|stage direction|||
+566||INT.  MASTER BEDROOM - NIGHT|location|||
 567||"In the master bedroom, the debate has turned physical.
 Burnham lunges across the room at Raoul, to get his hands on
 the valve, to turn off the gas.  But Raoul catches him and
@@ -1497,8 +1497,8 @@ Burnham SLAMS into the wall, bounces off and SCREAMS at
 Raoul, who SCREAMS right back.  Junior leaps into the middle,
 trying to break it up, to get them to shut up, keep their
 voices down.
-It's bedlam."|stage direction||
-568||INT.  PANIC ROOM - NIGHT|location||
+It's bedlam."|stage direction|||
+568||INT.  PANIC ROOM - NIGHT|location|||
 569||"In the panic room, Meg knows this can't go on forever.  She
 turns away from the portal, looks up at the vent, where the
 streamers still stream.
@@ -1528,8 +1528,8 @@ Too slow.  Not even a spark.
 Her hand shakes.  She tries again.  Still no spark.  But with
 the effort and the angle, when she thumbs the lighter it
 makes her hand twitch, banging up against the sides of the
-duct with a hollow BOOM."|stage direction||
-570||INT.  MASTER BEDROOM - NIGHT|location||
+duct with a hollow BOOM."|stage direction|||
+570||INT.  MASTER BEDROOM - NIGHT|location|||
 571||"Burnham turns abruptly.
 He turns around.  They all freeze, listening.  He hears it
 again.  The hollow BOOM, coming from inside the wall.  Now a
@@ -1553,8 +1553,8 @@ feet tremble on the shelf, she's about to lose her footing.
 INSIDE THE DUCT,
 she tries again.  SCRATCH.  BOOM.
 IN THE BEDROOM,
-Burnham's eyes suddenly pop wide as he identifies the sound."|stage direction||
-572|BURNHAM|Oh.|speech|BURNHAM|M
+Burnham's eyes suddenly pop wide as he identifies the sound."|stage direction|||
+572|BURNHAM|Oh.|speech|BURNHAM|M|True
 573||"He tears himself away from the wall --
 INSIDE THE DUCT,
 -- Meg's thumb tenses for one good hard turn --
@@ -1596,17 +1596,17 @@ admiring, frightened, you are an insane woman.
 Meg looks to herself.  Her arm is signed, the hair burned
 off.  The sleeve of her T-shirt is burned back to the
 shoulder.  Her face is sooty, blackened.
-Meg GRUNTS, half frightened by herself."|stage direction||
-574||INT.  MASTER BEDROOM - NIGHT|location||
+Meg GRUNTS, half frightened by herself."|stage direction|||
+574||INT.  MASTER BEDROOM - NIGHT|location|||
 575||"Out in the bedroom, it's worse for Burnham, who has lost most
 of his hair and shirt.  But his skin isn't badly burned,
 which is something, I guess.
 Still, he's in a rage.  He POUNDS the metal door of the panic
-room."|stage direction||
+room."|stage direction|||
 576|BURNHAM|"I'M COMING IN THERE, BITCH, I AM
 COMING IN THERE!  I AM COMING IN
-THERE!"|speech|BURNHAM|M
-577||INT.  PANIC ROOM - NIGHT|location||
+THERE!"|speech|BURNHAM|M|True
+577||INT.  PANIC ROOM - NIGHT|location|||
 578||"Meg whirls, goes to the door herself, SCREAMS right back.  We
 can hardly make out a word she's saying, but it sounds
 threatening.
@@ -1616,8 +1616,8 @@ a sound coming from the long wall of the panic room, the wall
 that's shared with the brownstone next door.
 It's a faint -- very faint -- POUNDING sound, along with a
 high pitched, complaining voice, so faint it can hardly be
-heard.  Sarah hears it too."|stage direction||
-579|SARAH|Neighbor!|speech|SARAH|F
+heard.  Sarah hears it too."|stage direction|||
+579|SARAH|Neighbor!|speech|SARAH|F|True
 580||"Meg and Sarah leap as one, facing the common wall, SHOUTING
 at the tops of their lungs -- get help, call the police,
 please, call the police, that sort of thing.
@@ -1627,28 +1627,28 @@ VOICE is on this side, they have no hope.
 Their voices crack and they begin to cough, too irritated by
 the gas to shout for very long.  Long after they stop, the
 soft POUNDING from next door continues.
-Their pleas are not heard."|stage direction||
-581||INT.  MASTER BEDROOM - NIGHT|location||
+Their pleas are not heard."|stage direction|||
+581||INT.  MASTER BEDROOM - NIGHT|location|||
 582||"The Intruders have stopped their racket too, and are
 listening carefully at the common wall.  Eventually, the soft
 POUNDING stops, the complaining voice complains no more.
 Burnham stands there, in pain.  Things are falling apart.
 Raoul stands in the doorway, silhouetted by the hallway
 light.  He draws himself up to his full, bulky height.  He's
-big."|stage direction||
-583||(to Junior)|location||
-584|RAOUL|We're gonna talk.  Downstairs.|speech|RAOUL|M
+big."|stage direction|||
+583||(to Junior)|location|||
+584|RAOUL|We're gonna talk.  Downstairs.|speech|RAOUL|M|True
 585||"Junior nods and starts out.  Raoul lets him pass, but when
 Burnham tries to follow him, Raoul puts a big hand on his
-chest stopping him."|stage direction||
+chest stopping him."|stage direction|||
 586|RAOUL|"You stay.  Make sure she don't come
-out."|speech|RAOUL|M
+out."|speech|RAOUL|M|True
 587||"Burnham swallows.  But stays.
 Raoul turns, follows Junior downstairs.  As he descends, he
 looks up, making eye contact with Burnham.  And holding it.
-Something on his mind, that's for sure."|stage direction||
-588||CUT TO:|unknown||
-589||INT.  PANIC ROOM - NIGHT|location||
+Something on his mind, that's for sure."|stage direction|||
+588||CUT TO:|unknown|||
+589||INT.  PANIC ROOM - NIGHT|location|||
 590||"THUNK.  Meg's head falls back against a wall; she sags to the
 floor, legs folded in front of her, completely drained.
 But Sarah's not drained, Sarah's full of nervous ingenuity,
@@ -1690,13 +1690,13 @@ The light flashes on the wall over his bed.
 The flashes are in a rhythm.  Short.  Short.  Short.  Long.
 Long.  Long.  Short.  Short.  Short.
 IN THE PANIC ROOM,
-Meg turns to Sarah, impressed."|stage direction||
-591|MEG|Morse code?|speech|MEG|F
-592||(nods)|location||
+Meg turns to Sarah, impressed."|stage direction|||
+591|MEG|Morse code?|speech|MEG|F|True
+592||(nods)|location|||
 593|SARAH|"Dot dot dot, dash dash dash, dot dot
-dot."|speech|SARAH|F
-594|MEG|Where'd you learn S.O.S.?|speech|MEG|F
-595|SARAH|"""Titanic."""|speech|SARAH|F
+dot."|speech|SARAH|F|True
+594|MEG|Where'd you learn S.O.S.?|speech|MEG|F|True
+595|SARAH|"""Titanic."""|speech|SARAH|F|True
 596||"THROUGH THE TUBE,
 the flashes continue -- dot dot dot, dash dash dash, dot dot
 dot.  But the Man continues to sleep, the light on the wall
@@ -1714,15 +1714,15 @@ watch Sarah wears on her left wrist.  The readout:
 THROUGH THE TUBE,
 the Sleeping Man stirs.  Opens his eyes.  Winces from the
 light, which is flashing directly in his eyes.
-IN THE PANIC ROOM,"|stage direction||
-597|MEG|Got him!|speech|MEG|F
-598|SARAH|Come on, come on...|speech|SARAH|F
+IN THE PANIC ROOM,"|stage direction|||
+597|MEG|Got him!|speech|MEG|F|True
+598|SARAH|Come on, come on...|speech|SARAH|F|True
 599||"THROUGH THE TUBE,
 the Sleeping Man sits up.  Raises a hand, trying to block the
 light, which keeps flashing on him.
 He gets up, out of bed.  He comes to the window.
-IN THE PANIC ROOM,"|stage direction||
-600|MEG|Yes, yes, yes, yes...|speech|MEG|F
+IN THE PANIC ROOM,"|stage direction|||
+600|MEG|Yes, yes, yes, yes...|speech|MEG|F|True
 601||"Sarah keeps it up, flashing faster.
 THROUGH THE TUBE,
 they see the Man come all the way to his window.  He leans
@@ -1737,14 +1737,14 @@ IN THE PANIC ROOM,
 Meg and Sarah drop their heads to the carpet, defeated.
 Sarah rolls over, knocks the flashlight away, stares up at
 the ceiling.
-Meg puts a hand in her hair.  It was a good idea."|stage direction||
-602|SARAH|We're never getting out of here.|speech|SARAH|F
-603|MEG|Shhh...|speech|MEG|F
+Meg puts a hand in her hair.  It was a good idea."|stage direction|||
+602|SARAH|We're never getting out of here.|speech|SARAH|F|True
+603|MEG|Shhh...|speech|MEG|F|True
 604||"She looks at the wristwatch again.
 103
-She's concerned."|stage direction||
-605||CUT TO:|unknown||
-606||INT.  MASTER BEDROOM - NIGHT|location||
+She's concerned."|stage direction|||
+605||CUT TO:|unknown|||
+606||INT.  MASTER BEDROOM - NIGHT|location|||
 607||"Burnham is concerned as well.  He's still in the master
 bedroom, but barely, he's standing in the doorway, straining
 like hell to hear a conversation that Junior and Raoul are
@@ -1754,22 +1754,22 @@ float up through the open stairwell -- words like ""him"" and
 ""warning"" and ""dangerous.""
 Burnham chews a fingernail.  If only he could get closer.  He
 throws a look back at the door to the panic room.  He looks
-back out the bedroom door.  Listening."|stage direction||
-608||INT.  FOYER - NIGHT|location||
+back out the bedroom door.  Listening."|stage direction|||
+608||INT.  FOYER - NIGHT|location|||
 609||"Junior and Raoul are huddled together in the foyer.  They're
-keeping their voices low, but their conversation is heated."|stage direction||
+keeping their voices low, but their conversation is heated."|stage direction|||
 610|JUNIOR|"We're not gonna do anything about
-him, he's fine."|speech|JUNIOR|M
+him, he's fine."|speech|JUNIOR|M|True
 611|RAOUL|"If you think I'm gonna let my half
 of the fourteen million bucks slip
-away because of --"|speech|RAOUL|M
+away because of --"|speech|RAOUL|M|True
 612|JUNIOR|"""Half?""  What did you, take a nap in
 math class?  Three people, three
 shares, one third.  Four point six
-six six repeating."|speech|JUNIOR|M
+six six repeating."|speech|JUNIOR|M|True
 613|RAOUL|"I'm just saying, the man is a
 problem.  And he's your problem.
-Wasn't me idea to bring him along."|speech|RAOUL|M
+Wasn't me idea to bring him along."|speech|RAOUL|M|True
 614|JUNIOR|"That's right, Raoul, it wasn't your
 idea, none of this was your idea, it
 was mine, it's my family we're
@@ -1781,24 +1781,24 @@ it was my idea to ask a guy who
 builds these rooms to help break
 into one!  Me, me, me, I, I, I, at
 no point did I say ""you"" or Raoul,""
-got it?"|speech|JUNIOR|M
+got it?"|speech|JUNIOR|M|True
 615|RAOUL|"He puts his hands on me again I'll
-bury a slug in his ear."|speech|RAOUL|M
+bury a slug in his ear."|speech|RAOUL|M|True
 616|JUNIOR|"No, you will not, because without
 Burnham there's no way in hell we're
 gonna get into that safe, so as far
 as I'm concerned he can paint your
 ass blue and run it up a flagpole
 and you won't lay a finger on him,
-you understand me?"|speech|JUNIOR|M
+you understand me?"|speech|JUNIOR|M|True
 617|RAOUL|"Don't take no tone of voice with me,
-Homes."|speech|RAOUL|M
+Homes."|speech|RAOUL|M|True
 618|JUNIOR|"What is this shit you're talking all
 of a sudden?  You're a bus driver,
 ""Homes,"" you live in Flatbush, so
 please don't start spouting some
 Elmore Leonard shit you just heard
-because I saw that movie too,"|speech|JUNIOR|M
+because I saw that movie too,"|speech|JUNIOR|M|True
 619||"ON THE VIDEO MONITORS,
 Junior and Raoul are visible, still arguing in the foyer.
 On the next monitor over, Burnham is visible, standing in the
@@ -1816,16 +1816,16 @@ IN THE PANIC ROOM,
 Meg sits back, eyes alive with an idea.  If only she could
 get to that phone, which must be still under the bed.  She
 looks back at the monitors, at Burnham lingering in the
-doorway to the room."|stage direction||
-620|MEG|Damn.|speech|MEG|F
+doorway to the room."|stage direction|||
+620|MEG|Damn.|speech|MEG|F|True
 621||"She turns away from the monitors, to check on Sarah, who's
-settled into a corner of the room, looking pale."|stage direction||
-622||INT.  MASTER BEDROOM - NIGHT|location||
+settled into a corner of the room, looking pale."|stage direction|||
+622||INT.  MASTER BEDROOM - NIGHT|location|||
 623||"In the bedroom, Burnham is desperate.  The argument
 downstairs is entering round two, and he's got to hear what
 they're saying.
-He takes a few steps out of the bedroom --"|stage direction||
-624||INT.  THIRD FLOOR HALLWAY - NIGHT|location||
+He takes a few steps out of the bedroom --"|stage direction|||
+624||INT.  THIRD FLOOR HALLWAY - NIGHT|location|||
 625||"-- and comes into the hallway.  He leans over the stairwell.
 Where he's standing, he is directly under the camera that
 covers the hallway --
@@ -1834,32 +1834,32 @@ ON THE MONITORS,
 IN THE PANIC ROOM,
 Meg turns back from Sarah, to look at the monitors again.
 She see Burnham is no longer in the bedroom.  And doesn't
-appear to be in the hallway, either."|stage direction||
-626|MEG|Oh yes, yes...|speech|MEG|F
+appear to be in the hallway, either."|stage direction|||
+626|MEG|Oh yes, yes...|speech|MEG|F|True
 627||"She looks at another monitor.
 ON THE MONITOR,
 she sees Junior and Raoul in the foyer.
 IN THE PANIC ROOM,
-Meg sits back.  That leaves Burnham unaccounted for."|stage direction||
-628|MEG|... the hell is he?|speech|MEG|F
+Meg sits back.  That leaves Burnham unaccounted for."|stage direction|||
+628|MEG|... the hell is he?|speech|MEG|F|True
 629||"IN THE HALLWAY,
 Burnham is still lingering under the camera.
 IN THE PANIC ROOM,
-Sarah has come forward to the monitors as well."|stage direction||
-630|SARAH|Do it.|speech|SARAH|F
-631|MEG|Yeah, but where's the third guy?|speech|MEG|F
-632|SARAH|Not in the bedroom.  Do it!|speech|SARAH|F
+Sarah has come forward to the monitors as well."|stage direction|||
+630|SARAH|Do it.|speech|SARAH|F|True
+631|MEG|Yeah, but where's the third guy?|speech|MEG|F|True
+632|SARAH|Not in the bedroom.  Do it!|speech|SARAH|F|True
 633||"Meg goes to the door, raises a hand to the green ""open""
 button.  Hesitates.
 IN THE MASTER BEDROOM,
 we see Burnham, lurking in the hallway, just about six feet
 from the door to the panic room.  Don't open that door!
 IN THE PANIC ROOM,
-Meg wipes sweat from her palm."|stage direction||
+Meg wipes sweat from her palm."|stage direction|||
 634|MEG|"If it looks like I can't get back,
-just close the door."|speech|MEG|F
-635|SARAH|No.|speech|SARAH|F
-636|MEG|Close it!|speech|MEG|F
+just close the door."|speech|MEG|F|True
+635|SARAH|No.|speech|SARAH|F|True
+636|MEG|Close it!|speech|MEG|F|True
 637||"Sarah nods, looks back to the button.
 IN THE HALLWAY,
 a shouted CURSE rises up from downstairs.  Burnham takes a
@@ -1867,22 +1867,22 @@ step toward the stairs.
 ON THE MONITORS,
 he suddenly appears, in the hallway.
 IN THE PANIC ROOM,
-Sarah sees it."|stage direction||
-638|SARAH|WAIT!|speech|SARAH|F
+Sarah sees it."|stage direction|||
+638|SARAH|WAIT!|speech|SARAH|F|True
 639||"Meg freezes.  She looks at the monitor, wide-eyed.  Close
 one.
 IN THE HALLWAY,
-Burnham can't take it anymore."|stage direction||
-640|BURNHAM|Oh, hell...|speech|BURNHAM|M
+Burnham can't take it anymore."|stage direction|||
+640|BURNHAM|Oh, hell...|speech|BURNHAM|M|True
 641||"He turns and takes off down the stairs.
 ON THE MONITORS,
 Burnham flies down the stairs and appears in the foyer, next
 to Junior and Raoul.
 IN THE PANIC ROOM,
-Meg and Sarah see all three men accounted for, downstairs."|stage direction||
-642|SARAH|GO GO GO!|speech|SARAH|F
-643||Meg leaps up, runs to the door, and punches the green button.|stage direction||
-644||INT.  MASTER BEDROOM - NIGHT|location||
+Meg and Sarah see all three men accounted for, downstairs."|stage direction|||
+642|SARAH|GO GO GO!|speech|SARAH|F|True
+643||Meg leaps up, runs to the door, and punches the green button.|stage direction|||
+644||INT.  MASTER BEDROOM - NIGHT|location|||
 645||"The door begins to crank open, Meg slips through the gap
 sideways before it's even all the way open.  She darts across
 the room --
@@ -1910,322 +1910,322 @@ with a deafening WHANG.
 Safe.
 IN THE ENTRYWAY,
 the echo of the metallic WHANG reverberates through the
-house."|stage direction||
-646||INT.  PANIC ROOM - NIGHT|location||
+house."|stage direction|||
+646||INT.  PANIC ROOM - NIGHT|location|||
 647||"In the panic room, Meg punches 9-1-1 on her cell phone with
-trembling fingers."|stage direction||
-648||INT.  MASTER BEDROOM - NIGHT|location||
+trembling fingers."|stage direction|||
+648||INT.  MASTER BEDROOM - NIGHT|location|||
 649||"The big empty charger cradle is in the foreground when the
 three men burst into the room.  Burnham stops in the middle
-of the floor, turns in a frantic circle."|stage direction||
+of the floor, turns in a frantic circle."|stage direction|||
 650|BURNHAM|"What'd she get, what'd she get,
-what'd she get..."|speech|BURNHAM|M
-651||His eyes fall on the empty charger.|stage direction||
-652|BURNHAM|Cell phone.|speech|BURNHAM|M
-653|JUNIOR|Shit!|speech|JUNIOR|M
-654||INT.  PANIC ROOM - NIGHT|location||
+what'd she get..."|speech|BURNHAM|M|True
+651||His eyes fall on the empty charger.|stage direction|||
+652|BURNHAM|Cell phone.|speech|BURNHAM|M|True
+653|JUNIOR|Shit!|speech|JUNIOR|M|True
+654||INT.  PANIC ROOM - NIGHT|location|||
 655||"Meg raises the cell phone to her ear --
--- and gets a rapid busy signal."|stage direction||
-656|MEG|Oh, no.  No, no, no no no no no...|speech|MEG|F
+-- and gets a rapid busy signal."|stage direction|||
+656|MEG|Oh, no.  No, no, no no no no no...|speech|MEG|F|True
 657||"She looks at the phone.  It's showing just one signal bar,
-and even that one is flashing on and off."|stage direction||
-658|MEG|Oh come on, come on, come on...|speech|MEG|F
+and even that one is flashing on and off."|stage direction|||
+658|MEG|Oh come on, come on, come on...|speech|MEG|F|True
 659||"She walks around the room, raises the phone high and low,
 trying crazily to find a signal.
-But can't."|stage direction||
-660||INT.  MASTER BEDROOM - NIGHT|location||
+But can't."|stage direction|||
+660||INT.  MASTER BEDROOM - NIGHT|location|||
 661||"In the bedroom, Burnham stands just outside the door,
 fingertips lightly resting on it, the ghost of a smile on his
-face."|stage direction||
-662||(softly)|location||
+face."|stage direction|||
+662||(softly)|location|||
 663|BURNHAM|"I don't think we'll be talking on
-our cell phone from in there..."|speech|BURNHAM|M
-664||INT.  PANIC ROOM - NIGHT|location||
+our cell phone from in there..."|speech|BURNHAM|M|True
+664||INT.  PANIC ROOM - NIGHT|location|||
 665||"Inside the room, Meg doesn't seem upset.  Rather, she's
 staring at the cell phone in her hand, thinking.  Remembering
-something."|stage direction||
-666|MEG|Wires...|speech|MEG|F
-667||INT.  MASTER BEDROOM - NIGHT|location||
+something."|stage direction|||
+666|MEG|Wires...|speech|MEG|F|True
+667||INT.  MASTER BEDROOM - NIGHT|location|||
 668||"At the same moment, Burnham is having the same thought.  He's
-still at the door, fingertips still resting there."|stage direction||
-669|BURNHAM|Phone...|speech|BURNHAM|M
-670||INT.  PANIC ROOM - NIGHT|location||
-671|MEG|... wires.|speech|MEG|F
-672||INT.  MASTER BEDROOM - NIGHT|location||
+still at the door, fingertips still resting there."|stage direction|||
+669|BURNHAM|Phone...|speech|BURNHAM|M|True
+670||INT.  PANIC ROOM - NIGHT|location|||
+671|MEG|... wires.|speech|MEG|F|True
+672||INT.  MASTER BEDROOM - NIGHT|location|||
 673||"Burnham looks down, at the baseboard below.  What is he
-looking at?"|stage direction||
-674||INT.  PANIC ROOM - NIGHT|location||
+looking at?"|stage direction|||
+674||INT.  PANIC ROOM - NIGHT|location|||
 675||"Meg steps up, onto the shelf she climbed earlier, and comes
-up next to the vent."|stage direction||
-676|SARAH|What are you doing?|speech|SARAH|F
-677|MEG|I saw something, I saw...|speech|MEG|F
+up next to the vent."|stage direction|||
+676|SARAH|What are you doing?|speech|SARAH|F|True
+677|MEG|I saw something, I saw...|speech|MEG|F|True
 678||"In the vent, alongside the duct, she sees the bundle of
-multicolored wires she saw earlier."|stage direction||
-679|MEG|... phone wires!|speech|MEG|F
+multicolored wires she saw earlier."|stage direction|||
+679|MEG|... phone wires!|speech|MEG|F|True
 680||"She jumps down off the shelf, goes to the tools, starts
-searching for something."|stage direction||
+searching for something."|stage direction|||
 681|MEG|"I may not have hooked up the phone
 in here, but I hooked up the main
 line, and there's a jack at the base
-of this wall outside, I saw it!"|speech|MEG|F
-682||INT.  MASTER BEDROOM - NIGHT|location||
+of this wall outside, I saw it!"|speech|MEG|F|True
+682||INT.  MASTER BEDROOM - NIGHT|location|||
 683||"Yes, that is correct, there is in fact a jack in the base of
 the wall outside the door to the panic room.
 Burnham bends down into frame, studying it, thinking the same
-thing she is.  He clears his throat."|stage direction||
+thing she is.  He clears his throat."|stage direction|||
 684|BURNHAM|"Say, while we're on the subject of
-phones..."|speech|BURNHAM|M
-685||He turns, looks up at Junior.|stage direction||
+phones..."|speech|BURNHAM|M|True
+685||He turns, looks up at Junior.|stage direction|||
 686|BURNHAM|"When I said cut the line, did you
 cut the main line at the junction
 box in the basement like I said, and
 which I repeated, or did you just
 cut the cord on the phone in the
-kitchen?"|speech|BURNHAM|M
-687||Pause.  Swallow.|stage direction||
-688|JUNIOR|I, uh, I...|speech|JUNIOR|M
-689||Shit.|stage direction||
+kitchen?"|speech|BURNHAM|M|True
+687||Pause.  Swallow.|stage direction|||
+688|JUNIOR|I, uh, I...|speech|JUNIOR|M|True
+689||Shit.|stage direction|||
 690|JUNIOR|"... hit a little snag finding the
-one in the basement."|speech|JUNIOR|M
+one in the basement."|speech|JUNIOR|M|True
 691||"Shit.
 Pause.  Then, as if a starting gun has been fired, Burnham
-leaps to his feet and races out of the bedroom."|stage direction||
-692||INT.  PANIC ROOM - NIGHT|location||
+leaps to his feet and races out of the bedroom."|stage direction|||
+692||INT.  PANIC ROOM - NIGHT|location|||
 693||"That same starting gun has been fired in the panic room.
 With a strong RIP, Meg pulls the whole bundle of multi
 colored wires out of the wall and drops onto the floor with
 it.  She trusts it at Sarah, finds a wire cutter in the
-assorted tools, and gives her that too."|stage direction||
+assorted tools, and gives her that too."|stage direction|||
 694|MEG|"Strip 'em, expose the ends, try blue
-first, blue is phones!"|speech|MEG|F
-695|SARAH|Blue is phones?|speech|SARAH|F
-696|MEG|Yes, no, I don't know, do 'em all!|speech|MEG|F
+first, blue is phones!"|speech|MEG|F|True
+695|SARAH|Blue is phones?|speech|SARAH|F|True
+696|MEG|Yes, no, I don't know, do 'em all!|speech|MEG|F|True
 697||"While Sarah goes to work on the wires, Meg turns to the phone
 itself, the one with the buried phone line that isn't working
 yet.  She rips the phone out of its housing, tears free the
-wire on the end of it."|stage direction||
-698||INT.  ENTRY FLOOR - NIGHT|location||
+wire on the end of it."|stage direction|||
+698||INT.  ENTRY FLOOR - NIGHT|location|||
 699||"Burnham flies down the stairs from the third floor, races
-across the foyer, flies down the stairs to the kitchen floor."|stage direction||
-700||INT.  KITCHEN - NIGHT|location||
+across the foyer, flies down the stairs to the kitchen floor."|stage direction|||
+700||INT.  KITCHEN - NIGHT|location|||
 701||"Burnham races across the kitchen floor, whips open a door and
-heads down another, narrow, darkened stairway."|stage direction||
-702||INT.  PANIC ROOM - NIGHT|location||
+heads down another, narrow, darkened stairway."|stage direction|||
+702||INT.  PANIC ROOM - NIGHT|location|||
 703||"Meg and Sarah are like animals, clawing and tearing at the
 ends of their respective phone cables, foregoing tools and
 stripping the wires with fingers and teeth, it's faster.
 With the phone receiver cradled on her shoulder, Meg starts
 twisting the ends of wires onto the exposed ends of the wires
 from the phone unit.  First wire -- nothing.  She tries a
-second wire."|stage direction||
-704||INT.  MECHANICAL ROOM - NIGHT|location||
+second wire."|stage direction|||
+704||INT.  MECHANICAL ROOM - NIGHT|location|||
 705||"Burnham SLAMS open the door to a dark room, pulls the string
-on a bare bulb.  Burned out."|stage direction||
-706|BURNHAM|God damn it!|speech|BURNHAM|M
+on a bare bulb.  Burned out."|stage direction|||
+706|BURNHAM|God damn it!|speech|BURNHAM|M|True
 707||"Without light, he can't see a thing.  He SMACKS the bulb, it
 swings wildly, SMASHES on the cement wall.  He turns and
-races out of the room."|stage direction||
-708||INT.  PANIC ROOM - NIGHT|location||
+races out of the room."|stage direction|||
+708||INT.  PANIC ROOM - NIGHT|location|||
 709||"Meg tries another wire.  Still no dial tone.  Sarah shoves
 another wire at her.  She tries again.  Nothing.  She moves
-on."|stage direction||
-710||INT.  LIVING ROOM - NIGHT|location||
+on."|stage direction|||
+710||INT.  LIVING ROOM - NIGHT|location|||
 711||"Burnham slides to his knees, snatches a flashlight from his
-duffel, leaps up and takes off again."|stage direction||
-712||INT.  PANIC ROOM - NIGHT|location||
+duffel, leaps up and takes off again."|stage direction|||
+712||INT.  PANIC ROOM - NIGHT|location|||
 713||"Another wire.  Nothing.  Another wire.  DIAL TONE!
-Meg SHRIEKS and punches 911."|stage direction||
-714||INT.  STAIRWELL - NIGHT|location||
+Meg SHRIEKS and punches 911."|stage direction|||
+714||INT.  STAIRWELL - NIGHT|location|||
 715||"Burnham flies down the stairs, flashlight beam bouncing
-crazily in front of him."|stage direction||
-716||INT.  PANIC ROOM - NIGHT|location||
-717||The phone is ringing.  An operator picks up.|stage direction||
-718|OPERATOR|911 emergency --|speech|OPERATOR|?
-719|MEG|I'm at 26 West --|speech|MEG|F
-720|OPERATOR|-- please hold.|speech|OPERATOR|?
-721||It's a mechanical voice, which gives over to MUZAK.|stage direction||
-722|MEG|NO!|speech|MEG|F
-723||INT.  MECHANICAL ROOM - NIGHT|location||
+crazily in front of him."|stage direction|||
+716||INT.  PANIC ROOM - NIGHT|location|||
+717||The phone is ringing.  An operator picks up.|stage direction|||
+718|OPERATOR|911 emergency --|speech|OPERATOR|?|
+719|MEG|I'm at 26 West --|speech|MEG|F|True
+720|OPERATOR|-- please hold.|speech|OPERATOR|?|
+721||It's a mechanical voice, which gives over to MUZAK.|stage direction|||
+722|MEG|NO!|speech|MEG|F|True
+723||INT.  MECHANICAL ROOM - NIGHT|location|||
 724||"Burnham BANGS through the door again, starts searching the
 darkened mechanical room, shining harsh light around its
-dingy walls."|stage direction||
-725||INT.  PANIC ROOM - NIGHT|location||
-726||MUZAK continues to play.|stage direction||
-727|MEG|Damn it!|speech|MEG|F
+dingy walls."|stage direction|||
+725||INT.  PANIC ROOM - NIGHT|location|||
+726||MUZAK continues to play.|stage direction|||
+727|MEG|Damn it!|speech|MEG|F|True
 728||"No more time to hold.  Meg hangs up the phone, dials another
-number, a seven digit one she knows by heart."|stage direction||
-729|SARAH|Call Dad!|speech|SARAH|F
-730|MEG|On it!|speech|MEG|F
-731||INT.  MECHANICAL ROOM - NIGHT|location||
+number, a seven digit one she knows by heart."|stage direction|||
+729|SARAH|Call Dad!|speech|SARAH|F|True
+730|MEG|On it!|speech|MEG|F|True
+731||INT.  MECHANICAL ROOM - NIGHT|location|||
 732||"In the mechanical room, the bouncing flashlight beam falls on
 a metal cabinet across the way.  Burnham runs to it, flings
-it open.  Circuit breakers.  SLAMS it shut."|stage direction||
-733||INT.  PANIC ROOM - NIGHT|location||
+it open.  Circuit breakers.  SLAMS it shut."|stage direction|||
+733||INT.  PANIC ROOM - NIGHT|location|||
 734||"Meg listens as a phone rings on the other end.  And rings.
 And rings again.
-This is torture."|stage direction||
-735||INT.  MECHANICAL ROOM - NIGHT|location||
+This is torture."|stage direction|||
+735||INT.  MECHANICAL ROOM - NIGHT|location|||
 736||"Burnham turns, sees another, smaller metal box, this one
 clearly labeled:
-PHONES"|stage direction||
-737||INT.  PANIC ROOM - NIGHT|location||
+PHONES"|stage direction|||
+737||INT.  PANIC ROOM - NIGHT|location|||
 738||"On the other end of the phone, a husky MALE VOICE answers;
-clearly he's been awakened."|stage direction||
-739|VOICE|Hello?|speech|VOICE|F
-740|MEG|Listen to me!  There are three --|speech|MEG|F
-741||INT.  MECHANICAL ROOM - NIGHT|location||
+clearly he's been awakened."|stage direction|||
+739|VOICE|Hello?|speech|VOICE|F|
+740|MEG|Listen to me!  There are three --|speech|MEG|F|True
+741||INT.  MECHANICAL ROOM - NIGHT|location|||
 742||"With a subhuman ROAR of anger, Burnham rips the entire phone
-panel off the wall with his bare hands."|stage direction||
-743||INT.  PANIC ROOM - NIGHT|location||
+panel off the wall with his bare hands."|stage direction|||
+743||INT.  PANIC ROOM - NIGHT|location|||
 744||"With an abrupt SHRIEK, the line goes dead.  Meg pauses, can't
-believe it."|stage direction||
-745|MEG|Hello?  Don't... are...|speech|MEG|F
+believe it."|stage direction|||
+745|MEG|Hello?  Don't... are...|speech|MEG|F|True
 746||"She looks up, see Sarah looking at her, her eyebrows arches,
 her face all hope.  Meg keeps her cool, but it take a hell of
 an effort.
 Sarah reads her face.  She turns away.
 She hangs up the phone.
 Sarah goes to a corner of the room, faces away from her.
-Meg doesn't know what to say."|stage direction||
-747|MEG|He'll do something.|speech|MEG|F
-748|SARAH|Uh uh.|speech|SARAH|F
+Meg doesn't know what to say."|stage direction|||
+747|MEG|He'll do something.|speech|MEG|F|True
+748|SARAH|Uh uh.|speech|SARAH|F|True
 749|MEG|"He'll know we're in trouble.  He
 heard me, I said ""There are
-three..."""|speech|MEG|F
-750|SARAH|He won't even know who it was.|speech|SARAH|F
+three..."""|speech|MEG|F|True
+750|SARAH|He won't even know who it was.|speech|SARAH|F|True
 751|MEG|"What would you think, in the middle
 of the night?  I mean, three what,
-three bears?  He'll call the police."|speech|MEG|F
-752|SARAH|Stop it.|speech|SARAH|F
+three bears?  He'll call the police."|speech|MEG|F|True
+752|SARAH|Stop it.|speech|SARAH|F|True
 753|MEG|"He's just across the park, this is
 why we got places so close to each
 other, in case we needed each other,
 we're still a family, he'll help
-us..."|speech|MEG|F
-754|SARAH|He --|speech|SARAH|F
-755|MEG|He WILL.|speech|MEG|F
-756||She practically shouted.  Sarah drop her head into her arms.|stage direction||
-757|MEG|I'm sorry.|speech|MEG|F
-758|SARAH|I'm sorry.|speech|SARAH|F
-759|MEG|Why?|speech|MEG|F
-760|SARAH|I was trying not to tell you...|speech|SARAH|F
-761|MEG|What?|speech|MEG|F
-762|SARAH|I'm dizzy and thirsty.|speech|SARAH|F
-763||Meg blanches.  This is very bad news.|stage direction||
-764||INT.  MASTER BEDROOM - NIGHT|location||
+us..."|speech|MEG|F|True
+754|SARAH|He --|speech|SARAH|F|True
+755|MEG|He WILL.|speech|MEG|F|True
+756||She practically shouted.  Sarah drop her head into her arms.|stage direction|||
+757|MEG|I'm sorry.|speech|MEG|F|True
+758|SARAH|I'm sorry.|speech|SARAH|F|True
+759|MEG|Why?|speech|MEG|F|True
+760|SARAH|I was trying not to tell you...|speech|SARAH|F|True
+761|MEG|What?|speech|MEG|F|True
+762|SARAH|I'm dizzy and thirsty.|speech|SARAH|F|True
+763||Meg blanches.  This is very bad news.|stage direction|||
+764||INT.  MASTER BEDROOM - NIGHT|location|||
 765||"Tired, Burnham drags himself back up the stairs and into the
 doorway of the master bedroom.  Raoul and Junior stand there,
 staring at him.
-Long pause."|stage direction||
-766|JUNIOR|She's never coming out.|speech|JUNIOR|M
-767|BURNHAM|Hey.|speech|BURNHAM|M
-768|JUNIOR|And we're never getting in.|speech|JUNIOR|M
-769|BURNHAM|Do me a favor and don't talk.|speech|BURNHAM|M
-770|JUNIOR|Jesus, what was I thinking?|speech|JUNIOR|M
-771||INT.  PANIC ROOM - NIGHT|location||
+Long pause."|stage direction|||
+766|JUNIOR|She's never coming out.|speech|JUNIOR|M|True
+767|BURNHAM|Hey.|speech|BURNHAM|M|True
+768|JUNIOR|And we're never getting in.|speech|JUNIOR|M|True
+769|BURNHAM|Do me a favor and don't talk.|speech|BURNHAM|M|True
+770|JUNIOR|Jesus, what was I thinking?|speech|JUNIOR|M|True
+771||INT.  PANIC ROOM - NIGHT|location|||
 772||"Meg has torn open one of the water packets and is trying to
 get Sarah to drink, but the little girl has gone completely
 pale and seems to have lost some of the strength in her neck,
 she's having trouble holding her head up.  Most of the water
-runs down her chin."|stage direction||
+runs down her chin."|stage direction|||
 773|MEG|"Come on, come on... stay with me...
-you gotta drink..."|speech|MEG|F
+you gotta drink..."|speech|MEG|F|True
 774||"She takes Sarah's hand, checks her wristwatch thing.  The
 readout is now
 82
-She swallows.  She grabs Sarah by the face."|stage direction||
+She swallows.  She grabs Sarah by the face."|stage direction|||
 775|MEG|"Okay, listen, honey, you went double
 digit here, you must have been
 shooting out adrenaline like crazy,
 we gotta bring your blood sugar back
-up, okay?  Can you hear me?"|speech|MEG|F
-776|SARAH|I'm dizzy, not deaf.|speech|SARAH|F
+up, okay?  Can you hear me?"|speech|MEG|F|True
+776|SARAH|I'm dizzy, not deaf.|speech|SARAH|F|True
 777|MEG|"Hey, she's still a smart ass,
 excellent sign.  Did you see any
 sugar in here?  Any candy bars,
-anything sweet?"|speech|MEG|F
-778|SARAH|Huh uh.|speech|SARAH|F
+anything sweet?"|speech|MEG|F|True
+778|SARAH|Huh uh.|speech|SARAH|F|True
 779|MEG|"Okay, you just gotta calm yourself
 down, that's all, just stay calm and
 your adrenaline will go back to
-normal and you'll be fine."|speech|MEG|F
-780|SARAH|What if I keep dropping?|speech|SARAH|F
-781|MEG|Not an option.|speech|MEG|F
-782|SARAH|What if I do?|speech|SARAH|F
-783||INT.  MASTER BEDROOM - NIGHT|location||
-784||In the bedroom, Junior has had enough.|stage direction||
-785|JUNIOR|We're leaving.|speech|JUNIOR|M
-786|RAOUL|The hell we are.|speech|RAOUL|M
+normal and you'll be fine."|speech|MEG|F|True
+780|SARAH|What if I keep dropping?|speech|SARAH|F|True
+781|MEG|Not an option.|speech|MEG|F|True
+782|SARAH|What if I do?|speech|SARAH|F|True
+783||INT.  MASTER BEDROOM - NIGHT|location|||
+784||In the bedroom, Junior has had enough.|stage direction|||
+785|JUNIOR|We're leaving.|speech|JUNIOR|M|True
+786|RAOUL|The hell we are.|speech|RAOUL|M|True
 787|BURNHAM|"Hey man, after all we went through I
 am not walking out when we're this
-close."|speech|BURNHAM|M
+close."|speech|BURNHAM|M|True
 788|JUNIOR|"Close?  Are you insane?  We're
 nowhere near close!  Fuck this, I'll
 make an anonymous phone call on
 Monday, they'll find the floor safe,
 and I'll inherit the shit.  Little
 piece of it, anyway, it's better
-than nothing."|speech|JUNIOR|M
-789|BURNHAM|What about us?|speech|BURNHAM|M
+than nothing."|speech|JUNIOR|M|True
+789|BURNHAM|What about us?|speech|BURNHAM|M|True
 790||"Junior thinks, then pulls out his wallet.  He thrusts a
-fistful of bills at them."|stage direction||
-791|JUNIOR|Here.  For your time.|speech|JUNIOR|M
-792||They both just stare at him.|stage direction||
-793|JUNIOR|Five hundred bucks here.|speech|JUNIOR|M
+fistful of bills at them."|stage direction|||
+791|JUNIOR|Here.  For your time.|speech|JUNIOR|M|True
+792||They both just stare at him.|stage direction|||
+793|JUNIOR|Five hundred bucks here.|speech|JUNIOR|M|True
 794||"Neither one of them moves to take it.  Junior shurgs, drops
-it on the floor."|stage direction||
-795|JUNIOR|Suit yourself.|speech|JUNIOR|M
-796|RAOUL|Nobody leaves.|speech|RAOUL|M
-797|JUNIOR|Observe.|speech|JUNIOR|M
+it on the floor."|stage direction|||
+795|JUNIOR|Suit yourself.|speech|JUNIOR|M|True
+796|RAOUL|Nobody leaves.|speech|RAOUL|M|True
+797|JUNIOR|Observe.|speech|JUNIOR|M|True
 798||"He heads for the door, expecting Raoul to block him, but as
 he draws close --
 -- Raoul just steps out of the way.  Junior passes through
-and heads for the stairs."|stage direction||
+and heads for the stairs."|stage direction|||
 799|BURNHAM|"We're not leaving.  I'm getting in
 that room, and I'm opening that
-safe."|speech|BURNHAM|M
+safe."|speech|BURNHAM|M|True
 800|JUNIOR|"Lookin' doubtful there, Big Guy, but
-ten out of ten for attitude."|speech|JUNIOR|M
+ten out of ten for attitude."|speech|JUNIOR|M|True
 801||"And he disappears, down the stairs, Burnham still pleading
-with him."|stage direction||
-802||INT.  PANIC ROOM - NIGHT|location||
+with him."|stage direction|||
+802||INT.  PANIC ROOM - NIGHT|location|||
 803||"Meg rifles the foodstuffs that are stored in the room.
-Sarah, in the corner, is starting to tremble."|stage direction||
-804|SARAH|What if I spazz out?|speech|SARAH|F
-805||(forced calm)|location||
+Sarah, in the corner, is starting to tremble."|stage direction|||
+804|SARAH|What if I spazz out?|speech|SARAH|F|True
+805||(forced calm)|location|||
 806|MEG|"No biggie, we've been through it a
 dozen times, I just jab you with the
-Glucogen."|speech|MEG|F
-807||Pause.  She keeps looking.|stage direction||
-808|SARAH|Where is the Glucogen?|speech|SARAH|F
+Glucogen."|speech|MEG|F|True
+807||Pause.  She keeps looking.|stage direction|||
+808|SARAH|Where is the Glucogen?|speech|SARAH|F|True
 809|MEG|"Oh, you know, it's uh... it's in the
-little fridge in your room."|speech|MEG|F
-810||(pause)|location||
-811|SARAH|I'm sorry, Mom.|speech|SARAH|F
+little fridge in your room."|speech|MEG|F|True
+810||(pause)|location|||
+811|SARAH|I'm sorry, Mom.|speech|SARAH|F|True
 812|MEG|"Hey, quit apologizing, you're
 starting to sound like Grandma.
 You're not gonna have an attack.
-Okay?"|speech|MEG|F
-813|SARAH|Okay.|speech|SARAH|F
+Okay?"|speech|MEG|F|True
+813|SARAH|Okay.|speech|SARAH|F|True
 814||"She lays back, oddly passive, her lips changing color.  She
-stares at the monitors."|stage direction||
-815||INT.  LIVING ROOM - NIGHT|location||
+stares at the monitors."|stage direction|||
+815||INT.  LIVING ROOM - NIGHT|location|||
 816||"Junior strides into the living room, purposefully.  He tosses
 some tools into his duffel bag and heads for the stairs down
-to the kitchen.  Burnham is behind him."|stage direction||
+to the kitchen.  Burnham is behind him."|stage direction|||
 817|BURNHAM|"Would you wait?  Would you please
-just wait a minute?"|speech|BURNHAM|M
+just wait a minute?"|speech|BURNHAM|M|True
 818||"But Junior heads down.  Burnham follows.  Raoul is just
-coming down from upstairs."|stage direction||
-819||INT.  KITCHEN - NIGHT|location||
+coming down from upstairs."|stage direction|||
+819||INT.  KITCHEN - NIGHT|location|||
 820||"Junior reaches the door of the kitchen, tries to open it,
 realizes it's screwed shut.  He takes out a screwdriver and
-starts unscrewing the screws.  Burnham stops at the stairway."|stage direction||
+starts unscrewing the screws.  Burnham stops at the stairway."|stage direction|||
 821|BURNHAM|"You walk out that door and you lose
-your share of the money."|speech|BURNHAM|M
-822|JUNIOR|Yeah, whatever.|speech|JUNIOR|M
-823|BURNHAM|I mean it!|speech|BURNHAM|M
-824|JUNIOR|Adios.|speech|JUNIOR|M
+your share of the money."|speech|BURNHAM|M|True
+822|JUNIOR|Yeah, whatever.|speech|JUNIOR|M|True
+823|BURNHAM|I mean it!|speech|BURNHAM|M|True
+824|JUNIOR|Adios.|speech|JUNIOR|M|True
 825||"He gets the last screw out, throws open the door, and BLAST
 of wind gusts in, it's a blustery night out there, he takes a
 step into the doorway --
@@ -2234,43 +2234,43 @@ whizzes across the kitchen and hits Junior in the back of the
 head.  He crumples, right in the open kitchen doorway.
 Burnham SHOUTS incoherently and turns.  Raoul is standing
 there, two steps up, a silencer twisted onto the barrel of
-his gun."|stage direction||
-826|RAOUL|Nobody leaves.|speech|RAOUL|M
-827||INT.  PANIC ROOM - NIGHT|location||
+his gun."|stage direction|||
+826|RAOUL|Nobody leaves.|speech|RAOUL|M|True
+827||INT.  PANIC ROOM - NIGHT|location|||
 828||"Sarah is staring at the video monitors, eyes wide.  She
 raises one trembling finger, points at the kitchen monitor,
 tries to mouth the words, can't.
-Meg looks up."|stage direction||
-829||INT.  KITCHEN - NIGHT|location||
-830||Burnham is freaking out, but trying to stay calm.|stage direction||
-831|BURNHAM|Oh God... oh, my God...|speech|BURNHAM|M
+Meg looks up."|stage direction|||
+829||INT.  KITCHEN - NIGHT|location|||
+830||Burnham is freaking out, but trying to stay calm.|stage direction|||
+831|BURNHAM|Oh God... oh, my God...|speech|BURNHAM|M|True
 832||"Raoul walks past him calmly, grabs Junior by the ankles, and
 drags him back into the house.  He turns, looks at Burnham,
-whose jaw is dropped in horror."|stage direction||
+whose jaw is dropped in horror."|stage direction|||
 833|RAOUL|"You should see the look on your
-face."|speech|RAOUL|M
-834|BURNHAM|The fuck did you do that for?!|speech|BURNHAM|M
+face."|speech|RAOUL|M|True
+834|BURNHAM|The fuck did you do that for?!|speech|BURNHAM|M|True
 835|RAOUL|"Fuckin' asshole, thinks he knows me.
 Drives his German car up to 125th
 Street a couple of times, buys a few
 rounds, thinks he's a tough guy,
-thinks he knows me."|speech|RAOUL|M
-836||(to the corpse)|location||
-837|RAOUL|You don't know one thing about me!|speech|RAOUL|M
+thinks he knows me."|speech|RAOUL|M|True
+836||(to the corpse)|location|||
+837|RAOUL|You don't know one thing about me!|speech|RAOUL|M|True
 838||"While Burnham stares down at the body in shock and Raoul
 stares at Burnham, his back to the outside, a small, thin
-VOICE comes from the still-open doorway."|stage direction||
-839|VOICE|What the h --|speech|VOICE|F
+VOICE comes from the still-open doorway."|stage direction|||
+839|VOICE|What the h --|speech|VOICE|F|
 840||"They turn.  A man, fiftyish, stands there in hastily thrown
-on clothes, staring down at the dead body in mute shock."|stage direction||
-841||INT.  PANIC ROOM - NIGHT|location||
+on clothes, staring down at the dead body in mute shock."|stage direction|||
+841||INT.  PANIC ROOM - NIGHT|location|||
 842||"Meg, watching the monitors with Sarah, GASPS as she sees the
 man, whose name is HARRIS.  While she and Sarah watch --
 ON THE MONITORS,
 -- they see the silent image of Harris, set upon by Raoul,
 who grabs him roughly and drags him inside.  Burnham hurries
-to the door --"|stage direction||
-843||INT.  KITCHEN - NIGHT|location||
+to the door --"|stage direction|||
+843||INT.  KITCHEN - NIGHT|location|||
 844||"-- and SLAMS it shut.  He puts his back to it, thinking,
 terrified, things are spinning out of control, fast.
 Raoul, in the middle of the kitchen floor, is venting some
@@ -2278,115 +2278,115 @@ more of his rage on Harris, whom he has hurled to the floor.
 He lands a solid boot in the side of Harris's head, leaving
 him GROANING in pain, completely disoriented.
 Harris rolls groggily into the spreading pool of blood coming
-from underneath Junior."|stage direction||
-845|BURNHAM|Stop it!  Stop it!|speech|BURNHAM|M
-846||(turning on him)|location||
+from underneath Junior."|stage direction|||
+845|BURNHAM|Stop it!  Stop it!|speech|BURNHAM|M|True
+846||(turning on him)|location|||
 847|RAOUL|"Who's the clown now?  Huh?!  Who's
-the fucking clown now?!"|speech|RAOUL|M
+the fucking clown now?!"|speech|RAOUL|M|True
 848||"He pulls his gun, shoves it into Burnham's eye, hard, we can
-hear the faint SIZZLE of skin burning."|stage direction||
-849|BURNHAM|Me.  I am.|speech|BURNHAM|M
-850|RAOUL|That's right.|speech|RAOUL|M
-851|BURNHAM|Burning me.  It's burning my eye.|speech|BURNHAM|M
-852|RAOUL|I have the gun.|speech|RAOUL|M
-853|BURNHAM|Yes.|speech|BURNHAM|M
-854|RAOUL|Remember that.|speech|RAOUL|M
-855|BURNHAM|Please...|speech|BURNHAM|M
+hear the faint SIZZLE of skin burning."|stage direction|||
+849|BURNHAM|Me.  I am.|speech|BURNHAM|M|True
+850|RAOUL|That's right.|speech|RAOUL|M|True
+851|BURNHAM|Burning me.  It's burning my eye.|speech|BURNHAM|M|True
+852|RAOUL|I have the gun.|speech|RAOUL|M|True
+853|BURNHAM|Yes.|speech|BURNHAM|M|True
+854|RAOUL|Remember that.|speech|RAOUL|M|True
+855|BURNHAM|Please...|speech|BURNHAM|M|True
 856||"Raoul pulls the gun back, just an inch.  The skin around
 Burnham's eye is an angry red.  His eyes dart, strain to look
-over at Harris, MOANING on the floor.  And at Junior, dead."|stage direction||
-857|BURNHAM|What?  What do you want me to do?|speech|BURNHAM|M
+over at Harris, MOANING on the floor.  And at Junior, dead."|stage direction|||
+857|BURNHAM|What?  What do you want me to do?|speech|BURNHAM|M|True
 858|RAOUL|"What do you think?  Get us into that
-room."|speech|RAOUL|M
-859|BURNHAM|I can't.|speech|BURNHAM|M
-860||Raoul pushes the gun barrel back into Burnham's eye socket.|stage direction||
+room."|speech|RAOUL|M|True
+859|BURNHAM|I can't.|speech|BURNHAM|M|True
+860||Raoul pushes the gun barrel back into Burnham's eye socket.|stage direction|||
 861|RAOUL|"You can.  You're full of ideas.  You
-just need to squeeze one out."|speech|RAOUL|M
-862|BURNHAM|I can't...|speech|BURNHAM|M
+just need to squeeze one out."|speech|RAOUL|M|True
+862|BURNHAM|I can't...|speech|BURNHAM|M|True
 863|RAOUL|"You got till the count of three.
-Then you end up like him."|speech|RAOUL|M
+Then you end up like him."|speech|RAOUL|M|True
 864||"He tilts his head over to Junior, whose brains are spreading
-out on the kitchen floor."|stage direction||
-865|RAOUL|One.  Squeeze.|speech|RAOUL|M
-866|BURNHAM|This is ridiculous...|speech|BURNHAM|M
-867|RAOUL|Two.  Squeeze harder.|speech|RAOUL|M
-868|BURNHAM|I can't just...|speech|BURNHAM|M
-869|RAOUL|Th --|speech|RAOUL|M
-870|BURNHAM|Okay, okay!  Okay.|speech|BURNHAM|M
-871|RAOUL|You got an idea?|speech|RAOUL|M
+out on the kitchen floor."|stage direction|||
+865|RAOUL|One.  Squeeze.|speech|RAOUL|M|True
+866|BURNHAM|This is ridiculous...|speech|BURNHAM|M|True
+867|RAOUL|Two.  Squeeze harder.|speech|RAOUL|M|True
+868|BURNHAM|I can't just...|speech|BURNHAM|M|True
+869|RAOUL|Th --|speech|RAOUL|M|True
+870|BURNHAM|Okay, okay!  Okay.|speech|BURNHAM|M|True
+871|RAOUL|You got an idea?|speech|RAOUL|M|True
 872|BURNHAM|"Yeah.  Yeah, I got an idea.  I gotta
-check something."|speech|BURNHAM|M
+check something."|speech|BURNHAM|M|True
 873||"Raoul GRUNTS, satisfied.  Pulls the gun back.  Burnham slides
 away, shaking.  He bends down, to the floor.  He looks at
 Harris's left hand.  At his index finger.
 He sees a white strip of skin, where Harris wore his wedding
-ring, until recently."|stage direction||
-874||CUT TO:|unknown||
-875||INT.  MASTER BEDROOM - NIGHT|location||
+ring, until recently."|stage direction|||
+874||CUT TO:|unknown|||
+875||INT.  MASTER BEDROOM - NIGHT|location|||
 876||"Harris, still semi-conscious, is hurled against the metal
 door of the panic room.  He collapses at its base.  Burnham,
-bends down next to him."|stage direction||
+bends down next to him."|stage direction|||
 877|BURNHAM|"Okay, look.  I know you can hear me.
 Your wife and kid are in there.
 You're gonna get 'em to come out.
-Or --"|speech|BURNHAM|M
-878||He looks up at Raoul, hulking overhead, gun in hand.|stage direction||
+Or --"|speech|BURNHAM|M|True
+878||He looks up at Raoul, hulking overhead, gun in hand.|stage direction|||
 879|BURNHAM|"Or I can't stop what he's gonna do.
-Do you understand?"|speech|BURNHAM|M
+Do you understand?"|speech|BURNHAM|M|True
 880||"Harris, regaining some semblance of consciousness, nods
-feebly."|stage direction||
-881|BURNHAM|Good.|speech|BURNHAM|M
-882||Burnham stands up, turns to the video camera, and SHOUTS.|stage direction||
-883|BURNHAM|OPEN THE GOD DAMN DOOR!|speech|BURNHAM|M
-884||INT.  PANIC ROOM - NIGHT|location||
-885||Sarah and Meg see the horrifying sight on the video monitors.|stage direction||
-886||INT.  MASTER BEDROOM - NIGHT|location||
-887||Burnham SHOUTS at the door to the room.|stage direction||
-888|BURNHAM|OPEN UP!|speech|BURNHAM|M
+feebly."|stage direction|||
+881|BURNHAM|Good.|speech|BURNHAM|M|True
+882||Burnham stands up, turns to the video camera, and SHOUTS.|stage direction|||
+883|BURNHAM|OPEN THE GOD DAMN DOOR!|speech|BURNHAM|M|True
+884||INT.  PANIC ROOM - NIGHT|location|||
+885||Sarah and Meg see the horrifying sight on the video monitors.|stage direction|||
+886||INT.  MASTER BEDROOM - NIGHT|location|||
+887||Burnham SHOUTS at the door to the room.|stage direction|||
+888|BURNHAM|OPEN UP!|speech|BURNHAM|M|True
 889||"ON THE MONITORS,
 they see Burnham, standing over Harris; they faintly hear him
 call to them to open the door.
 And then they hear another VOICE, calling back to them.
-Sarah sits up, recognizes her father's voice."|stage direction||
-890|SARAH (O.S.)|DADDY!|speech|SARAH|F
-891||INT.  MASTER BEDROOM - NIGHT|location||
-892||Harris is SHOUTING against the closed door.|stage direction||
+Sarah sits up, recognizes her father's voice."|stage direction|||
+890|SARAH (O.S.)|DADDY!|speech|SARAH|F|True
+891||INT.  MASTER BEDROOM - NIGHT|location|||
+892||Harris is SHOUTING against the closed door.|stage direction|||
 893|HARRIS|"DON'T DO IT!  NO MATTER WHAT
 HAPPENS, DON'T OPEN THE DOOR!
-DON'T O --"|speech|HARRIS|M
+DON'T O --"|speech|HARRIS|M|
 894||"He's silenced by a vicious kick to the ribs.  Raoul begins to
 beat him.
 Burnham stands by, powerless, horrifies, watching as Raoul
 savages Harris, who continues to call out, as long as he has
-strength, telling Meg not to open the door, no matter what."|stage direction||
-895||INT.  PANIC ROOM - NIGHT|location||
+strength, telling Meg not to open the door, no matter what."|stage direction|||
+895||INT.  PANIC ROOM - NIGHT|location|||
 896||"Meg and Sarah SHOUT in horror, she covers her daughter's
 face, turn her away from the screen, SCREAMS in incoherent
 anger of her own.
-But she doesn't open the door."|stage direction||
-897||INT.  MASTER BEDROOM - NIGHT|location||
-898||Burnham SHOUTS at Raoul, pleading.|stage direction||
+But she doesn't open the door."|stage direction|||
+897||INT.  MASTER BEDROOM - NIGHT|location|||
+898||Burnham SHOUTS at Raoul, pleading.|stage direction|||
 899|BURNHAM|"STOP IT, MAN, STOP IT, THAT'S HIS
 KID IN THERE, HIS KID IS WATCHING
-THIS!!"|speech|BURNHAM|M
+THIS!!"|speech|BURNHAM|M|True
 900||"But Raoul whips the gun up, into Burnham's throat, backing
 him off, shutting him up.
 He resumes his pounding of Harris.
 Burnham turns, looks up at the camera in the corner of the
 room.
 He can't stand it anymore.  He whips off his jacket, runs to
-the camera, and covers the lens."|stage direction||
-901||INT.  PANIC ROOM - NIGHT|location||
+the camera, and covers the lens."|stage direction|||
+901||INT.  PANIC ROOM - NIGHT|location|||
 902||"While Meg watches, the monitor that cover the master bedroom
 abruptly goes black, mercifully sparing them the sight of
 Harris's beating.
-She holds Sarah, who's sobbing, shaking."|stage direction||
-903||INT.  MASTER BEDROOM - NIGHT|location||
+She holds Sarah, who's sobbing, shaking."|stage direction|||
+903||INT.  MASTER BEDROOM - NIGHT|location|||
 904||"Harris finally lapses into unconsciousness.  Raoul stands
 over him, chest heaving.
 Burnham stand in the doorway, neither in nor out of the room,
-a silhouette, head hung."|stage direction||
-905||INT.  PANIC ROOM - NIGHT|location||
+a silhouette, head hung."|stage direction|||
+905||INT.  PANIC ROOM - NIGHT|location|||
 906||"Meg tries desperately to see something on the bedroom
 monitor, but it's hopeless, it's covered.  On the hallway
 monitor, she can just see shadows, as two men in the bedroom
@@ -2397,8 +2397,8 @@ face is completely white, her lips blue, her eyes rolled back
 into her head.  The BEEPING sound grows louder, she checks
 Sarah's wristwatch, the reading is dire:
 57
-Meg GASPS, horrifies."|stage direction||
-907|MEG|Oh God, oh my God...|speech|MEG|F
+Meg GASPS, horrifies."|stage direction|||
+907|MEG|Oh God, oh my God...|speech|MEG|F|True
 908||"Sarah begins to convulse, she bucks right out of Meg's arms
 and falls back onto the floor of the panic room.  Meg clears
 everything away from her, tries to make room for her.
@@ -2414,8 +2414,8 @@ Sarah sighs, a shuddering sigh of relief, but she is nowhere
 near normal.
 Her skin has passed through white and is turning a sallow
 yellow color.  She moves her lips, Meg can't hear her, she
-bends down:"|stage direction||
-909|SARAH|You gotta jab me, Mommy...|speech|SARAH|F
+bends down:"|stage direction|||
+909|SARAH|You gotta jab me, Mommy...|speech|SARAH|F|True
 910||"Meg turns, looks back at the monitors.  What she sees is good
 news --
 ON THE MONITORS,
@@ -2435,39 +2435,39 @@ She turns, looks back at Sarah, who is starting to tremble
 again.
 That does it.  Meg leaps up, hits the button that controls
 the steel door, and it starts to crank open, almost
-impossibly slowly."|stage direction||
-911||INT.  MASTER BEDROOM - NIGHT|location||
+impossibly slowly."|stage direction|||
+911||INT.  MASTER BEDROOM - NIGHT|location|||
 912||"Meg steps out of the panic room, into the master bedroom.
 She looks at Harris, on the bed.  With his back to her she
 can't even tell if he's alive or dead, but first things must
-be first, so she turns and races out of the room."|stage direction||
-913||INT.  HALLWAY - NIGHT|location||
-914||Meg flies up the stairs, bare feet on padded carpet.|stage direction||
-915||INT.  LIVING ROOM - NIGHT|location||
+be first, so she turns and races out of the room."|stage direction|||
+913||INT.  HALLWAY - NIGHT|location|||
+914||Meg flies up the stairs, bare feet on padded carpet.|stage direction|||
+915||INT.  LIVING ROOM - NIGHT|location|||
 916||"In the living room, Raoul looks up, hearing the pitter-pat of
 her feet on the stairs above.
 He smiles and pulls his ski mask back on, to cover his face.
 Coming around behind him, we see Burnham sitting in the
 chair.  Except it isn't Burnham at all, it's Harris,
 unconscious, wearing Burnham's shirt.
-And if Harris is the person in the chair, that means --"|stage direction||
-917||INT.  MASTER BEDROOM - NIGHT|location||
+And if Harris is the person in the chair, that means --"|stage direction|||
+917||INT.  MASTER BEDROOM - NIGHT|location|||
 918||"-- the person on the bed in the bedroom is Burnham, wearing
 Harris's shirt.  His eyes pop open, he sits up, sees the wide
-open door to the panic room."|stage direction||
-919||INT.  SARAH'S BEDROOM - NIGHT|location||
+open door to the panic room."|stage direction|||
+919||INT.  SARAH'S BEDROOM - NIGHT|location|||
 920||"Meg races into Sarah's bedroom and tears open the door of a
 mini-fridge.  Inside are dozens of little bottles of insulin
 and something called Glucogen.
 She grabs a bottle of Glucogen and a black leather pouch and
-takes off."|stage direction||
-921||INT.  HALLWAY - NIGHT|location||
+takes off."|stage direction|||
+921||INT.  HALLWAY - NIGHT|location|||
 922||"As Meg nears the bottom of the stairs, she sees a horrifying
 sight.  It's Raoul, ski mask over his face, standing in the
 doorway of the master bedroom.
 She SCREAMS, he SLAMS the door, she takes off down the hall,
-reaches the end, throws the door open --"|stage direction||
-923||INT.  MASTER BEDROOM - NIGHT|location||
+reaches the end, throws the door open --"|stage direction|||
+923||INT.  MASTER BEDROOM - NIGHT|location|||
 924||"-- and races into the master bedroom, where Raoul is
 motoring, fast, headed for the panic room, where she can
 already see Burnham, standing in the middle of the open
@@ -2499,51 +2499,51 @@ And then it's silent.  Meg WAILS in agony, POUNDS on the
 door.
 She stands back, chest heaving, sobbing.
 A looooong moment goes by.
-Finally, a VOICE comes over the house's intercom system."|stage direction||
-925||(calmly)|location||
+Finally, a VOICE comes over the house's intercom system."|stage direction|||
+925||(calmly)|location|||
 926|RAOUL (O.S.)|"If you leave the house, we'll kill
-her."|speech|RAOUL|M
-927||Meg sobs.|stage direction||
+her."|speech|RAOUL|M|True
+927||Meg sobs.|stage direction|||
 928|RAOUL (O.S.)|"If I see a uniform in the house,
-we'll kill her."|speech|RAOUL|M
-929|MEG|Oh... oh...|speech|MEG|F
-930|RAOUL (O.S.)|You understand?|speech|RAOUL|M
+we'll kill her."|speech|RAOUL|M|True
+929|MEG|Oh... oh...|speech|MEG|F|True
+930|RAOUL (O.S.)|You understand?|speech|RAOUL|M|True
 931||"ON THE MONITORS,
 Meg looks up at the camera in the master bedroom.  She nods,
 terrified.
 IN THE PANIC ROOM,
 Burnham pushes past Raoul, at the speaker button, and leans
-forward.  He's approaching exhaustion."|stage direction||
-932||(into speaker)|location||
+forward.  He's approaching exhaustion."|stage direction|||
+932||(into speaker)|location|||
 933|BURNHAM|"I just... I just need forty-five
-minutes."|speech|BURNHAM|M
-934||Raoul stands behind him, muttering to himself.|stage direction||
-935|RAOUL|Saw my face, man.  Saw my face.|speech|RAOUL|M
+minutes."|speech|BURNHAM|M|True
+934||Raoul stands behind him, muttering to himself.|stage direction|||
+935|RAOUL|Saw my face, man.  Saw my face.|speech|RAOUL|M|True
 936||"ON THE MONITORS,
 we see Meg's face, agonized, as she lunges toward the camera,
 SCREAMING something up at it, the same thing, over and over.
 But in here her voice is nearly muted, what bleeds through
 the walls isn't enough to be heard.
 IN THE PANIC ROOM,
-Raoul looks at her image on the monitor, irritated."|stage direction||
-937|RAOUL|Shut up.|speech|RAOUL|M
+Raoul looks at her image on the monitor, irritated."|stage direction|||
+937|RAOUL|Shut up.|speech|RAOUL|M|True
 938||"IN THE MASTER BEDROOM,
-we abruptly hear her voice, full-throated."|stage direction||
-939||(shouting into the camera)|location||
+we abruptly hear her voice, full-throated."|stage direction|||
+939||(shouting into the camera)|location|||
 940|MEG|"-- cine, she needs the MEDICINE!
-GIVE HER THE --"|speech|MEG|F
+GIVE HER THE --"|speech|MEG|F|True
 941||"IN THE PANIC ROOM,
 Sarah shivers in a corner, knees pulled up to her chest,
 staring at the intruders, scared out of her wits, and looking
 very, very sick.
 Burnham looks at her, musters the most reassuring face he can
-come up with under the circumstances."|stage direction||
+come up with under the circumstances."|stage direction|||
 942|BURNHAM|"It's gonna be cool, kid.  Be outta
-here before you know it."|speech|BURNHAM|M
+here before you know it."|speech|BURNHAM|M|True
 943||"No response from Sarah.  Burnham cocks a head, really looking
-at her."|stage direction||
-944|BURNHAM|Are you okay?|speech|BURNHAM|M
-945|RAOUL|Hurry up, for Christ's sake!|speech|RAOUL|M
+at her."|stage direction|||
+944|BURNHAM|Are you okay?|speech|BURNHAM|M|True
+945|RAOUL|Hurry up, for Christ's sake!|speech|RAOUL|M|True
 946||"Burnham turns, grabs his satchel, and drops to his knees in
 the middle of the floor.  Over his shoulder, we can see the
 face of Meg on one of the monitors, shouting into the camera,
@@ -2563,117 +2563,117 @@ out and opens up onto the floor, revealing a neat array of
 safecracking tools.
 He begins his delicate work, but is suddenly jarred by a
 POUNDING on the metal door.  He turns, annoyed.  Meg is still
-SCREAMING outside the door."|stage direction||
-947|BURNHAM|The hell does she want?|speech|BURNHAM|M
+SCREAMING outside the door."|stage direction|||
+947|BURNHAM|The hell does she want?|speech|BURNHAM|M|True
 948|RAOUL|"I don't know, she keeps screamin'
-the same thing over and over."|speech|RAOUL|M
+the same thing over and over."|speech|RAOUL|M|True
 949||"Burnham turns, looks at the monitors.
 ON THE MONITORS,
 Meg is staring up at the camera, miming the act of giving
 herself an injection in the arm.
 IN THE PANIC ROOM,
-Raoul laughs."|stage direction||
+Raoul laughs."|stage direction|||
 950|RAOUL|"Drugs.  She wants drugs.  What the
-fuck?"|speech|RAOUL|M
+fuck?"|speech|RAOUL|M|True
 951||"But Burnham thinks.  His eyes fall on the bottle and the
 leather pouch she hurled through the door, then whip over to
 Sarah, who sags over into a fetal position on the floor.  Her
-lips are moving."|stage direction||
-952|BURNHAM|Oh, man...|speech|BURNHAM|M
+lips are moving."|stage direction|||
+952|BURNHAM|Oh, man...|speech|BURNHAM|M|True
 953||"He crawls over to Sarah, puts his ear down next to Sarah's
-lips."|stage direction||
-954|BURNHAM|What is it?|speech|BURNHAM|M
+lips."|stage direction|||
+954|BURNHAM|What is it?|speech|BURNHAM|M|True
 955||"Sarah tries to summon enough strength to speak, but her
-breath comes hard."|stage direction||
-956|SARAH|I need...|speech|SARAH|F
-957|BURNHAM|Yeah?|speech|BURNHAM|M
-958|SARAH|... 'jection...|speech|SARAH|F
-959|BURNHAM|An injection?|speech|BURNHAM|M
+breath comes hard."|stage direction|||
+956|SARAH|I need...|speech|SARAH|F|True
+957|BURNHAM|Yeah?|speech|BURNHAM|M|True
+958|SARAH|... 'jection...|speech|SARAH|F|True
+959|BURNHAM|An injection?|speech|BURNHAM|M|True
 960||"Sarah nods.  Burnham points to the pouch and the Glucogen, on
-the floor nearby."|stage direction||
-961|BURNHAM|That stuff?|speech|BURNHAM|M
-962||Sarah nods again.|stage direction||
-963|BURNHAM|Can you do it yourself?|speech|BURNHAM|M
-964||Sarah shakes her head no.|stage direction||
-965|BURNHAM|Well, I don't know how.|speech|BURNHAM|M
+the floor nearby."|stage direction|||
+961|BURNHAM|That stuff?|speech|BURNHAM|M|True
+962||Sarah nods again.|stage direction|||
+963|BURNHAM|Can you do it yourself?|speech|BURNHAM|M|True
+964||Sarah shakes her head no.|stage direction|||
+965|BURNHAM|Well, I don't know how.|speech|BURNHAM|M|True
 966||"Sarah looks at him, eyes pleading.  Raoul stands behind
-Burnham."|stage direction||
-967|RAOUL|I don't fucking believe this.|speech|RAOUL|M
-968||(to Sarah)|location||
-969|RAOUL|You gotta wait.|speech|RAOUL|M
-970||Sarah just looks at Burnham.  Please.|stage direction||
+Burnham."|stage direction|||
+967|RAOUL|I don't fucking believe this.|speech|RAOUL|M|True
+968||(to Sarah)|location|||
+969|RAOUL|You gotta wait.|speech|RAOUL|M|True
+970||Sarah just looks at Burnham.  Please.|stage direction|||
 971|BURNHAM|"Yeah, just like a half hour, maybe a
 little more, and your mom'll give it
 to you.  You can wait a half hour,
-can't you?"|speech|BURNHAM|M
+can't you?"|speech|BURNHAM|M|True
 972|RAOUL|"Yeah.  She can.  She's fine, she's
 just like, tired, she's gotta rest.
-You rest, Kid.  Half an hour."|speech|RAOUL|M
-973||Sarah looks terrified, shaking her head no.|stage direction||
-974|RAOUL|Come on.|speech|RAOUL|M
+You rest, Kid.  Half an hour."|speech|RAOUL|M|True
+973||Sarah looks terrified, shaking her head no.|stage direction|||
+974|RAOUL|Come on.|speech|RAOUL|M|True
 975||"He starts to pull Burnham away, but Burnham shakes his hand
-off, violently.  He bends down very close to Sarah's lips."|stage direction||
+off, violently.  He bends down very close to Sarah's lips."|stage direction|||
 976|BURNHAM|"Tell me the truth, okay?  What's
-gonna happen if you don't get this?"|speech|BURNHAM|M
+gonna happen if you don't get this?"|speech|BURNHAM|M|True
 977||"Sarah swallows, licks her cracking lips.  When she speaks,
 it's breathy, almost inaudible.
-But the words are clear."|stage direction||
-978|SARAH|Coma.  Die.|speech|SARAH|F
-979||INT.  MASTER BEDROOM - NIGHT|location||
+But the words are clear."|stage direction|||
+978|SARAH|Coma.  Die.|speech|SARAH|F|True
+979||INT.  MASTER BEDROOM - NIGHT|location|||
 980||"Seen from overhead, Meg paces in the master bedroom, out of
 her mind with worry, no idea how to communicate to the people
 in the room the desperate situation.
-Suddenly, a VOICE comes over the intercom speaker."|stage direction||
+Suddenly, a VOICE comes over the intercom speaker."|stage direction|||
 981|BURNHAM (O.S.)|"I understand.  I'll give her the
-shot."|speech|BURNHAM|M
-982||INT.  PANIC ROOM - NIGHT|location||
+shot."|speech|BURNHAM|M|True
+982||INT.  PANIC ROOM - NIGHT|location|||
 983||"A HAND comes down into frame and picks up the Glucogen and
 the leather pouch.  Burnham stands, looking down at them.
-Raoul grabs him, pulls him to the far end of the room."|stage direction||
+Raoul grabs him, pulls him to the far end of the room."|stage direction|||
 984|RAOUL|"You're wasting your fucking time,
 man, you're wasting my time.  You
 don't know how to do this, and the
 longer we stay in here, the more
 likely she's gonna lose it and call
-the cops!"|speech|RAOUL|M
-985|BURNHAM|Are you gonna open the safe?|speech|BURNHAM|M
-986||Raoul looks at him.|stage direction||
-987|BURNHAM|Then shut up and get out of my way.|speech|BURNHAM|M
+the cops!"|speech|RAOUL|M|True
+985|BURNHAM|Are you gonna open the safe?|speech|BURNHAM|M|True
+986||Raoul looks at him.|stage direction|||
+987|BURNHAM|Then shut up and get out of my way.|speech|BURNHAM|M|True
 988||"As Burnham crosses the room, Raoul makes eye contact with
-Sarah, who is staring at him."|stage direction||
-989|RAOUL|Don't look at me.|speech|RAOUL|M
+Sarah, who is staring at him."|stage direction|||
+989|RAOUL|Don't look at me.|speech|RAOUL|M|True
 990||"ACROSS THE ROOM,
 Burnham drops to his knees next to Sarah and unzips the
-pouch."|stage direction||
+pouch."|stage direction|||
 991|BURNHAM|"Okay, kid, all I know about this is
 what I've seen on TV, you gotta talk
-me through it."|speech|BURNHAM|M
+me through it."|speech|BURNHAM|M|True
 992||"Sarah tries to form words, but she's too weak.  Burnham
-swallows."|stage direction||
+swallows."|stage direction|||
 993|BURNHAM|"Okay.  No talking.  No problem.  TV
-don't lie, right?"|speech|BURNHAM|M
+don't lie, right?"|speech|BURNHAM|M|True
 994||"He reaches into the pouch, take out a syringe, a sterile pad,
 and a length of rubber tubing.  He takes Sarah's arm,
-stretches it out, exposing the underside of her forearm."|stage direction||
+stretches it out, exposing the underside of her forearm."|stage direction|||
 995|BURNHAM|"You seem like a good kid.  Your
 mom... only saw her for a second,
-but, woah.  Beautiful, huh?"|speech|BURNHAM|M
+but, woah.  Beautiful, huh?"|speech|BURNHAM|M|True
 996||"No answer.  Burnham ties the rubber tubing around Sarah's
-arm, pulls it tight."|stage direction||
+arm, pulls it tight."|stage direction|||
 997|BURNHAM|"Hey, nod or something, show me
-you're still alive, will ya?"|speech|BURNHAM|M
-998||Sarah nods.|stage direction||
-999|BURNHAM|Attagirl.  That too tight?|speech|BURNHAM|M
+you're still alive, will ya?"|speech|BURNHAM|M|True
+998||Sarah nods.|stage direction|||
+999|BURNHAM|Attagirl.  That too tight?|speech|BURNHAM|M|True
 1000||"Sarah shakes her head no.  Burnham takes the syringe, starts
-to fill it from the Glucogen bottle."|stage direction||
-1001|BURNHAM|You guys are pretty rich, huh?|speech|BURNHAM|M
+to fill it from the Glucogen bottle."|stage direction|||
+1001|BURNHAM|You guys are pretty rich, huh?|speech|BURNHAM|M|True
 1002||"Sarah shrugs.  While Burnham goes through the process of
 finding an exposed vein and giving the injection itself, he
-goes on, as much to comfort Sarah as to comfort himself:"|stage direction||
+goes on, as much to comfort Sarah as to comfort himself:"|stage direction|||
 1003|BURNHAM|"Yeah, you don't think about that
-stuff.  Good for you."|speech|BURNHAM|M
+stuff.  Good for you."|speech|BURNHAM|M|True
 1004||"He looks at her, sees her looking at him.  Thinking about
-him."|stage direction||
+him."|stage direction|||
 1005|BURNHAM|"I know, I know.  I really screwed
 the pooch this time.  I never did
 anything like this before.  Break
@@ -2681,9 +2681,9 @@ into somebody's house?  Not even
 close.  Bad cards, Kid.  I swear to
 God, I been on the wrong end of
 maybe six straight years of bad
-cards.  House.  Car.  Wife."|speech|BURNHAM|M
-1006||(snaps his fingers --|location||
-1007||gone)|unknown||
+cards.  House.  Car.  Wife."|speech|BURNHAM|M|True
+1006||(snaps his fingers --|location|||
+1007||gone)|unknown|||
 1008|BURNHAM|"Those are some seriously bad cards.
 And still, every time I pick up a
 fresh hand I swear to God, the rush
@@ -2692,47 +2692,47 @@ right down to my toes because this
 time, this one time, it might be
 there, this time it might be that
 hand, that perfect hand, that
-monster hand."|speech|BURNHAM|M
-1009||(shakes his head)|location||
-1010|BURNHAM|And you thought you were sick.|speech|BURNHAM|M
+monster hand."|speech|BURNHAM|M|True
+1009||(shakes his head)|location|||
+1010|BURNHAM|And you thought you were sick.|speech|BURNHAM|M|True
 1011||"The shot successfully given, he pulls Sarah's sleeve back
-down."|stage direction||
-1012|BURNHAM|Feel better?|speech|BURNHAM|M
+down."|stage direction|||
+1012|BURNHAM|Feel better?|speech|BURNHAM|M|True
 1013||"Sarah nods, and she seems better already.  Burnham helps her
-to sit up, to lean against the wall."|stage direction||
-1014|BURNHAM|Woulda been a hell of a dad.|speech|BURNHAM|M
-1015||CUT TO:|unknown||
-1016||INT.  MASTER BEDROOM - NIGHT|location||
+to sit up, to lean against the wall."|stage direction|||
+1014|BURNHAM|Woulda been a hell of a dad.|speech|BURNHAM|M|True
+1015||CUT TO:|unknown|||
+1016||INT.  MASTER BEDROOM - NIGHT|location|||
 1017||"A VOICE comes over the intercom in the master bedroom.  It's
-Raoul."|stage direction||
-1018|RAOUL (O.S.)|She's okay.  Now sit down and wait.|speech|RAOUL|M
+Raoul."|stage direction|||
+1018|RAOUL (O.S.)|She's okay.  Now sit down and wait.|speech|RAOUL|M|True
 1019||"He CLICKS off.
 Meg is hugely relieved.  And extremely pissed off.  She goes
 to the corner of the room and picks up the gun, the one that
 Raoul dropped.
-She heads downstairs."|stage direction||
-1020||INT.  PANIC ROOM - NIGHT|location||
+She heads downstairs."|stage direction|||
+1020||INT.  PANIC ROOM - NIGHT|location|||
 1021||"Sparks fly as Burnham goes to work on the floor safe with a
 small, specialized drill.
-Raoul bends down next to him."|stage direction||
+Raoul bends down next to him."|stage direction|||
 1022|RAOUL|"Congratulations.  You saved her life
-for ten minutes."|speech|RAOUL|M
+for ten minutes."|speech|RAOUL|M|True
 1023||"Burnham looks up at him -- what?  But Raoul turns and walks
 away.
-Burnham goes back to work."|stage direction||
-1024||INT.  LIVING ROOM - NIGHT|location||
+Burnham goes back to work."|stage direction|||
+1024||INT.  LIVING ROOM - NIGHT|location|||
 1025||"Meg is in the living room, with Harris, who is still slouched
 in the chair.  He's in awful shape, barely conscious.
 Out of the silence, a sudden, deafening sound.
 The DOORBELL.
 Her eyes go wide.  She darts a look over to the door (the one
 that leads to the stoop, not the bloody kitchen door
-downstairs), then back at Harris."|stage direction||
-1026|HARRIS|Police.|speech|HARRIS|M
-1027||(gasps)|location||
-1028|MEG|You called the police?|speech|MEG|F
-1029||He nods.|stage direction||
-1030|HARRIS|You... scared...|speech|HARRIS|M
+downstairs), then back at Harris."|stage direction|||
+1026|HARRIS|Police.|speech|HARRIS|M|
+1027||(gasps)|location|||
+1028|MEG|You called the police?|speech|MEG|F|True
+1029||He nods.|stage direction|||
+1030|HARRIS|You... scared...|speech|HARRIS|M|
 1031||"Shit.  This is exactly what she prayed for him to do, now
 it's the worst thing that could happen.
 She stands, thinking, desperate.  She walks toward the door,
@@ -2742,97 +2742,97 @@ She comes up with a plan.  She goes back to where Harris is
 in the chair, pulls the chair back a few feet, out of view of
 the door.  She puts the gun in his lap, puts his hand over it
 to steady it.
-She leans down, WHISPERS to him."|stage direction||
-1032|MEG|Don't.  Say.  A word.|speech|MEG|F
+She leans down, WHISPERS to him."|stage direction|||
+1032|MEG|Don't.  Say.  A word.|speech|MEG|F|True
 1033||"He nods.
 Meg takes a breath, walks across the foyer, tousling her hair
 as she goes.
 IN THE PANIC ROOM,
-Raoul is staring at the monitors, aghast."|stage direction||
-1034|RAOUL|Holy shit... holy shit...|speech|RAOUL|M
+Raoul is staring at the monitors, aghast."|stage direction|||
+1034|RAOUL|Holy shit... holy shit...|speech|RAOUL|M|True
 1035||"Burnham races over, looks over his shoulder.  One monitor
 covers the front stoop, and on that monitor they can clearly
-see TWO UNIFORMED COPS."|stage direction||
+see TWO UNIFORMED COPS."|stage direction|||
 1036|RAOUL|"She's fuckin' crazy, she killed the
-kid!  She just killed her own kid!"|speech|RAOUL|M
+kid!  She just killed her own kid!"|speech|RAOUL|M|True
 1037|BURNHAM|"It's not her fault, it's not her
 fault, the guy must have called
 them.  Look, look, look, she's
-telling us."|speech|BURNHAM|M
+telling us."|speech|BURNHAM|M|True
 1038||"He points to another monitor, the one in the foyer, where Meg
 is looking up at the camera, miming to them -- don't worry,
-I'll take care of this."|stage direction||
-1039|BURNHAM|She's gonna handle it.|speech|BURNHAM|M
-1040|RAOUL|She better.|speech|RAOUL|M
-1041||INT.  ENTRY FLOOR - NIGHT|location||
+I'll take care of this."|stage direction|||
+1039|BURNHAM|She's gonna handle it.|speech|BURNHAM|M|True
+1040|RAOUL|She better.|speech|RAOUL|M|True
+1041||INT.  ENTRY FLOOR - NIGHT|location|||
 1042||"Meg's shaking hand rises up to the doorknob and pulls open
 the big front door.  On the stoop, the two Cops turn to look
 at her.  She acts as if she's just been awakened.  She looks
 it, too, still in T-shirt and boxer shorts.  The wind is
-gusty and cold outside."|stage direction||
-1043|MEG|Yeah?|speech|MEG|F
-1044|COP 1|Everything okay?|speech|COP 1|F
-1045|MEG|Huh?|speech|MEG|F
-1046|COP 2|Are you all right?|speech|COP 2|M
+gusty and cold outside."|stage direction|||
+1043|MEG|Yeah?|speech|MEG|F|True
+1044|COP 1|Everything okay?|speech|COP 1|F|True
+1045|MEG|Huh?|speech|MEG|F|True
+1046|COP 2|Are you all right?|speech|COP 2|M|
 1047|MEG|"What are you guys -- what time is
-it?"|speech|MEG|F
-1048|COP 1|'Bout four o'clock.|speech|COP 1|F
-1049|MEG|I don't get it.|speech|MEG|F
-1050|COP 2|We got a call...|speech|COP 2|M
-1051||Cop 1 looks at him.  Cop 2 stops talking.|stage direction||
-1052|MEG|Somebody called you?|speech|MEG|F
-1053|COP 1|Can we come in?|speech|COP 1|F
-1054|MEG|What do you want?|speech|MEG|F
-1055|COP 1|We'd like to come in.|speech|COP 1|F
-1056|MEG|No, you can't come in.|speech|MEG|F
-1057|COP 2|Are you okay?|speech|COP 2|M
-1058|MEG|I'm fine.|speech|MEG|F
-1059|COP 1|Can we come in?|speech|COP 1|F
+it?"|speech|MEG|F|True
+1048|COP 1|'Bout four o'clock.|speech|COP 1|F|True
+1049|MEG|I don't get it.|speech|MEG|F|True
+1050|COP 2|We got a call...|speech|COP 2|M|
+1051||Cop 1 looks at him.  Cop 2 stops talking.|stage direction|||
+1052|MEG|Somebody called you?|speech|MEG|F|True
+1053|COP 1|Can we come in?|speech|COP 1|F|True
+1054|MEG|What do you want?|speech|MEG|F|True
+1055|COP 1|We'd like to come in.|speech|COP 1|F|True
+1056|MEG|No, you can't come in.|speech|MEG|F|True
+1057|COP 2|Are you okay?|speech|COP 2|M|
+1058|MEG|I'm fine.|speech|MEG|F|True
+1059|COP 1|Can we come in?|speech|COP 1|F|True
 1060|MEG|"Stop asking me that.  I'm fine.  Who
-called you?"|speech|MEG|F
-1061|COP 1|You don't look so good.|speech|COP 1|F
+called you?"|speech|MEG|F|True
+1061|COP 1|You don't look so good.|speech|COP 1|F|True
 1062|MEG|"You wake me out of a sound sleep at
 four in the morning and then tell me
 I look like hell?  Of course I look
 like hell, you don't look so hot
 yourself, Jack.  I'm freezing here,
-thank you for checking, can I go?"|speech|MEG|F
+thank you for checking, can I go?"|speech|MEG|F|True
 1063||"Cop 1 studies her, notices the burned sleeve of her T-shirt,
-the black smudges still on her face."|stage direction||
+the black smudges still on her face."|stage direction|||
 1064|COP 1|"Your husband says you said ""There
 are three..."" right before you got
-cut off."|speech|COP 1|F
-1065|MEG|Oh, that phone call...|speech|MEG|F
+cut off."|speech|COP 1|F|True
+1065|MEG|Oh, that phone call...|speech|MEG|F|True
 1066||"Cop 1 takes a step forward and lowers his voice to just above
 a whisper, unconsciously making her lean forward in order to
-hear him."|stage direction||
+hear him."|stage direction|||
 1067|COP 1|"Ma'am, if there's something you want
 to say to us right now that maybe
 you can't say to us right now, maybe
 you just want to make a signal, by
 blinking a few times, something like
-that."|speech|COP 1|F
+that."|speech|COP 1|F|True
 1068||"She just looks at him.  Wow, this guy's intuitive.  She is
-sorely tempted.  But she can't."|stage direction||
+sorely tempted.  But she can't."|stage direction|||
 1069|COP 1|"That's something you could do.
-Safely."|speech|COP 1|F
+Safely."|speech|COP 1|F|True
 1070||"She thinks, thinks --
--- and burst out laughing."|stage direction||
+-- and burst out laughing."|stage direction|||
 1071|MEG|"Man, you are good!  You mean, like,
 if somebody was in the house or
 something?  That's great, they
 really train you guys these days,
-don't they?"|speech|MEG|F
-1072||Cop 1 looks at her, not sure if he believes her or not.|stage direction||
-1073|MEG|No.  I'm fine.  Cross my heart.|speech|MEG|F
-1074||Cop 2 turns to go, but Cop 1 lingers.|stage direction||
+don't they?"|speech|MEG|F|True
+1072||Cop 1 looks at her, not sure if he believes her or not.|stage direction|||
+1073|MEG|No.  I'm fine.  Cross my heart.|speech|MEG|F|True
+1074||Cop 2 turns to go, but Cop 1 lingers.|stage direction|||
 1075|COP 1|"May I ask what the rest of that
-sentence was going to be?"|speech|COP 1|F
-1076||(stalling)|location||
-1077|MEG|Huh?|speech|MEG|F
+sentence was going to be?"|speech|COP 1|F|True
+1076||(stalling)|location|||
+1077|MEG|Huh?|speech|MEG|F|True
 1078|COP 1|"The sentence that started ""There are
-three.""  What was the rest?"|speech|COP 1|F
-1079||Pause.  She stares at him.|stage direction||
+three.""  What was the rest?"|speech|COP 1|F|True
+1079||Pause.  She stares at him.|stage direction|||
 1080|MEG|"Okay, look.  My husband and I just
 broke up.  It's my first night in
 the new house, and I was feeling a
@@ -2841,19 +2841,19 @@ The sentence, if you insist on
 knowing, was going to be ""There are
 three things I'll do for you if you
 come over right now and get in bed
-with me."""|speech|MEG|F
-1081||Cop 2 stifles a laugh.|stage direction||
+with me."""|speech|MEG|F|True
+1081||Cop 2 stifles a laugh.|stage direction|||
 1082|MEG|"But thank God I came to my senses
 before I said all that and hung up
 instead, so nobody would ever know
 what I was thinking, unless, of
 course, two policemen showed up in
 the middle of the night to
-interrogate me about it."|speech|MEG|F
+interrogate me about it."|speech|MEG|F|True
 1083||"That was good.  Cop 1 is embarrassed.  Cop 2 thinks it's
-funny."|stage direction||
+funny."|stage direction|||
 1084|COP 2|"You want her to show you which three
-things, Rick, or should we just go?"|speech|COP 2|M
+things, Rick, or should we just go?"|speech|COP 2|M|
 1085||"Cop 1 looks at Meg, a long look, he holds it for one last
 moment, trying to read her mind.
 ON THE MONITORS,
@@ -2864,43 +2864,43 @@ IN THE PANIC ROOM,
 Burnham and Raoul breathe a sigh of relief.
 Burnham goes back to work on the safe.  He's making progress.
 Raoul looks at Sarah.  Stares actually.  He's thinking too.
-Bad thoughts.  He moves over, crouches down next to Burnham."|stage direction||
-1086|RAOUL|She saw my face.  The kid too.|speech|RAOUL|M
+Bad thoughts.  He moves over, crouches down next to Burnham."|stage direction|||
+1086|RAOUL|She saw my face.  The kid too.|speech|RAOUL|M|True
 1087||"Sarah overhears that.  She raises her head, alarmed.  Burnham
 turns, looks over at her, and she just gets her head back
 down in time.  Burnham and Raoul close themselves off, for a
 private conversation.
-Sarah edges closer.  She overhears a fragment."|stage direction||
-1088|BURNHAM|That's your problem.|speech|BURNHAM|M
-1089|RAOUL|That's their problem.|speech|RAOUL|M
+Sarah edges closer.  She overhears a fragment."|stage direction|||
+1088|BURNHAM|That's your problem.|speech|BURNHAM|M|True
+1089|RAOUL|That's their problem.|speech|RAOUL|M|True
 1090||"Sarah is terrified.  Doesn't know what to do.  She looks to
 her immediate left, sees the intercom panel.  She edges
-closer."|stage direction||
+closer."|stage direction|||
 1091|BURNHAM|"Let me fucking finish this so we can
-get out of here."|speech|BURNHAM|M
-1092|RAOUL|You finish.  Then we finish.|speech|RAOUL|M
-1093||"Sarah sneaks up a hand and pushes a button -- ""ALL PAGE."""|stage direction||
-1094||INT.  LIVING ROOM - NIGHT|location||
+get out of here."|speech|BURNHAM|M|True
+1092|RAOUL|You finish.  Then we finish.|speech|RAOUL|M|True
+1093||"Sarah sneaks up a hand and pushes a button -- ""ALL PAGE."""|stage direction|||
+1094||INT.  LIVING ROOM - NIGHT|location|||
 1095||"In the living room, there is an audible CLICK as the speaker
 is activated.  Meg looks up, hears Burnham's voice, in the
-middle of a sentence."|stage direction||
-1096|BURNHAM (O.S.)|-- posed to mean?|speech|BURNHAM|M
+middle of a sentence."|stage direction|||
+1096|BURNHAM (O.S.)|-- posed to mean?|speech|BURNHAM|M|True
 1097|RAOUL (O.S.)|"You're here with me, you're already
 on the hook for one.  Buy one, you
 get the rest for the same price.
-You know that."|speech|RAOUL|M
-1098|BURNHAM (O.S.)|Get the fuck away from me.|speech|BURNHAM|M
+You know that."|speech|RAOUL|M|True
+1098|BURNHAM (O.S.)|Get the fuck away from me.|speech|BURNHAM|M|True
 1099|RAOUL (O.S.)|"The kid in here.  The other two when
-we come out."|speech|RAOUL|M
-1100||Meg listens, horrified.|stage direction||
-1101||INT.  PANIC ROOM - NIGHT|location||
-1102||Sarah holds the intercom button down with a trembling finger.|stage direction||
-1103|BURNHAM|Bullshit.|speech|BURNHAM|M
-1104|RAOUL|You know how this gotta end.|speech|RAOUL|M
-1105||INT.  LIVING ROOM - NIGHT|location||
+we come out."|speech|RAOUL|M|True
+1100||Meg listens, horrified.|stage direction|||
+1101||INT.  PANIC ROOM - NIGHT|location|||
+1102||Sarah holds the intercom button down with a trembling finger.|stage direction|||
+1103|BURNHAM|Bullshit.|speech|BURNHAM|M|True
+1104|RAOUL|You know how this gotta end.|speech|RAOUL|M|True
+1105||INT.  LIVING ROOM - NIGHT|location|||
 1106||"Meg stares, in shock, as Raoul's voice echoes in the empty
-room."|stage direction||
-1107|RAOUL (O.S.)|They stay in the house.|speech|RAOUL|M
+room."|stage direction|||
+1107|RAOUL (O.S.)|They stay in the house.|speech|RAOUL|M|True
 1108||"There in an abrupt CLICK, and the speaker turns off.  Meg
 turns, goes to Harris, falls to her knees, no idea what to
 do.  She holds him close, their foreheads touching.  She's
@@ -2908,9 +2908,9 @@ terrified, exhausted, wants to collapse in his arms.
 Instead, she starts to pull the gun from his fingers.  He
 tightens his grip, what are you doing?  He tries to hold onto
 the gun, but she pulls his fingers off it, takes it away from
-him.  He is too weak to resist."|stage direction||
-1109||CUT TO:|unknown||
-1110||INT.  PANIC ROOM - NIGHT|location||
+him.  He is too weak to resist."|stage direction|||
+1109||CUT TO:|unknown|||
+1110||INT.  PANIC ROOM - NIGHT|location|||
 1111||"In the panic room, Sarah has her hands clamped over her ears,
 her mouth is wide open, and a hideous METAL SHRIEK seems to
 be coming out of it.
@@ -2921,8 +2921,8 @@ ON THE MONITORS,
 Sarah sees her mother approaching the monitor in the bedroom,
 carrying a jacket.  Meg tosses the jacket, this time she
 doesn't want them to see what she's doing.
-The monitor goes black."|stage direction||
-1112||INT.  MASTER BEDROOM - NIGHT|location||
+The monitor goes black."|stage direction|||
+1112||INT.  MASTER BEDROOM - NIGHT|location|||
 1113||"In the master bedroom, Meg pulls on a pair of jeans that are
 hanging over a chair.
 She steps into a pair of boots.
@@ -2938,27 +2938,27 @@ shoulder against the common wall that's shared with the
 neighbor's brownstone.
 She begins to step off the distance, heel to toe, measuring
 with her feet until she reaches the metal door that is the
-entrance to the panic room."|stage direction||
-1114|MEG|Fourteen.|speech|MEG|F
-1115||She hurries out of the bedroom.  What's she doing?|stage direction||
-1116||INT.  LIBRARY - NIGHT|location||
+entrance to the panic room."|stage direction|||
+1114|MEG|Fourteen.|speech|MEG|F|True
+1115||She hurries out of the bedroom.  What's she doing?|stage direction|||
+1116||INT.  LIBRARY - NIGHT|location|||
 1117||"Meg comes into a small room full of empty bookshelves, a
 library.  There is a window that looks out over the sidewalk,
 one floor up, same level as the stoop.
-She looks up, into the corners of the room."|stage direction||
-1118|MEG|No camera, no camera, no camera...|speech|MEG|F
+She looks up, into the corners of the room."|stage direction|||
+1118|MEG|No camera, no camera, no camera...|speech|MEG|F|True
 1119||"They're bare, no video cameras.  Good.
 She goes to the window, tries to open it.  Screwed shut, of
-course."|stage direction||
-1120||INT.  PANIC ROOM - NIGHT|location||
+course."|stage direction|||
+1120||INT.  PANIC ROOM - NIGHT|location|||
 1121||"The safe is almost cracked.  Raoul is watching the monitors
 carefully.
 ON THE MONITORS,
 we see Meg as she searches through the tools in the living
 room, finds a screwdriver, a sledgehammer.
 IN THE PANIC ROOM,
-Raoul furrows his brow.  Now what?"|stage direction||
-1122||INT.  LIBRARY - NIGHT|location||
+Raoul furrows his brow.  Now what?"|stage direction|||
+1122||INT.  LIBRARY - NIGHT|location|||
 1123||"Meg is back in the library, hurriedly unscrewing the window.
 She gets the last screw out, shoves the window up.
 The wind BLASTS in, it's a hell of a spooky night out there.
@@ -2979,19 +2979,19 @@ IN THE PANIC ROOM,
 Sarah sees the image of her on the stoop.  Raoul happens to
 be looking away at the moment, at the safe, but he starts to
 turn around, to look at the monitors again --
--- and Sarah kicks him, hard, in the ass."|stage direction||
-1124|RAOUL|Hey!|speech|RAOUL|M
-1125||He turns, away from the monitors.|stage direction||
-1126|SARAH|Sorry.  Can't control it sometimes.|speech|SARAH|F
+-- and Sarah kicks him, hard, in the ass."|stage direction|||
+1124|RAOUL|Hey!|speech|RAOUL|M|True
+1125||He turns, away from the monitors.|stage direction|||
+1126|SARAH|Sorry.  Can't control it sometimes.|speech|SARAH|F|True
 1127||"Raoul scowls at her.  Behind him --
 ON THE MONITORS,
 Meg darts down the front steps and disappears from view on
 the monitor.
 IN THE PANIC ROOM,
-Sarah sees her mother go."|stage direction||
-1128||(to Raoul)|location||
-1129|SARAH|Won't happen again.|speech|SARAH|F
-1130||INT.  LIBRARY - NIGHT|location||
+Sarah sees her mother go."|stage direction|||
+1128||(to Raoul)|location|||
+1129|SARAH|Won't happen again.|speech|SARAH|F|True
+1130||INT.  LIBRARY - NIGHT|location|||
 1131||"Still leaning out the window, we can see Meg from here as she
 reaches the sidewalk and runs up the front steps of the
 neighbor's house, which is contiguous.
@@ -3009,9 +3009,9 @@ Losing patience, Meg just pulls the Neighbor out of the way
 and shoves into the house.  The Neighbor stumbles out onto
 her front stoop, and we were right, it's an old lady in a
 nightgown, but she's no shrinking violet.  In fact, she's
-royally pissed off and not at all intimidated."|stage direction||
+royally pissed off and not at all intimidated."|stage direction|||
 1132|NEIGHBOR|"What the hell do you think you're
-doing, young lady?!"|speech|NEIGHBOR|F
+doing, young lady?!"|speech|NEIGHBOR|F|
 1133||"She storms back into her house, following Meg.  As both of
 them disappear from the frame, we move out of the library,
 into the foyer, and move along the common wall, the one
@@ -3020,8 +3020,8 @@ From the other side of the wall, we can hear muffled voices,
 arguing, Meg and the Neighbor shouting at each other.
 We drift up, up the stairs, and hear the THUNDERING of
 footsteps on the stairs next door.  We keep pace with them,
-from inside this house.  We pass right through the floor --"|stage direction||
-1134||INT.  MASTER BEDROOM - NIGHT|location||
+from inside this house.  We pass right through the floor --"|stage direction|||
+1134||INT.  MASTER BEDROOM - NIGHT|location|||
 1135||"-- and rise up out of the floor in the master bedroom, and
 now we can hear the conversation on the other side of the
 wall in here, the Neighbor's fearful, angry tones, Meg's
@@ -3030,8 +3030,8 @@ We move with Meg, even though we can't see her, we know what
 she's doing, she's stepping off the paces on the other side
 of the wall.  We drift down that wall, fourteen steps, until
 we reach the metal door to the panic room, then we pass
-through that door --"|stage direction||
-1136||INT.  PANIC ROOM - NIGHT|location||
+through that door --"|stage direction|||
+1136||INT.  PANIC ROOM - NIGHT|location|||
 1137||"-- and arrive inside the panic room, where Burnham is this
 close to getting the safe open, when all of a sudden --
 WHOMP.
@@ -3042,35 +3042,35 @@ They look at each other.
 WHOMP.
 CRUNCH.
 They look at the wall.
-Somebody is on the other side, pounding like hell."|stage direction||
-1138|RAOUL|The walls are steel, right?|speech|RAOUL|M
-1139|BURNHAM|Not that one.|speech|BURNHAM|M
-1140|RAOUL|NOT THAT ONE?!|speech|RAOUL|M
+Somebody is on the other side, pounding like hell."|stage direction|||
+1138|RAOUL|The walls are steel, right?|speech|RAOUL|M|True
+1139|BURNHAM|Not that one.|speech|BURNHAM|M|True
+1140|RAOUL|NOT THAT ONE?!|speech|RAOUL|M|True
 1141|BURNHAM|"Hey man, it's the neighbor's house,
 who breaks in through the neighbor's
-house?!"|speech|BURNHAM|M
+house?!"|speech|BURNHAM|M|True
 1142||"WHOMP!  CRUNCH!
-Louder.  Closer.  Burnham turns, SCREAMS at the wall."|stage direction||
+Louder.  Closer.  Burnham turns, SCREAMS at the wall."|stage direction|||
 1143|BURNHAM|"WHO THE FUCK BREAKS IN THROUGH THE
-NEIGHBOR'S HOUSE?!"|speech|BURNHAM|M
-1144|RAOUL|We've got the Kid!|speech|RAOUL|M
-1145||(shouting at the wall)|location||
+NEIGHBOR'S HOUSE?!"|speech|BURNHAM|M|True
+1144|RAOUL|We've got the Kid!|speech|RAOUL|M|True
+1145||(shouting at the wall)|location|||
 1146|RAOUL|"WE'VE GOT YOUR KID!!  What the fuck
-is she thinking?!"|speech|RAOUL|M
-1147||WHOMP!  CRUNCH!|stage direction||
+is she thinking?!"|speech|RAOUL|M|True
+1147||WHOMP!  CRUNCH!|stage direction|||
 1148|BURNHAM|"She's got your gun, that's what
 she's thinking!  The FUCK you had to
-bring a gun for?!"|speech|BURNHAM|M
+bring a gun for?!"|speech|BURNHAM|M|True
 1149||"Burnham throws himself back on the floor, goes back to work
 on the safe.  Fires up the drill again, it SCREAMS into the
-metal."|stage direction||
-1150|BURNHAM|Almost there...|speech|BURNHAM|M
+metal."|stage direction|||
+1150|BURNHAM|Almost there...|speech|BURNHAM|M|True
 1151||"The POUNDING keeps up from next door.  We hear sheetrock torn
 away on the far side.  Bricks, SCRAPING out of place.
 Sarah, in the corner, is energized, excited.  While Burnham
 and Raoul are distracted, she grabs the leather pouch, palms
-the three syringes that are left in there."|stage direction||
-1152|BURNHAM|ALMOST THERE...|speech|BURNHAM|M
+the three syringes that are left in there."|stage direction|||
+1152|BURNHAM|ALMOST THERE...|speech|BURNHAM|M|True
 1153||"Finally, the door to the safe CRUNCHES in on one side,
 yielding to the drilling --
 -- at the very moment that the head of a sledgehammer CRASHES
@@ -3093,8 +3093,8 @@ Grail.
 BANG!
 A gunshot whizzes right through one of the bonds, setting it
 aflame before it SLAMS into the far wall, sending up a little
-cloud of plaster dust."|stage direction||
-1154|BURNHAM|JESUS!|speech|BURNHAM|M
+cloud of plaster dust."|stage direction|||
+1154|BURNHAM|JESUS!|speech|BURNHAM|M|True
 1155||"He whirls, sees an arm poking through the hole in the wall,
 gun extended.
 But Raoul is standing just above the hole, and already has
@@ -3106,21 +3106,21 @@ BETWEEN THE WALLS,
 the gun falls into oblivion, the space between the walls,
 where no one can get to it.
 IN THE PANIC ROOM,
-Burnham shoves the loose bonds into his jacket."|stage direction||
-1156|BURNHAM|I GOT THE MONEY, LET'S GO!!!|speech|BURNHAM|M
+Burnham shoves the loose bonds into his jacket."|stage direction|||
+1156|BURNHAM|I GOT THE MONEY, LET'S GO!!!|speech|BURNHAM|M|True
 1157||"Raoul grabs Sarah and turns, jabs the green button to open
 the door.
 Behind them, Meg SCREAMS in anger and wriggles through the
 opening.  Before she's even all the way through, she gets
 hold of Raoul's leg and pulls herself into the panic room,
 scraping and bloodying herself on the edges of the too-small
-hole."|stage direction||
-1158|BURNHAM|GO, LET'S GO, OUTTA HERE!!|speech|BURNHAM|M
+hole."|stage direction|||
+1158|BURNHAM|GO, LET'S GO, OUTTA HERE!!|speech|BURNHAM|M|True
 1159||"But Raoul is deep in a violent rage.  Still holding Sarah
 with one hand, he bends down, grabs Meg by the hair, and
-drags her toward the doorway."|stage direction||
-1160|RAOUL|YOU KNOW HOW THIS IS GONNA GO!|speech|RAOUL|M
-1161|BURNHAM|FUCK YOU, I'M GONE!|speech|BURNHAM|M
+drags her toward the doorway."|stage direction|||
+1160|RAOUL|YOU KNOW HOW THIS IS GONNA GO!|speech|RAOUL|M|True
+1161|BURNHAM|FUCK YOU, I'M GONE!|speech|BURNHAM|M|True
 1162||"He bolts out of the room, through the metal door, which is
 just finishing its slow crank open, its heavy spring coiling
 in the wall.
@@ -3134,15 +3134,15 @@ floor, below the safety beam that would prevent the door from
 closing.  He reaches for the ""close"" button.
 Sarah raises her arm, stuffed with three syringes, and jabs
 them into Raoul's neck.  Raoul SCREAMS in pain.
-Meg manages to raise her head, breaking the beam."|stage direction||
-1163||INT.  HALLWAY - NIGHT|location||
+Meg manages to raise her head, breaking the beam."|stage direction|||
+1163||INT.  HALLWAY - NIGHT|location|||
 1164||"On the stairwell, Burnham, stops, frozen, his face twitching
 with indecision.  He hears the murder taking place just above
 him.
 He runs down three steps.
 Stops again.
-Runs down the rest of the stairs."|stage direction||
-1165||INT.  MASTER BEDROOM - NIGHT|location||
+Runs down the rest of the stairs."|stage direction|||
+1165||INT.  MASTER BEDROOM - NIGHT|location|||
 1166||"Raoul stretches to push the red ""close"" button for the door,
 but he has to hold Meg's head down, out of the lower beam
 with one hand, all with Sarah savagely attacking him at the
@@ -3178,8 +3178,8 @@ Burnham stands there, looking down at Meg and Sarah.
 They stare at each other, wordless, their first face to face
 contact.  She sees the bonds protruding from his jacket.
 She just looks at him.  There will be no understanding here.
-He zips his jacket, turns, and hurries away."|stage direction||
-1167||INT.  ENTRY FLOOR - NIGHT|location||
+He zips his jacket, turns, and hurries away."|stage direction|||
+1167||INT.  ENTRY FLOOR - NIGHT|location|||
 1168||"Burnham races down the steps, hurries to the entry door,
 throws it open --
 -- and finds a gun barrel pointed directly into his nose.  He
@@ -3188,8 +3188,8 @@ gun.
 It's the Cop, the first Cop, the one who came to the door and
 was so suspicious of Meg.  The Cop looks down, sees blood
 smeared all over Burnham's jacket, sees more than enough to
-know his suspicions were correct."|stage direction||
-1169|COP 1|Put your hands up.|speech|COP 1|F
+know his suspicions were correct."|stage direction|||
+1169|COP 1|Put your hands up.|speech|COP 1|F|True
 1170||"Burnham freezes, silhouetted in the doorway.  Wind and leaves
 blow into the house, a real gale outside.
 From behind Cop 1, MORE COPS SHOUT, all at once, must be a
@@ -3207,8 +3207,8 @@ chest, a triangle pattern.
 Burnham stops, sags to his knees.  He reaches into his
 jacket, pulls out the loose stack of bonds.
 He fans them out, stares down at them, holds them like
-playing cards."|stage direction||
-1171|BURNHAM|Monster hand.|speech|BURNHAM|M
+playing cards."|stage direction|||
+1171|BURNHAM|Monster hand.|speech|BURNHAM|M|True
 1172||"Behind him, the front door CRACKS open, half a dozen COPS
 appear and start SHOUTING, all at once.  Burnham tosses the
 bonds to the floor, the same gesture as folding a hand of
@@ -3221,9 +3221,9 @@ as if they were never meant to leave.
 Burnham lies there on the floor, eyes open, staring up at the
 ceiling, looking at the bonds that swirl in the blast of air,
 suspended there, twisting and bucking and diving just over
-his head as he dies."|stage direction||
-1173||DISSOLVE TO:|unknown||
-1174||EXT.  CENTRAL PARK - GREAT LAWN - DAY|location||
+his head as he dies."|stage direction|||
+1173||DISSOLVE TO:|unknown|||
+1174||EXT.  CENTRAL PARK - GREAT LAWN - DAY|location|||
 1175||"The swirling bonds melt into swirling leaves, blowing in the
 air over Central Park on a crisp fall day.  The leaves float
 down, over the Great Lawn, that massive expanse of grass we
@@ -3236,17 +3236,17 @@ out on a blanket, a newspaper spread in front of them, open
 to the ads.
 Meg is on her back, arms folded behind her head, staring up
 at the clouds.
-Sarah is intent on the paper, circling the occasional ad."|stage direction||
+Sarah is intent on the paper, circling the occasional ad."|stage direction|||
 1176|SARAH|"I mean, uptown is close to Dad's
 place, but somebody at school said
 the Village is really cool, so... I
 don't know, it's so great to be
 close to the park and everything...
 What do you think, I mean, give me a
-clue, here, where are we gonna live?"|speech|SARAH|F
+clue, here, where are we gonna live?"|speech|SARAH|F|True
 1177||"Meg rolls over, props herself up on one elbow.  She seems
 years younger.  She looks at Sarah, reaches out, brushes her
 daughter's hair behind one ear.
 She smiles.  She is calm.
 Behind her, a flock of pigeons takes off, leaping into the
-clear autumn sky."|stage direction||
+clear autumn sky."|stage direction|||

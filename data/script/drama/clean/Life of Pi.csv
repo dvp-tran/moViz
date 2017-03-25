@@ -1,10 +1,10 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"LIFE OF PI
 Written by
 David Magee
 Based on the original novel by
-Yann Martel"|unknown||
-1||1   EXT. PONDICHERRY ZOO, INDIA, 1961 - DAY                      1|location||
+Yann Martel"|unknown|||
+1||1   EXT. PONDICHERRY ZOO, INDIA, 1961 - DAY                      1|location|||
 2||"CREDITS OVER: a magical fairy tale world in collage - images
 of fantastic creatures striped and spotted, hoofed and
 horned.
@@ -25,8 +25,8 @@ Tinkerbell...
 ... the Pondicherry zoo is a children's paradise nestled in a
 botanical garden.
 WRITER (V.O.)
-You were raised in a zoo?"|unknown||
-3||3   EXT. PONDICHERRY ZOO, INDIA, 1961 - DAY                      3|location||
+You were raised in a zoo?"|unknown|||
+3||3   EXT. PONDICHERRY ZOO, INDIA, 1961 - DAY                      3|location|||
 4||"There's a flurry of activity in the animal clinic behind a
 monitor lizard that wanders the main path. ZOO WORKERS gather
 in the doorway, talking excitedly.
@@ -48,8 +48,8 @@ The lizard crawls away.
 ADULT PI (V.O.)
 but the poor lizard escaped and was
 trampled by a frightened
-cassowary..."|unknown||
-5||5   INT. PI'S HOME, KITCHEN, MONTREAL - DAY                       5|location||
+cassowary..."|unknown|||
+5||5   INT. PI'S HOME, KITCHEN, MONTREAL - DAY                       5|location|||
 6||"A modest row house. There is a French influence to the decor,
 along with books and artwork that celebrate the spiritual.
 PI PATEL (50 - intelligent, Indo-Canadian) cooks an Indian
@@ -85,8 +85,8 @@ father.
 PI
 I call him 'Mamaji,' my 'honorary
 uncle' - my father's best friend,
-my swimming guru."|unknown||
-7||6   EXT. ASHRAM SWIMMING POOL, PONDICHERRY, 1966 - DAY            6|location||
+my swimming guru."|unknown|||
+7||6   EXT. ASHRAM SWIMMING POOL, PONDICHERRY, 1966 - DAY            6|location|||
 8||"ADULT PI (V.O.)
 I trained with him three times a
 week at the ashram. His lessons
@@ -102,8 +102,8 @@ Mamaji carries Pi back over to the water's edge.
 MAMAJI (CONT'D)
 Remember to breathe. Don't hold
 your breath. Good boy.
-Mamaji unceremoniously tosses Pi back in."|unknown||
-9||7   INT. PI'S HOME, KITCHEN, MONTREAL - DAY                       7|location||
+Mamaji unceremoniously tosses Pi back in."|unknown|||
+9||7   INT. PI'S HOME, KITCHEN, MONTREAL - DAY                       7|location|||
 10||"ADULT PI
 (Regarding lunch:)
 I hope you don't mind vegetarian.
@@ -121,85 +121,85 @@ collect postcards or teacups on
 their journeys - but not Mamaji.
 Mamaji collects swimming pools.
 (MORE)
-4."|unknown||
+4."|unknown|||
 11|ADULT PI (CONT'D)|"He swims in every pool he comes
-upon..."|speech|ADULT PI|?
-12||8    EXT. THE PISCINE MOLITOR, PARIS, 1959 - DAY                   8|location||
+upon..."|speech|ADULT PI|?|True
+12||8    EXT. THE PISCINE MOLITOR, PARIS, 1959 - DAY                   8|location|||
 13||"Mamaji stands admiring the Piscine Molitor, a pool of
 sparkling magnificence. Attractive French men and women in
-bathing suits, the setting a celebration of idealized beauty."|unknown||
+bathing suits, the setting a celebration of idealized beauty."|unknown|||
 14|ADULT PI (V.O.)|"One day Mamaji said to my father
 that of all the pools in the world,
 the most beautiful was a public
 pool in Paris. That the water there
 was so clear you could make your
 morning coffee with it, that a
-single swim there changed his life."|speech|ADULT PI|?
+single swim there changed his life."|speech|ADULT PI|?|True
 15||"Mamaji dives into the crystal clear water - and we follow,
 taking in the divine miracle of his underwater journey across
-the pool."|unknown||
+the pool."|unknown|||
 16|ADULT PI (V.O.)|"Before I was born, he said to my
 father, ""If you want your son to
 have a clean soul, you must take
 him one day to swim in the Piscine
 Molitor."" I never understood why my
 father took this so much to
-heart..."|speech|ADULT PI|?
-17||9    INT. PI'S HOME, MONTREAL - DAY                                9|location||
+heart..."|speech|ADULT PI|?|True
+17||9    INT. PI'S HOME, MONTREAL - DAY                                9|location|||
 18|ADULT PI|"... but he did, and I was named
-""Piscine Molitor Patel."""|speech|ADULT PI|?
-19||10   EXT. PI'S PRIMARY SCHOOL, 1972 - DAY                         10|location||
+""Piscine Molitor Patel."""|speech|ADULT PI|?|True
+19||10   EXT. PI'S PRIMARY SCHOOL, 1972 - DAY                         10|location|||
 20||"PI (AGE 11) leans against the railing of a balcony, reading
-""L'Ile Mysterieuse (The Mysterious Island)"" by Jules Verne."|unknown||
+""L'Ile Mysterieuse (The Mysterious Island)"" by Jules Verne."|unknown|||
 21|ADULT PI (V.O.)|"Imagine me trying to explain that
 name to my schoolmates. I barely
 made it to the age of eleven
-before..."|speech|ADULT PI|?
+before..."|speech|ADULT PI|?|True
 22||"A boy (BULLY #1) calls up to him from the courtyard below.
-5."|unknown||
-23|BULLY #1|Hey PISCINE!|speech|BULLY #1|?
-24||Pi glances down, all the boys in the courtyard watching him.|unknown||
-25|BULLY #1 (CONT'D)|Are you Pissing right now?|speech|BULLY #1|?
-26||Pi freezes. The other boys laugh uncontrollably.|unknown||
-27|ANOTHER BOY|Look at him he's Pissing!|speech|ANOTHER BOY|?
+5."|unknown|||
+23|BULLY #1|Hey PISCINE!|speech|BULLY #1|?|
+24||Pi glances down, all the boys in the courtyard watching him.|unknown|||
+25|BULLY #1 (CONT'D)|Are you Pissing right now?|speech|BULLY #1|?|
+26||Pi freezes. The other boys laugh uncontrollably.|unknown|||
+27|ANOTHER BOY|Look at him he's Pissing!|speech|ANOTHER BOY|?|
 28|ADULT PI (VO)|"With one word my name went from an
 elegant French swimming pool to a
 stinking Indian latrine. I was
-Pissing everywhere."|speech|ADULT PI|?
-29||11   I/E. SCHOOLYARD, 1972 - DAY                                 11|location||
+Pissing everywhere."|speech|ADULT PI|?|True
+29||11   I/E. SCHOOLYARD, 1972 - DAY                                 11|location|||
 30||"BOYS in school uniform kick a ball. Pi attempts to join.
-Bully #2 intercepts the pass."|unknown||
-31|BULLY #2|No Pissing in the schoolyard!|speech|BULLY #2|?
-32||12   INT. SCIENCE CLASS, 1972 - DAY                              12|location||
+Bully #2 intercepts the pass."|unknown|||
+31|BULLY #2|No Pissing in the schoolyard!|speech|BULLY #2|?|
+32||12   INT. SCIENCE CLASS, 1972 - DAY                              12|location|||
 33|ADULT PI (V.O.)|"Even the teachers started doing it -
-not deliberately, of course..."|speech|ADULT PI|?
+not deliberately, of course..."|speech|ADULT PI|?|True
 34|SCIENCE TEACHER|"So then - what might occur if we
-release gas too quickly? Pissing?"|speech|SCIENCE TEACHER|?
+release gas too quickly? Pissing?"|speech|SCIENCE TEACHER|?|
 35||"Pi is aghast. Several students splutter and howl, whispering
 the slip to others. Laughter ripples around the room, all
-eyes on Pi."|unknown||
-36|BOY|He said Pissing!|speech|BOY|M
-37|SCIENCE TEACHER|That's enough - order!|speech|SCIENCE TEACHER|?
+eyes on Pi."|unknown|||
+36|BOY|He said Pissing!|speech|BOY|M|
+37|SCIENCE TEACHER|That's enough - order!|speech|SCIENCE TEACHER|?|
 38|ADULT PI (V.O.)|"When we returned the next year for
 our first day of school, I was
-prepared."|speech|ADULT PI|?
-39||6.|unknown||
+prepared."|speech|ADULT PI|?|True
+39||6.|unknown|||
 40||"SC. 13 INT. INDIAN HISTORY CLASS, 1973 - DAY 13
-Class is held in a large open room. Roll call."|location||
+Class is held in a large open room. Roll call."|location|||
 41||"BOY
 Present sir.
 HISTORY TEACHER
-Piscine Patel..."|unknown||
-42||PI - AGE 12, rises, crosses to the front.|location||
+Piscine Patel..."|unknown|||
+42||PI - AGE 12, rises, crosses to the front.|location|||
 43||"PI (AT 12)
 Good morning. I am Piscine Molitor
 Patel, known to all as...
-(He writes ""PI"" on the"|unknown||
-44|ADULT PI (V.O.)|board.)|speech|ADULT PI|?
+(He writes ""PI"" on the"|unknown|||
+44|ADULT PI (V.O.)|board.)|speech|ADULT PI|?|True
 45||"... ""Pi,"" the sixteenth letter of
-the Greek alphabet..."|unknown||
+the Greek alphabet..."|unknown|||
 46||"Pi writes , then quickly charts out a general notion of the
-concept on the chalkboard."|location||
+concept on the chalkboard."|location|||
 47||"PI (CONT'D)
 ... which is also used in
 mathematics to represent the ratio
@@ -208,225 +208,225 @@ its diameter - an irrational number
 of infinite length, usually rounded
 to three digits, as...
 (He writes ""3.14."")
-3.14. PI."|unknown||
-48||Pi underlines his name, faces the class.|location||
+3.14. PI."|unknown|||
+48||Pi underlines his name, faces the class.|location|||
 49||"HISTORY TEACHER
 Very impressive, Pi. Now sit down.
 WRITER (V.O.)
 And from then on you were Pi?
 ADULT PI (V.O.)
-Well, no. Not quite ..."|unknown||
+Well, no. Not quite ..."|unknown|||
 50||"As Pi returns to his seat, Bully #2 leans forward,
-whispering:"|location||
+whispering:"|location|||
 51||"BULLY #2
 Nice try, Pissing.
 ADULT PI (V.O.)
 But I still had the whole day ahead
 of me. French Class was next...
-7."|unknown||
-52||14   INT. FRENCH CLASS, 1973 - DAY                                14|location||
+7."|unknown|||
+52||14   INT. FRENCH CLASS, 1973 - DAY                                14|location|||
 53||"Pi repeats his act in French, 3.14159265 on the board.
-PI (12)"|unknown||
+PI (12)"|unknown|||
 54|ADULT PI (V.O.)|"Je m'appelle Piscine Molitor Patel -
-dit'Pi'..."|speech|ADULT PI|?
-55|ADULT PI (V.O.)|Then Geography...|speech|ADULT PI|?
-56||15   EXT. GEOGRAPHY CLASS, 1973 - DAY                             15|location||
+dit'Pi'..."|speech|ADULT PI|?|True
+55|ADULT PI (V.O.)|Then Geography...|speech|ADULT PI|?|True
+56||15   EXT. GEOGRAPHY CLASS, 1973 - DAY                             15|location|||
 57||"Class is held out of doors in a courtyard. Pi, at a portable
-chalkboard, writes and says: 3.14159265358979323846."|unknown||
+chalkboard, writes and says: 3.14159265358979323846."|unknown|||
 58|PI (12)|"These are the first twenty decimal
-places of Pi."|speech|PI|M
+places of Pi."|speech|PI|M|True
 59|ADULT PI (V.O.)|"My last class of the day was
-Mathematics...."|speech|ADULT PI|?
-60||16   INT. SCHOOL HALLWAY, 1973 - DAY                              16|location||
+Mathematics...."|speech|ADULT PI|?|True
+60||16   INT. SCHOOL HALLWAY, 1973 - DAY                              16|location|||
 61||"A LIBRARIAN runs down the hall, a huge book tucked under his
 arm, followed by dozens of students. He reaches Pi's class,
-pushes his way through the crowd."|unknown||
-62|LIBRARIAN|Slowly, Slowly! Slowly, Slowly!|speech|LIBRARIAN|M
-63||17   INT. MATH CLASS, 1973 - CONTINUOUS                           17|location||
+pushes his way through the crowd."|unknown|||
+62|LIBRARIAN|Slowly, Slowly! Slowly, Slowly!|speech|LIBRARIAN|M|
+63||17   INT. MATH CLASS, 1973 - CONTINUOUS                           17|location|||
 64||"Close on Pi writing digits. Pull back - the entire chalkboard
 is filled with numbers. All watching are stunned. The
-librarian compares Pi's writing to the math book."|unknown||
+librarian compares Pi's writing to the math book."|unknown|||
 65|LIBRARIAN|"It is right... He's really doing
-this!"|speech|LIBRARIAN|M
+this!"|speech|LIBRARIAN|M|
 66||"Students clap and cheer - even the bullies. Several chant
-along with him as he writes:"|unknown||
-67|ALL|1! 4! 9! 3! 1! PI! PI! PI!|speech|ALL|M
-68||8.|unknown||
+along with him as he writes:"|unknown|||
+67|ALL|1! 4! 9! 3! 1! PI! PI! PI!|speech|ALL|M|
+68||8.|unknown|||
 69|ADULT PI (VO)|"By the end of that day, I was Pi
-Patel, school legend."|speech|ADULT PI|?
-70||18   INT. PI'S KITCHEN - DAY                               18|location||
-71||The writer laughs, then ventures onto a new topic.|unknown||
+Patel, school legend."|speech|ADULT PI|?|True
+70||18   INT. PI'S KITCHEN - DAY                               18|location|||
+71||The writer laughs, then ventures onto a new topic.|unknown|||
 72|WRITER|"Mamaji tells me you're a legend
 among sailors, too. Out there all
-alone -"|speech|WRITER|M
+alone -"|speech|WRITER|M|True
 73|ADULT PI|"I don't even know how to sail. And
 I wasn't alone out there. Richard
-Parker was with me."|speech|ADULT PI|?
+Parker was with me."|speech|ADULT PI|?|True
 74|WRITER|"Richard Parker...? Mamaji didn't
 tell me everything. He just said I
 should look you up when I got back
-to Montreal."|speech|WRITER|M
+to Montreal."|speech|WRITER|M|True
 75|ADULT PI|"So what were you doing in
-Pondicherry?"|speech|ADULT PI|?
-76|WRITER|Writing a novel.|speech|WRITER|M
+Pondicherry?"|speech|ADULT PI|?|True
+76|WRITER|Writing a novel.|speech|WRITER|M|True
 77|ADULT PI|"By the way, I enjoyed your first
 book. The new one, is it set in
-India?"|speech|ADULT PI|?
+India?"|speech|ADULT PI|?|True
 78|WRITER|"No, Portugal, actually. But it's
-cheaper living in India."|speech|WRITER|M
+cheaper living in India."|speech|WRITER|M|True
 79|ADULT PI|"Ah. Well, I look forward to reading
-it."|speech|ADULT PI|?
+it."|speech|ADULT PI|?|True
 80|WRITER|"You can't. I threw it out. Two
 years trying to bring it to life,
 and then one day it sputtered,
-coughed, and died."|speech|WRITER|M
-81||ADULT PI|unknown||
-82|WRITER|I'm sorry.|speech|WRITER|M
+coughed, and died."|speech|WRITER|M|True
+81||ADULT PI|unknown|||
+82|WRITER|I'm sorry.|speech|WRITER|M|True
 83||"9.
 WRITER
 (Shrugs, making light of
-it.)"|unknown||
+it.)"|unknown|||
 84||"I was in a coffee house in
 Pondicherry one afternoon, mourning
 my loss, when this old man at the
 next table struck up a
-conversation."|location||
-85||ADULT PI|unknown||
-86||Yeah, Mamaji. He does that.|location||
-87||WRITER|unknown||
+conversation."|location|||
+85||ADULT PI|unknown|||
+86||Yeah, Mamaji. He does that.|location|||
+87||WRITER|unknown|||
 88||"When I told him about my abandoned
-book, he said:"|location||
-89||(Imitating Mamaji:)|unknown||
+book, he said:"|location|||
+89||(Imitating Mamaji:)|unknown|||
 90||"""So... a Canadian who's come to
 French India in search of a story.
 Well, my friend, I know an Indian
 in French Canada who has the most
 incredible story to tell. It must
 be fate that the two of you should
-meet."""|location||
-91||ADULT PI|unknown||
+meet."""|location|||
+91||ADULT PI|unknown|||
 92||"I haven't spoken about Richard
 Parker in so many years... What has
-Mamaji already told you?"|location||
-93||WRITER|unknown||
+Mamaji already told you?"|location|||
+93||WRITER|unknown|||
 94||"He said you had a story that would
-make me believe in God."|location||
+make me believe in God."|location|||
 95||"ADULT PI
-(Pi laughs.)"|unknown||
+(Pi laughs.)"|unknown|||
 96||"He would say that about a nice
 meal. As for God, I can only tell
 you my story; you will decide for
-yourself what you believe."|location||
-97||WRITER|unknown||
-98||Fair enough.|location||
-99||ADULT PI|unknown||
-100||Let's see, then - where to begin?|location||
+yourself what you believe."|location|||
+97||WRITER|unknown|||
+98||Fair enough.|location|||
+99||ADULT PI|unknown|||
+100||Let's see, then - where to begin?|location|||
 101||"CUT TO: MONTAGE
 OF PONDICHERRY,
 1954:
-10."|unknown||
-102||19   EXT. PONDICHERRY, SHORELINE 1954 - DAY                       19|location||
+10."|unknown|||
+102||19   EXT. PONDICHERRY, SHORELINE 1954 - DAY                       19|location|||
 103||"- The SHORELINE - Bicycles and pedestrians; policemen in
-round, flat-top French hats."|unknown||
+round, flat-top French hats."|unknown|||
 104|ADULT PI (V.O.)|"Pondicherry is the ""French Riviera
 of India."" In the streets closest
 to the ocean, you might think you
-were in the South of France."|speech|ADULT PI|?
-105||20   EXT. ASHRAM STREET, 1954 - DAY                               20|location||
-106||- Grey ASHRAM buildings, which give way to images of...|unknown||
-107||21   EXT. PONDICHERRY CANAL, 1954 - DAY                           21|location||
-108||- The CANAL, and just beyond it, INDIAN PONDI.|unknown||
+were in the South of France."|speech|ADULT PI|?|True
+105||20   EXT. ASHRAM STREET, 1954 - DAY                               20|location|||
+106||- Grey ASHRAM buildings, which give way to images of...|unknown|||
+107||21   EXT. PONDICHERRY CANAL, 1954 - DAY                           21|location|||
+108||- The CANAL, and just beyond it, INDIAN PONDI.|unknown|||
 109|ADULT PI (V.O.)|"A few blocks inland, there's a
 canal; just beyond that is Indian
-Pondicherry..."|speech|ADULT PI|?
+Pondicherry..."|speech|ADULT PI|?|True
 110||"SC. 22 EXT. PONDICHERRY MUSLIM QUARTER, 1954 - DAY 22
 - The MUSLIM QUARTER, women in head scarves pass men baking
-flatbread over coals, the mosque in the background."|unknown||
+flatbread over coals, the mosque in the background."|unknown|||
 111|ADULT PI (V.O.)|"And the Muslim Quarter is just to
-the West."|speech|ADULT PI|?
-112||18   INT. PI'S HOME - CONTINUED                                   18|location||
+the West."|speech|ADULT PI|?|True
+112||18   INT. PI'S HOME - CONTINUED                                   18|location|||
 113|ADULT PI|"When the French handed Pondicherry
 back to us in 1954, the town
 decided that some sort of
-commemoration was in order."|speech|ADULT PI|?
-114||25   EXT. ZOO ENTRANCE, 1955 - DAY                                25|location||
+commemoration was in order."|speech|ADULT PI|?|True
+114||25   EXT. ZOO ENTRANCE, 1955 - DAY                                25|location|||
 115||"The sign on the gate reads: ""JARDIN BOTANIQUE DE
-PONDICHERRY."""|unknown||
+PONDICHERRY."""|unknown|||
 116|ADULT PI (V.O.)|"My father, who was a clever
-businessman, came up with one."|speech|ADULT PI|?
-117||11.|unknown||
+businessman, came up with one."|speech|ADULT PI|?|True
+117||11.|unknown|||
 118|ADULT PI (V.O.) (CONT'D)|"He ran a hotel, and he got the idea
 to open a zoo in the local
-Botanical Gardens instead."|speech|ADULT PI|?
+Botanical Gardens instead."|speech|ADULT PI|?|True
 119||"Father oversees a SIGN PAINTER as the painter who adds the
-words 'AND ZOO' to the sign."|unknown||
-120||26   EXT. THE NURSERY - CONTINUOUS                                26|location||
+words 'AND ZOO' to the sign."|unknown|||
+120||26   EXT. THE NURSERY - CONTINUOUS                                26|location|||
 121||"WOMEN WORKERS plant and dig in the Botanical Gardens nursery.
 As MOTHER (refined - 20's) passes by, she admonishes a worker
-who pulls up a sapling with too much force."|unknown||
+who pulls up a sapling with too much force."|unknown|||
 122|ADULT PI (V.O.)|"As it also happened, my mother was
 a botanist in the Gardens. They
 met, married, and a year later my
 brother Ravi was born. I came two
-years after that."|speech|ADULT PI|?
-123||27   INT. PI'S HOME, OUTER ROOM, MONTREAL - DAY                   27|location||
-124|WRITER|It sounds magical, growing up in-|speech|WRITER|M
+years after that."|speech|ADULT PI|?|True
+123||27   INT. PI'S HOME, OUTER ROOM, MONTREAL - DAY                   27|location|||
+124|WRITER|It sounds magical, growing up in-|speech|WRITER|M|True
 125||"The Writer stops, realizing that Pi's eyes are closed in
 prayer. The Writer watches in awkward silence, his head
-halfbowed."|unknown||
-126|ADULT PI|Amen. Let's eat.|speech|ADULT PI|?
-127|WRITER|I didn't know Hindus said 'amen.'|speech|WRITER|M
-128||(As he serves food:)|unknown||
-129|ADULT PI|Catholic Hindus do.|speech|ADULT PI|?
-130|WRITER|Catholic Hindus?|speech|WRITER|M
+halfbowed."|unknown|||
+126|ADULT PI|Amen. Let's eat.|speech|ADULT PI|?|True
+127|WRITER|I didn't know Hindus said 'amen.'|speech|WRITER|M|True
+128||(As he serves food:)|unknown|||
+129|ADULT PI|Catholic Hindus do.|speech|ADULT PI|?|True
+130|WRITER|Catholic Hindus?|speech|WRITER|M|True
 131|ADULT PI|"We get to feel guilty before
 hundreds of gods instead of just
-one."|speech|ADULT PI|?
-132|WRITER|But you're a Hindu first?|speech|WRITER|M
-133||12.|unknown||
+one."|speech|ADULT PI|?|True
+132|WRITER|But you're a Hindu first?|speech|WRITER|M|True
+133||12.|unknown|||
 134|PI|"None of us knows God    until someone
 introduces us. I was    first
 introduced to God as    a Hindu. There
 are 330 million gods    in the Hindu
 religion - how can I    not come to
-know a few of them?"|speech|PI|M
-135||28   EXT. OUTSIDE THE PATEL HOME, 1966 - NIGHT                 28|location||
+know a few of them?"|speech|PI|M|True
+135||28   EXT. OUTSIDE THE PATEL HOME, 1966 - NIGHT                 28|location|||
 136||"YOUNG PI (5) and Ravi listen to Mother quietly singing a
 gentle tune as she kneels before their home, using rice
 powder to draw a Kolam pattern - a geometric design meant to
-bring the home prosperity."|unknown||
-137|PI (V.O.)|I met Krishna first...|speech|PI|M
+bring the home prosperity."|unknown|||
+137|PI (V.O.)|I met Krishna first...|speech|PI|M|True
 138|MOTHER (V.O., IN TAMIL)|"Yashoda once accused baby Krishna
 of eating dirt: ""Tut, tut, you
 naughty boy - you shouldn't do
-that..."""|speech|MOTHER|M
-139||29   INT. PI'S BEDROOM, 1966 - NIGHT                           29|location||
+that..."""|speech|MOTHER|M|True
+139||29   INT. PI'S BEDROOM, 1966 - NIGHT                           29|location|||
 140||"It is raining outside. Pan from the window; Mother lies in
 bed with Pi as they continue sharing this story for the
 thousandth time. Mother's voice plays over (Note: they speak
-in Tamil throughout the following dialogue):"|unknown||
-141|PI|...But he didn't!|speech|PI|M
+in Tamil throughout the following dialogue):"|unknown|||
+141|PI|...But he didn't!|speech|PI|M|True
 142|MOTHER|"That's what he told her. ""I didn't
 eat dirt!"" ""No? Well, then open
 your mouth."" So Krishna opened his
-mouth."|speech|MOTHER|M
-143||Pi opens his mouth in imitation.|unknown||
-144|MOTHER (TAMIL) (CONT'D)|And what do you think Yashoda saw?|speech|MOTHER|M
-145|PI (TAMIL)|What?|speech|PI|M
+mouth."|speech|MOTHER|M|True
+143||Pi opens his mouth in imitation.|unknown|||
+144|MOTHER (TAMIL) (CONT'D)|And what do you think Yashoda saw?|speech|MOTHER|M|True
+145|PI (TAMIL)|What?|speech|PI|M|True
 146|MOTHER (TAMIL)|"She saw in Krishna's mouth the
-whole entire universe."|speech|MOTHER|M
-147||13.|unknown||
-148||30   PI AND RAVI'S BEDROOM, 1966 - NIGHT                          30|location||
+whole entire universe."|speech|MOTHER|M|True
+147||13.|unknown|||
+148||30   PI AND RAVI'S BEDROOM, 1966 - NIGHT                          30|location|||
 149||"Pi has made a tent of his blanket, a flashlight glowing
 beneath the covers. In his tent, Pi flips through the pages
 of a Hindu comic book, enthralled by the story of Krishna...
 The panels of the comic book show Krishna's mouth falling
 open, revealing stars and planets, the universe unfolding in
-wondrous detail."|unknown||
-150||34   PONDI TEMPLE COURTYARD, 1966 - NIGHT                         34|location||
+wondrous detail."|unknown|||
+150||34   PONDI TEMPLE COURTYARD, 1966 - NIGHT                         34|location|||
 151||"A tank ceremony is about to begin. The tank is a square
 reservoir the size of a soccer field; Pi's family sits among
-the crowd on the steps that lead down to the water."|unknown||
+the crowd on the steps that lead down to the water."|unknown|||
 152|ADULT PI (V.O.)|"The gods were my superheroes
 growing up. Hanuman, the monkey
 god, lifting an entire mountain to
@@ -437,85 +437,85 @@ mother Parvati. Vishnu, the Supreme
 Soul, the source of all things.
 Vishnu sleeps, floating on the
 shoreless cosmic ocean and we are
-the stuff of his dreaming."|speech|ADULT PI|?
-153||(With quiet sincerity.)|unknown||
+the stuff of his dreaming."|speech|ADULT PI|?|True
+153||(With quiet sincerity.)|unknown|||
 154|FATHER|"Spectacle. Don't let the stories
 and pretty lights fool you, boys.
-Religion is darkness."|speech|FATHER|M
+Religion is darkness."|speech|FATHER|M|True
 155|ADULT PI (V.O.)|"My dear 'Appa' believed himself
 part of the 'new India.' As a
 child, he'd had polio; he used to
 lie in bed, wracked with pain,
 wondering where God was. In the
 end, God didn't save him; Western
-medicine did."|speech|ADULT PI|?
+medicine did."|speech|ADULT PI|?|True
 156||"Below, Mother watches the ceremony, lost in contemplation.
-14."|unknown||
+14."|unknown|||
 157|ADULT PI (V.O.)|"My 'Amma' went to college and
 thought her family was part of the
 'new India' as well - until her
 parents cut her off because they
 thought she was marrying beneath
 her. Her religion was the only link
-she had to her past."|speech|ADULT PI|?
-158||36   EXT. MUNNAR TEA FIELDS, 1973 - DAY                           36|location||
-159||Rocky mountaintops jut up through a sea of clouds and mist.|unknown||
+she had to her past."|speech|ADULT PI|?|True
+158||36   EXT. MUNNAR TEA FIELDS, 1973 - DAY                           36|location|||
+159||Rocky mountaintops jut up through a sea of clouds and mist.|unknown|||
 160|ADULT PI (V.O.)|"I met Christ in the mountains when
 I was 12. We were visiting
 relatives, tea growers in Munnar.
 It was our third day there; Ravi
-and I were terribly bored."|speech|ADULT PI|?
-161||Ravi walks up to Pi, coins in hand, and whispers.|unknown||
+and I were terribly bored."|speech|ADULT PI|?|True
+161||Ravi walks up to Pi, coins in hand, and whispers.|unknown|||
 162|RAVI (14)|"Challenge. I'll give you two
 rupees. Run into that church and
-drink the Holy water."|speech|RAVI|M
-163||37   INT. CATHOLIC CHURCH, 1973 - DAY                             37|location||
+drink the Holy water."|speech|RAVI|M|True
+163||37   INT. CATHOLIC CHURCH, 1973 - DAY                             37|location|||
 164||"Pi leans down to the font beside the door and drinks. He's
 about to leave again when he notices the stations of the
-cross depicted on plaques that encircle the church."|unknown||
+cross depicted on plaques that encircle the church."|unknown|||
 165|PRIEST|"You must be thirsty. Here, I
-brought you this."|speech|PRIEST|M
+brought you this."|speech|PRIEST|M|
 166||"Not knowing what else to do, Pi takes the glass and drinks.
 An awkward pause as he searches for something - anything - to
-say. He finally points up to one of the paintings."|unknown||
+say. He finally points up to one of the paintings."|unknown|||
 167|PI|"Why would a god do that? Why would
 he send his own son to suffer for
-the sins of ordinary people?"|speech|PI|M
-168||The Priest smiles down upon Pi.|unknown||
+the sins of ordinary people?"|speech|PI|M|True
+168||The Priest smiles down upon Pi.|unknown|||
 169|PRIEST|"Because He loves us. God made
 Himself approachable to us - human -
-so we could understand Him."|speech|PRIEST|M
-170||15.|unknown||
+so we could understand Him."|speech|PRIEST|M|
+170||15.|unknown|||
 171|PRIEST (CONT'D)|"We can't understand God in all His
 perfection, but we can understand
 God's son and His suffering as we
-would a brother's."|speech|PRIEST|M
-172||38   INT. PI'S DINING ROOM, MONTREAL - INTERCUT/CONTINUOUS      38|location||
+would a brother's."|speech|PRIEST|M|
+172||38   INT. PI'S DINING ROOM, MONTREAL - INTERCUT/CONTINUOUS      38|location|||
 173|ADULT PI|"That made no sense. Sacrificing the
 innocent to atone for the sins of
 the guilty? What kind of love is
-that?"|speech|ADULT PI|?
-174||39   EXT. PLANTATION HOME, MUNNAR, 1973 - DAY                   39|location||
+that?"|speech|ADULT PI|?|True
+174||39   EXT. PLANTATION HOME, MUNNAR, 1973 - DAY                   39|location|||
 175||"Ravi and other kids play cricket. Pi sits by a stream, lost
-in thought."|unknown||
+in thought."|unknown|||
 176|ADULT PI (V.O.)|"But this Son - I couldn't get Him
-out of my head."|speech|ADULT PI|?
-177||41   INT. CATHOLIC CHURCH, MUNNAR, 1973 - DAY 41                41|location||
-178||Pi stands quizzing the priest near the altar.|unknown||
+out of my head."|speech|ADULT PI|?|True
+177||41   INT. CATHOLIC CHURCH, MUNNAR, 1973 - DAY 41                41|location|||
+178||Pi stands quizzing the priest near the altar.|unknown|||
 179|PI|"If God is so perfect and we're not,
 why would He want to create all
-this? Why does He need us at all?"|speech|PI|M
-180||PRIEST|unknown||
+this? Why does He need us at all?"|speech|PI|M|True
+180||PRIEST|unknown|||
 181|PI|"All you have to know is that He
 loves us. ""God so loved the world
 that He gave His only Son."" This
 Son taught us to love one
-another..."|speech|PI|M
-182||The priest's words continue as Pi leans in, listening.|unknown||
+another..."|speech|PI|M|True
+182||The priest's words continue as Pi leans in, listening.|unknown|||
 183|ADULT PI (V.O.)|"The more I listened to the priest,
 the more I came to like this Son of
-God."|speech|ADULT PI|?
-184||42   INT. PI'S BEDROOM, 1973 - DAY                              42|location||
+God."|speech|ADULT PI|?|True
+184||42   INT. PI'S BEDROOM, 1973 - DAY                              42|location|||
 185||"Pi kneels, smiling, in an attitude of worship.
 16.
 PI
@@ -525,82 +525,82 @@ ADULT PI (V.O.)
 I came to faith through Hinduism
 and I found God's love through
 Christ, but God wasn't finished
-with me yet."|unknown||
-186||43    EXT. MUSLIM QUARTER, 1973 - DAY                             43|location||
+with me yet."|unknown|||
+186||43    EXT. MUSLIM QUARTER, 1973 - DAY                             43|location|||
 187||"As Pi wanders through the Muslim Quarter, the call to prayer
 plays out over a loudspeaker affixed to the nearby mosque. Pi
-watches as people pray."|stage direction||
+watches as people pray."|stage direction|||
 188||"ADULT PI (V.O.)
 God works in mysterious ways - and
 so it was He introduced Himself
 again, this time by the name of
-Allah."|unknown||
+Allah."|unknown|||
 189||"Pi crosses inquisitively up the few steps of a mosque in the
 Muslim quarter, looking inside, where dozens of the FAITHFUL
-are lined up row upon row, praying."|stage direction||
-190||A43   EXT. PONDICHERRY MOSQUE, 1973 - DAY                         A43|location||
+are lined up row upon row, praying."|stage direction|||
+190||A43   EXT. PONDICHERRY MOSQUE, 1973 - DAY                         A43|location|||
 191||"The speaker on top of the mosque plays the Muslim call to
-prayer."|stage direction||
-192||44    INT. PI FAMILY HOME, 1973 - DAY                             44|location||
+prayer."|stage direction|||
+192||44    INT. PI FAMILY HOME, 1973 - DAY                             44|location|||
 193||"Pi is out in front of the house kneeling on a prayer mat,
 repeating a prayer. Father passes by with friends. He stops
-to watch Pi."|stage direction||
-194||45    INT. FAMILY KITCHEN/DINING ROOM, 1973 - DUSK                45|location||
+to watch Pi."|stage direction|||
+194||45    INT. FAMILY KITCHEN/DINING ROOM, 1973 - DUSK                45|location|||
 195||"Father sits at the dinner table with his family. The servant
 offers a dish of lamb to Father only. Father pops a bite into
-his mouth, savoring it."|stage direction||
+his mouth, savoring it."|stage direction|||
 196||"FATHER
 This lamb is exquisite - it's best
 dish on the table. You are all
-missing out..."|unknown||
-197||As he chews, Father notices Pi completing a blessing.|stage direction||
+missing out..."|unknown|||
+197||As he chews, Father notices Pi completing a blessing.|stage direction|||
 198||"17.
-FATHER (CONT'D)"|unknown||
+FATHER (CONT'D)"|unknown|||
 199||"You only need to convert to three
 more religions, Piscine, and you
-will spend your life on holiday."|location||
+will spend your life on holiday."|location|||
 200||"RAVI
-(Laughing:)"|unknown||
+(Laughing:)"|unknown|||
 201||"Are you going to Mecca this year,
 Swami Jesus? Or to Rome, for your
-coronation as Pope Pi-us?"|location||
-202||MOTHER|unknown||
+coronation as Pope Pi-us?"|location|||
+202||MOTHER|unknown|||
 203||"You stay out of this, Ravi. Just as
 you like cricket, Pi has his own
-interests."|location||
-204||FATHER|unknown||
+interests."|location|||
+204||FATHER|unknown|||
 205||"No Gita, Ravi has a point, no? You
 cannot follow three different
 religions at the same time,
-Piscine."|location||
-206||PI|unknown||
-207||Why not?|location||
-208||FATHER|unknown||
+Piscine."|location|||
+206||PI|unknown|||
+207||Why not?|location|||
+208||FATHER|unknown|||
 209||"Because believing in everything at
 the same time is the same as not
-believing in anything at all."|location||
-210||MOTHER|unknown||
+believing in anything at all."|location|||
+210||MOTHER|unknown|||
 211||"He's young Santosh - he's still
-finding his way."|location||
-212||FATHER|unknown||
+finding his way."|location|||
+212||FATHER|unknown|||
 213||"And how can he find his way if he
-does not choose a path?"|location||
-214||(To Pi:)|unknown||
+does not choose a path?"|location|||
+214||(To Pi:)|unknown|||
 215||"Listen: instead of leaping from one
 religion to the next, why not start
 with reason? In a few hundred
 years, science has taken us farther
 in understanding the universe than
-religion has in ten thousand."|location||
-216||MOTHER|unknown||
+religion has in ten thousand."|location|||
+216||MOTHER|unknown|||
 217||"That is true. Your father is right.
 Science can teach us more about
-what's out there -"|location||
+what's out there -"|location|||
 218||"(With a hand to her
-heart:)"|unknown||
+heart:)"|unknown|||
 219||"- but not what is in here. Art,
 music, literature - they all spring
-from our faith."|location||
+from our faith."|location|||
 220||"18.
 FATHER
 Some eat meat, some eat vegetable.
@@ -617,8 +617,8 @@ Good.
 Pause.
 PI
 I would like to be baptized.
-Father and Mother react. Ravi stifles a laugh."|unknown||
-221||46   EXT. PI'S STREET - DAY                                    46|location||
+Father and Mother react. Ravi stifles a laugh."|unknown|||
+221||46   EXT. PI'S STREET - DAY                                    46|location|||
 222||"Pi walks down the front steps of his row house, stretching
 and rubbing his belly at the end of a good meal. The writer
 follows.
@@ -641,24 +641,24 @@ useful. It keeps faith a living
 thing. After all, you can't know
 the strength of your faith until
 it's been tested.
-19."|unknown||
-223||47   INT. THE TIGER FEEDING AREA, 1973, PART 1   - DAY            47|location||
+19."|unknown|||
+223||47   INT. THE TIGER FEEDING AREA, 1973, PART 1   - DAY            47|location|||
 224||"Pi (12) and Ravi (14) cross into a drab cement enclosure
 behind the tiger exhibit. A hallway with closed gates at both
-ends leads out to the exhibit."|unknown||
+ends leads out to the exhibit."|unknown|||
 225|RAVI|"Where's Selvam? We shouldn't be in
-here without him."|speech|RAVI|M
+here without him."|speech|RAVI|M|True
 226|PI|"Stop worrying. I have seen him do
 this a thousand times. I want to
-meet our new tiger."|speech|PI|M
-227||He drops meat on the floor by the bars.|unknown||
-228|RAVI|Pi!...|speech|RAVI|M
-229|PI|Hello! Richard Parker!|speech|PI|M
-230||48   EXT. MONTREAL STREET - DAY                                   48|location||
+meet our new tiger."|speech|PI|M|True
+227||He drops meat on the floor by the bars.|unknown|||
+228|RAVI|Pi!...|speech|RAVI|M|True
+229|PI|Hello! Richard Parker!|speech|PI|M|True
+230||48   EXT. MONTREAL STREET - DAY                                   48|location|||
 231||"Pi and the writer walk along a Montreal street. The Writer
-stares at Pi, bewildered."|unknown||
+stares at Pi, bewildered."|unknown|||
 232|WRITER|"A tiger? Richard Parker was a
-tiger?"|speech|WRITER|M
+tiger?"|speech|WRITER|M|True
 233|ADULT PI|"He got his name through a clerical
 error. A hunter caught him drinking
 from a stream when he was a cub and
@@ -668,36 +668,36 @@ zoo - but the names got switched on
 the paperwork. The hunter was
 listed as Thirsty and tiger was
 called Richard Parker. We laughed
-about it and the name stuck."|speech|ADULT PI|?
-234||47   EXT. THE TIGER FEEDING AREA, PART TWO 1973 - DAY             47|location||
+about it and the name stuck."|speech|ADULT PI|?|True
+234||47   EXT. THE TIGER FEEDING AREA, PART TWO 1973 - DAY             47|location|||
 235|RAVI|"Let's go. Before we get into
-trouble."|speech|RAVI|M
-236|PI|I want to see him close up.|speech|PI|M
+trouble."|speech|RAVI|M|True
+236|PI|I want to see him close up.|speech|PI|M|True
 237||"20.
 RAVI
-You're not a zoo keeper. Come on!"|unknown||
+You're not a zoo keeper. Come on!"|unknown|||
 238||"An adolescent BENGAL TIGER appears at the other end of thE
 hall. Ravi bolts, running out of the feeding area. Pi is
-enchanted."|location||
-239||PI|unknown||
-240|PI|(offering meat)|speech|PI|M
+enchanted."|location|||
+239||PI|unknown|||
+240|PI|(offering meat)|speech|PI|M|True
 241||"That's it, Richard Parker. It's for
-you."|unknown||
+you."|unknown|||
 242||"Pi holds the lamb through the bars, The tiger walks slowly
 down the hallway, regarding Pi with a detached curiosity, as
 unthreatening in his manner as a large housecat. Pi begins
 trembling from sheer excitement.
 He doesn't hear the approach of uneven footsteps - Father
 appears, followed by Ravi. Just as Richard Parker approaches
-the offering."|location||
+the offering."|location|||
 243||"FATHER
-No!!!"|unknown||
+No!!!"|unknown|||
 244||"Father yanks Pi violently away from the cage, wrenching Pi's
 hand through the bars. Richard Parker, startled, raises his
 head, hissing. He turns and bounds back out through the gate
 at the other end of the hallway, disappearing into the
 exhibit area. Father spins Pi around and shoves him against
-the wall."|location||
+the wall."|location|||
 245||"FATHER (CONT'D)
 What are you thinking?! Are you out
 of your mind? Who gave you
@@ -713,23 +713,23 @@ friend. He is an animal, not a
 playmate!
 PI
 Animals have souls. I've seen it in
-their eyes."|unknown||
-246||Father turns to Ravi, who stands by the gate.|location||
+their eyes."|unknown|||
+246||Father turns to Ravi, who stands by the gate.|location|||
 247||"21.
 FATHER
-Find Selvam!"|unknown||
+Find Selvam!"|unknown|||
 248||"50 EXT. THE FEEDING CAGES, 1973 - A SHORT TIME LATER 50
 Father, Pi and Ravi watch as Selvam carries a goat into the
-feeding area."|location||
-249||SELVAM|unknown||
-250|PI|(In Tamil:)|speech|PI|M
+feeding area."|location|||
+249||SELVAM|unknown|||
+250|PI|(In Tamil:)|speech|PI|M|True
 251||"You're sure, Mr. Patel? Pi's just a
 kid.
 FATHER
 (In Tamil:)
-Do it. Go ahead."|unknown||
+Do it. Go ahead."|unknown|||
 252||"Selvam sets the goat down and ties a piece of rope around the
-animal's neck."|location||
+animal's neck."|location|||
 253||"FATHER (CONT'D)
 (To the boys:)
 Animals don't think like we do;
@@ -738,38 +738,38 @@ themselves killed. That tiger is
 not your friend. When you look into
 his eyes, you are seeing your own
 emotions reflected back at you -
-nothing else."|unknown||
+nothing else."|unknown|||
 254||"Selvam ties the goat to the bars at the gate area where Pi
-had been about to feed Richard Parker."|location||
+had been about to feed Richard Parker."|location|||
 255||"RAVI
 (Quietly, to Pi:)
-Don't be stupid! Say you're sorry."|unknown||
+Don't be stupid! Say you're sorry."|unknown|||
 256||"Mother arrives at the gate with a WOMAN WORKER and rushes to
-Pi's side."|location||
+Pi's side."|location|||
 257||"MOTHER
 What have you done, Piscine? You
 know what your father said about
 coming back here.
 PI
-I'm sorry. I was..."|unknown||
-258||Mother turns to Father, quietly - referring to the goat:|location||
+I'm sorry. I was..."|unknown|||
+258||Mother turns to Father, quietly - referring to the goat:|location|||
 259||"MOTHER
 What are you thinking?
-22."|unknown||
+22."|unknown|||
 260|FATHER|"This is between a father and his
-sons."|speech|FATHER|M
-261||(In Tamil:)|unknown||
-262|FATHER|Selvam, the gate.|speech|FATHER|M
+sons."|speech|FATHER|M|True
+261||(In Tamil:)|unknown|||
+262|FATHER|Selvam, the gate.|speech|FATHER|M|True
 263|MOTHER|"He said he's sorry. You want to
-scar them for life?"|speech|MOTHER|M
+scar them for life?"|speech|MOTHER|M|True
 264|FATHER|"Scar them? That boy almost lost his
-arm!"|speech|FATHER|M
-265|MOTHER|But he's still a boy!|speech|MOTHER|M
+arm!"|speech|FATHER|M|True
+265|MOTHER|But he's still a boy!|speech|MOTHER|M|True
 266|FATHER|"He will be a man sooner than you
 think, and this is a lesson I do
-not want them ever to forget."|speech|FATHER|M
-267||(Turning to Selvam:)|unknown||
-268|FATHER|Selvam.|speech|FATHER|M
+not want them ever to forget."|speech|FATHER|M|True
+267||(Turning to Selvam:)|unknown|||
+268|FATHER|Selvam.|speech|FATHER|M|True
 269||"Selvam opens the far gate. Richard Parker re-enters the
 hallway. He sees the goat and slinks forward, lowering his
 body, his ears flattening against his skull. The goat
@@ -783,14 +783,14 @@ We don't see what happens next - but the family does.
 ON THE CAGE: Only a few seconds have passed, but Richard
 Parker has already turned to go back into his enclosure, the
 lifeless goat in his mouth. The family watches - Father is
-impassive, Ravi traumatized; mother wraps her arms around Pi."|unknown||
-270||52   INT. PI AND RAVI'S BEDROOM, 1976 - MORNING                52|location||
+impassive, Ravi traumatized; mother wraps her arms around Pi."|unknown|||
+270||52   INT. PI AND RAVI'S BEDROOM, 1976 - MORNING                52|location|||
 271||"A rainy early morning in monsoon season. Pi (now 16) lies in
 bed, reading ""Notes from the Underground."" Ravi is still
-asleep. The radio plays in the other room."|unknown||
+asleep. The radio plays in the other room."|unknown|||
 272|NEWS ANNOUNCER (ON RADIO)|"... and so has placed the country
-in a State of Emergency."|speech|NEWS ANNOUNCER|?
-273||23.|unknown||
+in a State of Emergency."|speech|NEWS ANNOUNCER|?|
+273||23.|unknown|||
 274|NEWS ANNOUNCER (ON RADIO) (CONT'D)|"Under the directive, the states of
 Gujarat and Tamil Nadu will be
 placed under the direct authority
@@ -798,12 +798,12 @@ of the central government. Police
 will be granted powers to arrest
 and indefinitely detain citizens
 responsible for the uprising.
-Unauthorized..."|speech|NEWS ANNOUNCER|?
-275||Ravi's alarm goes off. Ravi reaches to shut it off.|unknown||
-276||55   55 EXT. PI'S SCHOOL, PONDICHERRY, 1977 - DAY 55            55|location||
+Unauthorized..."|speech|NEWS ANNOUNCER|?|
+275||Ravi's alarm goes off. Ravi reaches to shut it off.|unknown|||
+276||55   55 EXT. PI'S SCHOOL, PONDICHERRY, 1977 - DAY 55            55|location|||
 277||"End of the school day. Pi, in raincoat, walks out to the
 street, where student bicycles are lined up by the hundreds.
-He gets his bike."|unknown||
+He gets his bike."|unknown|||
 278|ADULT PI (V.O.)|"Things changed after the day of
 Appa's lesson. The world had lost
 some of its enchantment. School was
@@ -813,57 +813,57 @@ patterns that went on and on. I
 grew restless, searching for
 something that would bring meaning
 into my life. And then I met
-Anandi..."|speech|ADULT PI|?
-279||59   I/E. DANCE STUDIO, PONDICHERRY, 1977 - DAY                 59|location||
+Anandi..."|speech|ADULT PI|?|True
+279||59   I/E. DANCE STUDIO, PONDICHERRY, 1977 - DAY                 59|location|||
 280||"CLOSE ON ANANDI (15) radiant, graceful, eyes aglow, dancing
-with passionate intensity."|unknown||
+with passionate intensity."|unknown|||
 281|ADULT PI (V.O.)|"Mother made me study music, and one
 day my teacher came down with the
 flu; he asked if I could take his
 place one afternoon playing rhythms
-for a dance class."|speech|ADULT PI|?
+for a dance class."|speech|ADULT PI|?|True
 282||"Pi watches her, hopelessly in love, absent-mindedly drumming
 along. He is drumming for a class of a dozen female students;
 a DANCE MASTER (female) accompanies the beat vocally -
 ""Tumtikita..."" etc. The dance master claps her hands,
-interrupting to teach."|unknown||
+interrupting to teach."|unknown|||
 283|DANCE MASTER|"No. If you do not concentrate, you
 cannot express your love of God
 through dance. Feel the ground
-beneath your feet;"|speech|DANCE MASTER|F
-284||24.|unknown||
+beneath your feet;"|speech|DANCE MASTER|F|
+284||24.|unknown|||
 285|DANCE MASTER (CONT'D)|"open your gaze out onto the
 horizon, let that spiritual energy
 pulse through you and out into the
 world through abinea. Anandi, come
-to the front; lead them."|speech|DANCE MASTER|F
+to the front; lead them."|speech|DANCE MASTER|F|
 286||"Anandi obeys; Pi watches her, lost in admiration, until the
 teacher taps a wood block to get his attention. The girls in
-the class giggle - Pi blushes, embarrassed."|unknown||
-287||60   I/E. THE TOWN MARKET/THE BANYAN TREE, 1977 - DAY             60|location||
+the class giggle - Pi blushes, embarrassed."|unknown|||
+287||60   I/E. THE TOWN MARKET/THE BANYAN TREE, 1977 - DAY             60|location|||
 288||"Anandi walks with two of her FRIENDS through the town
 market.ACROSS THE MARKET, Pi hides behind a flower seller's
 stall. Gathering his courage, he peers out, searching for
 Anandi. She is nowhere to be seen. He walks into an open area
 of the market that surrounds a banyan tree. Suddenly, he
-hears a voice behind him."|unknown||
-289|ANANDI|Why are you following me?|speech|ANANDI|F
+hears a voice behind him."|unknown|||
+289|ANANDI|Why are you following me?|speech|ANANDI|F|
 290||"Pi turns - Anandi stands before him, her friends a short
-distance behind her, eavesdropping."|unknown||
-291|PI|What?|speech|PI|M
-292|ANANDI|You were following me.|speech|ANANDI|F
+distance behind her, eavesdropping."|unknown|||
+291|PI|What?|speech|PI|M|True
+292|ANANDI|You were following me.|speech|ANANDI|F|
 293||"(After a beat, to cover
-his evident guilt:)"|unknown||
-294|PI|What does this mean?|speech|PI|M
+his evident guilt:)"|unknown|||
+294|PI|What does this mean?|speech|PI|M|True
 295||"Pi vaguely imitates the hand gesture - pinching the tips of
 his fingers together - that he saw Anandi use in the dance
-rehearsal. Anandi stares at him, bewildered."|unknown||
+rehearsal. Anandi stares at him, bewildered."|unknown|||
 296|PI (CONT'D)|"In the dance, you went from Pataka,
 which means the forest, and then
 you did-then you did Samputa, which
 means something that is hidden, and
 after that you did this... and then
-you did Chatura."|speech|PI|M
+you did Chatura."|speech|PI|M|True
 297||"Pi demonstrates her dancing. Anandi smiles, while her friends
 giggle at his performance.
 25.
@@ -880,8 +880,8 @@ PI
 The lotus flower is hiding in the
 forest? Why would a lotus flower
 hide in the forest?
-Anandi blushes. She has no answer."|unknown||
-298||62   EXT. THE ZOO EXHIBITS, 1977 - DAY                            62|location||
+Anandi blushes. She has no answer."|unknown|||
+298||62   EXT. THE ZOO EXHIBITS, 1977 - DAY                            62|location|||
 299||"Pi and Anandi stand at the Bengal Tiger cage, Pi proudly
 introducing Anandi to the zoo's finest exhibit.
 PI
@@ -894,8 +894,8 @@ head. Showing off - like a dancer.
 ANANDI
 No, he heard something - he's
 listening. You see?
-Pi beams."|unknown||
-300||64   INT. PATEL DINING ROOM, 1977 - DUSK                          64|location||
+Pi beams."|unknown|||
+300||64   INT. PATEL DINING ROOM, 1977 - DUSK                          64|location|||
 301||"Pi sits at dinner with the family, a half-smile on his face,
 obviously lost in thoughts about Anandi. Father's voice
 gradually breaks through into Pi's consciousness.
@@ -941,13 +941,13 @@ freighter passage for the whole
 family. So, it is settled. We will
 sail like Columbus!
 PI
-But Columbus was looking for India!"|unknown||
+But Columbus was looking for India!"|unknown|||
 302||"EXT. PONDICHERRY, BENEATH THE PIER, 1977 - DAY
 Pi and Anandi sit together on the crossbeams beneath the
 dock. Anandi takes a length of colored silken threads, tying
 them around Pi's wrist to serve as 'Rakhi' - a sisterly
-blessing for protection on his journey."|location||
-303||27.|unknown||
+blessing for protection on his journey."|location|||
+303||27.|unknown|||
 304|ADULT PI (V.O.)|"It takes a lot of work to sell a
 zoo; before we left Anandi and I
 had time enough to break each
@@ -955,38 +955,38 @@ other's hearts. Of course, I
 promised I'd come back one day...
 It's funny... I remember everything
 else about our last day, but I
-don't remember saying goodbye..."|speech|ADULT PI|?
-305||As she finishes, Pi reaches out impulsively to hold her hand.|unknown||
-306||67   EXT. CARGO SHIP DECK, 1977 - DUSK                         67|location||
+don't remember saying goodbye..."|speech|ADULT PI|?|True
+305||As she finishes, Pi reaches out impulsively to hold her hand.|unknown|||
+306||67   EXT. CARGO SHIP DECK, 1977 - DUSK                         67|location|||
 307||"Sunset. Pi stands at the railing of the cargo ship, staring
-out at the Chennai shoreline. Mother approaches."|unknown||
-308|MOTHER|Pi, they're serving dinner below.|speech|MOTHER|M
+out at the Chennai shoreline. Mother approaches."|unknown|||
+308|MOTHER|Pi, they're serving dinner below.|speech|MOTHER|M|True
 309||"(Beat.)
-Pi doesn't respond. Mother approaches and stands beside him."|unknown||
-310||(After a beat.)|unknown||
+Pi doesn't respond. Mother approaches and stands beside him."|unknown|||
+310||(After a beat.)|unknown|||
 311|MOTHER (CONT'D)|"Piscine, You have a whole life
 ahead of you. We're doing this for
 you and Ravi. Come inside and have
-some dinner."|speech|MOTHER|M
-312||68   INT. THE TSIMTSUM, MESS HALL, 1977 - DAY                  68|location||
+some dinner."|speech|MOTHER|M|True
+312||68   INT. THE TSIMTSUM, MESS HALL, 1977 - DAY                  68|location|||
 313||"The family stands in the mess hall line along with the CREW.
 The FRENCH COOK, a grizzled and thoroughly unpleasant man,
 loads a plate and slides it over the counter to Mother. The
 meal consists of liver and onions, sausages, and rice soaked
-in gravy. Mother points at her rice."|unknown||
+in gravy. Mother points at her rice."|unknown|||
 314|MOTHER|"My sons and I are vegetarians. Do
-you have anything - ?"|speech|MOTHER|M
-315||The French Cook ladles ore gravy over her rice.|unknown||
-316|MOTHER (CONT'D)|No - no! Not more gravy.|speech|MOTHER|M
-317||(Thick French accent:)|unknown||
-318|FRENCH COOK|You don't want gravy?|speech|FRENCH COOK|F
+you have anything - ?"|speech|MOTHER|M|True
+315||The French Cook ladles ore gravy over her rice.|unknown|||
+316|MOTHER (CONT'D)|No - no! Not more gravy.|speech|MOTHER|M|True
+317||(Thick French accent:)|unknown|||
+318|FRENCH COOK|You don't want gravy?|speech|FRENCH COOK|F|
 319||"28.
 MOTHER
-(Quickly switching to"|unknown||
-320|FRENCH COOK|French:)|speech|FRENCH COOK|F
-321||No, I want something vegetarian. I-|unknown||
+(Quickly switching to"|unknown|||
+320|FRENCH COOK|French:)|speech|FRENCH COOK|F|
+321||No, I want something vegetarian. I-|unknown|||
 322||"The cook takes her plate, sets it on the counter in front of
-Father. The following takes place in French (subtitled)."|location||
+Father. The following takes place in French (subtitled)."|location|||
 323||"FRENCH COOK
 There. No problems.
 FATHER
@@ -1008,13 +1008,13 @@ rice, the gravy.
 Or you can go cook your own food.
 FATHER
 How dare you talk to my wife like
-that?"|unknown||
-324||The cook shoves a plate of plain rice over the counter.|location||
+that?"|unknown|||
+324||The cook shoves a plate of plain rice over the counter.|location|||
 325||"FRENCH COOK
 Here's your rice. I cook for
-sailors, not curry eaters."|unknown||
+sailors, not curry eaters."|unknown|||
 326||"Father grabs the cook's forearms, yanking him halfway over
-the high counter."|location||
+the high counter."|location|||
 327||"FATHER
 What did you call us??
 FRENCH COOK
@@ -1022,127 +1022,127 @@ Let go of me!
 FATHER
 Who do you think you are? You're
 nothing but a servant!
-29."|unknown||
-328|FRENCH COOK|I feed people! You feed monkeys!|speech|FRENCH COOK|F
-329|FATHER|I'll teach you respect!|speech|FATHER|M
+29."|unknown|||
+328|FRENCH COOK|I feed people! You feed monkeys!|speech|FRENCH COOK|F|
+329|FATHER|I'll teach you respect!|speech|FATHER|M|True
 330||"Sailors descend on the two, pulling them apart.
 A SHORT TIME
-LATER -"|unknown||
-331||69   INT. THE TSIMTSUM MESS HALL, 1977 - DAY                        69|location||
+LATER -"|unknown|||
+331||69   INT. THE TSIMTSUM MESS HALL, 1977 - DAY                        69|location|||
 332||"The family sits eating silently in the aftermath of the
 scuffle. A TAIWANESE SAILOR comes alongside Pi carrying a
 plate of rice with gravy. He speaks with a Taiwanese accent
-and a gentle smile."|unknown||
+and a gentle smile."|unknown|||
 333|TAIWANESE SAILOR|"Hello, I am happy Buddhist, so I
 eat rice next to gravy. On ship,
 gravy is not meat. Is taste. Okay?
-You try?"|speech|TAIWANESE SAILOR|?
+You try?"|speech|TAIWANESE SAILOR|?|
 334||"Pi smiles in gratitude, but the gravy looks anything but
-appetizing."|unknown||
-335||70   INT. TSIMTSUM CARGO HOLD, 1977 - DAY                           70|location||
+appetizing."|unknown|||
+335||70   INT. TSIMTSUM CARGO HOLD, 1977 - DAY                           70|location|||
 336||"Pi eats a banana from the food set aside for the animals in
 the cargo hold. He sits next to the transport cage of ORANGE
 JUICE, a female orangutan with a baby orang in her arms.
 Animal crates and cages surround Pi, the air filled with
 screeches and growls.
-Father enters the hold, carrying food for the animals."|unknown||
-337||(Noting Pi's banana:)|unknown||
+Father enters the hold, carrying food for the animals."|unknown|||
+337||(Noting Pi's banana:)|unknown|||
 338|FATHER|"Don't worry - we will have plenty
 of fresh supplies after we stop in
-Manila."|speech|FATHER|M
-339||Father mixes tranquilizer pills into food for the orangs.|unknown||
+Manila."|speech|FATHER|M|True
+339||Father mixes tranquilizer pills into food for the orangs.|unknown|||
 340|PI|"Why give O.J. a tranquilizer? She's
-not going to cause any trouble."|speech|PI|M
+not going to cause any trouble."|speech|PI|M|True
 341|FATHER|"The stress of traveling is not good
-for the animals."|speech|FATHER|M
-342||30.|unknown||
+for the animals."|speech|FATHER|M|True
+342||30.|unknown|||
 343|FATHER (CONT'D)|"And it helps with the seasickness.
 We don't want to be cleaning up
-after a seasick orangutan, do we?"|speech|FATHER|M
+after a seasick orangutan, do we?"|speech|FATHER|M|True
 344||"Pi looks up, notices Father watching him.
 Father tries to smile along with his little attempt at humor,
-but his manner is stiff, his eyes furtive and uneasy."|unknown||
+but his manner is stiff, his eyes furtive and uneasy."|unknown|||
 345|ADULT PI (V.O.)|"My father was a businessman - he
 had never handled the animals
 himself. I realized that leaving
 India must have been harder for him
-than it was for me."|speech|ADULT PI|?
-346||71   EXT. MONTREAL GARDENS - DAY                               71|location||
+than it was for me."|speech|ADULT PI|?|True
+346||71   EXT. MONTREAL GARDENS - DAY                               71|location|||
 347||"Adult Pi and the Writer sit on a bench in the gardens. Pi has
 fallen silent, reflective.
-WRITER"|unknown||
-348|ADULT PI (V.O.)|... So...|speech|ADULT PI|?
-349|ADULT PI|Have I forgotten anything?|speech|ADULT PI|?
+WRITER"|unknown|||
+348|ADULT PI (V.O.)|... So...|speech|ADULT PI|?|True
+349|ADULT PI|Have I forgotten anything?|speech|ADULT PI|?|True
 350|WRITER|"I think you've set the stage. So
 far we have an Indian boy named
 after a French swimming pool on a
 Japanese ship full of animals
-heading to Canada."|speech|WRITER|M
+heading to Canada."|speech|WRITER|M|True
 351|ADULT PI|"Yes. Now we have to send our boy
-into the middle of the Pacific, and"|speech|ADULT PI|?
-352|WRITER|And make me believe in God.|speech|WRITER|M
-353|ADULT PI|Yes. We'll get there.|speech|ADULT PI|?
-354||72   EXT. A TOPOGRAPHICAL MAP OF THE PACIFIC, 1977 - DUSK      72|location||
+into the middle of the Pacific, and"|speech|ADULT PI|?|True
+352|WRITER|And make me believe in God.|speech|WRITER|M|True
+353|ADULT PI|Yes. We'll get there.|speech|ADULT PI|?|True
+354||72   EXT. A TOPOGRAPHICAL MAP OF THE PACIFIC, 1977 - DUSK      72|location|||
 355||"Moving in on the Mariana Trench, an ominous gash of darkest
 blue...
-31."|unknown||
+31."|unknown|||
 356|ADULT PI (V.O.)|"It was four days out of Manila -
 above the Mariana Trench, the
-deepest spot on earth..."|speech|ADULT PI|?
+deepest spot on earth..."|speech|ADULT PI|?|True
 357||"Zoom closer until the blue fills the screen...
-ADULT PI (V.O.)"|unknown||
+ADULT PI (V.O.)"|unknown|||
 358|ADULT PI (V.O.)|"Our ship, the Tsimtsum, pushed on,
 bullishly indifferent to its
 surroundings. It moved with the
 slow, massive confidence of a
-continent."|speech|ADULT PI|?
-359||DISSOLVE TO:|unknown||
-360||73   EXT. THE TSIMTSUM - NIGHT                                     73|location||
+continent."|speech|ADULT PI|?|True
+359||DISSOLVE TO:|unknown|||
+360||73   EXT. THE TSIMTSUM - NIGHT                                     73|location|||
 361||"Lightning and thunder. The freighter sailing in ominous
 weather, the name Tsimtsum emblazoned on its hull. Choppy
-seas, rains, a storm."|unknown||
-362||74   INT. CARGO SHIP, THE FAMILY CABIN - NIGHT                     74|location||
+seas, rains, a storm."|unknown|||
+362||74   INT. CARGO SHIP, THE FAMILY CABIN - NIGHT                     74|location|||
 363||"Darkness - the faint glow of a nightlight. Close on Pi's
 sleeping face, the cabin swaying in the storm.
 BANG. A loud, deep rumble breaks into his consciousness. The
 ship shakes. Pi's eyes open. He looks around, listens.
-Nothing. He leans over the side of his bunk and wakes Ravi."|unknown||
-364|PI|Ravi? Did you hear that?|speech|PI|M
-365||(Pause)|unknown||
-366|PI|Ravi?|speech|PI|M
-367|RAVI|... I'm sleeping.|speech|RAVI|M
+Nothing. He leans over the side of his bunk and wakes Ravi."|unknown|||
+364|PI|Ravi? Did you hear that?|speech|PI|M|True
+365||(Pause)|unknown|||
+366|PI|Ravi?|speech|PI|M|True
+367|RAVI|... I'm sleeping.|speech|RAVI|M|True
 368|PI|"It's a thunderstorm! Let's go
-watch!"|speech|PI|M
-369||RAVI|unknown||
+watch!"|speech|PI|M|True
+369||RAVI|unknown|||
 370|PI|"Are you crazy? We'll get hit by
-lightning."|speech|PI|M
+lightning."|speech|PI|M|True
 371|PI|"No, we won't. It'll hit the bridge
-first."|speech|PI|M
-372||32.|unknown||
-373|RAVI|Don't tempt a storm, Pi.|speech|RAVI|M
+first."|speech|PI|M|True
+372||32.|unknown|||
+373|RAVI|Don't tempt a storm, Pi.|speech|RAVI|M|True
 374||"On the other side of the narrow room, Mother shifts
-uncomfortably on the double bed she shares with Father."|unknown||
-375||75   INT. SHIP HALLWAY - CONTINUOUS                               75|location||
-376||Pi heads upstairs to the deck.|unknown||
-377||76   EXT. THE CARGO DECK - CONTINUOUS                             76|location||
+uncomfortably on the double bed she shares with Father."|unknown|||
+375||75   INT. SHIP HALLWAY - CONTINUOUS                               75|location|||
+376||Pi heads upstairs to the deck.|unknown|||
+377||76   EXT. THE CARGO DECK - CONTINUOUS                             76|location|||
 378||"The deck of the ship is dark. Pi steps out into a bracing
 rain and walks to the rail, wind whipping his hair. He
 laughs, exhilarated, as rain splashes over his face. Throwing
 arms wide, Pi dances in imitation of Anandi's dance, slipping
 more than once on the rain-soaked deck, shouting in giddy
-adolescent triumph."|unknown||
+adolescent triumph."|unknown|||
 379|PI|"More rain, lord of storms! Let it
-rage!"|speech|PI|M
+rage!"|speech|PI|M|True
 380||"He finishes, laughing as he falls against the railing. The
 deck lights suddenly all come on at once; a warning alarm
 sounds over the loudspeakers.
 Pi slips to the front of the deck and stands up, watching in
 horror as a wave washes over the bow, carrying several
 sailors overboard. He pushes himself away from the railing
-and runs back down below."|unknown||
-381||INT. THE STAIRS TO THE CABINS/LOWER LEVEL - CONTINUOUS|location||
-382||Pi stumbles down the tilted staircase.|unknown||
-383|PI|AMMA! APPA! RAVI! GET OUT, GET OUT!|speech|PI|M
+and runs back down below."|unknown|||
+381||INT. THE STAIRS TO THE CABINS/LOWER LEVEL - CONTINUOUS|location|||
+382||Pi stumbles down the tilted staircase.|unknown|||
+383|PI|AMMA! APPA! RAVI! GET OUT, GET OUT!|speech|PI|M|True
 384||"Halfway down, Pi hits water. He dives, searching for his
 family. The hall lights flicker - the passage falls dark an
 instant before the emergency lights come on in the water
@@ -1152,11 +1152,11 @@ ZEBRA swimming toward him, passing overhead. He tries to swim
 further, but the enormous force of rushing water and air is
 too great; he scrambles backward, groping toward the
 stairwell.
-33."|unknown||
+33."|unknown|||
 385||"EXT. THE CARGO DECK - CONTINUOUS
-Pi bursts on deck, coughing and gagging for air."|location||
+Pi bursts on deck, coughing and gagging for air."|location|||
 386||"PI
-HELP!! SOMEBODY HELP ME!!"|unknown||
+HELP!! SOMEBODY HELP ME!!"|unknown|||
 387||"Pi sees movement - animals running. He scrambles toward them,
 the ship groaning as it lists sideways.
 Oxen and deer are visible on the far side of the deck,
@@ -1167,12 +1167,12 @@ Pi comes onto the lower deck, where he sees three men - the
 Buddhist (Taiwanese Sailor) from the dining hall; the
 JAPANESE CAPTAIN, and SAILOR #1 - arguing with the French
 cook, who has climbed into the stern of one of the lifeboats
-that hangs off the side of the ship. Pi runs to the Captain."|location||
+that hangs off the side of the ship. Pi runs to the Captain."|location|||
 388||"PI (CONT'D)
 Please save my family!
 JAPANESE CAPTAIN
-Don't scare. Okay? Wait stay here."|unknown||
-389||He grabs a life vest and starts to put it on Pi.|location||
+Don't scare. Okay? Wait stay here."|unknown|||
+389||He grabs a life vest and starts to put it on Pi.|location|||
 390||"JAPANESE CAPTAIN (CONT'D)
 Here, put this on!
 PI
@@ -1180,13 +1180,13 @@ You have to help them, please! Oh
 no my family, please. You have to
 help them, my family is back there.
 JAPANESE CAPTAIN
-We don't have time."|unknown||
-391||The Taiwanese Sailor jumps onto the ship.|location||
+We don't have time."|unknown|||
+391||The Taiwanese Sailor jumps onto the ship.|location|||
 392||"TAIWANESE SAILOR
 We help. You must go.
 PI
-Who let all the animals out?"|unknown||
-393||They shove a life vest over Pi's head.|location||
+Who let all the animals out?"|unknown|||
+393||They shove a life vest over Pi's head.|location|||
 394||"SAILOR #1
 You have to go now.
 34.
@@ -1195,14 +1195,14 @@ No wait! My father - he can't swim -
 JAPANESE CAPTAIN
 This is your last chance--just go!
 PI
-No please!"|unknown||
+No please!"|unknown|||
 395||"They guide Pi to the side, where a section of the ship's
 railing has been removed to give access to the lifeboat. They
 push Pi over the edge; Pi falls onto the lifeboat, bouncing
 on the protective tarp that is still stretched taut across
 the bow. He grabs at the rope holding the bow, trying not to
 slip off. The sailors are shouting at the French cook, who
-stands at the stern."|location||
+stands at the stern."|location|||
 396||"SAILOR #1
 Hey! You! What are you doing?!
 FRENCH COOK
@@ -1211,7 +1211,7 @@ SAILOR #1
 Tie it down! Tie it down!
 FRENCH COOK
 (to the sailors:)
-Jump! Jump!"|unknown||
+Jump! Jump!"|unknown|||
 397||"The sailors look towards the upper deck. Pi follows their
 looks and watches in horror as a zebra launches itself over
 the side of the ship, careening through the air toward the
@@ -1231,40 +1231,40 @@ As Pi steadies himself, a swell lifts the lifeboat, crashing
 it onto the deck of the Tsimtsum. It drops back into the sea,
 rolling over completely. The vessel instantly rights itself -
 the lifeboat is designed to be virtually unsinkable. Pi lands
-on the lifeboat's floorboards, next to the zebra."|location||
+on the lifeboat's floorboards, next to the zebra."|location|||
 398||"35.
 Pi sees the Tsimtsum at an angle, it's bow dipping below the
 water. As he tries to get up, Pi notices the orange emergency
 whistle that dangles from the vest. He grabs it and blows,
-shouting between blasts."|unknown||
-399|PI|HELP! HELP! SOMEBODY, HELP ME!|speech|PI|M
+shouting between blasts."|unknown|||
+399|PI|HELP! HELP! SOMEBODY, HELP ME!|speech|PI|M|True
 400||"The deck lights of the freighter glow with a cheery,
 unnatural brilliance. By the light of the ship, Pi can just
-make out a distant figure in the water."|unknown||
-401|PI (CONT'D)|HEY! OVER HERE!|speech|PI|M
+make out a distant figure in the water."|unknown|||
+401|PI (CONT'D)|HEY! OVER HERE!|speech|PI|M|True
 402||"Pi spies a lifebuoy tied to a rope. He grabs it and heaves it
 as far as he can across the water. OUT IN THE WATER, the
 lifebuoy splashes a few yards away from the shadowy figure.
 The moment Pi feels the tug on the line, he jumps into the
 uncovered part of the boat, lies back and begins hauling the
 rope in. Nearly finished, he lifts his head to peer over the
-side and sees who he's rescued."|unknown||
-403|PI (CONT'D)|Richard Parker?|speech|PI|M
+side and sees who he's rescued."|unknown|||
+403|PI (CONT'D)|Richard Parker?|speech|PI|M|True
 404||"A beat - and then Pi realizes what he's done. He scrambles
-backward in horror, trying to throw the rope overboard."|unknown||
-405|PI (CONT'D)|NO! GO AWAY!|speech|PI|M
+backward in horror, trying to throw the rope overboard."|unknown|||
+405|PI (CONT'D)|NO! GO AWAY!|speech|PI|M|True
 406||"Richard Parker paddles toward the boat. Pi grabs an oar,
 wielding it against the approaching tiger. Richard Parker
 tries to grab the oar. Pi yanks the oar away, falling onto
 his back.
 He listens as Richard Parker claws his way up the side of the
 swaying boat, coughing and gagging water. Pi scrambles
-backward, oar still in hand. He rises and jumps overboard."|unknown||
-407||79   EXT. THE OCEAN - CONTINUOUS                                  79|location||
+backward, oar still in hand. He rises and jumps overboard."|unknown|||
+407||79   EXT. THE OCEAN - CONTINUOUS                                  79|location|||
 408||"Pi plunges into the roiling water. An enormous wave rolls
 toward Pi - filling his lungs with air, Pi dives under, away
-from the assault of the raging storm."|unknown||
-409||80   EXT. BENEATH THE WATER - CONTINUOUS                          80|location||
+from the assault of the raging storm."|unknown|||
+409||80   EXT. BENEATH THE WATER - CONTINUOUS                          80|location|||
 410||"Silence as Pi hangs below the surface, arms wide, groping for
 focus and calm.
 36.
@@ -1281,8 +1281,8 @@ near the surface. Pi dives defensively - the camera follows.
 Ahead, the Tsimtsum is visible, fifty feet beyond Pi, its
 deck lights dipping below the surface, casting an eerie
 underwater glow, bubbles flowing up to the surface; nearby,
-Pi can make out the floating oar."|unknown||
-411||81   EXT. THE OCEAN/THE BOAT - CONTINUOUS                       81|location||
+Pi can make out the floating oar."|unknown|||
+411||81   EXT. THE OCEAN/THE BOAT - CONTINUOUS                       81|location|||
 412||"Pi bursts above water in total panic, throwing his arms
 around the oar, coughing up sea water and bile. The lifebuoy
 floats a dozen feet off; he swims toward it. He grabs the oar
@@ -1294,21 +1294,21 @@ An oar sticks out from under the boat cover, hanging out over
 the front of the lifeboat. Pi climbs out on the oar, keeping
 himself a safe distance from the tiger he assumes is beneath
 the tarp. The air vibrates with a tremendous belching groan;
-Pi looks over to the cargo ship, watching, astounded..."|unknown||
+Pi looks over to the cargo ship, watching, astounded..."|unknown|||
 413|PI|"Amma! Appa! Ravi! I'm sorry! I'm
-sorry...!"|speech|PI|M
+sorry...!"|speech|PI|M|True
 414||"WIDE SHOT - from top, looking down into the water: the
 Tsimtsum abruptly keels and sinks beneath the surface. Pi
 watches in horror as the Tsimtsum plummets into the depths of
 the Mariana Trench, it's deck lights gradually fading. Pi
 bursts into tears as waves from the sinking vessel buffet his
 lifeboat.
-Pi weeps uncontrollably."|unknown||
-415||EXT. THE LIFEBOAT - DAWN|location||
+Pi weeps uncontrollably."|unknown|||
+415||EXT. THE LIFEBOAT - DAWN|location|||
 416||"The storm has passed, but the skies are still heavy with
 disgusting grey clouds. Pi has hung the lifebuoy on the oar
 and now sits on it, slumped in exhaustion and shivering.
-37."|unknown||
+37."|unknown|||
 417||"With what energy he still has, he weeps - his face is puffy
 and swollen from a night of tears.
 Pi watches a shark fin knife through the waves. His feet have
@@ -1319,58 +1319,58 @@ Pi creeps forward on the oar, pulling himself onto the
 gunnels - the side of the boat. No sign of Richard Parker.
 The zebra comes into view in the stern of the lifeboat,
 injured legs folded beneath it, staring indifferently into
-space."|location||
-418||CUT TO:|unknown||
+space."|location|||
+418||CUT TO:|unknown|||
 419||"EXT. THE LIFEBOAT - DAY
 Pi stands a few feet away from the zebra, using an emergency
 bucket to bail water out of the bottom of the boat, exhausted
 from the effort. He pauses to catch his breath, then becomes
 aware of a slight movement at one side of the tarp.
 A SPOTTED HYENA lurches furtively into view from beneath the
-tarp, then disappears again. Pi freezes, dumbfounded."|location||
+tarp, then disappears again. Pi freezes, dumbfounded."|location|||
 420||"PI
-Hari?"|unknown||
+Hari?"|unknown|||
 421||"Hari, the hyena, with a sloping, bear-like forehead and the
 nervous manner of a beaten dog, reappears. Pi instantly dives
 across the tarp, scrambling for safety on the oar. The hyena
 staggers and stumbles listlessly. Pi turns to face the
-creature, struggling for calm."|location||
+creature, struggling for calm."|location|||
 422||"PI (CONT'D)
 Looks as though your drugs haven't
-worn off yet."|unknown||
+worn off yet."|unknown|||
 423||"The screech of a terrified animal echoes across the water -
 the hyena looks out to port, the hair rising on its back,
 then staggers beneath the tarp.
 Pi squints into the rising sun. An enormous bundle of bananas
 bobs into view. The bundle twists and rolls - and Orange
-Juice, the orangutan tries desperately to stay on top."|location||
+Juice, the orangutan tries desperately to stay on top."|location|||
 424||"PI (CONT'D)
 Orange Juice!! This way!
 38.
 Within moments, the bundle is within reach of the lifeboat;
 Pi catches the oar handle in the netting that binds the
 bananas together and pulls it against the side of the boat.
-O.J. falls onboard in a stuporous fog."|unknown||
-425|PI (CONT'D)|Welcome to Pi's ark!|speech|PI|M
+O.J. falls onboard in a stuporous fog."|unknown|||
+425|PI (CONT'D)|Welcome to Pi's ark!|speech|PI|M|True
 426||"The netting, wrapped around the handle of the oar, pulls
 loose from the bananas, which tumble out of reach. As Pi
 reels the netting in, O.J. moans in distress. Pi throws a
-banana to O.J. but she is too sick to react."|unknown||
-427||(A sudden realization)|unknown||
-428|PI (CONT'D)|Where is your boy, Orange Juice?|speech|PI|M
-429||(Pause)|unknown||
+banana to O.J. but she is too sick to react."|unknown|||
+427||(A sudden realization)|unknown|||
+428|PI (CONT'D)|Where is your boy, Orange Juice?|speech|PI|M|True
+429||(Pause)|unknown|||
 430|PI (CONT'D)|"I'll bet Mother and Father found
-him. They'll all be here soon."|speech|PI|M
+him. They'll all be here soon."|speech|PI|M|True
 431||"O.J. turns to look at Pi, a look of inconsolable sadness in
-her eyes - as though she knows better what lies ahead."|unknown||
-432||84   EXT. THE LIFEBOAT - DAY                                     84|location||
+her eyes - as though she knows better what lies ahead."|unknown|||
+432||84   EXT. THE LIFEBOAT - DAY                                     84|location|||
 433||"High noon. Intolerable heat. Flies circle the zebra, landing
 on Pi's face and arms. He's too exhausted to brush them away.
 The only sound is the incessant lapping of water against the
 hull. Pi stares out across the ocean - no rescue in sight. He
 pushes himself upright, calling over the waves.
-PI"|unknown||
-434|PI (CONT'D)|HELLO...! HELLO...! ANYBODY?|speech|PI|M
+PI"|unknown|||
+434|PI (CONT'D)|HELLO...! HELLO...! ANYBODY?|speech|PI|M|True
 435||"Pi kneels and bangs his bailing bucket against the hull. The
 hyena emergees, shaking its head violently in an attempt to
 clear its thoughts. It screams in frustration and begins
@@ -1382,8 +1382,8 @@ prepared to defend himself.
 The hyena abruptly stops pacing, coughing and retching - then
 lies down, shaking from emotional and physical distress. It
 sets its head on the edge of the tarp, predator eyes fastened
-on Pi."|unknown||
-436||85   EXT. THE LIFEBOAT - DUSK                                    85|location||
+on Pi."|unknown|||
+436||85   EXT. THE LIFEBOAT - DUSK                                    85|location|||
 437||"A boy, a hyena, a zebra and an orangutan silhouetted against
 the last fading light of day.
 39.
@@ -1395,10 +1395,10 @@ hull. He winces at each creak of the lifeboat; his eyes glaze
 over as he stares out at the endless, dusky seascape. Pi sees
 movement in the shadows. The hyena attacks the zebra; the
 zebra barks and squeals. O.J. reacts to the violence, crying
-out."|unknown||
+out."|unknown|||
 438|PI|"No! Stop it! Stop it! No! Stop it!
-Stop it! NO!!! NO!!! NO!!!"|speech|PI|M
-439||86   EXT. THE LIFEBOAT - DAWN                                     86|location||
+Stop it! NO!!! NO!!! NO!!!"|speech|PI|M|True
+439||86   EXT. THE LIFEBOAT - DAWN                                     86|location|||
 440||"Silence. Morning. Hazy. Pi slumps over the oar, eyes half
 open, glazed. He has stayed up a second night for fear of
 being attacked, and now he slowly nods sideways, giving in to
@@ -1409,11 +1409,11 @@ tired, wet, sad and fearful.
 The lifeboat rolls and growls beneath Pi's feet as he stares -
 and then he notices O.J. The poor orang is sitting on a side
 bench half-hidden by the tarp, and horribly seasick. Her
-tongue lolls out of her mouth and she's visibly panting."|unknown||
+tongue lolls out of her mouth and she's visibly panting."|unknown|||
 441|PI|"I'm sorry, O.J.; I don't have any
-seasickness medicine for you -"|speech|PI|M
-442||And then it strikes him.|unknown||
-443|PI (CONT'D)|Supplies! Ah, supplies!|speech|PI|M
+seasickness medicine for you -"|speech|PI|M|True
+442||And then it strikes him.|unknown|||
+443|PI (CONT'D)|Supplies! Ah, supplies!|speech|PI|M|True
 444||"Pi pulls up the edge of the tarp nearest the bow. A row of
 benches with hinged lids curve around the bow. Pi opens the
 rearmost bench and finds a ""LIFEBOAT MANUAL AND NAVIGATIONAL
@@ -1425,8 +1425,8 @@ life jackets.
 He tosses one of the life jackets to O.J., who has no idea
 what to make of it. O.J. turns to watch him, utterly
 bewildered.
-40."|unknown||
-445||88   EXT. THE OCEAN, BEHIND THE LIFEBOAT/THE LIFEBOAT - DAY       88|location||
+40."|unknown|||
+445||88   EXT. THE OCEAN, BEHIND THE LIFEBOAT/THE LIFEBOAT - DAY       88|location|||
 446||"An hour later. Pi finishes tying a knot in a piece of rope
 that joins oars to the lifebuoy. Pull back to reveal that Pi
 has built a makeshift raft, tying three oars into a triangle
@@ -1443,18 +1443,18 @@ shoulders stands up - suddenly, it launches an attack. Pi
 cries out, flinching - but O.J. uses one of her long arms to
 thump the beast on top of the head.
 Pi cheers the blow -
-PI"|unknown||
-447|PI (CONT'D)|YES!|speech|PI|M
+PI"|unknown|||
+447|PI (CONT'D)|YES!|speech|PI|M|True
 448||"But the hyena gets up in an instant - it attacks again, this
-time going for O.J.'s throat."|unknown||
-449|PI (CONT'D)|NO!! NO!! NO!! NO!!|speech|PI|M
+time going for O.J.'s throat."|unknown|||
+449|PI (CONT'D)|NO!! NO!! NO!! NO!!|speech|PI|M|True
 450||"O.J. gets pulled down to the floor of the boat, the battle
 continuing out of view. Pi searches through the piles of
 rope, finding a knife. He rises and dashes forward.
 Pi reaches the end of the tarp. The hyena retreats. O.J. lies
 in the stern, dead.
-Pi, enraged, confronts the hyena."|unknown||
-451|PI (CONT'D)|Come on! Come on!! COME ON...!!!|speech|PI|M
+Pi, enraged, confronts the hyena."|unknown|||
+451|PI (CONT'D)|Come on! Come on!! COME ON...!!!|speech|PI|M|True
 452||"Pi feels the tarp move under his feet... suddenly, Richard
 Parker launches like a blur from under the canvas, going
 straight after the hyena. Pi falls backward on the tarp,
@@ -1464,7 +1464,7 @@ off, Pi leaps back to the bow, shoving his makeshift raft
 into the water. The raft splashes in the water and the tiger
 turns; Pi looks back and comes face-to-face with Richard
 Parker.
-41."|unknown||
+41."|unknown|||
 453||"The tiger stands with front feet on the crossbench, sniffing
 the sea air, examining his surroundings for the first time,
 agitated by this open air environment. As he turns to go back
@@ -1484,15 +1484,15 @@ unsettled by the softness of the tarp beneath his feet. The
 tiger retreats, examining his surroundings.
 Pi jumps toward the raft. He belly flops into the ocean and
 rises in a panic, trying to scramble up onto the raft, only
-to have it flip completely over his head."|stage direction||
-454||A88   EXT THE RAFT - DAY                                         A88|location||
+to have it flip completely over his head."|stage direction|||
+454||A88   EXT THE RAFT - DAY                                         A88|location|||
 455||"Grey, lifeless skies above the vastness of the ocean. Pi
 shivers, his eyes glassy, his lips chapped and skin waxen
 from hours of exposure. He tries various ways to re-shape the
 raft.
 A shark slips up alongside Pi and bumps him, sending Pi
-scrambling back to the safety of the raft."|stage direction||
-456||91    EXT. THE LIFEBOAT - DAY                                     91|location||
+scrambling back to the safety of the raft."|stage direction|||
+456||91    EXT. THE LIFEBOAT - DAY                                     91|location|||
 457||"Pi pulls the raft to the back of the lifeboat, tying the rope
 line on one of the tarp hooks. Hands appear on the gunnels.
 Pi lifts his head over the bow. The tiger is nowhere in
@@ -1506,8 +1506,8 @@ lifts it out, his eye falls upon a stack of cans marked
 and drinks one, tilting his head back and closing his eyes in
 ecstasy. He throws a few on the raft. He grabs a couple of
 boxes marked ""Baked Wheat Biscuits."" Pi tears open a box and
-stuffs a biscuit into his mouth."|stage direction||
-458||42.|unknown||
+stuffs a biscuit into his mouth."|stage direction|||
+458||42.|unknown|||
 459||"The biscuits are so dry that he is barely able to chew them -
 crumbs fall from his lips into the supply hatch.
 A rat skitters out from under the tarp, grabbing biscuit
@@ -1546,9 +1546,9 @@ tiger scrambles back onto the boat and off the tarp, while Pi
 paddles the raft away.
 When he is finally at a safe distance, fear and stress
 overwhelm Pi - he throws up what little food and water he has
-taken."|location||
-460||43.|unknown||
-461||92   EXT. THE RAFT, BEHIND THE LIFEBOAT - NIGHT                  92|location||
+taken."|location|||
+460||43.|unknown|||
+461||92   EXT. THE RAFT, BEHIND THE LIFEBOAT - NIGHT                  92|location|||
 462||"A full moon, backlit clouds rolling through the skies,
 reflected in the water below. Pi floats behind the lifeboat,
 weeping, surrounded by nothing but terror and the abyss. A
@@ -1557,17 +1557,17 @@ light from the moon and stars.
 Pi watches Richard Parker on the lifeboat, a shadowy
 silhouette on the bow ahead. The tiger takes the zebra
 carcass under the tarp. The clouds blot out the sky. Darkness
-envelops them."|unknown||
-463||93   EXT. ABOVE THE RAFT - EARLY MORNING                         93|location||
+envelops them."|unknown|||
+463||93   EXT. ABOVE THE RAFT - EARLY MORNING                         93|location|||
 464||"Angle on Pi, the raft and boat from above, lost on an endless
 ocean, the bright colors of morning light dancing on the
 surface of the water.
 Pi has taken out his pencil and now writes on the back page
-of his survival manual, his voice heard over:"|unknown||
+of his survival manual, his voice heard over:"|unknown|||
 465|PI (WRITING V.O.)|"""My name is Pi Patel. I have been
 in a shipwreck. I am on a lifeboat
 alone - with a tiger. Please send
-help."""|speech|PI|M
+help."""|speech|PI|M|True
 466||"He tears the page out and stuffs it into an empty water can,
 sealing the opening with a plastic lid. He tosses it as far
 as possible; the can splashes down, rippling the water, then
@@ -1580,23 +1580,23 @@ A grunt from the lifeboat. Pi turns, surprised. He grabs the
 tow line and reels into the lifeboat.
 He lifts the tarp; Richard Parker's eyes glow out at him from
 the shadows, greeting Pi with a low snarl. Pi gingerly lowers
-the tarp and casts the raft back from the bow. He looks up."|unknown||
-467||(In awe, shuddering:)|unknown||
+the tarp and casts the raft back from the bow. He looks up."|unknown|||
+467||(In awe, shuddering:)|unknown|||
 468|PI (CONT'D)|"God... I give myself to you. I am
 your vessel. Whatever comes... I
-want to know. Show me."|speech|PI|M
+want to know. Show me."|speech|PI|M|True
 469||"FADE TO:
-44."|unknown||
-470||EXT. THE RAFT - DAY|location||
+44."|unknown|||
+470||EXT. THE RAFT - DAY|location|||
 471||"Pi sits on his makeshift raft, flipping through his manual.
 The foldout map of the manual shows the ocean's currents,
 longitudes, latitudes, and depths. Pi stares at the chart,
 bewildered by it all. He rises up on his knees, looking out
-at the ocean around him, then sits back, hand to forehead."|stage direction||
+at the ocean around him, then sits back, hand to forehead."|stage direction|||
 472||"PI
-There are no lines!"|unknown||
+There are no lines!"|unknown|||
 473||"95 EXT. THE RAFT - DAY - MONTAGE 95
-Montage - Pi struggling with discomfort on his raft."|stage direction||
+Montage - Pi struggling with discomfort on his raft."|stage direction|||
 474||"PI (READING - V.O.)
 ""Set your house in order and dig in
 for the battle to survive.
@@ -1612,14 +1612,14 @@ Community singing is another sure-
 fire way to lift the spirits.
 Telling stories is highly
 recommended. Above all, don't lose
-hope."""|unknown||
+hope."""|unknown|||
 475||"- Pi scratches marks into the side of the boat to indicate
-the passage of time - it is his 11th day at sea."|stage direction||
-476||A96   EXT. THE RAFT - A SHORT TIME LATER                       A96|location||
+the passage of time - it is his 11th day at sea."|stage direction|||
+476||A96   EXT. THE RAFT - A SHORT TIME LATER                       A96|location|||
 477||"Pi is still reading his survival manual. The waves pick up.
 The lifeboat rocks. Somewhere beneath the tarp, the tiger
 lets out a faint groan of discomfort. On Pi as he
-contemplates this..."|stage direction||
+contemplates this..."|stage direction|||
 478||"PI (READING V.O.:)
 ""Few things can sap the spirit
 faster than seasickness. Waves are
@@ -1628,16 +1628,16 @@ turns sideways to the current. A
 sea anchor is used as a drag to
 keep the boat's head to the wind.
 (MORE)
-45."|unknown||
+45."|unknown|||
 479|PI (READING V.O.:) (CONT'D)|"Proper use of them can increase
 control and reduce seasickness
-during rough seas..."|speech|PI|M
+during rough seas..."|speech|PI|M|True
 480||"Pi takes a sea anchor from inside his life ring and tosses it
 overboard. As soon as the sea anchor has been deployed, the
-raft slows down and the anchor lines go taut."|unknown||
-481||97   EXT. RAFT - DAY                                           97|location||
+raft slows down and the anchor lines go taut."|unknown|||
+481||97   EXT. RAFT - DAY                                           97|location|||
 482||"Pi has rigged an additional line between the open end of the
-lifeboat and his raft."|unknown||
+lifeboat and his raft."|unknown|||
 483|PI (READING V.O.)|"For castaways who must share their
 lifeboats with large dangerous
 carnivores it's advisable to
@@ -1660,86 +1660,86 @@ with the discomfort of seasickness.
 Similar methods have long been used
 by circus trainers, though they
 generally lack access to rough
-seas."|speech|PI|M
+seas."|speech|PI|M|True
 484||"He reels in this line, turning the boat sideways to the
 waves. The rocking increases. Pi blows the whistle several
 times harshly (""warning"" signal) as the rocking increases.
 From within the boat, he hears the tiger groan. He grabs the
 original lifeline that connects the raft to the boat and
-hauls himself in. Pi grins, spits out the whistle."|unknown||
-485||(A ringmaster's call:)|unknown||
+hauls himself in. Pi grins, spits out the whistle."|unknown|||
+485||(A ringmaster's call:)|unknown|||
 486|PI (CONT'D)|"Let the trumpets blare, let the
 drum rolls begin! Prepare to be
 amazed! Here it is, for your
 enjoyment and instruction, the show
 you've been waiting for all your
-life will soon begin!"|speech|PI|M
+life will soon begin!"|speech|PI|M|True
 487||"46.
 PI (CONT'D)
 Are you ready for the miracle of
-it? Well, then - I give to you..."|unknown||
+it? Well, then - I give to you..."|unknown|||
 488||"Pi lets go of the second line, raising his hand with a
-flourish."|stage direction||
+flourish."|stage direction|||
 489||"PI (CONT'D)
-... the ASTOUNDING BENGAL TIGER!"|unknown||
+... the ASTOUNDING BENGAL TIGER!"|unknown|||
 490||"He pulls the raft next to the tarp end of the lifeboat. The
-tiger crawls out from under the tarp, violently ill."|stage direction||
+tiger crawls out from under the tarp, violently ill."|stage direction|||
 491||"PI (CONT'D)
 (Rocking the boat:)
 Hello, Richard Parker. Sorry about
-the choppy ride."|unknown||
+the choppy ride."|unknown|||
 492||"Pi pulls himself onto the bow. Richard Parker tries to lift
 his head, then groans, giving it up. Pi lifts the whistle to
 his mouth and blows it repeatedly as he advances to the front
 edge of the tarp, opens his fly and pisses in a straight line
-across the midpoint of the boat."|stage direction||
+across the midpoint of the boat."|stage direction|||
 493||"PI (CONT'D)
 (Pointing:)
 MINE! YOU UNDERSTAND? YOURS - MINE!
 (He blows his whistle)
-You understand?"|unknown||
+You understand?"|unknown|||
 494||"He steps back to observe the effect of this provocation on
 the seasick tiger. Richard Parker staggers to the edge of the
 tarp. He takes a deep sniff and winces, groaning, his tongue
 hanging out in distaste. The tiger turns away from Pi, facing
 the stern. Pi thinks the battle is won - until the tiger
 lifts his tail and sprays him with a tremendous burst of
-urine."|stage direction||
+urine."|stage direction|||
 495||"PI (READING V.O.) (CONT'D)
 Step four: disregard steps one
-through three."|unknown||
-496||A97   EXT. THE RAFT - AFTERNOON                                 A97|location||
+through three."|unknown|||
+496||A97   EXT. THE RAFT - AFTERNOON                                 A97|location|||
 497||"Pi pulls in the solar still. Pi bends down to suck fresh
 water from the straw that protrudes from a water still,
 delighted to discover that it works. He carefully pours some
 of the water into a can for himself, then pours the rest into
-a bucket."|stage direction||
-498||47.|unknown||
-499||B97   EXT. THE RAFT/THE LIFEBOAT - A SHORT TIME LATER            B97|location||
+a bucket."|stage direction|||
+498||47.|unknown|||
+499||B97   EXT. THE RAFT/THE LIFEBOAT - A SHORT TIME LATER            B97|location|||
 500||"Pi pulls himself up to the bow of the lifeboat, sets a bucket
 of water in the boat and blows his whistle. Richard Parker
-sticks his head out from under the tarp."|stage direction||
+sticks his head out from under the tarp."|stage direction|||
 501||"PI
 Here, Richard Parker. I've got some
-water for you."|unknown||
+water for you."|unknown|||
 502||"Pi blows the whistle once more, casting the raft adrift
 again. Richard Parker sniffs, then begins lapping greedily at
-the water."|stage direction||
-503||103   EXT. RAFT - INSERT                                         103|location||
+the water."|stage direction|||
+503||103   EXT. RAFT - INSERT                                         103|location|||
 504||"INSERT of Pi writing in manual - text on page reflects Pi's
-accompanying V.O."|stage direction||
+accompanying V.O."|stage direction|||
 505||"PI (VO)
 In the zoo, we fed our tigers an
 average of five kilos of meat a
 day. Richard Parker will be getting
-hungry soon."|unknown||
-506||104   EXT. RAFT - CONTINUOUS                                     104|location||
+hungry soon."|unknown|||
+506||104   EXT. RAFT - CONTINUOUS                                     104|location|||
 507||"Pi chews for a moment, then spits out a blob of biscuit and
 presses the food ball onto his hook, savoring the crumbs that
 remain in his mouth. He tosses the hook and biscuit onto the
 water - the hook sinks, leaving the crumble of biscuit
 floating uselessly on the surface. Pi watches helplessly as
-fish rise to the surface to nibble at the soggy crumbs."|stage direction||
+fish rise to the surface to nibble at the soggy crumbs."|stage direction|||
 508||"PI (V.O.)
 Tigers are powerful swimmers, and,
 if he gets hungry enough, I'm
@@ -1749,22 +1749,22 @@ I need to find a way to feed him.
 God made tigers carnivores, so I
 must learn to catch fish. If I
 don't, I'm afraid his last meal
-will be a skinny vegetarian boy."|unknown||
+will be a skinny vegetarian boy."|unknown|||
 509||"Pi thinks a moment. He takes off one of his shoes, using the
 knife to cut a sliver of leather off the side. He presses the
 hook through the leather and tosses it in the water. Pi pulls
-in his fishing line - the leather is gone."|stage direction||
+in his fishing line - the leather is gone."|stage direction|||
 510||"A SHORT TIME
 LATER -
-48."|unknown||
-511||105   EXT. RAFT - DAY                                          105|location||
+48."|unknown|||
+511||105   EXT. RAFT - DAY                                          105|location|||
 512||"Pi has cut his shoe into a dozen bits of leather and tried
 fishing several times - Always with the same result. Richard
 Parker, watching, mops at his jaw to wipe away drool - he's
-clearly getting hungry."|stage direction||
+clearly getting hungry."|stage direction|||
 513||"PI
-Patience!"|unknown||
-514||EXT. THE LIFEBOAT/THE RAFT - DUSK|location||
+Patience!"|unknown|||
+514||EXT. THE LIFEBOAT/THE RAFT - DUSK|location|||
 515||"Pi still fishes with no success. Richard Parker stares in the
 water at the dorado. He leans over the side of the boat,
 pawing hungrily at the surface as fish streak past - but the
@@ -1790,21 +1790,21 @@ blowing the whistle threateningly.
 Standoff. Pi pumps the axe a few times, but cannot bring
 himself to kill the tiger. Richard Parker stares up at Pi a
 long moment, then paddles to the stern, trying once again to
-pull himself aboard at the other end of the boat."|stage direction||
+pull himself aboard at the other end of the boat."|stage direction|||
 516||"PI
-What am I doing?"|unknown||
+What am I doing?"|unknown|||
 517||"Pi kicks at the side of the boat in frustration, and is
 surprised to hear a metal clunk. He finds a rectangular
 aluminum air box used for bouyancy: Pi then pulls the tarp
 back fully for the first time and examines the contents
-below."|stage direction||
+below."|stage direction|||
 518||"49.
 As he removes one of the floorboard panels, imagining new
 uses for the wooden slats, he hears Richard Parker scratching
 at the hull of the boat.
 PI (CONT'D)
-Wait - I'm thinking."|unknown||
-519||107    EXT. THE LIFEBOAT - NIGHT                                   107|location||
+Wait - I'm thinking."|unknown|||
+519||107    EXT. THE LIFEBOAT - NIGHT                                   107|location|||
 520||"Pi has tied a bunch of the flotation boxes to his raft and
 loaded it with all the provisions from the lifeboat. He
 points a flashlight beam over the side at the exhausted
@@ -1815,14 +1815,14 @@ the water with one hand as he rocks the boat to help Richard
 Parker climb in. The moment the tiger is aboard, Pi climbs
 onto the raft and pushes off, retreating to safety, blowing
 the whistle to remind Richard Parker who's in command.
-As he floats away, Pi collapses, exhausted, on the raft."|unknown||
-521||A107   EXT. THE RAFT - DAY                                        A107|location||
+As he floats away, Pi collapses, exhausted, on the raft."|unknown|||
+521||A107   EXT. THE RAFT - DAY                                        A107|location|||
 522||"Pi goes through the supplies listed in his survival guide,
 matching supplies to the pile of booty he's just retrieved
 from the lifeboat.
 PI (WRITING - V.O.)
-93 cans of water..."|unknown||
-523||B107   EXT. THE RAFT - DAY                                        B107|location||
+93 cans of water..."|unknown|||
+523||B107   EXT. THE RAFT - DAY                                        B107|location|||
 524||"Pi removes all of the lifejackets from under the life ring,
 stacking them onto his latest raft structure. The empty
 banana netting now drapes beneath the raft; Pi notices that
@@ -1848,8 +1848,8 @@ himself and bowing over the dead fish in abject grief.
 PI (CONT'D)
 Thank you, Lord Vishnu. Thank you
 for coming in the form of a fish
-and saving our lives. Thank you..."|unknown||
-525||108    EXT. THE RAFT/THE LIFEBOAT - A SHORT TIME LATER             108|location||
+and saving our lives. Thank you..."|unknown|||
+525||108    EXT. THE RAFT/THE LIFEBOAT - A SHORT TIME LATER             108|location|||
 526||"Pi reels himself over to the lifeboat. He moves around to the
 side of the boat, grabs the dorado by the tail and throws the
 entire fish over the side and into the stern. It lands with a
@@ -1858,8 +1858,8 @@ out a grunt of surprise.
 After a moment, Pi hears the wet mashing noises of the tiger
 devouring the fish. As Pi pushes away from the lifeboat, he
 puts the whistle in his mouth, blowing a few sharp blasts to
-remind Richard Parker who's in charge."|unknown||
-527||112A   EXT. THE RAFT - NIGHT                                   112A|location||
+remind Richard Parker who's in charge."|unknown|||
+527||112A   EXT. THE RAFT - NIGHT                                   112A|location|||
 528||"A full moon. All around the raft, the green surface of the
 water glows with millions of flecks of glowing plankton - and
 beneath the surface, fish swim past at multiple depths and in
@@ -1879,7 +1879,7 @@ the surface nearby, its mouth gaping. Fifty feet in length,
 it thrusts itself up into the air. Pi barely has time to
 react, gripping the raft and holding on for his life as the
 whale comes crashing back down into the water.
-51."|unknown||
+51."|unknown|||
 529||"The animal slips back into the ocean, creating a wave that
 sends the raft swirling across the water's surface,
 submerging for a moment, then bouncing off the side of the
@@ -1887,18 +1887,18 @@ lifeboat.
 Pi's neatly-stacked water cans and biscuits tumble over the
 side of the raft and into the ocean.
 The whale disappears into the night, leaving Pi open-mouthed
-and shaken."|stage direction||
+and shaken."|stage direction|||
 530||"PI (V.O.)
 Of course, I brought all the
 biscuits and water on the raft with
-me to keep them safe. Idiot."|unknown||
-531||116   EXT. THE RAFT/LIFEBOAT - LATE AFTERNOON                  116|location||
+me to keep them safe. Idiot."|unknown|||
+531||116   EXT. THE RAFT/LIFEBOAT - LATE AFTERNOON                  116|location|||
 532||"A calm day; gentle waves. Afternoon, the sun beating down. Pi
-wears his shirt wrapped around his head to hold off the heat."|stage direction||
+wears his shirt wrapped around his head to hold off the heat."|stage direction|||
 533||"PI (V.O. - CONT'D)
 Hunger can change everything you
 ever thought you knew about
-yourself."|unknown||
+yourself."|unknown|||
 534||"Pi uses his knife to cut another scratch into the hull. There
 are 38 scratches on the side of the lifeboat. He glances
 down, staring longingly at the fish that swim just beneath
@@ -1918,10 +1918,10 @@ looks down - a slender grey-blue fish with wings is flopping
 about on the tarp. Pi has been hit by a flying fish.
 Richard Parker has seen the flying fish as well. He rises to
 his haunches. Pi grabs the flying fish and tosses it to
-Richard Parker."|stage direction||
+Richard Parker."|stage direction|||
 535||"PI (CONT'D)
 Here, it's yours.
-52."|unknown||
+52."|unknown|||
 536||"The tiger stands, jaws opening in anticipation...
 And then the fish extends its wings, veering at the last
 second and dropping into the water. Richard Parker tries to
@@ -1949,10 +1949,10 @@ forward.
 The boat hook catches Richard Parker square in the mouth; the
 tiger staggers back in shock and growls in outrage. Pi rises
 up to his full height, staring directly into the tiger's eyes
-and shouting in fury, his gaze wide, his posture defiant."|location||
+and shouting in fury, his gaze wide, his posture defiant."|location|||
 537||"PI (CONT'D)
 MINE!!!! MINE!!! AHHH!!
-AAAAHHHH!!!!"|unknown||
+AAAAHHHH!!!!"|unknown|||
 538||"Boy and tiger face off for several seconds, both panting,
 neither blinking nor showing fear, as the rain of fish
 gradually slows around them.
@@ -1963,16 +1963,16 @@ more convenient meal.
 Pi uses the gaff to snag the tuna, shoving it to the farthest
 edge of the bow. As he rises, late afternoon light casts
 golden flames across the surface of the water, throwing Pi
-into backlight."|location||
+into backlight."|location|||
 539||"53.
-Pi picks up the boat hook and turns to face Richard Parker."|unknown||
-540||EXT. THE RAFT - SUNSET|location||
+Pi picks up the boat hook and turns to face Richard Parker."|unknown|||
+540||EXT. THE RAFT - SUNSET|location|||
 541||"Pi takes a small piece of tuna and gingerly raises it to his
 lips, tasting flesh for the first time. A pause as he savors
 the taste, considering... and then hunger takes him over. He
 grabs at the tuna, stuffing pieces into his mouth, devouring
-it."|unknown||
-542||A132   EXT. THE LIFEBOAT - DAY                                 A132|location||
+it."|unknown|||
+542||A132   EXT. THE LIFEBOAT - DAY                                 A132|location|||
 543||"Pi uses a bandage from the first aid kit to wrap a cut on his
 leg. As he works, he glances back toward the boat, deep in
 contemplation.
@@ -1981,8 +1981,8 @@ I can't risk my life every time I
 have to climb onto the boat for
 supplies. It's time to settle this.
 If we're going to live together, we
-have to learn to communicate."|unknown||
-544||B132   EXT. THE RAFT - DAY                                     B132|location||
+have to learn to communicate."|unknown|||
+544||B132   EXT. THE RAFT - DAY                                     B132|location|||
 545||"Pi reaches into the stern, prying loose a seven-foot strip of
 wooden molding that lines the front edge of the seats.
 PI (V.O.)
@@ -1990,8 +1990,8 @@ Maybe Richard Parker cannot be
 tamed, but with God's will, he can
 be trained.
 Pi works intently with his knife, whittling the strip of
-molding into a long tapered wand with a handgrip on one end."|unknown||
-546||133    EXT. THE LIFEBOAT - DAY                                  133|location||
+molding into a long tapered wand with a handgrip on one end."|unknown|||
+546||133    EXT. THE LIFEBOAT - DAY                                  133|location|||
 547||"Pi crosses the tarp, approaching Richard Parker with his new
 training stick.
 The tiger backs off as Pi approaches - curious and annoyed.
@@ -2001,11 +2001,11 @@ stick. Pi looks away, tries again, then turns to face Richard
 Parker, who growls, angry and begins batting at the stick.
 PI
 NO!
-54."|unknown||
+54."|unknown|||
 548||"Pi gives the tiger a stern glare. RP stops, stares back, then
-backs off."|stage direction||
+backs off."|stage direction|||
 549||"PI (CONT'D)
-Good."|unknown||
+Good."|unknown|||
 550||"Pi reaches into a pouch behind his back, taking out a piece
 of fish. He places it on the end of the stick and reaches
 out, offering it to Richard Parker, who sniffs the air.
@@ -2015,17 +2015,17 @@ Pi takes out another fish, reaches out to tap the bench, then
 tosses the fish on the bench. Richard Parker takes the fish,
 eats.
 Pi tosses the next piece near the edge of the tarp and taps,
-encouraging Richard Parker to follow his direction."|stage direction||
+encouraging Richard Parker to follow his direction."|stage direction|||
 551||"PI (CONT'D)
 Go Richard Parker. Go. Go on home;
 I'll leave you alone. I'll respect
-that. I promise. Go, c'mon."|unknown||
+that. I promise. Go, c'mon."|unknown|||
 552||"Richard Parker stares at Pi. Pi raises his arms and yells,
-chasing Richard Parker around the bench and under the tarp."|stage direction||
+chasing Richard Parker around the bench and under the tarp."|stage direction|||
 553||"PI (CONT'D)
-Yes!"|unknown||
-554||Pi sits, the battle over.|stage direction||
-555||137   EXT. THE LIFEBOAT/THE RAFT - DAY                            137|location||
+Yes!"|unknown|||
+554||Pi sits, the battle over.|stage direction|||
+555||137   EXT. THE LIFEBOAT/THE RAFT - DAY                            137|location|||
 556||"The sun is high. Pi raises the adjustable canopy he has
 rigged on his raft and sits beneath it. He feels the wind on
 his face and watches Richard Parker lounge in the stern of
@@ -2038,7 +2038,7 @@ Fish strips dry on lines; he has fashioned new tools, rigged
 an elaborate water collection system out of turtle shells,
 and a collapsible shade umbrella.
 - Pi trims his fingernails, a fish bone toothpick in his
-mouth."|stage direction||
+mouth."|stage direction|||
 557||"55.
 PI (WRITING - V.O.)
 I never thought a small piece of
@@ -2057,44 +2057,44 @@ face our ultimate master together.
 Without Richard Parker, I would
 have died by now. My fear of him
 keeps me alert. Tending to his
-needs gives my life purpose."|unknown||
-558||138   EXT. RAFT - DAY                                             138|location||
+needs gives my life purpose."|unknown|||
+558||138   EXT. RAFT - DAY                                             138|location|||
 559||"A school of dolphins, hundreds of them, pass in the distance,
-the blue sea roiling."|stage direction||
+the blue sea roiling."|stage direction|||
 560||"PI
-Dolphins, Richard Parker!"|unknown||
+Dolphins, Richard Parker!"|unknown|||
 561||"Just beyond the school of dolphin, something else catches
 Pi's attention on the horizon - a freighter, much like the
-Tsimtsum, is within a few miles of their position."|stage direction||
+Tsimtsum, is within a few miles of their position."|stage direction|||
 562||"PI (CONT'D)
-Hey! HEY!! WE'RE HERE!! OVER HERE!!"|unknown||
+Hey! HEY!! WE'RE HERE!! OVER HERE!!"|unknown|||
 563||"Pi scrambles to the storage locker, pulling out the flare
 gun. He loads and fires - the flare arcs high up into the
 air, a miniature white star leaving a bright trail of fire
-and smoke as it falls to the earth."|stage direction||
-564||LATER -|unknown||
-565||139   EXT. RAFT - SUNSET                                          139|location||
-566||It's grown noticeably darker. The freighter is far off now.|stage direction||
-567||140   EXT. THE LIFEBOAT - NIGHT                                   140|location||
+and smoke as it falls to the earth."|stage direction|||
+564||LATER -|unknown|||
+565||139   EXT. RAFT - SUNSET                                          139|location|||
+566||It's grown noticeably darker. The freighter is far off now.|stage direction|||
+567||140   EXT. THE LIFEBOAT - NIGHT                                   140|location|||
 568||"It is late now. Pi loads the last flare into his gun and
 raises it into the air - then stops. The freighter, now a
 fleck on the horizon, hasn't seen them. Pi watches as the
-dark form of the boat sinks from view."|stage direction||
+dark form of the boat sinks from view."|stage direction|||
 569||"56.
 Pi fires one last time, staring up at the archways of smoke
 and the darkening sky. Pi lowers the flare gun. Richard
 Parker yawns and turns away.
 PI (WRITING - V.O.)
 Above all, don't lose hope...
-The flare burns a hole into the night."|unknown||
-570||141    EXT. THE LIFEBOAT, MONTHS LATER - DAY                       141|location||
+The flare burns a hole into the night."|unknown|||
+570||141    EXT. THE LIFEBOAT, MONTHS LATER - DAY                       141|location|||
 571||"HIGH ANGLE (""book cover"" shot) - looking down on the boat,
 adrift in the middle of the ocean. Pi lies curled on the tarp
 in the bow; Richard Parker lies in the stern. Beneath the
 boat, the ocean swirls with traffic, including an enormous
 whale shark. It passes beneath the boat, the creature's form
-blotting out the depths."|unknown||
-572||A141   ONBOARD -                                                  A141|location||
+blotting out the depths."|unknown|||
+572||A141   ONBOARD -                                                  A141|location|||
 573||"A series of shots to show that Pi has grown gaunt, his eyes
 wild from exhaustion and endless solitude. The tarp has
 faded; the paint on the boat has become sun-bleached and
@@ -2104,8 +2104,8 @@ take on a look of thread-worn transparency.
 He taps on the aluminum hull of the boat with his thumb in
 time with his recitation:
 PI
-...645682948602814931815602496..."|unknown||
-574||EXT. THE LIFEBOAT - NIGHT|location||
+...645682948602814931815602496..."|unknown|||
+574||EXT. THE LIFEBOAT - NIGHT|location|||
 575||"Richard Parker gazes into the distance;     Pi stares intently
 at the tiger.
 PI
@@ -2114,7 +2114,7 @@ me. What do you see?
 The tiger turns and looks over the side of the boat into the
 water; Pi rises and looks over the side as well, staring into
 the depths...
-57."|unknown||
+57."|unknown|||
 576||"RP'S POV - starting on his own reflection in the water and
 traveling downward, through schools of darting tuna, squid
 and lantern fish, past fleeting memories of a storm and zoo
@@ -2124,101 +2124,101 @@ memories of a former life lying dormant on the ocean floor...
 OUT OF POV - Richard Parker looks over at Pi as he gazes into
 the water.
 Cut to an extremely wide shot of the boat floating in a sea
-of stars."|stage direction||
+of stars."|stage direction|||
 577||"PI (WRITING - V.O.) (CONT'D)
 Words are all I have left to hang
-onto..."|unknown||
-578||147   EXT. LIFEBOAT - DAY                                      147|location||
+onto..."|unknown|||
+578||147   EXT. LIFEBOAT - DAY                                      147|location|||
 579||"Pi's fingers tremble as he writes in his manual, the tiny
 cramped letters barely legible, every white surface of the
-page covered."|stage direction||
+page covered."|stage direction|||
 580||"PI (WRITING - V.O.)
 Everything mixed up, fragmented.
 Can't tell daydreams, night dreams
-from reality anym --"|unknown||
+from reality anym --"|unknown|||
 581||"The lead in his tiny stub of a pencil runs out, worn to a nub
-of wood. Pi slowly puts down his pencil, brooding."|stage direction||
-582||148   EXT. THE LIFEBOAT - DAY                                  148|location||
+of wood. Pi slowly puts down his pencil, brooding."|stage direction|||
+582||148   EXT. THE LIFEBOAT - DAY                                  148|location|||
 583||"Pi lies on the tarp, his position nearly unchanged, beating a
 drum rhythm on the hull, a wreck of conflicted thoughts and
 frayed nerves.
 We hear a distant rumble of thunder. Pi raises his head. Dark
 thunderclouds rise up over the horizon blackening the
-heavens. Another rumble of thunder, this one closer."|stage direction||
+heavens. Another rumble of thunder, this one closer."|stage direction|||
 584||"PI
-Storm! Storm, Richard Parker!"|unknown||
-585||149   EXT. LIFEBOAT - DAY                                      149|location||
+Storm! Storm, Richard Parker!"|unknown|||
+585||149   EXT. LIFEBOAT - DAY                                      149|location|||
 586||"Pi takes down the canopy on the raft. Pi begins quickly
 stowing his gear in the storage bench, beneath the tarp.
 Richard Parker flees to the safety of his den under the tarp.
 As Pi stows gear, he remembers his manual and takes it out
-from his waistband."|stage direction||
-587||58.|unknown||
+from his waistband."|stage direction|||
+587||58.|unknown|||
 588||"The storm front sweeps across the ocean in a squall line,
 high winds and rain striking Pi and the lifeboat with
 tremendous force. The manual slips from his hands and Pi is
 knocked off his feet and into the water. He lifts his head
 out of the water in time to watch the manual flying off into
-the storm."|stage direction||
+the storm."|stage direction|||
 589||"PI
-No!"|unknown||
+No!"|unknown|||
 590||"The manual is gone. Pi ties himself to the lifeboat with a
-rope from the raft."|stage direction||
-591||150   EXT. LIFEBOAT - DAY                                         150|location||
+rope from the raft."|stage direction|||
+591||150   EXT. LIFEBOAT - DAY                                         150|location|||
 592||"a stunning display of clouds and lightning fills the sky, as
 Pi looks on in awe. The sky lights up, a vivid white splinter
 of lightning crashing down from the sky, puncturing the water
 near the lifeboat. The water is shot through with what looks
 like the white roots of an enormous celestial tree; the clap
-of thunder is tremendous."|stage direction||
+of thunder is tremendous."|stage direction|||
 593||"PI
 Praise be to God, Lord of All
 Worlds, the Compassionate, the
-Merciful!"|unknown||
+Merciful!"|unknown|||
 594||"A wave washes Pi off of the tarp and onto the floor of the
 boat. Pi climbs onto the bench. He looks up in wonder at the
-sky, overwhelmed by the magnificence of the roiling clouds."|stage direction||
+sky, overwhelmed by the magnificence of the roiling clouds."|stage direction|||
 595||"PI (CONT'D)
 It's beautiful... Where are you,
 Richard Parker? You have to see
-this!"|unknown||
+this!"|unknown|||
 596||"Another angle: he begins unbuttoning the tarp, calling
-excitedly to Richard Parker."|stage direction||
+excitedly to Richard Parker."|stage direction|||
 597||"PI (CONT'D)
 Come out Richard Parker! Come see
-the hand of God!"|unknown||
-598||Pi continues to unfasten the tarp.|stage direction||
+the hand of God!"|unknown|||
+598||Pi continues to unfasten the tarp.|stage direction|||
 599||"PI (CONT'D)
 Don't hide yourself! He's come to
-us! It's a miracle!"|unknown||
+us! It's a miracle!"|unknown|||
 600||"A huge wave envelopes the lifeboat, submerging the craft
 completely - and then the boat pops to the surface like a
 cork. Pi resumes opening the tarp. He tears it aside,
-exposing the terrified animal to the storm."|stage direction||
+exposing the terrified animal to the storm."|stage direction|||
 601||"59.
 PI (CONT'D)
 COME OUT AND SEE GOD RICHARD
-PARKER!"|unknown||
+PARKER!"|unknown|||
 602||"The sky lights up all around them. The tiger begins roaring,
 pawing at the air, eyes wide, crazed with fear. Pi turns to
-face the storm."|stage direction||
+face the storm."|stage direction|||
 603||"PI (CONT'D)
 WHY ARE YOU SCARING HIM! I'VE LOST
 MY FAMILY - I'VE LOST EVERYTHING! I
-SURRENDER! WHAT MORE DO YOU WANT?"|unknown||
+SURRENDER! WHAT MORE DO YOU WANT?"|unknown|||
 604||"A wave washes Pi overboard, and the   raft comes crashing down
 on top of the lifeboat, then slides   away. Pi climbs back on
 board. He lies on the bench, coming   to his senses, realizing
 the extent of the danger they face.   He sees Richard Parker
-cowering miserably at the stern."|stage direction||
+cowering miserably at the stern."|stage direction|||
 605||"PI (CONT'D)
-I'm sorry Richard Parker!"|unknown||
+I'm sorry Richard Parker!"|unknown|||
 606||"Pi crawls to the bow in time to see the raft, no longer tied
 to the lifeboat, drifting away. Pounded by rain and surf, he
 works his way around the edge of the boat, re-hooking the
 tarp to tarp hooks. With only four left unfastened along one
-side, he pulls himself under the tarp."|stage direction||
-607||151   INT. THE LIFEBOAT, UNDER THE TARP - CONTINUOUS              151|location||
+side, he pulls himself under the tarp."|stage direction|||
+607||151   INT. THE LIFEBOAT, UNDER THE TARP - CONTINUOUS              151|location|||
 608||"Thunder, rain and surf hammer the tarp from above; Pi pulls
 himself under the tarp. Richard Parker's grunts and labored
 breathing can be heard, but man and beast are only fully
@@ -2226,17 +2226,17 @@ visible when lightning strikes, Pi trying to stay as far away
 from the tiger as he can manage. Before long the boat is
 tossing Pi and the tiger as though in a washing machine, the
 two helplessly colliding with one another, Pi choking as
-water splashes in."|stage direction||
-609||152   EXT. THE LIFEBOAT - DAY                                     152|location||
+water splashes in."|stage direction|||
+609||152   EXT. THE LIFEBOAT - DAY                                     152|location|||
 610||"Pi wakes in the sloshing water under the tarp. Sunlight
 filters in from above. The storm has passed. Richard Parker
 lies listlessly in the side bench. Pi climbs out of the
 waterlogged hull. A double rainbow pierces majestic clouds,
-the sun breaking through."|stage direction||
-611||153   EXT. THE LIFEBOAT - DAY                                     153|location||
+the sun breaking through."|stage direction|||
+611||153   EXT. THE LIFEBOAT - DAY                                     153|location|||
 612||"The gentle sound of water lapping at the side of the
-lifeboat; the breeze rattling the tarp. Time has passed;"|stage direction||
-613||60.|unknown||
+lifeboat; the breeze rattling the tarp. Time has passed;"|stage direction|||
+613||60.|unknown|||
 614||"life on the boat has grown tougher for Pi, his supplies more
 meager, since the raft was lost.
 Pi lies in the bow, exhausted, delirious. He pulls himself
@@ -2247,21 +2247,21 @@ uses the last of his strength to drag himself over to the
 tiger. The animal's body is curled, his tail flat. Some of
 his fur has fallen away from his shoulders and haunches. He's
 a skeleton in an oversized bag of fur. Pi reaches out to
-place a hand on the tiger. He gently touches him on one spot."|stage direction||
+place a hand on the tiger. He gently touches him on one spot."|stage direction|||
 615||"PI
 We're dying, Richard Parker. I'm
-sorry."|unknown||
-616||Pi sits and places the tiger's head on his lap.|stage direction||
+sorry."|unknown|||
+616||Pi sits and places the tiger's head on his lap.|stage direction|||
 617||"PI (CONT'D)
 Amma, Appa, Ravi - I'm happy I'm
 going to see you soon.
 (Pause)
-Can you feel the rain?"|unknown||
-618||Richard Parker raises his head slightly; his tail twitches.|stage direction||
+Can you feel the rain?"|unknown|||
+618||Richard Parker raises his head slightly; his tail twitches.|stage direction|||
 619||"PI (CONT'D)
 God, thank you for giving me my
-life. I'm ready now."|unknown||
-620||158   EXT. THE LIFEBOAT/THE ISLAND - DAY                       158|location||
+life. I'm ready now."|unknown|||
+620||158   EXT. THE LIFEBOAT/THE ISLAND - DAY                       158|location|||
 621||"Pi lies, unconscious, in the bow of the lifeboat. Waves lap
 at the sides of the boat, which presses against the shore of
 an island.
@@ -2273,10 +2273,10 @@ pale bark with an amazing profusion of leaves, their color
 burning with a neon-like intensity. There is no sand; instead
 the ground is an intricate, tightly webbed mass of tube-
 shaped seaweed, about two fingers in diameter.
-Pi turns to look back to the stern; he calls under the tarp."|stage direction||
+Pi turns to look back to the stern; he calls under the tarp."|stage direction|||
 622||"PI
 Richard Parker?
-61."|unknown||
+61."|unknown|||
 623||"Pi rises, stepping out of the boat. The seaweed is rubbery -
 uncertain ground. His legs are wobbly. He hooks the gaff on a
 root and falls to the ground. Pi tears up a piece of the
@@ -2290,15 +2290,15 @@ Half the island seems to be covered with meerkats - thousands
 of them standing together in groups all over the island. The
 moment the first of the meerkats notices Pi, it turns and
 stands on its hind legs - and the others immediately follow
-suit."|stage direction||
-624||EXT. THE ISLAND - DAY|location||
+suit."|stage direction|||
+624||EXT. THE ISLAND - DAY|location|||
 625||"Pi walks slowly forward, taking in the meerkats and the
 island. Gradually, the meerkats return to all fours - their
 squeaking and barking noises coming and going in waves
 throughout the herd. They pay him so little attention that Pi
-has to shove them aside with his legs in order to walk."|stage direction||
+has to shove them aside with his legs in order to walk."|stage direction|||
 626||"PI
-Excuse me... Go on, move!"|unknown||
+Excuse me... Go on, move!"|unknown|||
 627||"Pi walks beyond the throng of meerkats toward a pond, pausing
 to examine the fish bones that litter the edge of one of the
 ponds. The edge is steep; he gets too close, slips down the
@@ -2307,9 +2307,9 @@ gentle, blissful breaststroke across the pond.
 Pi hears a commotion. He lifts himself up to peer over at the
 meerkats. In the distance, Richard Parker blazes a trail
 through the meerkats, catching, pinning and eating as many as
-he can. Pi smiles, watching the tiger."|stage direction||
-628||LATER:|unknown||
-629||164   EXT. THE TREE - SUNSET                                   164|location||
+he can. Pi smiles, watching the tiger."|stage direction|||
+628||LATER:|unknown|||
+629||164   EXT. THE TREE - SUNSET                                   164|location|||
 630||"Pi sits cradled in a nest of branches, rigging a hammock. As
 the last rays of the sun disappear, he hears a commotion
 below on the island and pushes aside branches to see better.
@@ -2317,18 +2317,18 @@ The meerkats are abandoning the ponds, scurrying up onto land
 and running for the forest, their collective stampede noisier
 than a herd of elephants. Richard Parker, in the meantime,
 runs for the shoreline, scrambling down the ridge as fast as
-possible and leaping into the lifeboat."|stage direction||
-631||62.|unknown||
+possible and leaping into the lifeboat."|stage direction|||
+631||62.|unknown|||
 632||"The trunk beneath Pi is swarmed as meerkats settle upon all
 the branches in the tree. Several invade Pi's hammock,
 sitting on him, climbing over him, making themselves
-comfortable at his expense."|stage direction||
+comfortable at his expense."|stage direction|||
 633||"PI
 Hey! Hey! Hey c'mon. Hey! Hey-get
-away. This is my bed!"|unknown||
+away. This is my bed!"|unknown|||
 634||"Pi shoves them off as best he can and settles in for the
-night."|stage direction||
-635||165   EXT. UP IN THE TREE - NIGHT                                 165|location||
+night."|stage direction|||
+635||165   EXT. UP IN THE TREE - NIGHT                                 165|location|||
 636||"Pi sleeps, nestled in the branches of the tree.
 Meerkats snore - at least one of them in the branches beneath
 Pi does. Pi wakes up, staring grumpily into the darkness at
@@ -2349,25 +2349,25 @@ as though slowly dissolving in the water. Pi stares at the
 mysterious pool, then looks out over the island to where the
 lifeboat is anchored along shore -
 Richard Parker is visible, sitting in the boat, staring up at
-the island."|stage direction||
-637||166   EXT. THE LIFEBOAT - NIGHT                                   166|location||
-638||CLOSE ON RICHARD PARKER staring into the night.|stage direction||
-639||168   EXT. LIFEBOAT - NIGHT                                       168|location||
+the island."|stage direction|||
+637||166   EXT. THE LIFEBOAT - NIGHT                                   166|location|||
+638||CLOSE ON RICHARD PARKER staring into the night.|stage direction|||
+639||168   EXT. LIFEBOAT - NIGHT                                       168|location|||
 640||"WIDE ANGLE - looking over the tiger's shoulder, taking in the
 entire island. From this distance, it looks - and sounds - as
 though the island is gently expanding and contracting with
-the tides... as though it is breathing."|stage direction||
-641||63.|unknown||
-642||169   EXT. UP IN THE TREE - NIGHT                                169|location||
+the tides... as though it is breathing."|stage direction|||
+641||63.|unknown|||
+642||169   EXT. UP IN THE TREE - NIGHT                                169|location|||
 643||"Pi notices fruit growing on one of the branches above his
 head. He looks around at the rest of the tree, but the fruit
 only seems to grow along the one branch. Pi plucks one of the
 fruits and examines it. Each stem that he pulls causes a leaf
 to peel off. He reaches the center of the ball, peeling back
-the last of the leaves, to reveal a tooth."|stage direction||
+the last of the leaves, to reveal a tooth."|stage direction|||
 644||"FLASH FORWARD
-TO:"|unknown||
-645||170   INT. PI'S HOME, MONTREAL - LATE AFTERNOON                  170|location||
+TO:"|unknown|||
+645||170   INT. PI'S HOME, MONTREAL - LATE AFTERNOON                  170|location|||
 646||"WRITER
 It was human tooth?
 ADULT PI
@@ -2409,10 +2409,10 @@ leaving behind only his teeth. I
 saw how my life would end if I
 stayed on that island. Alone and
 forgotten. I had to go back to the
-world, or die trying."|unknown||
-647||171   EXT. ISLAND/LIFEBOAT - DAY                               171|location||
+world, or die trying."|unknown|||
+647||171   EXT. ISLAND/LIFEBOAT - DAY                               171|location|||
 648||"Pi loads the boat with water and meerkats; the tarp is piled
-high with roots and seaweed."|stage direction||
+high with roots and seaweed."|stage direction|||
 649||"ADULT PI (V.O.)
 I spent the next day preparing the
 boat. I filled my stores with fresh
@@ -2424,17 +2424,17 @@ Parker. I couldn't leave without
 him, of course - it would mean
 killing him. And so I waited for
 his return. I knew he wouldn't be
-late."|unknown||
-650||He blows his whistle, calling:|stage direction||
+late."|unknown|||
+650||He blows his whistle, calling:|stage direction|||
 651||"PI
-RICHARD PARKER!"|unknown||
-652||172   EXT. THE ISLAND/LIFEBOAT - SUNSET                        172|location||
+RICHARD PARKER!"|unknown|||
+652||172   EXT. THE ISLAND/LIFEBOAT - SUNSET                        172|location|||
 653||"Richard Parker runs down the ridge and jumps into the stern.
-Pi climbs aboard and shoves off."|stage direction||
-654||CUT TO:|unknown||
-655||173   EXT. OCEAN NEAR ISLAND - LIFEBOAT - SUNSET               173|location||
+Pi climbs aboard and shoves off."|stage direction|||
+654||CUT TO:|unknown|||
+655||173   EXT. OCEAN NEAR ISLAND - LIFEBOAT - SUNSET               173|location|||
 656||"Pi and the tiger watch as the island recedes into the
-distance, lit by the late afternoon sun."|stage direction||
+distance, lit by the late afternoon sun."|stage direction|||
 657||"PI (V.O)
 No one has ever seen that floating
 island since; you won't read about
@@ -2452,10 +2452,10 @@ Even when He seemed indifferent to
 my suffering, He was watching. And
 when I was beyond all hope of
 saving, He gave me rest, then gave
-me a sign to continue my journey."|unknown||
-658||177   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     177|location||
+me a sign to continue my journey."|unknown|||
+658||177   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     177|location|||
 659||"Pi leans over the side of the lifeboat. He falls overboard.
-We follow him underwater, his feet - hit a sandy bottom."|stage direction||
+We follow him underwater, his feet - hit a sandy bottom."|stage direction|||
 660||"ADULT PI (V.O.)
 By the time we reached the Mexican
 shore, I was afraid to let go of
@@ -2468,30 +2468,30 @@ the sand. It was warm and soft,
 like pressing my face against the
 cheek of God. And somewhere two
 eyes were smiling at having me
-there."|unknown||
+there."|unknown|||
 661||"An empty coastline, nothing but sand, rocks and jungle. Pi
 struggles to bring the lifeboat ashore. Richard Parker is
 hiding under the tarp, nowhere to be seen. Pi pulls the
 painter line until the boat is on the beach, then collapses
-on the sand."|stage direction||
-662||177   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     177|location||
+on the sand."|stage direction|||
+662||177   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     177|location|||
 663||"Pi collapses on the beach. He hears Richard Parker coming a
 moment before he sees him; Pi turns, looking up as the tiger
 jumps over the boy, stretching in the air above him and
-landing in the water ahead of him."|stage direction||
+landing in the water ahead of him."|stage direction|||
 664||"ADULT PI (V.O.)
 I was so spent I couldn't move. And
-so Richard Parker went ahead of me."|unknown||
+so Richard Parker went ahead of me."|unknown|||
 665||"Richard Parker walks along the beach, his gait clumsy and
-uncoordinated from so much time spent at sea."|stage direction||
+uncoordinated from so much time spent at sea."|stage direction|||
 666||"ADULT PI (V.O.)
 He stretched his legs and walked
 along the shore.
-66."|unknown||
+66."|unknown|||
 667||"Richard Parker stops, staring ahead into the forest, his back
 to the boy. Pi watches the tiger from behind, Richard
 Parker's ribs gently rising and falling as he smells the
-jungle air."|stage direction||
+jungle air."|stage direction|||
 668||"ADULT PI (V.O.)
 At the edge of the jungle, he
 stopped. I was certain he was going
@@ -2499,34 +2499,34 @@ to look back at me, flatten his
 ears to his head, growl - that he'd
 bring our relationship to an end in
 some way. But he just stared ahead
-into the jungle."|unknown||
-669||178   INT. PI'S HOME, DINING ROOM, MONTREAL - SUNSET           178|location||
-670||On Adult Pi alone:|stage direction||
+into the jungle."|unknown|||
+669||178   INT. PI'S HOME, DINING ROOM, MONTREAL - SUNSET           178|location|||
+670||On Adult Pi alone:|stage direction|||
 671||"ADULT PI
 And then Richard Parker, my fierce
 companion, the terrible one who
 kept me alive, disappeared forever
-from my life."|unknown||
-672||181   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                  181|location||
+from my life."|unknown|||
+672||181   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                  181|location|||
 673||"Pi lies on the sand a few yards from the water. A group of
-six MEXICAN LOCALS hurry down the beach to him."|stage direction||
+six MEXICAN LOCALS hurry down the beach to him."|stage direction|||
 674||"ADULT PI
 After a few hours, a member of my
 own species found me. He left and
 returned with a group who carried
-me away."|unknown||
-675||Pi sobs uncontrollably as they carry him to safety.|stage direction||
+me away."|unknown|||
+675||Pi sobs uncontrollably as they carry him to safety.|stage direction|||
 676||"ADULT PI (V.O.) (CONT'D)
 I wept like a child, not because I
 was overwhelmed at having survived,
 although I was. I was weeping
 because Richard Parker left me
 so... unceremoniously. It broke my
-heart."|unknown||
-677||174   INT. PI'S HOME - DINING ROOM - MONTREAL - NEAR SUNSET    174|location||
+heart."|unknown|||
+677||174   INT. PI'S HOME - DINING ROOM - MONTREAL - NEAR SUNSET    174|location|||
 678||"It is near sunset, the light from the windows casting theroom
 in a golden hue - the same lighting we have just seen as Pi
-was leaving the island."|stage direction||
+was leaving the island."|stage direction|||
 679||"67.
 ADULT PI
 You know, my father was right.
@@ -2555,13 +2555,13 @@ I'd said: 'It's over. We've
 survived. Thank you for saving my
 life. I love you, Richard Parker.
 You will always be with me. May God
-be with you.'"|unknown||
-680||The Writer shakes his head, astonished.|location||
+be with you.'"|unknown|||
+680||The Writer shakes his head, astonished.|location|||
 681||"WRITER
 I don't know what to say.
 ADULT PI
-Hard to believe, isn't it?"|unknown||
-682||A pause as the writer decides how to respond.|location||
+Hard to believe, isn't it?"|unknown|||
+682||A pause as the writer decides how to respond.|location|||
 683||"WRITER
 It is a lot to take in, to figure
 out what it all means.
@@ -2570,9 +2570,9 @@ If it happened, it happened. Why
 should it have to mean anything?
 WRITER
 Well, some of it is pretty
-incredible."|unknown||
+incredible."|unknown|||
 684||"Pi nods - a half-smile - then rises, crossing to the
-bookshelf."|location||
+bookshelf."|location|||
 685||"68.
 ADULT PI
 I was the only one who survived the
@@ -2591,8 +2591,8 @@ Pi hands the notebook to the Writer. On top, there is a
 newspaper article with the headline ""BOY RESCUED: 227 DAYS IN
 THE PACIFIC."" The Writer unclips the article, revealing the
 insurance report beneath. We hear Okamoto's first line over
-the report."|unknown||
-686||A175   INT. INFIRMARY - MEXICO, 1978 - DAY                     A175|location||
+the report."|unknown|||
+686||A175   INT. INFIRMARY - MEXICO, 1978 - DAY                     A175|location|||
 687||"OKAMOTO
 Thousands of meerkats? On a
 floating carnivorous island? And no
@@ -2626,8 +2626,8 @@ We're here because a Japanese cargo
 ship sank in the Pacific.
 YOUNG PI
 Something I never forget. I lost my
-whole family."|unknown||
-688||Pause.|location||
+whole family."|unknown|||
+688||Pause.|location|||
 689||"OKAMOTO
 (In Japanese:)
 Get him some water.
@@ -2663,16 +2663,16 @@ YOUNG PI
 Without surprises. Without animals
 or islands.
 OKAMOTO
-Yes. The truth."|unknown||
-690||B175   INT. PI'S HOME, MONTREAL - DAY                      B175|location||
+Yes. The truth."|unknown|||
+690||B175   INT. PI'S HOME, MONTREAL - DAY                      B175|location|||
 691||"WRITER
 So what did you do?
 ADULT PI
 I told him another story. Four of
 us survived...
 YOUNG PI (V.O. - OVERLAPPING)
-Four of us survived..."|unknown||
-692||C175   INT. INFIRMARY, MEXICO, 1978 - DAY                  C175|location||
+Four of us survived..."|unknown|||
+692||C175   INT. INFIRMARY, MEXICO, 1978 - DAY                  C175|location|||
 693||"YOUNG PI
 ...The cook and the sailor were
 already onboard. The cook threw me
@@ -2705,7 +2705,7 @@ had to hold the man down. And I
 believed him - we needed to do it.
 (MORE)
 71.
-YOUNG PI (CONT'D)"|unknown||
+YOUNG PI (CONT'D)"|unknown|||
 694||"So... I kept saying, ""I'm sorry, I'm
 sorry"", but he just kept.. looking
 at me, his eyes so... I'll never
@@ -2759,23 +2759,23 @@ standards. He'd left the knife out
 on the bench. And I did to him what
 he did to the sailor. He was such
 an evil man, but worse still, he
-brought the evil out in me."|location||
+brought the evil out in me."|location|||
 695||"(MORE)
 72.
 YOUNG PI (CONT'D)
 I have to live with that. I was
 alone in a lifeboat, drifting
 across the Pacific Ocean. And I
-survived."|unknown||
-696||176   INT. PI'S HOME - DINING ROOM - MONTREAL - SUNSET      176|location||
+survived."|unknown|||
+696||176   INT. PI'S HOME - DINING ROOM - MONTREAL - SUNSET      176|location|||
 697||"ADULT PI
 After that, no more questions. The
 investigators didn't seem to like
 the story, exactly - but they
 thanked me, they wished me well,
-and they left."|unknown||
+and they left."|unknown|||
 698||"Pause. The Writer speaks his thoughts aloud as the
-realization strikes."|stage direction||
+realization strikes."|stage direction|||
 699||"WRITER
 So...  the stories... Both the zebra
 and the sailor broke their leg. And
@@ -2815,9 +2815,9 @@ story. Will you really let me write
 it?
 ADULT PI
 Of course. Isn't that why Mamaji
-sent you here, after all?"|unknown||
+sent you here, after all?"|unknown|||
 700||"They hear a car pulling into the alleyway alongside the
-house."|location||
+house."|location|||
 701||"ADULT PI (CONT'D)
 My wife is here. Would you like to
 stay for dinner? She's an
@@ -2831,12 +2831,12 @@ So your story does have a happy
 ending.
 ADULT PI
 Well, that's up to you. The story's
-yours now."|unknown||
+yours now."|unknown|||
 702||"The Writer smiles. Outside, car doors slam; we hear voices as
 Pi's wife and children cross around to the front. Pi rises
 and moves to the door. The Writer glances one final time at
 the report. He flips the page and hesitates, reading the last
-few lines aloud."|location||
+few lines aloud."|location|||
 703||"WRITER
 (Reading:)
 ""Mr. Patel's is an astounding story
@@ -2851,16 +2851,16 @@ sea, and none in the company of...
 PI
 (Off:)
 We have a guest. Let me introduce
-you..."|unknown||
+you..."|unknown|||
 704||"THE WRITER stands and faces Pi. We see his POV - on Pi,
 holding his daughter in arms, surrounded by his family,
-smiling..."|stage direction||
-705||DISSOLVE TO:|unknown||
-706||183   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     183|location||
+smiling..."|stage direction|||
+705||DISSOLVE TO:|unknown|||
+706||183   EXT. THE MEXICAN COAST/THE JUNGLE - DAY                     183|location|||
 707||"YOUNG PI'S POV of Richard Parker from behind as he stares
 into the jungle, the tiger's ribs gently rising and falling
 as he smells the jungle air - and then he walks forward and
 disappears into the swaying trees.
 The moment that the tiger is out of view, all the color
 drains out of Pi's world; his view of the trees loses all
-dimension and fades to black and white as we..."|stage direction||
+dimension and fades to black and white as we..."|stage direction|||

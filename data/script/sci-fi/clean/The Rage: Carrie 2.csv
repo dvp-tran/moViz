@@ -1,8 +1,8 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"CARRIE II
-Written by"|location||
+Written by"|location|||
 1||"Rafael Moreu
-13 FEBRUARY 1998"|unknown||
+13 FEBRUARY 1998"|unknown|||
 2|unknown|"""I wish that I could write you a melody so plain
 That would save you dear lady from going insane""
 Bob Dylan, Tombstone Blues
@@ -14,8 +14,8 @@ On a sea of red, filling the frame. A crimson ocean without
 waves or ripples.
 A thick housepainter's BRUSH dips in, revealing its paint.
 The BRUSH is extracted, paint dripping like congealing blood.
-FOLLOW THE BRUSH to reveal..."|speech|unknown|?
-3||INT. A HOUSE - NIGHT|location||
+FOLLOW THE BRUSH to reveal..."|speech|unknown|?|
+3||INT. A HOUSE - NIGHT|location|||
 4|unknown|"A white wall, where the BRUSH is moved horizontally, leaving
 a thick continuous stripe, until the paint thins out.
 A WOMAN'S HAND plunges the BRUSH back into the paint can,
@@ -40,20 +40,20 @@ Painting the line is BARBARA LANG, in her thirties, yet worn,
 haggard- She hasn't slept in a while.
 The precision of her work, her concentration, her focus, as
 the line runs across a wall and into a corner, is more than a
-little frightening."|speech|unknown|?
+little frightening."|speech|unknown|?|
 5|"RACHEL
 Mommy"|"BARBARA hears nothing, says nothing, just wipes a paint drip.
-This is a very careful line."|speech|RACHELMommy|?
+This is a very careful line."|speech|RACHELMommy|?|
 6|RACHEL|"Momma, come play with me. In my room.
-But her mother keeps painting across a door."|speech|RACHEL|F
+But her mother keeps painting across a door."|speech|RACHEL|F|True
 7|RACHEL|"Right now, mommy, okay?
 BARBARA looks at her, or rather through her. And continues
-her task. RACHEL steps forward, tugs on her mom's"|speech|RACHEL|F
+her task. RACHEL steps forward, tugs on her mom's"|speech|RACHEL|F|True
 8|RACHEL|"I got a idea, we could--
--- and gets , , splat, right-in the face with the brush"|speech|RACHEL|F
+-- and gets , , splat, right-in the face with the brush"|speech|RACHEL|F|True
 9||"A TOY AMBULANCE sits on the floor. RACHEL's tiny hand
-deliberately presses a button on it. The TOY responds with a"|stage direction||
-10|THE KITCHEN|wheep whe ep siren, then:|speech|THE KITCHEN|F
+deliberately presses a button on it. The TOY responds with a"|stage direction|||
+10|THE KITCHEN|wheep whe ep siren, then:|speech|THE KITCHEN|F|
 11|"AMBULANCE VOICE
 (CANNED; TINNY)"|"If you need help, dial nine one one.
 If you need help, dial nine one one.
@@ -64,8 +64,8 @@ RACHEL (O.S.)
 Hello? It's my mom. She's doing
 some... some wrong things. She's
 doing wrong things, so, and, you
-should come."|speech|AMBULANCE VOICE|?
-12||EXT. THE STREET - FROM ABOVE - NIGHT|location||
+should come."|speech|AMBULANCE VOICE|?|
+12||EXT. THE STREET - FROM ABOVE - NIGHT|location|||
 13|"AMBULANCE VOICE
 (CANNED; TINNY)"|"A light rain falls on an AMBULANCE sitting next to a POLICE
 Its dashing red lights
@@ -75,48 +75,48 @@ robes, watching...
 TWO E.M.S. WORKERS drag a struggling BARBARA across a lawn,
 her hands in plastic restraining cuffs.
 A wet RACHEL stands by a kneeling POLICE OFFICER holding a
-poncho over her head."|speech|AMBULANCE VOICE|?
+poncho over her head."|speech|AMBULANCE VOICE|?|
 14|POLICEMAN|"Rachel? Rachel, are you okay?
 She keeps staring off, watching her mother being stuffed into
-the ambulance."|speech|POLICEMAN|?
+the ambulance."|speech|POLICEMAN|?|
 15|RACHEL|"Momma!
-She starts towards her, but the OFFICER holds her back."|speech|RACHEL|F
+She starts towards her, but the OFFICER holds her back."|speech|RACHEL|F|True
 16|POLICEMAN|"Honey, she just has to go somewhere,
 to get some rest, so she'll feel
 better.
 As the AMBULANCE pulls away, RACHEL catches a glimpse of her
-mother in the rear windows, watching her."|speech|POLICEMAN|?
+mother in the rear windows, watching her."|speech|POLICEMAN|?|
 17|POLICEMAN|"is your dad around? When's he get
 home from work?
 I don't have a dad.
-The POLICEMAN collects himself."|speech|POLICEMAN|?
+The POLICEMAN collects himself."|speech|POLICEMAN|?|
 18|POLICEMAN|"Okay. Then we're going to take you
 someplace nice, with a family, a
 really nice family, till we get all
-this sorted out."|speech|POLICEMAN|?
-19|(QUIETLY)|No.|speech||
+this sorted out."|speech|POLICEMAN|?|
+19|(QUIETLY)|No.|speech|||
 20|"POLICMIAN
 WE'LL JUS
 RACHEL"|"She breaks free, races into.
-4."|speech|POLICMIANWE'LL JUSRACHEL|?
-21||INT. THE HOUSE - NIGHT|location||
+4."|speech|POLICMIANWE'LL JUSRACHEL|?|
+21||INT. THE HOUSE - NIGHT|location|||
 22|"POLICMIAN
 WE'LL JUS
 RACHEL"|"Where she runs down the entrance hall. Behind her, outside,
 as the POLICEMAN runs toward the front door, it --
 SLAMS by itself, right in his face.
 FOLLOW RACHEL as she rushes through the living room and down
-a hall. Another door slams shut behind her."|speech|POLICMIANWE'LL JUSRACHEL|?
+a hall. Another door slams shut behind her."|speech|POLICMIANWE'LL JUSRACHEL|?|
 23|HER ROOM|"She spins, frightened by the door that closed behind her. To
 her left...
 A WINDOW crashes shut, startling her. Then, like a wave
 moving in a circle around her, another WINDOW bangs down, a
-DOOR slams shut, another WINDOW. Scared, RACHEL backs into"|speech|HER ROOM|F
+DOOR slams shut, another WINDOW. Scared, RACHEL backs into"|speech|HER ROOM|F|
 24|A CLOSET|"where she finds WALTER huddling and cradles him in her arms.
-The CLOSET DOOR swings shut, sealing her off from the world."|speech|A CLOSET|?
+The CLOSET DOOR swings shut, sealing her off from the world."|speech|A CLOSET|?|
 25|FROM ABOVE|"In the dark, RACHEL is in a fetal position on the floor, dry
 eyed, in shock, curled around her puppy.
-There's the far-off sound of POUNDING on a door."|speech|FROM ABOVE|M
+There's the far-off sound of POUNDING on a door."|speech|FROM ABOVE|M|
 26|DISSOLVE TO:|"NT. A DARKENED BEDROOM - DAWN
 RACHEL, now 17, is curled in bed around WALTER, also now a
 far more senior dog. She's enmeshed in tangled white
@@ -130,11 +130,11 @@ WOMAN (O.S.)
 Rachel. c et up. You're gonna be late
 again.
 She rolls over, blinks awake. She's beautiful, with sensual
-lips framed by raven black hair."|speech|DISSOLVE TO:|?
-27|RACHEL|joy.|speech|RACHEL|F
-28|CUT TO|BLACK. A SUPER burns in:|speech|CUT TO|?
-29||M. O N D A Y|stage direction||
-30||FADE INTO:|unknown||
+lips framed by raven black hair."|speech|DISSOLVE TO:|?|
+27|RACHEL|joy.|speech|RACHEL|F|True
+28|CUT TO|BLACK. A SUPER burns in:|speech|CUT TO|?|
+29||M. O N D A Y|stage direction|||
+30||FADE INTO:|unknown|||
 31|CUT TO|"A PAN AROUND RACHEL'S ROOM
 the usual teenage mess, clothes strewn everywhere. A POSTER
 of Jim Morrison reads: ""No One Here Gets Out Alive.""
@@ -148,102 +148,102 @@ captioned ""Manson Sucks"".
 Scooping up WALTER, she kisses him, takes him to an open
 ground floor window.
 Sorry, Walt.
-And gently lowers him outside."|speech|CUT TO|?
-32||EXT. A HOUSE - MORNING|location||
+And gently lowers him outside."|speech|CUT TO|?|
+32||EXT. A HOUSE - MORNING|location|||
 33|CUT TO|"It's not the home RACHEL lived in with BARBARA. This one is
 run down and in the section of town where people have cars in
 their yards they've abandoned tinkering with. The lawn is
-overgrown, there's broken glass on the street."|speech|CUT TO|?
-34||INT. KITCHEN - MORNING|location||
+overgrown, there's broken glass on the street."|speech|CUT TO|?|
+34||INT. KITCHEN - MORNING|location|||
 35|CUT TO|"The crammed eat-in-kitchen of the WALLACE house. EMILYN,
 40's, is ironing a waitress uniform on the counter. A groggy
 BOYD, 40's, enters, he's a trucker and looks like one. He
 goes straight for the refrigerator.
 BOYD and his wife EMILYN have taken in RACHEL as a foster kid
 to augment their income.
-6."|speech|CUT TO|?
-36||RACHEL is alone at a formica table, eating cereal. BOYD|stage direction||
-37|CUT TO|looks at his ..rife.|speech|CUT TO|?
+6."|speech|CUT TO|?|
+36||RACHEL is alone at a formica table, eating cereal. BOYD|stage direction|||
+37|CUT TO|looks at his ..rife.|speech|CUT TO|?|
 38|"BOYD
-(YAWNS)"|Working tonight?|speech|BOYD|F
-39|EMILYN|Graveyard shift, again.|speech|EMILYN|F
+(YAWNS)"|Working tonight?|speech|BOYD|F|True
+39|EMILYN|Graveyard shift, again.|speech|EMILYN|F|
 40|(TO RACHEL)|"Was the dog in the house last night?
-He's allowed in the morning."|speech||
+He's allowed in the morning."|speech|||
 41|BOYD|"(head in refrigerator)
 Daytime, yes; nighttime, no. We've
 been over this ground.
 I only brought him in this morning.
-No juice?"|speech|BOYD|F
-42|EMILYN|We're out of a lot of things.|speech|EMILYN|F
+No juice?"|speech|BOYD|F|True
+42|EMILYN|We're out of a lot of things.|speech|EMILYN|F|
 43|(TO RACHEL)|"I heard dog noises last night.
-When I was trying to sleep."|speech||
+When I was trying to sleep."|speech|||
 44|(LOUDER)|"Walter was not in the house last
-night."|speech||
+night."|speech|||
 45|BOYD|"(shoots Rachel a look)
 You watch that voice in this house.
 While you're here, you'll respect her
-as your mother, and treat her as such."|speech|BOYD|F
+as your mother, and treat her as such."|speech|BOYD|F|True
 46|RACHEL|"(lowers her eyes, mumbles)
 Sorry.
-She picks through her cold cereal in silence."|speech|RACHEL|F
+She picks through her cold cereal in silence."|speech|RACHEL|F|True
 47|EMILYN|"Your mom's making progress isn't she,
 on the new medicacions, the
 tricyclics?
-7."|speech|EMILYN|F
-48|RACHEL|Yes, ma'am.|speech|RACHEL|F
+7."|speech|EMILYN|F|
+48|RACHEL|Yes, ma'am.|speech|RACHEL|F|True
 49|(BEAT)|"May I be excused?
 Without waiting for a reply, she stands and gathers the bowl.
 (casually, a routine)
 And you should take that thing outta
 your nose. Don't you have enough
 holes in your head?
-As she turns away, RACHEL makes a face, but replies."|speech||
-50|RACHEL|Yes, sir.|speech|RACHEL|F
-51||EXT. HOUSE - MORNING|location||
+As she turns away, RACHEL makes a face, but replies."|speech|||
+50|RACHEL|Yes, sir.|speech|RACHEL|F|True
+51||EXT. HOUSE - MORNING|location|||
 52|RACHEL|"RACHEL stands outside, clad in a long dark overcoat, with a
 black backpack. WALTER sits next to her, behind a fence.
-A YELLOW SCHOOL BUS pulls up."|speech|RACHEL|F
+A YELLOW SCHOOL BUS pulls up."|speech|RACHEL|F|True
 53|RACHEL|"Later, Walt.
 On WALTER, bummed.
 WITHIN THE SCHOOL BUS
 A gaggle of young KIDS in faded denims and pastels. RACHEL
 moves to the back, sits with LISA PARKER, who could be her
 younger sister, also dressed Goth, black lace and metal.
-LISA has a HEART-THORN TATTOO around her arm, like RACHEL's."|speech|RACHEL|F
+LISA has a HEART-THORN TATTOO around her arm, like RACHEL's."|speech|RACHEL|F|True
 54|"LISA
-(SMILES)"|Well, hullo.|speech|LISA|F
+(SMILES)"|Well, hullo.|speech|LISA|F|True
 55|RACHEL|"She speaks. She opens her mouth
 and sounds come out. The sounds
 are words.
-LTA gives her a Cheshire cat grin."|speech|RACHEL|F
+LTA gives her a Cheshire cat grin."|speech|RACHEL|F|True
 56|LISA|"What's wrong, fcscer-dad bein' a
 pain again?
-8."|speech|LISA|F
-57|RACHEL|Why are you so weiz.ly happy?|speech|RACHEL|F
-58|LISA|o I look any different?|speech|LISA|F
-59|RACHEL|Do you look any...|speech|RACHEL|F
-60|(GETTING IT)|Oh, my gawd. You did it.|speech||
+8."|speech|LISA|F|True
+57|RACHEL|Why are you so weiz.ly happy?|speech|RACHEL|F|True
+58|LISA|o I look any different?|speech|LISA|F|True
+59|RACHEL|Do you look any...|speech|RACHEL|F|True
+60|(GETTING IT)|Oh, my gawd. You did it.|speech|||
 61|LISA|"Yep.
-With who?"|speech|LISA|F
+With who?"|speech|LISA|F|True
 62|LISA|"You'd never believe me if I told you.
-I'm bringing him to lunch."|speech|LISA|F
-63|RACHEL|C'mon. ' 1 Fess up.|speech|RACHEL|F
+I'm bringing him to lunch."|speech|LISA|F|True
+63|RACHEL|C'mon. ' 1 Fess up.|speech|RACHEL|F|True
 64|LISA|"All will be revealed in due time.
 RACHEL pulls out a worn Anne Rice paperback from her ba
-gives it to LISA."|speech|LISA|F
-65|RACHEL|You suck.|speech|RACHEL|F
+gives it to LISA."|speech|LISA|F|True
+65|RACHEL|You suck.|speech|RACHEL|F|True
 66|LISA|"I love you too.
 Simultaneously, they bite their thumbs, then press them
-together; a pantomime of blood sisters."|speech|LISA|F
+together; a pantomime of blood sisters."|speech|LISA|F|True
 67|LISA / RACHEL|"Best Blood. / Best Blood.
 ARNIE, a skinny, pimply stoner, plops into the seat behind
-them, sticks his head on their seatback, smiles full braces."|speech|LISA / RACHEL|?
+them, sticks his head on their seatback, smiles full braces."|speech|LISA / RACHEL|?|
 68|ARNIE|"Hi there gruesome twosome, how 'bout
-a threesome?"|speech|ARNIE|F
+a threesome?"|speech|ARNIE|F|True
 69|LISA|"(ignoring him, to Rachel)
 Lunch. Meet me in the parking lot.
-9."|speech|LISA|F
-70||EXT. BERGEN HIGH SCHOOL - MORNING|location||
+9."|speech|LISA|F|True
+70||EXT. BERGEN HIGH SCHOOL - MORNING|location|||
 71|LISA|"A modern, windowless school, shrouded in mist. It's
 beautiful in an eerie ""Fall of the House of Usher"" way.
 E SCHOOL ENTRANCE - MORNING
@@ -259,7 +259,7 @@ skateboard junkiei-and other lost souls.
 A STONER KID kicks his skateboard up and catches it. HIS
 BUDDY follows suit and misses, suffering the embarrassment of
 watching his board shoot down the steps whose metal rail
-separates Freak Hall and..,"|speech|LISA|F
+separates Freak Hall and..,"|speech|LISA|F|True
 72|THE PATIO|"a courtyard with concrete tables where the school's royalty
 hold court. The cleancut ""Patio People"" are the jocks,
 student government types and others who have no idea what it
@@ -271,111 +271,111 @@ Vedor if Eddie ever played football. Next to him is...
 MARK BING, good looking, with a body like a fist.
 Behind them, arrayed around a concrete table are the large,
 doltish BRAD, hearty rich boy CHUCK, and the arrogant ERIC.
-CHUCKS looks over a plain looking GIRL on the Patio."|speech|THE PATIO|F
+CHUCKS looks over a plain looking GIRL on the Patio."|speech|THE PATIO|F|
 73|CHUCK|"(aside, low)
 Hey, Mark, the girl over there,
 how many if I do her?
 10.
-Six."|speech|CHUCK|F
+Six."|speech|CHUCK|F|True
 74|"BRAD
 (MIFFED)"|"Hold it. I did her last week,
-I only got five."|speech|BRAD|M
+I only got five."|speech|BRAD|M|True
 75|MARK|"She was having a bad hairday.
 A group of PATIO GIRLS sit at another table. Among them is
 MONICA, a stunning brunette, AMY a cute redhead and TRACY, an
 icy BLONDE who could spend all day checking her makeup.
 JESSE looks over. TRACY graces him with a smile and turns
-away. MARK leans in to JESSE."|speech|MARK|M
+away. MARK leans in to JESSE."|speech|MARK|M|True
 76|MARK|"Hey, Jess. Tracy, she wants you, man.
-Jump her bones."|speech|MARK|M
-77|I JESSE|Yeah, whatever.|speech|I JESSE|?
+Jump her bones."|speech|MARK|M|True
+77|I JESSE|Yeah, whatever.|speech|I JESSE|?|
 78|CHUCK|"What's the matter with you, she's got
-an ass stamped ""Made in Heaven"|speech|CHUCK|F
+an ass stamped ""Made in Heaven"|speech|CHUCK|F|True
 79|JESSE|"I don't know, you ever have a
 conversation with her? It's like
 talking down a well. She only wants
-me cause I'm on the football team."|speech|JESSE|F
+me cause I'm on the football team."|speech|JESSE|F|True
 80|MARK|"So what? You want her to want you
 cause of your dazzling personality?
 Look, you want someone to talk to,
 you got us. H, you screw.
 THE SCHOOL BUS
 RACHEL and LISA hop off and walk past the Patio. CHUCK
-watches LISA pass."|speech|MARK|M
+watches LISA pass."|speech|MARK|M|True
 81|"CHUCK
-(ASIDE)"|Woof- Coyote date.|speech|CHUCK|F
-82|JESSE|That's harsh, man, keep it down.|speech|JESSE|F
+(ASIDE)"|Woof- Coyote date.|speech|CHUCK|F|True
+82|JESSE|That's harsh, man, keep it down.|speech|JESSE|F|True
 83|"11
-ERIC"|What's a coyote date?|speech|11ERIC|?
+ERIC"|What's a coyote date?|speech|11ERIC|?|
 84|MARK|"When you wake up in the morning, and
 she's sleeping on your arm, and the
 only way to get up is to wake her.
 So you gnaw your arm off instead.
 BRAD snorts a laugh.
-A goatee'd ENGLISH TEACHER nods to both camps as he passes."|speech|MARK|M
+A goatee'd ENGLISH TEACHER nods to both camps as he passes."|speech|MARK|M|True
 85|ENGLISH TEACHER|"Hello Montagues, hello Capulets.
 A BELL goes off and the STUDENTS start filing into school.
 LISA waves the tips of her fingers to RACHEL, bye-bye.
 RACHEL looks over, catches a glimpse of JESSE, across the
 line of demarcation. For a piece of a second it seems as if
-he's looking back. She drops her head, walks away."|speech|ENGLISH TEACHER|?
-86||INT. ENGLISH CLASS - DAY|location||
+he's looking back. She drops her head, walks away."|speech|ENGLISH TEACHER|?|True
+86||INT. ENGLISH CLASS - DAY|location|||
 87|ENGLISH TEACHER|"The ENGLISH TEACHER strolls among the student's desk. RACHEL
-is in social Siberia, sitting in the back."|speech|ENGLISH TEACHER|?
+is in social Siberia, sitting in the back."|speech|ENGLISH TEACHER|?|True
 88|ENGLISH TEACHER|"Okay, then how many saw the movie?
-A show of hands, all the girls, some of the boys."|speech|ENGLISH TEACHER|?
-89|ENGLISH TEACHER|Now, how many read the play?|speech|ENGLISH TEACHER|?
-90|AS ASSIGN|A few tentative hands, including JESSE.|speech|AS ASSIGN|?
+A show of hands, all the girls, some of the boys."|speech|ENGLISH TEACHER|?|True
+89|ENGLISH TEACHER|Now, how many read the play?|speech|ENGLISH TEACHER|?|True
+90|AS ASSIGN|A few tentative hands, including JESSE.|speech|AS ASSIGN|?|
 91|ENGLISH TEACHER|"I thank you for your honesty, but I am
 saddened. I'd like to think we're
 here to study William Shakespeare, not
 worship at the altar of Leo DiCaprio.
-Scattered laughs."|speech|ENGLISH TEACHER|?
+Scattered laughs."|speech|ENGLISH TEACHER|?|True
 92|ENGLISH TEACHER|"I was going to calk about the
 language. But since you haven't Z&&d
 the language, let's talk about the
 plot.
 12.
-Sighs of relief"|speech|ENGLISH TEACHER|?
+Sighs of relief"|speech|ENGLISH TEACHER|?|True
 93|ENGLISH TEACHER|"Romeo and Juliet, a tale of two lovers
 meant for each other, pulled apart by
 their families, society, and, some
-might say, by fate."|speech|ENGLISH TEACHER|?
+might say, by fate."|speech|ENGLISH TEACHER|?|True
 94|(BEAT)|"Why is it that we are so moved by love
 stories that end with separation?
-The STUDENT' s faces are blank."|speech||
+The STUDENT' s faces are blank."|speech|||
 95|ENGLISH TEACHER|"What are some other stories with this
-theme?"|speech|ENGLISH TEACHER|?
+theme?"|speech|ENGLISH TEACHER|?|True
 96|(NO RESPONSES)|"How about, Dr. Zhivago? Casablanca?
-Still blank. AMY timidly raises her hand."|speech||
+Still blank. AMY timidly raises her hand."|speech|||
 97|AMY|"You meair like in Dumb and
 when the girl's husband showed up?
-The TEACHER surrenders to the inevitable."|speech|AMY|F
+The TEACHER surrenders to the inevitable."|speech|AMY|F|True
 98|ENGLISH TEACHER|"Okay, well. Perhaps at some level
 we know that Lauren Holly's husband
-AIM to show up? What say? Anyone?"|speech|ENGLISH TEACHER|?
+AIM to show up? What say? Anyone?"|speech|ENGLISH TEACHER|?|True
 99|(BEAT)|"Rachel?
-I don't know that I believe in it."|speech||
-100|ENGLISH TEACHER|Believe in what?|speech|ENGLISH TEACHER|?
+I don't know that I believe in it."|speech|||
+100|ENGLISH TEACHER|Believe in what?|speech|ENGLISH TEACHER|?|True
 101|RACHEL|"Love.
-JESSE looks at her, pensive."|speech|RACHEL|F
+JESSE looks at her, pensive."|speech|RACHEL|F|True
 102|"ENGLISH TEACHER
 (SYMPATHETIC)"|"Well, then you've got bigger problems
 than passing this crass.
-13."|speech|ENGLISH TEACHER|?
+13."|speech|ENGLISH TEACHER|?|True
 103|ARNIE|"(raises his hand)
 Love is fifteen seconds of squishing
 noises. Unquote. Johnny Rotten.
 Scattered laughs. JESSE overhears TRACY as she nods at
-RACHEL, whispers to AMY..."|speech|ARNIE|F
-104|TRACY|Who would love her?|speech|TRACY|F
+RACHEL, whispers to AMY..."|speech|ARNIE|F|True
+104|TRACY|Who would love her?|speech|TRACY|F|True
 105|ENGLISH TEACHER|"Do you think that all love stories are
 tragedies? I mean, unless they die at
 the same time, all lovers are
-eventually separated by death."|speech|ENGLISH TEACHER|?
+eventually separated by death."|speech|ENGLISH TEACHER|?|True
 106|JESSE|"Well, then Romeo and Juliet isn't a
 tragedy, because the only way they
-could really be together was in death."|speech|JESSE|F
+could really be together was in death."|speech|JESSE|F|True
 107|ENGLISH TEACHER|"Very good.
 (nods at Rachel)
 A foul cynic, most cliche.
@@ -383,39 +383,39 @@ A foul cynic, most cliche.
 A true romantic, how refreshing.
 Kids scoff at JESSE, but RACHEL eyes JESSE, struck by this
 side of him.
-The BELL rings and ARNIE leads the exodus."|speech|ENGLISH TEACHER|?
-108|ARNIE|Food!|speech|ARNIE|F
+The BELL rings and ARNIE leads the exodus."|speech|ENGLISH TEACHER|?|True
+108|ARNIE|Food!|speech|ARNIE|F|True
 109|ENGLISH TEACHER|"Next assignment, Brave New World, the
 book, not the TV movie.
 INT, HIGH SCHOOL HALLWAY - DAY
 A stone-faced LISA folds a NOTE, places it within her hallway
 locker, jammed to the brim with books; a photo of Fiona Apple
-and a Nine Inch Nails sticker are plastered on its door."|speech|ENGLISH TEACHER|?
-110||EXT. ICE SCHOOL. THE REAR PARKING LOT - LUNCHTIME|location||
+and a Nine Inch Nails sticker are plastered on its door."|speech|ENGLISH TEACHER|?|True
+110||EXT. ICE SCHOOL. THE REAR PARKING LOT - LUNCHTIME|location|||
 111|ENGLISH TEACHER|"STUDENTS pour out the doors, some heading to a row of outside
-lockers. RACHEL appears, searching for LISA."|speech|ENGLISH TEACHER|?
+lockers. RACHEL appears, searching for LISA."|speech|ENGLISH TEACHER|?|True
 112|BACK TO:|"14.
 THE SCHOOL HALLWAY
 LISA walks as if moving through extremely dense air, hugging
-the wall as STUDENTS pass without acknowledging her."|speech|BACK TO:|?
+the wall as STUDENTS pass without acknowledging her."|speech|BACK TO:|?|
 113|HACK TO:|"THE PARKING LOT
 RACHEL looks around the students, sees a GIRL's HEAD from
-behind, realizes it isn't LISA."|speech|HACK TO:|?
+behind, realizes it isn't LISA."|speech|HACK TO:|?|
 114|"BACK TO:
 A STAIRWELL"|"LISA ascends several flights, still brushing the wall,
-exiting onto the..."|speech|BACK TO:A STAIRWELL|?
+exiting onto the..."|speech|BACK TO:A STAIRWELL|?|
 115|SCHOOL'S ROOF|"She walks past a TRIO OF STUDENTS smoking near the roof's
 edge. Without slowing or blinking an eyelash LISA simply..
 DROPS OUT OF FRAME.
-A GIRL turns in the direction of LISA's disappearance."|speech|SCHOOL'S ROOF|?
+A GIRL turns in the direction of LISA's disappearance."|speech|SCHOOL'S ROOF|?|
 116|SMOKING GIRL|"Did you see that?
 SHOCK CUT TO:
 WITHIN A PARKED CAR
 LISA'S FACE smashes into the windshield which cracks in a
 spider web pattern. Blood fills the web. The sound of a
 droplet hitting car vinyl, then drops SPLATTER RED on our
-P.Q.V."|speech|SMOKING GIRL|?
-117||EXT. THE SCHOOL PARKING LOT - DAY|location||
+P.Q.V."|speech|SMOKING GIRL|?|
+117||EXT. THE SCHOOL PARKING LOT - DAY|location|||
 118|SMOKING GIRL|"Standing in the lot is RACHEL. She stares in horror at --
 LISA sprawled on the dented hood of a parked car, her head a
 bloody mass nestled in the shattered windshield.
@@ -424,44 +424,44 @@ catches in her throat, which causes --
 15.
 A ROW OF OUTDOOR LOCKERS
 to ""ULQ open, behind her, like dominoes, banging in a wave
-away from her, startling KIDS near them."|speech|SMOKING GIRL|?
-119||INT. SCHOOL - DAY|location||
+away from her, startling KIDS near them."|speech|SMOKING GIRL|?|
+119||INT. SCHOOL - DAY|location|||
 120|SMOKING GIRL|"BANG as a door marked ""GUIDANCE COUNSELOR"" swings open and..
 SUE SNELL whips around in her seat, late 30's, but with the
 eyes of someone who's been to hell and back. A YOUNG GIRL is
 seated before her for counseling.
 in her doorway is the SCHOOL PRINCIPAL, chaos in the hall
-behind him."|speech|SMOKING GIRL|?
+behind him."|speech|SMOKING GIRL|?|
 121|PRINCIPAL|"You'd better come with me, a girl just
-killed herself in the lot."|speech|PRINCIPAL|F
-122||EXT. SCHOOL PARKING LOT - DAY.|location||
+killed herself in the lot."|speech|PRINCIPAL|F|True
+122||EXT. SCHOOL PARKING LOT - DAY.|location|||
 123|PRINCIPAL|"More chaos. KIDS'rush in to see, others move away.
 Next to the car with LISA's body is RACHEL. Slowly,
 tentatively, without knowing what she's doing, RACHEL runs
-her hand along the car's hood, coating her thumb with blood."|speech|PRINCIPAL|F
+her hand along the car's hood, coating her thumb with blood."|speech|PRINCIPAL|F|True
 124|"RACHEL
 (TO HERSELF)"|"Best blood.
 SUE pushes her way through the crowd, sees a stunned RACHEL,
-puts an arm around her shoulder."|speech|RACHEL|F
+puts an arm around her shoulder."|speech|RACHEL|F|True
 125|SUE|"Corns. Come with me. Let's back off.
 One step. Good. Let's back away.
 PULL BACK to see the widening circles of shock as the
-students of Bergen High realize what's just occurred."|speech|SUE|M
-126||INT. GUIDANCE OFFICE - DAY|location||
+students of Bergen High realize what's just occurred."|speech|SUE|M|True
+126||INT. GUIDANCE OFFICE - DAY|location|||
 127|SUE|"A SNOW DOME with a forest scene. RACHEL is in a chair, her
 face an ashen mask, staring at the dome on the desk. SUE
 offers a glass of water, RACHEL doesn't take it. SUE leans
-on the desk's edge."|speech|SUE|M
+on the desk's edge."|speech|SUE|M|True
 128|SUE|"(low, intimace)
 Was she a friend? This is a place
-where you can calk about it."|speech|SUE|M
-129|(MORE)|16.|speech||
+where you can calk about it."|speech|SUE|M|True
+129|(MORE)|16.|speech|||
 130|"SUE (CONC'D)
 (NO RESPONSE)"|"Or not. But if you need to, I'm
 always here.
 SUE takes RACHEL's hand. RACHEL looks up at her, eyes
-welling. Bur she doesn't cry."|speech|SUE|M
-131|SUE|It's okay. Let it out.|speech|SUE|M
+welling. Bur she doesn't cry."|speech|SUE|M|True
+131|SUE|It's okay. Let it out.|speech|SUE|M|True
 132|RACHEL|"(shakes her head)
 I never cry. Miss Snell? She was so
 happy this morning. I don't
@@ -470,21 +470,21 @@ The INTERCOM BOX squawks:
 WOMAN (V.0.)
 Ms. Snell, would you please come to
 the principal's office? Ms. Snell,
-please come to the principal's office."|speech|RACHEL|F
+please come to the principal's office."|speech|RACHEL|F|True
 133|- SUE|"You stay here as long as you need to.
 RACHEL nods. SUE moves to the door and exits.
-Leaving RACHEL alone, looking all of five years old."|speech|- SUE|?
-134||INT. PRINCIPAL'S OFFICE - DAY|location||
+Leaving RACHEL alone, looking all of five years old."|speech|- SUE|?|
+134||INT. PRINCIPAL'S OFFICE - DAY|location|||
 135|- SUE|"A medium-sized office, standing room only. The PRINCIPAL
-addresses SUE and his STAFF as he hands out sheets of paper."|speech|- SUE|?
+addresses SUE and his STAFF as he hands out sheets of paper."|speech|- SUE|?|
 136|PRINCIPAL|"The board of education has given us
 these procedures to follow. I want
 every teacher to read this aloud in
 their classrooms in ten minutes.
 Do not digress or become overly
 emotional or dramatic.
-His VOICE under..."|speech|PRINCIPAL|F
-137||EXT. THE SCHOOL ENTRANCE - DAY|location||
+His VOICE under..."|speech|PRINCIPAL|F|True
+137||EXT. THE SCHOOL ENTRANCE - DAY|location|||
 138|PRINCIPAL|"A door BANGS open as RACHEL runs out and down the steps.
 PRINCIPAL (V_O.)
 Then I'll ask you to identify any
@@ -493,29 +493,29 @@ Parker's close friends and therefore
 may require additional counseling.
 17.
 PRINCIPAL'S OFFICE - DAY
-He scans the faces of his troops."|speech|PRINCIPAL|F
+He scans the faces of his troops."|speech|PRINCIPAL|F|True
 139|PRINCIPAL|"No memorials. No assembly. We want a
 return to the normal life of the
-school. what do we not want?"|speech|PRINCIPAL|F
+school. what do we not want?"|speech|PRINCIPAL|F|True
 140|(PAUSE)|"Copycats. Everybody got it?
-Nods all around."|speech||
+Nods all around."|speech|||
 141|PRINCI PAL|"Then let's go with the drill.
-A TEACHER reads from the prepared statement to her class."|speech|PRINCI PAL|?
+A TEACHER reads from the prepared statement to her class."|speech|PRINCI PAL|?|
 142|TEACHER|"One of our students died today.
 -- A FOREST -- Glimpses of RACHEL running through the trees.
--- SUE at a microphone, reading from a sheet of paper:"|speech|TEACHER|F
+-- SUE at a microphone, reading from a sheet of paper:"|speech|TEACHER|F|
 143|SUE|"We will observe, at exactly two
 p.m...
 -- Her voice emanates from an INTERCOM BOX high on a
 classroom wall. STUDENTS bow their heads.
 SUE (V.O.)
-.a moment of silence."|speech|SUE|M
-144||EXT. FOREST - DAY|location||
+.a moment of silence."|speech|SUE|M|True
+144||EXT. FOREST - DAY|location|||
 145|SUE|"th RACHEL -- running, branches tearing at her clothes.
 SUE (V.3.)
 Lisa Parker may be gone, but she will
-not be forgotten by her friends."|speech|SUE|M
-146||INT. CLASSROOM - DAY|location||
+not be forgotten by her friends."|speech|SUE|M|True
+146||INT. CLASSROOM - DAY|location|||
 147|SUE|"ERIC surreptitiously passes MARK something under a desk, a
 large pocket NOTEBOOK.
 A GIRL picks her nose. A 3CY yawns. Another BOY absently
@@ -525,62 +525,62 @@ A GIRL and a BOY whisper to each other, then stifle a laugh.
 SUE {V.0.)
 She will not be forgotten, by her
 fellow students, her teachers, and
-her school."|speech|SUE|M
-148||EXT. THE FOREST - DAY|location||
+her school."|speech|SUE|M|True
+148||EXT. THE FOREST - DAY|location|||
 149|SUE|"RACHEL sits on rock in a clearing, observing her own moment
 of silence.
 She looks at her hand. It's trembling and still covered with
-LISA's BLOOD."|speech|SUE|M
-150||EXT. ARI{HAM STATE MENTAL HOSPITAL - DAY|location||
+LISA's BLOOD."|speech|SUE|M|True
+150||EXT. ARI{HAM STATE MENTAL HOSPITAL - DAY|location|||
 151|SUE|"th a sign identifying it as such. A fenced-in complex of
-spooky Victorian and Queen Anne buildings."|speech|SUE|M
-152||EXT. A BUS - DAY|location||
+spooky Victorian and Queen Anne buildings."|speech|SUE|M|True
+152||EXT. A BUS - DAY|location|||
 153|SUE|"CHEL sits, removing her nose stud and earrings as the bus
-approaches the hospital."|speech|SUE|M
-154||INT. HOSPITAL BATHROOM - DAY|location||
+approaches the hospital."|speech|SUE|M|True
+154||INT. HOSPITAL BATHROOM - DAY|location|||
 155|SUE|"RACHEL is washing off her makeup, which runs black into the
 institutional porcelain sink.
-She changes into a white cotton shirt."|speech|SUE|M
-156||INT. STATE HOSPITAL, VISITING AREA - DAY|location||
+She changes into a white cotton shirt."|speech|SUE|M|True
+156||INT. STATE HOSPITAL, VISITING AREA - DAY|location|||
 157|SUE|"The dilapidated room is a statue garden of catatonics and
 depressives seated on vinyl furniture before a static-filled
 T.V. PATIENTS shuffle past like motorized corpses.
 BARBARA LANG, now in her 40's, sits on a couch with a
-transformed RACHEL. BARBARA is lucid and beaming at her."|speech|SUE|M
+transformed RACHEL. BARBARA is lucid and beaming at her."|speech|SUE|M|True
 158|BARBARA|"Yes, baby, I really am feeling so much
 better. I feel so good on the inside,
-I must be glowing on the outside."|speech|BARBARA|F
-159|RACHEL|You look great, mama.|speech|RACHEL|F
+I must be glowing on the outside."|speech|BARBARA|F|True
+159|RACHEL|You look great, mama.|speech|RACHEL|F|True
 160|BARBARA|"Lord, you come all the way out here,
 we can't keep talking about me. How
 are you? I wane to hear every little
 thing I'm missing.
 19.
 RACHEL takes a deep breath, working extra hard to seem happy
-and well adjusted today."|speech|BARBARA|F
+and well adjusted today."|speech|BARBARA|F|True
 161|RACHEL|"Things are really great. Last night
 I, um, I had this slumber party, with
 some girlfriends. And this morning,
 Mrs. Wallace made us all pancakes
-before school."|speech|RACHEL|F
-162|BARBARA|The Wallaces sure are a nice family.|speech|BARBARA|F
+before school."|speech|RACHEL|F|True
+162|BARBARA|The Wallaces sure are a nice family.|speech|BARBARA|F|True
 163|RACHEL|"(her smile falters)
-Oh, they are. A nice family."|speech|RACHEL|F
-164|BARBARA|What's wrong?|speech|BARBARA|F
+Oh, they are. A nice family."|speech|RACHEL|F|True
+164|BARBARA|What's wrong?|speech|BARBARA|F|True
 165|RACHEL|"Nothing, I just... I miss those crepes
-you used to make me."|speech|RACHEL|F
+you used to make me."|speech|RACHEL|F|True
 166|BARBARA|"Oh, honey, those.crepes weren't
 nothing but watered down pancakes.
 (holds out her arms)
 Come here baby.
-She gives her daughter a big hug."|speech|BARBARA|F
+She gives her daughter a big hug."|speech|BARBARA|F|True
 167|BARBARA|"Now you listen to me, the doctors say
 I'm doing well. You know what that
 means? That means someday, soon, you
 and I are gonna be eating crepes for
 breakfast, lunch and dinner.
-For the first time, RACHEL's smile is genuine."|speech|BARBARA|F
-168|RACHEL|That would be so great.|speech|RACHEL|F
+For the first time, RACHEL's smile is genuine."|speech|BARBARA|F|True
+168|RACHEL|That would be so great.|speech|RACHEL|F|True
 169|BARBARA|"(holds her at arm's length)
 Oh, I look at you, remembering what
 you were like at five, at ten...
@@ -588,30 +588,30 @@ you were like at five, at ten...
 All I need is a little Loving Care for
 these grey hairs and we'll make up for
 all the time we've lost.
-ooks at a wall clock)"|speech|BARBARA|F
+ooks at a wall clock)"|speech|BARBARA|F|True
 170|(MORE)|"20.
 BARBARA (cont ' d)
 Now you get going before you're late
-for work."|speech||
-171|RACHEL|Yes, mama.|speech|RACHEL|F
-172||INT. HOSPITAL HALLWAY - DAY|location||
+for work."|speech|||
+171|RACHEL|Yes, mama.|speech|RACHEL|F|True
+172||INT. HOSPITAL HALLWAY - DAY|location|||
 173|RACHEL|"RACHEL stands before glass doors, reinforced with chicken
 wire, waiting to be buzzed out.
 The NURSE on the other side is on the phone.
 RACHEL turns and sees graffiti reading:
 klnq of heLL
 She cocks her head, noting the capitalized letters reveal a
-hidden message: SLL."|speech|RACHEL|F
+hidden message: SLL."|speech|RACHEL|F|True
 174||"A smiling TEENAGE GIRL wears a nightgown with a large wet
-spot where she's soiled herself, without warnin she lets."|stage direction||
+spot where she's soiled herself, without warnin she lets."|stage direction|||
 175|RACHEL|"out a arcing ; ,e.
-RACHEL wheels and pounds on the door."|speech|RACHEL|F
+RACHEL wheels and pounds on the door."|speech|RACHEL|F|True
 176|RACHEL|"C'mon, c'mon. Let me out!
-The door buzzes and she shoves through."|speech|RACHEL|F
-177||EXT. THE KENNEL - DAY|location||
+The door buzzes and she shoves through."|speech|RACHEL|F|True
+177||EXT. THE KENNEL - DAY|location|||
 178|RACHEL|"A restaurant/bar decorated with the BULLDOG insignia on a
-football helmet."|speech|RACHEL|F
-179||INT. THE KENNEL - DAY|location||
+football helmet."|speech|RACHEL|F|True
+179||INT. THE KENNEL - DAY|location|||
 180|RACHEL|"The rear end of a young WOMAN in tight jeans walking away.
 MARK (V.0.)
 Backfield in motion.
@@ -620,95 +620,95 @@ everywhere; Bulldog lamps and paw prints painted on the
 floor. The bar's packed with local BUSINESSMEN.
 JESSE, MARK and the other BULLDOGS are in a corner booth.
 A.middle-aged, bearded WAILER with half his face bur -SS-arred
-approaches."|speech|RACHEL|F
+approaches."|speech|RACHEL|F|True
 181|WAITER|"Boys, what can Z get you?
-21."|speech|WAITER|?
+21."|speech|WAITER|?|
 182|MARK|"Hey, Al, we'll have three 1ï¿½.rge pepperoni
-pies and two pitchers of beer."|speech|MARK|M
+pies and two pitchers of beer."|speech|MARK|M|True
 183|WAITER|"(heading off) ,
-Three large pizzas and cokes all around."|speech|WAITER|?
+Three large pizzas and cokes all around."|speech|WAITER|?|
 184|B|"I can't wait to play Carlin, man, I'm
-onna bash Todd Simpson's face in."|speech|B|F
+onna bash Todd Simpson's face in."|speech|B|F|
 185|CHUCK|"He scored two touchdowns on you last
-time, dude."|speech|CHUCK|F
+time, dude."|speech|CHUCK|F|True
 186|B|"Yeah, I wish hl would jump off a roof.
-TRACY, MONICA and AMY are at a table across the Kennel."|speech|B|F
+TRACY, MONICA and AMY are at a table across the Kennel."|speech|B|F|
 187|MARK|"Yo, Jes$, I think Tracy's following
 you.
 He pulls out the black NOTEBOOK.
-ERIC eyes it, gets very nervous."|speech|MARK|M
+ERIC eyes it, gets very nervous."|speech|MARK|M|True
 188|MARK|"Now then, according to the scoreboard
 Jess, you'd have to bag every girl
 here to catch up. You need the
-points. I'll give ya ten for Tracy."|speech|MARK|M
-189|BRAD|Do her, Jess.|speech|BRAD|M
+points. I'll give ya ten for Tracy."|speech|MARK|M|True
+189|BRAD|Do her, Jess.|speech|BRAD|M|True
 190|CHUCK|"(a low chant)
 Do her, do her, do her.
-d the others join in."|speech|CHUCK|F
+d the others join in."|speech|CHUCK|F|True
 191|JESSE|"All right, all right.
 ERIC leans over to MARK, urgently whispers, and the two of
 them move to...
 22.
-ANOTHER BOOTH --"|speech|JESSE|F
+ANOTHER BOOTH --"|speech|JESSE|F|True
 192|ERIC|"(nervous, jumpy)
 When Lisa asked me to lunch, she was
 actin' like were on the road to
 marriage or something. I told her to
-wake up, she was just a pump, a nut."|speech|ERIC|F
-193|MARK|And she freaked and took a header.|speech|MARK|M
+wake up, she was just a pump, a nut."|speech|ERIC|F|True
+193|MARK|And she freaked and took a header.|speech|MARK|M|True
 194|ERIC|"And now I freakin.'. The Notre Dame
 scout's comin' Friday and it this gets
 out, I mean, sex and suicide?
-Catholic schools frown on that shit."|speech|ERIC|F
-195|MARK|No one knows 'bout you and her.|speech|MARK|M
-196|ERIC|Lisa took a picture of me with. her.|speech|ERIC|F
-197|MARK|Shit. Okay. I'll handle it.|speech|MARK|M
-198|ERIC|How?|speech|ERIC|F
+Catholic schools frown on that shit."|speech|ERIC|F|True
+195|MARK|No one knows 'bout you and her.|speech|MARK|M|True
+196|ERIC|Lisa took a picture of me with. her.|speech|ERIC|F|True
+197|MARK|Shit. Okay. I'll handle it.|speech|MARK|M|True
+198|ERIC|How?|speech|ERIC|F|True
 199|MARK|"Eric, relax, its me, Mark. I'll
 handle it.
 The WAITER sets a pitcher of soda and cups on the table.
 AT THE BAR -- MR. STARK, a rotund lawyer in his 40's, takes a
-pitcher of beer from the BARTENDER."|speech|MARK|M
+pitcher of beer from the BARTENDER."|speech|MARK|M|True
 200|BARTENLER|"I don't see nuthin'.
 STARK strolls to the booth with the pitcher in hand. He
-sits, hiding the pitcher below table level."|speech|BARTENLER|?
-201|STARK|Hello, boys.|speech|STARK|M
+sits, hiding the pitcher below table level."|speech|BARTENLER|?|
+201|STARK|Hello, boys.|speech|STARK|M|True
 202|ERIC|"Hi, dad.
 STARK winks, takes MARK's empty cup and fills it with beer
-below the table."|speech|ERIC|F
+below the table."|speech|ERIC|F|True
 203|STARK|"Great game last week. All of us on
 the town council are awful proud.
 He hands MARK the cup under the table and takes JESSE's cup.
-The PLAYERS smile at each other."|speech|STARK|M
+The PLAYERS smile at each other."|speech|STARK|M|True
 204|STARK|"So, the Bulldogs bringing home the
-state championship again this year?"|speech|STARK|M
+state championship again this year?"|speech|STARK|M|True
 205|MARK|"Absolutely. We're gonna crush Carlin
-Friday and make it seven years in a'row."|speech|MARK|M
-206|STARK|That's what I like to hear.|speech|STARK|M
+Friday and make it seven years in a'row."|speech|MARK|M|True
+206|STARK|That's what I like to hear.|speech|STARK|M|True
 207|MARK|"(offers a toast to Jesse)
-It's good to be king."|speech|MARK|M
-208||INT.SCHOOL HALLWAY - DAY|location||
+It's good to be king."|speech|MARK|M|True
+208||INT.SCHOOL HALLWAY - DAY|location|||
 209|MARK|"A CRASH of metal as the lock is cut off Lisa Parker's locker
 with a pair of boltcutters held by SHERIFF KELTON, 30""s, a
 former Bulldog himself. The PRINCIPAL and SUE stand nearby.
 Opening the locker, KELTON finds LISA's NOTE. As he pulls it
-out, something falls from the note."|speech|MARK|M
-210|SUE|What is it?|speech|SUE|M
+out, something falls from the note."|speech|MARK|M|True
+210|SUE|What is it?|speech|SUE|M|True
 211|"KELTON
 (READS)"|"Looks like a suicide note.
 (bending to retrieve)
-.and a stub. Royal Photos."|speech|KELTON|M
-212||EXT. ROYAL DRIVE-THRU PHOTCMAT - DAY|location||
+.and a stub. Royal Photos."|speech|KELTON|M|True
+212||EXT. ROYAL DRIVE-THRU PHOTCMAT - DAY|location|||
 213|"KELTON
 (READS)"|"RACHEL's at her job, an island in the middle of a parking
 lot. She wears her Walkman, listening to music. Across the
-street is a 7-11 type store."|speech|KELTON|M
-214||INT. MINIMART - DAY|location||
+street is a 7-11 type store."|speech|KELTON|M|True
+214||INT. MINIMART - DAY|location|||
 215|"KELTON
 (READS)"|"ARNIE,che sweet-natured stoner, mops the floor. He waves to
 RACHEL, who gives him a half-hearted wave back.
-24."|speech|KELTON|M
-216||INT. ROYAL PHOTOMAT - DAY|location||
+24."|speech|KELTON|M|True
+216||INT. ROYAL PHOTOMAT - DAY|location|||
 217|"KELTON
 (READS)"|"Photos glide out of the developing machine. RACHEL pulls the
 pictures out, stops dead when she sees they're shots of LISA;
@@ -717,91 +717,91 @@ RACHEL's finger tenderly slides along LISA's face.
 She's shocked to find a picture of --
 LISA AND ERIC -- his arm draped around her in the backseat of
 a car. LISA's holding the camera at arm's length.
-JESSE's CAR pulls up outside. MARK sits beside him."|speech|KELTON|M
+JESSE's CAR pulls up outside. MARK sits beside him."|speech|KELTON|M|True
 218|"RACHEL
 (STARTLED)"|"Oh!
-She peels off her headphones."|speech|RACHEL|F
+She peels off her headphones."|speech|RACHEL|F|True
 219|JESSE|"Sorry, didn't scare you, did I?
 RACHEL turns, slides LISA's PICTURES into an envelope. MARK
-checks her out, likes what.he sees, nudges JESSE."|speech|JESSE|F
+checks her out, likes what.he sees, nudges JESSE."|speech|JESSE|F|True
 220|JESSE|"You're... Rachel, right?
 She nods, surprised he knows she's alive, much less knows her
-name."|speech|JESSE|F
-221|JESSE|I'm Jesse.|speech|JESSE|F
+name."|speech|JESSE|F|True
+221|JESSE|I'm Jesse.|speech|JESSE|F|True
 222|RACHEL|"Uh-huh. The true romantic.
-MARK leans over JESSE, his voice low now, intimate."|speech|RACHEL|F
+MARK leans over JESSE, his voice low now, intimate."|speech|RACHEL|F|True
 223|MARK|"So, Rachel, there were some pictures
 Lisa took. They have, what you might
 call sentimental value.
-She just stares at him. MARK pulls a twenty from his wallet."|speech|MARK|M
-224|MARK|Twenty bucks cover it?|speech|MARK|M
+She just stares at him. MARK pulls a twenty from his wallet."|speech|MARK|M|True
+224|MARK|Twenty bucks cover it?|speech|MARK|M|True
 225|RACHEL|"No.
-25."|speech|RACHEL|F
-226|MARK|What do you mean? I'll go thirty.|speech|MARK|M
-227|RACHEL|They're not your pictures.|speech|RACHEL|F
+25."|speech|RACHEL|F|True
+226|MARK|What do you mean? I'll go thirty.|speech|MARK|M|True
+227|RACHEL|They're not your pictures.|speech|RACHEL|F|True
 228|MARK|"Well it's not like she's gonna be
 picking them up, is it?
-RACHEL turns away. JESSE glares at MARK."|speech|MARK|M
-229|JESSE|Hey, cool. it.|speech|JESSE|F
+RACHEL turns away. JESSE glares at MARK."|speech|MARK|M|True
+229|JESSE|Hey, cool. it.|speech|JESSE|F|True
 230|MARK|"(tries a different tack)
 Rachel, why don't I come by when you get
 off and, you know, take you for a ride?
-JESSE cocks an ear for her reply, but she doesn't answer."|speech|MARK|M
+JESSE cocks an ear for her reply, but she doesn't answer."|speech|MARK|M|True
 231|T MARK|"C'mon, I don't bite... not unless you
-want me to."|speech|T MARK|?
-232|RACHEL|I don't think so.|speech|RACHEL|F
-233|MARK|Why not?|speech|MARK|M
+want me to."|speech|T MARK|?|
+232|RACHEL|I don't think so.|speech|RACHEL|F|True
+233|MARK|Why not?|speech|MARK|M|True
 234|"RACHEL
 (TURNS)"|"Cause I'm a dyke.
 JESSE laughs. MARK doesn't. He knows she's putting him on
-and bores holes into her."|speech|RACHEL|F
+and bores holes into her."|speech|RACHEL|F|True
 235|MARK|"Let's go, Jess.
 The car pulls away, MARK glances in the REARVIEW MIRROR at
-RACHEL, framed like a target."|speech|MARK|M
+RACHEL, framed like a target."|speech|MARK|M|True
 236|MARK|"(low to himself)
 Bitch. I'll show you funny.
 ON RACHEL -- watching them go.
 Seconds later, a SHERIFF'S CRUISER pulls up.
-26."|speech|MARK|M
+26."|speech|MARK|M|True
 237|KELTON|"Hi.
 He holds out Lisa's PHOTO STUB. RACHEL takes it, sees the
-name, her eyes widen."|speech|KELTON|M
-238||EXT. A HILL - NIGHT|location||
+name, her eyes widen."|speech|KELTON|M|True
+238||EXT. A HILL - NIGHT|location|||
 239|KELTON|"A star-filled sky hangs above the town's makeout spot, a hill
 overlooking Bergen. MARK and CHUCK stand outside a car
 sipping beers. JESSE's CAR, a blue G.T.Â©, is several yards
 away, with foggy windows.
 WITHIN JESSE'S CAR
 The backseat. JESSE's on top of TRACY. He pulls away from
-her. She pulls her top down, sits up."|speech|KELTON|M
-240|JESSE|I'm sorry, it's not you. its me.|speech|JESSE|F
+her. She pulls her top down, sits up."|speech|KELTON|M|True
+240|JESSE|I'm sorry, it's not you. its me.|speech|JESSE|F|True
 241|TRACY|"It's okay. You should save your
 energy for the game anyway.
 JESSE opens the door, stands outside, tucking in his shirt.
 MARK and CHUCK make a crude humping gesture to JESSE. He
 hesitates, then nods at them.
 MARK pulls out the SCOREBOARD and enters JESSE's name with
-TRACY's and the number 10."|speech|TRACY|F
+TRACY's and the number 10."|speech|TRACY|F|True
 242|MARK|"He shoots, he scores.
 ON TRACY -- in the front seat, using the rearview to adjust
 her makeup, pleased with what she sees. She glances at JESSE
-as he re-enters on the driver's side."|speech|MARK|M
-243|TRACY|What are you thinking about?|speech|TRACY|F
-244|JESSE|Nobody.|speech|JESSE|F
-245|TRACY|I asked what, not who.|speech|TRACY|F
-246|JESSE|Oh. Nothing.|speech|JESSE|F
+as he re-enters on the driver's side."|speech|MARK|M|True
+243|TRACY|What are you thinking about?|speech|TRACY|F|True
+244|JESSE|Nobody.|speech|JESSE|F|True
+245|TRACY|I asked what, not who.|speech|TRACY|F|True
+246|JESSE|Oh. Nothing.|speech|JESSE|F|True
 247|"(PAUSE)
-(MORE)"|27.|speech||
+(MORE)"|27.|speech|||
 248|JESSE (CONT'D)|"Doesn't it bother you that a girl
-offed herself today?"|speech|JESSE|F
-249|TRACY|Why? She wasn't anybody.|speech|TRACY|F
-250|JESSE|What?|speech|JESSE|F
-251|TRACY|I mean, I didn't know her.|speech|TRACY|F
+offed herself today?"|speech|JESSE|F|True
+249|TRACY|Why? She wasn't anybody.|speech|TRACY|F|True
+250|JESSE|What?|speech|JESSE|F|True
+251|TRACY|I mean, I didn't know her.|speech|TRACY|F|True
 252|(SMILES)|"You know, I still don't have a date to
 Mark's party Friday. Hint, hint.
 She leans over and nibbles on JESSE's ear. He pulls away,
-forces a smile and turns the ignition."|speech||
-253||INT. RACHEL'S KITCHEN - NIGHT|location||
+forces a smile and turns the ignition."|speech|||
+253||INT. RACHEL'S KITCHEN - NIGHT|location|||
 254|(SMILES)|"SMASH as a dish drops onto the floor. RACHEL is at the sink,
 doing dishes. She crouches to retrieve the broken plate.
 WE PAN along the chorus line of dishes, glasses, and
@@ -813,34 +813,34 @@ dancing. Pots and pans on a hanging rack start rattling.
 A RUMBLE as more dishes and utensils vibrate and rattle, as
 if by a paranormal force.
 But as RACHEL casually straightens up and looks out the
-window, it's revealed it's only..."|speech||
-255||EXT. RACHEL' S HOUSE - NIGHT|location||
+window, it's revealed it's only..."|speech|||
+255||EXT. RACHEL' S HOUSE - NIGHT|location|||
 256|(SMILES)|"BOYD driving a large SEMI-TRUCK pulling alongside the tiny
-house. Its engine shuts off..,"|speech||
-257|THE KITCHEN|.and the spoons and dishes stop vibrating.|speech|THE KITCHEN|F
+house. Its engine shuts off..,"|speech|||
+257|THE KITCHEN|.and the spoons and dishes stop vibrating.|speech|THE KITCHEN|F|
 258|RACHEL|"(singsong, to herself)
 Daddy's home.
 She walks to her bedroom and closes the door.
-28."|speech|RACHEL|F
-259||EXT. THE HOUSE - NIGHT|location||
+28."|speech|RACHEL|F|True
+259||EXT. THE HOUSE - NIGHT|location|||
 260|RACHEL|"BOYD goes to shut the open fence and WALTER, the basset
-hound, scurries past him and into the street."|speech|RACHEL|F
-261|BOYD|Come back here, mutt.|speech|BOYD|F
+hound, scurries past him and into the street."|speech|RACHEL|F|True
+261|BOYD|Come back here, mutt.|speech|BOYD|F|True
 262|(WHISTLES LOUDLY)|"Aw, good riddance.
-And he closes the gate."|speech||
-263||INT. RACHEL'S BEDROOM - NIGHT|location||
+And he closes the gate."|speech|||
+263||INT. RACHEL'S BEDROOM - NIGHT|location|||
 264|(WHISTLES LOUDLY)|"RACHEL lays in bed, staring at the ceiling. BOYD knocks on
 her door.
 BOYD (0.S.)
-Your dog got out. Better get'im."|speech||
-265||INT. JESSE'S CAR - NIGHT|location||
+Your dog got out. Better get'im."|speech|||
+265||INT. JESSE'S CAR - NIGHT|location|||
 266|(WHISTLES LOUDLY)|"JESSE's driving alone, wiping Tracy's lipstick from his
-cheek."|speech||
-267||EXT. THE STREET -NIGHT|location||
+cheek."|speech|||
+267||EXT. THE STREET -NIGHT|location|||
 268|(WHISTLES LOUDLY)|"'s in her overcoat over her longjohns. She looks down
 the road and blanches as she sees WALTER trotting towards...
 The road in front of him, a two-lane blacktop with CARS and
-TRUCKS streaming by at high speed."|speech||
+TRUCKS streaming by at high speed."|speech|||
 269|RACHEL|"Walter!
 And she breaks into a run. WALTER looks back, starts
 running, this is all fun for him.
@@ -849,170 +849,170 @@ The high, piercing SQUEAL of a wounded animal.
 In the road, WALTER, laying flat, keening in pain.
 She runs to him and in one continuous motion SCOOPS him into
 her arms.
-RACHEL, in the middle of the two lanes. She turns as.__"|speech|RACHEL|F
+RACHEL, in the middle of the two lanes. She turns as.__"|speech|RACHEL|F|True
 270|HEADLIGHTS|"approach, fast.
 29.
 She stumbles under the dog's weight, tries flagging down a
-car."|speech|HEADLIGHTS|M
+car."|speech|HEADLIGHTS|M|
 271|RACHEL|"Help me! Please!
-It speeds past, dangerously close. Another set of LIGHTS."|speech|RACHEL|F
+It speeds past, dangerously close. Another set of LIGHTS."|speech|RACHEL|F|True
 272|RACHEL|"Stop! Please, stop!
 But the CAR passes, blaring its horn. She spins,around.
-is bearing down on her. She holds her ground."|speech|RACHEL|F
+is bearing down on her. She holds her ground."|speech|RACHEL|F|True
 273|RACHEL|"THE CAR'S WINDSHIELD -- CRACKS, crazes, as if it hit with a
 sharp, fierce projectile.
 THE CAR -- lays down rubber as it screeches to a halt.
 JESSE is at the wheel. Sees through the crazed windshield:
 RACHEL, splattered with dog's blood.
 He gets out, stares at his'windshield, shaken-up, groping for
-some explanation."|speech|RACHEL|F
+some explanation."|speech|RACHEL|F|True
 274|JESSE|"Damn. What... damn.
-RACHEL staggers up to him, holding a shivering mass of fur."|speech|JESSE|F
+RACHEL staggers up to him, holding a shivering mass of fur."|speech|JESSE|F|True
 275|"RACHEL
 PLEASE--
 JESSE"|"Oh, my god.
 . JESSE'S CAR - NIGHT
-JESSE driving. RACHEL sits next to him, hugging the dog."|speech|RACHELPLEASE--JESSE|?
+JESSE driving. RACHEL sits next to him, hugging the dog."|speech|RACHELPLEASE--JESSE|?|
 276|RACHEL|"It's my fault. He should have been in
-bed with me."|speech|RACHEL|F
+bed with me."|speech|RACHEL|F|True
 277|JESSE|"Everything's gonna be all right.
 His voice is not entirely convincing.
 30.
 Through the spidered windshield: The car's headlights pierce
-the night."|speech|JESSE|F
-278||INT. THE VET'S PET CLINIC - NIGHT|location||
+the night."|speech|JESSE|F|True
+278||INT. THE VET'S PET CLINIC - NIGHT|location|||
 279|JESSE|"A craftsman bungalow which serves as a vet's hospital. The
 only light is over a FEMALE VET in her bathrobe, tending to
 WALTER on a shiny examining table. There are runnels on both
 sides of the table, for the blood.
-RACHEL and JESSE stand nearby."|speech|JESSE|F
+RACHEL and JESSE stand nearby."|speech|JESSE|F|True
 280|RACHEL|"His name's Walter. will he be
 all right?
 The VET's intensely focused on inserting an I.V. into the
-dog."|speech|RACHEL|F
-281|VET|You two had best wait outside.|speech|VET|F
+dog."|speech|RACHEL|F|True
+281|VET|You two had best wait outside.|speech|VET|F|True
 282|JESSE|"Let's go. Best thing's to let her
 do her work.
 JESSE gently guides RACHEL away, who keeps looking back at
 her dog.
 THE WAITING ROOM - NIGHT
 RACHEL and JESSE on a couch in the darkened room. She's
-rocking herself, caked with blood. He tries to comfort her."|speech|JESSE|F
+rocking herself, caked with blood. He tries to comfort her."|speech|JESSE|F|True
 283|JESSE|"Your dog's gonna be okay.
-She nods, unconvinced."|speech|JESSE|F
+She nods, unconvinced."|speech|JESSE|F|True
 284|JESSE|"God, I almost roadkilled you.
 Are you sure you're all right?
 She nods. They hear a muffled, ""pmt"", from the VET in the
-examining room. JESSE tries to take RACHEL's mind off it."|speech|JESSE|F
+examining room. JESSE tries to take RACHEL's mind off it."|speech|JESSE|F|True
 285|JESSE|"That tattoo on your arm, its pretty.
-Hurt a lot when you got it?"|speech|JESSE|F
+Hurt a lot when you got it?"|speech|JESSE|F|True
 286|RACHEL|"some.
-31."|speech|RACHEL|F
-287|JESSE|Yeah?|speech|JESSE|F
+31."|speech|RACHEL|F|True
+287|JESSE|Yeah?|speech|JESSE|F|True
 288|RACHEL|"But it's... you know, like the song
 says, you hurt yourself to see if
-you can still feel."|speech|RACHEL|F
-289|(BEAT)|I'm sorry.|speech||
-290|JESSE|For what?|speech|JESSE|F
-291|RACHEL|For making you--|speech|RACHEL|F
-292|JESSE|No problem. Glad to help, you know.|speech|JESSE|F
+you can still feel."|speech|RACHEL|F|True
+289|(BEAT)|I'm sorry.|speech|||
+290|JESSE|For what?|speech|JESSE|F|True
+291|RACHEL|For making you--|speech|RACHEL|F|True
+292|JESSE|No problem. Glad to help, you know.|speech|JESSE|F|True
 293|RACHEL|"And I'm sorry about your windshield,
-about your car."|speech|RACHEL|F
+about your car."|speech|RACHEL|F|True
 294|JESSE|"How bizarre was that,, huh? Anyway,
-wasn't your fault."|speech|JESSE|F
+wasn't your fault."|speech|JESSE|F|True
 295|RACHEL|"You can be sorry for things that
 aren't your fault.
 The VET enters, drying her hands. RACHEL sits up, bracing
 herself for the bad news. JESSE puts an arm around her seat
-back, getting ready to hold her."|speech|RACHEL|F
+back, getting ready to hold her."|speech|RACHEL|F|True
 296|VET|"Walter's banged up pretty bad, lost
 quite a bit of blood, but he's gonna
-make it."|speech|VET|F
-297|RACHEL|Can I see him?|speech|RACHEL|F
+make it."|speech|VET|F|True
+297|RACHEL|Can I see him?|speech|RACHEL|F|True
 298|VET|"Come back tomorrow, any time after
-eight."|speech|VET|F
-299||EXT. HOUSE OF BREAKFAST - NIGHT|location||
+eight."|speech|VET|F|True
+299||EXT. HOUSE OF BREAKFAST - NIGHT|location|||
 300|VET|"Your typical I.H.O.P. JESSE's CAR is parked in the lot.
-32."|speech|VET|F
-301||INT. BATHROOM, HOUSE OF BREAKFAST - NIGHT|location||
+32."|speech|VET|F|True
+301||INT. BATHROOM, HOUSE OF BREAKFAST - NIGHT|location|||
 302|VET|"RACHEL's at the sink, washing the dog's blood from her arms.
-A WOMAN walks in, sees her. Looks alarmed."|speech|VET|F
-303||INT. HOUSE OF BREAKFAST - NIGi4T|location||
+A WOMAN walks in, sees her. Looks alarmed."|speech|VET|F|True
+303||INT. HOUSE OF BREAKFAST - NIGi4T|location|||
 304|VET|"As RACHEL moves through the restaurant, THREE PATRONS stare,
 stare, stare at the blood stains on her coat.
-She slides into a booth with JESSE. He's eating eggs."|speech|VET|F
+She slides into a booth with JESSE. He's eating eggs."|speech|VET|F|True
 305|JESSE|"Better. You don't look like a mass-
 murderer now.
 She smiles, sips a coffee. A country song comes on the
-jukebox."|speech|JESSE|F
+jukebox."|speech|JESSE|F|True
 306|JESSE|"Wow, this music. Guess we should just
-count ourselves lucky it ain't Hanson."|speech|JESSE|F
+count ourselves lucky it ain't Hanson."|speech|JESSE|F|True
 307|RACHEL|"(a weak smile)
-Lisa hLUd them."|speech|RACHEL|F
+Lisa hLUd them."|speech|RACHEL|F|True
 308|JESSE|"She was a friend of yours?
-She nods."|speech|JESSE|F
-309|JESSE|really sorry.|speech|JESSE|F
+She nods."|speech|JESSE|F|True
+309|JESSE|really sorry.|speech|JESSE|F|True
 310|RACHEL|"Sometimes I'd see someone, from
 behind, and I'd know, I'd just know,
 it was Lisa. And then she'd turn
 ound, and it wasn't. But sometimes,
-you know, it was. And now..."|speech|RACHEL|F
+you know, it was. And now..."|speech|RACHEL|F|True
 311|(PAUSES)|"Whenever I see someone who looks like
 her, and she turns around...
 it won't be... ever.
-They both go quiet, not knowing what to say."|speech||
+They both go quiet, not knowing what to say."|speech|||
 312|JESSE|"(looks at his latch)
 Wow. It's late. ""ve got football
-practice tomorrow."|speech|JESSE|F
+practice tomorrow."|speech|JESSE|F|True
 313|"3
-RACHEL"|I know. I hope I didn't ru;.n|speech|3RACHEL|?
+RACHEL"|I know. I hope I didn't ru;.n|speech|3RACHEL|?|
 314|JESSE|"No, if it wasn't for you I wouldn't
-have had this nutritious medl,"|speech|JESSE|F
-315|RACHEL|You're very polite, for a jock.|speech|RACHEL|F
+have had this nutritious medl,"|speech|JESSE|F|True
+315|RACHEL|You're very polite, for a jock.|speech|RACHEL|F|True
 316|JESSE|"The compliments, they just keep on
 comin'.
-He drops some money on the table."|speech|JESSE|F
-317|RACHEL|I don't have any--|speech|RACHEL|F
+He drops some money on the table."|speech|JESSE|F|True
+317|RACHEL|I don't have any--|speech|RACHEL|F|True
 318|JESSE|"'s cool, I got it. Can I give you a
 Et home or something?
-I can walk"|speech|JESSE|F
-319|JESSE|Yeah, right.|speech|JESSE|F
-320|RACHEL|Or hitchhike.|speech|RACHEL|F
-321|JESSE|Right.|speech|JESSE|F
+I can walk"|speech|JESSE|F|True
+319|JESSE|Yeah, right.|speech|JESSE|F|True
+320|RACHEL|Or hitchhike.|speech|RACHEL|F|True
+321|JESSE|Right.|speech|JESSE|F|True
 322|"RACHEL
-(SMILES)"|or I could wait for my limo,|speech|RACHEL|F
+(SMILES)"|or I could wait for my limo,|speech|RACHEL|F|True
 323|"JESSE
 (SMILES)"|"You could. You could just wait fo
-that limo."|speech|JESSE|F
-324||INT. JESSE'S CAR - NIGHT|location||
+that limo."|speech|JESSE|F|True
+324||INT. JESSE'S CAR - NIGHT|location|||
 325|"JESSE
 (SMILES)"|"his engine.
-He pulls up in front of RACHEL's house and kills"|speech|JESSE|F
+He pulls up in front of RACHEL's house and kills"|speech|JESSE|F|True
 326|"JESSE
 WEL
 RACHEL"|"Thank you. For everything.
-34."|speech|JESSEWELRACHEL|?
+34."|speech|JESSEWELRACHEL|?|
 327|JESSE|"I guess I'll see you in school
-tomorrow?"|speech|JESSE|F
-328|RACHEL|Sure.|speech|RACHEL|F
-329|JESSE|You'll let me know how Walter's doing?|speech|JESSE|F
-330|RACHEL|Yeah.|speech|RACHEL|F
+tomorrow?"|speech|JESSE|F|True
+328|RACHEL|Sure.|speech|RACHEL|F|True
+329|JESSE|You'll let me know how Walter's doing?|speech|JESSE|F|True
+330|RACHEL|Yeah.|speech|RACHEL|F|True
 331|JESSE|"Good night.
 He extends his hand. She takes it.
 3i2!
 The SHOCK of static electricity. Their words are
-simultaneous."|speech|JESSE|F
-332|RACHEL|Dry weather.|speech|RACHEL|F
+simultaneous."|speech|JESSE|F|True
+332|RACHEL|Dry weather.|speech|RACHEL|F|True
 333|JESSE|"Acrylic sweater.
 They both laugh. Then go quiet. Then just stare at each
 other. Then the moment is gone.
 RACHEL gets out of the car, through the gate, back inside her
 house. JESSE watches her go. Starts his engine, and his car
-WIPES THE FRAME TO:"|speech|JESSE|F
-334||EXT. SCHOOL PARKING LOT - DAY|location||
+WIPES THE FRAME TO:"|speech|JESSE|F|True
+334||EXT. SCHOOL PARKING LOT - DAY|location|||
 335|JESSE|"RACHEL crossing the lot. Her HEARTBEAT can be heard. She
 looks up, sees LISA approaching the roof's edge. RACHEL's
-heart sounds like its bursting from her chest."|speech|JESSE|F
+heart sounds like its bursting from her chest."|speech|JESSE|F|True
 336|RACHEL|"Lisa don't! Somebody stop her! Stop!
 SLOW MOTION -- LISA falls through the air towards the car,
 arms outstretched, hair trailing like black flames.
@@ -1023,102 +1023,102 @@ SLAM CUT TO:
 NT. RACHEL'S BEDROOM - NIGHT
 RACHEL's eyes pop open as her body jerks awake, heart,
 pounding. She looks around, realizes where she is.
-FADE TO BLACK:"|speech|RACHEL|F
+FADE TO BLACK:"|speech|RACHEL|F|True
 337|A SUPER:|"T U E S D
 Under which is heard:
 KELTON (V.O.)
 ""For a moment, I thought someone was
 actually seeing me. But it was all a
-lie..."""|speech|A SUPER:|?
-338||INT. GUIDANCE OFFICE - DAY|location||
+lie..."""|speech|A SUPER:|?|
+338||INT. GUIDANCE OFFICE - DAY|location|||
 339|A SUPER:|"SHERIFF KELTON is reading from a photocopy of Lisa's
-SUE and RACHEL sit-,in chairs."|speech|A SUPER:|?
+SUE and RACHEL sit-,in chairs."|speech|A SUPER:|?|
 340|KELTON|"""Eric lied when he said I was special.
 And I guess I was lying to myself when
 I believed him.""
-He folds the note."|speech|KELTON|M
+He folds the note."|speech|KELTON|M|True
 341|SUE|"Rachel, is there anything in there
 that strikes a chord for you? Do you
-know what Lisa was referring to?"|speech|SUE|M
+know what Lisa was referring to?"|speech|SUE|M|True
 342|RACHEL|"(after a moment)
 Yesterday morning, she told me she'd,
 uh, lost her virginity.
-KELTON looks at SUE, produces the photo of LISA with ERIC."|speech|RACHEL|F
-343|KELTON|You recognize this boy?|speech|KELTON|M
+KELTON looks at SUE, produces the photo of LISA with ERIC."|speech|RACHEL|F|True
+343|KELTON|You recognize this boy?|speech|KELTON|M|True
 344|RACHEL|"Sure. Eric Stark. He's on the team.
 KELTON gestures to SUE and they step out into...
-36."|speech|RACHEL|F
-345|THE HALLWAY|"with another ""Heat Carlin!"" banner in the background."|speech|THE HALLWAY|?
-346|KELTON|What do you think?|speech|KELTON|M
+36."|speech|RACHEL|F|True
+345|THE HALLWAY|"with another ""Heat Carlin!"" banner in the background."|speech|THE HALLWAY|?|
+346|KELTON|What do you think?|speech|KELTON|M|True
 347|SUE|"Robbie, I had a Freshman crying in the
 hall last week. I couldn't get
 anything out of her, but her friend
 told me a football player slept with
-her, then dumped her."|speech|SUE|M
+her, then dumped her."|speech|SUE|M|True
 348|KELTON|"Nothing illegal about breaking a
-girl's heart."|speech|KELTON|M
+girl's heart."|speech|KELTON|M|True
 349|SUE|"Eric's 18. Lisa was 15. That's
-statutory rape."|speech|SUE|M
-350|KELTON|That's a stretch.|speech|KELTON|M
+statutory rape."|speech|SUE|M|True
+350|KELTON|That's a stretch.|speech|KELTON|M|True
 351|SUE|"Then let's make it. I don't know
 what's going on around here, but if
 that's what it takes to stop it, let's
 stop it, before someone else's
-daughter kills herself."|speech|SUE|M
-352|KELTON|All right. I'll look into it.|speech|KELTON|M
-353|THE OFFICE|SUE sits behind her desk, with RACHEL before her.|speech|THE OFFICE|F
-354|SUE|How are you feeling?|speech|SUE|M
+daughter kills herself."|speech|SUE|M|True
+352|KELTON|All right. I'll look into it.|speech|KELTON|M|True
+353|THE OFFICE|SUE sits behind her desk, with RACHEL before her.|speech|THE OFFICE|F|
+354|SUE|How are you feeling?|speech|SUE|M|True
 355|RACHEL|"okay. Fine. Can I go no
-SUE opens a file on her desk."|speech|RACHEL|F
+SUE opens a file on her desk."|speech|RACHEL|F|True
 356|SUE|"I was looking at chic last night.
-it says here your mom's in Arkham."|speech|SUE|M
+it says here your mom's in Arkham."|speech|SUE|M|True
 357|(BEAT)|"How's your mom doing?
-37."|speech||
-358|RACHEL|She's gonna be fine.|speech|RACHEL|F
+37."|speech|||
+358|RACHEL|She's gonna be fine.|speech|RACHEL|F|True
 359|SUE|"I spent some time up there.
 As a patient.
-RACHEL looks surprised."|speech|SUE|M
-360|SUE|Does that surprise you?|speech|SUE|M
+RACHEL looks surprised."|speech|SUE|M|True
+360|SUE|Does that surprise you?|speech|SUE|M|True
 361|RACHEL|"I guess. I mean, you seem pretty
-normal."|speech|RACHEL|F
+normal."|speech|RACHEL|F|True
 362|SUE|"Thanks. i try. You visit your moat
-often?"|speech|SUE|M
-363|SUE|Is that scary for you?|speech|SUE|M
-364|RACHEL|Why?|speech|RACHEL|F
+often?"|speech|SUE|M|True
+363|SUE|Is that scary for you?|speech|SUE|M|True
+364|RACHEL|Why?|speech|RACHEL|F|True
 365|SUE|"Well, children of schizophrenics
 sometimes live with the fear of it
 happening to them. At your age,
 it's perfectly normal to be afraid
-of turning out like your parents."|speech|SUE|M
+of turning out like your parents."|speech|SUE|M|True
 366|RACHEL|"Normal, huh? Get real, I know I'm
 ten times more likely to get it
-than most people."|speech|RACHEL|F
+than most people."|speech|RACHEL|F|True
 367|SUE|"You're right. I'm sorry. So.
 You've been in a series of foster
-homes since you were, what, four?"|speech|SUE|M
+homes since you were, what, four?"|speech|SUE|M|True
 368|"RACHEL N
-SUE"|How's your foster family?|speech|RACHEL NSUE|?
-369|RACHEL|They're happy, - 'z-rig as they get|speech|RACHEL|F
-370||their check every month.|stage direction||
-371|RACHEL|38.|speech|RACHEL|F
-372|SUE|What about your real father?|speech|SUE|M
+SUE"|How's your foster family?|speech|RACHEL NSUE|?|
+369|RACHEL|They're happy, - 'z-rig as they get|speech|RACHEL|F|True
+370||their check every month.|stage direction|||
+371|RACHEL|38.|speech|RACHEL|F|True
+372|SUE|What about your real father?|speech|SUE|M|True
 373|RACHEL|"Never met the gentleman. My mom
 won't even tell me his name.
 RACHEL stares at a ceramic MUG of coffee, very close o the
-edge of the desk."|speech|RACHEL|F
+edge of the desk."|speech|RACHEL|F|True
 374|SUE|"Rachel, in a way, you've lost your
 mother. And now you've lost a friend.
 Losing someone can be a very lonely,
-painful place to be."|speech|SUE|M
+painful place to be."|speech|SUE|M|True
 375|"RACHEL
 (QUIETLY)"|"You're right, I.lost my mom, I lost my,
 friend, the people who cared about me.
-But you only get paid to care."|speech|RACHEL|F
+But you only get paid to care."|speech|RACHEL|F|True
 376|SUE|"I really do care. How can I show you
 that I do?
-RACHEL is silent, staring at the MUG."|speech|SUE|M
+RACHEL is silent, staring at the MUG."|speech|SUE|M|True
 377|SUE|"Rachel?
-But RACHEL's shut off, pushing down a storm of emotions."|speech|SUE|M
+But RACHEL's shut off, pushing down a storm of emotions."|speech|SUE|M|True
 378|SUE|"You know, this room is a place where
 if you have feelings, you can talk
 about them. You can let them out.
@@ -1126,77 +1126,77 @@ RACHEL shifts. SUE sees RACHEL's forearm near the coffee
 MUG. And, as if by proximity alone, it EDGES off the end of
 the desk --
 And FALLS --
-RACHEL catches it in one smooth motion just before it hits."|speech|SUE|M
+RACHEL catches it in one smooth motion just before it hits."|speech|SUE|M|True
 379|RACHEL|"sorry. I must've knocked it.
-SUE, the color draining from her face."|speech|RACHEL|F
+SUE, the color draining from her face."|speech|RACHEL|F|True
 380|SUE|"I didn't... see you knock it.
 39.
 The DOOR swings open and the PRINCIPAL walks in, lays a
-computer printout on her desk."|speech|SUE|M
+computer printout on her desk."|speech|SUE|M|True
 381|PRINCIPAL|"Sue, could you update the absentee
-lists, see who we have to call?"|speech|PRINCIPAL|F
+lists, see who we have to call?"|speech|PRINCIPAL|F|True
 382|"SUE
 (DAZED)"|"ure... sure.
 She turns, and RACHEL is gone.
 NT. SCHOOL HALLWAY - DAY
 ERIC is at his locker, wearing his BULLDOG letter jacket. He
 closes his locker to find RACHEL approaching him,
-intimidated, but determined. She looks him in the eyes."|speech|SUE|M
+intimidated, but determined. She looks him in the eyes."|speech|SUE|M|True
 383|"RACHEL
 (LOW)"|"know. I know what you did.
 A chill goes through him. Not saying a word, he turns, walks
 through the crowd, looks back.
-She's still rooted, staring him down."|speech|RACHEL|F
-384||EXT. FREAK HALL - LUNCH|location||
+She's still rooted, staring him down."|speech|RACHEL|F|True
+384||EXT. FREAK HALL - LUNCH|location|||
 385|"RACHEL
 (LOW)"|"ARNIE plays hackey-sack behind RACHEL, who sits on the steps.
 She looks up, sees a BULLDOG letter jacket standing over her.
-It's JESSE."|speech|RACHEL|F
-386|JESSE|Hi. How's Walter?|speech|JESSE|F
+It's JESSE."|speech|RACHEL|F|True
+386|JESSE|Hi. How's Walter?|speech|JESSE|F|True
 387|"RACHEL
 (COLD)"|"Good. I'm picking him up today. Why
 aren't you hanging out with your
-friends over there?"|speech|RACHEL|F
+friends over there?"|speech|RACHEL|F|True
 388|"JESSE
 (TAKEN ABACK)"|"What's up? What's wrong?
-She sees the hurt look in his eyes and softens."|speech|JESSE|F
+She sees the hurt look in his eyes and softens."|speech|JESSE|F|True
 389|RACHEL|"What do you wane from me?
-40."|speech|RACHEL|F
+40."|speech|RACHEL|F|True
 390|JESSE|"I just wanted to, you know, see
 how you're doing.
 Over his shoulder she can see the stir his presence aC Freak
 Hall is causing among...
 THE PATIO GIRLS
 MONICA taps TRACY on the shoulder, who's checking her makeup
-in a compact mirror."|speech|JESSE|F
+in a compact mirror."|speech|JESSE|F|True
 391|MONICA|"Look at Jesse, talking to a burnout.
-TRACY turns, slips on a stylish pair of DKNY glasses."|speech|MONICA|F
+TRACY turns, slips on a stylish pair of DKNY glasses."|speech|MONICA|F|True
 392|TRACY|"She's not very good in daylight is
 she? wonder where she keeps her
-coffin."|speech|TRACY|F
+coffin."|speech|TRACY|F|True
 393|"BACK ON:
-JESSE"|So you'll meet me tonight, at the|speech|BACK ON:JESSE|?
+JESSE"|So you'll meet me tonight, at the|speech|BACK ON:JESSE|?|
 394|"PIZZA PLACE--
-RACHEL"|--yeah. Okay.|speech|PIZZA PLACE--RACHEL|?
+RACHEL"|--yeah. Okay.|speech|PIZZA PLACE--RACHEL|?|
 395|JESSE|"(smiles, as he backs away)
 Okay. See you. Tonight.
 ARNIE sees the Patio Girls glancing at RACHEL. She sits an
-ARNIE nudges her."|speech|JESSE|F
-396|ARNIE|What'd he want?|speech|ARNIE|F
-397|RACHEL|He asked me out.|speech|RACHEL|F
-398|ARNIE|What'd you say?|speech|ARNIE|F
-399|RACHEL|"I said, ""Okay, its your funeral."""|speech|RACHEL|F
+ARNIE nudges her."|speech|JESSE|F|True
+396|ARNIE|What'd he want?|speech|ARNIE|F|True
+397|RACHEL|He asked me out.|speech|RACHEL|F|True
+398|ARNIE|What'd you say?|speech|ARNIE|F|True
+399|RACHEL|"I said, ""Okay, its your funeral."""|speech|RACHEL|F|True
 400|ARNIE|"Pardon me, but is hanging out with
-jockboy such a hot idea? I mean,"|speech|ARNIE|F
-401|(MORE)|41.|speech||
+jockboy such a hot idea? I mean,"|speech|ARNIE|F|True
+401|(MORE)|41.|speech|||
 402|ARNIE (CONT'D)|"I heard he's dating Tracy Campbell,
 who is giving you the look of a
 thousand deaths right now.
 RACHEL casually turns to take in TRACY, then turns away. Her
-heart sinks."|speech|ARNIE|F
-403|RACHEL|She's beautiful.|speech|RACHEL|F
-404|ARNIE|Duh.|speech|ARNIE|F
-405||INT. FOOTBALL LOCKER ROOM - DAY|location||
+heart sinks."|speech|ARNIE|F|True
+403|RACHEL|She's beautiful.|speech|RACHEL|F|True
+404|ARNIE|Duh.|speech|ARNIE|F|True
+405||INT. FOOTBALL LOCKER ROOM - DAY|location|||
 406|ARNIE|"CLOSE ON a TV SET showing game highlights of last year's
 Bulldog game against the Carlin Cougars.
 WALSH (O.S.)
@@ -1206,12 +1206,12 @@ tough, physical team. So Friday,
 it's gonna be kill or be killed.
 COACH WALSH, a charmless John Wayne, stands near the TV. The
 BULLDOGS sit on benches before him.
-On the VIDEO -.- MARK misses an easy block. WALSH points."|speech|ARNIE|F
+On the VIDEO -.- MARK misses an easy block. WALSH points."|speech|ARNIE|F|True
 407|WALSH|"Here, we can see mark Sing kissing an
 opposing player good-bye.
 There are hoots of derision from the other PLAYERS. MARK
-nods. ERIC leans into MARK, speaks low."|speech|WALSH|?
-408|ERIC|You didn't get the picture?|speech|ERIC|F
+nods. ERIC leans into MARK, speaks low."|speech|WALSH|?|True
+408|ERIC|You didn't get the picture?|speech|ERIC|F|True
 409|MARK|"Bitch wouldn't give it to me. Stay
 frosty, no one else knows anything.
 It's still at the photomat, I'll
@@ -1222,104 +1222,104 @@ No, sir.
 WALSH (O.S. )
 Excellent. Then you can give me fifty
 when we hit the field.
-42."|speech|MARK|M
-410||EXT. FOOTBALL PRACTICE - DAY|location||
+42."|speech|MARK|M|True
+410||EXT. FOOTBALL PRACTICE - DAY|location|||
 411|MARK|"JESSE and BRAD rest on a bench in their uniforms as MARK an
 ERIC do push-ups. The COACH stands on a blocking sled with
-PLAYERS Pounding into it."|speech|MARK|M
+PLAYERS Pounding into it."|speech|MARK|M|True
 412|WALSH|"C'mon girls, those are love taps!
 (sees Chuck give a weak block)
-Potter, show me you're a dog."|speech|WALSH|?
-413|CHUCK|Aww, coach.|speech|CHUCK|F
+Potter, show me you're a dog."|speech|WALSH|?|True
+413|CHUCK|Aww, coach.|speech|CHUCK|F|True
 414|WALSH|"You know the drill.
 The other PLAYERS begin a BARKING CHANT. CHUCK strips off
 his helmet, jogs to the bench and opens a styrofoam cooler,
-within it are slabs of raw steak on blood soaked ice.."|speech|WALSH|?
+within it are slabs of raw steak on blood soaked ice.."|speech|WALSH|?|True
 415|WALSH|"Show me you're a dog, Potter.
 The barking rises as the PLAYERS psyche up CHUCK, who chews
-off a bite of the raw meat. JESSE whispers to MARK..."|speech|WALSH|?
-416|JESSE|I hate this bullshit.|speech|JESSE|F
+off a bite of the raw meat. JESSE whispers to MARK..."|speech|WALSH|?|True
+416|JESSE|I hate this bullshit.|speech|JESSE|F|True
 417|MARK|"Not me. I love it.
 MARK pops up, grabs a steak, rips off a bite, and runs full
-tilt at the, blocking tackle, smashing into it with meaning."|speech|MARK|M
+tilt at the, blocking tackle, smashing into it with meaning."|speech|MARK|M|True
 418|WALSH|"You're a piece of work, Bing.
 MARK takes a bow as he jogs away, chewing. He spots the
-SHERIFF's CRUISER pulling --p to the practice field."|speech|WALSH|?
-419||INT. A BUS - DAY|location||
+SHERIFF's CRUISER pulling --p to the practice field."|speech|WALSH|?|True
+419||INT. A BUS - DAY|location|||
 420|WALSH|"RACHEL hugs her dog, who 'Looks a mess; hind legs bandaged, a
 funny cone around his head.
 TWO OLD LADIES are staring at RACHEL, unsure if they're more
 appalled by her appearance or the doge.
 WALSH c `1.O . )
 Show me you're dzgs'.
-43."|speech|WALSH|?
-421||EXT. FOOTBALL PRACTICE- LATER|location||
+43."|speech|WALSH|?|True
+421||EXT. FOOTBALL PRACTICE- LATER|location|||
 422|WALSH|"WALSH drill sergeants over MARK and the other PLAYERS as they
 do drills. The CHEERLEADERS run their practice in the'
 background.
 on the sideline, SHERIFF KELTON is talking to ERIC, who's
 sweating bullets as he fiddles with his helmet.
-MARK watches ERIC, so intent he bobbles a ball thrown to him."|speech|WALSH|?
+MARK watches ERIC, so intent he bobbles a ball thrown to him."|speech|WALSH|?|True
 423|KELTON|"So, you're saying you never met or
-talked to Lisa Parker?"|speech|KELTON|M
+talked to Lisa Parker?"|speech|KELTON|M|True
 424|ERIC|"No, sir. Never.
-KELTON produces the photo of LISA and ERIC."|speech|ERIC|F
+KELTON produces the photo of LISA and ERIC."|speech|ERIC|F|True
 425|N|"Eric, who's this you're hanging onto,
 a ghost?
 ERIC blanches.
 MARK watches KELTON leading ERIC away with WALSH.
 KENNEL - DAY
 A pinball machine as MARK plays, applying some body English
-to it. A wired ERIC enters, a bundle of violent energy."|speech|N|F
-426|MARK|What happened?|speech|MARK|M
+to it. A wired ERIC enters, a bundle of violent energy."|speech|N|F|
+426|MARK|What happened?|speech|MARK|M|True
 427|"ERIC
 (ANGRY)"|"Kelton, man, with that sheriff's badge
 he pulled out of a cereal box.
 Somebody told him I did Lisa. He
 nails me with a picture of me and her,
-starts talking statutory rape."|speech|ERIC|F
+starts talking statutory rape."|speech|ERIC|F|True
 428|MARK|"Relax, that's bullshit. Your dad's a
-lawyer, he'll kill that talk dead."|speech|MARK|M
+lawyer, he'll kill that talk dead."|speech|MARK|M|True
 429|ERIC|"So I'm suspended. And Coach, Coach he
 up and does this scene where he says,
 ""give me your helmet.""
-44."|speech|ERIC|F
-430|MARK|What about Carlin?|speech|MARK|M
+44."|speech|ERIC|F|True
+430|MARK|What about Carlin?|speech|MARK|M|True
 431|ERIC|"What about Carlin? Game of the year,
 football scouts are gonna be there and
 I'm gonna be sittin' on the bench with
 my thumb up my...
 (shoves the machine in anger)
 You said you were gonna get the
-pictures."|speech|ERIC|F
+pictures."|speech|ERIC|F|True
 432|MARK|"I tried. That Rachel bitch wouldn't
-give'em to me.."|speech|MARK|M
+give'em to me.."|speech|MARK|M|True
 433|ERIC|"She's the one who put me and Lisa
 together. Shit. what are we gonna
-do, Mark?"|speech|ERIC|F
-434||EXT. HOUSE - NIGHT|location||
+do, Mark?"|speech|ERIC|F|True
+434||EXT. HOUSE - NIGHT|location|||
 435|ERIC|"BRAD and CHUCK are throwing unfurling TOILET PAPER rolls onto
-the trees in front of someone's middle-class house."|speech|ERIC|F
-436|BRAD|Who's place is this, again?|speech|BRAD|M
+the trees in front of someone's middle-class house."|speech|ERIC|F|True
+436|BRAD|Who's place is this, again?|speech|BRAD|M|True
 437|CHUCK|"Nimrod. It's Carlin's quarterback.
-MARK and ERIC pull up in Mark's Mustang convertible."|speech|CHUCK|F
+MARK and ERIC pull up in Mark's Mustang convertible."|speech|CHUCK|F|True
 438|"MARK
 (WHISTLES LOUDLY)"|"Hey, dogs! C'mon, we got a mission.
 BRAD and CHUCK run to MARK's car, jump over and into the back
 as MARK peels out.
 'S BATHROOM - NIGHT
 A HAND WIPES shower steam off a mirror, revealing a wet
-RACHEL, a towel wrapped around her."|speech|MARK|M
+RACHEL, a towel wrapped around her."|speech|MARK|M|True
 439|RACHEL|"jy are going to be late.
 She hears her doorbell go off.
 45.
 THE FRONT DOOR
-as RACHEL opens the door."|speech|RACHEL|F
+as RACHEL opens the door."|speech|RACHEL|F|True
 440|RACHEL|"What'd you forget your--
-There's nobody there."|speech|RACHEL|F
+There's nobody there."|speech|RACHEL|F|True
 441|(WEAKLY)|"--keys?
 She looks around, closes the door, locks it, wraps her towel
-tighter."|speech||
+tighter."|speech|||
 442|LIVING ROOM|"As she crosses back to her room. There's a KNOCKING on the
 kitchen back door. She frowns, goes to the back door, looks
 through the glass. No one there either. Now she's worried.
@@ -1336,17 +1336,17 @@ starts TAPPING.
 RACHEL turns a full circle, scared, surrounded by TAPPING and
 JIGGLING, which grow increasingly loud r.
 She puts her palms against her temples, as if struggling to
-keep something bottled inside:"|speech|LIVING ROOM|F
+keep something bottled inside:"|speech|LIVING ROOM|F|
 443|RACHEL|"Oh, god, oh, god. Not now. Stop
 Suddenly all goes silent. She jumps as...
-The PHONE RINGS near her. She scoops up the cordless. Beat."|speech|RACHEL|F
+The PHONE RINGS near her. She scoops up the cordless. Beat."|speech|RACHEL|F|True
 444|RACHEL|"Hello?
 46.
 There's a long pause on the other end.
-MALE VOICE (V.0.)"|speech|RACHEL|F
+MALE VOICE (V.0.)"|speech|RACHEL|F|True
 445|(FILTERED)|"What's your favorite scary movie?
-JUMP CUT TO :"|speech||
-446||EXT. RACHEL'S HOUSE - NIGHT|location||
+JUMP CUT TO :"|speech|||
+446||EXT. RACHEL'S HOUSE - NIGHT|location|||
 447|(FILTERED)|"MARK on a CELL-PHONE. BRAD starts laughing next to him as
 MARK covers the receiver, gestures to ERIC and CHUCK, who
 scurry around Rachel's house.
@@ -1355,56 +1355,56 @@ Who is this?
 WITHIN THE HOUSE
 sees a SHADOW run past a window.
 MARK (V.O.)
-who is Wig?"|speech||
+who is Wig?"|speech|||
 448|RACHEL|"Knock it off. Is this you, Arnie?
 MARK (V.0)
-Ding, ding, ding. Wrgnq, guess again."|speech|RACHEL|F
+Ding, ding, ding. Wrgnq, guess again."|speech|RACHEL|F|True
 449|RACHEL|"What do you want?
 MARK (V.0.)
 (a menacing pause)
 You.
 The JIGGLING and the TAPPING starts up again, loud. The BOYS
-VOICES are heard outside chanting..."|speech|RACHEL|F
+VOICES are heard outside chanting..."|speech|RACHEL|F|True
 450|BULLDOGS|"Rachel! Rachel! Rachel!
 MARK (V.o.)
 Rachel, come out and play now.
-RACHEL grabs a knife from the kitchen, backs into..."|speech|BULLDOGS|M
+RACHEL grabs a knife from the kitchen, backs into..."|speech|BULLDOGS|M|
 451|HER BEDROOM|"where a bandaged WALTER is on the bed, looking alarmed.
-RACHEL keeps backing up, nearing her open closet door."|speech|HER BEDROOM|F
+RACHEL keeps backing up, nearing her open closet door."|speech|HER BEDROOM|F|
 452|RACHEL|"I'm calling the police.
-She hangs up, dials 911, fumbling with the knife."|speech|RACHEL|F
-453||INT. PIZZA PARLOR - NIGHT|location||
-454||A beer-and-slice emporium. JESSE'S at a payphone, hearing a|stage direction||
-455|UT TO:|bus y sianal on RACHEL Is line. He hangs up.|speech|UT TO:|?
-456||INT. RACHEL'S BEDROOM - NIGHT|location||
+She hangs up, dials 911, fumbling with the knife."|speech|RACHEL|F|True
+453||INT. PIZZA PARLOR - NIGHT|location|||
+454||A beer-and-slice emporium. JESSE'S at a payphone, hearing a|stage direction|||
+455|UT TO:|bus y sianal on RACHEL Is line. He hangs up.|speech|UT TO:|?|
+456||INT. RACHEL'S BEDROOM - NIGHT|location|||
 457|UT TO:|"A horror-movie-moment as RACHEL waits for 911 to pick-up.
 Behind her, a HAND is reaching through the open sash window,
 pulling it up to gain entrance.
-RACHEI."|speech|UT TO:|?
+RACHEI."|speech|UT TO:|?|
 458|(INTO PHONE)|"I have an emergency. Now, right now!
 Yes, 3366 Elm Street...
-She turns, sees the HAND at the window."|speech||
+She turns, sees the HAND at the window."|speech|||
 459|RACHEL|"No!
 The WINDOW SMASHES down on the intruder's HAND. There's a
-muffled YELL outside and the HAND is extracted."|speech|RACHEL|F
-460||EXT. THE HOUSE - NIGHT|location||
+muffled YELL outside and the HAND is extracted."|speech|RACHEL|F|True
+460||EXT. THE HOUSE - NIGHT|location|||
 461|RACHEL|"Headlights light up MARK's face as BOYD and EMILYN's beat-up
 STATION WAGON approaches the house.
 MARK whistles loudly.
 And takes off, joined by ERIC, clutching his injured hand.
-â€¢ SE - NIGHT"|speech|RACHEL|F
-462||RACHEL, still stunned by what just happened. The cordless in|stage direction||
-463|RACHEL|her hand speaks:|speech|RACHEL|F
+â€¢ SE - NIGHT"|speech|RACHEL|F|True
+462||RACHEL, still stunned by what just happened. The cordless in|stage direction|||
+463|RACHEL|her hand speaks:|speech|RACHEL|F|True
 464||"911 OPERATOR (V.O. )
-Hello? Hello, :Ma'am, you still there?"|stage direction||
+Hello? Hello, :Ma'am, you still there?"|stage direction|||
 465|RACHEL|"RACHEL slowly moves to tier bedroom doorway. BOYD comes in
 the front door.
-48."|speech|RACHEL|F
+48."|speech|RACHEL|F|True
 466|"RACHEL
 (INTO PHONE)"|"Yes. It's okay. Things are fine.
 She hangs up as a clueless BOYD takes in her freaked-out
-appearance."|speech|RACHEL|F
-467|BOYD|What's wrong?|speech|BOYD|F
+appearance."|speech|RACHEL|F|True
+467|BOYD|What's wrong?|speech|BOYD|F|True
 468|RACHEL|"Nothing.
 She retreats into her bedroom, looks at the Window. The
 PHONE RINGS in her hand. She answers.
@@ -1414,18 +1414,18 @@ Eric.
 Click and the line goes dead. She hangs up. The PHONE RINGS
 again. She doesn't answer.
 THE LIVING ROOM
-The PHONE RINGS on another extension. EMI, swers."|speech|RACHEL|F
-469|EMILYN|Hello... just a second. Rachel?|speech|EMILYN|F
-470|RACHEL|curled on her bed with WALTER, calls out:|speech|RACHEL|F
-471|RACHEL|I'm not here.|speech|RACHEL|F
-472||INT. PIZZA KING - NIGHT|location||
-473|RACHEL|JESSE at the payphone, sipping a Royal Crown Cola.|speech|RACHEL|F
+The PHONE RINGS on another extension. EMI, swers."|speech|RACHEL|F|True
+469|EMILYN|Hello... just a second. Rachel?|speech|EMILYN|F|
+470|RACHEL|curled on her bed with WALTER, calls out:|speech|RACHEL|F|True
+471|RACHEL|I'm not here.|speech|RACHEL|F|True
+472||INT. PIZZA KING - NIGHT|location|||
+473|RACHEL|JESSE at the payphone, sipping a Royal Crown Cola.|speech|RACHEL|F|True
 474|JESSE|"Okay. Thank you, then.
 He hangs up. Checks his watch. Waits.
 FADE TO BLACK:
-SUPER: WEID NElinA_Y"|speech|JESSE|F
-475|JUMP TO:|49.|speech|JUMP TO:|?
-476||EXT. SCHOOL ENTRANCE - DAY|location||
+SUPER: WEID NElinA_Y"|speech|JESSE|F|True
+475|JUMP TO:|49.|speech|JUMP TO:|?|
+476||EXT. SCHOOL ENTRANCE - DAY|location|||
 477|JUMP TO:|"A SCREAMING DEVIL fills the frame.
 The bed of a speeding PICK-UP TRUCK is jammed with kneeling
 TEENAGE BOYS wearing children's Halloween masks. They're
@@ -1433,217 +1433,217 @@ screaming bloody murder as they fire RAW EGGS at...
 The BERGEN STUDENTS gathered at the entrance.
 The PICK-UP speeds off as STUDENTS recover, straightening up
 from their ducking positions. MARK and his cohorts go
-running after the truck."|speech|JUMP TO:|?
+running after the truck."|speech|JUMP TO:|?|
 478|TRACY|"Carlin creeps!
-At Freak Hall, ARNIE rises, wipes egg yolk from his hair."|speech|TRACY|F
+At Freak Hall, ARNIE rises, wipes egg yolk from his hair."|speech|TRACY|F|True
 479|"ARNIE
 (SLOWLY)"|"Hormonally-charged mo,,,ï¿½r 'â€žns. Why do the
 innocent always get hit in a drive-by?
-RACHEL looks up, sees JESSE approaching. Her eyes flare."|speech|ARNIE|F
+RACHEL looks up, sees JESSE approaching. Her eyes flare."|speech|ARNIE|F|True
 480|JESSE|"Hey, what happened to you last night?
-I waited."|speech|JESSE|F
-481|RACHEL|You tell me what happened last night.|speech|RACHEL|F
+I waited."|speech|JESSE|F|True
+481|RACHEL|You tell me what happened last night.|speech|RACHEL|F|True
 482|JESSE|"What?
 ON RACHEL and JESSE as she tells him what happened last
 night. He gets more and more agitated.
 TRACY is wearing her glasses as she and MONICA watch JESSE
-from the Patio."|speech|JESSE|F
+from the Patio."|speech|JESSE|F|True
 483|TRACY|"What is wrong with this movie:
-does he see in her?"|speech|TRACY|F
+does he see in her?"|speech|TRACY|F|True
 484|MONICA|"Come on Trace, you're caviar, she's
 cheeze whiz. He'll come around. He's
 just letting little Jesse do the
 thinking for big Jesse.
-BACK TO -- A pissed-off JESSE."|speech|MONICA|F
+BACK TO -- A pissed-off JESSE."|speech|MONICA|F|True
 485|"5
 JESSE"|"Okay, don't worry, I'll talk to Mark,
-I'll take care of it"|speech|5JESSE|?
+I'll take care of it"|speech|5JESSE|?|
 486|"RACHEL
 (FRUSTRATED)"|"No, don't... maybe all this isn't such
-a good idea."|speech|RACHEL|F
-487|JESSE|All what?|speech|JESSE|F
+a good idea."|speech|RACHEL|F|True
+487|JESSE|All what?|speech|JESSE|F|True
 488|RACHEL|"I mean, guys like you are supposed to
-date girls like Tracy."|speech|RACHEL|F
+date girls like Tracy."|speech|RACHEL|F|True
 489|JESSE|"I'm picking you up tonight. We're
 gonna have a nice, mellow date.
 RACHEL stands, silent, torn. The BELL RINGS, everybody
-starts filing in.. She moves, he smiles, blocks her way."|speech|JESSE|F
+starts filing in.. She moves, he smiles, blocks her way."|speech|JESSE|F|True
 490|JESSE|"I'm not going anywhere till you
-say yes."|speech|JESSE|F
+say yes."|speech|JESSE|F|True
 491|RACHEL|"(looks away, looks back, smiles)
 All right. Okay.
 (he doesn't move a muscle)
 Yes.
 JESSE lets her pass, with a chivalrous after-you sweep of his
 hand, then falls in next to her. RACHEL'S arm is grabbed
-by..."|speech|RACHEL|F
-492|S|May I speak with you a second?|speech|S|F
-493||INT. GUIDANCE OFFICE - DAY|location||
+by..."|speech|RACHEL|F|True
+492|S|May I speak with you a second?|speech|S|F|
+493||INT. GUIDANCE OFFICE - DAY|location|||
 494|S|"RACHEL crossing and uncrossing her legs, it's the last place
 she wants to be. She idly plays with the forest SNOW DOME.
 SUE doesn't look so comfortable herself. She's holding a
-stack of index cards."|speech|S|F
+stack of index cards."|speech|S|F|
 495|RACHEL|"What are those, tonight's Top-Ten
-list?"|speech|RACHEL|F
+list?"|speech|RACHEL|F|True
 496|"5
 SUE"|"These are just an exercise that will
-let me know how to help you better."|speech|5SUE|?
-497|RACHEL|You're wasting your time.|speech|RACHEL|F
+let me know how to help you better."|speech|5SUE|?|
+497|RACHEL|You're wasting your time.|speech|RACHEL|F|True
 498|SUE|"Just answer true or false to these
 statements.
 (reads the top card)
 ""There's a man inside the television
-set who tells me what to do."""|speech|SUE|M
-499|RACHEL|False. I don't see the point-|speech|RACHEL|F
+set who tells me what to do."""|speech|SUE|M|True
+499|RACHEL|False. I don't see the point-|speech|RACHEL|F|True
 500|SUE|"""Sometimes my thoughts assume the form
-of a giant insect."""|speech|SUE|M
-501|RACHEL|This ddesn't make any sense.|speech|RACHEL|F
+of a giant insect."""|speech|SUE|M|True
+501|RACHEL|This ddesn't make any sense.|speech|RACHEL|F|True
 502|SUE|"Answer true or false and this won't
-take all day. Again: ""Sometimes my"|speech|SUE|M
+take all day. Again: ""Sometimes my"|speech|SUE|M|True
 503|"THOUGHTS--
 RACHEL"|"False.
-She sets down the SNOW DOME."|speech|THOUGHTS--RACHEL|?
+She sets down the SNOW DOME."|speech|THOUGHTS--RACHEL|?|
 504|SUE|"""If you want to play the piano well,
-you have to practice."""|speech|SUE|M
-505|RACHEL|True.|speech|RACHEL|F
-506|SUE|"""I can see sounds and hear colors."""|speech|SUE|M
-507|RACHEL|False.|speech|RACHEL|F
+you have to practice."""|speech|SUE|M|True
+505|RACHEL|True.|speech|RACHEL|F|True
+506|SUE|"""I can see sounds and hear colors."""|speech|SUE|M|True
+507|RACHEL|False.|speech|RACHEL|F|True
 508|SUE|"""Large furry animals crawl on my face
-every night while I sleep."""|speech|SUE|M
+every night while I sleep."""|speech|SUE|M|True
 509|RACHEL|"True.
 52.
-SUE looks up, surprised."|speech|RACHEL|F
+SUE looks up, surprised."|speech|RACHEL|F|True
 510|RACHEL|"I have a dog.
 SUE nods, watches RACHEL closely as she takes her time with
-this one, not reading off a card."|speech|RACHEL|F
+this one, not reading off a card."|speech|RACHEL|F|True
 511|SUE|"Sometimes I can move things with my
 thoughts.
 Beat. RACHEL stares at her, a million thoughts racing.
 Another beat.
 The only sound is the clock ticking on SUE's desk. RACHEL
-grabs her backpack and stands."|speech|SUE|M
+grabs her backpack and stands."|speech|SUE|M|True
 512|"RACHEL
 FUCK THIS--
-SUE"|Honey, sit down. I just want to hel|speech|RACHELFUCK THIS--SUE|?
+SUE"|Honey, sit down. I just want to hel|speech|RACHELFUCK THIS--SUE|?|
 513|"YOU--
 RACHEL"|"--and fuck you. You're not my mother!
-RACHEL turns to go. SUE jumps up, grabs her arm, and..."|speech|YOU--RACHEL|?
+RACHEL turns to go. SUE jumps up, grabs her arm, and..."|speech|YOU--RACHEL|?|
 514|THE S|"on the desk EXP DES, splattering water and white flecks all
 over the desktop. RACHEL looks at it.
 SUE stares at it, her worse fears coming true.
 As RACBZL flies out the door.
 EBT. FOOTBALL PRACTICE - CAY
 WALSH sees JESSE get tackled, then help up the teammate who
-tackled him."|speech|THE S|F
+tackled him."|speech|THE S|F|
 515|WALSH|"What was that? 'hat are you, Miss
 Manners? Show me you're a dog, Ryan.
 JESSE looks at the styrofoam cooler on the bench.
 A few of the nearby PLAYERS begin their barking chant.
-53."|speech|WALSH|?
-516|JESSE|Can't, Coach.|speech|JESSE|F
+53."|speech|WALSH|?|True
+516|JESSE|Can't, Coach.|speech|JESSE|F|True
 517|WALSH|"Say what?
-The barking trails off. The other boys are stunned."|speech|WALSH|?
-518|BRAD|Oh, shit.|speech|BRAD|M
+The barking trails off. The other boys are stunned."|speech|WALSH|?|True
+518|BRAD|Oh, shit.|speech|BRAD|M|True
 519|JESSE|"Well, I'm not a dog today, Coach,
-I'm a vegetarian."|speech|JESSE|F
+I'm a vegetarian."|speech|JESSE|F|True
 520|WALSH|"Since when? Don't give me that.
-Show me you're a dog, Ryan."|speech|WALSH|?
-521|JESSE|Sorry, Coach. No can do.|speech|JESSE|F
+Show me you're a dog, Ryan."|speech|WALSH|?|True
+521|JESSE|Sorry, Coach. No can do.|speech|JESSE|F|True
 522|Â€¢ WALSH|"Your attitude sucks. Hit the showers.
 Get outta my sight.
 JESSE doffs his helmet, jogs to the bench. He douses his
-head with water, sits there, looking angry."|speech|Â€¢ WALSH|?
-523||INT. LOCKER ROOM -|location||
+head with water, sits there, looking angry."|speech|Â€¢ WALSH|?|
+523||INT. LOCKER ROOM -|location|||
 524|Â€¢ WALSH|"PLAYERS goof around, snap towels at each other. Clanking
 steel and grunts from the boys at the weight machines.
 LOCKER ROOM SHOWERS
 The mist in a shower, through which are glimpses of a lean
 male figure with rippling stomach muscles. It's JESSE. MARK
-and BRAD enter the showers."|speech|Â€¢ WALSH|?
+and BRAD enter the showers."|speech|Â€¢ WALSH|?|
 525|"BRAD
 (TO JESSE)"|"Yo, lover boy, whatsa matter? Didn't
-ya nut that tattoo chick yet?"|speech|BRAD|M
+ya nut that tattoo chick yet?"|speech|BRAD|M|True
 526|MARK|"Brad, how many points he gonna get for
-straightening a dyke?"|speech|MARK|M
+straightening a dyke?"|speech|MARK|M|True
 527|BRAD|"Twenty, no, thirty.
 They fingertip high-five each other.
-54."|speech|BRAD|M
+54."|speech|BRAD|M|True
 528|BRAD|"Jess, you score the skank yet?
-JESSE just glares at him, walks away."|speech|BRAD|M
-529|MARK|What's with him?|speech|MARK|M
+JESSE just glares at him, walks away."|speech|BRAD|M|True
+529|MARK|What's with him?|speech|MARK|M|True
 530|BRAD|"Must be that time of the month.
 THE LOCKER ROOM
 JESSE finishes dressing between the lockers. MARK, wearing a
-towel, approaches him."|speech|BRAD|M
-531|MARK|Jess, what's the matter?|speech|MARK|M
+towel, approaches him."|speech|BRAD|M|True
+531|MARK|Jess, what's the matter?|speech|MARK|M|True
 532|JESSE|"You. What's with the stunt you pulled
-last night?"|speech|JESSE|F
+last night?"|speech|JESSE|F|True
 533|MARK|"What? Papering McCabe's house?
-I asked you if you--"|speech|MARK|M
-534|JESSE|What you did at Rachel's.|speech|JESSE|F
+I asked you if you--"|speech|MARK|M|True
+534|JESSE|What you did at Rachel's.|speech|JESSE|F|True
 535|MARK|"what? We were just sendin' her
 a message.
-JESSE slams his locker closed."|speech|MARK|M
-536|JESSE|Tell me, I'll pass it on.|speech|JESSE|F
+JESSE slams his locker closed."|speech|MARK|M|True
+536|JESSE|Tell me, I'll pass it on.|speech|JESSE|F|True
 537|MARK|"Look, man. She's getting Eric in all
 kinds a shit. I mean, if he gets
-charged with rape, there goes any"|speech|MARK|M
+charged with rape, there goes any"|speech|MARK|M|True
 538|"CHANCE OF--
 JESSE"|"Screw Eric, he's a big boy. He made
 his own decisions, he's gotta live
 with 'em. And stay away from Rachel,
 or deal with me.
-55."|speech|CHANCE OF--JESSE|?
+55."|speech|CHANCE OF--JESSE|?|
 539|MARK|"What are you getting bent for? She's
 just a burnout, a slut--
 BANG as JESSE shoves MARK against a locker. MARK shoves him
-back. The rest of the PLAYERS in the background go quiet."|speech|MARK|M
+back. The rest of the PLAYERS in the background go quiet."|speech|MARK|M|True
 540|JESSE|"(low, intense)
 Don't call her a skank, don't call
-her a slut."|speech|JESSE|F
-541|MARK|What's wrong with you?|speech|MARK|M
+her a slut."|speech|JESSE|F|True
+541|MARK|What's wrong with you?|speech|MARK|M|True
 542|JESSE|"We screw with girls, use them, because
-it makes us feel like big men--"|speech|JESSE|F
+it makes us feel like big men--"|speech|JESSE|F|True
 543|MARK|"Get to the bad part.
 ' - JESSE
-I'm tired. I'm tired of all of it."|speech|MARK|M
+I'm tired. I'm tired of all of it."|speech|MARK|M|True
 544|MARK|"What are you talking about? We're
-friends, we're all friends."|speech|MARK|M
+friends, we're all friends."|speech|MARK|M|True
 545|JESSE|"No. We just grew up together.
 And he walks away. On MARK. Pissed. He sees JESSE left his
-letter jacket behind, hanging on the locker."|speech|JESSE|F
-546||INT. ARKHAM STATE MENTAL HOSPITAL - DAY|location||
+letter jacket behind, hanging on the locker."|speech|JESSE|F|True
+546||INT. ARKHAM STATE MENTAL HOSPITAL - DAY|location|||
 547|JESSE|"CLOSE ON GRAFFITI reading:
 KIng of heLL
 RACHEL is looking at it, while she waits to be buzzed in.
 The capped letters read: KILL.
 THE VISITING AREA
 where RACHEL sits with BARBARA, holding her hand. There are
-occasional MOANS and SHOUTS from other PATIENTS."|speech|JESSE|F
+occasional MOANS and SHOUTS from other PATIENTS."|speech|JESSE|F|True
 548|B|"Baby? Rachel? What's wrong?
-56."|speech|B|F
+56."|speech|B|F|
 549|RACHEL|"Mama, what was it like? WhEn you
 started to... when things went bad.
-What did it feel like, what did you see?"|speech|RACHEL|F
-550|B|h, honey, why do you want to--|speech|B|F
+What did it feel like, what did you see?"|speech|RACHEL|F|True
+550|B|h, honey, why do you want to--|speech|B|F|
 551|RACHEL|"Did you see things move by themselves?
-Please, mama. I have to know."|speech|RACHEL|F
+Please, mama. I have to know."|speech|RACHEL|F|True
 552|BARBARA|"(thinks, then)
 Well, first, I thought I saw the devil
 in your eyes. Then I started to see
 people's faces looking... deformed,
 like they'd had plastic surgery, or the
-bones were moving under their skin."|speech|BARBARA|F
+bones were moving under their skin."|speech|BARBARA|F|True
 553|(LAUGHS)|"For a while, I thought I had this bi
 snake wrapped around my neck, and I
 couldn't'talk, or it would try to go
 down my mouth.
 sits, thinking.
-BARBARA looks at her in confusion for a long beat."|speech||
+BARBARA looks at her in confusion for a long beat."|speech|||
 554|BARBARA|"There is something different about
 you. Baby, are you all right?
 Yeah. Yes. Everything's fine.
-Everything's gonna be all right."|speech|BARBARA|F
+Everything's gonna be all right."|speech|BARBARA|F|True
 555|HOSPITAL HALLWAY|"A BUZZ and as RACHEL leaves, she smiles at.
 sitting on the couch. BARBARA shifts slightly, looks at a
 CHROME CHAIR across from her.
@@ -1652,13 +1652,13 @@ A LARGE SNAKE is coiled around her neck.
 She closes her eyes. opens them. And the SNAKE is gone.
 57.
 There's the high, mechanical wssshh sound of film sliding
-through a gate on the--"|speech|HOSPITAL HALLWAY|?
-556||INT. PUBLIC LIBRARY - DAY|location||
+through a gate on the--"|speech|HOSPITAL HALLWAY|?|
+556||INT. PUBLIC LIBRARY - DAY|location|||
 557|CUT TO:|"A MICROFILM MACHINE as IMAGES STREAM past its screen.' Black
 and white, abstract, poignant, fleeting, with newspaper text,
 scratches and magnified pieces of dust.
 SUE (V.O.)
-July. June. May."|speech|CUT TO:|?
+July. June. May."|speech|CUT TO:|?|True
 558|HER FACE|"is illuminated from below by the view screen. And now:
 She stops on a NEWSPAPER front page:
 CHAMBERLAIN RECORDER. May,-1976.
@@ -1669,101 +1669,101 @@ people.
 The text below the photo states that ga1nh White is the
 ,father of Carrie White.
 ON SUE --
-staring. Totally absorbed."|speech|HER FACE|F
-559|A HAND|grabs her forearm. SUE jerks. Looks up.|speech|A HAND|F
-560|LIBRARY MATRON|The library is closing.|speech|LIBRARY MATRON|?
-561||EXT. HALL OF RECORDS - DAY|location||
+staring. Totally absorbed."|speech|HER FACE|F|
+559|A HAND|grabs her forearm. SUE jerks. Looks up.|speech|A HAND|F|
+560|LIBRARY MATRON|The library is closing.|speech|LIBRARY MATRON|?|
+561||EXT. HALL OF RECORDS - DAY|location|||
 562|LIBRARY MATRON|"SUE SNELL walks up the steps of a nondescript municipal
-building."|speech|LIBRARY MATRON|?
-563||INT. HALL OF RECORDS - DAY|location||
+building."|speech|LIBRARY MATRON|?|
+563||INT. HALL OF RECORDS - DAY|location|||
 564|LIBRARY MATRON|"SUE SNELL at the files. She pulls up:
 An aging photocopy, white :,n black o
 59.
 Rachel Ann Lang's BI CERTIFICATE.
 She scans the certificate finds:
-MOTHER: Barbara Elizabeth Lang."|speech|LIBRARY MATRON|?
+MOTHER: Barbara Elizabeth Lang."|speech|LIBRARY MATRON|?|
 565|"FATHER: WN
-S"|(under her breath)|speech|FATHER: WNS|?
-566||EXT. ARKHAII STATE MENTAL HOSPITAL - DAY|location||
+S"|(under her breath)|speech|FATHER: WNS|?|
+566||EXT. ARKHAII STATE MENTAL HOSPITAL - DAY|location|||
 567|UNKNO|"SUE'S red VOLVO sits before the entrance to the hospital.
 SUE looks at HER EYES in the rearview mirror, takes a deep
-breathe to summon her courage."|speech|UNKNO|?
+breathe to summon her courage."|speech|UNKNO|?|
 568|"SUE
 (WHISPERS)"|"You can do this.
-She gets out of her car, holding a box of chocolates."|speech|SUE|M
-569||INT. HOSPITAL CORRIDOR - DAY|location||
+She gets out of her car, holding a box of chocolates."|speech|SUE|M|True
+569||INT. HOSPITAL CORRIDOR - DAY|location|||
 570|"SUE
 (WHISPERS)"|"SUE strides up to the reinforced door. The sudden BUZZ o
 the lock seems to cut through her. She hesitates, then
 pushes in to...
 THE VISITING AREA
-.and approaches the NURSES STATION."|speech|SUE|M
-571|SUE|I'm here to see Barbara Lang.|speech|SUE|M
+.and approaches the NURSES STATION."|speech|SUE|M|True
+571|SUE|I'm here to see Barbara Lang.|speech|SUE|M|True
 572|NURSE|"Stay here, I'll get her.
 SUE looks around. This place holds a lot of bad memories.
 DOCTOR NELSON, SO's, an overworked-underpaid psychiatrist
-approaches with a smiling MALE PATIENT."|speech|NURSE|?
-573|DOCTOR|Suzy? Suzy Snell?|speech|DOCTOR|?
+approaches with a smiling MALE PATIENT."|speech|NURSE|?|
+573|DOCTOR|Suzy? Suzy Snell?|speech|DOCTOR|?|True
 574|SUE|"Hello, Doctor Nelson.
-59."|speech|SUE|M
+59."|speech|SUE|M|True
 575|DOCTOR|"Suzy Snell, one of my rare success
-stories. What brings you back?"|speech|DOCTOR|?
+stories. What brings you back?"|speech|DOCTOR|?|True
 576|SUE|"I'm visiting the mother of one of
-my students."|speech|SUE|M
+my students."|speech|SUE|M|True
 577|DOCTOR|"I heard about the good work you're
 doing at the high school.
 The PATIENT turns and softly starts thudding his forehead
 against the wall. The DOCTOR casually pulls him away before
-he can harm himself."|speech|DOCTOR|?
+he can harm himself."|speech|DOCTOR|?|True
 578|R|"Excuse me, Sue.
 (towing the Patient)
 Come see me after. I'd like to hear
-how you're doing."|speech|R|F
-579||INT. THE VISITING'AREA - DAY|location||
+how you're doing."|speech|R|F|
+579||INT. THE VISITING'AREA - DAY|location|||
 580|R|"SUE sits before BARBARA, who's picking her way though the
-chocolates. The MOANS of PATIENTS seem to rattle S"|speech|R|F
+chocolates. The MOANS of PATIENTS seem to rattle S"|speech|R|F|
 581|BARBARA|"Thank you for the chocolates.
-Thoughtful of you."|speech|BARBARA|F
+Thoughtful of you."|speech|BARBARA|F|True
 582|"S
 AT)"|"Mrs. Lang, why didn't you ever tell
 Rachel who her father was?
 BARBAR.
 Wasn't important.
 Why was it important for her not
-to know?"|speech||
+to know?"|speech|||
 583|BARBARA|"Why would she need to?
-Hrs. Lang, I need to know who he was."|speech|BARBARA|F
+Hrs. Lang, I need to know who he was."|speech|BARBARA|F|True
 584|BARBARA|"sorry, that's private.
-60."|speech|BARBARA|F
+60."|speech|BARBARA|F|True
 585|SUE|"Mrs. Lang, it's important that I know
-his name."|speech|SUE|M
+his name."|speech|SUE|M|True
 586|BARBARA|"I really don't see how that's any of
-your business."|speech|BARBARA|F
+your business."|speech|BARBARA|F|True
 587|SUE|"I promise you, I'll keep the
 information in the strictest
 confidence.
-BARBARA just looks at her, chewing."|speech|SUE|M
+BARBARA just looks at her, chewing."|speech|SUE|M|True
 588|SUE|"I'm just trying to help Rachel. She
 seems very troubled and I'm worried
-about her."|speech|SUE|M
+about her."|speech|SUE|M|True
 589|"BARBARA
-(LAUGHS)"|You're worried? Very worried|speech|BARBARA|F
-590|SUE|I am. Yes.|speech|SUE|M
-591|BARBARA|You don't have children, do you, miss?|speech|BARBARA|F
+(LAUGHS)"|You're worried? Very worried|speech|BARBARA|F|True
+590|SUE|I am. Yes.|speech|SUE|M|True
+591|BARBARA|You don't have children, do you, miss?|speech|BARBARA|F|True
 592|SUE|"No. No I don't.
 BARBARA laughs. almost hysterically. SUE's thrown. BARBARA
-regains herself, then, with tremendous conviction..."|speech|SUE|M
+regains herself, then, with tremendous conviction..."|speech|SUE|M|True
 593|BARBARA|"Then you don't kzgx. You will never
 ever know, how terrifying children
 can be.
-SUE, frustrated, it's like punching water with this wo"|speech|BARBARA|F
-594|SUE|Rachel needs my help. She...|speech|SUE|M
+SUE, frustrated, it's like punching water with this wo"|speech|BARBARA|F|True
+594|SUE|Rachel needs my help. She...|speech|SUE|M|True
 595|(DESPERATELY GROPING)|"She has a... a disease, a genetic
 disorder I think her father passed on
 to her. I need to know so I can help
 her. Who was her father, Mrs. Lang?
 es SUE, then goes quiet, lost in her memories.
-61."|speech||
+61."|speech|||
 596|"BARBARA
 (SMILES)"|"I did tell Rachel how I met him. He
 said it was love at first sight.
@@ -1782,9 +1782,9 @@ around here aren't too fond of Carrie
 White, for what she did. I didn't
 want her having to grow up with that.
 His name was Ralph. Ralph White.
-SUEgoes cold."|speech|BARBARA|F
-597|SUE|So they are half-sisters.|speech|SUE|M
-598||EXT. MINIATURE GOLF COURSE - NIGHT|location||
+SUEgoes cold."|speech|BARBARA|F|True
+597|SUE|So they are half-sisters.|speech|SUE|M|True
+598||EXT. MINIATURE GOLF COURSE - NIGHT|location|||
 599|SUE|"A castle, a windmill, and yards of worn astroturf. One of
 those places you go for fun if you're young and the city's
 too far away.
@@ -1794,134 +1794,134 @@ laughing.
 -- A tricky par-four hole, featuring a dogleg and a slope to
 the cup. RACHEL hits the ball. And it rolls a hole-in-one.
 -- She leaps in the air with joy. Behind her, JESSE feigns
-dropping dead."|speech|SUE|M
-600||EXT. MONARCH MOTORS - NIGHT|location||
+dropping dead."|speech|SUE|M|True
+600||EXT. MONARCH MOTORS - NIGHT|location|||
 601|SUE|"A sign reads: MONARCH MOTORS, below it are a row of USED
 CARS for sale, hoods open, like circus animals begging for
 peanuts.
 JESSE (V.O.)
 That's my dad's dealership. Y
 all that will be mine.
-62."|speech|SUE|M
-602||EXT. WITHIN JESSE'S CAR - NIGHT|location||
+62."|speech|SUE|M|True
+602||EXT. WITHIN JESSE'S CAR - NIGHT|location|||
 603|SUE|"JESSE driving. RACHEL has her hand on the big HURST
 stickshift between the two bucket seats. He accelerates and
-RACHEL expertly shifts the gear."|speech|SUE|M
-604|JESSE|You are good. I'm impressed.|speech|JESSE|F
+RACHEL expertly shifts the gear."|speech|SUE|M|True
+604|JESSE|You are good. I'm impressed.|speech|JESSE|F|True
 605|RACHEL|"My foster-dad taught me on his semi
-truck. Where we going?"|speech|RACHEL|F
-606||EXT. THE HILL - NIGHT|location||
+truck. Where we going?"|speech|RACHEL|F|True
+606||EXT. THE HILL - NIGHT|location|||
 607|RACHEL|"The twinkling lights of Bergen below. Stars above. RACH
 and JESSE lay on the hood of his car, leaning against the
-windshield."|speech|RACHEL|F
+windshield."|speech|RACHEL|F|True
 608|JESSE|"Before he sold cars, my dad wanted to
 write this book: One Hundred Senators
 Pick Their Favorite Restaurants.' So,
-he wrote, to all of them."|speech|JESSE|F
-609|RACHEL|All of them?|speech|RACHEL|F
+he wrote, to all of them."|speech|JESSE|F|True
+609|RACHEL|All of them?|speech|RACHEL|F|True
 610|JESSE|"Dear Senator So-and-so, I am writing
-a book."|speech|JESSE|F
-611|RACHEL|Anybody answer?|speech|RACHEL|F
+a book."|speech|JESSE|F|True
+611|RACHEL|Anybody answer?|speech|RACHEL|F|True
 612|JESSE|"Yes. No. Sort of.
-She laughs."|speech|JESSE|F
+She laughs."|speech|JESSE|F|True
 613|JESSE|"He got two letters back. one was a
 form letter which said, 'Thank you
-for your support.'"|speech|JESSE|F
-614|RACHEL|And the other?|speech|RACHEL|F
-615|JESSE|The other was from Hubert Humphrey.|speech|JESSE|F
+for your support.'"|speech|JESSE|F|True
+614|RACHEL|And the other?|speech|RACHEL|F|True
+615|JESSE|The other was from Hubert Humphrey.|speech|JESSE|F|True
 616|RACHEL|"Who?
-63."|speech|RACHEL|F
+63."|speech|RACHEL|F|True
 617|JESSE|"He was the vice-President once.
 He wrote back a three page letter,
 raving about a place called Wally's
-Burger Hut. My dad was knocked-out."|speech|JESSE|F
+Burger Hut. My dad was knocked-out."|speech|JESSE|F|True
 618|RACHEL|"So your dad wrote a book, color me
-impressed."|speech|RACHEL|F
+impressed."|speech|RACHEL|F|True
 619|JESSE|"He never wrote it. Or he was going
 to, and then my sister was born, and
 then I was born. And there was this
 car dealership, and it was security.
 So your dad wanted to be a writer.
 How'd his kid end up being this sweaty
-armpit jock?"|speech|JESSE|F
+armpit jock?"|speech|JESSE|F|True
 620|"JESSE
 (BEAT)"|"Sometimes when they throw me the ball,
 it feels like time just slows down.
 And I know where to be and how to get
 there. When I have that feeling I
-catch it. Always. Every time."|speech|JESSE|F
-621|RACHEL|And you like that.|speech|RACHEL|F
+catch it. Always. Every time."|speech|JESSE|F|True
+621|RACHEL|And you like that.|speech|RACHEL|F|True
 622|JESSE|"Yeah, I love it. Except. My dad.
 He's got my life all mapped out. He
-wants me to take over the business."|speech|JESSE|F
+wants me to take over the business."|speech|JESSE|F|True
 623|RACHEL|"What's wrong with that? Sounds like a
-nice life."|speech|RACHEL|F
+nice life."|speech|RACHEL|F|True
 624|JESSE|"Selling used cars is not what I want.
 And, unless I nail that football
-scholarship,' that's what I'll get."|speech|JESSE|F
+scholarship,' that's what I'll get."|speech|JESSE|F|True
 625|(EXHALES)|"Wow. I can't believe I'm telling you
 all this. I've never said any of this
 out loud to anyone before.
 (takes a long look at her)
 Must be great not having to be like
 anyone else.
-64."|speech||
+64."|speech|||
 626|RACHEL|"It's not so great. Sometimes I wish I
 could just be one of the shiny, happy
-people. Does that surprise you?"|speech|RACHEL|F
+people. Does that surprise you?"|speech|RACHEL|F|True
 627|JESSE|"Everything about you surprises me.
 There's the soft pops of rain hitting the car as it begins to
 drizzle, then it comes down hard.
 WITHIN THE CAR
 RACHEL and JESSE are in front, facing each other, leaning
-against the doors as rain streams against the windows."|speech|JESSE|F
+against the doors as rain streams against the windows."|speech|JESSE|F|True
 628|"RACHEL
 (SITS FORWARD)"|"I used to know this guy, could suck a
 strand of spaghetti through his mouth
 and out his nose. He called it Brain
 Flossing.
-JESSE smiles."|speech|RACHEL|F
+JESSE smiles."|speech|RACHEL|F|True
 629|RACHEL|"He had a talent. You. You got
 football. It'll get you outta this
 place. You can make your own path
-after that. Write your own book."|speech|RACHEL|F
+after that. Write your own book."|speech|RACHEL|F|True
 630|JESSE|"Yeah? Want to come with me?
 She smiles. He leans forward. And she pulls away-, afraid,
-then decides to let him. They kiss. Then she pulls away."|speech|JESSE|F
-631|JESSE|What?|speech|JESSE|F
+then decides to let him. They kiss. Then she pulls away."|speech|JESSE|F|True
+631|JESSE|What?|speech|JESSE|F|True
 632|HEL|"This...
-She indicates the gear shift."|speech|HEL|F
+She indicates the gear shift."|speech|HEL|F|
 633|HEL|"is poking me right in the ribs.
-JE55E's eyes flicker to the back seat."|speech|HEL|F
+JE55E's eyes flicker to the back seat."|speech|HEL|F|
 634|RACHEL|"Um, I don't know how to say this.
-65."|speech|RACHEL|F
-635|JESSE|Yeah?|speech|JESSE|F
-636|RACHEL|But I've never...|speech|RACHEL|F
-637|JESSE|Oh.|speech|JESSE|F
+65."|speech|RACHEL|F|True
+635|JESSE|Yeah?|speech|JESSE|F|True
+636|RACHEL|But I've never...|speech|RACHEL|F|True
+637|JESSE|Oh.|speech|JESSE|F|True
 638|RACHEL|"And, I'd want it to be special. Like
 you ring the doorbell, with flowers
-in your hand."|speech|RACHEL|F
+in your hand."|speech|RACHEL|F|True
 639|JESSE|"Right. So... what's your favorite
-flower?"|speech|JESSE|F
+flower?"|speech|JESSE|F|True
 640|"RACHEL
-(SMILES)"|Daisies.|speech|RACHEL|F
-641||EXT. RACHEL'S HOUSE - NIGHT|location||
+(SMILES)"|Daisies.|speech|RACHEL|F|True
+641||EXT. RACHEL'S HOUSE - NIGHT|location|||
 642|"RACHEL
 (SMILES)"|"in his car. The street's wet, but it's stopped raining.
-RACHEL gives him a quick kiss goodnight."|speech|RACHEL|F
+RACHEL gives him a quick kiss goodnight."|speech|RACHEL|F|True
 643|"RACHEL
 SEE YOU--
 JESSE"|"--later.
-She pulls away, exits, closes the door for the--"|speech|RACHELSEE YOU--JESSE|?
-644||INT. RACHEL'S BEDROOM - NIGHT|location||
-645|CUT TO:|RASE sleeps fitfully, tangled in her sheets.|speech|CUT TO:|?
-646||EXT. THE WOODS - NIGHT|location||
+She pulls away, exits, closes the door for the--"|speech|RACHELSEE YOU--JESSE|?|
+644||INT. RACHEL'S BEDROOM - NIGHT|location|||
+645|CUT TO:|RASE sleeps fitfully, tangled in her sheets.|speech|CUT TO:|?|True
+646||EXT. THE WOODS - NIGHT|location|||
 647|DISSOLVE TO:|"A massive GOTHIC BED sits incongruously in a clearing.
 RACHEL AND JESSE
 are making love. She's on top, her hands on his chest.
 Their glistening bodies catch the light of a RING OF FLAMES
 bursting around the bed.
-66."|speech|DISSOLVE TO:|?
+66."|speech|DISSOLVE TO:|?|
 648|RACHEL'S HANDS|"suddenly sink into the flesh of JESSE's chest.
 She SCREAMS as she tries to extract them,. but strips of his
 flesh stick to her like flypaper.
@@ -1932,28 +1932,28 @@ Her mouth presses into his as their faces merge.
 The ring of fire leaps inward, consuming the bed.
 FADE TO WHITE:
 SUPER IN BLACK:
-T H U R S D A Y"|speech|RACHEL'S HANDS|?
-649||EXT. FREAK HALL - MORNING|location||
-650|FADE IN:|RACHEL sits, lost in thought. JESSE nears. She stands up.|speech|FADE IN:|?
-651|JESSE|So, you're coming to the game, right?|speech|JESSE|F
-652|RACHEL|I don't really get football.|speech|RACHEL|F
-653|JESSE|C'mon. I need you, for good luck.|speech|JESSE|F
-654|RACHEL|All right. I'll be there.|speech|RACHEL|F
+T H U R S D A Y"|speech|RACHEL'S HANDS|?|
+649||EXT. FREAK HALL - MORNING|location|||
+650|FADE IN:|RACHEL sits, lost in thought. JESSE nears. She stands up.|speech|FADE IN:|?|
+651|JESSE|So, you're coming to the game, right?|speech|JESSE|F|True
+652|RACHEL|I don't really get football.|speech|RACHEL|F|True
+653|JESSE|C'mon. I need you, for good luck.|speech|JESSE|F|True
+654|RACHEL|All right. I'll be there.|speech|RACHEL|F|True
 655|JESSE|"Good. I have practice today, but I
-can pick you up later, seven thirty?"|speech|JESSE|F
+can pick you up later, seven thirty?"|speech|JESSE|F|True
 656|RACHEL|"Sure, go practice. Go be great.
-Live the life you want."|speech|RACHEL|F
+Live the life you want."|speech|RACHEL|F|True
 657|JESSE|"What kind of life do you want?
-67."|speech|JESSE|F
+67."|speech|JESSE|F|True
 658|"RACHEL
 (PLAYFUL)"|"I don't know. I have a hard time
-picturing it."|speech|RACHEL|F
-659|JESSE|Well if you can't, I'll do it for you.|speech|JESSE|F
-660|RACHEL|What do you mean?|speech|RACHEL|F
-661|JESSE|I will predict your future.|speech|JESSE|F
-662|RACHEL|Uh-huh. Can I get a hint?|speech|RACHEL|F
+picturing it."|speech|RACHEL|F|True
+659|JESSE|Well if you can't, I'll do it for you.|speech|JESSE|F|True
+660|RACHEL|What do you mean?|speech|RACHEL|F|True
+661|JESSE|I will predict your future.|speech|JESSE|F|True
+662|RACHEL|Uh-huh. Can I get a hint?|speech|RACHEL|F|True
 663|JESSE|"'m in it.
-ON THE PATIO -- are TRACY, MARK and MONICA, watching the."|speech|JESSE|F
+ON THE PATIO -- are TRACY, MARK and MONICA, watching the."|speech|JESSE|F|True
 664|TRACY|"If he's gonna do it, you know, be seen
 talking in public with someone else,
 he should show some respect.
@@ -1962,50 +1962,50 @@ He should show me the respect, at
 least, to be seen with someone pretty.
 Someone cool. Someone who counts.
 Amy or you, you know, ate.
-Instead, it's Its. And I feel..."|speech|TRACY|F
-665|MONICA|Disrespected?|speech|MONICA|F
+Instead, it's Its. And I feel..."|speech|TRACY|F|True
+665|MONICA|Disrespected?|speech|MONICA|F|True
 666|TRACY|"That's right. I wish there was
 something I could do to make him come
 to his senses.
 On MARK's face, a slow, insidious grin that seems to spread
-into eternity appears."|speech|TRACY|F
-667|TRACY|What?|speech|TRACY|F
+into eternity appears."|speech|TRACY|F|True
+667|TRACY|What?|speech|TRACY|F|True
 668|MARK|"Let's nail the bitch. Plan
 a way to screw her like she's
 screwing us.
 .TRACY, a wicked smile as she nods.
-68."|speech|MARK|M
-669||INT. CLASSROOM - DAY|location||
+68."|speech|MARK|M|True
+669||INT. CLASSROOM - DAY|location|||
 670|MARK|"RACHEL watches SUE at the door, speaking to her TEACHER.
-SUE points to RACHEL, who looks less than thrilled."|speech|MARK|M
-671||EXT. PARKING LOT - DAY|location||
+SUE points to RACHEL, who looks less than thrilled."|speech|MARK|M|True
+671||EXT. PARKING LOT - DAY|location|||
 672|MARK|"A dark smudge is spread on the empty parking space where LISA
 died. No one parks there anymore.
 SUE is escorting RACHEL to her VOLVO.
 RACHEL (V.0.)
 Where are you taking me?
 SUE (V.0.)
-There's something you have to see."|speech|MARK|M
-673||EXT. THE WOODS - DAY|location||
+There's something you have to see."|speech|MARK|M|True
+673||EXT. THE WOODS - DAY|location|||
 674|MARK|"A DREAM-LIKE GLIDE past SUE's VOLVO, parked on the roadside,
 and through the trees.
 SUE (V.0.)
 This used to be the school for the
 whole district. Chamberlain High.
 It was closed down in 1976.
-FAST DISSOLVE TO:"|speech|MARK|M
-675||EXT. THE OLD GYM - DAY|location||
+FAST DISSOLVE TO:"|speech|MARK|M|True
+675||EXT. THE OLD GYM - DAY|location|||
 676|MARK|"A burned-out hulk, shrouded in mist.
 SUE (V.0.)
 There was a fire here that year.
 The night of the prom. Seventy-three
-people died. A few of us survived."|speech|MARK|M
-677||INT. THE DESTROYED GYM - DAY|location||
+people died. A few of us survived."|speech|MARK|M|True
+677||INT. THE DESTROYED GYM - DAY|location|||
 678|MARK|"Dark; full of exposed wires, metal rods and pipes, countless
 empty beer cans. Two mattresses are laid out amid the
 debris.
 SUE stands on a pile of rubble, next to RACHEL. There's a
-haunted look on SUE's face."|speech|MARK|M
+haunted look on SUE's face."|speech|MARK|M|True
 679|FLASH TO:|"69.
 GYM - PROM NIGHT, 1976 (STOCK)
 STROBING IMAGES of CARRIE WHITE, drenched in pig's blood.
@@ -2015,172 +2015,172 @@ A fire rages behind CARRIE as she steps off a platform, turns
 and looks at us with the face of an avenging angel.
 BACK TO.
 THE DESTROYED GYM,
-present day, as SUE flinches."|speech|FLASH TO:|?
+present day, as SUE flinches."|speech|FLASH TO:|?|
 680|SUE|"I haven't really been here in over
 twenty years. But it feels like I've
-been back here every day since."|speech|SUE|M
+been back here every day since."|speech|SUE|M|True
 681|RACHEL|"Happy homecoming. Can we go? This
-place is spooky. Gives me the creeps."|speech|RACHEL|F
-682|SUE|Do you know what happened here?|speech|SUE|M
-683|RACHEL|You just said. A fire.|speech|RACHEL|F
-684|SUE|What caused it?|speech|SUE|M
+place is spooky. Gives me the creeps."|speech|RACHEL|F|True
+682|SUE|Do you know what happened here?|speech|SUE|M|True
+683|RACHEL|You just said. A fire.|speech|RACHEL|F|True
+684|SUE|What caused it?|speech|SUE|M|True
 685|RACHEL|"They think a boiler blew up, okay?
-Am I gonna be graded on this?"|speech|RACHEL|F
-686|SUE|Come on, you've heard of Carrie White.|speech|SUE|M
+Am I gonna be graded on this?"|speech|RACHEL|F|True
+686|SUE|Come on, you've heard of Carrie White.|speech|SUE|M|True
 687|RACHEL|"(kicks a can)
-Everybody has."|speech|RACHEL|F
-688|SUE|And?|speech|SUE|M
+Everybody has."|speech|RACHEL|F|True
+688|SUE|And?|speech|SUE|M|True
 689|"RACHEL
-(SIGHS)"|Supposedly, she set the fire, as part|speech|RACHEL|F
-690||! 0.|stage direction||
+(SIGHS)"|Supposedly, she set the fire, as part|speech|RACHEL|F|True
+690||! 0.|stage direction|||
 691|RACHEL (CONT'D)|"of a revenge-suicide thing. Elvis was
 her date and they escaped in a U.F.O.
 I know what happened to that
-snow dome, on my desk."|speech|RACHEL|F
+snow dome, on my desk."|speech|RACHEL|F|True
 692|"RACHEL
-(BEAT)"|It fell.|speech|RACHEL|F
+(BEAT)"|It fell.|speech|RACHEL|F|True
 693|SUE|"We both saw it.
-RACHEL looks at her, isn't going to talk about this."|speech|SUE|M
+RACHEL looks at her, isn't going to talk about this."|speech|SUE|M|True
 694|SUE|"I know everything there is to know
 about Carrie White. She did this.
 It began with what you did, with
 the snow dome. Then it got out
-of control."|speech|SUE|M
+of control."|speech|SUE|M|True
 695|"RACHEL
-(TURNS)"|I'm cold. Let's go.|speech|RACHEL|F
+(TURNS)"|I'm cold. Let's go.|speech|RACHEL|F|True
 696|SUE|"It's a genetic recessive trait. The
 male is the carrier, when he combines
 with the right female, the trait
 surfaces in their offspring, usually
 in women. Like King's Disease,
-hemophilia."|speech|SUE|M
-697|RACHEL|What are you saying I have?|speech|RACHEL|F
+hemophilia."|speech|SUE|M|True
+697|RACHEL|What are you saying I have?|speech|RACHEL|F|True
 698|SUE|"Its a trait, Rachel, you inherited.
-Telekinesis."|speech|SUE|M
+Telekinesis."|speech|SUE|M|True
 699|RACHEL|"With all respect, lady, you're
 seriously bat-shit. I'm walking,
 back to the real world.
-SUE's voice is low, quiet."|speech|RACHEL|F
+SUE's voice is low, quiet."|speech|RACHEL|F|True
 700|SUE|"Your mother told me your father was
 Ralph White. Carrie's father.
 It stops RACHEL in her tracks.
-71."|speech|SUE|M
+71."|speech|SUE|M|True
 701|RACHEL|"I don't believe you. She never told
-me, why would she tell you?"|speech|RACHEL|F
+me, why would she tell you?"|speech|RACHEL|F|True
 702|SUE|"You need help--
-Like what? Like they helped you?"|speech|SUE|M
-703|SUE|Yes. No.|speech|SUE|M
-704|RACHEL|So then it's Arkham for me?|speech|RACHEL|F
+Like what? Like they helped you?"|speech|SUE|M|True
+703|SUE|Yes. No.|speech|SUE|M|True
+704|RACHEL|So then it's Arkham for me?|speech|RACHEL|F|True
 705|SUE|"No. I can help you, get it under
-control."|speech|SUE|M
+control."|speech|SUE|M|True
 706|RACHEL|"You want to know what I'm feeling
 today? `Happy. Happier than I've
 ever been. So I don't want or need
 your help.
-RACHEL runs off. SUE follows, trips on the rubble, falls."|speech|RACHEL|F
-707|SUE|Rachel!|speech|SUE|M
-708||INT. FOOTBALL LOCKER ROOM - DAY|location||
-709|SUE|JESSE stands at his locker, dressing. MARK approaches.|speech|SUE|M
+RACHEL runs off. SUE follows, trips on the rubble, falls."|speech|RACHEL|F|True
+707|SUE|Rachel!|speech|SUE|M|True
+708||INT. FOOTBALL LOCKER ROOM - DAY|location|||
+709|SUE|JESSE stands at his locker, dressing. MARK approaches.|speech|SUE|M|True
 710|MARK|"Hey.
 (no response from Jesse)
 Just wanted to say two things.
-I'm sorry. Maybe I overreacted."|speech|MARK|M
-711|JESSE|Don't play with me.|speech|JESSE|F
+I'm sorry. Maybe I overreacted."|speech|MARK|M|True
+711|JESSE|Don't play with me.|speech|JESSE|F|True
 712|MARK|"I'm not. We've been friends since
 we could both pee standing up. And I
-thought we'd be best friends forever."|speech|MARK|M
+thought we'd be best friends forever."|speech|MARK|M|True
 713|(BEAT)|"Never thought some girl could come
 between that. Look, I know I'm scum.
 I'm lower than scum, I'm smegma, I'm
 butt lint.
-72."|speech||
+72."|speech|||
 714|JESSE|"(smiles in spite of himself)
-Keep going."|speech|JESSE|F
-715|MARK|I'm sorry.|speech|MARK|M
+Keep going."|speech|JESSE|F|True
+715|MARK|I'm sorry.|speech|MARK|M|True
 716|JESSE|"I'm not the one you should be
-apologizing to."|speech|JESSE|F
+apologizing to."|speech|JESSE|F|True
 717|MARK|"You're right. I'll come up with a way
 to make it up, to b of you.
 (smiles, full charm)
-tryin', brother, I'm tryin'."|speech|MARK|M
-718||INT. DISTRICT ATTORNEYS OFFICE - DUSK|location||
+tryin', brother, I'm tryin'."|speech|MARK|M|True
+718||INT. DISTRICT ATTORNEYS OFFICE - DUSK|location|||
 719|MARK|"Light streams in through the slatted blinds. The young D.A.
 is at his desk. MR. STARK, Eric's attorney father, sits
 across from him with ERIC. SHERIFF KELTON and COACH WALSH:
-also sit in chair's."|speech|MARK|M
+also sit in chair's."|speech|MARK|M|True
 720|STARK|"You're not really thinking of pressing
 charges against my son.
 D.A.
-We're doing more than just thinking."|speech|STARK|M
-721|WALSH|I need the boy for the game.|speech|WALSH|?
+We're doing more than just thinking."|speech|STARK|M|True
+721|WALSH|I need the boy for the game.|speech|WALSH|?|True
 722|STARK|"Robbie, we've known each other a long
-time, since you were a Bulldog."|speech|STARK|M
+time, since you were a Bulldog."|speech|STARK|M|True
 723|KELTON|"Save it, Lou. Sue Snell told me there
-were other girls--"|speech|KELTON|M
+were other girls--"|speech|KELTON|M|True
 724|WALSH|"Those kinds of girls know what they're
 getting in to. Eric's a good kid, he
-may be guilty of some youthful"|speech|WALSH|?
+may be guilty of some youthful"|speech|WALSH|?|True
 725|"TRANSGRESSIONS--
 KELTON"|"Youthful transgressions? A girl
-killed herself."|speech|TRANSGRESSIONS--KELTON|?
+killed herself."|speech|TRANSGRESSIONS--KELTON|?|
 726|73|"The door opens and the town's MAYOR walks in, grey-haired,
 distinguished, with an air of authority.
-D.A."|speech|73|?
-727|(NODS)|Mr. Mayor.|speech||
+D.A."|speech|73|?|
+727|(NODS)|Mr. Mayor.|speech|||
 728|MAYOR|"Sit, everybody, sit, 'm just
 listening in.
-He leans against the desk, arms folded.."|speech|MAYOR|?
+He leans against the desk, arms folded.."|speech|MAYOR|?|
 729|"STARK
 (BEAT)"|"Okay. Cards on the table. My boy
 isn't going down alone then.
 D.A.
-Go on."|speech|STARK|M
+Go on."|speech|STARK|M|True
 730|STARK|"He hasn't done anything other boys on
 the team haven't done. Eric can even
 get proof of it. Mark Bing, Jesse
-Ryan, Chuck Potter, Brad Winters."|speech|STARK|M
+Ryan, Chuck Potter, Brad Winters."|speech|STARK|M|True
 731|(PAUSES)|"Now, there will be college scouts at
 the game Friday. Eric takes a fall,
 I'll make sure they all do. You want
 to be responsible for tarnishing all
-these boys lives?"|speech||
+these boys lives?"|speech|||
 732|MAYOR|"Well. I think that about sums it up.
 He looks at the D.A., as if to give him his cue.
 D.A.
 Robbie, I just don't think I have
 enough evidence to ruin this boy's
-reputation."|speech|MAYOR|?
+reputation."|speech|MAYOR|?|
 733|"KELTON
 BUT--"|"D.A.
-That's it, Robbie. That's all."|speech|KELTONBUT--|?
+That's it, Robbie. That's all."|speech|KELTONBUT--|?|
 734|MAYOR|"Lou, thank you for coming in.
 I'll walk you out.
 74.
 They all stand and shakes hands.
 KELTON sits; seething as he realizes the fix was in before
 ever entered this room. he
-He looks across at ERIC, sitting, a smug look on his face."|speech|MAYOR|?
-735||EXT. SCHOOL PARKING LOT - DAY|location||
-736|MAYOR|MARK intercepts JESSE as he nears his car.|speech|MAYOR|?
+He looks across at ERIC, sitting, a smug look on his face."|speech|MAYOR|?|
+735||EXT. SCHOOL PARKING LOT - DAY|location|||
+736|MAYOR|MARK intercepts JESSE as he nears his car.|speech|MAYOR|?|
 737|MARK|"Hey, man, I got it. This girl, this
-Rachel, is special to you, huh?"|speech|MARK|M
+Rachel, is special to you, huh?"|speech|MARK|M|True
 738|JESSE|"Yeah.
-MARK extracts a KEY RING from his jacket, pulls a KEY off."|speech|JESSE|F
+MARK extracts a KEY RING from his jacket, pulls a KEY off."|speech|JESSE|F|True
 739|MARK|"The cabin. My folks aren't there.
 Get away from all of us idiots.
 Go have a romantic time.
 JESSE looks at him. MARK tosses the key, JESSE catches it.
-MARK smiles."|speech|MARK|M
+MARK smiles."|speech|MARK|M|True
 740|MARK|"And bring her to my party. I'll show
-you we can be one big, happy family."|speech|MARK|M
-741||EXT. STREET/TRACY'S BMW - DAY|location||
+you we can be one big, happy family."|speech|MARK|M|True
+741||EXT. STREET/TRACY'S BMW - DAY|location|||
 742|MARK|"TRACY driving with MONICA as they follow a walking RACHEL.
-RACHEL crosses the street."|speech|MARK|M
-743|MONICA|Finally, she's going into the mall.|speech|MONICA|F
+RACHEL crosses the street."|speech|MARK|M|True
+743|MONICA|Finally, she's going into the mall.|speech|MONICA|F|True
 744|TRACY|"(an evil smile)
 Perfect. We have the homefield
-advantage."|speech|TRACY|F
-745||INT. SHOPPING MALL, DEPARTMENT STORE - DAY|location||
+advantage."|speech|TRACY|F|True
+745||INT. SHOPPING MALL, DEPARTMENT STORE - DAY|location|||
 746|TRACY|"The cosmetics department of an upscale store, mirrors on
 every counter. A SALESwoMAN sprays perfume samples on
 passing shoppers. She pulls up short as she encounters...
@@ -2191,77 +2191,77 @@ Stopping at a counter, RACHEL takes in the vast array of
 makeup, the models on the displays. She sees a YOUNG COUPLE
 go by, very J. Crew, very much in love.
 She turns to her own visage reflected in several mirrors on
-the counter."|speech|TRACY|F
+the counter."|speech|TRACY|F|True
 747|RACHEL|"(under her breath)
 You're normal.
 At the end of the counter, the PERFUME WOMAN approaches a
-SALESWOMAN helping MONICA."|speech|RACHEL|F
+SALESWOMAN helping MONICA."|speech|RACHEL|F|True
 748|PERFUME|"Karen, watch the girl in black, make
 sure she doesn't pocket anything.
 MONICA turns around to see...
-RACHEL -- staring at a row of-lipsticks. She's startled"|speech|PERFUME|F
+RACHEL -- staring at a row of-lipsticks. She's startled"|speech|PERFUME|F|
 749|"BY-
-SALESWOMAN"|Can I help you?|speech|BY-SALESWOMAN|?
+SALESWOMAN"|Can I help you?|speech|BY-SALESWOMAN|?|
 750|RACHEL|"Uh, just looking.
 The woman gives her a smile of devastating insincerity,
 crosses her arms and just stands there. RACHEL gets her
 drift.
-MONICA walks up behind RA"|speech|RACHEL|F
+MONICA walks up behind RA"|speech|RACHEL|F|True
 751|MONICA|"Oh, hi. Karen, this is a friend
 of mine from school.
-The SALESWOMAN nods, moves away."|speech|MONICA|F
-752|RACHEL|Thought she was gonna frisk me.|speech|RACHEL|F
-753|MONICA|She does Step Class with my mom.|speech|MONICA|F
+The SALESWOMAN nods, moves away."|speech|MONICA|F|True
+752|RACHEL|Thought she was gonna frisk me.|speech|RACHEL|F|True
+753|MONICA|She does Step Class with my mom.|speech|MONICA|F|True
 754|(SMILES)|"You should see the scars from her
 liposuction.
 RACHEL edges way, checking out the lipsticks, but MONICA
 trails her.
-76."|speech||
-755|MONICA|What are you looking for?|speech|MONICA|F
-756|RACHEL|Nothing. Just lookin'.|speech|RACHEL|F
+76."|speech|||
+755|MONICA|What are you looking for?|speech|MONICA|F|True
+756|RACHEL|Nothing. Just lookin'.|speech|RACHEL|F|True
 757|MONICA|"Is it perhaps, something to wear on a
 date? Perhaps with a certain jock-
-hunk we all know?"|speech|MONICA|F
+hunk we all know?"|speech|MONICA|F|True
 758|RACHEL|"(smiles, nervous, nailed)
-No."|speech|RACHEL|F
+No."|speech|RACHEL|F|True
 759|MONICA|"You know, Tracy isn't universally
-loved."|speech|MONICA|F
-760|RACHEL|There's a shock.|speech|RACHEL|F
+loved."|speech|MONICA|F|True
+760|RACHEL|There's a shock.|speech|RACHEL|F|True
 761|MONICA|"Exhibit A. I think she's a Melrose
 Place superbitch.
-RACHEL cracks a hint of a smile."|speech|MONICA|F
-762|MONICA|You have great lips.|speech|MONICA|F
+RACHEL cracks a hint of a smile."|speech|MONICA|F|True
+762|MONICA|You have great lips.|speech|MONICA|F|True
 763|(BEAT)|"No, really. Look, this shade would
 look very kissable on you. Soft.
-MONICA goes to apply the lipstick on her. RACHEL pulls away."|speech||
+MONICA goes to apply the lipstick on her. RACHEL pulls away."|speech|||
 764|MONICA|"Trust me. See, Tracy tried to steal
 Brad from me. Now hold still.
-And RACHEL does."|speech|MONICA|F
+And RACHEL does."|speech|MONICA|F|True
 765|MONICA|"So, he invite you to the game? Just
 nod.
-RACHEL nods."|speech|MONICA|F
+RACHEL nods."|speech|MONICA|F|True
 766|MONICA|"Well, there's a big party after. I
 hope you can go. I know it would mean
 a lot to Jesse if we all got along.
-77."|speech|MONICA|F
-767|RACHEL|Uh-huh.|speech|RACHEL|F
+77."|speech|MONICA|F|True
+767|RACHEL|Uh-huh.|speech|RACHEL|F|True
 768|MONICA|"Good. See?
-Checking in a mirror, RACHEL sees she's right."|speech|MONICA|F
+Checking in a mirror, RACHEL sees she's right."|speech|MONICA|F|True
 769|MONICA|"Here, these two would also rock
 on you.
-The SALESWOMAN reappears."|speech|MONICA|F
-770|SALESWOMAN|Can I ring those up?|speech|SALESWOMAN|F
-771|RACHEL|Um, sure. How much are these?|speech|RACHEL|F
+The SALESWOMAN reappears."|speech|MONICA|F|True
+770|SALESWOMAN|Can I ring those up?|speech|SALESWOMAN|F|
+771|RACHEL|Um, sure. How much are these?|speech|RACHEL|F|True
 772|SALESWOMAN|"Twenty-two fifty. Each.
 RACHEL sets the lipsticks down. MONICA smiles at the
-SALESWOMAN."|speech|SALESWOMAN|F
+SALESWOMAN."|speech|SALESWOMAN|F|
 773|MONICA|"Maybe next time. Bye.
 She pulls RACHEL away. As they walk the SALESWOMAN keeps
-looking at RACHEL with distaste."|speech|MONICA|F
+looking at RACHEL with distaste."|speech|MONICA|F|True
 774|MONICA|"(a conspiratorial smile)
 Here, I kleptoed it for you.
-She slips RACHEL the lipstick."|speech|MONICA|F
-775||INT. RACHEL'S BEDROOM - NIGHT|location||
+She slips RACHEL the lipstick."|speech|MONICA|F|True
+775||INT. RACHEL'S BEDROOM - NIGHT|location|||
 776|MONICA|"RACHEL before the mirror, applying the lipstick. A P.J.
 HARVEY song plays under, slow, insistent, seductive:
 P.J. HARVEY
@@ -2277,59 +2277,59 @@ So fruit flower myself inside out/ I'm
 happy and bleeding for you / fruit
 flower myself inside out / I'm tired
 and bleeding for you...
-She slips off her nose stud."|speech|MONICA|F
-777||EXT. RACHEL'S HOUSE - NIGHT|location||
+She slips off her nose stud."|speech|MONICA|F|True
+777||EXT. RACHEL'S HOUSE - NIGHT|location|||
 778|MONICA|"JESSE waiting in his car. He looks up --
 RACHEL stands under the porch light in her dress. A lanky
 gangster girl, with. one leg planted on a step like a cocked
 gun. She's bone-chillingly beautiful.
-He gets out, opens the car door for her."|speech|MONICA|F
+He gets out, opens the car door for her."|speech|MONICA|F|True
 779|JESSE|"What happened to that little thing you
 wear, that, uh...
-He gestures to hib'nose, indicating her stud."|speech|JESSE|F
-780|RACHEL|Took it off.|speech|RACHEL|F
+He gestures to hib'nose, indicating her stud."|speech|JESSE|F|True
+780|RACHEL|Took it off.|speech|RACHEL|F|True
 781|JESSE|"Too bad. I like it. It's different.
-RACHEL looks at the car seat. On it are DAISIES."|speech|JESSE|F
+RACHEL looks at the car seat. On it are DAISIES."|speech|JESSE|F|True
 782|"JESSE
-(SMILES)"|Just, you know, throw'em in the back.|speech|JESSE|F
-783||EXT. A CABIN - NIGHT|location||
+(SMILES)"|Just, you know, throw'em in the back.|speech|JESSE|F|True
+783||EXT. A CABIN - NIGHT|location|||
 784|"JESSE
 (SMILES)"|"A small cabin in the woods. Fire light in the window.
-JESSE's CAR is parked in t;^.e gravel alongside."|speech|JESSE|F
-785||INT. THE CABIN - NIGHT|location||
+JESSE's CAR is parked in t;^.e gravel alongside."|speech|JESSE|F|True
+785||INT. THE CABIN - NIGHT|location|||
 786|"JESSE
 (SMILES)"|"JESSE is stoking a fire in the fireplace. There's a MOOSE
 HEAD TROPHY on the wall. RACHEL's sitting on a bed, draped
-with a chenille spread."|speech|JESSE|F
+with a chenille spread."|speech|JESSE|F|True
 787|JESSE|"It was nice of mark to lend us the
 place. He's really tryin' to make
 peace. Invited .s to his party. But
 we won't go if y;,u,d be uncomfortable.
 79.
-He moves to the bed."|speech|JESSE|F
-788|RACHEL|No. Let's go.|speech|RACHEL|F
+He moves to the bed."|speech|JESSE|F|True
+788|RACHEL|No. Let's go.|speech|RACHEL|F|True
 789|JESSE|"Great.
 (looks at her)
-What's wrong?"|speech|JESSE|F
+What's wrong?"|speech|JESSE|F|True
 790|RACHEL|"I feel like.., we're being watched.
 She looks up at the MOOSE HEAD's MARBLE EYES, reflecting
-firelight. JESSE drapes his jacket over the MOOSE HEAD."|speech|RACHEL|F
+firelight. JESSE drapes his jacket over the MOOSE HEAD."|speech|RACHEL|F|True
 791|JESSE|"Sorry, Bullwinkle, lights out.
 (sits on the bed)
-Feel better?"|speech|JESSE|F
-792|RACHEL|Feel scared.|speech|RACHEL|F
+Feel better?"|speech|JESSE|F|True
+792|RACHEL|Feel scared.|speech|RACHEL|F|True
 793|JESSE|"Funny. He too.,
-He leans in to her. She backs away, like a skittish doe."|speech|JESSE|F
+He leans in to her. She backs away, like a skittish doe."|speech|JESSE|F|True
 794|RACHEL|"I'm sorry, I just feel... weird.
 I don't know. Oh, wow, I am really
-losing my mind here."|speech|RACHEL|F
+losing my mind here."|speech|RACHEL|F|True
 795|JESSE|"It's okay. Rachel, it's okay. It
 doesn't have to be tonight. Whenever
 you're ready. And, hey, you know
 what, you're the sanest person I know.
 And that's exactly what she needed to hear. She cups the
 back of his neck and pulls his lips to hers. They kiss; a
-deep, healing kiss."|speech|JESSE|F
+deep, healing kiss."|speech|JESSE|F|True
 796|HER HAND|"brushes aside one of the straps to her dress,, which slips off
 her shoulder.
 JESSE tenderly runs his hand over her HEART-THORN TATTOO.
@@ -2341,11 +2341,11 @@ It's beautiful. what we all wanted our first time to be.
 They move slowly, as if all the pain in the world could be
 erased, ï¿½f only they could become one. JESSE watches RACHEL
 Her face open, vulnerable.
-FADE TO BLACK/FADE IN:"|speech|HER HAND|F
+FADE TO BLACK/FADE IN:"|speech|HER HAND|F|
 797|RACHEL ASLEEP|"seems peaceful, holding on to JESSE like a child, they're
 covered by the chenille spread. Their sweat clings to them
 like the softest of prisons. He's awake, studying her. He
-gently runs his fingertips across her brow."|speech|RACHEL ASLEEP|?
+gently runs his fingertips across her brow."|speech|RACHEL ASLEEP|?|
 798|"E
 (SOFTLY)"|"I love you.
 off them and across the floor.
@@ -2358,18 +2358,18 @@ DIVE into the black lens, and...
 FADE TO BLACK:
 A SUPER - BLOOD RED:
 F R D A Y
-FADE IN TO:"|speech|E|F
-799||INT. RACHEL'S BEDROOM - MORNING|location||
+FADE IN TO:"|speech|E|F|
+799||INT. RACHEL'S BEDROOM - MORNING|location|||
 800|"E
 (SOFTLY)"|"And the round BLACK PUPIL of WALTER'S EYE.
 He lays on the bed watching'RACHEL sneaking in through her
 window. trying to be mouse quiet. She gets safely inside
 when her bedroom door opens.
 BOYD stands in the doorway. She's busted.
-8l."|speech|E|F
+8l."|speech|E|F|
 801|BOYD|"You were out all night.
 RACHEL nods, defiantly. He walks over to her and, without
-warning, slaps her."|speech|BOYD|F
+warning, slaps her."|speech|BOYD|F|True
 802|BOYD|"You're grounded. No school today.
 You don't move from this room.
 He turns on his heel, walks out. The dog looks as stricken
@@ -2380,73 +2380,73 @@ The sun moves across the floor as a ghostly RACHEL and her
 dog FADE IN-AND-OUT around the room. She lays in bed,
 staring at the ceiling. Paces her room like a prisoner.
 FINALLY -- It's nightfall.
-RACHEL slips out her window."|speech|BOYD|F
-803||EXT. ARKHAM STATE MENTAL HOSPITAL|location||
-804|BOYD|And it looks even spookier at night.|speech|BOYD|F
-805||INT. STATE HOSPITAL, VISITING AREA - NIGHT|location||
-806|BOYD|Dimly lit as SUE SNELL sits with|speech|BOYD|F
+RACHEL slips out her window."|speech|BOYD|F|True
+803||EXT. ARKHAM STATE MENTAL HOSPITAL|location|||
+804|BOYD|And it looks even spookier at night.|speech|BOYD|F|True
+805||INT. STATE HOSPITAL, VISITING AREA - NIGHT|location|||
+806|BOYD|Dimly lit as SUE SNELL sits with|speech|BOYD|F|True
 807|SUE|"Rachel needs help. She doesn't
 believe me and I'm afraid for her.
 I want you to tell her who her
 father was.
-Why?"|speech|SUE|M
+Why?"|speech|SUE|M|True
 808|SUE|"She'll believe it from your lips.
 Mrs. Lang, I really need your help,
 before it's too late. I can take you
 to her. Will you help me?
 BARBARA slowly nods, yes.
-Â£2."|speech|SUE|M
-809||EXT. FOOTBALL STADIUM, STANDS - NIGHT|location||
+Â£2."|speech|SUE|M|True
+809||EXT. FOOTBALL STADIUM, STANDS - NIGHT|location|||
 810|SUE|"The entire town has showed for this traditional rivalry and
 there's Bulldog paraphernalia galore. RACHEL appears in the
 stands, looking a bit lost. Down front sit MONICA and AMY.
 On the field are TRACY and her fellow CHEERLEADERS.
-MONICA nudges AMY and waves to"|speech|SUE|M
+MONICA nudges AMY and waves to"|speech|SUE|M|True
 811|MONICA|"Rachel, Rach, over here.
 Hey. Grab a seat.
-Looking around, RACHEL sees she's surrounded by Patio People."|speech|MONICA|F
-812|RACHEL|Thanks, but...|speech|RACHEL|F
+Looking around, RACHEL sees she's surrounded by Patio People."|speech|MONICA|F|True
+812|RACHEL|Thanks, but...|speech|RACHEL|F|True
 813|MONICA|"Oh, please, you're.not gonna sit by
 your lonesome. There's plenty of room,
-if Amy;here slides her bubble butt."|speech|MONICA|F
+if Amy;here slides her bubble butt."|speech|MONICA|F|True
 814|"AMY
 (DRY)"|"Very witty, Ms. Bulimia.
-But she moves over. RACHEL tentatively sits."|speech|AMY|F
-815||INT. FOOTBALL LOCKER ROOM - NIGHT|location||
+But she moves over. RACHEL tentatively sits."|speech|AMY|F|True
+815||INT. FOOTBALL LOCKER ROOM - NIGHT|location|||
 816|"AMY
 (DRY)"|"JESSE enters, mounds of hair are at his feet. He looks up.
 MARK and most of the BULLDOGS have shaved their heads and are
 working on the last players. They turn to him in unison.
-CHUCK grins, runs his hand over his scalp."|speech|AMY|F
-817|CHUCK|We did it for the big game.|speech|CHUCK|F
+CHUCK grins, runs his hand over his scalp."|speech|AMY|F|True
+817|CHUCK|We did it for the big game.|speech|CHUCK|F|True
 818|MARK|"C'mon, Jess, you're up.
 JESSE stares in horror at how identical they all look now.
 Then he starts to... giggle, then breaks into laughter, turns
-and walks away."|speech|MARK|M
+and walks away."|speech|MARK|M|True
 819|A P-ALN|"Man, he'll ruin the whole effect.
-83."|speech|A P-ALN|?
-820||EXT. THE STANDS - NIGHT|location||
-821|A P-ALN|MONICA and RACHEL.|speech|A P-ALN|?
+83."|speech|A P-ALN|?|
+820||EXT. THE STANDS - NIGHT|location|||
+821|A P-ALN|MONICA and RACHEL.|speech|A P-ALN|?|
 822|MONICA|"No, no, it's an extra point when
 you score the kick after the touchdown.
 A safety is when you get tackled with
-the ball in your own end zone."|speech|MONICA|F
+the ball in your own end zone."|speech|MONICA|F|True
 823|RACHEL|"Thought that was a bunt.
-What?"|speech|RACHEL|F
-824|RACHEL|I'm kidding, I'm kidding.|speech|RACHEL|F
+What?"|speech|RACHEL|F|True
+824|RACHEL|I'm kidding, I'm kidding.|speech|RACHEL|F|True
 825|MONICA|"Okay, listen. Here's what Brad told me
 to say, doesn't matter if something good
 or bad happens, just say ""You. gotta be
 fuckin' kiddin' mel"" No matter what,
 just say that. It'll sound like you know
-what's going on."|speech|MONICA|F
-826||INT. STADIUM TUNNEL - NIGHT|location||
+what's going on."|speech|MONICA|F|True
+826||INT. STADIUM TUNNEL - NIGHT|location|||
 827|MONICA|"JESSE and the team move through a dark tunnel and onto...
 THE FOOTBALL FIELD
 with all the pageantry and sheer rush of a hometown crowd.
 The school band plays like they're going to bust a gut.
 Hysteria and bloodlust fill the air as the crowd starts a
-barking chant."|speech|MONICA|F
+barking chant."|speech|MONICA|F|True
 828|JESSE|"on the sideline bench. He scans the crowd behind him,
 sees.
 A NOTRE DAME SCOUT, wearing a ""Fighting Irish jacket, toting
@@ -2473,33 +2473,33 @@ a touchdown.
 kiddin' me routine.
 JESSE catches a pass, and is immediately slammed hard
 CARLIN PLAYER.
-RACHEL looks like she's been kicked in the gut."|speech|JESSE|F
-829|RACHEL|Do they have to hit him that hard?|speech|RACHEL|F
-830|MONICA|Amy, Rachel's worried about Jesse.|speech|MONICA|F
+RACHEL looks like she's been kicked in the gut."|speech|JESSE|F|True
+829|RACHEL|Do they have to hit him that hard?|speech|RACHEL|F|True
+830|MONICA|Amy, Rachel's worried about Jesse.|speech|MONICA|F|True
 831|AMY|"Don't worry, i always looks worse
-than it really"|speech|AMY|F
+than it really"|speech|AMY|F|True
 832|CUT TO:|"TRACY and the other CHEERLEADERS leading a cheer as...
 JESSE glances at the sideline, where the NOTRE DAME FOOTBALL
 SCOUT watches him, writing notes on his clipboard.
 THE HALF-TIME SCOREBOARD and the BULLDOGS trail 7-
-On the sideline, MARK SMASHES his helmet to the ground."|speech|CUT TO:|?
-833||INT. ARKHAM STATE MENTAL HOSPITAL - NIGHT|location||
+On the sideline, MARK SMASHES his helmet to the ground."|speech|CUT TO:|?|True
+833||INT. ARKHAM STATE MENTAL HOSPITAL - NIGHT|location|||
 834|CUT TO:|"mpatient SUE sits before an exhausted DOCTOR NELSON.
-85."|speech|CUT TO:|?
+85."|speech|CUT TO:|?|True
 835|DOCTOR|"Well... I understand you need to take
 out Mrs. Lang, to do a drug-abuse
 intervention with her daughter. But
 while she's doing well, her condition
-may be fragile."|speech|DOCTOR|?
+may be fragile."|speech|DOCTOR|?|True
 836|(BEAT)|"In good conscience, I could only
 release her in your custody for
-two hours."|speech||
+two hours."|speech|||
 837|0|"Thank you.
-SUE jumps to her feet to leave."|speech|0|M
+SUE jumps to her feet to leave."|speech|0|M|
 838|DOCTOR|"Hold on. You have a bunch of release
 forms to sign. I'll go get them.
-On SUE, sitting, knowing she-may be running out of time."|speech|DOCTOR|?
-839||EXT. FOOTBALL FIELD - NIGHT|location||
+On SUE, sitting, knowing she-may be running out of time."|speech|DOCTOR|?|True
+839||EXT. FOOTBALL FIELD - NIGHT|location|||
 840|DOCTOR|"The BULLDOGS prove their worth with brutal play as they cream
 the CARLIN QUARTERBACK for a big loss.
 THE FOURTH QUARTER SCOREBOARD -- the BULLDOGS trail 7-3.
@@ -2509,19 +2509,19 @@ JESSE cutting across the middle of the field.
 He catches a pass, but two DEFENSIVE BACKS converge on him
 and he gets bone-jarringly plastered.
 JESSE hits the ground with such force his helmet flies off.
-For a moment, it looks like he's been decapitated."|speech|DOCTOR|?
+For a moment, it looks like he's been decapitated."|speech|DOCTOR|?|True
 841|"RACHEL
 (STANDS)"|"Jess!
 THE HOMETOWN CROWD rises to their feet as...
-JESSE stays down, hurt."|speech|RACHEL|F
+JESSE stays down, hurt."|speech|RACHEL|F|True
 842|RACHEL|"Oh, no.
 RACHEL strains to see him as the team circles around JESSE.
 86.
 FOUR PHOTOGRAPHERS rush along the sideline to snap shots,
 their cameras flashing.
 JESSE sits up, stands, shakes his head to clear it as he jogs
-to the sideline."|speech|RACHEL|F
-843|RACHEL|Thank, God. He's okay.|speech|RACHEL|F
+to the sideline."|speech|RACHEL|F|True
+843|RACHEL|Thank, God. He's okay.|speech|RACHEL|F|True
 844|CUT TO :|"THE SCOREBOARD CLOCK -- loudly TICKING from 0:09 to 0:07.
 JESSE -- running. He looks up to...
 THE NIGHT SKY -- A FOOTBALL silently arches up, spinning an
@@ -2530,7 +2530,7 @@ THE SCOREBOARD CLOCK -- a booming TICK from 0:05 to 0:04.
 JESSE makes a spectacular one-handed catch on the run,
 streaking along the sideline.
 Ahead of him, a monstrous CARLIN LINEBACKER closes in on him
-with murder in his eyes."|speech|CUT TO :|?
+with murder in his eyes."|speech|CUT TO :|?|
 845|RA|"Look out !
 THE LINEBACKER'S P.O.V. --
 All the PHOTOGRAPHERS on the sideline have their CAM g
@@ -2538,41 +2538,41 @@ FLASHES flare in unison, without their snapping them!
 The blinded LINEBACKER plows into the SIDELINE PHOTOGRAPHER
 JESSE scores a touchdown.
 And the CROWD goes berserk as the BULLDOGS throw their
-helmets in the air."|speech|RA|F
+helmets in the air."|speech|RA|F|
 846|"MONICA
 (STUNNED)"|"You gotta be... wow.
 RACHEL stands there, open-mouthed, relieved, but unsure if
-she had anything to do with what just happened."|speech|MONICA|F
-847||INT. LOCKER ROOM - NIGHT|location||
+she had anything to do with what just happened."|speech|MONICA|F|True
+847||INT. LOCKER ROOM - NIGHT|location|||
 848|"MONICA
 (STUNNED)"|"The Bulldogs are still whooping it up as COACH WALSH
 approaches JESSE.
-87."|speech|MONICA|F
+87."|speech|MONICA|F|True
 849|WALSH|"Ryan, Notre Dame scout's-here,
 wants to talk to you first.
-JESSE nods, turns to BRAD."|speech|WALSH|?
+JESSE nods, turns to BRAD."|speech|WALSH|?|True
 850|JESSE|"Brad, can you tell Rachel I'll be
-out soon? Have her wait for me."|speech|JESSE|F
-851||INT. STADIUM CORRIDOR - N|location||
+out soon? Have her wait for me."|speech|JESSE|F|True
+851||INT. STADIUM CORRIDOR - N|location|||
 852|JESSE|"RACHEL and MONICA stand in the hoard waiting for the players.
 TRACY passes, soggy, muddy, yet still radiating a cool
 confidence in her beauty. She gives RACHEL, a shark's smile.
-BRAD exits the locker room, goes to RACHEL's side."|speech|JESSE|F
+BRAD exits the locker room, goes to RACHEL's side."|speech|JESSE|F|True
 853|BRAD|"It's gonna be a while, Jess is talkin'
 to the scout, he said for you to go
-ahead to the party."|speech|BRAD|M
+ahead to the party."|speech|BRAD|M|True
 854|"MONICA
 (WARMLY)"|"Rachel, did you hear that, Jesse's
-talking to the scout, isn't that great?"|speech|MONICA|F
-855|RACHEL|Yeah.|speech|RACHEL|F
-856|MONICA|C'mon, I'll give you a ride to Mark's.|speech|MONICA|F
-857||EXT. RACHEL'S HOUSE - NIGHT|location||
-858|MONICA|SUE drives up with BARBARA to RACHEL's tiny, run-down house.|speech|MONICA|F
+talking to the scout, isn't that great?"|speech|MONICA|F|True
+855|RACHEL|Yeah.|speech|RACHEL|F|True
+856|MONICA|C'mon, I'll give you a ride to Mark's.|speech|MONICA|F|True
+857||EXT. RACHEL'S HOUSE - NIGHT|location|||
+858|MONICA|SUE drives up with BARBARA to RACHEL's tiny, run-down house.|speech|MONICA|F|True
 859|BARBARA|"No, this couldn't be it. Rachel said
 it was a real nice house, surrounded
-by trees, with a pool in the back."|speech|BARBARA|F
-860|SUE|I guess she didn't want to worry you.|speech|SUE|M
-861||INT. RACHEL' BEDROOM - NIGHT|location||
+by trees, with a pool in the back."|speech|BARBARA|F|True
+860|SUE|I guess she didn't want to worry you.|speech|SUE|M|True
+861||INT. RACHEL' BEDROOM - NIGHT|location|||
 862|SUE|"The bedroom door is opened by EMILYN. SUE and BARBARA stand
 behind her.
 They find WALTER, alone on the bed, blinking awake.
@@ -2582,8 +2582,8 @@ An upper-class home built in the international style of
 fieldstone and gray-stained wood. The house is set back from
 the road, surrounded by trees, with a pool in the back.
 A herd of parked cars and throbbing music indicate MARK's
-party is at full tilt."|speech|SUE|M
-863||INT. MARK BING'S HOUSE - NIGHT|location||
+party is at full tilt."|speech|SUE|M|True
+863||INT. MARK BING'S HOUSE - NIGHT|location|||
 864|SUE|"CLOSE ON -- a 36-INCH TV playing psychedelic music videos and
 Japanese anima.
 WIDEN -- to reveal a DANCING'CROWD in a dimly lit, split-
@@ -2591,64 +2591,64 @@ level living room with exposed wooden beams.
 There's a large, roaring fireplace and a Jackson Pollock
 splatter PAINTING hangs opposite. Sliding glass doors
 overlook the backyard patio and swimming pool.
-CHUCK cuts through, sees someone jostle a table lamp."|speech|SUE|M
+CHUCK cuts through, sees someone jostle a table lamp."|speech|SUE|M|True
 865|CHUCK|"Careful! Don't break anything, or
-Mark'll have my head on,a plate."|speech|CHUCK|F
-866||EXT. MARK'S HOUSE - NIGHT|location||
+Mark'll have my head on,a plate."|speech|CHUCK|F|True
+866||EXT. MARK'S HOUSE - NIGHT|location|||
 867|CHUCK|"MONICA leads RACHEL up the walkway to the front door where a
 BEEFY BOY plays doorman. ARNIE and two geeky YOUNGER BOYS
-mill outside the door, trying their damndest to look cool."|speech|CHUCK|F
+mill outside the door, trying their damndest to look cool."|speech|CHUCK|F|True
 868|ARNIE|"Hey, Monica, can ya get us into the
-party?"|speech|ARNIE|F
+party?"|speech|ARNIE|F|True
 869|MONICA|"Sure, Arnie, wait here. I'll come
 back for ya.. .
-And she waltzes past him."|speech|MONICA|F
+And she waltzes past him."|speech|MONICA|F|True
 870|MONICA (CONT'D)|". in two or three years.
-ARNIE points at a passing RACHEL."|speech|MONICA|F
-871|APISI E|How come she gets to go in?|speech|APISI E|?
+ARNIE points at a passing RACHEL."|speech|MONICA|F|True
+871|APISI E|How come she gets to go in?|speech|APISI E|?|
 872|MONICA|"(rais6s a toast)
 To new friends.
 They raise their glasses and RACHEL joins in with a hesitant
-smile. Their glasses clink together for the..."|speech|MONICA|F
-873||EXT. STADIUM PARKING LOT - NIGHT|location||
+smile. Their glasses clink together for the..."|speech|MONICA|F|True
+873||EXT. STADIUM PARKING LOT - NIGHT|location|||
 874|CUT TO:|"JESSE crosses the near empty lot, hair wet from his shower.
-He stops dead."|speech|CUT TO:|?
+He stops dead."|speech|CUT TO:|?|True
 875|JESSE|"Damn it.
 Under a pool of lamplight -- HIS CAR has had its tires
 slashed and someone has sprayed in red Carlin uies!â–
 across the door.
-TRACY pulls up in. her BMW, wearing her cheerleading outfit."|speech|JESSE|F
+TRACY pulls up in. her BMW, wearing her cheerleading outfit."|speech|JESSE|F|True
 876|TRACY|"Oh, wow, that sucks. Further proof
-Carlin guys are gravy sucking pigs."|speech|TRACY|F
-877|JESSE|Yeah.|speech|JESSE|F
-878|TRACY|Need a ride?|speech|TRACY|F
-879|JESSE|You goin' to Mark's?|speech|JESSE|F
+Carlin guys are gravy sucking pigs."|speech|TRACY|F|True
+877|JESSE|Yeah.|speech|JESSE|F|True
+878|TRACY|Need a ride?|speech|TRACY|F|True
+879|JESSE|You goin' to Mark's?|speech|JESSE|F|True
 880|TRACY|"Wouldn't miss it. Hop in.
 As he gets into her car, TRACY has one hand on the wheel, the
 other hanging out her window. She drops something as JESSE
 closes the door.
 REVEAL a CAN of red spray paint TRACY dropped onto the
-parking lot's tarmac."|speech|TRACY|F
+parking lot's tarmac."|speech|TRACY|F|True
 881|TRACY|"Just a quick stop at my house,
 want to change my outfit.
 Her car pulls off...
 WIPING THE FRAME TO,
-91."|speech|TRACY|F
-882||INT. MARK'S HOUSE - NIGHT|location||
+91."|speech|TRACY|F|True
+882||INT. MARK'S HOUSE - NIGHT|location|||
 883|TRACY|"RACHEL and MONICA chat with AMY and two other PATIO GIRLS.
-AMY takes RACHEL 's hand."|speech|TRACY|F
-884|AMY|I really like your nail color.|speech|AMY|F
+AMY takes RACHEL 's hand."|speech|TRACY|F|True
+884|AMY|I really like your nail color.|speech|AMY|F|True
 885|MONICA|"Check out the tattoo on her arm
-wild huh?"|speech|MONICA|F
-886|AMY|Yeah. Did that hurt?|speech|AMY|F
-887|RACHEL|No. Well, yeah, actually some.|speech|RACHEL|F
-888|AMY|Oh, it's just too cool.|speech|AMY|F
+wild huh?"|speech|MONICA|F|True
+886|AMY|Yeah. Did that hurt?|speech|AMY|F|True
+887|RACHEL|No. Well, yeah, actually some.|speech|RACHEL|F|True
+888|AMY|Oh, it's just too cool.|speech|AMY|F|True
 889|MONICA|"I'm dying to get one, but my mom
-would have a shit fit."|speech|MONICA|F
+would have a shit fit."|speech|MONICA|F|True
 890|AMY|"So would mine. She says I'm not
-that type of gi rl."|speech|AMY|F
+that type of gi rl."|speech|AMY|F|True
 891|RACHEL|"What type is that?
-There's an awkward pause which MONICA breaks."|speech|RACHEL|F
+There's an awkward pause which MONICA breaks."|speech|RACHEL|F|True
 892|MONICA|"A slut.
 (throws an arm around Rachel)
 That's why you should take all
@@ -2658,43 +2658,43 @@ She looks around at everyone at the party, laughing, dancing.
 The shiny, happy people. it feels weird, but here she is.
 She smiles, takes a sip of her drink.
 By the stereo, MARK cranks up the music as CHUCK dances over
-to AMY, pulls her into the dancing CROWD. BRAD grabs MONICA."|speech|MONICA|F
+to AMY, pulls her into the dancing CROWD. BRAD grabs MONICA."|speech|MONICA|F|True
 893|BRAD|"C'mon, wench, let's dance.
 He pulls MONICA into the crowd, and she gestures for RACHEL
 to join them.
-92."|speech|BRAD|M
-894|RACHEL|No, I'd rather wait for Jesse.|speech|RACHEL|F
+92."|speech|BRAD|M|True
+894|RACHEL|No, I'd rather wait for Jesse.|speech|RACHEL|F|True
 895|MONICA|"Oh, c'mon, Rachel. He'd want you
-to have fun."|speech|MONICA|F
+to have fun."|speech|MONICA|F|True
 896|AMY|"Yeah, c'mon, Rach.
 There's a chorus of ""C'mon, Rachel"" from the guys and some of
 the other DANCERS join in. An embarrassed RACHEL surrenders,
-sets down her drink and enters the dancing group."|speech|AMY|F
+sets down her drink and enters the dancing group."|speech|AMY|F|True
 897|MONICA|"All right, girl.
 RACHEL smiles. BRAD starts dancing before RACHEL.
 SLOW MOTION -- CLOSE on RACHEL's face, dancing, beaming. For
 a few moments, everything seems perfect. And she throws her
 head back and laughs.
-MARK dances into the group."|speech|MONICA|F
+MARK dances into the group."|speech|MONICA|F|True
 898|MARK|"Hey, Chuckzilla, why don't you
-put on the highlights tape?"|speech|MARK|M
+put on the highlights tape?"|speech|MARK|M|True
 899|CHUCK|"You mean tonight's game?
-MARK shares a laugh and a glance with MONICA and B"|speech|CHUCK|F
-900|MARK|Yeah, tonight's game.|speech|MARK|M
+MARK shares a laugh and a glance with MONICA and B"|speech|CHUCK|F|True
+900|MARK|Yeah, tonight's game.|speech|MARK|M|True
 901|CHUCK|"Okay. Let's go to the videotape:
 He dances out of the group over to the VCR where he pops out
 a tape and inserts a tape marked ""Bulldogs Highlights"".
 RACHEL turns around, sees the large screen TV PLAYING images
-of the Bulldogs playing football."|speech|CHUCK|F
-902|RACHEL|Is that tonight's game?|speech|RACHEL|F
+of the Bulldogs playing football."|speech|CHUCK|F|True
+902|RACHEL|Is that tonight's game?|speech|RACHEL|F|True
 903|MARK|"No, it's the other game.
 Still dancing, she turns back to the group.
-93."|speech|MARK|M
-904|RACHEL|What other game?|speech|RACHEL|F
+93."|speech|MARK|M|True
+904|RACHEL|What other game?|speech|RACHEL|F|True
 905|MARK|"The game you were in.
-The others laugh. She smiles, confused."|speech|MARK|M
-906|RACHEL|What?|speech|RACHEL|F
-907|BRAD|The one you played.|speech|BRAD|M
+The others laugh. She smiles, confused."|speech|MARK|M|True
+906|RACHEL|What?|speech|RACHEL|F|True
+907|BRAD|The one you played.|speech|BRAD|M|True
 908|MARK|"Yeah, yeah, what was the score?
 Chuckie, pass me the scoreboard,
 I wanna show Rachel how she helped
@@ -2703,68 +2703,68 @@ CHUCK pulls the BLACK NOTEBOOK next to the CD's off a shelf,
 pretends he's a quarterback hiking a ball.
 Twenty-four, twenty-six, hut, hut,
 hut.
-He drops back to pass the NOTEBOOK."|speech|MARK|M
+He drops back to pass the NOTEBOOK."|speech|MARK|M|True
 909|CHUCK|"Go long, Bradzilla.
 MARK laughs as BRAD circles around RACHEL, twists between
 other dancers. CHUCK tosses the NOTEBOOK over RACHEL and
-BRAD leaps up to catch it."|speech|CHUCK|F
+BRAD leaps up to catch it."|speech|CHUCK|F|True
 910|BRAD|"Post-pattern, Mark!
 Ducking around DANCERS, MARK raises his hands for the pass.
 KIDS start to notice their antics and start laughing.
 BRAD passes the book over to MARK who catches it, mimes
 spiking it for a touchdown and does a silly victory dance.
 MONICA laughs and turns to RACHEL, who laughs, even though
-she still looks a bit befuddled."|speech|BRAD|M
+she still looks a bit befuddled."|speech|BRAD|M|True
 911|MARK|"Rachel, catch!
 He throws the NOTEBOOK through the air, where it tumbles end
 over end for a few slow beats, then is caught by her.
 94.
-BEHIND RACHEL --"|speech|MARK|M
-912||THE TV SET -- keeps playing football highlights, but suddenly|stage direction||
+BEHIND RACHEL --"|speech|MARK|M|True
+912||THE TV SET -- keeps playing football highlights, but suddenly|stage direction|||
 913|MARK|"there's an almost subliminal --
 FLASH of TWO INTERTWINED BODIES.
 RACHEL holds the NOTEBOOK, unsure of what to do with it. The
 boys are a little out of breath, but still grinning and
-dancing."|speech|MARK|M
+dancing."|speech|MARK|M|True
 914|MARK|"Open it. Go 'head, read off the
-scores."|speech|MARK|M
-915|BRAD|Start with Eric.|speech|BRAD|M
+scores."|speech|MARK|M|True
+915|BRAD|Start with Eric.|speech|BRAD|M|True
 916|CHUCK|"Yeah, start with poor Eric.
 She opens the book, looks at the pages with a quizzical
 expression. She sees the Bulldog names across the top of the
 page with lists of girls beneath each one. Every girl has a
-number next to her with a total at the bottom."|speech|CHUCK|F
-917|MARK|What's Eric's score?|speech|MARK|M
+number next to her with a total at the bottom."|speech|CHUCK|F|True
+917|MARK|What's Eric's score?|speech|MARK|M|True
 918|RACHEL|"Twenty-two?
 RACHEL stops dancing as she spots LISA PARKER's name at the
-bottom of ERIC's column with the number four next to it."|speech|RACHEL|F
+bottom of ERIC's column with the number four next to it."|speech|RACHEL|F|True
 919|MARK|"What's up, Rach? You know someone on
-that list?"|speech|MARK|M
+that list?"|speech|MARK|M|True
 920|RACHEL|"(under her breath)
-Lisa."|speech|RACHEL|F
-921|MARK|Oh, yeah, Lisa, forgot about her.|speech|MARK|M
-922|CHUCK|How many points was she?|speech|CHUCK|F
+Lisa."|speech|RACHEL|F|True
+921|MARK|Oh, yeah, Lisa, forgot about her.|speech|MARK|M|True
+922|CHUCK|How many points was she?|speech|CHUCK|F|True
 923|BRAD|"Four. But maybe he shoulda lost
 those when she offed herself.
-95."|speech|BRAD|M
+95."|speech|BRAD|M|True
 924|MARK|"Rach, look under Jesses's name, how
-many points you get?"|speech|MARK|M
+many points you get?"|speech|MARK|M|True
 925|"MONICA
-(CHEERLEADING)"|Two, four, six, eight--|speech|MONICA|F
+(CHEERLEADING)"|Two, four, six, eight--|speech|MONICA|F|True
 926|AMY|"Who do we appreciate!
 RACHEL looks down JESSES's column sees-her name with thirty
-points next to it, then, above hers, sees TRACY with ten."|speech|AMY|F
+points next to it, then, above hers, sees TRACY with ten."|speech|AMY|F|True
 927|MARK|"No, more than that, remember, we
 thought Rach was a dyke. He got
-extra-points for the conversion."|speech|MARK|M
+extra-points for the conversion."|speech|MARK|M|True
 928|BRAD|"points?
 Try thirty.
 RACHEL stares at the book, stunned, trying to make sense of
-it."|speech|BRAD|M
+it."|speech|BRAD|M|True
 929|MONICA|"Look at her face, this is priceless.
 At the front door, JESSE walks in, TRACY behind him. He
 looks around, hasn't seen what's going on yet. ERIC
-intercepts him, turning JESSE away from the TV."|speech|MONICA|F
+intercepts him, turning JESSE away from the TV."|speech|MONICA|F|True
 930|ERIC|"Hey, man, what did the scout say?
 Behind Rte...
 THE TV SET -- between shots of players grunting, tackling
@@ -2776,56 +2776,56 @@ look surreal. It's obvious that the girl is RACHEL, and the
 boy is JESSE.
 DANCING KIDS notice what's on the TV and start to point and
 laugh at the set. RACHEL is completely unaware of what's
-going on behind her."|speech|ERIC|F
+going on behind her."|speech|ERIC|F|True
 931|"9
 MARK"|"See, we didn't think Jess could do i
 so he offered to get evidence, proof
-that he'd scored you."|speech|9MARK|?
-932|MONICA|Here comes Jesse's big play!|speech|MONICA|F
+that he'd scored you."|speech|9MARK|?|
+932|MONICA|Here comes Jesse's big play!|speech|MONICA|F|True
 933|MARK|"Lookie, lookie, Rachel.
 RACHEL realizes people are watching something behind her,
 then laughing at her. She turns and sees...
 The IMAGES of her and JESSE on the TV.
-Her face goes slack with horror."|speech|MARK|M
+Her face goes slack with horror."|speech|MARK|M|True
 934|RACHEL|"Oh, God
-MARK leans in to RACHEL, who hasn't noticed JESSE."|speech|RACHEL|F
+MARK leans in to RACHEL, who hasn't noticed JESSE."|speech|RACHEL|F|True
 935|MARK|"Jess was disappointed with the picture
 quality, but I told him it was better
-than Pam and Tommy Lee's tape."|speech|MARK|M
+than Pam and Tommy Lee's tape."|speech|MARK|M|True
 936|CK|"Rach, was it good for you too?
-Sure looks like it, don't it?"|speech|CK|F
+Sure looks like it, don't it?"|speech|CK|F|
 937|MARK|"Why don't we ask Jesse?
-He turns and calls out."|speech|MARK|M
+He turns and calls out."|speech|MARK|M|True
 938|MARK (CONT'D)|"Hey, Jesse! Over here!
 JESSE looks over and his eyes meet RACHEL's, but she just
-stares back, horrified. Then he sees the TV set behind her"|speech|MARK|M
+stares back, horrified. Then he sees the TV set behind her"|speech|MARK|M|True
 939|JESSE|"What...
 JESSE pushes his way through the crowd, trying to get to
-RACHEL. TRACY throws an arm around him, kisses his neck."|speech|JESSE|F
+RACHEL. TRACY throws an arm around him, kisses his neck."|speech|JESSE|F|True
 940|TRACY|"He told me he was thinking of me
 when he fucked you.
 97.
-Seeing MARK laughing, JESSE realizes what's going on."|speech|TRACY|F
+Seeing MARK laughing, JESSE realizes what's going on."|speech|TRACY|F|True
 941|JESSE|"Rachel...
 He tries to shrug off TRACY, but ERIC and CHUCK grab his arms
-and pull him back into the crowd."|speech|JESSE|F
+and pull him back into the crowd."|speech|JESSE|F|True
 942|JESSE|"Rachel!
-MARK pushes RACHEL towards BRAD."|speech|JESSE|F
+MARK pushes RACHEL towards BRAD."|speech|JESSE|F|True
 943|MARK|"Rachel! Rachel!
 She tries to get away, but BRAD pushes her into MONICA who
 shoves her to AMY as they join in the chanting.
-Rachel!"|speech|MARK|M
+Rachel!"|speech|MARK|M|True
 944|MONICA|"Rachel!
 Rachel!
 Drowning out JESSE's cries.
 RACHEL's P.Q.V. -- spinning around. A NIGHTMARISH GALLERY of
 dancing, jostling torsos, TWISTED FACES and LAUGHING MOUTHS,
-smirking and pointing at her."|speech|MONICA|F
+smirking and pointing at her."|speech|MONICA|F|True
 945|"INTERCUT WITH:
 FAST CLOSE-UPS"|"of RACHEL and JESSE making love. The assault of music,
 chanting and images crescendo with...
 BRAD grabbing RACHEL's bare arm below her HEART-THORN TATTOO
-forcing her to face the TV screen."|speech|INTERCUT WITH:FAST CLOSE-UPS|?
+forcing her to face the TV screen."|speech|INTERCUT WITH:FAST CLOSE-UPS|?|
 946|BRAD|"Hey, is that a zit on your ass?
 RACHEL has tears streaming down her face for the first time
 since she was four years old.
@@ -2838,7 +2838,7 @@ up her arm.
 He looks away, shares a laugh with MARK, looks back and...
 THE HEART TATTOO
 on RACHEL's upper arm is growing, etched from within, the
-thorn covered vine snaking like a tendril up her arm."|speech|BRAD|M
+thorn covered vine snaking like a tendril up her arm."|speech|BRAD|M|True
 947|BRAD|"Holy shit.
 He releases her.
 RACHEL raises her head, eyes glowing with pain and rage, her
@@ -2850,12 +2850,12 @@ JESSE breaks free of ERIC's grip, slugs CHUCK and pushes his
 way towards RACHEL.
 Her HEART POUNDS at an alarming rate as she slowly turns and
 sees JESSE coming at her, his arms out to take her in his
-embrace."|speech|BRAD|M
+embrace."|speech|BRAD|M|True
 948|A KNIFE|"on the bar dances and rattles, then...
 A WHIP PAN finds...
 JESSE, as his back arches in pain and he screams. The KNIFE
 embedded in his open palm, nailing his hand to the wall.
-MARK and the other boys stare in shock."|speech|A KNIFE|F
+MARK and the other boys stare in shock."|speech|A KNIFE|F|
 949|MARK|"What the fuck?
 ON JESSE -- as he screams again.
 A CORKSCREW has pierced his other hand, at waist level. The
@@ -2866,7 +2866,7 @@ bizarre sight.
 RACHEL straightens up and...
 The kitchen door CLOSES...
 The glass doors to the back yard slide SHUT...
-The front door SLAMS."|speech|MARK|M
+The front door SLAMS."|speech|MARK|M|True
 950|"TRACY
 (LOOKING AROUND)"|"What's going on Mark?
 I dunno.
@@ -2883,7 +2883,7 @@ FOLLOW the deadly hail of shards as they cut through the
 CROWD.
 FROM ABOVE -- The outer edge of the CROWD are mowed down as
 if by a machine gun and...
-A WHIP PAN -- Finds a BOY impaled by a large, jagged shard."|speech|TRACY|F
+A WHIP PAN -- Finds a BOY impaled by a large, jagged shard."|speech|TRACY|F|True
 951|TWISTED SHADOWS|"are splayed across a wall of KIDS falling to the ground. The
 hard-edged music keeps playing while...
 CHUCK's decapitated head rolls across the floor and onto...
@@ -2904,11 +2904,11 @@ screaming, her face a lacerated pulp with glass, shards
 sticking out of it like a pincushion.
 Surviving PARTYGOERS panic as they struggle to their feet and
 try to flee, stampeding over each other.
-, TRACY, ERIC and BRAD shove their way through the crowd."|speech|TWISTED SHADOWS|?
-952||EXT. MARK'S HOUSE - NIGHT|location||
+, TRACY, ERIC and BRAD shove their way through the crowd."|speech|TWISTED SHADOWS|?|
+952||EXT. MARK'S HOUSE - NIGHT|location|||
 953|TWISTED SHADOWS|"As SUE and BAR.BA k leap from the Volvo.. SUE hears the
 screams from within the house, takes in the shattered
-windows."|speech|TWISTED SHADOWS|?
+windows."|speech|TWISTED SHADOWS|?|
 954|SUE BARBARA|"Oh, not Rachel!
 They race to the door as...
 WITHIN THE HOUSE
@@ -2936,9 +2936,9 @@ One of the deadly frisbees buries itself in AMY's back,
 spinning her around. More CDs embed in her stomach, chest
 and throat.
 MARK and ERIC smash their way through the chaos as MARK's
-eyes flash from a collapsing AMY to RACHEL"|speech|SUE BARBARA|?
+eyes flash from a collapsing AMY to RACHEL"|speech|SUE BARBARA|?|
 955|MARK|"God, it'ls her! She's doing it!
-SUE moves towards RACHEL."|speech|MARK|M
+SUE moves towards RACHEL."|speech|MARK|M|True
 956|SUE|"Stop! Stop it!
 RACHEL has her gaze locked on...
 MARK, who realizes he's a dead man. He moves toward a
@@ -2950,33 +2950,33 @@ douses SUE.
 A FLAMING LOG erupts from the fireplace...
 Striking the alcohol-drenched BAR, setting a blazing trail
 and lighting the curtains on fire, creating a wall of FLAMES
-before the windows."|speech|SUE|M
-957|SUE|Stop it! You don't want to--|speech|SUE|M
+before the windows."|speech|SUE|M|True
+957|SUE|Stop it! You don't want to--|speech|SUE|M|True
 958||"And RACHEL snaps her head around, launching another LOG from
-the fireplace which strikes SUE in the back, whose alcohol"|stage direction||
+the fireplace which strikes SUE in the back, whose alcohol"|stage direction|||
 959|SUE|"drenched clothes catch flames... and she , A.
 102.
 A screaming SUE pitches forward, rolls on the floor to put
 out the flames, but caly succeeds in lighting another trail
 of liquor which creates a barrier to the backyard windows.
 In the eye of the storm is BARBARA, shaking her head in
-denial, muttering, as her mental state rapidly deteriorates."|speech|SUE|M
+denial, muttering, as her mental state rapidly deteriorates."|speech|SUE|M|True
 960|BARBARA|"No, this isn't happening. It isn't
 happening, isn't happening...
-MARK pulls ERIC by the shirt collar and they careen down..."|speech|BARBARA|F
+MARK pulls ERIC by the shirt collar and they careen down..."|speech|BARBARA|F|True
 961|A HALLWAY|"where each of the DOORS ahead of them SLAM SHUT as they
 approach.
 Utter CHAOS, but RACHEL calmly turns into the hallway,
-following MARK, as if in a trance."|speech|A HALLWAY|?
+following MARK, as if in a trance."|speech|A HALLWAY|?|
 962|"I
-MARK"|lowers his shoulder, crashes through a closing door into.|speech|IMARK|?
+MARK"|lowers his shoulder, crashes through a closing door into.|speech|IMARK|?|
 963|A DEN|"where the walls are decorated with deer heads and hunting
 trophies. MARK and ERIC are smashing a standing glass case
 containing pistols and rifles.
 TRACY leans panting against the wall.
-MARK slips a HANDGUN into his belt."|speech|A DEN|?
+MARK slips a HANDGUN into his belt."|speech|A DEN|?|
 964|TRACY|"Screw that, get the shotguns!
-Shaking, freaked out, they gather weapons."|speech|TRACY|F
+Shaking, freaked out, they gather weapons."|speech|TRACY|F|True
 965|THE HALL|"d ERIC see RACHEL the end of the hall, silhouetted
 from behind. They take off in the other direction, TRACY
 bringing up the re
@@ -2988,7 +2988,7 @@ Where they almost stumble into the swimming pool.
 Toting their rifles, MARK, ERIC and TRACY turn to find
 RACHEL, at a gunfighter's distance, coming towards them.
 TRACY and BRAD cock their weapons and bring them to their
-shoulders. TRACY slips on her glasses."|speech|THE HALL|M
+shoulders. TRACY slips on her glasses."|speech|THE HALL|M|
 966|MARK|"Wait till she's closer.
 TRACY tightens her finger on the trigger.
 RACHEL's eyes narrow and...
@@ -3009,7 +3009,7 @@ RACHEL glances at a coiled GARDEN HOSE and it springs to
 life, slithering through the grass and across the concrete at
 high speed to wrap around MARK's ankle and trip him up.
 He hits the ground hard and rolls over to find the hose
-twisting around his legs and up his waist like a python."|speech|MARK|M
+twisting around his legs and up his waist like a python."|speech|MARK|M|True
 967|HIS HAND|"grasps for the rifle, but falls short as the hose pins his
 other arm to his side, then curls around his windpipe in a
 stranglehold.
@@ -3019,7 +3019,7 @@ RACHEL standing over him.
 He gropes for the shotgun again... and finally grabs it.
 RACHEL looks at the rifle and it flies from his hold,
 splashing into the pool.
-But she jolts on two..."|speech|HIS HAND|F
+But she jolts on two..."|speech|HIS HAND|F|
 968|GUNSHOTS|"RACHEL looks down. MARK had pulled the handgun from his belt
 with his pinned hand and fired.
 She's holding her belly, gutshot, staggers and falls into the
@@ -3034,7 +3034,7 @@ A POOL COVER starts to unfold.
 At that moment...
 RACHEL'S BLOODY ARM
 bursts from the water and grips his neck. MARK grabs her
-forearm as her other arm yanks him into the pool."|speech|GUNSHOTS|?
+forearm as her other arm yanks him into the pool."|speech|GUNSHOTS|?|
 969|UNDERWATER --|"As RACHEL drags MARK down, he kicks and pummels her, but she
 holds on. The POOL COVER steadily closes over them, shutting
 out the light from above.
@@ -3055,7 +3055,7 @@ Rachel!
 A weakened RACHEL lays by the pool. She seems to be snapping
 out of her trance as she rolls over and sees BARBARA.
 RACHEL shudders and suddenly just looks like a wet, scared
-little girl reaching for her mother."|speech|UNDERWATER --|?
+little girl reaching for her mother."|speech|UNDERWATER --|?|
 970|RACHEL|"Mama. Maury?
 BARBARA'S P.O.V. o
 but it's a FOUR-YEAR-OLD RACHEL, pristine, without tattoos.
@@ -3064,14 +3064,14 @@ reaching for her.
 Mama, please.
 BARBARA blinks and it's now...
 The 17-YEAR-OLD RACHEL, covered in blood and tattoos.
-She looks her daughter in the eyes, backs away in terror."|speech|RACHEL|F
+She looks her daughter in the eyes, backs away in terror."|speech|RACHEL|F|True
 971|BARBARA|"What are you? You're not my little
-girl. No. The devil's in you."|speech|BARBARA|F
+girl. No. The devil's in you."|speech|BARBARA|F|True
 972|"RACHEL
 (CRYING)"|"Don't leave me, mama.
-But her mother disappears into the shadows."|speech|RACHEL|F
+But her mother disappears into the shadows."|speech|RACHEL|F|True
 973|RACHEL|"Please, I don't have... anyone.
-She rolls onto her back, looks up at the STARRY NIGHT."|speech|RACHEL|F
+She rolls onto her back, looks up at the STARRY NIGHT."|speech|RACHEL|F|True
 974|RACHEL|"Please, God, let me die...
 And she tightly shuts her eyes.
 DISSOLVE BACK TO:
@@ -3087,18 +3087,18 @@ He sees the gunshot wounds in her stomach, then follows her
 gaze to...
 THE TV SET
 with a cracked screen, but still playing the tape of their
-intimate moment at the cabin, with a sleeping RACHEL laying"|speech|RACHEL|F
-975|ON JESS|He looks back at her.|speech|ON JESS|M
+intimate moment at the cabin, with a sleeping RACHEL laying"|speech|RACHEL|F|True
+975|ON JESS|He looks back at her.|speech|ON JESS|M|
 976|JESSE|"Rachel, listen. I swear, d
 know they were taping us. d
 never hurt you.
-She looks at his pleading eyes."|speech|JESSE|F
+She looks at his pleading eyes."|speech|JESSE|F|True
 977|"JESSE
-I LOVE--"|The TV SET now has the video footage of...|speech|JESSEI LOVE--|?
-978||INT. THE CABIN - NIGHT|location||
+I LOVE--"|The TV SET now has the video footage of...|speech|JESSEI LOVE--|?|
+978||INT. THE CABIN - NIGHT|location|||
 979|"JESSE
 I LOVE--"|"JESSE looks at RACHEL clinging to him, asleep, peaceful. He
-gently runs his fingers across her brow."|speech|JESSEI LOVE--|?
+gently runs his fingers across her brow."|speech|JESSEI LOVE--|?|
 980|"JESSE
 (SOFTLY)"|"I love you .
 And oulls her closer.
@@ -3109,13 +3109,13 @@ she was asleep.
 107.
 RACHEL falls to her knees, tears running down her face. She
 turns back to JESSE, amazed.
-A BLAZING CHUNK of ceiling falls near her."|speech|JESSE|F
+A BLAZING CHUNK of ceiling falls near her."|speech|JESSE|F|True
 981|"JESSE
 (COUGHS)"|"Rachel. Gat out, now. Go.
 And the KNIFE and the CORKSCREW drop away, releasing him.
 He falls to the floor, drags himself over... and takes RACHEL
 in his arms. He cradles her. She whispers and he bends over
-to hear. She whispers again..."|speech|JESSE|F
+to hear. She whispers again..."|speech|JESSE|F|True
 982|RACHEL|".love you.
 JESSE tenderly kisses her lips.
 And all the TATTOOS fade from her face and body
@@ -3126,46 +3126,46 @@ flames start to encircle them, just like in RACHEL's
 nightmare.
 JESSE pulls RACHEL over the debris ridden floor toward the
 back windows, but stumbles and goes down. Her eyes flutter
-open."|speech|RACHEL|F
+open."|speech|RACHEL|F|True
 983|RACHEL|"Leave. Get out
 Instead of leaving her, JESSE hugs RACHEL closer. The sleeve
 of his jacket catches flames. And he accepts his fate.
-RACHEL shuts her eyes, gives one last TELEKINETIC PUSH..."|speech|RACHEL|F
-984||EXT. THE BACKYARD - NIGHT|location||
+RACHEL shuts her eyes, gives one last TELEKINETIC PUSH..."|speech|RACHEL|F|True
+984||EXT. THE BACKYARD - NIGHT|location|||
 985|RACHEL|"And a BODY is flung out the back window like a rag doll,
 clothes in flames.
 The BODY goes fifteen feet and falls onto the pool cover, its
-weight bowing the cover enough for water to rush over it."|speech|RACHEL|F
+weight bowing the cover enough for water to rush over it."|speech|RACHEL|F|True
 986|BACK T0:|"108.
 INTâ€¢ THE LIVING ROOM - NIGHT
 RACHEL on her back, looking up, eyes open, a slight smile on
 her lips.
 SHE SEES --
-The BURNING CEILING collapse, raining death on her."|speech|BACK T0:|?
-987||EXT. THE HOUSE - NIGHT|location||
+The BURNING CEILING collapse, raining death on her."|speech|BACK T0:|?|
+987||EXT. THE HOUSE - NIGHT|location|||
 988|BACK T0:|".is now a burning inferno. A funeral pyre.
 BACK YARD - THE POOL
 At water level. All is quiet, there's only the sounds of the
 crackling fire and faraway sirens of firetrucks. Suddenly --
-JESSE HURTS up on the --"|speech|BACK T0:|?
-989||EXT. THE HILL - NIGHT|location||
+JESSE HURTS up on the --"|speech|BACK T0:|?|
+989||EXT. THE HILL - NIGHT|location|||
 990|CUT TO:|"From miles away -- the LIGHT given off by the BURNING HOUSE
-rises over the treeline."|speech|CUT TO:|?
+rises over the treeline."|speech|CUT TO:|?|True
 991|CLOSE ON|"A dejected ARNIE and the two uncool BOYS who couldn't get
-into the party, leaning against a van, staring in amazement."|speech|CLOSE ON|F
+into the party, leaning against a van, staring in amazement."|speech|CLOSE ON|F|
 992|ARNIE|"Man, we are missing one killer party.
 FADE TO BLACK:
 And the peaceful sound of CRICKETS for the...
 SUP : NOTRE DAMS' LINIVER.STTY - QNE YEAR LATER
-FAD; IN TO:"|speech|ARNIE|F
-993||EXT. NOTRE DAM UNIVERSITY - NIGHT|location||
+FAD; IN TO:"|speech|ARNIE|F|True
+993||EXT. NOTRE DAM UNIVERSITY - NIGHT|location|||
 994|ARNIE|"A CHURCH TOWER with a BELL overlooks the student dorm
-buildings. The darkened campus is tranquil, still."|speech|ARNIE|F
-995||INT. HALLWAY, STUDENT DORM BUILDING - NIGHT|location||
+buildings. The darkened campus is tranquil, still."|speech|ARNIE|F|True
+995||INT. HALLWAY, STUDENT DORM BUILDING - NIGHT|location|||
 996|ARNIE|"MOVING down a. dormitory hall. The room doors feature rock
 posters and ""Fighting Irish"" stickers and pennants.
-109."|speech|ARNIE|F
-997||INT. DORM ROOM - NIGHT|location||
+109."|speech|ARNIE|F|True
+997||INT. DORM ROOM - NIGHT|location|||
 998|ARNIE|"JESSE is slumped over, asleep on a desk layered in textbooks
 and a notebook. An all-night study session.
 His hair is shor., he's wearing a beard. His face is more
@@ -3174,7 +3174,7 @@ one side of his face.
 Over the desk is a MIRROR and a ""Fighting Irish"" pennant.
 The only light comes from his desk lamp.
 He jerks awake with a spasm, glances at a digital clock
-glowing on his desk: 11:S$ A.M."|speech|ARNIE|F
+glowing on his desk: 11:S$ A.M."|speech|ARNIE|F|True
 999|JESSE|"(rubs his eyes)
 Jesus.
 WALTER, Rachel's dog, hops on his lap, licks at.his face.
@@ -3197,7 +3197,7 @@ The CLOCK BELL in the background is still CHIMING: give, six,
 seven and...
 110.
 T h e F R E N C H DOORS fly o behind JESSE. ns.
-It's the wind. The DOG starts barkin"|speech|JESSE|F
+It's the wind. The DOG starts barkin"|speech|JESSE|F|True
 1000|JESSE|"(shushes the dog)
 Ssshhhh. Relax, boy.
 He takes a-deep breath, flips the page on the notebook,
@@ -3209,10 +3209,10 @@ A WOMAN' s FIGURE
 anding in the French doors, her face hidden
 up, sees the WOMAN reflected, spins to watch
 her stop forward into the light.
-It's RACHEL, in hAk slip dress."|speech|JESSE|F
+It's RACHEL, in hAk slip dress."|speech|JESSE|F|True
 1001|"JESSE
 (STUNNED)"|"Rachel?
-RACHEL smiles. She lifts her arms to him."|speech|JESSE|F
+RACHEL smiles. She lifts her arms to him."|speech|JESSE|F|True
 1002|JESSE|"(with growing joy)
 Rachel.
 He rises, envelops her in his arms, and kisses her.
@@ -3233,7 +3233,7 @@ FATIM like it's about to explode from his mouth.
 He looks down at the paper in front of him. Filled only with
 his study notes.
 The dog, WALTER, is awake on the bed, blinking, having been
-stirred by the scream."|speech|JESSE|F
+stirred by the scream."|speech|JESSE|F|True
 1003|JOS|"He recovers, runs his hands through his hair. Starts
 reading.
 The DIGITAL CLOCK reads: 11:59 A.M.
@@ -3254,4 +3254,4 @@ Move, to ANOTHER ANGLE :
 Where his image is MULTIPLIED TO INFINITY in the two mirror!
 Fear is written on his face.
 And we know he'll be looking over his shoulder...
-Until the day he dies."|speech|JOS|M
+Until the day he dies."|speech|JOS|M|

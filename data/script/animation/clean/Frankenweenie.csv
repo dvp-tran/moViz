@@ -1,113 +1,113 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"FRANKENWEENIE
 Written by
-John August"|unknown||
+John August"|unknown|||
 1||"WHIRS and HUMS.    The screen flickers.
 Splices pop through the gate.
 And then, today's feature film:
 MONSTERS FROM BEYOND!
 The title card is made from cut cardboard, and very
-blurry."|stage direction||
-2||MOM (O.S.)|unknown||
-3||Victor, I don't know that it's...|location||
-4||VICTOR (O.S.)|unknown||
-5||Mom, you have to wear the glasses.|location||
-6||MOM (O.S.)|unknown||
-7||Oh!     Yes of course.|location||
+blurry."|stage direction|||
+2||MOM (O.S.)|unknown|||
+3||Victor, I don't know that it's...|location|||
+4||VICTOR (O.S.)|unknown|||
+5||Mom, you have to wear the glasses.|location|||
+6||MOM (O.S.)|unknown|||
+7||Oh!     Yes of course.|location|||
 8||"Thick frames slide past. Now we're looking at the title
 card in real 3D. It's very homemade, but charmingly
 done.
 The next card:
-STARRING SPARKY"|stage direction||
-9||DAD|unknown||
-10||In 3D honey.|location||
-11||Reveal that we are...|stage direction||
-12||INT. LIVING ROOM - DAY|location||
+STARRING SPARKY"|stage direction|||
+9||DAD|unknown|||
+10||In 3D honey.|location|||
+11||Reveal that we are...|stage direction|||
+12||INT. LIVING ROOM - DAY|location|||
 13||"Victor's MOM and DAD share the couch with SPARKY THE DOG,
 30-odd pounds of canine goodness. They're watching the
 homemade movie through vintage 3D glasses.
 Behind them run two projectors, manned by the filmmaker
 himself, VICTOR. He's more mad scientist than film
-auteur -- he built this twin projector system himself."|stage direction||
-14||MOM|unknown||
+auteur -- he built this twin projector system himself."|stage direction|||
+14||MOM|unknown|||
 15||"So that's where my candlestick
-went."|location||
-16||DAD|unknown||
+went."|location|||
+16||DAD|unknown|||
 17||"Oh, isn't that your grandmother's
-table cloth."|location||
-18||MOM|unknown||
-19||That looks great!|location||
+table cloth."|location|||
+18||MOM|unknown|||
+19||That looks great!|location|||
 20||"January 2012
-Final Shooting Script_2012_01_18_v2   2"|unknown||
+Final Shooting Script_2012_01_18_v2   2"|unknown|||
 21||"BACK TO THE SCREEN
 The pterodactyl swoops across town. People run in fear
-and panic. The monster attacks!"|stage direction||
-22||DAD|unknown||
+and panic. The monster attacks!"|stage direction|||
+22||DAD|unknown|||
 23||"Oh that is so...Woah! I just felt
-I was attacked."|location||
-24||MOM|unknown||
-25||Oh. That's scary.|location||
-26||Troops and tanks spring into action.|stage direction||
-27||DAD|unknown||
-28||Send in the marines!|location||
-29||ARMY FIGURE|unknown||
-30||Over here men. This way.|location||
-31||To no avail.|stage direction||
-32||MOM|unknown||
-33||Oh! Watch out!|location||
-34||DAD|unknown||
-35||Whoah!|location||
-36||ENTER SPARKYSAURUS|stage direction||
-37||MOM|unknown||
-38||Sparky!|location||
-39||DAD|unknown||
-40||Sparky that's you!|location||
-41||Sparky barks as he sees himself in the movie.|stage direction||
-42||MOM|unknown||
-43||Oh!|location||
-44||DAD|unknown||
-45||You tell em' Sparky.|location||
+I was attacked."|location|||
+24||MOM|unknown|||
+25||Oh. That's scary.|location|||
+26||Troops and tanks spring into action.|stage direction|||
+27||DAD|unknown|||
+28||Send in the marines!|location|||
+29||ARMY FIGURE|unknown|||
+30||Over here men. This way.|location|||
+31||To no avail.|stage direction|||
+32||MOM|unknown|||
+33||Oh! Watch out!|location|||
+34||DAD|unknown|||
+35||Whoah!|location|||
+36||ENTER SPARKYSAURUS|stage direction|||
+37||MOM|unknown|||
+38||Sparky!|location|||
+39||DAD|unknown|||
+40||Sparky that's you!|location|||
+41||Sparky barks as he sees himself in the movie.|stage direction|||
+42||MOM|unknown|||
+43||Oh!|location|||
+44||DAD|unknown|||
+45||You tell em' Sparky.|location|||
 46||"Sparky defeats the monster and the troops and townsfolk
-rejoice."|stage direction||
-47||DAD|unknown||
-48||Bravo!|location||
+rejoice."|stage direction|||
+47||DAD|unknown|||
+48||Bravo!|location|||
 49||"Suddenly, one of the projectors JAMS on a splice. The
 film melts, then the tail WHIPS AROUND, getting snared in
 the second projector's reel. The two machines SMASH
-TOGETHER in a shower of sparks."|stage direction||
-50||MOM|unknown||
-51||Oh!   Oh!|location||
+TOGETHER in a shower of sparks."|stage direction|||
+50||MOM|unknown|||
+51||Oh!   Oh!|location|||
 52||"January 2012
-Final Shooting Script_2012_01_18_v2       3"|unknown||
-53|DAD|Um. Maybe just unplug it.|speech|DAD|M
+Final Shooting Script_2012_01_18_v2       3"|unknown|||
+53|DAD|Um. Maybe just unplug it.|speech|DAD|M|True
 54||"Sparky YANKS the power cord from the wall.     The bulb
 dims. The spinning stops.
 Darkness for a moment, then Victor flicks on the light
-switch."|stage direction||
-55|MOM|Well it certainly was exciting!|speech|MOM|M
+switch."|stage direction|||
+55|MOM|Well it certainly was exciting!|speech|MOM|M|True
 56|DAD|"Yeah, it was a big finish. Well
-done son."|speech|DAD|M
-57|VICTOR|I can fix this. C'mon boy!|speech|VICTOR|M
-58||CUT TO:|unknown||
-59||INT. HOUSE / STAIRWELL - DAY|location||
+done son."|speech|DAD|M|True
+57|VICTOR|I can fix this. C'mon boy!|speech|VICTOR|M|True
+58||CUT TO:|unknown|||
+59||INT. HOUSE / STAIRWELL - DAY|location|||
 60||"Victor lugs the two projector upstairs.   Sparky follows
-behind."|stage direction||
+behind."|stage direction|||
 61|DAD (O.S.)|"All that time he spends up there.
 A boy his age needs to be outside
-with his friends."|speech|DAD|M
+with his friends."|speech|DAD|M|True
 62|MOM (O.S.)|"I don't know that Victor has
-friends, dear. Other than Sparky."|speech|MOM|M
-63||INT.   BEDROOM HALLWAY - DAY|location||
+friends, dear. Other than Sparky."|speech|MOM|M|True
+63||INT.   BEDROOM HALLWAY - DAY|location|||
 64||"Victor walks up the stairs into the attic.     Sparky is
-right behind."|stage direction||
+right behind."|stage direction|||
 65|DAD (O.S.)|"That's my point! I don't want him
-to turn out, y'know, weird."|speech|DAD|M
+to turn out, y'know, weird."|speech|DAD|M|True
 66|MOM (O.S)|"There's nothing wrong with Victor.
-He's just in his own world."|speech|MOM|M
-67||MUSIC RISES as we finally enter...|stage direction||
+He's just in his own world."|speech|MOM|M|True
+67||MUSIC RISES as we finally enter...|stage direction|||
 68||"January 2012
-Final Shooting Script_2012_01_18_v2   4"|unknown||
-69||INT.   ATTIC WORKSHOP - DAY|location||
+Final Shooting Script_2012_01_18_v2   4"|unknown|||
+69||INT.   ATTIC WORKSHOP - DAY|location|||
 70||"MAIN   TITLES begin, as Victor carries the projector up
 into   his attic workshop. Sparky follows at his feet and
 they   pass various inventions and movie set pieces that
@@ -117,67 +117,67 @@ pieces in and out.
 Sparky happily trots on a little treadmill Victor
 designed. He stops to scratch himself and slides out of
 frame. He bounds back a second later and tries to get
-Victor to play with him by licking his face."|stage direction||
+Victor to play with him by licking his face."|stage direction|||
 71||"Victor
-Easy boy."|unknown||
+Easy boy."|unknown|||
 72||"Victor finishes his tinkering and splices the broken
 film. Satisfied, he snaps the reel back on the projector
 and starts to roll it again.
-On the reel of the projector we -"|stage direction||
-73||DISSOLVE TO:|unknown||
-74||EXT.   TOWN - MORNING|location||
+On the reel of the projector we -"|stage direction|||
+73||DISSOLVE TO:|unknown|||
+74||EXT.   TOWN - MORNING|location|||
 75||"Tight on the wheel of the paper boy's bicycle we pull out
 to reveal the suburban paradise of New Holland. It's a
 sea of cookie-cutter houses on cul-de-sac'd streets named
 after trees.
 The town comes complete with its own ersatz Dutch
 windmill, which lazily turns on the hillside above.
-A BIKE-RIDING PAPERBOY delivers the morning news."|stage direction||
-76||EXT.   VICTOR'S HOUSE / STREET - MORNING|location||
+A BIKE-RIDING PAPERBOY delivers the morning news."|stage direction|||
+76||EXT.   VICTOR'S HOUSE / STREET - MORNING|location|||
 77||"Sparky runs out the front door and grabs the newspaper
-for Dad. Dad kisses Mom goodbye."|stage direction||
+for Dad. Dad kisses Mom goodbye."|stage direction|||
 78||"DAD
 See you later, sweetie.
 MOM
-Have a good day!"|unknown||
+Have a good day!"|unknown|||
 79||"Dad heads to his car.
 Sparky picks up the newspaper in his mouth, then trots
-back to the house, where Victor is waiting."|stage direction||
+back to the house, where Victor is waiting."|stage direction|||
 80||"January 2012
 Final Shooting Script_2012_01_18_v2    5
-MOM"|unknown||
+MOM"|unknown|||
 81||"Victor! Come on honey your going
 to be late. Go put Sparky in the
-backyard."|location||
-82||VICTOR|unknown||
-83||Come on Sparky!|location||
+backyard."|location|||
+82||VICTOR|unknown|||
+83||Come on Sparky!|location|||
 84||"Victor takes Sparky around to the side of the house. He
 throws a ball for Sparky which lands on the edge of his
-neighbours meticulous garden lawn."|stage direction||
-85||VICTOR|unknown||
-86||Good morning, Mr. Burgemeister!|location||
+neighbours meticulous garden lawn."|stage direction|||
+85||VICTOR|unknown|||
+86||Good morning, Mr. Burgemeister!|location|||
 87||"Next-door neighbor BURGEMEISTER is trimming his box
 hedge. The Mayor of New Holland, Burgemeister is
-slightly OCD and largely insufferable."|stage direction||
-88||BURGEMEISTER|unknown||
+slightly OCD and largely insufferable."|stage direction|||
+88||BURGEMEISTER|unknown|||
 89||"Your dog has been sniffing around
 my Dutch Dazzlers. The other day
 I caught him peeing on my
-flamingo."|location||
-90||VICTOR|unknown||
-91||I'll keep an eye on him.|location||
-92||BURGEMEISTER|unknown||
-93||You better.|location||
-94||VICTOR|unknown||
-95||Yes sir.|location||
-96||Victor continues to walk to the backyard.|stage direction||
-97||VICTOR|unknown||
+flamingo."|location|||
+90||VICTOR|unknown|||
+91||I'll keep an eye on him.|location|||
+92||BURGEMEISTER|unknown|||
+93||You better.|location|||
+94||VICTOR|unknown|||
+95||Yes sir.|location|||
+96||Victor continues to walk to the backyard.|stage direction|||
+97||VICTOR|unknown|||
 98||"Go on Sparky. That's right. Good
-boy."|location||
+boy."|location|||
 99||"Sparky trots after Victor.   Victor puts him in the back
-yard and waves good bye."|stage direction||
-100||VICTOR|unknown||
-101||See you later!|location||
+yard and waves good bye."|stage direction|||
+100||VICTOR|unknown|||
+101||See you later!|location|||
 102||"Burgemeister picks up his own newspaper and unfolds it to
 read the front page.
 INSERT NEWSPAPER: The headline reads ""MAYOR
@@ -185,80 +185,80 @@ BURGERMEISTER TO KICK OFF DUTCH DAYS."" A photo shows
 Mayor Burgemeister complete with sash and hat.
 Burgemeister is pleased with the photo.
 WIDER: A girl Victor's age tries to sneak out of the
-house behind Burgemeister."|stage direction||
+house behind Burgemeister."|stage direction|||
 103||"January 2012
-Final Shooting Script_2012_01_18_v2   6"|unknown||
+Final Shooting Script_2012_01_18_v2   6"|unknown|||
 104||"This is ELSA VAN HELSING. She's a raven-haired fourth-
 grader with the soul of a poet.
-With eyes in the back of his head..."|stage direction||
-105||BURGEMEISTER|unknown||
-106||Where do you think you're going?|location||
-107||She freezes.|stage direction||
-108||ELSA|unknown||
-109||School.|location||
-110||He turns to face her.|stage direction||
-111||BURGEMEISTER|unknown||
+With eyes in the back of his head..."|stage direction|||
+105||BURGEMEISTER|unknown|||
+106||Where do you think you're going?|location|||
+107||She freezes.|stage direction|||
+108||ELSA|unknown|||
+109||School.|location|||
+110||He turns to face her.|stage direction|||
+111||BURGEMEISTER|unknown|||
 112||"Is that so. What about that dog of
-yours?"|location||
-113||ELSA|unknown||
+yours?"|location|||
+113||ELSA|unknown|||
 114||"She's not in the house and she's
-away from your tulips."|location||
-115||BURGEMEISTER|unknown||
+away from your tulips."|location|||
+115||BURGEMEISTER|unknown|||
 116||"I want you to remember something,
 while your parents are away I am
-in charge here."|location||
-117||ELSA|unknown||
-118||Yes, Uncle Bob.|location||
-119||BURGEMEISTER|unknown||
+in charge here."|location|||
+117||ELSA|unknown|||
+118||Yes, Uncle Bob.|location|||
+119||BURGEMEISTER|unknown|||
 120||"Dutch Day is coming up and I don't
 need any trouble. How's your song
-coming?"|location||
-121||ELSA|unknown||
-122||Okay.|location||
-123||BURGEMEISTER|unknown||
+coming?"|location|||
+121||ELSA|unknown|||
+122||Okay.|location|||
+123||BURGEMEISTER|unknown|||
 124||"Keep at it. Dutch day is a big day
-for me."|location||
-125||ELSA|unknown||
-126||Yes sir.|location||
+for me."|location|||
+125||ELSA|unknown|||
+126||Yes sir.|location|||
 127||"He's finished.    Has nothing more to say.
 Elsa walks away, happy to be out of that conversation.
 Burgemeister goes back to admiring his photo in the
-newspaper."|stage direction||
+newspaper."|stage direction|||
 128||"January 2012
-Final Shooting Script_2012_01_18_v2   7"|unknown||
-129||INT.   CLASSROOM - DAY|location||
+Final Shooting Script_2012_01_18_v2   7"|unknown|||
+129||INT.   CLASSROOM - DAY|location|||
 130||"MR. RZYKRUSKI stands at the blackboard, where he's
 written his name. He has a thick, impossible-to-place
-accent, somewhere between a Russian spy and Dracula."|stage direction||
+accent, somewhere between a Russian spy and Dracula."|stage direction|||
 131|MR. RZYKRUSKI|"Good morning children. I am Mr.
 Rzykruski. I will be your new
 science teacher. Apparently, Mr.
-Holcum had an incident."|speech|MR. RZYKRUSKI|M
-132||Edgar interjects:|stage direction||
-133|E|He got hit by lightning.|speech|E|M
+Holcum had an incident."|speech|MR. RZYKRUSKI|M|True
+132||Edgar interjects:|stage direction|||
+133|E|He got hit by lightning.|speech|E|M|True
 134||"This is news to Mr. Rzykruski. The rest of the class,
 including Victor and every child we've met so far,
-already knew."|stage direction||
+already knew."|stage direction|||
 135|MR. RZYKRUSKI|"Well. That is bad. But he did
 not get ""hit by"" lightning.
 Lightning does not hit a person,
 the way one is hit by a baseball
-or a cabbage."|speech|MR. RZYKRUSKI|M
+or a cabbage."|speech|MR. RZYKRUSKI|M|True
 136||"On the blackboard, he draws a diagram to illustrate his
-point, starting with a big cloud."|stage direction||
+point, starting with a big cloud."|stage direction|||
 137|MR. RZYKRUSKI|"Lightning is simply electricity.
 The cloud is angry, yes, making
 storm. All the electrons are
 saying, ""I am leaving you. I go
-to land of opportunity."""|speech|MR. RZYKRUSKI|M
-138||He draws the ground beneath it.|stage direction||
+to land of opportunity."""|speech|MR. RZYKRUSKI|M|True
+138||He draws the ground beneath it.|stage direction|||
 139|MR. RZYKRUSKI|"The ground says, ""Yes, we need
 electrons trained in science just
 like you. Come! Come! Welcome!""
 So both sides start to build a
-ladder."|speech|MR. RZYKRUSKI|M
+ladder."|speech|MR. RZYKRUSKI|M|True
 140||"(drawing stick
-figure)"|unknown||
+figure)"|unknown|||
 141|MR. RZYKRUSKI|"This man, he comes out to look at
 the storm. He does not see the
 invisible ladders. When the two
@@ -266,49 +266,49 @@ ladders meet, BOOM! The circuit
 is complete and all of the
 electrons rush to the land of
 opportunity. This man is in the
-way. Yiii!"|speech|MR. RZYKRUSKI|M
+way. Yiii!"|speech|MR. RZYKRUSKI|M|True
 142||"January 2012
-Final Shooting Script_2012_01_18_v2     8"|unknown||
+Final Shooting Script_2012_01_18_v2     8"|unknown|||
 143||"He draws ""shock lines"" all around the stick figure.   It's
 pretty violent.
 All of the students are watching in wide-eyed wonder.
-Realizing that he may have gone overboard..."|stage direction||
-144||MR. RZYKRUSKI|unknown||
+Realizing that he may have gone overboard..."|stage direction|||
+144||MR. RZYKRUSKI|unknown|||
 145||"But is very rare to have such
-incident."|location||
-146||Victor raises his hand.|stage direction||
-147||TOSHIAKI|unknown||
+incident."|location|||
+146||Victor raises his hand.|stage direction|||
+147||TOSHIAKI|unknown|||
 148||"But it's not rare.
 Lightning happens to people all
 the time here.
 There's a thunderstorm almost
-every night."|location||
-149||BOB|unknown||
-150||My dad got hit twice.|location||
-151||WEIRD GIRL|unknown||
+every night."|location|||
+149||BOB|unknown|||
+150||My dad got hit twice.|location|||
+151||WEIRD GIRL|unknown|||
 152||"They built New Holland on an
-abandoned gold mine..."|location||
-153||TOSHIAKI|unknown||
-154||I heard it was a cemetery.|location||
-155||WEIRD GIRL|unknown||
+abandoned gold mine..."|location|||
+153||TOSHIAKI|unknown|||
+154||I heard it was a cemetery.|location|||
+155||WEIRD GIRL|unknown|||
 156||"That's where they buried the
-miners."|location||
-157||NASSOR|unknown||
-158||It's the windmill that does it.|location||
+miners."|location|||
+157||NASSOR|unknown|||
+158||It's the windmill that does it.|location|||
 159||"REVEAL a view of the windmill through the classroom
 window.
-We PUSH IN on Nassor, the intense look in his eyes."|stage direction||
-160||NASSOR|unknown||
+We PUSH IN on Nassor, the intense look in his eyes."|stage direction|||
+160||NASSOR|unknown|||
 161||"Turning, turning the air until the
 sky itself rages against the
-night."|location||
-162||A beat.|stage direction||
+night."|location|||
+162||A beat.|stage direction|||
 163||"No.   Cemetery. Definitely.
-EXT. BACK YARD - DAY"|location||
+EXT. BACK YARD - DAY"|location|||
 164||"Sparky amusing himself while Victor is at school by
-playing with a tennis ball."|stage direction||
+playing with a tennis ball."|stage direction|||
 165||"January 2012
-Final Shooting Script_2012_01_18_v2   9"|unknown||
+Final Shooting Script_2012_01_18_v2   9"|unknown|||
 166||"But ""catch"" doesn't work too well without Victor and the
 ball rolls through a broken plank in the bottom of Mr
 Burgemeister's fence.
@@ -331,129 +331,129 @@ She drops the ball on the grass, staring back.
 Sparky suddenly rolls over on his back, completely
 submissive.
 Persephone grabs the ball and runs away.
-Sparky pops up, looking after her."|stage direction||
-167||INT.   CLASS - DAY|location||
-168||The bell RINGS.   Students head for the door.|stage direction||
+Sparky pops up, looking after her."|stage direction|||
+167||INT.   CLASS - DAY|location|||
+168||The bell RINGS.   Students head for the door.|stage direction|||
 169||"MR. RZYKRUSKI
 Students on your way out, take a
 permission slip for the Science
-Fair."|unknown||
+Fair."|unknown|||
 170||"Nassor takes a form.   Reads it.
-They are intrigued but don't understand."|stage direction||
+They are intrigued but don't understand."|stage direction|||
 171||"BOB
 (per the form)
 First prize is a huge trophy!
 January 2012
-Final Shooting Script_2012_01_18_v2     10"|unknown||
-172||EXT. SCHOOL / BIKE RACKS - DAY|location||
+Final Shooting Script_2012_01_18_v2     10"|unknown|||
+172||EXT. SCHOOL / BIKE RACKS - DAY|location|||
 173||"CLOSE ON Victor, kneeling as he locks his bike to the
 rack.
 A SHADOW falls across him.
 He looks up to see WEIRD GIRL standing over him. She has
 a fluffy white CAT in her arms, which she strokes idly
-like a James Bond villain."|stage direction||
-174||WEIRD GIRL|unknown||
-175||Hello, Victor.|location||
-176||VICTOR|unknown||
-177||Hi.|location||
-178||WEIRD GIRL|unknown||
+like a James Bond villain."|stage direction|||
+174||WEIRD GIRL|unknown|||
+175||Hello, Victor.|location|||
+176||VICTOR|unknown|||
+177||Hi.|location|||
+178||WEIRD GIRL|unknown|||
 179||"Mr. Whiskers had a dream about you
-last night."|location||
-180||VICTOR|unknown||
-181||How do you know?|location||
-182||WEIRD GIRL|unknown||
+last night."|location|||
+180||VICTOR|unknown|||
+181||How do you know?|location|||
+182||WEIRD GIRL|unknown|||
 183||"Because this morning, he made
-this."|location||
+this."|location|||
 184||"She holds out what looks to be a small rope of dried
-clay, bent in shape of a V."|stage direction||
-185||VICTOR|unknown||
+clay, bent in shape of a V."|stage direction|||
+185||VICTOR|unknown|||
 186||"Did you get that out of the litter
-box?"|location||
-187||WEIRD GIRL|unknown||
-188||It's an omen.|location||
-189||FLASH CUT:|unknown||
-190||EXT. VARIOUS LOCATIONS - DAY [PAST]|location||
-191||WEIRD GIRL (V.O.)|unknown||
-192||Last month he dreamed about Bob.|location||
+box?"|location|||
+187||WEIRD GIRL|unknown|||
+188||It's an omen.|location|||
+189||FLASH CUT:|unknown|||
+190||EXT. VARIOUS LOCATIONS - DAY [PAST]|location|||
+191||WEIRD GIRL (V.O.)|unknown|||
+192||Last month he dreamed about Bob.|location|||
 193||"She shows BOB, a chubby classmate, a cat-poop `B.'
 In a STYLIZED, OVERLAPPING SPLIT-SCREEN, we see Bob
-walking down a sidewalk, eating an ice-cream cone."|stage direction||
-194||WEIRD GIRL (V.O.)|unknown||
-195||He fell in a manhole.|location||
+walking down a sidewalk, eating an ice-cream cone."|stage direction|||
+194||WEIRD GIRL (V.O.)|unknown|||
+195||He fell in a manhole.|location|||
 196||"Bob suddenly drops out of frame.   TILT DOWN to see the
-open manhole."|stage direction||
+open manhole."|stage direction|||
 197||"January 2012
-Final Shooting Script_2012_01_18_v2   11"|unknown||
+Final Shooting Script_2012_01_18_v2   11"|unknown|||
 198|WEIRD GIRL (V.O.)|"He dreamed about Toshiaki the day
-he pitched a perfect game."|speech|WEIRD GIRL|F
+he pitched a perfect game."|speech|WEIRD GIRL|F|
 199||"Weird Girl shows classmate TOSHIAKI a cat-poop `T.'
 Wearing a baseball cap, Toshiaki stares intently, ready
-to make his pitch."|stage direction||
+to make his pitch."|stage direction|||
 200|WEIRD GIRL (V.O.)|"...and Nassor the day he got
-knocked unconscious."|speech|WEIRD GIRL|F
+knocked unconscious."|speech|WEIRD GIRL|F|
 201||"Nassor, an intense boy with sinister eyes, pulls down a
 catcher's mask. A slit of light on his eyes.
 Toshiaki throws. The ball hits Nassor square on the
-mask, knocking him down."|stage direction||
-202||EXT. SCHOOL / BIKE RACKS - DAY|location||
+mask, knocking him down."|stage direction|||
+202||EXT. SCHOOL / BIKE RACKS - DAY|location|||
 203|WEIRD GIRL|"If Mr. Whiskers dreams about you,
 it means something big is going to
-happen."|speech|WEIRD GIRL|F
-204||"She offers him the ""V."""|stage direction||
-205|VICTOR|You can keep it.|speech|VICTOR|M
+happen."|speech|WEIRD GIRL|F|
+204||"She offers him the ""V."""|stage direction|||
+205|VICTOR|You can keep it.|speech|VICTOR|M|True
 206||"The class bell RINGS.     Side-stepping around her, Victor
 heads in to class.
-She holds the cat to her face."|stage direction||
+She holds the cat to her face."|stage direction|||
 207|WEIRD GIRL|"One day you'll dream about me,
-won't you kitty?"|speech|WEIRD GIRL|F
-208||Mr. Whiskers offers nothing.|stage direction||
-209||EXT.   TOWN - DAY|location||
+won't you kitty?"|speech|WEIRD GIRL|F|
+208||Mr. Whiskers offers nothing.|stage direction|||
+209||EXT.   TOWN - DAY|location|||
 210||"Victor hops off his bike and goes into the backyard where
-Sparky has been waiting for him to come home."|stage direction||
-211|VICTOR|Hey boy. How you doing?|speech|VICTOR|M
-212||Suddenly the backyard gate bursts open.|stage direction||
+Sparky has been waiting for him to come home."|stage direction|||
+211|VICTOR|Hey boy. How you doing?|speech|VICTOR|M|True
+212||Suddenly the backyard gate bursts open.|stage direction|||
 213|E|"You'll be my partner, right,
-Victor?"|speech|E|M
+Victor?"|speech|E|M|True
 214||"January 2012
-Final Shooting Script_2012_01_18_v2   12"|unknown||
+Final Shooting Script_2012_01_18_v2   12"|unknown|||
 215|E (CONT'D)|"Because you have to have a partner
 for the science fair and whoever's
 your partner is going to win. You
 know the most about science. So
 pick me as a partner. I have lots
 of ideas. We could make a death
-ray!"|speech|E|M
+ray!"|speech|E|M|True
 216||"Victor holds up a permission slip, which lists all the
 prohibited projects, including explosives, lasers,
-nuclear devices and death rays."|stage direction||
-217|VICTOR|It says no death rays.    See?|speech|VICTOR|M
-218|E|Ah, man. I still want to do it.|speech|E|M
-219||(and yet...)|unknown||
+nuclear devices and death rays."|stage direction|||
+217|VICTOR|It says no death rays.    See?|speech|VICTOR|M|True
+218|E|Ah, man. I still want to do it.|speech|E|M|True
+219||(and yet...)|unknown|||
 220|E|"C'mon. Who else would be your
 partner? You don't have friends
-and neither do I."|speech|E|M
-221||He has a point.   Victor gives in.|stage direction||
+and neither do I."|speech|E|M|True
+221||He has a point.   Victor gives in.|stage direction|||
 222|VICTOR|"I'm sorry Edgar. I just don't need
-a partner. I like to work alone."|speech|VICTOR|M
-223||INT.   DINING ROOM - DAY|location||
+a partner. I like to work alone."|speech|VICTOR|M|True
+223||INT.   DINING ROOM - DAY|location|||
 224||"Dad is examining the permission slip. Mom is bringing
-food in from the kitchen -- they're having fondue."|stage direction||
-225|VICTOR|Will you sign my permission slip?|speech|VICTOR|M
-226|MOM|Dinner's ready.|speech|MOM|M
+food in from the kitchen -- they're having fondue."|stage direction|||
+225|VICTOR|Will you sign my permission slip?|speech|VICTOR|M|True
+226|MOM|Dinner's ready.|speech|MOM|M|True
 227|DAD|"Victor, have I ever talked to you
-about what I do for a living?"|speech|DAD|M
-228|VICTOR|You're a travel agent.|speech|VICTOR|M
+about what I do for a living?"|speech|DAD|M|True
+228|VICTOR|You're a travel agent.|speech|VICTOR|M|True
 229|DAD|"I sell dreams. I tell people, you
 can sail to Italy. You can do the
-hula in Hawaii."|speech|DAD|M
-230|VICTOR|Will you sign my form?|speech|VICTOR|M
-231|DAD|I'm getting to that.|speech|DAD|M
+hula in Hawaii."|speech|DAD|M|True
+230|VICTOR|Will you sign my form?|speech|VICTOR|M|True
+231|DAD|I'm getting to that.|speech|DAD|M|True
 232||"January 2012
 Final Shooting Script_2012_01_18_v2   13
-VICTOR"|unknown||
-233|DAD|Okay.|speech|DAD|M
+VICTOR"|unknown|||
+233|DAD|Okay.|speech|DAD|M|True
 234||"Dad picks up two long fondue forks, using them to
-illustrate his point."|stage direction||
+illustrate his point."|stage direction|||
 235|DAD|"In my job, sometimes you have
 people who don't want quite the
 same thing, right. Say the
@@ -461,20 +461,20 @@ husband wants to play golf in
 Scotland, but the wife wants to
 paddle down the Amazon. Alright
 you've got two conflicting ideas
-here."|speech|DAD|M
-236||(holding forks apart)|unknown||
+here."|speech|DAD|M|True
+236||(holding forks apart)|unknown|||
 237|DAD|"And it's my job, Victor, to help
 them meet halfway. Say,
 Scottsdale, Arizona. He gets to
-golf, she gets Indians."|speech|DAD|M
+golf, she gets Indians."|speech|DAD|M|True
 238|MOM|"But there's no river. And no
-jungle."|speech|MOM|M
-239|VICTOR|Nobody gets what they want.|speech|VICTOR|M
+jungle."|speech|MOM|M|True
+239|VICTOR|Nobody gets what they want.|speech|VICTOR|M|True
 240|DAD|"Exactly. And wrong. They both
 get what they want because they
-compromise."|speech|DAD|M
+compromise."|speech|DAD|M|True
 241||"Dad skewers meat on his forks, continuing his metaphor.
-Victor is shrimp; Dad is beef."|stage direction||
+Victor is shrimp; Dad is beef."|stage direction|||
 242|DAD|"You'd like to do this science
 fair. And that's great. I'd like
 you to try a sport. Say, I don't
@@ -483,174 +483,174 @@ baseball. Science fair, baseball.
 How do you choose? Guess what?
 You don't have to. No reason you
 can't do both. You meet in the
-middle."|speech|DAD|M
+middle."|speech|DAD|M|True
 243||"(bringing forks
-together)"|unknown||
-244|DAD|Everyone's happy.|speech|DAD|M
-245||EXT.   BASEBALL FIELD - DAY|location||
+together)"|unknown|||
+244|DAD|Everyone's happy.|speech|DAD|M|True
+245||EXT.   BASEBALL FIELD - DAY|location|||
 246||"Victor is stood on the side of the baseball field with
 his Dad who is head coach. Sparky is there aswell to
 support Victor.
-Toshiaki is pitching. Nassor is catching."|stage direction||
+Toshiaki is pitching. Nassor is catching."|stage direction|||
 247||"January 2012
 Final Shooting Script_2012_01_18_v2     14
-DAD"|unknown||
+DAD"|unknown|||
 248||"Look at what Toshiaki's doing.
 Keeping his eye on the target.
-Never losing his concentration."|location||
+Never losing his concentration."|location|||
 249||"Toshiaki pitches and the batter misses. Nassor catches
-the ball."|stage direction||
-250||GYM TEACHER|unknown||
-251||Strike three! Next Batter!|location||
+the ball."|stage direction|||
+250||GYM TEACHER|unknown|||
+251||Strike three! Next Batter!|location|||
 252||"Camera PANS to find Mr. Rzykruski -- who is simply in
-Victor's imagination."|stage direction||
-253||MR. RZYKRUSKI|unknown||
+Victor's imagination."|stage direction|||
+253||MR. RZYKRUSKI|unknown|||
 254||"I want you to concentrate on your
-project for the science fair."|location||
+project for the science fair."|location|||
 255||"We continue to pan past Mr Ryzkruski and come back onto
 Victor trying in vain to keep focused on the game.
-Toshiaki winds up for the pitch."|stage direction||
-256||EXT. BASEBALL FIELD - DAY|location||
+Toshiaki winds up for the pitch."|stage direction|||
+256||EXT. BASEBALL FIELD - DAY|location|||
 257||"Victor's Mom is in the stands for the big game -- along
 with all the kids we've met so far, and many of the
 adults. Sparky is completely taken by the ball and his
-eyes follow it around the field."|stage direction||
-258||MOM|unknown||
-259||Come on honey!|location||
+eyes follow it around the field."|stage direction|||
+258||MOM|unknown|||
+259||Come on honey!|location|||
 260||"Toshiaki pitches again and as Victor swings to hit the
 ball Sparky leaps up catching the ball mid jump. The
-other kids snigger."|stage direction||
-261||TOSHIAKI|unknown||
-262||Nice catch Sparky.|location||
-263||DAD|unknown||
+other kids snigger."|stage direction|||
+261||TOSHIAKI|unknown|||
+262||Nice catch Sparky.|location|||
+263||DAD|unknown|||
 264||"Come on Victor, please. Tie Sparky
 up and get your head into the
-game."|location||
-265||GYM TEACHER|unknown||
-266||Time out!|location||
-267||Victor takes Sparky to the bleachers and ties him up.|stage direction||
-268||VICTOR|unknown||
-269||Sorry boy.|location||
+game."|location|||
+265||GYM TEACHER|unknown|||
+266||Time out!|location|||
+267||Victor takes Sparky to the bleachers and ties him up.|stage direction|||
+268||VICTOR|unknown|||
+269||Sorry boy.|location|||
 270||"He walks back onto the field.
-Elsa arrives at the bleachers with Persephone."|stage direction||
+Elsa arrives at the bleachers with Persephone."|stage direction|||
 271||"January 2012
 Final Shooting Script_2012_01_18_v2   15
-ELSA"|unknown||
-272|DAD|Hey Sparky.|speech|DAD|M
+ELSA"|unknown|||
+272|DAD|Hey Sparky.|speech|DAD|M|True
 273||"She sits on the bleachers with Persephone to watch the
-game. Sparky looks over admiringly at Persephone."|stage direction||
-274||GYM TEACHER|unknown||
-275|DAD|Play ball.|speech|DAD|M
-276||Victor swings for the ball again. And misses.|stage direction||
-277||GYM TEACHER|unknown||
-278|DAD|Strike One.|speech|DAD|M
-279||DAD|unknown||
-280|DAD|Nice try son.|speech|DAD|M
-281||Once again Victor remembers wise words of Mr Ryzkruski.|stage direction||
-282||INT.   CLASSROOM - CONTINUOUS|location||
+game. Sparky looks over admiringly at Persephone."|stage direction|||
+274||GYM TEACHER|unknown|||
+275|DAD|Play ball.|speech|DAD|M|True
+276||Victor swings for the ball again. And misses.|stage direction|||
+277||GYM TEACHER|unknown|||
+278|DAD|Strike One.|speech|DAD|M|True
+279||DAD|unknown|||
+280|DAD|Nice try son.|speech|DAD|M|True
+281||Once again Victor remembers wise words of Mr Ryzkruski.|stage direction|||
+282||INT.   CLASSROOM - CONTINUOUS|location|||
 283||"Mr. Rzykruski stands in front of the classroom black
-board."|stage direction||
+board."|stage direction|||
 284|MR. RZYKRUSKI|"When conducting an experiment,
 trying is the important thing. It
 is OK to fail as long as you keep
-trying."|speech|MR. RZYKRUSKI|M
-285||EXT.   BASEBALL FIELD - DAY|location||
+trying."|speech|MR. RZYKRUSKI|M|True
+285||EXT.   BASEBALL FIELD - DAY|location|||
 286||"Back on the field at the bleachers Weird Girl arrives
 with Mr Whiskers. She sits by Elsa and Peresphone. They
-exchange a glance."|stage direction||
-287|MOM|Come on Victor- you can do it!|speech|MOM|M
-288||Toshiaki pitches again and again Victor misses.|stage direction||
-289||GYM TEACHER|unknown||
-290|MOM|Strike two!|speech|MOM|M
-291||TOSHIAKI|unknown||
-292|MOM|Yes.|speech|MOM|M
-293|MOM|Come on honey!|speech|MOM|M
+exchange a glance."|stage direction|||
+287|MOM|Come on Victor- you can do it!|speech|MOM|M|True
+288||Toshiaki pitches again and again Victor misses.|stage direction|||
+289||GYM TEACHER|unknown|||
+290|MOM|Strike two!|speech|MOM|M|True
+291||TOSHIAKI|unknown|||
+292|MOM|Yes.|speech|MOM|M|True
+293|MOM|Come on honey!|speech|MOM|M|True
 294||"Elsa, Weird Girl and Mr Whiskers will Victor on.
 This time when Victor swings -
-He hits!"|stage direction||
+He hits!"|stage direction|||
 295||"January 2012
-Final Shooting Script_2012_01_18_v2      16"|unknown||
-296||He almost forgets to run until Sparky BARKS at him.|stage direction||
+Final Shooting Script_2012_01_18_v2      16"|unknown|||
+296||He almost forgets to run until Sparky BARKS at him.|stage direction|||
 297||"DAD (CONT'D)
-Victor run!"|unknown||
+Victor run!"|unknown|||
 298||"Sparky pulls on his lead and it works loose.
 The ball rolls out of the park.
-Sparky goes after it, his stubby legs bounding."|stage direction||
+Sparky goes after it, his stubby legs bounding."|stage direction|||
 299||"MOM
-Oh Sparky!"|unknown||
-300||EXT. STREET - DAY|location||
+Oh Sparky!"|unknown|||
+300||EXT. STREET - DAY|location|||
 301||"The ball rolls into the street and Sparky manages to grab
 it in his mouth.
 Proud of himself, Sparky turns to look back at Victor.
 Just then...
 A CAR
 SCREECHES up at him.      Sparky reacts.    We CUT AWAY as the
-car hits."|stage direction||
-302||EXT.    BASEBALL FIELD - DAY|location||
+car hits."|stage direction|||
+302||EXT.    BASEBALL FIELD - DAY|location|||
 303||"Every player, every kid, every parent is stunned.
-Horrified. We end CLOSE ON Victor."|stage direction||
+Horrified. We end CLOSE ON Victor."|stage direction|||
 304||"VICTOR
-Sparky! Noooooo!"|unknown||
-305||EXT.    PET CEMETERY - EVENING|location||
+Sparky! Noooooo!"|unknown|||
+305||EXT.    PET CEMETERY - EVENING|location|||
 306||"Dad buries a wooden box. Victor watches at the grave
 side, devastated. His Mom and Dad give him a quiet moment
-to grieve."|stage direction||
-307||EXT.    BACKYARD - EVENING|location||
+to grieve."|stage direction|||
+307||EXT.    BACKYARD - EVENING|location|||
 308||"Persephone nudges the tennis ball through the gap in the
 fence. She's waiting for Sparky.
-Disappointed, she leaves the ball and slowly walks away."|stage direction||
-309||INT. BEDROOM - EVENING|location||
+Disappointed, she leaves the ball and slowly walks away."|stage direction|||
+309||INT. BEDROOM - EVENING|location|||
 310||"Victor lies in bed, staring up at the ceiling. Mom and
-Dad sit on the edge of the bed, trying to comfort him."|stage direction||
+Dad sit on the edge of the bed, trying to comfort him."|stage direction|||
 311||"January 2012
-Final Shooting Script_2012_01_18_v2    17"|unknown||
+Final Shooting Script_2012_01_18_v2    17"|unknown|||
 312|MOM|"He was a great dog.    A great
-friend."|speech|MOM|M
-313|DAD|The best dog a kid could have.|speech|DAD|M
+friend."|speech|MOM|M|True
+313|DAD|The best dog a kid could have.|speech|DAD|M|True
 314|MOM|"When you lose someone you love,
 they never really leave you. They
 just move into a special place in
 your heart. He'll always be
-there, Victor."|speech|MOM|M
+there, Victor."|speech|MOM|M|True
 315|VICTOR|"I don't want him in my heart.    I
-want him here, with me."|speech|VICTOR|M
+want him here, with me."|speech|VICTOR|M|True
 316|MOM|"I know. If we could bring him
-back, we would."|speech|MOM|M
-317||Mom kisses Victor goodnight and turns to leave.|stage direction||
+back, we would."|speech|MOM|M|True
+317||Mom kisses Victor goodnight and turns to leave.|stage direction|||
 318|MOM|"Try and get some sleep sweet heart-
 things will seem better in the
-morning."|speech|MOM|M
-319||INT.   ATTIC WORKSHOP - EVENING|location||
+morning."|speech|MOM|M|True
+319||INT.   ATTIC WORKSHOP - EVENING|location|||
 320||"In his attic workshop, Victor is finishing work on his
 projector. He threads the film and starts it playing.
 Sparky-saurus is attacking the Pterodactyl. Victor
-smiles for a moment, then the sadness returns."|stage direction||
-321||DISSOLVE TO:|unknown||
+smiles for a moment, then the sadness returns."|stage direction|||
+321||DISSOLVE TO:|unknown|||
 322||"Victor's sadness remains as we travel through a changing
 scene around him- in his bedroom, at breakfast, in the
-car on the way to school and finally in the classroom."|stage direction||
-323||MATCH CUT TO:|unknown||
-324||INT.   CLASS - DAY|location||
+car on the way to school and finally in the classroom."|stage direction|||
+323||MATCH CUT TO:|unknown|||
+324||INT.   CLASS - DAY|location|||
 325||"Back at school Victor is despondent. Unable to
 concentrate, he doodles pictures of Sparky in his
-notebook and barely listens to the lecture."|stage direction||
+notebook and barely listens to the lecture."|stage direction|||
 326|MR. RZYKRUSKI|"Just like lightning, the nervous
-system is electricity."|speech|MR. RZYKRUSKI|M
+system is electricity."|speech|MR. RZYKRUSKI|M|True
 327||"January 2012
 Final Shooting Script_2012_01_18_v2   18
-MR. RZYKRUSKI (CONT'D)"|unknown||
+MR. RZYKRUSKI (CONT'D)"|unknown|||
 328||"We are wires and springs and
 cables to send the messages.
 ""Foot! Move! You are standing in
-the fire!"""|location||
+the fire!"""|location|||
 329||"Mr. Ryzkruski lifts up a plate with a cloth on. He
-reveals a dead frog."|stage direction||
-330||CHILDREN|unknown||
-331||Eww!|location||
-332||MR. RZYKRUSKI|unknown||
+reveals a dead frog."|stage direction|||
+330||CHILDREN|unknown|||
+331||Eww!|location|||
+332||MR. RZYKRUSKI|unknown|||
 333||"Even after death, the wiring
 remains. Watch as the muscles
-respond to the electricity."|location||
+respond to the electricity."|location|||
 334||"Mr Ryzkruski places the frog onto his desk and begins to
 hook an electrode to its leg.
 The wiring is attached to a small box that can generate
@@ -662,25 +662,25 @@ And so does Victor.
 He looks back and forth between Mr. Ryzkruski's
 demonstration and his doodle of Sparky. An idea.
 Victor bursts out of the school doors and starts to run
-home."|stage direction||
-335||EXT. NEIGHBORHOOD - DAY|location||
-336||Victor runs through the street on his way home.|stage direction||
-337||EXT. VICTOR'S HOUSE - DAY|location||
+home."|stage direction|||
+335||EXT. NEIGHBORHOOD - DAY|location|||
+336||Victor runs through the street on his way home.|stage direction|||
+337||EXT. VICTOR'S HOUSE - DAY|location|||
 338||"He runs into the garage and grabs a whole lot of tools,
-gear and equipment."|stage direction||
-339||INT. VICTOR'S HOUSE - DAY|location||
+gear and equipment."|stage direction|||
+339||INT. VICTOR'S HOUSE - DAY|location|||
 340||"Victor raids the kitchen for some household appliances.
 Mom sits on the couch reading and only barely registers
-what he is up to."|stage direction||
-341||MOM|unknown||
-342||Hi Victor, how was school?|location||
+what he is up to."|stage direction|||
+341||MOM|unknown|||
+342||Hi Victor, how was school?|location|||
 343||"January 2012
 Final Shooting Script_2012_01_18_v2   19
-VICTOR"|unknown||
-344||Ok.|location||
+VICTOR"|unknown|||
+344||Ok.|location|||
 345||"Victor heads upstairs with a box of the appliances he has
-just collected."|stage direction||
-346||EXT. PET CEMETERY - NIGHT|location||
+just collected."|stage direction|||
+346||EXT. PET CEMETERY - NIGHT|location|||
 347||"A full moon.    HOOTING owls.
 Over the top of the fence, we see a shovel blade moving
 past.
@@ -690,8 +690,8 @@ especially because he's trying to be quiet.
 A black cat perches on a nearby gravestone.     SCREECHES.
 Spooked, Victor waves him off.
 He's uncovered the box. He opens it and gingerly loads
-the wrapped bundle into shoulder."|stage direction||
-348||INT. LIVING ROOM - NIGHT|location||
+the wrapped bundle into shoulder."|stage direction|||
+348||INT. LIVING ROOM - NIGHT|location|||
 349||"Victor's parents are sitting on the couch watching a
 movie. Though the movie isn't really scary, Mom looks for
 any excuse to snuggle closer to her husband. He
@@ -704,16 +704,16 @@ Dad turns and sees what's back there but can't see Victor
 who is hiding, frozen, just out of sight.
 Dad turns back to the TV.
 Relieved, Victor tiptoes past them, heading for the
-stairs."|stage direction||
-350||INT. ATTIC LABORATORY - NIGHT|location||
+stairs."|stage direction|||
+350||INT. ATTIC LABORATORY - NIGHT|location|||
 351||"EXTREMELY CLOSE ON the eye of a needle.   Thread pushes
 through.
 Victor is making repairs to Sparky's corpse. We don't
 see any of it directly, just shadows on the wall.
 He rummages through a bucket of nuts and screws, picking
-two oversized bolts."|stage direction||
+two oversized bolts."|stage direction|||
 352||"January 2012
-Final Shooting Script_2012_01_18_v2     20"|unknown||
+Final Shooting Script_2012_01_18_v2     20"|unknown|||
 353||"He places Sparky onto Mom's ironing board and pushes it
 directly under the skylight. The storm is just reaching a
 fever pitch.
@@ -722,12 +722,12 @@ window where we see that he has attached his metal swing
 set to the roof. Victor checks the wind direction and
 lets fly two balloons attached to the umbrella and
 fastens the ends to the swing set. This will serve as the
-conductor."|stage direction||
-354||EXT. BURGEMEISTER'S HOUSE - NIGHT|location||
+conductor."|stage direction|||
+354||EXT. BURGEMEISTER'S HOUSE - NIGHT|location|||
 355||"Burgemeister is drawing his drapes shut when he sees the
 movement on the Frankenstein roof. He can't make out
-Victor, but it's enough to make him suspicious."|stage direction||
-356||INT. ATTIC LABORATORY - NIGHT|location||
+Victor, but it's enough to make him suspicious."|stage direction|||
+356||INT. ATTIC LABORATORY - NIGHT|location|||
 357||"Victor climbs down and checks his notes and his
 equipment.
 We see a whole host of household items that Victor has re-
@@ -751,9 +751,9 @@ The metal table finally reaches his resting spot under
 the swing set.
 Now all he can do is wait. He watches the storm intently,
 silently urging Zeus' thunderbolts to strike.
-And then..."|stage direction||
+And then..."|stage direction|||
 358||"January 2012
-Final Shooting Script_2012_01_18_v2      21"|unknown||
+Final Shooting Script_2012_01_18_v2      21"|unknown|||
 359||"CRACK!
 A jagged finger of light touches the top of the balloons,
 racing down the cord and into the attic -
@@ -767,146 +767,146 @@ Wearing a stethoscope, he listens for a heartbeat.
 Hearing nothing, he keeps checking. But he eventually
 realizes it has all been for naught.
 He lays his head down on the workbench, letting out
-exhausted, sniffly tears."|stage direction||
-360||VICTOR|unknown||
-361||I'm sorry, boy.|location||
+exhausted, sniffly tears."|stage direction|||
+360||VICTOR|unknown|||
+361||I'm sorry, boy.|location|||
 362||"A beat.
 As a single tear drips onto Sparky's lifeless form, we
 hear a final spark and then...
 His TAIL starts to move and   -
 His TONGUE licks Victor face.
 Victor sits up, bewildered.   It's Sparky, still half-
-wrapped in the blanket."|stage direction||
-363||VICTOR|unknown||
+wrapped in the blanket."|stage direction|||
+363||VICTOR|unknown|||
 364||"You're alive! You're alive!
 Sparky! You're Alive! I can't
-believe it you're alive!"|location||
+believe it you're alive!"|location|||
 365||"Sparky can't control how happy he is and knocks Victor to
 the group. He enthusiastically licks his face and wags
 his tail so excitedly that it flies clear across the
 room. For a moment, he looks worried but Victor just
-laughs."|stage direction||
-366||VICTOR|unknown||
-367||I can fix that.|location||
+laughs."|stage direction|||
+366||VICTOR|unknown|||
+367||I can fix that.|location|||
 368||"Victor and Sparky play on the attic floor excited to be
-back together."|stage direction||
-369||VICTOR|unknown||
-370||It worked. It really worked.|location||
+back together."|stage direction|||
+369||VICTOR|unknown|||
+370||It worked. It really worked.|location|||
 371||"January 2012
-Final Shooting Script_2012_01_18_v2    22"|unknown||
-372||INT.   ATTIC WORKSHOP - DAY|location||
+Final Shooting Script_2012_01_18_v2    22"|unknown|||
+372||INT.   ATTIC WORKSHOP - DAY|location|||
 373||"Victor is sleeping on the floor, sharing a blanket with
-Sparky."|stage direction||
-374||MOM (O.S.)|unknown||
-375|(MORE)|Victor!|speech||
-376||INT.   BEDROOM - DAY|location||
+Sparky."|stage direction|||
+374||MOM (O.S.)|unknown|||
+375|(MORE)|Victor!|speech|||
+376||INT.   BEDROOM - DAY|location|||
 377||"Victor's Mom opens the door to find Victor's bed empty.
-Pretty sure where he must be..."|stage direction||
-378||MOM|unknown||
-379|(MORE)|Victor!     Breakfast!|speech||
-380||INT.   ATTIC WORKSHOP - DAY|location||
+Pretty sure where he must be..."|stage direction|||
+378||MOM|unknown|||
+379|(MORE)|Victor!     Breakfast!|speech|||
+380||INT.   ATTIC WORKSHOP - DAY|location|||
 381||"Sparky licks Victor's face waking him up. He sits up,
-rubbing his eyes."|stage direction||
-382||INT. ATTIC STAIRS- DAY|location||
+rubbing his eyes."|stage direction|||
+382||INT. ATTIC STAIRS- DAY|location|||
 383||"Mom is walking up the stairs to the attic looking for
-Victor."|stage direction||
-384||MOM|unknown||
-385|(MORE)|Victor?     Are you up here?|speech||
-386||INT.   ATTIC WORKSHOP - DAY|location||
-387||Victor hears his Mom climbing the steps and panics.|stage direction||
-388|VICTOR|Ssssh! Quiet down boy! Ssssh!|speech|VICTOR|M
-389||MOM (O.S.)|unknown||
-390|VICTOR|Victor?|speech|VICTOR|M
+Victor."|stage direction|||
+384||MOM|unknown|||
+385|(MORE)|Victor?     Are you up here?|speech|||
+386||INT.   ATTIC WORKSHOP - DAY|location|||
+387||Victor hears his Mom climbing the steps and panics.|stage direction|||
+388|VICTOR|Ssssh! Quiet down boy! Ssssh!|speech|VICTOR|M|True
+389||MOM (O.S.)|unknown|||
+390|VICTOR|Victor?|speech|VICTOR|M|True
 391||"Victor picks up Sparky and carries him around a curtain
-to the back of the attic."|stage direction||
-392|VICTOR|Sparky! Sssh! Quiet.|speech|VICTOR|M
+to the back of the attic."|stage direction|||
+392|VICTOR|Sparky! Sssh! Quiet.|speech|VICTOR|M|True
 393||"Mom enters but can't see Victor and Sparky behind the
-curtain."|stage direction||
-394||MOM (O.S.)|unknown||
-395|VICTOR|Victor?|speech|VICTOR|M
+curtain."|stage direction|||
+394||MOM (O.S.)|unknown|||
+395|VICTOR|Victor?|speech|VICTOR|M|True
 396||"Looking around for somewhere to hide Sparky, Victor
 finally grabs a big tin bucket and puts it over Sparky
-just as -"|stage direction||
+just as -"|stage direction|||
 397||"January 2012
-Final Shooting Script_2012_01_18_v2   23"|unknown||
-398||Mom pulls the curtain back.|stage direction||
-399||MOM|unknown||
-400||French toast or waffles?|location||
-401||Waffles.|location||
-402||MOM|unknown||
+Final Shooting Script_2012_01_18_v2   23"|unknown|||
+398||Mom pulls the curtain back.|stage direction|||
+399||MOM|unknown|||
+400||French toast or waffles?|location|||
+401||Waffles.|location|||
+402||MOM|unknown|||
 403||"Then I'll need my waffle iron
-back, Mr. Director."|location||
+back, Mr. Director."|location|||
 404||"Spotting her waffle iron amid the leftover set
 decoration, she heads right for Sparky. The bucket
 suddenly moves, shifting away.
-She looks at Victor.   Thinking quick:"|stage direction||
-405||VICTOR|unknown||
+She looks at Victor.   Thinking quick:"|stage direction|||
+405||VICTOR|unknown|||
 406||"It's my science project.   It's a
-robot."|location||
-407||MOM|unknown||
-408||A robotic bucket?|location||
-409||Yes.|location||
-410||MOM|unknown||
-411||For mopping, I suppose.|location||
-412||Yes.|location||
-413||MOM|unknown||
+robot."|location|||
+407||MOM|unknown|||
+408||A robotic bucket?|location|||
+409||Yes.|location|||
+410||MOM|unknown|||
+411||For mopping, I suppose.|location|||
+412||Yes.|location|||
+413||MOM|unknown|||
 414||"Then maybe when you're finished,
-you'll let me use it."|location||
+you'll let me use it."|location|||
 415||"She takes her waffle iron and heads back downstairs.
 Victor closes the curtain, then lifts the bucket off
-Sparky."|stage direction||
-416||VICTOR|unknown||
+Sparky."|stage direction|||
+416||VICTOR|unknown|||
 417||"Sorry, boy, but I can't let anyone
 know about you. They may not
 understand. So you need to stay
-here today."|location||
+here today."|location|||
 418||"Victor kisses Sparky and heads out of the attic.
-Sparky rests his head on his paws, dejected."|stage direction||
+Sparky rests his head on his paws, dejected."|stage direction|||
 419||"January 2012
-Final Shooting Script_2012_01_18_v2    24"|unknown||
-420||EXT.   HOUSE - DAY|location||
+Final Shooting Script_2012_01_18_v2    24"|unknown|||
+420||EXT.   HOUSE - DAY|location|||
 421||"Victor walks down the sidewalk to school. He looks up at
 the open attic window, nervous to be leaving Sparky
-alone."|stage direction||
-422|BURGEMEISTER|Watch it, there!|speech|BURGEMEISTER|M
+alone."|stage direction|||
+422|BURGEMEISTER|Watch it, there!|speech|BURGEMEISTER|M|True
 423||"Victor stops, realizing he's stepped off the sidewalk,
 and has almost nudged the edge of one of Burgemeister's
-tulips."|stage direction||
-424|VICTOR|I'm sorry. I'm really sorry.|speech|VICTOR|M
+tulips."|stage direction|||
+424|VICTOR|I'm sorry. I'm really sorry.|speech|VICTOR|M|True
 425||"Burgemeister glares at him suspiciously. He doesn't trust
-this kid and suspects that something weird is going on."|stage direction||
-426||INT.   LIVING ROOM - DAY [LATER]|location||
+this kid and suspects that something weird is going on."|stage direction|||
+426||INT.   LIVING ROOM - DAY [LATER]|location|||
 427||"Mom is vacuuming while reading a book.    She's quite
-practiced at it."|stage direction||
-428||INT.   ATTIC WORKSHOP - DAY|location||
+practiced at it."|stage direction|||
+428||INT.   ATTIC WORKSHOP - DAY|location|||
 429||"Sparky is drinking from his water bowl.   As he does,
 water leaks from his seams.
 He hears a LONG MEOW.
 It's Mr. Whiskers, Weird Girl's Cat and it's perched in
 the open attic window.
 Sparky BARKS at it.
-Mom switches off the vacuum.    Did she hear barking?"|stage direction||
-430||MOM|unknown||
-431|VICTOR|No.   Couldn't be.|speech|VICTOR|M
-432||She starts up the vacuum again.|stage direction||
-433||INT.   ATTIC WORKSHOP - DAY|location||
+Mom switches off the vacuum.    Did she hear barking?"|stage direction|||
+430||MOM|unknown|||
+431|VICTOR|No.   Couldn't be.|speech|VICTOR|M|True
+432||She starts up the vacuum again.|stage direction|||
+433||INT.   ATTIC WORKSHOP - DAY|location|||
 434||"Sparky jumps up on a chair, then onto the workbench.
-Lunges for the cat --"|stage direction||
-435||EXT.   HOUSE / ROOF - DAY|location||
+Lunges for the cat --"|stage direction|||
+435||EXT.   HOUSE / ROOF - DAY|location|||
 436||"-- and goes right through the window. He lands on the
 steeply-sloped roof and slides down the shingles,
-falling..."|stage direction||
+falling..."|stage direction|||
 437||"January 2012
-Final Shooting Script_2012_01_18_v2    25"|unknown||
-438||INT.   LIVING ROOM - DAY|location||
+Final Shooting Script_2012_01_18_v2    25"|unknown|||
+438||INT.   LIVING ROOM - DAY|location|||
 439||"...right past the picture window. Fortunately, Mom is so
 engrossed in her book that she doesn't see him and she
-continues her vacuuming."|stage direction||
-440||EXT.   HOUSE - DAY|location||
+continues her vacuuming."|stage direction|||
+440||EXT.   HOUSE - DAY|location|||
 441||"Sparky lands in the driveway and Mr Whiskers watches him
 from on top of the car. When he moves to make a run for
-it, Sparky is in hot pursuit."|stage direction||
-442||EXT.   BURGEMEISTER'S YARD - DAY|location||
+it, Sparky is in hot pursuit."|stage direction|||
+442||EXT.   BURGEMEISTER'S YARD - DAY|location|||
 443||"Sparky chases the cat through the tulips, smashing them.
 Mr Whiskers bounds on top of one of Mr. Burgemeister's
 flamingos and thinks he is safely out of Sparky's reach.
@@ -930,61 +930,61 @@ Bob's Mom is hanging out the laundry.
 As she turns, she sees Sparky's shadow cast on a bed
 sheet. The shadow is double his size and his teeth look
 huge. Bob's Mom thinks it's a hideous monster and runs
-screaming into the house."|stage direction||
-444|BOB'S MOTHER|What! *screams*|speech|BOB'S MOTHER|?
+screaming into the house."|stage direction|||
+444|BOB'S MOTHER|What! *screams*|speech|BOB'S MOTHER|?|
 445||"Sparky can't understand why she is so upset but he just
-heads out on his way."|stage direction||
+heads out on his way."|stage direction|||
 446||"January 2012
-Final Shooting Script_2012_01_18_v2    26"|unknown||
-447||EXT.   SUBURBAN STREET / SIDEWALK - DAY|location||
+Final Shooting Script_2012_01_18_v2    26"|unknown|||
+447||EXT.   SUBURBAN STREET / SIDEWALK - DAY|location|||
 448||"Two MOMS sit on a park bench talking, while their
-toddlers nap in their strollers."|stage direction||
+toddlers nap in their strollers."|stage direction|||
 449|FIRST WOMAN|"I know, and Helen said she thought
 he was putting up some kind of tv
-antenna on top of the roof!"|speech|FIRST WOMAN|?
-450|SECOND WOMAN|In the middle of a thunderstorm?|speech|SECOND WOMAN|?
-451|FIRST WOMAN|That's what she said!|speech|FIRST WOMAN|?
+antenna on top of the roof!"|speech|FIRST WOMAN|?|
+450|SECOND WOMAN|In the middle of a thunderstorm?|speech|SECOND WOMAN|?|
+451|FIRST WOMAN|That's what she said!|speech|FIRST WOMAN|?|
 452||"Neither mother notices as Sparky trots up. One of the
 babies starts to fall asleep and drops his pacifier on
-the floor."|stage direction||
+the floor."|stage direction|||
 453|SECOND MOTHER|"And did you get that big power
 surge in the night? Jack thought
 it was a fuse box but apparently
 it effected the whole
-neighbourhood."|speech|SECOND MOTHER|?
+neighbourhood."|speech|SECOND MOTHER|?|
 454||"The baby looks round and sees Sparky guilelessly sucking
-on the pacifier."|stage direction||
+on the pacifier."|stage direction|||
 455|SECOND MOTHER (O.S.)|"Sometimes I wonder just what goes
 on in that house. I just don't
-feel safe walking by there."|speech|SECOND MOTHER|?
+feel safe walking by there."|speech|SECOND MOTHER|?|
 456||"Seeing Sparky up close, the baby is horrified.   It
-SCREAMS."|stage direction||
-457|FIRST WOMAN|Sweetie are you ok? Here you go.|speech|FIRST WOMAN|?
+SCREAMS."|stage direction|||
+457|FIRST WOMAN|Sweetie are you ok? Here you go.|speech|FIRST WOMAN|?|
 458||"Sparky hides under the bench out of sight as the first
 woman tries to calm her little one and pops the pacifier
-back in the babies mouth."|stage direction||
+back in the babies mouth."|stage direction|||
 459|SECOND MOTHER|"So anyway Jack loves it here but
 if the schools weren't so great
 sometimes I wonder if we would be
-better of..."|speech|SECOND MOTHER|?
+better of..."|speech|SECOND MOTHER|?|
 460||"Both Mommies get up and start to walk away they don't
-notice Sparky cowering under the bench."|stage direction||
+notice Sparky cowering under the bench."|stage direction|||
 461||"January 2012
-Final Shooting Script_2012_01_18_v2   27"|unknown||
-462||EXT.   NEAR THE SCHOOL - DAY|location||
+Final Shooting Script_2012_01_18_v2   27"|unknown|||
+462||EXT.   NEAR THE SCHOOL - DAY|location|||
 463||"Sparky trots past the front of the school as the school
 bell rings. Sparky heads for the garbage cans around the
 back.
 On his way home, E walks behind the cafeteria and sees
 Sparky sniffing around the garbage cans. He can't believe
-his eyes."|stage direction||
-464||E|unknown||
-465|SECOND MOTHER|Sparky?|speech|SECOND MOTHER|?
+his eyes."|stage direction|||
+464||E|unknown|||
+465|SECOND MOTHER|Sparky?|speech|SECOND MOTHER|?|
 466||"Sparky stops short and looks right at E before running
 off home.
 E's eyes narrow.     Isn't Sparky supposed to be dead?
-We end on a shot of E, hatching a plan."|stage direction||
-467||EXT. BACKYARD - DAY|location||
+We end on a shot of E, hatching a plan."|stage direction|||
+467||EXT. BACKYARD - DAY|location|||
 468||"Sparky arrives home and heads straight to the backyard
 fence to see if Persephone is around.
 Seeing that she is, he peeks his head through the broken
@@ -1002,148 +1002,148 @@ The force of the spark sends Sparky back through the
 fence and into his own yard. Persephone is thrown clear
 across her garden. As she woozily gets back up, she turns
 and we see that she now has a Bride of Frankenstein
-stripe in her hair!"|stage direction||
-469||EXT.   HOUSE - DAY|location||
+stripe in her hair!"|stage direction|||
+469||EXT.   HOUSE - DAY|location|||
 470||"Victor cycles home after school. He throws his bike on
-the lawn and heads straight inside."|stage direction||
-471||INT.   LIVING ROOM - DAY|location||
-472||Mom is lying on the couch, reading one of her books.|stage direction||
+the lawn and heads straight inside."|stage direction|||
+471||INT.   LIVING ROOM - DAY|location|||
+472||Mom is lying on the couch, reading one of her books.|stage direction|||
 473||"January 2012
-Final Shooting Script_2012_01_18_v2     28"|unknown||
-474||Hi Victor.   How was school?|location||
-475||GoodGottaGo.|location||
+Final Shooting Script_2012_01_18_v2     28"|unknown|||
+474||Hi Victor.   How was school?|location|||
+475||GoodGottaGo.|location|||
 476||"He's heads up the stairs just as Sparky walks through the
-front door, following a few steps behind."|stage direction||
-477||INT. ATTIC WORKSHOP - DAY|location||
-478||Victor enters the attic, looking for...|stage direction||
-479||Sparky?|location||
+front door, following a few steps behind."|stage direction|||
+477||INT. ATTIC WORKSHOP - DAY|location|||
+478||Victor enters the attic, looking for...|stage direction|||
+479||Sparky?|location|||
 480||"Hearing no answer, he walks in further.    He checks behind
-the curtain."|stage direction||
-481||Sparky?|location||
+the curtain."|stage direction|||
+481||Sparky?|location|||
 482||"Slight panic creeps into Victor's voice before Sparky
-sneaks in behind him and nudges his leg."|stage direction||
-483||VICTOR|unknown||
-484||There you are. Good boy!|location||
-485||Relieved, Victor kneels down and pets him lovingly.|stage direction||
-486||VICTOR|unknown||
+sneaks in behind him and nudges his leg."|stage direction|||
+483||VICTOR|unknown|||
+484||There you are. Good boy!|location|||
+485||Relieved, Victor kneels down and pets him lovingly.|stage direction|||
+486||VICTOR|unknown|||
 487||"Sorry you had to stay here alone
-all day."|location||
+all day."|location|||
 488||"Sparky just keeps panting, not revealing a thing. He
-starts to slow down coming to a rest at Victor feet."|stage direction||
-489||VICTOR|unknown||
+starts to slow down coming to a rest at Victor feet."|stage direction|||
+489||VICTOR|unknown|||
 490||"What's the matter boy? Are you ok?
 Hmmm. You're a little low. Are
-you hungry, boy?"|location||
-491||Sparky sighs.|stage direction||
-492||VICTOR|unknown||
-493||Alright, here lets top you up.|location||
+you hungry, boy?"|location|||
+491||Sparky sighs.|stage direction|||
+492||VICTOR|unknown|||
+493||Alright, here lets top you up.|location|||
 494||"Victor runs an extension cord from the wall and clips
 them to Sparky's bolts. As he switches the plug on,
-Sparky's eyes glow a bit. Sparky brightens up and barks."|stage direction||
+Sparky's eyes glow a bit. Sparky brightens up and barks."|stage direction|||
 495||"Victor!   Could you come down here
-please?"|location||
-496||Victor switches the plug off and heads downstairs.|stage direction||
+please?"|location|||
+496||Victor switches the plug off and heads downstairs.|stage direction|||
 497||"January 2012
-Final Shooting Script_2012_01_18_v2   29"|unknown||
-498||INT. KITCHEN- DAY|location||
+Final Shooting Script_2012_01_18_v2   29"|unknown|||
+498||INT. KITCHEN- DAY|location|||
 499||"Victor is taken by surprise as enters the kitchen to find
 Edgar sitting at the counter. Edgar looks particularly
-smug as Mom is busies herself in the kitchen."|stage direction||
-500||MOM|unknown||
-501||Victor your friend is here.|location||
-502||VICTOR|unknown||
-503||Edgar?|location||
-504||E|unknown||
-505||Hey!|location||
-506||VICTOR|unknown||
-507||Edgar. What are you doing here?|location||
-508||E|unknown||
-509||I know.|location||
-510||VICTOR|unknown||
-511||What?|location||
-512||E|unknown||
-513||I know.|location||
-514||VICTOR|unknown||
-515||Know what?|location||
-516||E|unknown||
-517||You know.|location||
-518||VICTOR|unknown||
-519||No.|location||
-520||E|unknown||
+smug as Mom is busies herself in the kitchen."|stage direction|||
+500||MOM|unknown|||
+501||Victor your friend is here.|location|||
+502||VICTOR|unknown|||
+503||Edgar?|location|||
+504||E|unknown|||
+505||Hey!|location|||
+506||VICTOR|unknown|||
+507||Edgar. What are you doing here?|location|||
+508||E|unknown|||
+509||I know.|location|||
+510||VICTOR|unknown|||
+511||What?|location|||
+512||E|unknown|||
+513||I know.|location|||
+514||VICTOR|unknown|||
+515||Know what?|location|||
+516||E|unknown|||
+517||You know.|location|||
+518||VICTOR|unknown|||
+519||No.|location|||
+520||E|unknown|||
 521||"I think I know what you know I
-know."|location||
-522||VICTOR|unknown||
+know."|location|||
+522||VICTOR|unknown|||
 523||"Look, I don't know what you think
-I know, but I don't know it."|location||
+I know, but I don't know it."|location|||
 524||"Mom exits the kitchen and Edgar leans in, barely able to
-hide his excitement."|stage direction||
-525||E|unknown||
-526||Your dog is alive.|location||
-527||Victor looks shocked and checks to see if Mom has gone.|stage direction||
-528||VICTOR|unknown||
-529||That's impossible.|location||
-530||E|unknown||
+hide his excitement."|stage direction|||
+525||E|unknown|||
+526||Your dog is alive.|location|||
+527||Victor looks shocked and checks to see if Mom has gone.|stage direction|||
+528||VICTOR|unknown|||
+529||That's impossible.|location|||
+530||E|unknown|||
 531||"I know. I know it is so impossible
-but you did it. You did it."|location||
+but you did it. You did it."|location|||
 532||"January 2012
-Final Shooting Script_2012_01_18_v2   30"|unknown||
-533||Victor stalls, trying to think of an explanation.|stage direction||
+Final Shooting Script_2012_01_18_v2   30"|unknown|||
+533||Victor stalls, trying to think of an explanation.|stage direction|||
 534|E|"So show me how, or I'll tell
-everyone. Oh Mrs Frankenstein..."|speech|E|M
-535|VICTOR|Ssssh!|speech|VICTOR|M
-536||Mom comes back into the kitchen.|stage direction||
-537|E|.. May I have a cookie please?|speech|E|M
-538|MOM|Oh- yes. Of course.|speech|MOM|M
-539|VICTOR|Alright. Come on.|speech|VICTOR|M
+everyone. Oh Mrs Frankenstein..."|speech|E|M|True
+535|VICTOR|Ssssh!|speech|VICTOR|M|True
+536||Mom comes back into the kitchen.|stage direction|||
+537|E|.. May I have a cookie please?|speech|E|M|True
+538|MOM|Oh- yes. Of course.|speech|MOM|M|True
+539|VICTOR|Alright. Come on.|speech|VICTOR|M|True
 540||"Victor reluctantly agrees and beckons Edgar to follow him
-up to the attic."|stage direction||
-541||INT.   ATTIC WORKSHOP - DAY|location||
+up to the attic."|stage direction|||
+541||INT.   ATTIC WORKSHOP - DAY|location|||
 542||"Sparky and E watch as Victor draws his findings on the
 chalkboard for E. It's a mess of symbols and variables,
-all connected by arrows."|stage direction||
+all connected by arrows."|stage direction|||
 543|VICTOR|"I think the wind and the lightning
 are part of the same thing, some
 kind of strange force. But the
 wind isn't strong enough to bring
 an animal back from the dead. For
-that, you need lightning."|speech|VICTOR|M
-544|E|So when can I do it?|speech|E|M
+that, you need lightning."|speech|VICTOR|M|True
+544|E|So when can I do it?|speech|E|M|True
 545|VICTOR|"You can't. This isn't an
-experiment. It's my dog."|speech|VICTOR|M
+experiment. It's my dog."|speech|VICTOR|M|True
 546|E|"Show and tell Victor:   you show me
-and I won't tell."|speech|E|M
-547||INT.   PET STORE - DAY|location||
+and I won't tell."|speech|E|M|True
+547||INT.   PET STORE - DAY|location|||
 548||"E stares into a tank of swimming goldfish, the PET STORE
-OWNER appears next to him."|stage direction||
-549|PET STORE OWNER|Can I help you young man?|speech|PET STORE OWNER|?
+OWNER appears next to him."|stage direction|||
+549|PET STORE OWNER|Can I help you young man?|speech|PET STORE OWNER|?|
 550||"January 2012
-Final Shooting Script_2012_01_18_v2    31"|unknown||
-551|E|I'd like to buy a fish.|speech|E|M
-552||PET STORE OWNER|unknown||
-553|E|Certainly.   Which one?|speech|E|M
-554||E|unknown||
-555|E|This one.|speech|E|M
+Final Shooting Script_2012_01_18_v2    31"|unknown|||
+551|E|I'd like to buy a fish.|speech|E|M|True
+552||PET STORE OWNER|unknown|||
+553|E|Certainly.   Which one?|speech|E|M|True
+554||E|unknown|||
+555|E|This one.|speech|E|M|True
 556||"He points to one floating belly-up at the top of the
-tank."|stage direction||
-557||INT.   ATTIC WORKSHOP - NIGHT|location||
+tank."|stage direction|||
+557||INT.   ATTIC WORKSHOP - NIGHT|location|||
 558||"E plops the dead fish into a small jar of water, already
 attached to electrodes and the metal table.
 Victor and E crank the gears, opening the roof to the
 stormy night sky. The table rises into position as the
-lightning rod telescopes out."|stage direction||
-559|E|What do we do now?|speech|E|M
+lightning rod telescopes out."|stage direction|||
+559|E|What do we do now?|speech|E|M|True
 560||"Victor grabs E and throws him to the floor. Sparky finds
 cover behind a mirror.
 CRACK!   BOOM!
 The table cranks back down into the attic. The roof
 doors fold shut. Victor and E race over to the jar.
 CLOSE ON E as he looks into the little jar.
-The fish is gone."|stage direction||
+The fish is gone."|stage direction|||
 561|E|"What happened to it?    What did you
-do?"|speech|E|M
-562||VICTOR|unknown||
+do?"|speech|E|M|True
+562||VICTOR|unknown|||
 563|E|"I don't know.    It should have
-worked."|speech|E|M
+worked."|speech|E|M|True
 564||"Victor leans in to look close.    Suddenly, the water
 ripples. A PLOP.
 Then the jar RATTLES AROUND on its rim, knocked about
@@ -1151,332 +1151,332 @@ from within.
 Victor finds a steampunk-ish flashlight with different
 lenses that spin in front of the bulb.
 As he holds it close to the jar, we see what appears to
-be a transperant fish skeleton swimming around."|stage direction||
+be a transperant fish skeleton swimming around."|stage direction|||
 565||"January 2012
-Final Shooting Script_2012_01_18_v2    32"|unknown||
-566||(in wonderment)|unknown||
+Final Shooting Script_2012_01_18_v2    32"|unknown|||
+566||(in wonderment)|unknown|||
 567|VICTOR|"It's invisible. It's an invisible
-goldfish."|speech|VICTOR|M
-568|E|Why is it invisible?|speech|E|M
-569|VICTOR|I have no idea.|speech|VICTOR|M
-570||Sparky growls at the jar.|stage direction||
-571||EXT.   FRONT DOOR - NIGHT|location||
+goldfish."|speech|VICTOR|M|True
+568|E|Why is it invisible?|speech|E|M|True
+569|VICTOR|I have no idea.|speech|VICTOR|M|True
+570||Sparky growls at the jar.|stage direction|||
+571||EXT.   FRONT DOOR - NIGHT|location|||
 572||"The nightly storm has ended.     It's now just a bit of
 distant RUMBLING.
-E is carrying the jar with the invisible goldfish."|stage direction||
+E is carrying the jar with the invisible goldfish."|stage direction|||
 573|VICTOR|"You can't tell anyone. You
 understand that, right? Not until
-we figure out how it works."|speech|VICTOR|M
-574||E|unknown||
-575|VICTOR|Okay!    Okay!|speech|VICTOR|M
-576||VICTOR|unknown||
-577|VICTOR|Promise.|speech|VICTOR|M
-578||E|unknown||
-579|VICTOR|Promise.|speech|VICTOR|M
-580||We see E crossing his fingers behind his back.|stage direction||
-581||CUT TO:|unknown||
-582||EXT.   BOB'S GARAGE - NIGHT|location||
+we figure out how it works."|speech|VICTOR|M|True
+574||E|unknown|||
+575|VICTOR|Okay!    Okay!|speech|VICTOR|M|True
+576||VICTOR|unknown|||
+577|VICTOR|Promise.|speech|VICTOR|M|True
+578||E|unknown|||
+579|VICTOR|Promise.|speech|VICTOR|M|True
+580||We see E crossing his fingers behind his back.|stage direction|||
+581||CUT TO:|unknown|||
+582||EXT.   BOB'S GARAGE - NIGHT|location|||
 583||"Toshiaki and Bob stand in the door way of the garage
-examining E's jar with healthy skepticism."|stage direction||
+examining E's jar with healthy skepticism."|stage direction|||
 584|TOSHIAKI|"How are we supposed to see an
-invisible goldfish?"|speech|TOSHIAKI|M
+invisible goldfish?"|speech|TOSHIAKI|M|True
 585|E|"Put your finger in.       You can feel
-it."|speech|E|M
+it."|speech|E|M|True
 586||"Toshiaki and Bob trade a look -- this feels like a prank.
 But with a shrug, Bob does.
-Nothing.   He swirls his finger around."|stage direction||
+Nothing.   He swirls his finger around."|stage direction|||
 587||"January 2012
-Final Shooting Script_2012_01_18_v2   33"|unknown||
-588||And then...|stage direction||
-589||BOB|unknown||
-590|E|Aaah!|speech|E|M
-591||He yanks his finger out.|stage direction||
-592||BOB|unknown||
-593|E|It bit me.|speech|E|M
-594|TOSHIAKI|Let me see it.|speech|TOSHIAKI|M
+Final Shooting Script_2012_01_18_v2   33"|unknown|||
+588||And then...|stage direction|||
+589||BOB|unknown|||
+590|E|Aaah!|speech|E|M|True
+591||He yanks his finger out.|stage direction|||
+592||BOB|unknown|||
+593|E|It bit me.|speech|E|M|True
+594|TOSHIAKI|Let me see it.|speech|TOSHIAKI|M|True
 595||"Toshiaki takes the jar from E. He walks over to a table
 and places the jar down. He shines a table lamp through
 the jar.
 The invisible goldfish casts a shadow on the wall. In
 the shadow, you can see it actually has Jurassic-sized
-teeth. It's pretty scary."|stage direction||
-596||TOSHIAKI/BOB|unknown||
-597|TOSHIAKI|*GASP*|speech|TOSHIAKI|M
+teeth. It's pretty scary."|stage direction|||
+596||TOSHIAKI/BOB|unknown|||
+597|TOSHIAKI|*GASP*|speech|TOSHIAKI|M|True
 598||"Toshiaki turns off the lamp and takes a closer look at
 the jar.
-E takes the jar back.    Screws on the lid."|stage direction||
+E takes the jar back.    Screws on the lid."|stage direction|||
 599|E|"It's my science project and it's
-top secret."|speech|E|M
+top secret."|speech|E|M|True
 600||"Toshiaki looks over to Bob and gives him a flick of the
 head. Bob takes the hint and starts to push E out of the
-garage."|stage direction||
+garage."|stage direction|||
 601|BOB|"Yeah, well, our science fair
-project is even cooler."|speech|BOB|M
-602||E|unknown||
-603|BOB|What is it?|speech|BOB|M
-604|TOSHIAKI|Double top secret.|speech|TOSHIAKI|M
-605||Toshiaki pulls the garage door shut in Edgar's face.|stage direction||
-606||CUT TO:|unknown||
-607||INT.   TOSHIAKI'S GARAGE - NIGHT|location||
+project is even cooler."|speech|BOB|M|True
+602||E|unknown|||
+603|BOB|What is it?|speech|BOB|M|True
+604|TOSHIAKI|Double top secret.|speech|TOSHIAKI|M|True
+605||Toshiaki pulls the garage door shut in Edgar's face.|stage direction|||
+606||CUT TO:|unknown|||
+607||INT.   TOSHIAKI'S GARAGE - NIGHT|location|||
 608||"Toshiaki and Bob take a critical look at their science
-fair project: SEA MONKEYS - THE TRUTH REVEALED!"|stage direction||
+fair project: SEA MONKEYS - THE TRUTH REVEALED!"|stage direction|||
 609||"January 2012
-Final Shooting Script_2012_01_18_v2    34"|unknown||
+Final Shooting Script_2012_01_18_v2    34"|unknown|||
 610|BOB|"Sea monkeys. We gotta come up with
-something better. Bigger."|speech|BOB|M
-611|TOSHIAKI|I know.|speech|TOSHIAKI|M
-612|BOB|The science fair is in two days!|speech|BOB|M
-613|TOSHIAKI|I know.|speech|TOSHIAKI|M
-614|BOB|You're the smart one.|speech|BOB|M
-615|TOSHIAKI|I know!|speech|TOSHIAKI|M
+something better. Bigger."|speech|BOB|M|True
+611|TOSHIAKI|I know.|speech|TOSHIAKI|M|True
+612|BOB|The science fair is in two days!|speech|BOB|M|True
+613|TOSHIAKI|I know.|speech|TOSHIAKI|M|True
+614|BOB|You're the smart one.|speech|BOB|M|True
+615|TOSHIAKI|I know!|speech|TOSHIAKI|M|True
 616||"A long beat.
 Toshiaki's eyes narrow. He stares at Bob and his gaze
 then moves to the poster above Bob's head, it's a Rocket
-Poster. Toshiaki has an idea."|stage direction||
-617||TRANSITION TO:|unknown||
-618||INT.   ATTIC WORKSHOP - DAY|location||
+Poster. Toshiaki has an idea."|stage direction|||
+617||TRANSITION TO:|unknown|||
+618||INT.   ATTIC WORKSHOP - DAY|location|||
 619||"Sparky is desperate to play with Victor in the attic.
-Victor tries to quieten him down."|stage direction||
+Victor tries to quieten him down."|stage direction|||
 620|VICTOR|"Ok, ok, sit still. Ssssh! Sparky.
-No! Sssh. No! Sssh."|speech|VICTOR|M
-621||Victor ties up Sparky.|stage direction||
+No! Sssh. No! Sssh."|speech|VICTOR|M|True
+621||Victor ties up Sparky.|stage direction|||
 622|VICTOR|"Sorry, boy. But we can't risk
-anyone seeing you again."|speech|VICTOR|M
+anyone seeing you again."|speech|VICTOR|M|True
 623||"Victor starts to leave, he turns at the curtain as Sparky
-barks."|stage direction||
-624|VICTOR|Ssssh!|speech|VICTOR|M
-625||Sparky lies down, head on his paws, sad and lonely.|stage direction||
-626||EXT.   SCHOOL - DAY [AFTERNOON]|location||
+barks."|stage direction|||
+624|VICTOR|Ssssh!|speech|VICTOR|M|True
+625||Sparky lies down, head on his paws, sad and lonely.|stage direction|||
+626||EXT.   SCHOOL - DAY [AFTERNOON]|location|||
 627||"The school bell rings. E is leaving school with the other
-kids. He nearly bumps into Nassor who is waiting for him."|stage direction||
+kids. He nearly bumps into Nassor who is waiting for him."|stage direction|||
 628||"January 2012
 Final Shooting Script_2012_01_18_v2      35
-NASSOR"|unknown||
+NASSOR"|unknown|||
 629||"Toshiaki says you have an
-invisible fish."|location||
-630||E|unknown||
-631||No he doesn't.|location||
-632||NASSOR|unknown||
-633||So you don't?|location||
-634||E|unknown||
+invisible fish."|location|||
+630||E|unknown|||
+631||No he doesn't.|location|||
+632||NASSOR|unknown|||
+633||So you don't?|location|||
+634||E|unknown|||
 635||"I didn't say that.       Who said I
-did?"|location||
-636||NASSOR|unknown||
+did?"|location|||
+636||NASSOR|unknown|||
 637||"Toshiaki says it's your science
-fair project."|location||
-638||E|unknown||
-639||If it was, I couldn't tell you.|location||
-640||NASSOR|unknown||
-641||So it isn't?    Or it is?|location||
-642||E|unknown||
-643||No.    Yes.   I'm confused.|location||
-644||NASSOR|unknown||
-645||Do you have an invisible fish?|location||
-646||A beat.|stage direction||
-647||E|unknown||
+fair project."|location|||
+638||E|unknown|||
+639||If it was, I couldn't tell you.|location|||
+640||NASSOR|unknown|||
+641||So it isn't?    Or it is?|location|||
+642||E|unknown|||
+643||No.    Yes.   I'm confused.|location|||
+644||NASSOR|unknown|||
+645||Do you have an invisible fish?|location|||
+646||A beat.|stage direction|||
+647||E|unknown|||
 648||"Okay. But you have to keep it a
-secret."|location||
+secret."|location|||
 649||"He unzips his school bag, pulling out the jar of water.
-Unscrews the lid."|stage direction||
-650||E|unknown||
+Unscrews the lid."|stage direction|||
+650||E|unknown|||
 651||"Swish your finger around.      You can
-feel it."|location||
-652||Nassor dips his finger in the water, swirling it around.|stage direction||
-653||NASSOR|unknown||
+feel it."|location|||
+652||Nassor dips his finger in the water, swirling it around.|stage direction|||
+653||NASSOR|unknown|||
 654||"It's just water. There's nothing
-there."|location||
-655||E|unknown||
-656||No, it's invisible?|location||
+there."|location|||
+655||E|unknown|||
+656||No, it's invisible?|location|||
 657||"E dips his own finger in, feeling for his toothy
-goldfish. He's puzzled when he can't find it."|stage direction||
-658||E|unknown||
-659||Huh.|location||
+goldfish. He's puzzled when he can't find it."|stage direction|||
+658||E|unknown|||
+659||Huh.|location|||
 660||"January 2012
-Final Shooting Script_2012_01_18_v2   36"|unknown||
-661||PUSHING IN ominously...|stage direction||
+Final Shooting Script_2012_01_18_v2   36"|unknown|||
+661||PUSHING IN ominously...|stage direction|||
 662|NASSOR|"I don't know what kind of game you
 and Victor are playing. But that
-trophy will be mine!"|speech|NASSOR|M
-663||E|unknown||
-664|NASSOR|*Gasp*|speech|NASSOR|M
-665||A beat.|stage direction||
-666||EXT.   STREET - DAY|location||
+trophy will be mine!"|speech|NASSOR|M|True
+663||E|unknown|||
+664|NASSOR|*Gasp*|speech|NASSOR|M|True
+665||A beat.|stage direction|||
+666||EXT.   STREET - DAY|location|||
 667||"E runs as fast as he can with his jar outstretched in
 front of him, catching up to Victor. It's just the two
-of them."|stage direction||
+of them."|stage direction|||
 668|E|"Victor! Something's wrong with my
-fish."|speech|E|M
-669||VICTOR|unknown||
-670|E|What is it?|speech|E|M
-671|E|It's not there anymore.|speech|E|M
+fish."|speech|E|M|True
+669||VICTOR|unknown|||
+670|E|What is it?|speech|E|M|True
+671|E|It's not there anymore.|speech|E|M|True
 672|VICTOR|"Maybe it just hopped out.   Did you
-have the lid on?"|speech|VICTOR|M
+have the lid on?"|speech|VICTOR|M|True
 673|E|"Yes! Ever since...since I left
 your house. I mean, it was there
-when I went to bed."|speech|E|M
-674||Victor ponders the possibilities.|stage direction||
+when I went to bed."|speech|E|M|True
+674||Victor ponders the possibilities.|stage direction|||
 675|E|"I'm thinking, maybe they don't
 last. They're only there for a
-little bit and then they're gone."|speech|E|M
-676||Suddenly panicked, Victor runs back to his house.|stage direction||
-677||INT.   HOUSE - DAY|location||
-678||Victor runs up the stairs.|stage direction||
-679||INT. ATTIC WORKSHOP - DAY|location||
+little bit and then they're gone."|speech|E|M|True
+676||Suddenly panicked, Victor runs back to his house.|stage direction|||
+677||INT.   HOUSE - DAY|location|||
+678||Victor runs up the stairs.|stage direction|||
+679||INT. ATTIC WORKSHOP - DAY|location|||
 680||"Victor runs through the attic. He pulls the curtain back
-his eyes go right to where he left Sparky tied up."|stage direction||
+his eyes go right to where he left Sparky tied up."|stage direction|||
 681||"January 2012
-Final Shooting Script_2012_01_18_v2   37"|unknown||
-682||The rope is still there.    But his dog is gone.|stage direction||
-683||VICTOR|unknown||
-684|E|*Gasp* No!    Sparky! *Gasp*|speech|E|M
+Final Shooting Script_2012_01_18_v2   37"|unknown|||
+682||The rope is still there.    But his dog is gone.|stage direction|||
+683||VICTOR|unknown|||
+684|E|*Gasp* No!    Sparky! *Gasp*|speech|E|M|True
 685||"A BARK.
 Victor turns to find Sparky drinking out of his bowl.
-He scratches his ear and it falls off."|stage direction||
-686||VICTOR (O.S.)|unknown||
-687|E|Sparky!|speech|E|M
+He scratches his ear and it falls off."|stage direction|||
+686||VICTOR (O.S.)|unknown|||
+687|E|Sparky!|speech|E|M|True
 688||"Victor rushes over to him. Sparky's not sure what all the
 drama is about but does seem slightly concerned with his
-lost ear."|stage direction||
+lost ear."|stage direction|||
 689|VICTOR|"Oh! Don't worry. I can fix that
-too."|speech|VICTOR|M
-690||INT.   BEDROOM - NIGHT|location||
+too."|speech|VICTOR|M|True
+690||INT.   BEDROOM - NIGHT|location|||
 691||"Victor is in bed.    He reaches under the bed to pat
-Sparky's head..."|stage direction||
-692|VICTOR|Good night, boy.|speech|VICTOR|M
-693||...then switches off the light.|stage direction||
-694||TRANSITION TO:|unknown||
-695||EXT. BOB'S HOUSE|location||
+Sparky's head..."|stage direction|||
+692|VICTOR|Good night, boy.|speech|VICTOR|M|True
+693||...then switches off the light.|stage direction|||
+694||TRANSITION TO:|unknown|||
+695||EXT. BOB'S HOUSE|location|||
 696||"Bob's Mom is having a drink in the garden. She slurps the
 last few drops before she heaves herself up to go inside
-for a refill."|stage direction||
-697||EXT.   ROOF OF TOSHIAKI'S HOUSE - DAY|location||
-698||Bob is nervous.    Looking back over his shoulder...|stage direction||
+for a refill."|stage direction|||
+697||EXT.   ROOF OF TOSHIAKI'S HOUSE - DAY|location|||
+698||Bob is nervous.    Looking back over his shoulder...|stage direction|||
 699|BOB|"Are you sure this is going to
-work?"|speech|BOB|M
-700||Toshiaki is shaking a soda bottle.|stage direction||
-701||TOSHIAKI|unknown||
+work?"|speech|BOB|M|True
+700||Toshiaki is shaking a soda bottle.|stage direction|||
+701||TOSHIAKI|unknown|||
 702|BOB|"No. That's why it's called an
 experiment. We have to collect
-data."|speech|BOB|M
+data."|speech|BOB|M|True
 703||"January 2012
 Final Shooting Script_2012_01_18_v2   38
-BOB"|unknown||
-704||Do we have to collect it on me?|location||
+BOB"|unknown|||
+704||Do we have to collect it on me?|location|||
 705||"WIDER, we see that Bob is wearing a modified backpack.
 Lashed to it are nine two-liter container of soda, caps
 pointing down, each with a pull-string. Toshiaki
-attaches the tenth and final bottle."|stage direction||
-706||TOSHIAKI|unknown||
-707||Ready?|location||
-708||BOB|unknown||
-709||No.|location||
-710||TOSHIAKI|unknown||
-711||Ten.    Nine.    Eight.|location||
-712||BOB|unknown||
+attaches the tenth and final bottle."|stage direction|||
+706||TOSHIAKI|unknown|||
+707||Ready?|location|||
+708||BOB|unknown|||
+709||No.|location|||
+710||TOSHIAKI|unknown|||
+711||Ten.    Nine.    Eight.|location|||
+712||BOB|unknown|||
 713||"We could use a test dummy or
-something."|location||
-714||TOSHIAKI|unknown||
-715||Seven.    Six.    Five.|location||
-716||BOB|unknown||
-717||Computer simulation.|location||
-718||TOSHIAKI|unknown||
-719||Four.    Three.    Two.|location||
-720||BOB|unknown||
-721||I have to pee.|location||
-722||TOSHIAKI|unknown||
-723||One.|location||
+something."|location|||
+714||TOSHIAKI|unknown|||
+715||Seven.    Six.    Five.|location|||
+716||BOB|unknown|||
+717||Computer simulation.|location|||
+718||TOSHIAKI|unknown|||
+719||Four.    Three.    Two.|location|||
+720||BOB|unknown|||
+721||I have to pee.|location|||
+722||TOSHIAKI|unknown|||
+723||One.|location|||
 724||"Toshiaki yanks the cord.     The soda BLASTS out the bottom
 of the jet-pack.
 Toshiaki grabs his video camera to document their
-success."|stage direction||
-725||BOB|unknown||
+success."|stage direction|||
+725||BOB|unknown|||
 726||"Whoah, woah, w-w-w-woah woah,
-whoah, woah, woah, woah."|location||
+whoah, woah, woah, woah."|location|||
 727||"Bob finds himself hovering in fits and starts and
-actually gets a bit airborne."|stage direction||
+actually gets a bit airborne."|stage direction|||
 728||"BOB
-(incredulous)"|unknown||
-729||It's working. It's working!|location||
+(incredulous)"|unknown|||
+729||It's working. It's working!|location|||
 730||"Through the lens we see Bob hover in the air for a long
-moment before he drops like a stone out of frame."|stage direction||
+moment before he drops like a stone out of frame."|stage direction|||
 731||"January 2012
-Final Shooting Script_2012_01_18_v2   39"|unknown||
-732|BOB|*Painful murmurs*|speech|BOB|M
+Final Shooting Script_2012_01_18_v2   39"|unknown|||
+732|BOB|*Painful murmurs*|speech|BOB|M|True
 733||"Toshiaki, still filming looks down to find Bob sprawled
 on the grass. His arm is bent at an impossible angle.
-Bob's Mom comes outside hearing the commotion."|stage direction||
-734|BOB|*Scream*|speech|BOB|M
-735||EXT.   HOUSE - DAY|location||
+Bob's Mom comes outside hearing the commotion."|stage direction|||
+734|BOB|*Scream*|speech|BOB|M|True
+735||EXT.   HOUSE - DAY|location|||
 736||"A half-dozen NEIGHBORS and classmates have gathered to
 watch as Bob is loaded into an ambulance. His arm is
 already in a sling.
-BOB'S MOTHER is apoplectic:"|stage direction||
+BOB'S MOTHER is apoplectic:"|stage direction|||
 737|BOB'S MOTHER|"What were you boys doing on the
-roof!?"|speech|BOB'S MOTHER|?
-738||Bob and Toshiaki exchange a glance.|stage direction||
-739|BOB AND TOSHIAKI|Science.|speech|BOB AND TOSHIAKI|?
-740||INT. SCHOOL ASSEMBLY ROOM - NIGHT|location||
+roof!?"|speech|BOB'S MOTHER|?|
+738||Bob and Toshiaki exchange a glance.|stage direction|||
+739|BOB AND TOSHIAKI|Science.|speech|BOB AND TOSHIAKI|?|
+740||INT. SCHOOL ASSEMBLY ROOM - NIGHT|location|||
 741||"Mom and Dad arrive at the meeting as Mr Burgemeister
-starts to speak at the podium."|stage direction||
+starts to speak at the podium."|stage direction|||
 742|BURGEMEISTER|"As mayor of New Holland, you have
 entrusted me with your safety. So
 I can't sit idly by while a
-teacher endangers our children."|speech|BURGEMEISTER|M
+teacher endangers our children."|speech|BURGEMEISTER|M|True
 743||"Bob's Mother is also on the stage with Bob whose arm is
-still in a sling."|stage direction||
-744|BOB'S MOTHER|The man is a menace!|speech|BOB'S MOTHER|?
+still in a sling."|stage direction|||
+744|BOB'S MOTHER|The man is a menace!|speech|BOB'S MOTHER|?|
 745||"A lot of agreement from the PARENTS in attendance.
-Another father stands up in the crowd."|stage direction||
+Another father stands up in the crowd."|stage direction|||
 746|ANOTHER FATHER|"Have you looked through this
 ""science"" book they're using?
 Apparently, Pluto isn't good
-enough to be a planet anymore."|speech|ANOTHER FATHER|?
+enough to be a planet anymore."|speech|ANOTHER FATHER|?|
 747||"January 2012
 Final Shooting Script_2012_01_18_v2   40
-ANOTHER FATHER (CONT'D)"|unknown||
+ANOTHER FATHER (CONT'D)"|unknown|||
 748||"When I was a kid, Pluto was a
 great planet. This guy comes
-along and rewrites the rules."|location||
-749||MOM|unknown||
+along and rewrites the rules."|location|||
+749||MOM|unknown|||
 750||"In fairness, he didn't write the
-textbook."|location||
-751||DAD|unknown||
+textbook."|location|||
+751||DAD|unknown|||
 752||"Mr Mayor, Edward Frankenstein,
 your neighbour of course. I would
 just like to say that our son
 Victor is just crazy about the new
-teacher. Thinks he's great."|location||
-753||ANOTHER MOTHER|unknown||
+teacher. Thinks he's great."|location|||
+753||ANOTHER MOTHER|unknown|||
 754||"My Cynthia has been asking all
 sorts of strange questions. About
-things I've never even heard of!"|location||
-755||DAD|unknown||
+things I've never even heard of!"|location|||
+755||DAD|unknown|||
 756||"Shouldn't we at least give the man
-the chance to explain himself?"|location||
-757||BURGEMEISTER|unknown||
+the chance to explain himself?"|location|||
+757||BURGEMEISTER|unknown|||
 758||"Yes. Please come up.
-Mr...Menace."|location||
+Mr...Menace."|location|||
 759||"He points to Mr. Rzykruski, who has been lingering at the
 back of the assembly room.
 He comes up front to the microphone.
-He clears his throat."|stage direction||
-760||MR. RZYKRUSKI|unknown||
+He clears his throat."|stage direction|||
+760||MR. RZYKRUSKI|unknown|||
 761||"Ladies, Gentlemen. I think the
 confusion here is that you are all
-very ignorant."|location||
-762||A sea of stony faces.|stage direction||
-763||MR. RZYKRUSKI|unknown||
+very ignorant."|location|||
+762||A sea of stony faces.|stage direction|||
+763||MR. RZYKRUSKI|unknown|||
 764||"Is this right word, ""ignorant?""    I
 mean simple. Primitive.
-Unenlightened."|location||
-765||Not winning them over.|stage direction||
-766||MR. RZYKRUSKI|unknown||
+Unenlightened."|location|||
+765||Not winning them over.|stage direction|||
+766||MR. RZYKRUSKI|unknown|||
 767||"You do not understand science, so
 you are afraid of it. Like a dog
 is afraid of thunder, or balloons.
 To you, science is magic and
 witchcraft because you have such
-small minds."|location||
+small minds."|location|||
 768||"(MORE)
 January 2012
 Final Shooting Script_2012_01_18_v2     41
@@ -1487,279 +1487,279 @@ take them and crack them open.
 This is what I try to do. To get
 at their brains.
 MOM
-Oh my!"|unknown||
-769||Mr. Rzykruski somehow convinced he did a good job...|stage direction||
+Oh my!"|unknown|||
+769||Mr. Rzykruski somehow convinced he did a good job...|stage direction|||
 770||"MR. RZYKRUSKI
-Thank you."|unknown||
-771||Mr Rzykruski leaves the stage.|stage direction||
+Thank you."|unknown|||
+771||Mr Rzykruski leaves the stage.|stage direction|||
 772||"DAD
-Oh, geeze."|unknown||
-773||EXT. ELSA'S BACKYARD - NIGHT|location||
+Oh, geeze."|unknown|||
+773||EXT. ELSA'S BACKYARD - NIGHT|location|||
 774||"Elsa PRACTICE-HUMS her Dutch Day song while Persephone
 does her business, sniffing around the bushes.
 Forgetting a lyric, Elsa checks a sheet she was holding
-behind her back."|stage direction||
-775||EXT. VICTOR'S HOUSE / BACKYARD - NIGHT|location||
-776||Meanwhile, Victor has Sparky outside in his backyard.|stage direction||
+behind her back."|stage direction|||
+775||EXT. VICTOR'S HOUSE / BACKYARD - NIGHT|location|||
+776||Meanwhile, Victor has Sparky outside in his backyard.|stage direction|||
 777||"VICTOR
 Be quick, boy. They'll be home
-any minute."|unknown||
+any minute."|unknown|||
 778||"Sparky smells Persephone.    He sniffs along the fence.
 INTERCUT BOTH SIDES
 Persephone sniffs along the fence as well.
 She BARKS.
-Sparky BARKS back."|stage direction||
+Sparky BARKS back."|stage direction|||
 779||"VICTOR
-No no no no! Ssssh!"|unknown||
+No no no no! Ssssh!"|unknown|||
 780||"He covers over Sparky's mouth.
 Elsa approaches the fence and stands on tippe toe so that
-she can just barely see over the top."|stage direction||
+she can just barely see over the top."|stage direction|||
 781||"ELSA
 Victor?
 January 2012
-Final Shooting Script_2012_01_18_v2   42"|unknown||
+Final Shooting Script_2012_01_18_v2   42"|unknown|||
 782||"Victor crouches low so that she can't see him and
-struggles to keep Sparky from barking again."|stage direction||
-783||Victor?|location||
-784||VICTOR|unknown||
-785||Hi, Elsa.    What are you doing?|location||
-786||ELSA|unknown||
-787||Practicing my song for Dutch Day.|location||
-788||It's nice.|location||
-789||ELSA|unknown||
-790||Did you get a new dog?|location||
-791||No.|location||
-792||ELSA|unknown||
-793||I heard a bark.|location||
-794||VICTOR|unknown||
-795||Yeah that was me.|location||
-796||ELSA|unknown||
-797||You were barking.|location||
+struggles to keep Sparky from barking again."|stage direction|||
+783||Victor?|location|||
+784||VICTOR|unknown|||
+785||Hi, Elsa.    What are you doing?|location|||
+786||ELSA|unknown|||
+787||Practicing my song for Dutch Day.|location|||
+788||It's nice.|location|||
+789||ELSA|unknown|||
+790||Did you get a new dog?|location|||
+791||No.|location|||
+792||ELSA|unknown|||
+793||I heard a bark.|location|||
+794||VICTOR|unknown|||
+795||Yeah that was me.|location|||
+796||ELSA|unknown|||
+797||You were barking.|location|||
 798||"Sparky manages to get free for a moment and lets out a
 howl. Victor quickly grabs his mouth shut and then tries
-to mimic his bark."|stage direction||
-799||VICTOR|unknown||
-800||*Victor pretends to bark and howl*|location||
-801||Elsa steps back from the fence.|stage direction||
-802||ELSA|unknown||
-803||You must really miss Sparky.|location||
+to mimic his bark."|stage direction|||
+799||VICTOR|unknown|||
+800||*Victor pretends to bark and howl*|location|||
+801||Elsa steps back from the fence.|stage direction|||
+802||ELSA|unknown|||
+803||You must really miss Sparky.|location|||
 804||"HEADLIGHTS sweep across the fence.   Victor's parents are
-back."|stage direction||
-805||I got to go.   Bye.|location||
-806||Bye.|location||
-807||Elsa kneels down and pets Persephone lovingly.|stage direction||
-808||ELSA|unknown||
+back."|stage direction|||
+805||I got to go.   Bye.|location|||
+806||Bye.|location|||
+807||Elsa kneels down and pets Persephone lovingly.|stage direction|||
+808||ELSA|unknown|||
 809||"I feel so sad for him, Persephone.
-He really misses his dog."|location||
+He really misses his dog."|location|||
 810||"January 2012
-Final Shooting Script_2012_01_18_v2    43"|unknown||
+Final Shooting Script_2012_01_18_v2    43"|unknown|||
 811||"She tenderly kisses Persephone on the head and holds her
-a little closer."|stage direction||
-812||EXT. SCHOOL|location||
+a little closer."|stage direction|||
+812||EXT. SCHOOL|location|||
 813||"Mr Rzykruski walks out of the school doors carrying a
-cardboard box full of all his school things."|stage direction||
-814||INT.   CLASSROOM - DAY|location||
+cardboard box full of all his school things."|stage direction|||
+814||INT.   CLASSROOM - DAY|location|||
 815||"The Gym Teacher, who is serving as substitute teacher
-scrubs the board clear of Mr Rzykruski's name."|stage direction||
-816|VICTOR|Where's Mr. Rzykruski?|speech|VICTOR|M
+scrubs the board clear of Mr Rzykruski's name."|stage direction|||
+816|VICTOR|Where's Mr. Rzykruski?|speech|VICTOR|M|True
 817|GYM TEACHER|"All I know is, I'll be teaching
 the class for the rest of the
-semester."|speech|GYM TEACHER|F
-818||She begins erasing the messy blackboard.|stage direction||
+semester."|speech|GYM TEACHER|F|True
+818||She begins erasing the messy blackboard.|stage direction|||
 819|ELSA|"Do you know anything about
-science?"|speech|ELSA|F
-820|GYM TEACHER|I know more than you do.|speech|GYM TEACHER|F
-821|BOB|Mr. Rzykruski knew a lot.|speech|BOB|M
+science?"|speech|ELSA|F|True
+820|GYM TEACHER|I know more than you do.|speech|GYM TEACHER|F|True
+821|BOB|Mr. Rzykruski knew a lot.|speech|BOB|M|True
 822|GYM TEACHER|"Well, sometimes knowing too much
-is the problem."|speech|GYM TEACHER|F
+is the problem."|speech|GYM TEACHER|F|True
 823||"Victor looks out the window as Mr Rzykruski is packing up
-the trunk of his car."|stage direction||
-824|VICTOR|What about the science fair?|speech|VICTOR|M
+the trunk of his car."|stage direction|||
+824|VICTOR|What about the science fair?|speech|VICTOR|M|True
 825|GYM TEACHER|"Oh, it's still on. But it will be
 judged by someone who is not
-insane -- Me!"|speech|GYM TEACHER|F
-826||The class look skeptical.|stage direction||
+insane -- Me!"|speech|GYM TEACHER|F|True
+826||The class look skeptical.|stage direction|||
 827|GYM TEACHER|"Now get cracking and may the best
-person win."|speech|GYM TEACHER|F
+person win."|speech|GYM TEACHER|F|True
 828||"January 2012
-Final Shooting Script_2012_01_18_v2    44"|unknown||
-829||EXT.   SCHOOL PARKING LOT - DAY|location||
+Final Shooting Script_2012_01_18_v2    44"|unknown|||
+829||EXT.   SCHOOL PARKING LOT - DAY|location|||
 830||"Mr. Rzykruski is packing his strange little car with all
 his things from the classroom.
-Victor races up to him in the car park."|stage direction||
+Victor races up to him in the car park."|stage direction|||
 831|VICTOR|"I can't believe they let the gym
 teacher be the judge. She's not
-even interested in science."|speech|VICTOR|M
-832||Mr. Rzykruski turns back to see his favorite student.|stage direction||
+even interested in science."|speech|VICTOR|M|True
+832||Mr. Rzykruski turns back to see his favorite student.|stage direction|||
 833|MR. RZYKRUSKI|"Back home, everyone is scientist.
 Even my plumber wins Nobel Prize.
 Your country does not make enough
 scientists. Always needs more.
-You should be a scientist, Victor."|speech|MR. RZYKRUSKI|M
-834|VICTOR|Nobody likes scientists.|speech|VICTOR|M
+You should be a scientist, Victor."|speech|MR. RZYKRUSKI|M|True
+834|VICTOR|Nobody likes scientists.|speech|VICTOR|M|True
 835|MR. RZYKRUSKI|"They like what science gives them,
 but not the questions, no, not the
-questions that science asks."|speech|MR. RZYKRUSKI|M
-836|VICTOR|Actually I have a question.|speech|VICTOR|M
-837|MR. RZYKRUSKI|That is why you are scientist.|speech|MR. RZYKRUSKI|M
-838||Victor smiles, a little.|stage direction||
+questions that science asks."|speech|MR. RZYKRUSKI|M|True
+836|VICTOR|Actually I have a question.|speech|VICTOR|M|True
+837|MR. RZYKRUSKI|That is why you are scientist.|speech|MR. RZYKRUSKI|M|True
+838||Victor smiles, a little.|stage direction|||
 839|VICTOR|"I was doing my experiment, my
 project, and the first time it
 worked great. But the next time
 it didn't. I mean, it sort of
 worked, but then it didn't. And I
-don't know why."|speech|VICTOR|M
+don't know why."|speech|VICTOR|M|True
 840|MR. RZYKRUSKI|"Then maybe you never really
-understood it the first time."|speech|MR. RZYKRUSKI|M
-841||Victor is puzzled, but intrigued.|stage direction||
-842|MR. RZYKRUSKI|People think science is here...|speech|MR. RZYKRUSKI|M
-843||(points to his head)|unknown||
-844|MR. RZYKRUSKI|...but it is also here.|speech|MR. RZYKRUSKI|M
+understood it the first time."|speech|MR. RZYKRUSKI|M|True
+841||Victor is puzzled, but intrigued.|stage direction|||
+842|MR. RZYKRUSKI|People think science is here...|speech|MR. RZYKRUSKI|M|True
+843||(points to his head)|unknown|||
+844|MR. RZYKRUSKI|...but it is also here.|speech|MR. RZYKRUSKI|M|True
 845||"January 2012
 Final Shooting Script_2012_01_18_v2   45
-MR. RZYKRUSKI (CONT'D)"|unknown||
+MR. RZYKRUSKI (CONT'D)"|unknown|||
 846||"(points to his heart). The first
 time, did you love your
-experiment?"|location||
-847||CUT TO:|unknown||
-848||INT. ATTIC WORKSHOP - NIGHT [FLASHBACK]|location||
+experiment?"|location|||
+847||CUT TO:|unknown|||
+848||INT. ATTIC WORKSHOP - NIGHT [FLASHBACK]|location|||
 849||"Victor, defeated, hangs his head in his hands. Suddenly,
-Sparky licks him. He's returned from the dead."|stage direction||
-850||Yes.|location||
-851||MR. RZYKRUSKI (V.O.)|unknown||
-852||And the second time?|location||
-853||CUT TO:|unknown||
-854||INT. ATTIC WORKSHOP - NIGHT [FLASHBACK]|location||
+Sparky licks him. He's returned from the dead."|stage direction|||
+850||Yes.|location|||
+851||MR. RZYKRUSKI (V.O.)|unknown|||
+852||And the second time?|location|||
+853||CUT TO:|unknown|||
+854||INT. ATTIC WORKSHOP - NIGHT [FLASHBACK]|location|||
 855||"Victor watches as the bolt of lightning charges the jar
-of water with the dead goldfish."|stage direction||
-856||VICTOR (V.O.)|unknown||
-857||No.    I just wanted it over.|location||
-858||BACK TO:|unknown||
-859||EXT. SCHOOL PARKING LOT - DAY|location||
-860||MR. RZYKRUSKI|unknown||
-861||Then you changed the variables.|location||
-862||VICTOR|unknown||
+of water with the dead goldfish."|stage direction|||
+856||VICTOR (V.O.)|unknown|||
+857||No.    I just wanted it over.|location|||
+858||BACK TO:|unknown|||
+859||EXT. SCHOOL PARKING LOT - DAY|location|||
+860||MR. RZYKRUSKI|unknown|||
+861||Then you changed the variables.|location|||
+862||VICTOR|unknown|||
 863||"I was doing it for the wrong
-reason."|location||
-864||MR. RZYKRUSKI|unknown||
+reason."|location|||
+864||MR. RZYKRUSKI|unknown|||
 865||"Science is not good or bad,
 Victor. But it can be used both
 ways. That is why you must always
-be careful."|location||
+be careful."|location|||
 866||"With that, he offers his hand.   They shake.
 Victor watches as Mr. Rzykruski drives off.
 Bob and Toshiaki are still fuming about the science fair.
-Nassor is preparing for Baseball practice."|stage direction||
-867||BOB|unknown||
+Nassor is preparing for Baseball practice."|stage direction|||
+867||BOB|unknown|||
 868||"I can't believe I broke my arm for
 nothing. None of us are going to
-win. E has an invisible fish."|location||
+win. E has an invisible fish."|location|||
 869||"January 2012
 Final Shooting Script_2012_01_18_v2    46
-NASSOR"|unknown||
+NASSOR"|unknown|||
 870||"No he doesn't. You fell for a
-parlor trick."|location||
-871||TOSHIAKI|unknown||
-872||You're saying he faked it?|location||
+parlor trick."|location|||
+871||TOSHIAKI|unknown|||
+872||You're saying he faked it?|location|||
 873||"Just then we hear a crash as E trips over a stack of
-bats. He has been eavesdropping."|stage direction||
-874||E|unknown||
-875||*GASP*|location||
-876||TOSHIAKI|unknown||
+bats. He has been eavesdropping."|stage direction|||
+874||E|unknown|||
+875||*GASP*|location|||
+876||TOSHIAKI|unknown|||
 877||"That fish you showed us, was it
-real?"|location||
-878||It was!   And it was dead, too.|location||
-879||NASSOR|unknown||
+real?"|location|||
+878||It was!   And it was dead, too.|location|||
+879||NASSOR|unknown|||
 880||"You brought an animal back from
-the dead?"|location||
+the dead?"|location|||
 881||"The boys move in, circling him.    He panics, but can't get
-away."|stage direction||
-882||E|unknown||
+away."|stage direction|||
+882||E|unknown|||
 883||"No, Victor did. With lightning
-and BOOM! and SSS..."|location||
-884||TOSHIAKI|unknown||
-885||Impossible.|location||
-886||E|unknown||
+and BOOM! and SSS..."|location|||
+884||TOSHIAKI|unknown|||
+885||Impossible.|location|||
+886||E|unknown|||
 887||"I swear! I mean, he already
-brought back his dog."|location||
+brought back his dog."|location|||
 888||"He tries to swallow his words but the boys lean in
-closer."|stage direction||
-889||TOSHIAKI|unknown||
-890||He brought back Sparky?|location||
-891||E nods and the boys exchange a look.|stage direction||
-892||TOSHIAKI|unknown||
-893||Hmmmm.|location||
-894||NASSOR|unknown||
+closer."|stage direction|||
+889||TOSHIAKI|unknown|||
+890||He brought back Sparky?|location|||
+891||E nods and the boys exchange a look.|stage direction|||
+892||TOSHIAKI|unknown|||
+893||Hmmmm.|location|||
+894||NASSOR|unknown|||
 895||"Victor will win the science fair.
-Unless we can do better. Bigger."|location||
+Unless we can do better. Bigger."|location|||
 896||"Toshiaki turns his steely gaze towards Edgar and a sly
-smile spreads across his face."|stage direction||
+smile spreads across his face."|stage direction|||
 897||"January 2012
-Final Shooting Script_2012_01_18_v2   47"|unknown||
+Final Shooting Script_2012_01_18_v2   47"|unknown|||
 898|TOSHIAKI|"You say you know Victor's secret.
-Now is your chance to prove it."|speech|TOSHIAKI|M
-899||INT.   KITCHEN - DAY|location||
+Now is your chance to prove it."|speech|TOSHIAKI|M|True
+899||INT.   KITCHEN - DAY|location|||
 900||"Mom's recipe book is opened to a page that reads -
-- DOUBLE DUTCH CHERRY MUFFINS"|stage direction||
-901|MOM|Now, where is my muffin tin?|speech|MOM|M
-902||She checks inside the oven but no muffin tin.|stage direction||
+- DOUBLE DUTCH CHERRY MUFFINS"|stage direction|||
+901|MOM|Now, where is my muffin tin?|speech|MOM|M|True
+902||She checks inside the oven but no muffin tin.|stage direction|||
 903||"MOM
-(realizing)"|unknown||
-904|MOM|Victor.|speech|MOM|M
-905||INT.   ATTIC WORKSHOP - DAY|location||
+(realizing)"|unknown|||
+904|MOM|Victor.|speech|MOM|M|True
+905||INT.   ATTIC WORKSHOP - DAY|location|||
 906||"VICTOR'S MOM goes up into the attic to find...
 Nothing out of the ordinary.
 She enters, taking a look around for her missing muffin
 tin. She walks over to Victor's chalk board and sees his
-diagrams for bringing Sparky back to life."|stage direction||
-907||MOM|unknown||
-908|MOM|Sparky?|speech|MOM|M
+diagrams for bringing Sparky back to life."|stage direction|||
+907||MOM|unknown|||
+908|MOM|Sparky?|speech|MOM|M|True
 909||"Sparky walks around the curtain and stands panting next
 to Mom.
 She turns, startled and sees - Sparky.
 His NECK BOLTS.
 His STITCHES.
 Mom falls backwards and onto the floor and -
-SCREAMS."|stage direction||
-910||INT. LIVING ROOM - CONTINUOUS|location||
-911||Dad enters the house to hear Mom screaming in the attic.|stage direction||
-912||INT. ATTIC WORKSHOP - CONTINUOUS|location||
+SCREAMS."|stage direction|||
+910||INT. LIVING ROOM - CONTINUOUS|location|||
+911||Dad enters the house to hear Mom screaming in the attic.|stage direction|||
+912||INT. ATTIC WORKSHOP - CONTINUOUS|location|||
 913||"Dad runs in and see's Sparky desperately trying to get
-closer to Mom."|stage direction||
+closer to Mom."|stage direction|||
 914||"January 2012
 Final Shooting Script_2012_01_18_v2    48
-MOM"|unknown||
-915||Sparky? ... Sparky's alive!|location||
-916||Sparky doesn't understand why she is screaming.|stage direction||
-917||DAD|unknown||
-918||Sparky! Hey. Come on.|location||
+MOM"|unknown|||
+915||Sparky? ... Sparky's alive!|location|||
+916||Sparky doesn't understand why she is screaming.|stage direction|||
+917||DAD|unknown|||
+918||Sparky! Hey. Come on.|location|||
 919||"Sparky is petrified, he bolts away and runs into the
 mirror which splinters from the impact.
 He looks up and sees his reflection - grotesque and
 broken.
 Victor enters around the curtain and is horrified to see
-what is happening."|stage direction||
-920||VICTOR|unknown||
-921||Mom! Dad! What's going on?|location||
-922||Sparky runs towards the window, desperate and frightened.|stage direction||
-923||VICTOR|unknown||
-924||Sparky! Nooooo! Sparky!|location||
+what is happening."|stage direction|||
+920||VICTOR|unknown|||
+921||Mom! Dad! What's going on?|location|||
+922||Sparky runs towards the window, desperate and frightened.|stage direction|||
+923||VICTOR|unknown|||
+924||Sparky! Nooooo! Sparky!|location|||
 925||"Victor and his Dad run to catch Sparky but he shoots past
-them through the open window."|stage direction||
-926||VICTOR|unknown||
+them through the open window."|stage direction|||
+926||VICTOR|unknown|||
 927||"Sparky! No! Sparky come back!
-Sparky!"|location||
-928||Victor tries to go after him but Dad holds him back.|stage direction||
-929||DAD|unknown||
-930||Hey! Hey! Just a minute.|location||
-931||VICTOR|unknown||
-932||No I have to go and find Sparky.|location||
-933||DAD|unknown||
-934||Victor what have you done?|location||
-935||VICTOR|unknown||
+Sparky!"|location|||
+928||Victor tries to go after him but Dad holds him back.|stage direction|||
+929||DAD|unknown|||
+930||Hey! Hey! Just a minute.|location|||
+931||VICTOR|unknown|||
+932||No I have to go and find Sparky.|location|||
+933||DAD|unknown|||
+934||Victor what have you done?|location|||
+935||VICTOR|unknown|||
 936||"You said yourself: If you could
-bring back Sparky, you would."|location||
-937||DAD|unknown||
+bring back Sparky, you would."|location|||
+937||DAD|unknown|||
 938||"Yes, but that was different,
 because we couldn't!
 It's easy to promise the
@@ -1767,21 +1767,21 @@ impossible. What you did was a
 very serious thing. Crossing the
 boundary between life and death --
 reanimating a corpse -- it's
-very...upsetting."|location||
+very...upsetting."|location|||
 939||"January 2012
-Final Shooting Script_2012_01_18_v2   49"|unknown||
-940|VICTOR|I just wanted my dog back.|speech|VICTOR|M
+Final Shooting Script_2012_01_18_v2   49"|unknown|||
+940|VICTOR|I just wanted my dog back.|speech|VICTOR|M|True
 941||"Tears well up in Victor's eyes. His anguish is palpable.
-Mom looks to Dad for a plan."|stage direction||
+Mom looks to Dad for a plan."|stage direction|||
 942|MOM|"Oh sweetheart, we'll help you look
 for Sparky but when we get back I
 think we need to have a little
-talk. Understood."|speech|MOM|M
-943||VICTOR|unknown||
-944|MOM|Yes.|speech|MOM|M
-945||Mom and Dad share a look.|stage direction||
-946|DAD|Now lets go find your dog.|speech|DAD|M
-947||EXT.   TOWN SQUARE - NIGHT|location||
+talk. Understood."|speech|MOM|M|True
+943||VICTOR|unknown|||
+944|MOM|Yes.|speech|MOM|M|True
+945||Mom and Dad share a look.|stage direction|||
+946|DAD|Now lets go find your dog.|speech|DAD|M|True
+947||EXT.   TOWN SQUARE - NIGHT|location|||
 948||"Sparky runs through town where the dutch day festivities
 have officially begun. The town square has been
 transformed into a European fun fair with rides and food
@@ -1791,61 +1791,61 @@ gardens.
 Sparky is petrified but the townsfolk are completely
 oblivious.
 Sparky tries to stay out of sight, but everywhere he
-goes, he's scared off by some new terror."|stage direction||
-949||EXT. VICTOR'S HOUSE - CONTINUOUS|location||
+goes, he's scared off by some new terror."|stage direction|||
+949||EXT. VICTOR'S HOUSE - CONTINUOUS|location|||
 950||"Victor looks in the backyard and shines his flashlight
-into the empty dog house."|stage direction||
-951|VICTOR|Sparky? Are you in there!|speech|VICTOR|M
+into the empty dog house."|stage direction|||
+951|VICTOR|Sparky? Are you in there!|speech|VICTOR|M|True
 952||"Victor's parents head out the front door and Victor
-hurries past them on his bike."|stage direction||
+hurries past them on his bike."|stage direction|||
 953|VICTOR|"Mom! Dad! I'm going to check out
 the school and the park, you guys
-do the town square, ok?"|speech|VICTOR|M
-954||DAD|unknown||
-955|VICTOR|Got it.|speech|VICTOR|M
-956||MOM|unknown||
-957|VICTOR|Sparky!|speech|VICTOR|M
+do the town square, ok?"|speech|VICTOR|M|True
+954||DAD|unknown|||
+955|VICTOR|Got it.|speech|VICTOR|M|True
+956||MOM|unknown|||
+957|VICTOR|Sparky!|speech|VICTOR|M|True
 958||"January 2012
 Final Shooting Script_2012_01_18_v2   50
-DAD"|unknown||
-959|VICTOR|Sparky!|speech|VICTOR|M
+DAD"|unknown|||
+959|VICTOR|Sparky!|speech|VICTOR|M|True
 960||"As they go in their respective directions we see
 Toshiaki, Edgar, Nassor and Weird Girl skulking in the
 bushes.
 Toshiaki nudges Edgar forward and motions to the front
-door which has been left ajar in their haste."|stage direction||
-961||INT.   ATTIC WORKSHOP - NIGHT|location||
+door which has been left ajar in their haste."|stage direction|||
+961||INT.   ATTIC WORKSHOP - NIGHT|location|||
 962||"We see the shadows of all five of them slowly climb the
 attic stairs.
 E pulls the curtain back to reveal Victor's sanctum
-sanctorum. The apparatus glistens in the moonlight."|stage direction||
-963||BOB|unknown||
-964|VICTOR|Cool.|speech|VICTOR|M
+sanctorum. The apparatus glistens in the moonlight."|stage direction|||
+963||BOB|unknown|||
+964|VICTOR|Cool.|speech|VICTOR|M|True
 965||"Nassor and Weird Girl check out the equipment - pushing
 and pulling on the wires with clumsy curiosity.
 Edgar tries to confer with Toshiaki who turns his back
 dismissively. Its clear there are no more partnerships.
 Its every man for himself.
 Toshiaki examines the formulas and theorems on the
-blackboard."|stage direction||
-966||TOSHIAKI|unknown||
-967|VICTOR|Interesting.|speech|VICTOR|M
+blackboard."|stage direction|||
+966||TOSHIAKI|unknown|||
+967|VICTOR|Interesting.|speech|VICTOR|M|True
 968|E|"It has something to do with the
 lightning. I don't really
-understand it."|speech|E|M
-969||TOSHIAKI|unknown||
-970|E|Ah-but I do.|speech|E|M
-971||PUSHING IN on his eyes...|stage direction||
+understand it."|speech|E|M|True
+969||TOSHIAKI|unknown|||
+970|E|Ah-but I do.|speech|E|M|True
+971||PUSHING IN on his eyes...|stage direction|||
 972|NASSOR|"Tonight, we shall bring the dead
-to life."|speech|NASSOR|M
-973||EXT.   NEAR THE SCHOOL - CONTINUOUS|location||
+to life."|speech|NASSOR|M|True
+973||EXT.   NEAR THE SCHOOL - CONTINUOUS|location|||
 974||"Victor runs around the baseball field shining the
-flashlight under the bleachers and into the dug out."|stage direction||
-975||VICTOR|unknown||
-976|NASSOR|Sparky!    Where are you? Sparky!|speech|NASSOR|M
+flashlight under the bleachers and into the dug out."|stage direction|||
+975||VICTOR|unknown|||
+976|NASSOR|Sparky!    Where are you? Sparky!|speech|NASSOR|M|True
 977||"January 2012
-Final Shooting Script_2012_01_18_v2   51"|unknown||
-978||EXT. PET CEMETERY - NIGHT|location||
+Final Shooting Script_2012_01_18_v2   51"|unknown|||
+978||EXT. PET CEMETERY - NIGHT|location|||
 979||"Sparky narrowly avoids some kids running towards the town
 center by backing into an open gate.
 As the revelers pass he looks around at where he is and
@@ -1857,42 +1857,42 @@ him up the hillside where he finds himself at the foot of
 his own grave.
 He can't read, but he seems to recognize what it is.
 What it means.
-He lays down, looking up at the moon."|stage direction||
-980||EXT. TOWN SQUARE - NIGHT|location||
+He lays down, looking up at the moon."|stage direction|||
+980||EXT. TOWN SQUARE - NIGHT|location|||
 981||"Back in town we see Victor's parents searching under the
-stage as the crowd starts to assemble for Dutch day."|stage direction||
-982||MOM|unknown||
-983||Sparky? Sparky?|location||
+stage as the crowd starts to assemble for Dutch day."|stage direction|||
+982||MOM|unknown|||
+983||Sparky? Sparky?|location|||
 984||"The crowd applauds as Mr. Burgemeister steps up to the
-microphone."|stage direction||
-985||BURGEMEISTER|unknown||
+microphone."|stage direction|||
+985||BURGEMEISTER|unknown|||
 986||"Thank you, thank you so much. And
 now, it's my pleasure to introduce
 this year's Little Dutch Girl, my
-niece, Elsa Van Helsing."|location||
+niece, Elsa Van Helsing."|location|||
 987||"Elsa walks out to meet Burgemeister on stage. She is
 completely transformed with wooden shoes and blond
 braids. In addition to her costume, she is wearing a
 wide crown of candles. She tries to walk very steadily
-to keep wax from dripping on her."|stage direction||
-988||ELSA|unknown||
-989||I don't think this is safe.|location||
-990||BURGEMEISTER|unknown||
+to keep wax from dripping on her."|stage direction|||
+988||ELSA|unknown|||
+989||I don't think this is safe.|location|||
+990||BURGEMEISTER|unknown|||
 991||"Nonsense. We have the fire chief
-over here."|location||
+over here."|location|||
 992||"We see a decrepit, 90 year old man dressed like a
-fireman. He doesn't inspire confidence."|stage direction||
-993||BURGEMEISTER|unknown||
+fireman. He doesn't inspire confidence."|stage direction|||
+993||BURGEMEISTER|unknown|||
 994||"You know, a lot of girls would
-kill to be in your place."|location||
+kill to be in your place."|location|||
 995||"January 2012
-Final Shooting Script_2012_01_18_v2     52"|unknown||
-996|ELSA|I'd welcome death.|speech|ELSA|F
+Final Shooting Script_2012_01_18_v2     52"|unknown|||
+996|ELSA|I'd welcome death.|speech|ELSA|F|True
 997||"Burgemeister walks away from Elsa leaving her alone at
 the microphone.
 Nervous, she looks out over the crowd.
-Elsa starts to sing."|stage direction||
-998||(singing)|unknown||
+Elsa starts to sing."|stage direction|||
+998||(singing)|unknown|||
 999|ELSA|"Praise be New Holland,
 Streets so wide and sidewalks clean,
 Modest homes at modest prices,
@@ -1900,49 +1900,49 @@ Everyone's urban dream,
 Praise be New Holland,
 Happy children free from tears,
 Free from all the worlds dangers,
-Free from crime and free from strangers,"|speech|ELSA|F
+Free from crime and free from strangers,"|speech|ELSA|F|True
 1000||"The crowd is so rapt that no one notices the big
 THUNDERSTORM brewing overhead.
-SONG CONTINUES UNDER:"|stage direction||
-1001||EXT.   PET CEMETERY - NIGHT|location||
+SONG CONTINUES UNDER:"|stage direction|||
+1001||EXT.   PET CEMETERY - NIGHT|location|||
 1002||"Cowering behind his tombstone, Sparky watches as Nassor
-and Toshiaki enter the graveyard, each carrying a shovel."|stage direction||
-1003||EXT. TOWN SQUARE / STAGE|location||
-1004||(singing)|unknown||
+and Toshiaki enter the graveyard, each carrying a shovel."|stage direction|||
+1003||EXT. TOWN SQUARE / STAGE|location|||
+1004||(singing)|unknown|||
 1005|ELSA|"In our houses tight and safe,
-We have nothing to fear,"|speech|ELSA|F
-1006||EXT.   PET CEMETERY - NIGHT|location||
-1007||Nassor heads up the hill towards a gothic mausoleum.|stage direction||
+We have nothing to fear,"|speech|ELSA|F|True
+1006||EXT.   PET CEMETERY - NIGHT|location|||
+1007||Nassor heads up the hill towards a gothic mausoleum.|stage direction|||
 1008|NASSOR|"Ah. The tomb of Collosus soon you
 shall be awakened and we shall be
-reunited once again."|speech|NASSOR|M
+reunited once again."|speech|NASSOR|M|True
 1009||"Toshiaki stops in front of a tomb shaped like the shell
 of a turtle. The inscription reads simply - Shelley.
 He digs up a small bundle, he picks it up and smiles
-wryly."|stage direction||
+wryly."|stage direction|||
 1010||"January 2012
 Final Shooting Script_2012_01_18_v2    53
-TOSHIAKI"|unknown||
-1011|NASSOR|Shelley.|speech|NASSOR|M
-1012||EXT. SCHOOL - CONTINUOUS|location||
+TOSHIAKI"|unknown|||
+1011|NASSOR|Shelley.|speech|NASSOR|M|True
+1012||EXT. SCHOOL - CONTINUOUS|location|||
 1013||"E rummages in the school garbage cans and triumphantly
-pulls out a dead rat."|stage direction||
-1014||INT. CLASSROOM - CONTINUOUS|location||
+pulls out a dead rat."|stage direction|||
+1014||INT. CLASSROOM - CONTINUOUS|location|||
 1015||"E climbs through the window of the classroom and places
 his dead rat on Mr. Ryzkruski's desk. He attaches the
-electrode clips to the rats paws."|stage direction||
-1016||EXT.   BACKYARD POOL - CONTINUOUS|location||
+electrode clips to the rats paws."|stage direction|||
+1016||EXT.   BACKYARD POOL - CONTINUOUS|location|||
 1017||"Bob feeds a metal leaf skimmer into his pool and then
-rips open the container of sea monkeys and dumps them in."|stage direction||
-1018||EXT. PET CEMETERY - CONTINUOUS|location||
+rips open the container of sea monkeys and dumps them in."|stage direction|||
+1018||EXT. PET CEMETERY - CONTINUOUS|location|||
 1019||"Nassor enters the mausoleum and attaches two clips onto
 the grave of Collosus. He exits the mausoleum and sends
-four Mylar balloons off into the sky."|stage direction||
-1020||EXT.   TOSHIAKI'S BACKYARD - CONTINUOUS|location||
+four Mylar balloons off into the sky."|stage direction|||
+1020||EXT.   TOSHIAKI'S BACKYARD - CONTINUOUS|location|||
 1021||"Toshiaki exits the gardening shed and walks over to his
 bundle. He attaches two clips and hooks these up to a
-kite by using a series of extension cords."|stage direction||
-1022||INT.   WEIRD GIRL'S BEDROOM - NIGHT|location||
+kite by using a series of extension cords."|stage direction|||
+1022||INT.   WEIRD GIRL'S BEDROOM - NIGHT|location|||
 1023||"We pull back through a skylight to see Mr Whiskers
 delivering a dead bat to Weird Girl who sits on her bed
 combing her doll's hair. Weird Girl's room is impossibly
@@ -1955,50 +1955,50 @@ above her bed. She attaches the butterfly to   the coat
 hanger pole and solemnly feeds it out of the   window into
 the night sky.
 The balloons, butterfly and kite can be seen floating
-over New Holland in the storm."|stage direction||
+over New Holland in the storm."|stage direction|||
 1024||"January 2012
-Final Shooting Script_2012_01_18_v2        54"|unknown||
+Final Shooting Script_2012_01_18_v2        54"|unknown|||
 1025||"While she stares out the window at the approaching storm,
 Mr Whiskers sniffs curiously at the bat and starts to
-take a bite."|stage direction||
-1026||EXT.   TOWN SQUARE - NIGHT|location||
-1027||Elsa finishes her song:|stage direction||
-1028||(singing)|unknown||
+take a bite."|stage direction|||
+1026||EXT.   TOWN SQUARE - NIGHT|location|||
+1027||Elsa finishes her song:|stage direction|||
+1028||(singing)|unknown|||
 1029|ELSA|"Praise be New Holland,
-May your windmill spin forever more."|speech|ELSA|F
-1030||The crowd APPLAUDS.|stage direction||
-1031|MR. BURGEMEISTER|Isn't she adorable.|speech|MR. BURGEMEISTER|M
+May your windmill spin forever more."|speech|ELSA|F|True
+1030||The crowd APPLAUDS.|stage direction|||
+1031|MR. BURGEMEISTER|Isn't she adorable.|speech|MR. BURGEMEISTER|M|
 1032||"Motioning with his hands, Burgemeister signals for bigger
 applause but a big clap of THUNDER gets everyone's
 attention -
-And then lightning strikes."|stage direction||
-1033||INT.   WEIRD GIRL'S BEDROOM - NIGHT|location||
+And then lightning strikes."|stage direction|||
+1033||INT.   WEIRD GIRL'S BEDROOM - NIGHT|location|||
 1034||"The lightning hits the butterfly and flies down the coat
 hanger rod. It hits the bat which is still in Mr
-Whisker's mouth. The bed explodes."|stage direction||
-1035||EXT.   BACKYARD POOL - NIGHT|location||
+Whisker's mouth. The bed explodes."|stage direction|||
+1035||EXT.   BACKYARD POOL - NIGHT|location|||
 1036||"Lightning hits the propped-up pool skimmer, then CRACKLES
 across the surface of the pool.
-Bob leaps back blinded by the light."|stage direction||
-1037||INT. CLASSROOM - NIGHT|location||
+Bob leaps back blinded by the light."|stage direction|||
+1037||INT. CLASSROOM - NIGHT|location|||
 1038||"The lightning strikes the school building, SURGING
 through the power line to the electrodes on the rat.         We
-see the flattened sections start to balloon out."|stage direction||
-1039||EXT.   SKY ABOVE THE CEMETERY - NIGHT|location||
+see the flattened sections start to balloon out."|stage direction|||
+1039||EXT.   SKY ABOVE THE CEMETERY - NIGHT|location|||
 1040||"The Mylar balloons are FRIED by lightning. The balloons
 burst, sending the surge hurtling down towards the
-mausoleum."|stage direction||
+mausoleum."|stage direction|||
 1041||"January 2012
-Final Shooting Script_2012_01_18_v2    55"|unknown||
-1042||EXT. TOSHIAKI'S YARD - NIGHT|location||
+Final Shooting Script_2012_01_18_v2    55"|unknown|||
+1042||EXT. TOSHIAKI'S YARD - NIGHT|location|||
 1043||"Lightning surges down from the heavens, striking the
 disinterred bundle. The turtle bundle explodes. Toshiaki
-ducks for cover into the garden shed."|stage direction||
-1044||EXT.   WEIRD GIRL'S BEDROOM - NIGHT|location||
+ducks for cover into the garden shed."|stage direction|||
+1044||EXT.   WEIRD GIRL'S BEDROOM - NIGHT|location|||
 1045||"Weird Girl looks up she sees Mr. Whiskers. His fur is
-smoking but he just seems a little dazed."|stage direction||
-1046||WEIRD GIRL|unknown||
-1047|MR. BURGEMEISTER|Mr Whiskers?|speech|MR. BURGEMEISTER|M
+smoking but he just seems a little dazed."|stage direction|||
+1046||WEIRD GIRL|unknown|||
+1047|MR. BURGEMEISTER|Mr Whiskers?|speech|MR. BURGEMEISTER|M|
 1048||"He starts licking his paws when suddenly --
 GIANT BAT WINGS unfurl from his back. He looks up at the
 Weird Girl and HISSES, his mouth featuring two giant
@@ -2007,44 +2007,44 @@ He arches his back and we see his vertebrae multiply and
 stretch. His paws extend into gnarled and pointy claws.
 His color changes from white to grey to a muddy, cloudy
 black. It forms a perfect vampire's peak on his head -
-Mr Whiskers has transformed into a VAMPIRE CAT."|stage direction||
-1049||WEIRD GIRL|unknown||
-1050|MR. BURGEMEISTER|Mr Whiskers?|speech|MR. BURGEMEISTER|M
+Mr Whiskers has transformed into a VAMPIRE CAT."|stage direction|||
+1049||WEIRD GIRL|unknown|||
+1050|MR. BURGEMEISTER|Mr Whiskers?|speech|MR. BURGEMEISTER|M|
 1051||"The VAMPIRE CAT starts to fly around the room manically
 knocking into things on shelves and on the walls. He ends
-up on the sky light."|stage direction||
-1052||WEIRD GIRL|unknown||
-1053|MR. BURGEMEISTER|Mr Whiskers.|speech|MR. BURGEMEISTER|M
+up on the sky light."|stage direction|||
+1052||WEIRD GIRL|unknown|||
+1053|MR. BURGEMEISTER|Mr Whiskers.|speech|MR. BURGEMEISTER|M|
 1054||"With one flap of its wings, he flies out the window and
-up into the stormy night sky."|stage direction||
-1055||INT.   SCHOOL HALLWAY - NIGHT|location||
+up into the stormy night sky."|stage direction|||
+1055||INT.   SCHOOL HALLWAY - NIGHT|location|||
 1056||"E races out of the classroom into the corridor screaming.
 Hearing the commotion the gym teacher opens a different
-classroom door."|stage direction||
-1057|GYM TEACHER|Hello? Is someone there?|speech|GYM TEACHER|F
+classroom door."|stage direction|||
+1057|GYM TEACHER|Hello? Is someone there?|speech|GYM TEACHER|F|True
 1058||"The gym teacher tentatively makes her way down the
 corridor to the classroom E has just run from. She opens
 the door.
-A beat."|stage direction||
+A beat."|stage direction|||
 1059||"January 2012
-Final Shooting Script_2012_01_18_v2   56"|unknown||
+Final Shooting Script_2012_01_18_v2   56"|unknown|||
 1060||"A giant WERERAT leaps in front of the doorway with it's
-fangs revealed. The gym teacher screams."|stage direction||
-1061||EXT. PET CEMETERY - NIGHT|location||
-1062||The earth around the mausoleum rumbles.|stage direction||
+fangs revealed. The gym teacher screams."|stage direction|||
+1061||EXT. PET CEMETERY - NIGHT|location|||
+1062||The earth around the mausoleum rumbles.|stage direction|||
 1063|NASSOR|"Rise, colossus. Rise from your
-tomb!"|speech|NASSOR|M
+tomb!"|speech|NASSOR|M|True
 1064||"As Nassor continues his incantation, we see a MUMMY
 HAMSTER emerge from the mausoleum. His shadow is huge.
 Nassor watches with his mouth open his gaze moves down to
 the ground.
 It might be frightening if the Mummy Hamster weren't just
-a few inches tall."|stage direction||
-1065||EXT.   TOSHIAKI'S YARD - NIGHT|location||
+a few inches tall."|stage direction|||
+1065||EXT.   TOSHIAKI'S YARD - NIGHT|location|||
 1066||"A bottle of Miracle-Gro lies empty on the grass. Toshiaki
 steps out of the garden shed and walks over to the
-scorched patch of grass. He looks around the garden."|stage direction||
-1067|TOSHIAKI|Shelley?|speech|TOSHIAKI|M
+scorched patch of grass. He looks around the garden."|stage direction|||
+1067|TOSHIAKI|Shelley?|speech|TOSHIAKI|M|True
 1068||"Suddenly, a massive turtle foot SMASHES down, crushing
 the shed.
 A GIANT TURTLE MONSTER -- bigger than a bus -- SHRIEKS to
@@ -2053,112 +2053,112 @@ Toshiaki scrambles to get away, alternately impressed and
 terrified.
 The turtle opens its mouth, and lets out a blood curdling
 roar. Distracted by the Dutch Day lights the Turtle
-monster heads to town."|stage direction||
-1069||EXT.   BACKYARD POOL - NIGHT|location||
+monster heads to town."|stage direction|||
+1069||EXT.   BACKYARD POOL - NIGHT|location|||
 1070||"An almost-translucent hand grabs the side of the pool,
 pulling itself out. And it's not alone.
 Dozens of SEA MONKEYS emerge: simian warriors with
 shrimp-like features, some carrying bone tridents.
 Bob SCREAMS and runs out of the garden followed by the
-sea monkeys."|stage direction||
+sea monkeys."|stage direction|||
 1071||"January 2012
-Final Shooting Script_2012_01_18_v2    57"|unknown||
-1072||EXT. PET CEMETERY - NIGHT|location||
-1073||Victor stops his bike at the pet cemetery gates -|stage direction||
-1074||VICTOR|unknown||
-1075||Sparky? Sparky?|location||
+Final Shooting Script_2012_01_18_v2    57"|unknown|||
+1072||EXT. PET CEMETERY - NIGHT|location|||
+1073||Victor stops his bike at the pet cemetery gates -|stage direction|||
+1074||VICTOR|unknown|||
+1075||Sparky? Sparky?|location|||
 1076||"Victor pushes open the gate. His flashlight casts long,
 scary shadows.
 He is drawn towards Sparky's grave and as his flashlight
 sweeps across the tombstone, he sees Sparky's frightened
 face peeking out from behind.
-Could it be..."|stage direction||
-1077||Sparky?|location||
+Could it be..."|stage direction|||
+1077||Sparky?|location|||
 1078||"Sparky peers around the edge of the tombstone and
-realizes that it's Victor and hangs his head in shame."|stage direction||
-1079||Sparky!|location||
+realizes that it's Victor and hangs his head in shame."|stage direction|||
+1079||Sparky!|location|||
 1080||"Sparky is nervous and confused but slowly rests his head
-in Victor's arms."|stage direction||
-1081||VICTOR|unknown||
+in Victor's arms."|stage direction|||
+1081||VICTOR|unknown|||
 1082||"Sparky it's OK boy, it's just me.
 I thought that you were gone. I
 never want to lose you. Promise
-you'll never go running off. Okay?"|location||
-1083||Victor hold him tightly and Sparky licks him happily.|stage direction||
-1084||Come on boy.|location||
+you'll never go running off. Okay?"|location|||
+1083||Victor hold him tightly and Sparky licks him happily.|stage direction|||
+1084||Come on boy.|location|||
 1085||"Victor leads Sparky away through the cemetery when he
 sees the open grave of Shelley and the Colossus mausoleum
-door ajar."|stage direction||
-1086||VICTOR|unknown||
+door ajar."|stage direction|||
+1086||VICTOR|unknown|||
 1087||"Was someone else here?
-EXT. CEMETERY - CONTINUOUS"|location||
+EXT. CEMETERY - CONTINUOUS"|location|||
 1088||"Bob runs past the pet cemetery and hides behind a mail
 box to avoid the phalanx of sea monkeys who charge past
 like supernatural hooligans, craving mayhem and
 destructive mischief.
 Panting with relief, Bob turns to see Victor in the
-cemetery."|stage direction||
+cemetery."|stage direction|||
 1089||"January 2012
 Final Shooting Script_2012_01_18_v2   58
-BOB"|unknown||
-1090||Victor! I need your help.|location||
-1091||VICTOR|unknown||
+BOB"|unknown|||
+1090||Victor! I need your help.|location|||
+1091||VICTOR|unknown|||
 1092||"Did you see those things? They
-were like...."|location||
-1093||BOB|unknown||
+were like...."|location|||
+1093||BOB|unknown|||
 1094||"Sea Monkeys. You know how on the
 package, they're like in a happy
-kingdom and everyone's smiling?"|location||
-1095||VICTOR|unknown||
-1096||Yeah.|location||
-1097||BOB|unknown||
-1098||They're not like that at all.|location||
-1099||Toshiaki runs up, yelling from the sidewalk.|stage direction||
-1100||TOSHIAKI|unknown||
-1101||Victor!     I need your help!|location||
-1102||BOB|unknown||
-1103||I asked him first!|location||
-1104||TOSHIAKI|unknown||
-1105||My problem's bigger!|location||
+kingdom and everyone's smiling?"|location|||
+1095||VICTOR|unknown|||
+1096||Yeah.|location|||
+1097||BOB|unknown|||
+1098||They're not like that at all.|location|||
+1099||Toshiaki runs up, yelling from the sidewalk.|stage direction|||
+1100||TOSHIAKI|unknown|||
+1101||Victor!     I need your help!|location|||
+1102||BOB|unknown|||
+1103||I asked him first!|location|||
+1104||TOSHIAKI|unknown|||
+1105||My problem's bigger!|location|||
 1106||"Toshiaki points to the distance - a towering, giant
 Turtle is walking past. Its a suburban Gamera. Sparky
 barks defensively.
-Bob has to admit --"|stage direction||
-1107||BOB|unknown||
-1108||Yeah.    He's right.|location||
+Bob has to admit --"|stage direction|||
+1107||BOB|unknown|||
+1108||Yeah.    He's right.|location|||
 1109||"A beat. Victor has to think fast. This is all his fault.
-He looks down at Sparky and gets an idea."|stage direction||
-1110||VICTOR|unknown||
-1111||Ok let's go!|location||
+He looks down at Sparky and gets an idea."|stage direction|||
+1110||VICTOR|unknown|||
+1111||Ok let's go!|location|||
 1112||"Victor, Sparky and Bob rush off. Toshiaki starts to laugh
 and reveals his video recorder. He is secretly quite
-pleased with his science project."|stage direction||
-1113||EXT. TOWN SQUARE - NIGHT|location||
+pleased with his science project."|stage direction|||
+1113||EXT. TOWN SQUARE - NIGHT|location|||
 1114||"Burgemeister and Elsa are still on stage as the crowd
-look on applauding."|stage direction||
+look on applauding."|stage direction|||
 1115||"January 2012
 Final Shooting Script_2012_01_18_v2     59
-BURGEMEISTER"|unknown||
+BURGEMEISTER"|unknown|||
 1116||"And now for our next act we have
-something really big."|location||
+something really big."|location|||
 1117||"Suddenly, SCREAMS in the crowd.
 The audience turns and sees THE GIANT TURTLE - marching
-through town, crushing everything in its path."|stage direction||
+through town, crushing everything in its path."|stage direction|||
 1118||"BURGEMEISTER
-(panicked gasp)"|unknown||
+(panicked gasp)"|unknown|||
 1119||"Burgemeister flees, leaving Elsa to her own devices. He
-rushes through to the back of the stage."|stage direction||
-1120||EXT. BACKSTAGE - NIGHT|location||
+rushes through to the back of the stage."|stage direction|||
+1120||EXT. BACKSTAGE - NIGHT|location|||
 1121||"Running franticly, Burgemeister tries to save himself.
 He nearly crashes into the Gym Teacher, busy fleeing the
-Wererat."|stage direction||
-1122||BURGEMEISTER|unknown||
-1123||*Gasp*|location||
-1124||GYM TEACHER|unknown||
-1125||*Screams* No get away.|location||
+Wererat."|stage direction|||
+1122||BURGEMEISTER|unknown|||
+1123||*Gasp*|location|||
+1124||GYM TEACHER|unknown|||
+1125||*Screams* No get away.|location|||
 1126||"Desperate for a place to hide, Burgemeister spots a porta-
-potty and quickly ducks inside."|stage direction||
-1127||INT. PUBLIC RESTROOM - NIGHT|location||
+potty and quickly ducks inside."|stage direction|||
+1127||INT. PUBLIC RESTROOM - NIGHT|location|||
 1128||"Burgemeister can hear the pandemonium escalating but,
 feeling safe for the moment, sits on the toilet and
 breathes a sigh of relief.
@@ -2166,8 +2166,8 @@ Strangely he feels something sharp poke him in the butt.
 When he jumps up he sees a host of sea monkeys, jumping
 out of the toilet! The door to the porta-potty bursts
 open and Mr Burgemeister is trampled, as the sea monkeys
-head towards the center of town."|stage direction||
-1129||EXT. TOWN SQUARE - NIGHT|location||
+head towards the center of town."|stage direction|||
+1129||EXT. TOWN SQUARE - NIGHT|location|||
 1130||"The gym teacher races past some destructed stalls being
 chased by a Wererat. She swiftly climbs up a pole were
 the Wererat can not follow her.
@@ -2175,15 +2175,15 @@ The sea monkeys are everywhere. They even emerge from a
 man hole and chase Bob's Mom through the stalls.
 Victor's Mom and Dad try to battle off the approaching
 sea monkeys but there are too many of them. Mom grabs Dad
-by the arm and pulls him into a nearby phone booth."|stage direction||
+by the arm and pulls him into a nearby phone booth."|stage direction|||
 1131||"January 2012
 Final Shooting Script_2012_01_18_v2   60
-MOM"|unknown||
-1132||This way! In here.|location||
+MOM"|unknown|||
+1132||This way! In here.|location|||
 1133||"They slam the door just as a sea monkey flies into it and
-slides down the glass."|stage direction||
-1134||DAD|unknown||
-1135||Whoa!|location||
+slides down the glass."|stage direction|||
+1134||DAD|unknown|||
+1135||Whoa!|location|||
 1136||"Suddenly another sea monkey smashes into the glass
 followed by another and then another. Mom and Dad are
 surrounded. Just as it appears they are going to be
@@ -2196,18 +2196,18 @@ and the sea monkeys scurry off.
 EDGE OF THE SQUARE
 Victor, Toshiaki and Bob arrive at the town square. They
 see the turtle monster in the centre of town. There are
-Sea Monkeys everywhere."|stage direction||
-1137||WIPE TO:|unknown||
+Sea Monkeys everywhere."|stage direction|||
+1137||WIPE TO:|unknown|||
 1138||"Nassor, drunk with power, commands the Mummy Hamster to
-take on the turtle monster and show him who is mightier."|stage direction||
-1139||NASSOR|unknown||
+take on the turtle monster and show him who is mightier."|stage direction|||
+1139||NASSOR|unknown|||
 1140||"Go Colossus! Kill! Kill! Kill!
-Kill!"|location||
+Kill!"|location|||
 1141||"The Mummy Hamster gets ready to attack, when, in one
 large step, the Turtle Monster's giant foot lands
-directly on the Mummy Hamster and squashes him flat."|stage direction||
-1142||NASSOR|unknown||
-1143||Collosus?|location||
+directly on the Mummy Hamster and squashes him flat."|stage direction|||
+1142||NASSOR|unknown|||
+1143||Collosus?|location|||
 1144||"The angry turtle roars in Nassor's face knocking him
 clear across the square.
 Nassor flies with such velocity that he gets tangled up
@@ -2216,16 +2216,16 @@ lands in an upright display of Russian nesting dolls.
 As he smashes into the case we see that now he too is
 wrapped up like a mummy. His scowling eyes are all that
 is visible as the lid closes like a sarcophagus and
-collapses to the ground."|stage direction||
+collapses to the ground."|stage direction|||
 1145||"January 2012
-Final Shooting Script_2012_01_18_v2   61"|unknown||
-1146||EXT. TOWN SQUARE|location||
+Final Shooting Script_2012_01_18_v2   61"|unknown|||
+1146||EXT. TOWN SQUARE|location|||
 1147||"E flees the sea monkeys and runs straight into the
 Wererat who is still howling at the foot of the gym
-teacher's pole."|stage direction||
-1148||E|unknown||
+teacher's pole."|stage direction|||
+1148||E|unknown|||
 1149||"Ah! Get away from me! Get away
-from me! Ah!"|location||
+from me! Ah!"|location|||
 1150||"The Wererat immediately turns his attentions to E and
 chases him past a beer stall were the sea monkeys
 continue to cause havoc at a beer stall, spilling beer
@@ -2235,56 +2235,56 @@ devours it in one bite. No sooner has he swallowed, when
 he begins to fizz and expand and suddenly explodes -
 splattering goop everywhere.
 Victor and Bob are watching from behind a stall and
-Victor gets an idea."|stage direction||
-1151||VICTOR|unknown||
+Victor gets an idea."|stage direction|||
+1151||VICTOR|unknown|||
 1152||"Your sea monkeys, were they
-freshwater or saltwater?"|location||
-1153||Bob knows this --|stage direction||
-1154||BOB|unknown||
-1155||Freshwater!|location||
-1156||VICTOR|unknown||
+freshwater or saltwater?"|location|||
+1153||Bob knows this --|stage direction|||
+1154||BOB|unknown|||
+1155||Freshwater!|location|||
+1156||VICTOR|unknown|||
 1157||"Freshwater animals can't tolerate
-salt."|location||
-1158||CUT TO:|unknown||
-1159||EXT. TOWN SQUARE - POPCORN TENT - NIGHT|location||
+salt."|location|||
+1158||CUT TO:|unknown|||
+1159||EXT. TOWN SQUARE - POPCORN TENT - NIGHT|location|||
 1160||"Victor empties a sack of pop corn kernels into a pop corn
 machine in the pop corn tent. Bob adds the salt. Victor
 turns the machine on.
 The boys try and lure the sea monkeys into the tent by
-waving popcorn."|stage direction||
-1161||VICTOR|unknown||
-1162||Hey over here!|location||
+waving popcorn."|stage direction|||
+1161||VICTOR|unknown|||
+1162||Hey over here!|location|||
 1163||"The sea monkeys follow them and start to gorge themselves
 on the freshly made popcorn.
 Victor, Bob and Sparky zip up the tent and stand by the
-beer stall to see what happens."|stage direction||
+beer stall to see what happens."|stage direction|||
 1164||"January 2012
-Final Shooting Script_2012_01_18_v2   62"|unknown||
+Final Shooting Script_2012_01_18_v2   62"|unknown|||
 1165||"The sea monkeys greedily consume the popcorn with
 feverish abandon and the boys watch in amazement as the
 tent stretches and grows. The canvas sides stretch and
 strain from the pressure.
 Victor and Sparky duck behind a nearby keg just as tent
 suddenly explodes splashing pop corn (and sea monkey
-parts) all over the street."|stage direction||
-1166||BOB|unknown||
-1167||Cool!|location||
+parts) all over the street."|stage direction|||
+1166||BOB|unknown|||
+1167||Cool!|location|||
 1168||"Bob haughtily celebrates a little too quickly and gets
-completely drenched in pop corn goop"|stage direction||
-1169||E (O.S.)|unknown||
-1170||*screams*|location||
-1171||Victor and Sparky look over to see that ...|stage direction||
-1172||CUT TO:|unknown||
-1173||EXT. TOWN / VARIOUS|location||
-1174||Elsa, Persephone and E are being attacked by the Wererat.|stage direction||
-1175||ELSA|unknown||
-1176||Help!|location||
+completely drenched in pop corn goop"|stage direction|||
+1169||E (O.S.)|unknown|||
+1170||*screams*|location|||
+1171||Victor and Sparky look over to see that ...|stage direction|||
+1172||CUT TO:|unknown|||
+1173||EXT. TOWN / VARIOUS|location|||
+1174||Elsa, Persephone and E are being attacked by the Wererat.|stage direction|||
+1175||ELSA|unknown|||
+1176||Help!|location|||
 1177||"Elsa is using a stick to fight him off but the stick
 breaks in half and the Wererat seems ready to pounce. E
 is no help at all and takes this moment to for his life
-leaving Elsa and Persephone completely helpless."|stage direction||
-1178||ELSA|unknown||
-1179||Get back! Stay away from us!|location||
+leaving Elsa and Persephone completely helpless."|stage direction|||
+1178||ELSA|unknown|||
+1179||Get back! Stay away from us!|location|||
 1180||"Victor and Sparky come running to the rescue. Sparky
 leaps in front of Elsa and takes on the Wererat himself.
 They battle ferociously, Sparky can holding his own
@@ -2293,14 +2293,14 @@ Then in the scuffle, the Wererat bites down on Sparky's
 neck but instead of landing a fatal blow, he bites into
 the bolts on Sparky's neck and gets a ZAP of electricity.
 The Wererat instantly collapses down to a normal size rat
-and lands in the street."|stage direction||
-1181||VICTOR|unknown||
-1182||Sparky!|location||
+and lands in the street."|stage direction|||
+1181||VICTOR|unknown|||
+1182||Sparky!|location|||
 1183||"Victor races over to make sure Sparky is not hurt and
-suddenly they hear an almighty roar -"|stage direction||
+suddenly they hear an almighty roar -"|stage direction|||
 1184||"January 2012
-Final Shooting Script_2012_01_18_v2   63"|unknown||
-1185||EXT. THE FERRIS WHEEL - CONTINUOUS|location||
+Final Shooting Script_2012_01_18_v2   63"|unknown|||
+1185||EXT. THE FERRIS WHEEL - CONTINUOUS|location|||
 1186||"The turtle monster is drawn to the lights on the ferris
 wheel. The broken beer barrels continue to flow and the
 square beneath his massive feet is almost flooded.
@@ -2311,20 +2311,20 @@ He laughs maniacally at the power of his creation when he
 suddenly finds himself face to face with the monster
 himself. The Turtle roars with anger and Toshiaki starts
 to panic. He tries to climb out of the carriage and avoid
-the Turtle's sharp teeth but it is too late."|stage direction||
-1187||TOSHIAKI|unknown||
-1188||Aaaaah!|location||
+the Turtle's sharp teeth but it is too late."|stage direction|||
+1187||TOSHIAKI|unknown|||
+1188||Aaaaah!|location|||
 1189||"The turtle monster grabs Toshiaki by the pants and lifts
-him up into the air."|stage direction||
-1190||TOSHIAKI|unknown||
+him up into the air."|stage direction|||
+1190||TOSHIAKI|unknown|||
 1191||"No, no, no! Stop you put me down-
 I gave you life!
-EXT. THE FERRIS WHEEL"|location||
+EXT. THE FERRIS WHEEL"|location|||
 1192||"Toshiaki dangles from the monster's jaws as the turtle
 steps back smashing an electrical fuse box with his tail.
-Sparks fly everywhere."|stage direction||
-1193||TOSHIAKI|unknown||
-1194||Victor! Victor I need help please.|location||
+Sparks fly everywhere."|stage direction|||
+1193||TOSHIAKI|unknown|||
+1194||Victor! Victor I need help please.|location|||
 1195||"Victor sees the wires from the fuse box hissing and
 sparking near the puddle of beer and gets an idea.
 He remembers from his science class that water conducts
@@ -2338,165 +2338,165 @@ Toshiaki continues to try and film the proceedings but he
 is too late.
 Just as he puts the camera to his eye, the turtle
 explodes and all that is left is reduced to a tiny shell
-which falls to the ground at Toshiaki's feet."|stage direction||
+which falls to the ground at Toshiaki's feet."|stage direction|||
 1196||"TOSHIAKI
-(solemnly)"|unknown||
-1197||Shelley.|location||
+(solemnly)"|unknown|||
+1197||Shelley.|location|||
 1198||"January 2012
-Final Shooting Script_2012_01_18_v2    64"|unknown||
-1199||EXT. TOWN / VARIOUS|location||
+Final Shooting Script_2012_01_18_v2    64"|unknown|||
+1199||EXT. TOWN / VARIOUS|location|||
 1200||"Elsa comforts Persephone after their ordeal with the
-Wererat."|stage direction||
-1201||ELSA|unknown||
-1202||Persephone, are you ok?|location||
+Wererat."|stage direction|||
+1201||ELSA|unknown|||
+1202||Persephone, are you ok?|location|||
 1203||"Sparky runs over to join them and make sure that
 Persephone is ok when they hear the Weird Girl calling
 out for her cat. She stands at the base of a souvenir
 stall beckoning to the Vampire cat who completely ignores
-her."|stage direction||
-1204||WEIRD GIRL|unknown||
+her."|stage direction|||
+1204||WEIRD GIRL|unknown|||
 1205||"Here Mr Whiskers! Here kitty kitty
-Mr Whiskers."|location||
+Mr Whiskers."|location|||
 1206||"THE VAMPIRE CAT swoops right past her. With a blood
 curdling screech, he grabs Persephone and flies off
-towards the windmill."|stage direction||
-1207||ELSA|unknown||
-1208||No!|location||
+towards the windmill."|stage direction|||
+1207||ELSA|unknown|||
+1208||No!|location|||
 1209||"Elsa races after her dog, dropping her hat and wig in her
-haste."|stage direction||
-1210||ELSA|unknown||
-1211||Peresphone! Help! Bring her back.|location||
+haste."|stage direction|||
+1210||ELSA|unknown|||
+1211||Peresphone! Help! Bring her back.|location|||
 1212||"Victor hears Elsa's screams and goes after her. The
 Weird Girl is still dazed and confused, still calling for
-her kitty."|stage direction||
-1213||WEIRD GIRL|unknown||
-1214||Mr Whiskers?|location||
-1215||VICTOR|unknown||
-1216||I'm coming Elsa!|location||
+her kitty."|stage direction|||
+1213||WEIRD GIRL|unknown|||
+1214||Mr Whiskers?|location|||
+1215||VICTOR|unknown|||
+1216||I'm coming Elsa!|location|||
 1217||"Sparky tries to keep up, but his legs are too stubby.
 PANTING, he grabs Elsa's wig and turns back in the other
-direction."|stage direction||
-1218||EXT. TOWN SQUARE - NIGHT|location||
+direction."|stage direction|||
+1218||EXT. TOWN SQUARE - NIGHT|location|||
 1219||"Now that the mayhem seems to have ended, the townsfolk
 start to assemble to review the damage. Since the power
 lines went out, they carry lit torches
 Burgemeister pulls himself out of the wreckage and dusts
 himself off. All around him are remnants of his beloved
-dutch day; broken tulips and decimated wooden shoes."|stage direction||
-1220||BURGEMEISTER|unknown||
-1221||What happened?|location||
+dutch day; broken tulips and decimated wooden shoes."|stage direction|||
+1220||BURGEMEISTER|unknown|||
+1221||What happened?|location|||
 1222||"January 2012
-Final Shooting Script_2012_01_18_v2    65"|unknown||
+Final Shooting Script_2012_01_18_v2    65"|unknown|||
 1223||"He can't take much more devastation when -
 Sparky runs past with Elsa's wig in his mouth.
 Sparky sees Mom and Dad and drops Elsa's wig at their
-feet."|stage direction||
-1224|DAD|Sparky! There you are!|speech|DAD|M
-1225|MOM|Are you alright?|speech|MOM|M
+feet."|stage direction|||
+1224|DAD|Sparky! There you are!|speech|DAD|M|True
+1225|MOM|Are you alright?|speech|MOM|M|True
 1226||"Sparky barks at Mom and Dad. Doing his best Lassie, he
-tries to explain what has happened."|stage direction||
-1227|DAD|What you got there boy?|speech|DAD|M
-1228|BURGEMEISTER (O.S.)|Let me through!|speech|BURGEMEISTER|M
+tries to explain what has happened."|stage direction|||
+1227|DAD|What you got there boy?|speech|DAD|M|True
+1228|BURGEMEISTER (O.S.)|Let me through!|speech|BURGEMEISTER|M|True
 1229||"Burgemeister pushes his way through the crowd    that has
-gathered around Sparky."|stage direction||
-1230|BURGEMEISTER|I knew it! It's the boys dead dog!|speech|BURGEMEISTER|M
-1231||Sparky steps back to show Burgemeister Elsa's wig.|stage direction||
+gathered around Sparky."|stage direction|||
+1230|BURGEMEISTER|I knew it! It's the boys dead dog!|speech|BURGEMEISTER|M|True
+1231||Sparky steps back to show Burgemeister Elsa's wig.|stage direction|||
 1232|BURGEMEISTER|"That's Elsa's wig! Where's my
-niece!"|speech|BURGEMEISTER|M
-1233|BOB'S MOTHER|He's killed the little girl!|speech|BOB'S MOTHER|?
+niece!"|speech|BURGEMEISTER|M|True
+1233|BOB'S MOTHER|He's killed the little girl!|speech|BOB'S MOTHER|?|
 1234||"The crowd has clearly misunderstood. Desperate, Sparky
 runs, hoping they will follow.
 Burgemeister leads the crowd in a chase up to the
 windmill.
 Still wearing their costumes from Dutch day and carrying
-torches, they look like a mob of medieval villagers."|stage direction||
-1235|BURGEMEISTER|After him kill the monster!|speech|BURGEMEISTER|M
-1236||Mom and Dad follow close behind.|stage direction||
-1237||EXT.   WINDMILL - NIGHT|location||
-1238||Victor arrives at the windmill and rushes inside.|stage direction||
+torches, they look like a mob of medieval villagers."|stage direction|||
+1235|BURGEMEISTER|After him kill the monster!|speech|BURGEMEISTER|M|True
+1236||Mom and Dad follow close behind.|stage direction|||
+1237||EXT.   WINDMILL - NIGHT|location|||
+1238||Victor arrives at the windmill and rushes inside.|stage direction|||
 1239||"January 2012
-Final Shooting Script_2012_01_18_v2   66"|unknown||
-1240||INT. WINDMILL - CONTINUOUS|location||
+Final Shooting Script_2012_01_18_v2   66"|unknown|||
+1240||INT. WINDMILL - CONTINUOUS|location|||
 1241||"He can hear Elsa's scream coming from the rafters and he
 looks up at the winding, rickety stair that leads to the
 crows nest.
 The vampire cat is creeping towards Elsa pushing her
-further and further up the windmill."|stage direction||
+further and further up the windmill."|stage direction|||
 1242||"ELSA
-Help! Stay away from us."|unknown||
-1243||EXT.   ROAD UP THE HILL - DAY|location||
+Help! Stay away from us."|unknown|||
+1243||EXT.   ROAD UP THE HILL - DAY|location|||
 1244||"Sparky leads the way towards the windmill with the angry
-mob trailing close behind."|stage direction||
-1245||EXT.   WINDMILL - NIGHT|location||
+mob trailing close behind."|stage direction|||
+1245||EXT.   WINDMILL - NIGHT|location|||
 1246||"Sparky arrives at the base of the windmill and tries to
-make them understand that Elsa and Victor are inside."|stage direction||
+make them understand that Elsa and Victor are inside."|stage direction|||
 1247||"BURGEMEISTER
-Get him!"|unknown||
+Get him!"|unknown|||
 1248||"Burgemeister signals to one of the villagers to throw a
-rope around Sparky's neck."|stage direction||
+rope around Sparky's neck."|stage direction|||
 1249||"BURGEMEISTER
-Where's my niece?"|unknown||
+Where's my niece?"|unknown|||
 1250||"In his   hysterical zeal Burgemeister waves his torch
 around   and inadvertently sets the windmill overhang on
 fire.    The sails are quickly engulfed in flames but the
 blades   keep turning.
-The crowd gasps in horror."|stage direction||
+The crowd gasps in horror."|stage direction|||
 1251||"TOWNSFOLK 1
-Look out it's on fire!"|unknown||
+Look out it's on fire!"|unknown|||
 1252||"Sparky continues to bark and pull on the leash, trying
 desperately to make them understand.
 Bob's Mom sees something at the top of the windmill and
-points to Elsa who has climbed out onto the hub."|stage direction||
+points to Elsa who has climbed out onto the hub."|stage direction|||
 1253||"BOB'S MOM
 It's Elsa!
 ELSA
 Help!
 January 2012
-Final Shooting Script_2012_01_18_v2   67"|unknown||
-1254||INT.   WINDMILL - NIGHT|location||
+Final Shooting Script_2012_01_18_v2   67"|unknown|||
+1254||INT.   WINDMILL - NIGHT|location|||
 1255||"Victor continues to climb the stairs trying to get to
-Elsa as quickly as he can."|stage direction||
-1256||EXT.   WINDMILL - NIGHT|location||
+Elsa as quickly as he can."|stage direction|||
+1256||EXT.   WINDMILL - NIGHT|location|||
 1257||"Elsa and Persephone have now backed all the way to the
 edge of the hub and when the vampire cat swoops past
 them, they lose their balance. Elsa grasps onto a sail
-but she can barely hang on."|stage direction||
-1258||BURGEMEISTER|unknown||
-1259|BURGEMEISTER|Elsa!|speech|BURGEMEISTER|M
+but she can barely hang on."|stage direction|||
+1258||BURGEMEISTER|unknown|||
+1259|BURGEMEISTER|Elsa!|speech|BURGEMEISTER|M|True
 1260||"The crowd recoils in horror and Sparky breaks free and
-runs into the burning windmill."|stage direction||
-1261||MOM|unknown||
-1262|BURGEMEISTER|Sparky!|speech|BURGEMEISTER|M
-1263||INT.   WINDMILL - NIGHT|location||
+runs into the burning windmill."|stage direction|||
+1261||MOM|unknown|||
+1262|BURGEMEISTER|Sparky!|speech|BURGEMEISTER|M|True
+1263||INT.   WINDMILL - NIGHT|location|||
 1264||"Victor arrives at the top level of the windmill.    Smoke
-and flames are rising."|stage direction||
-1265||EXT.   WINDMILL - NIGHT|location||
-1266||He climbs out the window towards Elsa.|stage direction||
-1267||ELSA|unknown||
-1268|BURGEMEISTER|Victor! Help!|speech|BURGEMEISTER|M
-1269|VICTOR|Hang on don't let go|speech|VICTOR|M
-1270||Victor holds his hand out trying to get hold of Elsa.|stage direction||
-1271|ELSA|I can't reach.|speech|ELSA|F
+and flames are rising."|stage direction|||
+1265||EXT.   WINDMILL - NIGHT|location|||
+1266||He climbs out the window towards Elsa.|stage direction|||
+1267||ELSA|unknown|||
+1268|BURGEMEISTER|Victor! Help!|speech|BURGEMEISTER|M|True
+1269|VICTOR|Hang on don't let go|speech|VICTOR|M|True
+1270||Victor holds his hand out trying to get hold of Elsa.|stage direction|||
+1271|ELSA|I can't reach.|speech|ELSA|F|True
 1272||"The vampire cat lunges towards Victor and is about to
 finish him off when Sparky appears through the window and
 launches an attack.
 He chases the Vampire cat up the sails leaving Victor to
-reach again for Elsa and Persephone."|stage direction||
-1273||VICTOR|unknown||
-1274|ELSA|Hang on!|speech|ELSA|F
-1275|ELSA|I can't hold on much longer!|speech|ELSA|F
+reach again for Elsa and Persephone."|stage direction|||
+1273||VICTOR|unknown|||
+1274|ELSA|Hang on!|speech|ELSA|F|True
+1275|ELSA|I can't hold on much longer!|speech|ELSA|F|True
 1276||"January 2012
-Final Shooting Script_2012_01_18_v2    68"|unknown||
+Final Shooting Script_2012_01_18_v2    68"|unknown|||
 1277||"Victor turns to look around and grabs a rope and throws
 it over the side just as Elsa loses her grip. Just in the
 nick of time, she catches the rope and swings to safety.
-Burgemeister breaks her fall."|stage direction||
-1278|ELSA|Aaaaah! Whoah!!!|speech|ELSA|F
+Burgemeister breaks her fall."|stage direction|||
+1278|ELSA|Aaaaah! Whoah!!!|speech|ELSA|F|True
 1279||"Seeing that Elsa has landed safely, Victor looks up to
 see the Vampire Cat and Sparky fighting on the end of the
-sail."|stage direction||
-1280||VICTOR|unknown||
-1281|ELSA|Sparky!|speech|ELSA|F
+sail."|stage direction|||
+1280||VICTOR|unknown|||
+1281|ELSA|Sparky!|speech|ELSA|F|True
 1282||"The Cat tries to knock him off but Sparky scampers out of
 the way and slides safely down the sail into Victor arms.
 The Vampire Cat is undeterred and he makes one final
@@ -2505,36 +2505,36 @@ The crowd gasps in horror as Victor and the Vampire cat
 plummet through the floor boards and disappear into the
 bowels of the burning windmill.
 Mom and Dad try to run forward but are held back by a
-fireman. The flames are too high."|stage direction||
-1283||MOM|unknown||
-1284|ELSA|Victor!|speech|ELSA|F
-1285|FIREFIGHTER|Stay back it's too dangerous!|speech|FIREFIGHTER|M
-1286|DAD|That's my son in there!|speech|DAD|M
-1287||INT.   WINDMILL - NIGHT|location||
+fireman. The flames are too high."|stage direction|||
+1283||MOM|unknown|||
+1284|ELSA|Victor!|speech|ELSA|F|True
+1285|FIREFIGHTER|Stay back it's too dangerous!|speech|FIREFIGHTER|M|
+1286|DAD|That's my son in there!|speech|DAD|M|True
+1287||INT.   WINDMILL - NIGHT|location|||
 1288||"Sparky battles the flames and races to the bottom on the
 windmill to find the Vampire Cat and Victor lying
 unconscious on the floor.
 Grabbing Victor by the collar, Sparky uses all his
-strength to drag Victor out of the Windmill to safety."|stage direction||
-1289||EXT.   WINDMILL - NIGHT|location||
+strength to drag Victor out of the Windmill to safety."|stage direction|||
+1289||EXT.   WINDMILL - NIGHT|location|||
 1290||"Mom and Dad see Sparky and Victor appearing out of the
-smoke."|stage direction||
-1291||DAD AND MOM|unknown||
-1292|DAD|Victor?|speech|DAD|M
-1293||DAD|unknown||
-1294|DAD|Victor!|speech|DAD|M
+smoke."|stage direction|||
+1291||DAD AND MOM|unknown|||
+1292|DAD|Victor?|speech|DAD|M|True
+1293||DAD|unknown|||
+1294|DAD|Victor!|speech|DAD|M|True
 1295||"January 2012
-Final Shooting Script_2012_01_18_v2       69"|unknown||
-1296|MOM|Honey are you alright?|speech|MOM|M
+Final Shooting Script_2012_01_18_v2       69"|unknown|||
+1296|MOM|Honey are you alright?|speech|MOM|M|True
 1297||"The crowd cheers and Victor and his parents share a
 relieved embrace.
 Sparky barks with joy and is about to run to join Victor
 and his parents when the vampire cat rears up from out of
 the flames and drags Sparky back into the collapsing
-windmill."|stage direction||
-1298||VICTOR|unknown||
-1299|MOM|Sparky!|speech|MOM|M
-1300||INT.   WINDMILL - NIGHT|location||
+windmill."|stage direction|||
+1298||VICTOR|unknown|||
+1299|MOM|Sparky!|speech|MOM|M|True
+1300||INT.   WINDMILL - NIGHT|location|||
 1301||"Back inside, The vampire cat and Sparky fight to the
 death. The flames have almost completely enveloped the
 windmill and shards of burning debris falls all around
@@ -2545,76 +2545,76 @@ kill.
 Sparky steels himself for the worst as a flaming shard of
 wood breaks off the rafters and plummets to the ground,
 impaling the cat through the heart.
-Sparky is saved and tries to run for the door when     -"|stage direction||
-1302||EXT.   WINDMILL - NIGHT|location||
+Sparky is saved and tries to run for the door when     -"|stage direction|||
+1302||EXT.   WINDMILL - NIGHT|location|||
 1303||"The windmill finally collapses.
 A CLOUD of SPARKS and CINDERS.
 The crowd jumps back to safety and through the smoke,
-Victor shouts..."|stage direction||
-1304||VICTOR|unknown||
-1305|MOM|Noooo!|speech|MOM|M
-1306||EXT. WINDMILL - TWILIGHT|location||
+Victor shouts..."|stage direction|||
+1304||VICTOR|unknown|||
+1305|MOM|Noooo!|speech|MOM|M|True
+1306||EXT. WINDMILL - TWILIGHT|location|||
 1307||"The sun hasn't quite risen.    Thanks to the FIREMEN, the
 blaze is out.
 Victor wipes away tears, smudged with soot.   His Mom hugs
 his shoulders.
 A FIREFIGHTER emerges from the debris carrying Sparky's
 body. The little dog is singed, but still in one piece.
-The firefighter lays him on the dirt."|stage direction||
+The firefighter lays him on the dirt."|stage direction|||
 1308||"January 2012
-Final Shooting Script_2012_01_18_v2   70"|unknown||
+Final Shooting Script_2012_01_18_v2   70"|unknown|||
 1309||"Victor kneels over the lifeless body of his amazing dog.
 In the crowd...
-Dad kneels beside his son."|stage direction||
-1310||DAD|unknown||
+Dad kneels beside his son."|stage direction|||
+1310||DAD|unknown|||
 1311||"Victor? Is there anything we can
-do for you?"|location||
-1312||Victor looks up at his Dad.|stage direction||
-1313||VICTOR|unknown||
+do for you?"|location|||
+1312||Victor looks up at his Dad.|stage direction|||
+1313||VICTOR|unknown|||
 1314||"You said that I need to let him
-go..."|location||
-1315||DAD|unknown||
+go..."|location|||
+1315||DAD|unknown|||
 1316||"Sometimes adults don't know what
-they're talking about."|location||
-1317||Victor smiles.|stage direction||
-1318||CUT TO:|unknown||
-1319||EXT. CAR PARK - TWILIGHT|location||
+they're talking about."|location|||
+1317||Victor smiles.|stage direction|||
+1318||CUT TO:|unknown|||
+1319||EXT. CAR PARK - TWILIGHT|location|||
 1320||"All the cars are in a circle around Sparky, their
 headlights blazing.
 As we CIRCLE, townsfolk lift the hoods of the cars and
 attach jumper cables, which all feed in to two main
 lines.
-Victor attaches cables to Sparky."|stage direction||
-1321||DAD|unknown||
-1322||Start your engines.|location||
+Victor attaches cables to Sparky."|stage direction|||
+1321||DAD|unknown|||
+1322||Start your engines.|location|||
 1323||"The townspeople rev their engines but it doesn't seem to
-be working."|stage direction||
-1324||BOB'S MOTHER|unknown||
-1325||Give it more juice!|location||
+be working."|stage direction|||
+1324||BOB'S MOTHER|unknown|||
+1325||Give it more juice!|location|||
 1326||"Sparky's body sparks with electricity and Victor looks
-hopeful."|stage direction||
-1327||DAD|unknown||
-1328||Turn off your engines!|location||
+hopeful."|stage direction|||
+1327||DAD|unknown|||
+1328||Turn off your engines!|location|||
 1329||"Dad waves for everyone to cut their engines.   Now it's
 just headlights.
 Victor approaches his dog but Sparky still isn't moving.
 He kneels down and places his hand on his back. He looks
-at his tail but all is still. He quietly leans in and -"|stage direction||
+at his tail but all is still. He quietly leans in and -"|stage direction|||
 1330||"January 2012
-Final Shooting Script_2012_01_18_v2    71"|unknown||
-1331||Almost in a WHISPER...|stage direction||
-1332||VICTOR|unknown||
+Final Shooting Script_2012_01_18_v2    71"|unknown|||
+1331||Almost in a WHISPER...|stage direction|||
+1332||VICTOR|unknown|||
 1333||"It's okay, boy. You don't have to
 come back. You'll always be in my
-heart."|location||
+heart."|location|||
 1334||"Victor takes the clips off Sparky and walks away back to
 his Mom and Dad.
 They hold him for a long beat, when we notice Sparky's
 tail THUMP THUMP THUMPING.
 Sparky opens an eye.   Then sits up like he's woken from a
 good long sleep.
-Victor turns as Sparky gets up and runs towards him."|stage direction||
-1335||Sparky!|location||
+Victor turns as Sparky gets up and runs towards him."|stage direction|||
+1335||Sparky!|location|||
 1336||"The crowd CHEERS and APPLAUDS.
 Victor hugs his dog, so happy to be reunited.
 Victor's Mom and Dad make their way over to him. Sparky
@@ -2623,6 +2623,6 @@ pushing through the crowd.
 Persephone, white streaked hair glistening in the
 moonlight, comes bounding out to see him and they share a
 playful moment before -
-The two dogs share a sniff.   And a jolt."|stage direction||
-1337||CUT TO BLACK.|unknown||
-1338||THE END                                                       *|stage direction||
+The two dogs share a sniff.   And a jolt."|stage direction|||
+1337||CUT TO BLACK.|unknown|||
+1338||THE END                                                       *|stage direction|||

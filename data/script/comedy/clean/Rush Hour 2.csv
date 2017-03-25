@@ -1,12 +1,12 @@
-|character|text|type|character_clean|gender
+|character|text|type|character_clean|gender|principal_character
 0||"RUSH HOUR 2
 BY
-Jeff Nathanson"|unknown||
-1||EXT. HONG KONG SKYLINE - ESTABLISHING|location||
+Jeff Nathanson"|unknown|||
+1||EXT. HONG KONG SKYLINE - ESTABLISHING|location|||
 2||"A smoky haze dims the blazing sun.  Skyscrapers sit like
 watchtowers over the city, where East meets West for five and
-a half million people a day."|stage direction||
-3||EXT. AMERICAN CONSULATE - HONG KONG - DAY|location||
+a half million people a day."|stage direction|||
+3||EXT. AMERICAN CONSULATE - HONG KONG - DAY|location|||
 4||"THE AMERICAN EMBASSY - U.S. and Chinese flags side by side.
 HU LI, dark glasses, EXITS and slowly moves toward a STREET
 VENDOR across the street.
@@ -17,203 +17,203 @@ TWO OFFICES ON THE SIXTH FLOOR BLOWN OUT - a huge fireball
 erupting over one side of the embassy.
 People panic and run.  Hu Li doesn't even flinch.  She takes
 a bite of her pork bao as she casually turns to the stunned
-street vendor."|stage direction||
-5||(Chinese, subtitled)|location||
-6|HU LI|Someone better call the police.|speech|HU LI|F
-7||EXT./INT. LEE'S CAR - CONTINUOUS|location||
+street vendor."|stage direction|||
+5||(Chinese, subtitled)|location|||
+6|HU LI|Someone better call the police.|speech|HU LI|F|True
+7||EXT./INT. LEE'S CAR - CONTINUOUS|location|||
 8||"The passenger window rolls down and we see Carter, styling in
 a Chinese-cut suit.  He's holding a Chinese-English
 dictionary, leaning out the window - giving his best ""do me""
-look to two girls in a convertible."|stage direction||
-9||(int Chinese)|location||
-10|CARTER|Deng wa lu yun cai-shen wu.|speech|CARTER|M
+look to two girls in a convertible."|stage direction|||
+9||(int Chinese)|location|||
+10|CARTER|Deng wa lu yun cai-shen wu.|speech|CARTER|M|True
 11||"The HORRIFIED GIRLS speed off, and Carter turns to Lee, who
-is driving and singing to his radio."|stage direction||
-12||(singing)|location||
+is driving and singing to his radio."|stage direction|||
+12||(singing)|location|||
 13|LEE|"...wish they all could be California...
 wish they all could be California
-girls..."|speech|LEE|M
+girls..."|speech|LEE|M|True
 14||"Carter ejects the BEACH BOYS CD from the stereo and TOSSES it
-out of the SUNROOF."|stage direction||
+out of the SUNROOF."|stage direction|||
 15|CARTER|"I warned you about playing that shit
-when I'm in the car."|speech|CARTER|M
+when I'm in the car."|speech|CARTER|M|True
 16|LEE|"That was my CD.  Don't you ever touch a
-Chinese man's CD."|speech|LEE|M
+Chinese man's CD."|speech|LEE|M|True
 17|CARTER|"Did you see the way those girls drove
-off?  I did you a favor."|speech|CARTER|M
-18|LEE|Those girls drove off because of you.|speech|LEE|M
-19|CARTER|All I did was invite them for a drink.|speech|CARTER|M
+off?  I did you a favor."|speech|CARTER|M|True
+18|LEE|Those girls drove off because of you.|speech|LEE|M|True
+19|CARTER|All I did was invite them for a drink.|speech|CARTER|M|True
 20|LEE|"You invited them to get naked and
-sacrifice a small goat."|speech|LEE|M
-21||(checking Chinese-English|location||
-22|dictionary)|"I said that?  Which word was ""goat?"""|speech||
-23||Lee picks up his CD case.|stage direction||
+sacrifice a small goat."|speech|LEE|M|True
+21||(checking Chinese-English|location|||
+22|dictionary)|"I said that?  Which word was ""goat?"""|speech|||
+23||Lee picks up his CD case.|stage direction|||
 24|LEE|"You owe me a copy of the Beach Boys
-Greatest Hits, Volume Two."|speech|LEE|M
+Greatest Hits, Volume Two."|speech|LEE|M|True
 25|CARTER|"Don't be giving me attitude, Lee.  I've
 been here three days and we haven't done
 shit.  We haven't been to a club,
 haven't even talked to a girl.  I'm on
-vacation, and I want some mu-shu."|speech|CARTER|M
-26|LEE|Mu-shu?  You're hungry?|speech|LEE|M
+vacation, and I want some mu-shu."|speech|CARTER|M|True
+26|LEE|Mu-shu?  You're hungry?|speech|LEE|M|True
 27|CARTER|"Not Mu-shu.  Mu-shu.  I want to see some
 women.  Now stop playing dumb and show
-me the shu!"|speech|CARTER|M
+me the shu!"|speech|CARTER|M|True
 28||"Carter flips through the dictionary.  A CALL COMES in over
 LEE'S CELL PHONE.
-INTERCUT"|stage direction||
-29||INT. SUPERINDENDENT CHIN'S OFFICE - NIGHT|location||
-30||The following conversation is in Chinese, English subtitles.|stage direction||
+INTERCUT"|stage direction|||
+29||INT. SUPERINDENDENT CHIN'S OFFICE - NIGHT|location|||
+30||The following conversation is in Chinese, English subtitles.|stage direction|||
 31|SUPERINDENDENT CHIN|"Lee, there was a bombing at the American
 Embassy.  Two American translators were
-killed."|speech|SUPERINDENDENT CHIN|M
-32|LEE|Any leads?|speech|LEE|M
-33||(beat)|location||
+killed."|speech|SUPERINDENDENT CHIN|M|True
+32|LEE|Any leads?|speech|LEE|M|True
+33||(beat)|location|||
 34|SUPERINDENDENT CHIN|"We think it's Ricky Tan.  If you don't
-want to take the case, I'll understand."|speech|SUPERINDENDENT CHIN|M
-35|LEE|It's my responsibility.|speech|LEE|M
-36||Lee hangs up the cell phone.|stage direction||
+want to take the case, I'll understand."|speech|SUPERINDENDENT CHIN|M|True
+35|LEE|It's my responsibility.|speech|LEE|M|True
+36||Lee hangs up the cell phone.|stage direction|||
 37|CARTER|"What was that?  Did you just pick up a
 case?  Did we just take another damn
-case on my vacation?"|speech|CARTER|M
-38||Lee smiles at Carter.|stage direction||
+case on my vacation?"|speech|CARTER|M|True
+38||Lee smiles at Carter.|stage direction|||
 39|LEE|"Of course not.  My Superindendent
 invited us to a club tonight.  Big
-party."|speech|LEE|M
+party."|speech|LEE|M|True
 40|CARTER|"Don't be messing with me, Lee.  I will
 kick your ass.  I'll hit you so hard
-you'll end up in the Ming Dynasty."|speech|CARTER|M
-41|LEE|Carter, would I lie to you?|speech|LEE|M
-42||EXT. RAVEN CLUB - NIGHT|location||
+you'll end up in the Ming Dynasty."|speech|CARTER|M|True
+41|LEE|Carter, would I lie to you?|speech|LEE|M|True
+42||EXT. RAVEN CLUB - NIGHT|location|||
 43||"Carter follows Lee out of the car, the two men making their
 way to the door of the Raven Club.  Carter is combing his
 hair, getting himself ready for a night on the town, stopping
-when he spots two hot WOMEN walking into the club."|stage direction||
+when he spots two hot WOMEN walking into the club."|stage direction|||
 44|CARTER|"That's what I'm talking about.  A real
 Hong Kong night club.  You want an
-Altoid?"|speech|CARTER|M
-45|LEE|No.|speech|LEE|M
+Altoid?"|speech|CARTER|M|True
+45|LEE|No.|speech|LEE|M|True
 46|CARTER|"You better take one.  Your breath has
 been a little funky all day.  Let me
-look at you."|speech|CARTER|M
-47||Carter looks at Lee.  Fixes his collar.|stage direction||
+look at you."|speech|CARTER|M|True
+47||Carter looks at Lee.  Fixes his collar.|stage direction|||
 48|CARTER (CONT'D)|"Just relax and don't worry about a
 thing.  I'll hook you up in there.  You
-got condoms?"|speech|CARTER|M
-49|LEE|No.|speech|LEE|M
+got condoms?"|speech|CARTER|M|True
+49|LEE|No.|speech|LEE|M|True
 50|CARTER|"Take this.  It's a Magnum.  You can fold
-it in half."|speech|CARTER|M
-51||Carter dances through the door, Lee follows.|stage direction||
-52||INT. RAVEN CLUB - NIGHT|location||
+it in half."|speech|CARTER|M|True
+51||Carter dances through the door, Lee follows.|stage direction|||
+52||INT. RAVEN CLUB - NIGHT|location|||
 53||"A dark, upscale club that is packed with GANGSTERS, BEAUTIFUL
 GIRLS and CIVILIANS.  Lee and Carter walk in.  Lee is trying
 to keep a low profile as Carter stares up at the stage, where
 a man sings Karaoke -- the most painful rendition of Michael
-Jackson's ""DON'T STOP 'TILL YOU GET ENOUGH."""|stage direction||
+Jackson's ""DON'T STOP 'TILL YOU GET ENOUGH."""|stage direction|||
 54|LEE|"I'll meet you at the bar in ten minutes.
 They don't like tourists in here, so try
-to blend in."|speech|LEE|M
+to blend in."|speech|LEE|M|True
 55|CARTER|"Blend in?  I'm two feet taller than
-everyone here.  Where you going?"|speech|CARTER|M
-56|LEE|Bathroom.|speech|LEE|M
+everyone here.  Where you going?"|speech|CARTER|M|True
+56|LEE|Bathroom.|speech|LEE|M|True
 57||"Lee walks off, trying not to be seen as Carter steps up to
-the bar, takes a seat next to TWO CHINESE THUGS."|stage direction||
-58|CARTER|How you boys doing tonight?|speech|CARTER|M
+the bar, takes a seat next to TWO CHINESE THUGS."|stage direction|||
+58|CARTER|How you boys doing tonight?|speech|CARTER|M|True
 59||"The thugs ignore Carter as he motions to the stage, where the
-OLD MAN continues to sing."|stage direction||
+OLD MAN continues to sing."|stage direction|||
 60|CARTER (CONT'D)|"That is the worst singing I've ever
 heard.  That sounds like something you'd
-hear in prison after lights out."|speech|CARTER|M
-61||The thugs continue to ignore Carter.|stage direction||
-62||INT. RAVEN CLUB - BACK HALL - NIGHT|location||
+hear in prison after lights out."|speech|CARTER|M|True
+61||The thugs continue to ignore Carter.|stage direction|||
+62||INT. RAVEN CLUB - BACK HALL - NIGHT|location|||
 63||"Lee makes his way down a hallway -- looks through an open
 door - sees a private room.  Several TRIADS are using hi-tech
-MACHINES to count stacks of AMERICAN HUNDRED DOLLAR BILLS."|stage direction||
+MACHINES to count stacks of AMERICAN HUNDRED DOLLAR BILLS."|stage direction|||
 64|CARTER (V.O.)|"Get closer to my body now.  And just
-love me, till you don't know how..."|speech|CARTER|M
+love me, till you don't know how..."|speech|CARTER|M|True
 65||"Lee steps back into shadow -- does a double take as he
 realizes he's hearing Carter belting out ""DON'T STOP 'TILL
-YOU GET ENOUGH."""|stage direction||
-66||INT. RAVEN CLUB - CONTINUOUS|location||
+YOU GET ENOUGH."""|stage direction|||
+66||INT. RAVEN CLUB - CONTINUOUS|location|||
 67||"A room full of Chinese sitting with their mouths open,
 watching Carter on the Karaoke stage doing a dead-on Michael
 Jackson, singing his heart out.  Dancing and making eyes at a
-few of the smitten women who are watching him."|stage direction||
-68||(whispering from side of stage)|location||
-69|LEE|Carter, get off that stage!|speech|LEE|M
+few of the smitten women who are watching him."|stage direction|||
+68||(whispering from side of stage)|location|||
+69|LEE|Carter, get off that stage!|speech|LEE|M|True
 70|CARTER|"Are you kidding, they love me.  I'm a
-star, Lee.  A god to these people!"|speech|CARTER|M
+star, Lee.  A god to these people!"|speech|CARTER|M|True
 71||"Carter resumes singing, really getting down.  Moonwalking to
-the EDGE of the STATE where Lee PULLS HIM OFF."|stage direction||
+the EDGE of the STATE where Lee PULLS HIM OFF."|stage direction|||
 72|LEE|"This is a gangster bar, we're here
-undercover."|speech|LEE|M
-73|CARTER|I knew you were lying.|speech|CARTER|M
-74|LEE|I'm sorry.|speech|LEE|M
+undercover."|speech|LEE|M|True
+73|CARTER|I knew you were lying.|speech|CARTER|M|True
+74|LEE|I'm sorry.|speech|LEE|M|True
 75|CARTER|"Damn it, why are you ruining my night?
-I'm just starting to have fun."|speech|CARTER|M
-76||(beat)|location||
+I'm just starting to have fun."|speech|CARTER|M|True
+76||(beat)|location|||
 77|CARTER|"Well fine then, go ahead, pull your
-badge and do your thing."|speech|CARTER|M
+badge and do your thing."|speech|CARTER|M|True
 78|LEE|"No, we're here for information, to find
 out where a man named Ricky Tan is.  We
 must tread softly and keep our ears
-open."|speech|LEE|M
+open."|speech|LEE|M|True
 79|CARTER|"Tread softly?  Who taught you how to
-roost a bar?"|speech|CARTER|M
+roost a bar?"|speech|CARTER|M|True
 80|LEE|"Carter, you don't understand.  These men
 are Fu-Cang-Long Triads.  Part of the
-most deadly gang in China."|speech|LEE|M
+most deadly gang in China."|speech|LEE|M|True
 81|CARTER|"Man, are you crazy?  You think that
 scares me?  I'm from  L.A.  We invented
 gangs.  We were having gang wars before
 anybody even thought about it.  We get
 royalties from other gangs.  Now gimme
 your badge and gun and I'll show you how
-it's done."|speech|CARTER|M
+it's done."|speech|CARTER|M|True
 82|LEE|"No.  You are a civilian.  In China, I am
-Michael Jackson, and you are Toto."|speech|LEE|M
+Michael Jackson, and you are Toto."|speech|LEE|M|True
 83|CARTER|"You mean Tito.  We had  Toto for dinner
-last night."|speech|CARTER|M
+last night."|speech|CARTER|M|True
 84||"Before Lee can react, Carter has lifted Lee's badge and gun.
 Carter bounds back on stage, pulls the plug on the music and
-fires three SHOTS into the ceiling, silencing the bar."|stage direction||
-85||(Chinese)|location||
+fires three SHOTS into the ceiling, silencing the bar."|stage direction|||
+85||(Chinese)|location|||
 86|CARTER (CONT'D)|"Deng wa lu yun, shen wu wattu masu wang
-lui."|speech|CARTER|M
+lui."|speech|CARTER|M|True
 87||"Nobody moves.  Strange looks from the crowd.  Carter turns to
-Lee."|stage direction||
-88||(whispering)|location||
-89|CARTER (CONT'D)|What'd I say?|speech|CARTER|M
+Lee."|stage direction|||
+88||(whispering)|location|||
+89|CARTER (CONT'D)|What'd I say?|speech|CARTER|M|True
 90|LEE|"You just said you're their worst
 nightmare - and to line their mothers up
-for a milking."|speech|LEE|M
+for a milking."|speech|LEE|M|True
 91|CARTER|"Shit.  C'mon, get up here and help me
-out."|speech|CARTER|M
+out."|speech|CARTER|M|True
 92||"Reluctantly, Lee gets on stage.  More looks from the Chinese
-as Carter speaks, Lee translating."|stage direction||
+as Carter speaks, Lee translating."|stage direction|||
 93|CARTER (CONT'D)|"Okay, all the Triads and ugly women go
 to that side, all fine ass women on this
-side."|speech|CARTER|M
-94||Nobody moves.  Carter fires two more shots in the ceiling.|stage direction||
+side."|speech|CARTER|M|True
+94||Nobody moves.  Carter fires two more shots in the ceiling.|stage direction|||
 95|CARTER (CONT'D)|"Let's try this again.  Who here knows
-Ricky Tan, raise your hand."|speech|CARTER|M
-96||Nobody moves.|stage direction||
-97|CARTER (CONT'D)|Who here is named Lee?  Raise your hand.|speech|CARTER|M
-98||Nobody moves.|stage direction||
-99|CARTER (CONT'D)|Now I know you're lying.|speech|CARTER|M
+Ricky Tan, raise your hand."|speech|CARTER|M|True
+96||Nobody moves.|stage direction|||
+97|CARTER (CONT'D)|Who here is named Lee?  Raise your hand.|speech|CARTER|M|True
+98||Nobody moves.|stage direction|||
+99|CARTER (CONT'D)|Now I know you're lying.|speech|CARTER|M|True
 100||"The crowd still hasn't moved.  Except in the back, where Lee
-spots several GANGSTERS leaving.  As Lee runs off stage --"|stage direction||
-101||(as they run out)|location||
+spots several GANGSTERS leaving.  As Lee runs off stage --"|stage direction|||
+101||(as they run out)|location|||
 102|CARTER (CONT'D)|"I come back and catch y'all singing
 Michael Jackson and you're all going to
-jail."|speech|CARTER|M
-103||EXT. RAVEN CLUB - NIGHT|location||
+jail."|speech|CARTER|M|True
+103||EXT. RAVEN CLUB - NIGHT|location|||
 104||"Lee and Carter run into the street, just in time to see HU LI
-and several gangsters round a corner."|stage direction||
-105|CARTER|Stop!  LAPD!|speech|CARTER|M
-106||Lee takes off and chases them on foot.|stage direction||
+and several gangsters round a corner."|stage direction|||
+105|CARTER|Stop!  LAPD!|speech|CARTER|M|True
+106||Lee takes off and chases them on foot.|stage direction|||
 107||"EXT. HONG KONG STREET - NIGHT
-EXT. HONG KONG STREET - NIGHT"|location||
+EXT. HONG KONG STREET - NIGHT"|location|||
 108||"The far end of the street is BLOCKED BY MARKET STALLS.  The
 GANGSTERS look around frantically.  An apartment building is
 under CONSTRUCTION, massive BAMBOO SCAFFOLDING top to bottom.
@@ -221,8 +221,8 @@ Their only way out is UP.
 Lee and Carter dash around the corner to see the gangsters
 SWARMING UP THE SCAFFOLDING.  Lee wastes no time going after
 them.  With a running start, he JAMS A FOOT on the wall and
-VAULTS to the BOTTOM RUNG, GRABS HOLD AND SWINGS UP."|stage direction||
-109|CARTER|Hang on, Lee.  I'm coming.|speech|CARTER|M
+VAULTS to the BOTTOM RUNG, GRABS HOLD AND SWINGS UP."|stage direction|||
+109|CARTER|Hang on, Lee.  I'm coming.|speech|CARTER|M|True
 110||"Carter jumps to grab hold of the scaffolding.  NOT EVEN
 CLOSE.  He backs up -- he's gonna take a running start!
 ABOVE - LEE REACHES 4 GANGSTERS.  They all tear off the
@@ -233,8 +233,8 @@ BELOW, Carter has hold of the bottom rung, STRAINING MIGHTILY
 to pull himself up.  Just as he gets his chin above the
 bar... snap!  It BREAKS and he drops.  Then...
 WHAM!  WHAM!  The two gangsters CRASH LAND ON EITHER side of
-CARTER.  HE takes one look at their pain."|stage direction||
-111|CARTER (CONT'D)|Forget this...|speech|CARTER|M
+CARTER.  HE takes one look at their pain."|stage direction|||
+111|CARTER (CONT'D)|Forget this...|speech|CARTER|M|True
 112||"He dashes into the stairwell.  ABOVE, the last two GANGSTERS
 come at Lee.  He stomps down, levering up floor boards, which
 SEE-SAWS them off-balance.  With the advantage, he BATTERS
@@ -242,16 +242,16 @@ them with his bamboo pole and knocks them off.  He climbs
 after the GANGSTER LEADER.
 ON HU LI and the GANGSTERS
 Coming over the crest of the hill, seeing Carter climbing up
-the hill."|stage direction||
-113||EXT. ROOF - CONTINUOUS|location||
+the hill."|stage direction|||
+113||EXT. ROOF - CONTINUOUS|location|||
 114||"Lee pulls himself up onto the roof, takes a few steps when
 WHAM!  He is clocked by a 16-foot BAMBOO POLE.  Lee TOPPLES
 OVER THE EDGE!  We see his adversary for the first time.
 HU LI - AGILE, GORGEOUS...DANGEROUS
 As she steps to the edge... BOOM!  The STAIRWELL DOOR FLIES
-OPEN and CARTER EMERGES.  Gun low and ready.  Hu Li is gone."|stage direction||
-115||(out of breath)|location||
-116|CARTER|Freeze!  Nobody move!|speech|CARTER|M
+OPEN and CARTER EMERGES.  Gun low and ready.  Hu Li is gone."|stage direction|||
+115||(out of breath)|location|||
+116|CARTER|Freeze!  Nobody move!|speech|CARTER|M|True
 117||"Carter goes to the edge and sees Lee hanging on a pole below.
 Carter is blind-sided by Hu Li.
 She takes one sultry step towards him, then twists her heel
@@ -265,194 +265,194 @@ Li looks down at them.  She has no weapon to finish them off.
 She turns and runs, disappearing in the night.
 CARTER AND LEE
 holding on with all their strength.  The bamboo is starting
-to bend."|stage direction||
-118|CARTER (CONT'D)|All I wanted was a little mu-shu.|speech|CARTER|M
-119|LEE|Try to land on your feet.|speech|LEE|M
-120||Carter looks down at a rancid dumpster below them.|stage direction||
+to bend."|stage direction|||
+118|CARTER (CONT'D)|All I wanted was a little mu-shu.|speech|CARTER|M|True
+119|LEE|Try to land on your feet.|speech|LEE|M|True
+120||Carter looks down at a rancid dumpster below them.|stage direction|||
 121|CARTER|"I can't believe I flew ten-thousand
-miles for this shit."|speech|CARTER|M
+miles for this shit."|speech|CARTER|M|True
 122||"The POLE BREAKS
 SUPER THE TITLE:
-RUSH HOUR 2: REMEMBER THE DRAGON"|stage direction||
-123||INT. LEE'S UNMARKED POLICE CAR - LATER THAT NIGHT|location||
+RUSH HOUR 2: REMEMBER THE DRAGON"|stage direction|||
+123||INT. LEE'S UNMARKED POLICE CAR - LATER THAT NIGHT|location|||
 124||"Carter and Lee drive through Hong Kong, the two men riding in
-silence, bruised and covered in garbage."|stage direction||
-125|CARTER|You lied to me.|speech|CARTER|M
-126|LEE|I'm sorry.|speech|LEE|M
+silence, bruised and covered in garbage."|stage direction|||
+125|CARTER|You lied to me.|speech|CARTER|M|True
+126|LEE|I'm sorry.|speech|LEE|M|True
 127|CARTER|"You're sorry.  I got somebody's old
 chopsticks stuck in my ass, so don't
 tell me you're sorry.  Just take me
-home."|speech|CARTER|M
+home."|speech|CARTER|M|True
 128|LEE|"No time.  There was an explosion at the
 American Embassy today -- two American
-translators were killed."|speech|LEE|M
-129||Carter takes this in.  Can't believe his own bad luck.|stage direction||
+translators were killed."|speech|LEE|M|True
+129||Carter takes this in.  Can't believe his own bad luck.|stage direction|||
 130|CARTER|"So that Ricky Tan, he's the one who blew
-up the Embassy?"|speech|CARTER|M
-131||EXT. MONASTERY SCHOOL - EARLY MORNING|location||
+up the Embassy?"|speech|CARTER|M|True
+131||EXT. MONASTERY SCHOOL - EARLY MORNING|location|||
 132||"Lee and Carter walk into a massive COURTYARD, where thirty 12
 year olds are going through their warm up routines.
-MASTER FU, 60's, wears a BLACK ROBE as he teaches his kids."|stage direction||
+MASTER FU, 60's, wears a BLACK ROBE as he teaches his kids."|stage direction|||
 133|CARTER|"I'm telling you right now, I'm tired of
 this shit.  There's two billion Chinese -
-let one of them be your partner."|speech|CARTER|M
-134|LEE|This won't take long.|speech|LEE|M
-135||Master Fu barks out a barrage of SHAOLIN FIGHTING STANCES.|stage direction||
-136|MASTER FU|Dragon kick!|speech|MASTER FU|M
-137||Like well-trained army, the students YELL AND KICK HARD.|stage direction||
-138|MASTER FU (CONT'D)|Lotus block!|speech|MASTER FU|M
+let one of them be your partner."|speech|CARTER|M|True
+134|LEE|This won't take long.|speech|LEE|M|True
+135||Master Fu barks out a barrage of SHAOLIN FIGHTING STANCES.|stage direction|||
+136|MASTER FU|Dragon kick!|speech|MASTER FU|M|True
+137||Like well-trained army, the students YELL AND KICK HARD.|stage direction|||
+138|MASTER FU (CONT'D)|Lotus block!|speech|MASTER FU|M|True
 139||"The students YELL and form an ""X"" with their arms.  Master Fu
-notices Carter and Lee watching from the back."|stage direction||
-140|MASTER FU (CONT'D)|Twisting Tiger!|speech|MASTER FU|M
-141||No response.  The students exchange baffled looks.|stage direction||
-142||(staring straight at Lee)|location||
-143|MASTER FU (CONT'D (CONT'D)|Twisting Tiger!|speech|MASTER FU|M
+notices Carter and Lee watching from the back."|stage direction|||
+140|MASTER FU (CONT'D)|Twisting Tiger!|speech|MASTER FU|M|True
+141||No response.  The students exchange baffled looks.|stage direction|||
+142||(staring straight at Lee)|location|||
+143|MASTER FU (CONT'D (CONT'D)|Twisting Tiger!|speech|MASTER FU|M|True
 144||"Lee may be a big rusty, but he puts on a shit-kicking move
 that leaves the students blown away.  Lee smiles, basking in
 the glow...
-...until he sees Master Fu's disappointment."|stage direction||
+...until he sees Master Fu's disappointment."|stage direction|||
 145|MASTER FU (CONT'D)|"Didn't I teach you to always arch your
-back?"|speech|MASTER FU|M
-146||(bowing, humbled)|location||
-147|LEE|Yes, Master.|speech|LEE|M
+back?"|speech|MASTER FU|M|True
+146||(bowing, humbled)|location|||
+147|LEE|Yes, Master.|speech|LEE|M|True
 148||"While Lee follows Master Fu, Carter stands in front of the 12
 YEAR OLDS, who sit motionless around a fighting circle.
-Carter starts stretching his legs, warming up."|stage direction||
+Carter starts stretching his legs, warming up."|stage direction|||
 149|CARTER|"I was watching you kids.  My name is
 Carter, LAPD, and I'm a third degree
 black belt.  At least that's what I tell
 the girls at the Holiday Health Spa
-where I work out."|speech|CARTER|M
+where I work out."|speech|CARTER|M|True
 150||"Carter throws a series of QUICK PUNCHES, but the kids have no
-reaction."|stage direction||
+reaction."|stage direction|||
 151|CARTER (CONT'D)|"Let me give you kids some tips.  The key
 to Kung Fu is the follow through.  Why
-don't you stand up."|speech|CARTER|M
+don't you stand up."|speech|CARTER|M|True
 152||"THE KIDS DON'T MOVE, no reaction.  Carter continues to throw
-punches."|stage direction||
+punches."|stage direction|||
 153|CARTER (CONT'D)|"Go ahead, kick me, hit me.  I'll show
 you how to block.  Come on, stand up,
 give me your best shot -- try to kick
-right to my head."|speech|CARTER|M
+right to my head."|speech|CARTER|M|True
 154||"The kids still don't move.  Carter, working up a sweat from
 shadow fighting, takes off his JACKET, DRAPING IT over the
 HOLY BUDDHA behind him -- a mistake.  He swings back around
 to face the kids and NEVER SEES THE KICK that sends him
 flying back onto the mat.  He looks around and sees ALL of
-the kids STANDING, in FIGHTING POSITION."|stage direction||
+the kids STANDING, in FIGHTING POSITION."|stage direction|||
 155|CARTER (CONT'D)|"That's pretty good.  Which one of you
-kids did that?"|speech|CARTER|M
-156||INT. COURTYARD PATHWAY - CONTINUOUS|location||
-157||Lee and Master Fu walking.|stage direction||
+kids did that?"|speech|CARTER|M|True
+156||INT. COURTYARD PATHWAY - CONTINUOUS|location|||
+157||Lee and Master Fu walking.|stage direction|||
 158|LEE|"I need your help, Master.  I'm seeking a
 man who used to train with you.  He's
 become a killer - the worst kind of
-animal."|speech|LEE|M
+animal."|speech|LEE|M|True
 159|MASTER FU|"Animals kill only from hunger or fear.
 The man you seek is lower than a
-serpent."|speech|MASTER FU|M
-160||(faces Lee)|location||
-161|MASTER FU|...he kills for money.|speech|MASTER FU|M
+serpent."|speech|MASTER FU|M|True
+160||(faces Lee)|location|||
+161|MASTER FU|...he kills for money.|speech|MASTER FU|M|True
 162||"In the b.g., we see the kids leaping acrobatically over
 Carter from all sides.  Carter, frustrated, tries to grab the
 kids out of the air as they fly by, but they elude him.  They
 disappear O.S.
 Lee and Master Fu walk another moment, Master Fu lost in
-thought."|stage direction||
+thought."|stage direction|||
 163|MASTER FU (CONT'D)|"He was the best I ever trained, you
-know."|speech|MASTER FU|M
-164|LEE|Ricky Tan?|speech|LEE|M
-165|MASTER FU|No.  Your father.|speech|MASTER FU|M
-166||(Lee reacts)|location||
+know."|speech|MASTER FU|M|True
+164|LEE|Ricky Tan?|speech|LEE|M|True
+165|MASTER FU|No.  Your father.|speech|MASTER FU|M|True
+166||(Lee reacts)|location|||
 167|MASTER FU|"Your father and Ricky Tan were my
 favorite students... and for such awful
-things to happen as they did --"|speech|MASTER FU|M
+things to happen as they did --"|speech|MASTER FU|M|True
 168||"Lee cuts off Master Fu's reminisces -- he's obviously
-uncomfortable."|stage direction||
-169|LEE|How do I find Ricky Tan?|speech|LEE|M
+uncomfortable."|stage direction|||
+169|LEE|How do I find Ricky Tan?|speech|LEE|M|True
 170||"AGAIN IN THE B.G., Carter and the flying kids go zipping by
 in the other direction, disappear O.S.
-Master Fu pats the SOIL around a struggling plant."|stage direction||
+Master Fu pats the SOIL around a struggling plant."|stage direction|||
 171|MASTER FU|"A seeding spends its entire life
-reaching towards Heaven."|speech|MASTER FU|M
-172|LEE|I know, Master, but...|speech|LEE|M
+reaching towards Heaven."|speech|MASTER FU|M|True
+172|LEE|I know, Master, but...|speech|LEE|M|True
 173|MASTER FU|"The answers you seek can be found in
-Heaven on Earth."|speech|MASTER FU|M
+Heaven on Earth."|speech|MASTER FU|M|True
 174|LEE|"Heaven on Earth?  Master, I don't
-understand."|speech|LEE|M
-175||(working it)|location||
+understand."|speech|LEE|M|True
+175||(working it)|location|||
 176|LEE|"A temple, where Heaven is on Earth?  A
-mountain, where Earth reaches for the --"|speech|LEE|M
+mountain, where Earth reaches for the --"|speech|LEE|M|True
 177|MASTER FU|"It's a massage parlor downtown.  ""Heaven
 on Earth.""  You will find your answers
-there."|speech|MASTER FU|M
+there."|speech|MASTER FU|M|True
 178||"Lee bows to Master Fu, slowly turns to walk back down the
-pathway."|stage direction||
-179|MASTER FU (CONT'D)|Wait!  Put a c-note in the jar.|speech|MASTER FU|M
+pathway."|stage direction|||
+179|MASTER FU (CONT'D)|Wait!  Put a c-note in the jar.|speech|MASTER FU|M|True
 180||"Lee puts a few bills in the jar, heads down a pathway.
-Master Fu walks over and takes the cash."|stage direction||
-181|MASTER FU (CONT'D)|Cheap bastard...|speech|MASTER FU|M
-182||EXT. MONASTERY SCHOOL - CONTINUOUS|location||
+Master Fu walks over and takes the cash."|stage direction|||
+181|MASTER FU (CONT'D)|Cheap bastard...|speech|MASTER FU|M|True
+182||EXT. MONASTERY SCHOOL - CONTINUOUS|location|||
 183||"Lee emerges from the path, stops when he sees Carter -- two
 students headlocked under each arm, another two scissor
 locked between his legs, holding another two down with his
-hands, and sitting on the last one."|stage direction||
+hands, and sitting on the last one."|stage direction|||
 184|CARTER|"And that's how you use the LAPD choke
 hold.  Now start practicing and don't
-make me come back here!"|speech|CARTER|M
-185|LEE|Carter...you ready to have some fun!?|speech|LEE|M
-186||EXT. HEAVEN ON EARTH MASSAGE PARLOR - DAY|location||
-187||A neon light hangs above the upscale massage parlor.|stage direction||
+make me come back here!"|speech|CARTER|M|True
+185|LEE|Carter...you ready to have some fun!?|speech|LEE|M|True
+186||EXT. HEAVEN ON EARTH MASSAGE PARLOR - DAY|location|||
+187||A neon light hangs above the upscale massage parlor.|stage direction|||
 188|LEE|"Just follow my lead and act like a
-tourist."|speech|LEE|M
-189|CARTER|I am a tourist.|speech|CARTER|M
-190||INT. HEAVEN ON EARTH MASSAGE PARLOR - CONTINUOUS|location||
+tourist."|speech|LEE|M|True
+189|CARTER|I am a tourist.|speech|CARTER|M|True
+190||INT. HEAVEN ON EARTH MASSAGE PARLOR - CONTINUOUS|location|||
 191||"Lee and Carter walk into an upscale MASSAGE PARLOR and stand
-in a lobby.  SOFT MUSIC is playing."|stage direction||
-192|HOSTESS|Good afternoon, gentlemen.|speech|HOSTESS|M
-193||Lee bows, followed by Carter.|stage direction||
-194||(in Chinese)|location||
-195|LEE|Hello.|speech|LEE|M
-196|CARTER|How you doin'?|speech|CARTER|M
+in a lobby.  SOFT MUSIC is playing."|stage direction|||
+192|HOSTESS|Good afternoon, gentlemen.|speech|HOSTESS|M|True
+193||Lee bows, followed by Carter.|stage direction|||
+194||(in Chinese)|location|||
+195|LEE|Hello.|speech|LEE|M|True
+196|CARTER|How you doin'?|speech|CARTER|M|True
 197|LEE|"My friend is on vacation, from America.
-I want to show him a good time."|speech|LEE|M
-198|HOSTESS|Oh, you American?|speech|HOSTESS|M
-199|CARTER|That's right.|speech|CARTER|M
-200|HOSTESS|You bring American money?|speech|HOSTESS|M
-201||(holding up a Platinum AmEx)|location||
-202|CARTER|Never leave home without it.|speech|CARTER|M
-203||(to Lee)|location||
+I want to show him a good time."|speech|LEE|M|True
+198|HOSTESS|Oh, you American?|speech|HOSTESS|M|True
+199|CARTER|That's right.|speech|CARTER|M|True
+200|HOSTESS|You bring American money?|speech|HOSTESS|M|True
+201||(holding up a Platinum AmEx)|location|||
+202|CARTER|Never leave home without it.|speech|CARTER|M|True
+203||(to Lee)|location|||
 204|CARTER|"Lee, this one's on me.  You save your
-money."|speech|CARTER|M
+money."|speech|CARTER|M|True
 205||"The Hostess takes Carter by the arm, walks over to a HIDDEN
 SLIDING DOOR - slides it open to reveal TWENTY BEAUTIFUL
-WOMEN.  Carter truly is in Heaven."|stage direction||
+WOMEN.  Carter truly is in Heaven."|stage direction|||
 206|HOSTESS|"You get massage from Chinese girl
-before?"|speech|HOSTESS|M
-207|CARTER|No.  It's my first time.|speech|CARTER|M
+before?"|speech|HOSTESS|M|True
+207|CARTER|No.  It's my first time.|speech|CARTER|M|True
 208|HOSTESS|"You pick any girl for you and your
-friend."|speech|HOSTESS|M
-209||Carter looks like a kid in a candy store.|stage direction||
+friend."|speech|HOSTESS|M|True
+209||Carter looks like a kid in a candy store.|stage direction|||
 210|CARTER|"Any girl?  Okay.  Let's start with that
-one."|speech|CARTER|M
-211|HOSTESS|Oh yes, she's very nice.|speech|HOSTESS|M
+one."|speech|CARTER|M|True
+211|HOSTESS|Oh yes, she's very nice.|speech|HOSTESS|M|True
 212|CARTER|"She is nice.  But I am very tense.  I'm
 gonna need a lot of massages.  I'll take
 that one, too.  How you doin', baby?
 And...that one in pink.  She can do my
-feet."|speech|CARTER|M
-213||Lee elbows Carter.|stage direction||
-214|LEE|What are you doing?|speech|LEE|M
-215|CARTER|She said I could pick any girl I want.|speech|CARTER|M
-216|LEE|Well, hurry up.|speech|LEE|M
+feet."|speech|CARTER|M|True
+213||Lee elbows Carter.|stage direction|||
+214|LEE|What are you doing?|speech|LEE|M|True
+215|CARTER|She said I could pick any girl I want.|speech|CARTER|M|True
+216|LEE|Well, hurry up.|speech|LEE|M|True
 217|CARTER|"Hey!  You don't break in front of a
-black man in a buffet line."|speech|CARTER|M
-218||(to Lee)|location||
-219|HOSTESS|Your friend have big appetite.|speech|HOSTESS|M
-220||(handing ROBES to Lee and|location||
+black man in a buffet line."|speech|CARTER|M|True
+218||(to Lee)|location|||
+219|HOSTESS|Your friend have big appetite.|speech|HOSTESS|M|True
+220||(handing ROBES to Lee and|location|||
 221|Carter)|"Please put these on and wait upstairs in
-the quiet room."|speech||
-222||INT. QUIET ROOM MASSAGE PARLOR - DAY|location||
+the quiet room."|speech|||
+222||INT. QUIET ROOM MASSAGE PARLOR - DAY|location|||
 223||"TWENTY MEN in SILK ROBES lie in reclining chairs, women
 massaging their feet and hands.  There are BIG SCREEN TV's
 showing nature films, relaxation music playing in the
@@ -460,62 +460,62 @@ background.
 Lee and Carter sit in the quiet room dressed in MATCHING
 PURPLE ROBES.  Lee wears SLIPPERS, Carter wears his HIGH
 TOPS.  Carter is enjoying a hand and neck massage at the same
-time.  A WOMAN walks over and hands them each a drink."|stage direction||
+time.  A WOMAN walks over and hands them each a drink."|stage direction|||
 224|CARTER|"Now I'm on vacation.  I knew you'd come
-through, Lee."|speech|CARTER|M
+through, Lee."|speech|CARTER|M|True
 225||"LEE doesn't respond.  LEE IS STARING AT SOMEONE ON THE FAR
 SIDE OF THE ROOM.  A man who radiates a unique blend of
-sophistication and brutality."|stage direction||
-226|CARTER (CONT'D)|What's wrong?|speech|CARTER|M
-227|LEE|Over there -- that's Ricky Tan.|speech|LEE|M
+sophistication and brutality."|stage direction|||
+226|CARTER (CONT'D)|What's wrong?|speech|CARTER|M|True
+227|LEE|Over there -- that's Ricky Tan.|speech|LEE|M|True
 228|CARTER|"That's Ricky Tan?  He's four feet tall.
 I'll go over with you right now, shake
-him down."|speech|CARTER|M
-229|LEE|This is a very dangerous man.|speech|LEE|M
+him down."|speech|CARTER|M|True
+229|LEE|This is a very dangerous man.|speech|LEE|M|True
 230|CARTER|"I'm a dangerous man.  You're not gonna
 ruin my massage because of some midget
-in a house coat."|speech|CARTER|M
-231|LEE|I'm calling for back up!|speech|LEE|M
+in a house coat."|speech|CARTER|M|True
+231|LEE|I'm calling for back up!|speech|LEE|M|True
 232||"Lee gets up from a chair, hurriedly exits.
 Carter looks at RICKY TAN -- sitting quietly in his chair
 with his LAPTOP COMPUTER on his knees.  Carter makes a
-decision, gets up and walks towards him."|stage direction||
+decision, gets up and walks towards him."|stage direction|||
 233|CARTER|"Ricky Tan, I've been looking all over
-for you.  Get up."|speech|CARTER|M
-234||Tan looks up for a moment, a smile.|stage direction||
-235|RICKY TAN|I'm busy at the moment.|speech|RICKY TAN|M
-236|CARTER|I said get on your feet!|speech|CARTER|M
+for you.  Get up."|speech|CARTER|M|True
+234||Tan looks up for a moment, a smile.|stage direction|||
+235|RICKY TAN|I'm busy at the moment.|speech|RICKY TAN|M|True
+236|CARTER|I said get on your feet!|speech|CARTER|M|True
 237|RICKY TAN|"I know you, Detective Carter, right?
 You're Lee's American friend.  Enjoying
-your visit?"|speech|RICKY TAN|M
+your visit?"|speech|RICKY TAN|M|True
 238|CARTER|"I'm Lee's new muscle, his right arm --
 and don't let the robe fool you.  This
 is the only color they had left.  Now
-get up!"|speech|CARTER|M
+get up!"|speech|CARTER|M|True
 239||"Tan laughs, goes back to his laptop.  CARTER GRABS THE LAPTOP
 from Ricky and throws it across the room - SHATTERING IT
 against the wall.  Ricky glances at his men who are seated
-around the room waiting to move."|stage direction||
-240|CARTER (CONT'D)|I told you to get on your feet!|speech|CARTER|M
+around the room waiting to move."|stage direction|||
+240|CARTER (CONT'D)|I told you to get on your feet!|speech|CARTER|M|True
 241||"Having heard the commotion, Lee arrives by Carter's side,
-breathless, as Tan looks up, surprised."|stage direction||
-242|RICKY TAN|Lee, I've missed you, brother.|speech|RICKY TAN|M
-243||(getting up, giving Lee a hug)|location||
+breathless, as Tan looks up, surprised."|stage direction|||
+242|RICKY TAN|Lee, I've missed you, brother.|speech|RICKY TAN|M|True
+243||(getting up, giving Lee a hug)|location|||
 244|RICKY TAN|"I heard about the two Americans, I'm so
-sorry, you must be under great pressure."|speech|RICKY TAN|M
-245|LEE|You must come with me for questioning.|speech|LEE|M
+sorry, you must be under great pressure."|speech|RICKY TAN|M|True
+245|LEE|You must come with me for questioning.|speech|LEE|M|True
 246|CARTER|"Let's go.  I've got girls and chicken
-and hot oil waiting for me."|speech|CARTER|M
-247|RICKY TAN|I don't think so...|speech|RICKY TAN|M
+and hot oil waiting for me."|speech|CARTER|M|True
+247|RICKY TAN|I don't think so...|speech|RICKY TAN|M|True
 248||"A nod of Ricky Tan's head, and TEN LARGE MEN in robes and
 towels spring out of reclining chairs -- menacingly facing
-Lee and Carter.  A beat..."|stage direction||
-249|CARTER|I'd like to pay you for that laptop.|speech|CARTER|M
+Lee and Carter.  A beat..."|stage direction|||
+249|CARTER|I'd like to pay you for that laptop.|speech|CARTER|M|True
 250|RICKY TAN|"It's no problem.  But I must excuse
-myself, inspector."|speech|RICKY TAN|M
-251|CARTER|That's Chief Inspector, he got promoted.|speech|CARTER|M
-252||Tan bows to Lee and Carter.|stage direction||
-253|RICKY TAN|Congratulations.  And good day.|speech|RICKY TAN|M
+myself, inspector."|speech|RICKY TAN|M|True
+251|CARTER|That's Chief Inspector, he got promoted.|speech|CARTER|M|True
+252||Tan bows to Lee and Carter.|stage direction|||
+253|RICKY TAN|Congratulations.  And good day.|speech|RICKY TAN|M|True
 254||"As Tan starts to exit, Lee and Carter move to intercept him.
 But they are blocked by TAN'S MEN.
 Lee grabs one of the men's towels and pulls it off.  The man
@@ -526,9 +526,9 @@ blocking, kicking, and punching everything in sight -- all
 the while managing to keep his privates covered with a towel,
 his robe, or some other found object.
 Carter, meanwhile, uses his quick hands to send several men
-flying back -- grabbing a towel of one of them."|stage direction||
-255||(ref: his privates)|location||
-256|CARTER|Damn!  No wonder you're pissed off.|speech|CARTER|M
+flying back -- grabbing a towel of one of them."|stage direction|||
+255||(ref: his privates)|location|||
+256|CARTER|Damn!  No wonder you're pissed off.|speech|CARTER|M|True
 257||"Carter uses the towel like Lee did to block and trap one of
 the men's punches.
 In the middle of fighting, Lee is suddenly exposed -- he
@@ -536,85 +536,85 @@ flinches to cover himself and is punched from behind.
 Momentarily stunned, he's lifted from behind -- two men
 throwing him out the front door.
 Carter is also overpowered by two men, who lift him over
-their shoulders."|stage direction||
-258||EXT. HONG KONG HIGHWAY - DAY|location||
+their shoulders."|stage direction|||
+258||EXT. HONG KONG HIGHWAY - DAY|location|||
 259||"Ricky Tan's black limo SCREECHES to a stop.  The door flies
 open and Lee and Carter are TOSSED out onto the highway.
-Both men are completely naked."|stage direction||
-260||EXT. HONG KONG POLICE STATION - DAY|location||
+Both men are completely naked."|stage direction|||
+260||EXT. HONG KONG POLICE STATION - DAY|location|||
 261||"A packed street - Lee and Carter dodging in and out of
 people.  The CAMERA PANS and we see Lee and Carter from
-behind."|stage direction||
-262|CARTER|Goddamn you got a small ass.|speech|CARTER|M
-263|LEE|Don't look at my ass!|speech|LEE|M
-264||INT. HONG KONG POLICE STATION - BULLPEN - DAY|location||
+behind."|stage direction|||
+262|CARTER|Goddamn you got a small ass.|speech|CARTER|M|True
+263|LEE|Don't look at my ass!|speech|LEE|M|True
+264||INT. HONG KONG POLICE STATION - BULLPEN - DAY|location|||
 265||"PANDEMONIUM
 The station is packed with Americans -- FBI AGENTS, SECRET
 SERVICE... they've set up shop right in the middle of the
 bullpen.
 SUPERINDENDENT CHIN is arguing with SPECIAL AGENT STERLING, a
-50-year old hard ass who is in charge of this circus."|stage direction||
+50-year old hard ass who is in charge of this circus."|stage direction|||
 266|SPECIAL AGENT STERLING|"Chin, you have been ordered by the
 Ministry of Public Security to assist
 the FBI and Secret Service with our
 investigation, to provide us with
 whatever we need.  If you have
-information, it belongs to us."|speech|SPECIAL AGENT STERLING|?
-267|SUPERINDENDENT CHIN|This is still Hong Kong.|speech|SUPERINDENDENT CHIN|M
+information, it belongs to us."|speech|SPECIAL AGENT STERLING|?|True
+267|SUPERINDENDENT CHIN|This is still Hong Kong.|speech|SUPERINDENDENT CHIN|M|True
 268|SPECIAL AGENT STERLING|"Two Americans have been killed on United
 States Government property -- this is
-our investigation."|speech|SPECIAL AGENT STERLING|?
+our investigation."|speech|SPECIAL AGENT STERLING|?|True
 269|SUPERINDENDENT CHIN|"Chief Inspector Lee will brief your
-people..."|speech|SUPERINDENDENT CHIN|M
+people..."|speech|SUPERINDENDENT CHIN|M|True
 270|SPECIAL AGENT STERLING|"No.  He will report to me.  Do we
-understand each other?"|speech|SPECIAL AGENT STERLING|?
+understand each other?"|speech|SPECIAL AGENT STERLING|?|True
 271||"SUDDENLY ALL EYES turn as Carter and Lee enter the bullpen.
 Out of breath, still robed: Lee covering himself with a trash
-can lid, Carter using a red construction cone."|stage direction||
-272|SPECIAL AGENT STERLING (CONT'D)|Who the hell is that?|speech|SPECIAL AGENT STERLING|?
-273||(humiliated)|location||
+can lid, Carter using a red construction cone."|stage direction|||
+272|SPECIAL AGENT STERLING (CONT'D)|Who the hell is that?|speech|SPECIAL AGENT STERLING|?|True
+273||(humiliated)|location|||
 274|SUPERINDENDENT CHIN|"That is...Chief Inspector Lee.  The
 detective in charge of our
-investigation."|speech|SUPERINDENDENT CHIN|M
+investigation."|speech|SUPERINDENDENT CHIN|M|True
 275|SPECIAL AGENT STERLING|"Put a diaper on him, Chin.  I want to
-talk to the great Inspector Lee."|speech|SPECIAL AGENT STERLING|?
-276||INT. LEE'S OFFICE - DAY|location||
+talk to the great Inspector Lee."|speech|SPECIAL AGENT STERLING|?|True
+276||INT. LEE'S OFFICE - DAY|location|||
 277||"The shades are down as Lee frantically gets dressed, putting
 on a suit and fixing his tie.
 Carter finishes putting on a BLACK CHINESE STYLE SUIT from
-Lee's closet, then moves for the door."|stage direction||
-278|LEE|Where are you going?|speech|LEE|M
+Lee's closet, then moves for the door."|stage direction|||
+278|LEE|Where are you going?|speech|LEE|M|True
 279|CARTER|"Back to Heaven on Earth.  I need my damn
-passport back.  I'm going home."|speech|CARTER|M
-280|LEE|Fine.  Go home.  Who needs you.|speech|LEE|M
+passport back.  I'm going home."|speech|CARTER|M|True
+280|LEE|Fine.  Go home.  Who needs you.|speech|LEE|M|True
 281|CARTER|"Why you mad at me?  You needed back-up,
 so I backed you up.  I was about to take
-out Ricky Tan and those bodyguards."|speech|CARTER|M
-282|LEE|Stop!  I'm sick of your bullshit!|speech|LEE|M
+out Ricky Tan and those bodyguards."|speech|CARTER|M|True
+282|LEE|Stop!  I'm sick of your bullshit!|speech|LEE|M|True
 283|CARTER|"My bullshit?  I'm not the one who goes
 to a karaoke bar filled with gangsters!
 I'm not the one who goes to massage
-parlors to bust crime lords!"|speech|CARTER|M
-284|LEE|It's my job!|speech|LEE|M
+parlors to bust crime lords!"|speech|CARTER|M|True
+284|LEE|It's my job!|speech|LEE|M|True
 285|CARTER|"You're pathetic, man.  When's the last
 time you had some fun?  When's the last
-time you took a night off, had a date?"|speech|CARTER|M
-286|LEE|I have plenty of dates.|speech|LEE|M
+time you took a night off, had a date?"|speech|CARTER|M|True
+286|LEE|I have plenty of dates.|speech|LEE|M|True
 287|CARTER|"Really?  When's the last time you had
 some Mu-shu  Let's hear it, Lee, when
-was it?  Year of the rat?"|speech|CARTER|M
+was it?  Year of the rat?"|speech|CARTER|M|True
 288|LEE|"You would never understand my life.
-You're not Chinese."|speech|LEE|M
-289|CARTER|And you ain't black!|speech|CARTER|M
+You're not Chinese."|speech|LEE|M|True
+289|CARTER|And you ain't black!|speech|CARTER|M|True
 290||"The two men look at each other for a long BEAT.  Lee quickly
 walks out, slamming the door behind him, leaving Carter half
-dressed."|stage direction||
-291||INT. SUPERINDENDENT CHIN'S OFFICE - DAY|location||
+dressed."|stage direction|||
+291||INT. SUPERINDENDENT CHIN'S OFFICE - DAY|location|||
 292||"Lee walks in, sees Sterling sitting at Chin's desk.  Chin
-stands in the back."|stage direction||
+stands in the back."|stage direction|||
 293|SUPERINDENDENT CHIN|"Lee, this is Special Agent Sterling from
-the United States Secret Service."|speech|SUPERINDENDENT CHIN|M
-294|LEE|The Secret Service?  Why?|speech|LEE|M
+the United States Secret Service."|speech|SUPERINDENDENT CHIN|M|True
+294|LEE|The Secret Service?  Why?|speech|LEE|M|True
 295|STERLING|"What I'm about to tell you cannot leave
 this room.  The men who were killed
 yesterday were not American translators.
@@ -622,75 +622,75 @@ They were undercover U.S. customs agents
 trying to break a Triad smuggling ring.
 We don't know what they're transporting
 out of Hong Kong, but whatever it is, it
-got the agents killed."|speech|STERLING|F
-296|LEE|How can we help?|speech|LEE|M
-297|STERLING|Stay the hell out of our way.|speech|STERLING|F
-298|LEE|I can get to Ricky Tan.|speech|LEE|M
+got the agents killed."|speech|STERLING|F|
+296|LEE|How can we help?|speech|LEE|M|True
+297|STERLING|Stay the hell out of our way.|speech|STERLING|F|
+298|LEE|I can get to Ricky Tan.|speech|LEE|M|True
 299|STERLING|"We know all about Tan.  That's why we're
 leaving him out there as bait.  We think
 this is a lot bigger than just Ricky Tan
-and his Fu-Cang-Long Triads."|speech|STERLING|F
-300||INT. LEE'S OFFICE - CONTINUOUS|location||
+and his Fu-Cang-Long Triads."|speech|STERLING|F|
+300||INT. LEE'S OFFICE - CONTINUOUS|location|||
 301||"Carter is on the phone, his feet on Lee's desk.  As he talks
-he opens a drawer, pulls out a wad of cash and pockets it."|stage direction||
+he opens a drawer, pulls out a wad of cash and pockets it."|stage direction|||
 302|CARTER|"Captain, you're gonna have to speak up.
-I'm on a car phone!"|speech|CARTER|M
-303||INT. CAPTAIN DIEL'S OFFICE - LAPD HEADQUARTERS - DAY|location||
-304||CAPTAIN DIEL sits behind his desk talking on the phone.|stage direction||
+I'm on a car phone!"|speech|CARTER|M|True
+303||INT. CAPTAIN DIEL'S OFFICE - LAPD HEADQUARTERS - DAY|location|||
+304||CAPTAIN DIEL sits behind his desk talking on the phone.|stage direction|||
 305|CAPTAIN DIEL|"Is it true, Carter?  Are you in Hong
-Kong right now?"|speech|CAPTAIN DIEL|?
+Kong right now?"|speech|CAPTAIN DIEL|?|
 306|CARTER|"Hong Kong?  I'm not in Hong Kong.  I'm
 in Hollywood -- right at Sunset and
 Vine, two minutes from the station.  How
 about I pick you up right now and take
-you to dinner?"|speech|CARTER|M
-307|CAPTAIN DIEL|It's nine-thirty in the morning.|speech|CAPTAIN DIEL|?
+you to dinner?"|speech|CARTER|M|True
+307|CAPTAIN DIEL|It's nine-thirty in the morning.|speech|CAPTAIN DIEL|?|
 308|CARTER|"Did I say dinner?  I meant diner.
-Biscuits and gravy, you love that shit."|speech|CARTER|M
+Biscuits and gravy, you love that shit."|speech|CARTER|M|True
 309|CAPTAIN DIEL|"Do you know what happened yesterday,
 Carter?  I was officially nominated for
 the Commissioner's post for the LAPD.
 There was a dinner last night, two
-hundred LAPD officers were there."|speech|CAPTAIN DIEL|?
+hundred LAPD officers were there."|speech|CAPTAIN DIEL|?|
 310|CARTER|"Two hundred cops?  Was Mario Sanchez
-there?  He owes me money."|speech|CARTER|M
+there?  He owes me money."|speech|CARTER|M|True
 311|CAPTAIN DIEL|"I've waited my whole life for this job,
 but I don't have a shot in hell of
-getting it.  Do you know why?"|speech|CAPTAIN DIEL|?
+getting it.  Do you know why?"|speech|CAPTAIN DIEL|?|
 312|CARTER|"Is it because of the hookers, sir?  You
 tell them there's no crime in being
-lonely."|speech|CARTER|M
+lonely."|speech|CARTER|M|True
 313|CAPTAIN DIEL|"No, Carter.  The reason I'm screwed is
 because the entire department is about
 to find out the stolen credit cards we
 impounded were used to buy two first
 class upgrades to Hong Kong.  And what
-the hell is Heaven on Earth?"|speech|CAPTAIN DIEL|?
+the hell is Heaven on Earth?"|speech|CAPTAIN DIEL|?|
 314|CARTER|"Sir, I'm working on a big case over here
 -- and by the time I get back they're
 gonna make you Governor.  Captain, you
-there?  Hello?  Shit!"|speech|CARTER|M
+there?  Hello?  Shit!"|speech|CARTER|M|True
 315||"As Carter walks out the DOOR, he brushes past HU LI, who is
 standing in the hallway disguised as a FED EX DELIVERY
-PERSON.  Carter checks her out as he exits."|stage direction||
-316||EXT. STREET - DAY|location||
+PERSON.  Carter checks her out as he exits."|stage direction|||
+316||EXT. STREET - DAY|location|||
 317||"CARTER starts walking down the street, making his way past an
 outdoor BUTCHER MARKET, getting strange looks from locals and
 tourists alike.  He motions to an OLD WOMAN who is selling
-LIVE DUCKS, PIGEONS AND CHICKENS"|stage direction||
+LIVE DUCKS, PIGEONS AND CHICKENS"|stage direction|||
 318|CARTER|"How you doing?  Can you direct me to the
-Heaven on Earth massage parlor?"|speech|CARTER|M
+Heaven on Earth massage parlor?"|speech|CARTER|M|True
 319||"The OLD WOMAN stares at Carter, starts motioning to her CAGES
-filled with birds."|stage direction||
+filled with birds."|stage direction|||
 320|CARTER (CONT'D)|"No, I don't eat live birds.  I like my
 birds dead and deep fried.  You ever
-been to Popeyes?"|speech|CARTER|M
-321||The Woman takes out a bird, holds up a HATCHET.|stage direction||
+been to Popeyes?"|speech|CARTER|M|True
+321||The Woman takes out a bird, holds up a HATCHET.|stage direction|||
 322|CARTER (CONT'D)|"No, don't do that, I had a big lunch.
 I'm warning you, I'm a police officer --
 just put the blade down and let the bird
-go."|speech|CARTER|M
-323||INT. HONG KONG POLICE STATION - BULLPEN/LEE'S OFFICE - DAY|location||
+go."|speech|CARTER|M|True
+323||INT. HONG KONG POLICE STATION - BULLPEN/LEE'S OFFICE - DAY|location|||
 324||"Lee walks out of the Captain's office, heads for his own
 office - but never gets there.
 AN EXPLOSION rips through the second floor of the station.
@@ -700,127 +700,127 @@ destroyed office, tries to get to his feet.
 STUNNED POLICE OFFICERS and DETECTIVES are crowded around
 Lee's office, looking at the rubble.  Lee pushes through the
 crowd -- it's all smoke and fire.  Now way anyone held back
-by the heat."|stage direction||
-325|LEE|Carter!  CARTER!|speech|LEE|M
-326||EXT. HONG KONG STREET - DAY|location||
+by the heat."|stage direction|||
+325|LEE|Carter!  CARTER!|speech|LEE|M|True
+326||EXT. HONG KONG STREET - DAY|location|||
 327||"Carter walks down the street holding a CAGE WITH A LIVE RED
 BIRD inside.  He stops a MAN who is sweeping in front of his
-store."|stage direction||
+store."|stage direction|||
 328|CARTER|"How you doing?  I'm looking for Heaven
-on Earth."|speech|CARTER|M
+on Earth."|speech|CARTER|M|True
 329||"The man stares at Carter, watches as he pulls out his:
-ENGLISH/CHINESE DICTIONARY"|stage direction||
+ENGLISH/CHINESE DICTIONARY"|stage direction|||
 330|CARTER (CONT'D)|"Shan-shui cao guo-jiu, pao gai niu tao
-zi."|speech|CARTER|M
+zi."|speech|CARTER|M|True
 331|MAN|"You wish to spank my sister with a ping
-pong paddle?"|speech|MAN|M
-332|CARTER|No man, I was just asking...|speech|CARTER|M
-333|MAN|Wait here.  I'll go see if she's awake.|speech|MAN|M
+pong paddle?"|speech|MAN|M|
+332|CARTER|No man, I was just asking...|speech|CARTER|M|True
+333|MAN|Wait here.  I'll go see if she's awake.|speech|MAN|M|
 334||"As the man walks into his store, Carter runs off.
 Pause.
 Carter strolls back INTO FRAME, peering into the store to see
-if it's worth staying..."|stage direction||
-335||INT. HONG KONG POLICE STATION - BULL PEN - DAY|location||
+if it's worth staying..."|stage direction|||
+335||INT. HONG KONG POLICE STATION - BULL PEN - DAY|location|||
 336||"Lee sits by himself in shock.  Superindendent Chin
-approaches."|stage direction||
-337|LEE|All he wanted was some mu-shu.|speech|LEE|M
-338|SUPERINDENDENT CHIN|Are you okay, Lee?|speech|SUPERINDENDENT CHIN|M
-339||Beat.|stage direction||
-340|LEE|I'm sorry, I have to go.|speech|LEE|M
-341||EXT. HEAVEN ON EARTH MASSAGE PARLOR - AFTERNOON|location||
+approaches."|stage direction|||
+337|LEE|All he wanted was some mu-shu.|speech|LEE|M|True
+338|SUPERINDENDENT CHIN|Are you okay, Lee?|speech|SUPERINDENDENT CHIN|M|True
+339||Beat.|stage direction|||
+340|LEE|I'm sorry, I have to go.|speech|LEE|M|True
+341||EXT. HEAVEN ON EARTH MASSAGE PARLOR - AFTERNOON|location|||
 342||"Carter finally makes his way to the massage parlor, moving
 for the FRONT DOOR when he sees RICKY TAN EXIT.  Carter ducks
 to the side and watches as Ricky climbs into the back of a
 waiting Daimler.
 The Daimler drives off.  Carter rushes to the middle of the
-street with a determined look on his face."|stage direction||
-343|CARTER|I'm gonna solve this case myself.  Taxi!|speech|CARTER|M
-344||Carter flags down a CAB, jumps in the back seat.|stage direction||
-345||INT. TAXI - EVENING|location||
-346||The CAB DRIVER turns to Carter, who motions to the limo.|stage direction||
-347||(loud)|location||
-348|CARTER|Follow that limo.|speech|CARTER|M
-349||The Cab Driver continues to stare at Carter.|stage direction||
+street with a determined look on his face."|stage direction|||
+343|CARTER|I'm gonna solve this case myself.  Taxi!|speech|CARTER|M|True
+344||Carter flags down a CAB, jumps in the back seat.|stage direction|||
+345||INT. TAXI - EVENING|location|||
+346||The CAB DRIVER turns to Carter, who motions to the limo.|stage direction|||
+347||(loud)|location|||
+348|CARTER|Follow that limo.|speech|CARTER|M|True
+349||The Cab Driver continues to stare at Carter.|stage direction|||
 350|CARTER (CONT'D)|"You understand what I'm saying?  Follow
 that car!  Where it goes, you go!  This
-is a chase -- we are chasing that limo!"|speech|CARTER|M
-351||(beat)|location||
+is a chase -- we are chasing that limo!"|speech|CARTER|M|True
+351||(beat)|location|||
 352|CARTER (CONT'D)|"We are still parked -- we're not moving!
 This is the opposite of chasing -- drive
-the car or I will kill you!"|speech|CARTER|M
+the car or I will kill you!"|speech|CARTER|M|True
 353||"The driver slowly turns, holding out his hand.  Carter fishes
-in his pocket hands the cab driver a wad of cash."|stage direction||
-354|CAB DRIVER|Now you speak my language.|speech|CAB DRIVER|?
-355||INT. LEE'S CAR - DAY|location||
+in his pocket hands the cab driver a wad of cash."|stage direction|||
+354|CAB DRIVER|Now you speak my language.|speech|CAB DRIVER|?|
+355||INT. LEE'S CAR - DAY|location|||
 356||"Lee drives, misty-eyed.  RAP MUSIC playing over the stereo.
 Lee turns it up, slowly moving his head to the music, in
 tribute to Carter.
 His CELL PHONE rings, he turns down the music.
-INTERCUT --"|stage direction||
-357||INT. CHIN'S OFFICE - CONTINUOUS|location||
+INTERCUT --"|stage direction|||
+357||INT. CHIN'S OFFICE - CONTINUOUS|location|||
 358|SUPERINDENDENT CHIN|"Lee, we just got a call from the harbor
 patrol.  Ricky Tan is throwing a little
 party on his boat tonight.  Victoria
-harbor.  If you don't want to..."|speech|SUPERINDENDENT CHIN|M
-359|LEE|Did you tell Sterling?|speech|LEE|M
+harbor.  If you don't want to..."|speech|SUPERINDENDENT CHIN|M|True
+359|LEE|Did you tell Sterling?|speech|LEE|M|True
 360|SUPERINDENDENT CHIN|"Let him find out on his own.  I want the
-Hong Kong police handling this."|speech|SUPERINDENDENT CHIN|M
-361|LEE|Thank you.|speech|LEE|M
+Hong Kong police handling this."|speech|SUPERINDENDENT CHIN|M|True
+361|LEE|Thank you.|speech|LEE|M|True
 362||"Lee hangs up.  A look of intensity.  He CRANKS the RAP MUSIC
-up, a man on a mission."|stage direction||
-363||EXT. YACHT - HARBOR - NIGHT|location||
+up, a man on a mission."|stage direction|||
+363||EXT. YACHT - HARBOR - NIGHT|location|||
 364||"A 190-FOOT YACHT is anchored in Victoria Harbor.  Ricky Tan
 walks along the top deck with HU LI, disappearing into a
 crowd of people who are partying on the ship.
-Carter steps out of the cab."|stage direction||
+Carter steps out of the cab."|stage direction|||
 365|CARTER|"Stay here.  I'll be right back.  You
-understand?"|speech|CARTER|M
-366|CAB DRIVER|Yes.  I understand.|speech|CAB DRIVER|?
+understand?"|speech|CARTER|M|True
+366|CAB DRIVER|Yes.  I understand.|speech|CAB DRIVER|?|
 367||"Carter steps out of the cab, which immediately drives off,
 leaving him alone on the docks.
 Carter looks around the dock -- a pull up valet station
 parking fancy cars, RICH PEOPLE getting on the boat as their
-names are checked off a list by two DOORMEN."|stage direction||
-368||INT. YACHT - NIGHT|location||
+names are checked off a list by two DOORMEN."|stage direction|||
+368||INT. YACHT - NIGHT|location|||
 369||"A huge PARTY, a live band plays for a crowd of business men,
 politicians and beautiful women - a who's who of Hong Kong.
 CARTER walks up to the front of the boat -- TWO DOORMEN
-HOLDING clipboards immediately stop him."|stage direction||
-370|DOORMAN #1|Invitation, please.|speech|DOORMAN #1|?
-371|CARTER|I'm with the band.  I'm the lead singer.|speech|CARTER|M
-372|DOORMAN #1|The band has been playing over an hour.|speech|DOORMAN #1|?
+HOLDING clipboards immediately stop him."|stage direction|||
+370|DOORMAN #1|Invitation, please.|speech|DOORMAN #1|?|
+371|CARTER|I'm with the band.  I'm the lead singer.|speech|CARTER|M|True
+372|DOORMAN #1|The band has been playing over an hour.|speech|DOORMAN #1|?|
 373|CARTER|"I got held up at a wedding in Tai Koo.
 Ricky here yet, I need to get his
-requests."|speech|CARTER|M
-374||As Carter walks past the doorman --|stage direction||
-375|DOORMAN #1|Wait.|speech|DOORMAN #1|?
+requests."|speech|CARTER|M|True
+374||As Carter walks past the doorman --|stage direction|||
+375|DOORMAN #1|Wait.|speech|DOORMAN #1|?|
 376|CARTER|"Last party all he wanted was Sting --
 not one person danced.  Tonight I'm
 doing Superfreak, I don't care what he
-says.  Where is he?"|speech|CARTER|M
+says.  Where is he?"|speech|CARTER|M|True
 377|DOORMAN #1|"Mr. Tan is not to be disturbed by the
-help."|speech|DOORMAN #1|?
-378||Carter turns back to the doorman, grabs him by the collar.|stage direction||
+help."|speech|DOORMAN #1|?|
+378||Carter turns back to the doorman, grabs him by the collar.|stage direction|||
 379|CARTER|"Help?  I'm not the help, man -- I'm the
 star.  That's my band up there -- I
 control the mood, the groove, the
-atmosphere."|speech|CARTER|M
-380||Carter cuts a smoking DANCE MOVE.|stage direction||
-381|CARTER (CONT'D)|Can you do that?|speech|CARTER|M
-382||"(man shakes head ""no"")"|location||
+atmosphere."|speech|CARTER|M|True
+380||Carter cuts a smoking DANCE MOVE.|stage direction|||
+381|CARTER (CONT'D)|Can you do that?|speech|CARTER|M|True
+382||"(man shakes head ""no"")"|location|||
 383|CARTER (CONT'D)|"That's why you're down here and I'm up
 there.  Now this is my party -- don't
-forget it!"|speech|CARTER|M
-384||Carter walks onto the ship, starts singing to himself.|stage direction||
-385||EXT. YACHT - HARBOR - CONTINUOUS|location||
+forget it!"|speech|CARTER|M|True
+384||Carter walks onto the ship, starts singing to himself.|stage direction|||
+385||EXT. YACHT - HARBOR - CONTINUOUS|location|||
 386||"The SHIP'S HORN SOUNDS, the yacht starts to head out to sea.
 Lee steps out of his car, sees the yacht is pulling out of
 the slip.  He runs along the side of the boat, has no choice
 but to jump from the end of the pier, landing hard on the
 side of the ship, somehow holding onto a PORTHOLE WINDOW.  He
 clings to the yacht, then throws himself toward a hanging
-LIFEBOAT, climbs up the side and jumps toward the TOP RAIL --"|stage direction||
-387||EXT. YACHT - CONTINUOUS|location||
+LIFEBOAT, climbs up the side and jumps toward the TOP RAIL --"|stage direction|||
+387||EXT. YACHT - CONTINUOUS|location|||
 388||"As Carter walks through the ship, he grabs a handful of food
 from a waiter, his eyes searching the crowd, rounds a corner
 - almost stepping right into HU LI, who's approaching STEVEN
@@ -835,352 +835,352 @@ hides and turns away as Hu Li instinctively scans the room
 for signs of trouble.  He heads into the main party.
 Carter stops walking when he comes upon ISABELLA MOLINA, a
 stunning brunette, sitting at the bar drinking a glass of
-champagne.  Carter lights her cigarette for her."|stage direction||
+champagne.  Carter lights her cigarette for her."|stage direction|||
 389|CARTER|"How you doing, baby?  My name is Prince
-Mubutu from Nigeria."|speech|CARTER|M
+Mubutu from Nigeria."|speech|CARTER|M|True
 390|ISABELLA|"Isabella Molina, from San Juan.  That
-seat is taken."|speech|ISABELLA|F
-391||(in mangled Spanish)|location||
+seat is taken."|speech|ISABELLA|F|True
+391||(in mangled Spanish)|location|||
 392|CARTER|"San Juan!  You must know my good friend
 Pedro Martinez Hernandez Hector
-Elizondo."|speech|CARTER|M
-393||(in English)|location||
-394|ISABELLA|I don't think so.|speech|ISABELLA|F
+Elizondo."|speech|CARTER|M|True
+393||(in English)|location|||
+394|ISABELLA|I don't think so.|speech|ISABELLA|F|True
 395|CARTER|"I'm sorry, you looked like you traveled
 in the best circles.  But hey, I
 understand.  Make yourself at home,
 Isabella.  Champagne, caviar, whatever
-you want.  My ship is your ship."|speech|CARTER|M
-396|ISABELLA|This is your ship?|speech|ISABELLA|F
+you want.  My ship is your ship."|speech|CARTER|M|True
+396|ISABELLA|This is your ship?|speech|ISABELLA|F|True
 397|CARTER|"That's right.  I'm the owner, the
-Captain -- you can call me El Capitan."|speech|CARTER|M
-398|ISABELLA|El Capitan?|speech|ISABELLA|F
+Captain -- you can call me El Capitan."|speech|CARTER|M|True
+398|ISABELLA|El Capitan?|speech|ISABELLA|F|True
 399|CARTER|"I don't want to play games with you,
 Isabella.  I like you.  I can see myself
 with you -- in one of those bathrooms
-over there in about five minutes."|speech|CARTER|M
+over there in about five minutes."|speech|CARTER|M|True
 400|ISABELLA|"Well, I'm very tempted.  It's such a
-beautiful yacht.  What's it called?"|speech|ISABELLA|F
-401|CARTER|Called?  What's my ship called?|speech|CARTER|M
-402||(he has no idea)|location||
+beautiful yacht.  What's it called?"|speech|ISABELLA|F|True
+401|CARTER|Called?  What's my ship called?|speech|CARTER|M|True
+402||(he has no idea)|location|||
 403|CARTER|"Well...it's called the S.S. Minnow
-Johnson."|speech|CARTER|M
+Johnson."|speech|CARTER|M|True
 404|ISABELLA|"The S.S. Minow Johnson.  Funny, the name
-on the back was ""Red Dragon."""|speech|ISABELLA|F
-405|CARTER|Red Dragon?  You sure about that?|speech|CARTER|M
+on the back was ""Red Dragon."""|speech|ISABELLA|F|True
+405|CARTER|Red Dragon?  You sure about that?|speech|CARTER|M|True
 406|ISABELLA|"I'm sure, because this is my friend's
-yacht.  And it's his party."|speech|ISABELLA|F
-407|CARTER|Your friend's ship?|speech|CARTER|M
-408||(looking around)|location||
+yacht.  And it's his party."|speech|ISABELLA|F|True
+407|CARTER|Your friend's ship?|speech|CARTER|M|True
+408||(looking around)|location|||
 409|CARTER|"Oh, man.  I must've walked onto the
 wrong yacht.  I knew there was a reason
-my keys didn't work."|speech|CARTER|M
-410||(taking seat next to Isabella)|location||
-411|STEVEN REIGN|Who's your friend?|speech|STEVEN REIGN|M
-412|ISABELLA|Somebody who got on the wrong yacht.|speech|ISABELLA|F
+my keys didn't work."|speech|CARTER|M|True
+410||(taking seat next to Isabella)|location|||
+411|STEVEN REIGN|Who's your friend?|speech|STEVEN REIGN|M|True
+412|ISABELLA|Somebody who got on the wrong yacht.|speech|ISABELLA|F|True
 413|CARTER|"Wait a second.  You're Steven Reign?
 You're big time.  You own all them big
 hotels.  What are you doing in Hong
-Kong?"|speech|CARTER|M
-414||(ushering away Isabella)|location||
+Kong?"|speech|CARTER|M|True
+414||(ushering away Isabella)|location|||
 415|STEVEN REIGN|"I'm just in town for the weekend, taking
-in the sights."|speech|STEVEN REIGN|M
-416|ISABELLA|Enjoy the party, Mr. Carter.|speech|ISABELLA|F
+in the sights."|speech|STEVEN REIGN|M|True
+416|ISABELLA|Enjoy the party, Mr. Carter.|speech|ISABELLA|F|True
 417||"Carter nods, waves.  Steven Reign and Isabella walk away.
-Carter's watching."|stage direction||
-418||INT. SHIP'S HALLWAY - NIGHT|location||
+Carter's watching."|stage direction|||
+418||INT. SHIP'S HALLWAY - NIGHT|location|||
 419||"Lee makes his way toward a STAIRCASE that is blocked by a
 BODYGUARD.  He quickly disarms the guard and grabs him by the
-throat, pushing him against the wall."|stage direction||
-420|LEE|Ricky Tan.  Where is he?|speech|LEE|M
-421|BODYGUARD #1|Who's asking?|speech|BODYGUARD #1|?
+throat, pushing him against the wall."|stage direction|||
+420|LEE|Ricky Tan.  Where is he?|speech|LEE|M|True
+421|BODYGUARD #1|Who's asking?|speech|BODYGUARD #1|?|
 422|LEE|"The Hong Kong Police.  He killed a
 detective today and he's not getting
-away with it.  Now where is he?"|speech|LEE|M
+away with it.  Now where is he?"|speech|LEE|M|True
 423|CARTER|"Yeah.  Tell us!  And don't play games or
-we'll kick your lying ass!"|speech|CARTER|M
+we'll kick your lying ass!"|speech|CARTER|M|True
 424||"Lee slowly turns around and looks at Carter, who is standing
-right behind him."|stage direction||
-425|LEE|Carter?|speech|LEE|M
-426|CARTER|Who died?|speech|CARTER|M
-427|LEE|You.|speech|LEE|M
-428|CARTER|Detective Yu?  Never met him.|speech|CARTER|M
-429|LEE|Not Yu.  You!|speech|LEE|M
-430|CARTER|Who?|speech|CARTER|M
+right behind him."|stage direction|||
+425|LEE|Carter?|speech|LEE|M|True
+426|CARTER|Who died?|speech|CARTER|M|True
+427|LEE|You.|speech|LEE|M|True
+428|CARTER|Detective Yu?  Never met him.|speech|CARTER|M|True
+429|LEE|Not Yu.  You!|speech|LEE|M|True
+430|CARTER|Who?|speech|CARTER|M|True
 431|LEE|"Do you understand the words that are
-coming out of my mouth?"|speech|LEE|M
+coming out of my mouth?"|speech|LEE|M|True
 432|CARTER|"Nobody understands the words that are
-coming out of your mouth."|speech|CARTER|M
-433|BODYGUARD #1|Get your hands in the air.|speech|BODYGUARD #1|?
+coming out of your mouth."|speech|CARTER|M|True
+433|BODYGUARD #1|Get your hands in the air.|speech|BODYGUARD #1|?|
 434||"Lee and Carter turn to see FOUR BODYGUARDS standing in front
-of them with GUNS in hand."|stage direction||
-435|BODYGUARD #1 (CONT'D)|Ricky Tan is expecting you.|speech|BODYGUARD #1|?
-436||INT. RICKY TAN'S YACHT - MAIN CABIN - NIGHT|location||
+of them with GUNS in hand."|stage direction|||
+435|BODYGUARD #1 (CONT'D)|Ricky Tan is expecting you.|speech|BODYGUARD #1|?|
+436||INT. RICKY TAN'S YACHT - MAIN CABIN - NIGHT|location|||
 437||"It looks like HUGH HEFNER'S BEDROOM complete with ROUND BED
 and SUNKEN BAR.  Ricky Tan sits in front of a big screen
 satellite TV screaming at the Lakers.  Hu Li opens the door
-and the bodyguards lead Lee into the bedroom."|stage direction||
+and the bodyguards lead Lee into the bedroom."|stage direction|||
 438|RICKY TAN|"Come on, Shaq, hit a damn free-throw!
-You can do it, big guy."|speech|RICKY TAN|M
+You can do it, big guy."|speech|RICKY TAN|M|True
 439||"ON TV
-We see Shaq miss his free throw."|stage direction||
+We see Shaq miss his free throw."|stage direction|||
 440|RICKY TAN (CONT'D)|"Shit!  He still doesn't follow through.
-I just lost five grand."|speech|RICKY TAN|M
-441||Tan turns off the TV, turns to Lee.|stage direction||
+I just lost five grand."|speech|RICKY TAN|M|True
+441||Tan turns off the TV, turns to Lee.|stage direction|||
 442|RICKY TAN (CONT'D)|"Why don't we go on the deck, get some
-air...and some privacy."|speech|RICKY TAN|M
-443||(to Hu Li)|location||
-444|RICKY TAN (CONT'D)|Leave us alone.|speech|RICKY TAN|M
-445||Hu Li hesitates, upset at being dismissed.|stage direction||
-446||(to Lee)|location||
+air...and some privacy."|speech|RICKY TAN|M|True
+443||(to Hu Li)|location|||
+444|RICKY TAN (CONT'D)|Leave us alone.|speech|RICKY TAN|M|True
+445||Hu Li hesitates, upset at being dismissed.|stage direction|||
+446||(to Lee)|location|||
 447|RICKY TAN (CONT'D)|"Could you have your partner wait for us
-outside?"|speech|RICKY TAN|M
+outside?"|speech|RICKY TAN|M|True
 448|CARTER|"I ain't his partner, I'm a tourist.  I
-got proof.  See, I got a mini-bar key."|speech|CARTER|M
-449||(to Carter)|location||
+got proof.  See, I got a mini-bar key."|speech|CARTER|M|True
+449||(to Carter)|location|||
 450|LEE|"I'll meet you on the main deck in ten
-minutes."|speech|LEE|M
-451||Carter pulls Lee aside.|stage direction||
-452|CARTER|What, leave you alone so he can cap you?|speech|CARTER|M
-453|LEE|I'm okay, you go.|speech|LEE|M
+minutes."|speech|LEE|M|True
+451||Carter pulls Lee aside.|stage direction|||
+452|CARTER|What, leave you alone so he can cap you?|speech|CARTER|M|True
+453|LEE|I'm okay, you go.|speech|LEE|M|True
 454|CARTER|"Why the hell should you believe him?  He
 had us beat up.  Naked.  That's nasty
-shit."|speech|CARTER|M
+shit."|speech|CARTER|M|True
 455|LEE|"Remember I told you my father was a
-policeman?"|speech|LEE|M
-456||(beat)|location||
-457|LEE|Ricky Tan was his partner for ten years.|speech|LEE|M
-458||(pause)|location||
-459|CARTER|What the hell is going on here?|speech|CARTER|M
+policeman?"|speech|LEE|M|True
+456||(beat)|location|||
+457|LEE|Ricky Tan was his partner for ten years.|speech|LEE|M|True
+458||(pause)|location|||
+459|CARTER|What the hell is going on here?|speech|CARTER|M|True
 460||"No answer.  Carter holds Lee's glance for a beat, then turns
-and walks the other way."|stage direction||
-461||EXT. RICKY TAN'S YACHT - UPPER DECK - NIGHT|location||
-462||Tan and Lee reach the upper deck, where they are alone.|stage direction||
+and walks the other way."|stage direction|||
+461||EXT. RICKY TAN'S YACHT - UPPER DECK - NIGHT|location|||
+462||Tan and Lee reach the upper deck, where they are alone.|stage direction|||
 463|RICKY TAN|"Despite what people suspect...what you
-suspect --"|speech|RICKY TAN|M
-464|LEE|Don't.|speech|LEE|M
-465||Ricky Tan hears the steel in Lee's voice, acknowledges it.|stage direction||
+suspect --"|speech|RICKY TAN|M|True
+464|LEE|Don't.|speech|LEE|M|True
+465||Ricky Tan hears the steel in Lee's voice, acknowledges it.|stage direction|||
 466|RICKY TAN|"... if your father were alive, I would
-be turning to him now."|speech|RICKY TAN|M
-467||(beat)|location||
+be turning to him now."|speech|RICKY TAN|M|True
+467||(beat)|location|||
 468|RICKY TAN|"I didn't blow up the American Embassy,
 but I believe some of my people did.  My
-enemies are trying to frame me."|speech|RICKY TAN|M
-469||(beat)|location||
+enemies are trying to frame me."|speech|RICKY TAN|M|True
+469||(beat)|location|||
 470|RICKY TAN|"There is a war going on within the
 Triads -- and I am going to lose.  My
 name has been written into the book of
-death."|speech|RICKY TAN|M
-471|LEE|The police can protect you.|speech|LEE|M
+death."|speech|RICKY TAN|M|True
+471|LEE|The police can protect you.|speech|LEE|M|True
 472|RICKY TAN|"Nobody can protect me.  I'll make a deal
 with you, Lee.  But only iff you'll get
-me out of Hong Kong."|speech|RICKY TAN|M
+me out of Hong Kong."|speech|RICKY TAN|M|True
 473|LEE|"Tell me why they killed the customs
-agents."|speech|LEE|M
+agents."|speech|LEE|M|True
 474|RICKY TAN|"There is a ship, in the Hong Kong
-Harbor..."|speech|RICKY TAN|M
+Harbor..."|speech|RICKY TAN|M|True
 475||"Hu Li BURSTS onto the deck, flanked by FOUR BODYGUARDS.
 Ricky Tan screams something at Hu Li in Chinese.  Hu Li
 screams back as SHE EMPTIES HER GUN INTO RICKY'S CHEST.  Tan
 falls back, over the rail, and into the water.
 Lee MOVES TOWARDS HU LI, but the four bodyguards are on Lee,
 attacking from all sides.  Hu Li exits as Lee tries to fight
-off the bodyguards."|stage direction||
-476||INT. RICKY TAN'S YACHT - MAIN CABIN - NIGHT|location||
+off the bodyguards."|stage direction|||
+476||INT. RICKY TAN'S YACHT - MAIN CABIN - NIGHT|location|||
 477||"Reactions from the crowd as GUNSHOTS echo from the deck
-above."|stage direction||
-478||INT. SHIP'S HALLWAY - CONTINUOUS|location||
+above."|stage direction|||
+478||INT. SHIP'S HALLWAY - CONTINUOUS|location|||
 479||"Hu Li moves quickly down the hallway, rounding a corner and
 suddenly goes FLYING, landing flat on her face.
 It's Carter, who ran to the sound of the gunshot, and TRIPPED
-Hu Li with his leg."|stage direction||
-480|CARTER|All right, get your hands up.|speech|CARTER|M
-481||Hu Li backflips up -- kicking Carter in the head.|stage direction||
-482||EXT. UPPER DECK - CONTINUOUS|location||
+Hu Li with his leg."|stage direction|||
+480|CARTER|All right, get your hands up.|speech|CARTER|M|True
+481||Hu Li backflips up -- kicking Carter in the head.|stage direction|||
+482||EXT. UPPER DECK - CONTINUOUS|location|||
 483||"Lee takes down Bodyguard #1, but is still fighting three on
 one.  A furious exchange of acrobatic blows between Lee and
-Bodyguard #2."|stage direction||
-484||INT. SHIP'S HALLWAY - CONTINUOUS|location||
-485||Carter and Hu Li face off.|stage direction||
+Bodyguard #2."|stage direction|||
+484||INT. SHIP'S HALLWAY - CONTINUOUS|location|||
+485||Carter and Hu Li face off.|stage direction|||
 486|CARTER|"You wanna piece of me?  C'mon, I'll give
-you a little LAPD ass kickin'."|speech|CARTER|M
-487||Hu Li savages Carter with a series of punishing blows.|stage direction||
-488||INT. UPPER DECK - CONTINUOUS|location||
+you a little LAPD ass kickin'."|speech|CARTER|M|True
+487||Hu Li savages Carter with a series of punishing blows.|stage direction|||
+488||INT. UPPER DECK - CONTINUOUS|location|||
 489||"Lee manages to defeat Bodyguards #3 and #4.  As he catches
-his breath the sound of a SPEED BOAT starting its engines."|stage direction||
-490|LEE|Hu Li!|speech|LEE|M
+his breath the sound of a SPEED BOAT starting its engines."|stage direction|||
+490|LEE|Hu Li!|speech|LEE|M|True
 491||"Lee runs to the rail -- looks down to see a SPEEDBOAT
 starting to pull away from the ship.  Hu Li jumps onboard the
 moving boat.
 Lee starts to turn for the stairs, running down towards the
-stern."|stage direction||
-492||EXT. YACHT - STERN - CONTINUOUS|location||
+stern."|stage direction|||
+492||EXT. YACHT - STERN - CONTINUOUS|location|||
 493||"Lee and Carter run up to the stern at the same time --
 watching helplessly as Hu Li gets away in the speed boat.
 Carter turns his head, sees --
 -- STEVEN REIGN at the other end of the boat, watching Hu Li
 escape, not at all behaving like a panicky billionaire should
 during a gangland shooting.  Wordlessly, Reign disappears
-back into the shadows."|stage direction||
-494||EXT. DOCK - NIGHT|location||
+back into the shadows."|stage direction|||
+494||EXT. DOCK - NIGHT|location|||
 495||"The yacht is anchored.  A few TRIADS led away in handcuffs.
 Thrown into PATROL CARS that have surrounded the docks.
-Sterling, Chin, Lee and Carter on the dock."|stage direction||
+Sterling, Chin, Lee and Carter on the dock."|stage direction|||
 496|SPECIAL AGENT STERLING|"Quite a night, Inspector.  Ricky Tan was
 our only bait, and now he's gone.  You
 finally got your revenge - at the
 expense of a U.S. Government
-investigation."|speech|SPECIAL AGENT STERLING|?
-497|CARTER|"What ""revenge"" is he talking about?"|speech|CARTER|M
+investigation."|speech|SPECIAL AGENT STERLING|?|True
+497|CARTER|"What ""revenge"" is he talking about?"|speech|CARTER|M|True
 498|SPECIAL AGENT STERLING|"I don't know if the Fu-Cang-Long paid
 you to get rid of Tan, or whether it was
 a pure vendetta killing -- but you're
 off this case.  I don't ever want to see
-you again, you got that?"|speech|SPECIAL AGENT STERLING|?
+you again, you got that?"|speech|SPECIAL AGENT STERLING|?|True
 499|CARTER|"Hey, you, Secret Service Man, what are
-you --"|speech|CARTER|M
+you --"|speech|CARTER|M|True
 500|SPECIAL AGENT STERLING|"Stay out of it, Carter.  You're going
-back to L.A."|speech|SPECIAL AGENT STERLING|?
-501|CARTER|Fine with me.|speech|CARTER|M
-502||Sterling walks away disgusted.|stage direction||
+back to L.A."|speech|SPECIAL AGENT STERLING|?|True
+501|CARTER|Fine with me.|speech|CARTER|M|True
+502||Sterling walks away disgusted.|stage direction|||
 503|SUPERINDENDENT CHIN|"I'm sorry Lee, but my orders are to
-fully cooperate with the Secret Service."|speech|SUPERINDENDENT CHIN|M
+fully cooperate with the Secret Service."|speech|SUPERINDENDENT CHIN|M|True
 504||"Lee nods a respectful but bitter acknowledgment.  Chin
 motions for two uniformed Hong Kong police officers to
-approach."|stage direction||
-505||(to police officers)|location||
-506|SUPERINDENDENT CHIN (CONT'D)|Escort Detective Carter to the airport --|speech|SUPERINDENDENT CHIN|M
-507|LEE|I'll take him.|speech|LEE|M
-508|CARTER|Hell no.|speech|CARTER|M
-509||The Hong Kong police officers produce HANDCUFFS.  Beat.|stage direction||
-510||(to Lee)|location||
+approach."|stage direction|||
+505||(to police officers)|location|||
+506|SUPERINDENDENT CHIN (CONT'D)|Escort Detective Carter to the airport --|speech|SUPERINDENDENT CHIN|M|True
+507|LEE|I'll take him.|speech|LEE|M|True
+508|CARTER|Hell no.|speech|CARTER|M|True
+509||The Hong Kong police officers produce HANDCUFFS.  Beat.|stage direction|||
+510||(to Lee)|location|||
 511|CARTER (CONT'D)|"Fine.  But don't expect me to talk to
-you."|speech|CARTER|M
-512||Carter stalks off.|stage direction||
+you."|speech|CARTER|M|True
+512||Carter stalks off.|stage direction|||
 513|LEE|"Don't push me, Carter.  I'm in no mood
-for your bullshit."|speech|LEE|M
+for your bullshit."|speech|LEE|M|True
 514||"Carter gets in Lee's face.  The two men look like they're
-about to come to blows."|stage direction||
+about to come to blows."|stage direction|||
 515|CARTER|"What are you gonna do about it,
-grasshopper?"|speech|CARTER|M
-516|LEE|I'll bitch slap you into Bangkok.|speech|LEE|M
+grasshopper?"|speech|CARTER|M|True
+516|LEE|I'll bitch slap you into Bangkok.|speech|LEE|M|True
 517|CARTER|"Give me your best shot, you flat assed
-mama's boy."|speech|CARTER|M
+mama's boy."|speech|CARTER|M|True
 518|LEE|"Don't be talking about my mama.  Or my
-ass!"|speech|LEE|M
-519|CARTER|I heard your mama pulls a rickshaw.|speech|CARTER|M
-520|LEE|No.  She's a school teacher.|speech|LEE|M
-521|CARTER|You're not very good at this, are you?|speech|CARTER|M
-522|LEE|Good at what?|speech|LEE|M
-523|CARTER|Forget it.|speech|CARTER|M
-524||A long beat while Lee considers what to say.|stage direction||
+ass!"|speech|LEE|M|True
+519|CARTER|I heard your mama pulls a rickshaw.|speech|CARTER|M|True
+520|LEE|No.  She's a school teacher.|speech|LEE|M|True
+521|CARTER|You're not very good at this, are you?|speech|CARTER|M|True
+522|LEE|Good at what?|speech|LEE|M|True
+523|CARTER|Forget it.|speech|CARTER|M|True
+524||A long beat while Lee considers what to say.|stage direction|||
 525|LEE|"Five years ago, my father was Chief
 Inspector working a big international
-smuggling case."|speech|LEE|M
-526|CARTER|Ask me if I give a shit.|speech|CARTER|M
-527||Lee waits a beat, then drops the bombshell.|stage direction||
-528|LEE|Ricky Tan killed my father.|speech|LEE|M
-529||Carter is suddenly all ears, listening intently now to Lee.|stage direction||
+smuggling case."|speech|LEE|M|True
+526|CARTER|Ask me if I give a shit.|speech|CARTER|M|True
+527||Lee waits a beat, then drops the bombshell.|stage direction|||
+528|LEE|Ricky Tan killed my father.|speech|LEE|M|True
+529||Carter is suddenly all ears, listening intently now to Lee.|stage direction|||
 530|LEE (CONT'D)|"He found out his partner, Tan, had been
-working for the Triads all along."|speech|LEE|M
-531||(beat)|location||
+working for the Triads all along."|speech|LEE|M|True
+531||(beat)|location|||
 532|LEE (CONT'D)|"Before my father could prove it, he was
-killed in the line of duty."|speech|LEE|M
-533|CARTER|How the hell did Tan get away with it?|speech|CARTER|M
+killed in the line of duty."|speech|LEE|M|True
+533|CARTER|How the hell did Tan get away with it?|speech|CARTER|M|True
 534|LEE|"All the evidence against him
 disappeared, the smuggling case was
 unsolved.  Tan resigned and went over to
-the Triads openly."|speech|LEE|M
-535||(pause)|location||
+the Triads openly."|speech|LEE|M|True
+535||(pause)|location|||
 536|CARTER|"This is about your Daddy's death?  Hell,
 Lee, you know my father died on the job.
-You could have told me..."|speech|CARTER|M
-537||(realizing)|location||
+You could have told me..."|speech|CARTER|M|True
+537||(realizing)|location|||
 538|CARTER|"This is about more than all that, isn't
 it?  This is about your Daddy's last
-case, right?"|speech|CARTER|M
-539||Lee's caught, fibs badly.|stage direction||
-540|LEE|No, no, that would be crazy --|speech|LEE|M
+case, right?"|speech|CARTER|M|True
+539||Lee's caught, fibs badly.|stage direction|||
+540|LEE|No, no, that would be crazy --|speech|LEE|M|True
 541|CARTER|"You thought the ""Customs Agents get
 blown up"" and ""smuggling"" and ""Ricky
 Tan"" and you put it all together and
 came up with a five year old case.
 That's why you didn't tell me what we
-were doing..."|speech|CARTER|M
-542|LEE|I thought you'd think it was crazy.|speech|LEE|M
-543|CARTER|IT IS CRAZY!|speech|CARTER|M
-544|LEE|I know.  I know.  I am sorry.|speech|LEE|M
+were doing..."|speech|CARTER|M|True
+542|LEE|I thought you'd think it was crazy.|speech|LEE|M|True
+543|CARTER|IT IS CRAZY!|speech|CARTER|M|True
+544|LEE|I know.  I know.  I am sorry.|speech|LEE|M|True
 545||"Lee inclines his head, stiffly, turns and walks toward his
 car.  Carter watches him.  Finally he rolls his eyes and
-yells."|stage direction||
-546|CARTER|So are you getting on the plane or not?!|speech|CARTER|M
-547|LEE|What?|speech|LEE|M
+yells."|stage direction|||
+546|CARTER|So are you getting on the plane or not?!|speech|CARTER|M|True
+547|LEE|What?|speech|LEE|M|True
 548|CARTER|"Come on, we still got time to order the
 Kosher meal.  Always get the kosher
-meal, they bring it first."|speech|CARTER|M
-549|LEE|I cannot go to LA...|speech|LEE|M
+meal, they bring it first."|speech|CARTER|M|True
+549|LEE|I cannot go to LA...|speech|LEE|M|True
 550||"Carter steps close, and for a second we see the man and the
-cop beneath the attitude."|stage direction||
-551|CARTER|It sounds impossible --|speech|CARTER|M
-552|LEE|You said --|speech|LEE|M
+cop beneath the attitude."|stage direction|||
+551|CARTER|It sounds impossible --|speech|CARTER|M|True
+552|LEE|You said --|speech|LEE|M|True
 553|CARTER|"-- but if somebody gave me the chance to
 square up my father's death, I'd go to
-hell to do it."|speech|CARTER|M
-554||Carter turns, walks away without looking back.|stage direction||
+hell to do it."|speech|CARTER|M|True
+554||Carter turns, walks away without looking back.|stage direction|||
 555|CARTER (CONT'D)|"You want to figure out why they killed
-your Daddy, get on the plane."|speech|CARTER|M
-556|LEE|Why LA?|speech|LEE|M
-557||(still not turning)|location||
+your Daddy, get on the plane."|speech|CARTER|M|True
+556|LEE|Why LA?|speech|LEE|M|True
+557||(still not turning)|location|||
 558|CARTER|"I guess you're going to have to trust me
-on this one."|speech|CARTER|M
-559||INT. 747 PASSENGER COMPARTMENT|location||
+on this one."|speech|CARTER|M|True
+559||INT. 747 PASSENGER COMPARTMENT|location|||
 560||"Carter and Lee are getting comfortable among all the other
 passengers, preparing to take off.  Lee has a moment of
-doubt."|stage direction||
+doubt."|stage direction|||
 561|LEE|"I should go back.  Ricky Tan mentioned a
-boat in Hong Kong Harbor..."|speech|LEE|M
+boat in Hong Kong Harbor..."|speech|LEE|M|True
 562|CARTER|"Lee, let me introduce you to the Carter
 Theory of Criminal Investigation: Follow
-the Rich White Man."|speech|CARTER|M
-563|LEE|Follow the Rich White Man?|speech|LEE|M
+the Rich White Man."|speech|CARTER|M|True
+563|LEE|Follow the Rich White Man?|speech|LEE|M|True
 564|CARTER|"Almost, but you've got to say ""Rich
 White Man"" all run together like it's
-one word."|speech|CARTER|M
-565|LEE|Follow the RichWhiteMan...|speech|LEE|M
+one word."|speech|CARTER|M|True
+565|LEE|Follow the RichWhiteMan...|speech|LEE|M|True
 566|CARTER|"Not bad.  Now every crime, somewhere,
 has a rich white man taking his cut.
 Every single one.  Now in our case, we
-know the rich white man is Steven Reign."|speech|CARTER|M
-567|LEE|Who?|speech|LEE|M
+know the rich white man is Steven Reign."|speech|CARTER|M|True
+567|LEE|Who?|speech|LEE|M|True
 568|CARTER|"Big hotel billionaire.  He was on Ricky
 Tan's boat ordering Hu Li around just
-before Ricky got smoked."|speech|CARTER|M
-569|LEE|How do you know he's our man?|speech|LEE|M
+before Ricky got smoked."|speech|CARTER|M|True
+569|LEE|How do you know he's our man?|speech|LEE|M|True
 570|CARTER|"Because when the shooting started he was
 way too cool.  See most white people,
 when there's shooting, they either hide
 in a toilet or start screaming high
-pitched like ""Aaaahhh!!! Aaaahh!!!!"|speech|CARTER|M
-571|LEE|You sound like that all the time.|speech|LEE|M
+pitched like ""Aaaahhh!!! Aaaahh!!!!"|speech|CARTER|M|True
+571|LEE|You sound like that all the time.|speech|LEE|M|True
 572|CARTER|"Black people keep their cool when the
-shit goes down."|speech|CARTER|M
+shit goes down."|speech|CARTER|M|True
 573|LEE|"Maybe.  But not like Asians.  We never
-panic."|speech|LEE|M
+panic."|speech|LEE|M|True
 574|CARTER|"Yeah, what about when Godzilla was
 coming?  You people were screaming your
-asses off."|speech|CARTER|M
+asses off."|speech|CARTER|M|True
 575|LEE|"Just tell me where I can find this
-Steven Reign."|speech|LEE|M
+Steven Reign."|speech|LEE|M|True
 576|CARTER|"The same place you find all
-RichWhiteMen."|speech|CARTER|M
-577||(a tray arrives)|location||
+RichWhiteMen."|speech|CARTER|M|True
+577||(a tray arrives)|location|||
 578|CARTER|"Gefilte Fish.  Lox and bagel.  I love
-this stuff.  Here, try it with a smear."|speech|CARTER|M
+this stuff.  Here, try it with a smear."|speech|CARTER|M|True
 579||"BINOCULARS P.O.V. THE REIGN TOWERS HOTEL
 CUT TO REVEAL --
 Carter standing at a window holding high-powered binoculars.
-Lee standing next to him.  WE ARE:"|stage direction||
-580||INT. CHEAP HOTEL ROOM - DOWNTOWN LA - NIGHT|location||
+Lee standing next to him.  WE ARE:"|stage direction|||
+580||INT. CHEAP HOTEL ROOM - DOWNTOWN LA - NIGHT|location|||
 581||"Cartons of Chinese food are all over the sleazy, run down
 hotel room.  The LIGHTS LOW, the curtains open a crack.
 BINOCULARS P.O.V. - THE REIGN HOTEL
@@ -1188,238 +1188,238 @@ Traveling up the side of the Reign Hotel.  Stopping at the
 penthouse floor - where we see ISABELLA talking with Steven
 Reign in a hotel room.  After a BEAT, Reign walks to the
 door.
-Carter flips the binoculars to Lee, who starts watching."|stage direction||
+Carter flips the binoculars to Lee, who starts watching."|stage direction|||
 582|CARTER|"Yeah, that's definitely the woman from
 Ricky Tan's boat, and she's staying in
 his suite at his hotel, I told you this
 would work out.  They still just
-talking?"|speech|CARTER|M
-583|LEE|He just left.  Kissed her on the cheek.|speech|LEE|M
-584|CARTER|He'll be back soon.|speech|CARTER|M
-585|LEE|How do you know?|speech|LEE|M
+talking?"|speech|CARTER|M|True
+583|LEE|He just left.  Kissed her on the cheek.|speech|LEE|M|True
+584|CARTER|He'll be back soon.|speech|CARTER|M|True
+585|LEE|How do you know?|speech|LEE|M|True
 586|CARTER|"Look at her.  Now, wake me in an hour,
-I'll take over."|speech|CARTER|M
+I'll take over."|speech|CARTER|M|True
 587||"Lee lowers the binoculars, turns to Carter, who is trying to
-sleep on the bed."|stage direction||
+sleep on the bed."|stage direction|||
 588|LEE|"Carter, there's something I have to tell
 you.  You were right about what you said
 in Hong Kong.  All I do is work.  Never
 take a day off.  It's all I have right
-now."|speech|LEE|M
-589|CARTER|Hey, I didn't mean to call you pathetic.|speech|CARTER|M
+now."|speech|LEE|M|True
+589|CARTER|Hey, I didn't mean to call you pathetic.|speech|CARTER|M|True
 590|LEE|"The truth is, I haven't had any mu-shu
-in six months."|speech|LEE|M
-591|CARTER|You pull a muscle or something?|speech|CARTER|M
+in six months."|speech|LEE|M|True
+591|CARTER|You pull a muscle or something?|speech|CARTER|M|True
 592|LEE|"My fiancee left me over the summer -- a
-month before our wedding."|speech|LEE|M
-593|CARTER|I'm sorry, Lee.  Why did she leave you?|speech|CARTER|M
-594|LEE|It's a long story.|speech|LEE|M
+month before our wedding."|speech|LEE|M|True
+593|CARTER|I'm sorry, Lee.  Why did she leave you?|speech|CARTER|M|True
+594|LEE|It's a long story.|speech|LEE|M|True
 595|CARTER|"Let me guess, she couldn't handle the
 cop thing -- never knowing if you were
 dead or alive.  I've seen it a million
-times."|speech|CARTER|M
-596|LEE|No.  It was my singing.|speech|LEE|M
-597|CARTER|Excuse me?|speech|CARTER|M
+times."|speech|CARTER|M|True
+596|LEE|No.  It was my singing.|speech|LEE|M|True
+597|CARTER|Excuse me?|speech|CARTER|M|True
 598|LEE|"She hated my voice.  Said it drove her
 crazy.  I sang to her all the time - in
 bed - in the shower - I thought she
 liked it.  She finally told me it was
-driving her crazy."|speech|LEE|M
-599||Carter stares at Lee for a long BEAT.|stage direction||
+driving her crazy."|speech|LEE|M|True
+599||Carter stares at Lee for a long BEAT.|stage direction|||
 600|CARTER|"Lee, maybe it's best if we don't discuss
-our personal lives.  Let's die curious."|speech|CARTER|M
-601||LEE LIFTS THE BINOCULARS - turns back to the building.|stage direction||
-602|CARTER (CONT'D)|What's she doing?|speech|CARTER|M
+our personal lives.  Let's die curious."|speech|CARTER|M|True
+601||LEE LIFTS THE BINOCULARS - turns back to the building.|stage direction|||
+602|CARTER (CONT'D)|What's she doing?|speech|CARTER|M|True
 603||"BINOCULARS P.O.V. - ON ISABELLA
 She walks to the bedroom, where we see her through SHEER
-CURTAINS.  Slowly taking off her coat."|stage direction||
-604|CARTER (CONT'D)|Lee?  You okay?|speech|CARTER|M
+CURTAINS.  Slowly taking off her coat."|stage direction|||
+604|CARTER (CONT'D)|Lee?  You okay?|speech|CARTER|M|True
 605||"Lee's eyes go wide as Isabella drops her coat and starts to
-unbutton her blouse."|stage direction||
+unbutton her blouse."|stage direction|||
 606|LEE|"She's just standing around -- not doing
-much."|speech|LEE|M
+much."|speech|LEE|M|True
 607|CARTER|"Just don't fall asleep.  Sooner or later
-something's gonna happen."|speech|CARTER|M
-608|LEE|I'll try to stay awake.  It's so boring.|speech|LEE|M
+something's gonna happen."|speech|CARTER|M|True
+608|LEE|I'll try to stay awake.  It's so boring.|speech|LEE|M|True
 609||"Isabella starts to remove her blouse.  Lee starting to sweat
-as he watches her undress."|stage direction||
-610|LEE (CONT'D)|Slow down, baby.|speech|LEE|M
-611|CARTER|What did you say?|speech|CARTER|M
-612|LEE|Nothing.  I said nothing.|speech|LEE|M
-613||Lee lowers his binoculars, steps away from the window.|stage direction||
-614|LEE (CONT'D)|Is it hot in here?|speech|LEE|M
-615|CARTER|Hot?  I'm freezing my ass off.|speech|CARTER|M
+as he watches her undress."|stage direction|||
+610|LEE (CONT'D)|Slow down, baby.|speech|LEE|M|True
+611|CARTER|What did you say?|speech|CARTER|M|True
+612|LEE|Nothing.  I said nothing.|speech|LEE|M|True
+613||Lee lowers his binoculars, steps away from the window.|stage direction|||
+614|LEE (CONT'D)|Is it hot in here?|speech|LEE|M|True
+615|CARTER|Hot?  I'm freezing my ass off.|speech|CARTER|M|True
 616|LEE|"I'm gonna go in the hall and get a
-bucket of ice.  You want some ice?"|speech|LEE|M
-617|CARTER|What's going on?|speech|CARTER|M
-618||Lee stares at Carter, looks dazed.|stage direction||
-619|LEE|She's getting undressed.|speech|LEE|M
-620|CARTER|Gimme the binoculars.|speech|CARTER|M
-621|LEE|No.  It's not right.|speech|LEE|M
+bucket of ice.  You want some ice?"|speech|LEE|M|True
+617|CARTER|What's going on?|speech|CARTER|M|True
+618||Lee stares at Carter, looks dazed.|stage direction|||
+619|LEE|She's getting undressed.|speech|LEE|M|True
+620|CARTER|Gimme the binoculars.|speech|CARTER|M|True
+621|LEE|No.  It's not right.|speech|LEE|M|True
 622|CARTER|"Gimme the binoculars or I will shoot
-you."|speech|CARTER|M
+you."|speech|CARTER|M|True
 623||"Lee hands Carter the binoculars, then turns his back as
-Carter watches to the window."|stage direction||
-624|LEE|What's she doing?|speech|LEE|M
-625|CARTER|Oh, sweet glory hallelujah...|speech|CARTER|M
-626|LEE|I don't want to hear this.|speech|LEE|M
+Carter watches to the window."|stage direction|||
+624|LEE|What's she doing?|speech|LEE|M|True
+625|CARTER|Oh, sweet glory hallelujah...|speech|CARTER|M|True
+626|LEE|I don't want to hear this.|speech|LEE|M|True
 627|CARTER|"Skirt just came off.  She's in black bra
 and panties -- Victoria Secret Spring
 Catalogue, page 27 -- wait a sec -
 there's a tattoo on her left thigh... it
-looks like Snoopy."|speech|CARTER|M
-628|LEE|Snoopy?  I love Snoopy.|speech|LEE|M
+looks like Snoopy."|speech|CARTER|M|True
+628|LEE|Snoopy?  I love Snoopy.|speech|LEE|M|True
 629|CARTER|"She just took her hair down.  Now she's
 going for the bra -- the clasp is in
-front -- she's using both hands."|speech|CARTER|M
-630||(to Lee)|location||
-631|CARTER|You better get that ice.|speech|CARTER|M
-632||Lee steps in front of Carter, blocking his view.|stage direction||
+front -- she's using both hands."|speech|CARTER|M|True
+630||(to Lee)|location|||
+631|CARTER|You better get that ice.|speech|CARTER|M|True
+632||Lee steps in front of Carter, blocking his view.|stage direction|||
 633|LEE|"That's enough.  We shouldn't be doing
-this!"|speech|LEE|M
+this!"|speech|LEE|M|True
 634||"Isabella suddenly drops undressing and walks back to the
 living room to pick up the PHONE.  We see her clearly now in
-bra and panties."|stage direction||
+bra and panties."|stage direction|||
 635|CARTER|"This is our job.  We took an oath as
 police officers.  If we don't do this,
-who will?  Firemen?"|speech|CARTER|M
+who will?  Firemen?"|speech|CARTER|M|True
 636||"Lee backs off, and Carter steps back to the window.  He sees
-Isabella hang up the phone."|stage direction||
+Isabella hang up the phone."|stage direction|||
 637|CARTER (CONT'D)|"Wait a sec - what the hell is that
-between her legs?"|speech|CARTER|M
-638|LEE|What?|speech|LEE|M
+between her legs?"|speech|CARTER|M|True
+638|LEE|What?|speech|LEE|M|True
 639|CARTER|"She's reaching into her panties --
 something is strapped to her leg.  Oh,
-God...please don't let it be a dick."|speech|CARTER|M
-640|LEE|What is it?|speech|LEE|M
+God...please don't let it be a dick."|speech|CARTER|M|True
+640|LEE|What is it?|speech|LEE|M|True
 641|CARTER|"No, I don't believe this shit -- it's a
-microphone.  Lee, she's wired..."|speech|CARTER|M
+microphone.  Lee, she's wired..."|speech|CARTER|M|True
 642||"CLOSE ON ISABELLA
 As she turns to the window.  A TAPE RECORDER in hand.  She
 puts the recording device away, walks back into the bedroom
-and puts on a robe."|stage direction||
-643|LEE|I don't understand?|speech|LEE|M
-644|CARTER|She's walking back towards the door.|speech|CARTER|M
+and puts on a robe."|stage direction|||
+643|LEE|I don't understand?|speech|LEE|M|True
+644|CARTER|She's walking back towards the door.|speech|CARTER|M|True
 645||"BINOCULARS P.O.V.
 We see Isabella wearing a robe - standing at the door of her
-hotel room talking with someone."|stage direction||
+hotel room talking with someone."|stage direction|||
 646|CARTER (CONT'D)|"She opened the door.  Someone is
-delivering a package."|speech|CARTER|M
+delivering a package."|speech|CARTER|M|True
 647||"BINOCULARS P.O.V.
-Inside the hotel room WE SEE HU LI handing her a package."|stage direction||
+Inside the hotel room WE SEE HU LI handing her a package."|stage direction|||
 648|CARTER (CONT'D)|"Lee...it's the girl who delivered the
-package to your office.  It's a bomb!"|speech|CARTER|M
-649||Lee and Carter bolt on the move - sprinting out of the room.|stage direction||
-650||INT. REIGN TOWERS HOTEL - PENTHOUSE SUITE - NIGHT|location||
+package to your office.  It's a bomb!"|speech|CARTER|M|True
+649||Lee and Carter bolt on the move - sprinting out of the room.|stage direction|||
+650||INT. REIGN TOWERS HOTEL - PENTHOUSE SUITE - NIGHT|location|||
 651||"Isabella closes the door.  She BRINGS THE BOMB WITH HER as
-she walks into the bedroom --"|stage direction||
-652||EXT. REIGN TOWERS HOTEL - CONTINUOUS|location||
+she walks into the bedroom --"|stage direction|||
+652||EXT. REIGN TOWERS HOTEL - CONTINUOUS|location|||
 653||"Carter and Lee run across the street, heading towards the
-entrance of the hotel."|stage direction||
-654||INT. REIGN TOWERS HOTEL - HALLWAY - CONTINUOUS|location||
+entrance of the hotel."|stage direction|||
+654||INT. REIGN TOWERS HOTEL - HALLWAY - CONTINUOUS|location|||
 655||"Lee and Carter sprint out the Penthouse Elevators, running
-down the hallway."|stage direction||
-656||INT. REIGN TOWERS HOTEL - PENTHOUSE SUITE - CONTINUOUS|location||
+down the hallway."|stage direction|||
+656||INT. REIGN TOWERS HOTEL - PENTHOUSE SUITE - CONTINUOUS|location|||
 657||"Isabella takes her robe off, glances at the package, picks it
 up and starts to open it as Lee and Carter come BURSTING
-THROUGH the BEDROOM DOOR."|stage direction||
-658|LEE/CARTER|NO!|speech|LEE/CARTER|?
+THROUGH the BEDROOM DOOR."|stage direction|||
+658|LEE/CARTER|NO!|speech|LEE/CARTER|?|
 659||"Carter and Lee stare at Isabella, who stands in bra and
-panties."|stage direction||
-660|CARTER|Damn girl, you fine.|speech|CARTER|M
+panties."|stage direction|||
+660|CARTER|Damn girl, you fine.|speech|CARTER|M|True
 661||"Lee lowers his eyes as Isabella looks at him, grabbing the
-BOMB, Carter following him as they sprint out the bedroom."|stage direction||
-662||INT. REIGN TOWERS HOTEL - CONTINUOUS|location||
+BOMB, Carter following him as they sprint out the bedroom."|stage direction|||
+662||INT. REIGN TOWERS HOTEL - CONTINUOUS|location|||
 663||"Lee and Carter run out the suite - Lee throwing the BOMB
 toward the END OF THE HALL as he and Carter dive to the
 floor.
 Nothing happens.
 Lee looks up, SEES a HOTEL EMPLOYEE pushing a room service
-CART, about to walk right past the package --"|stage direction||
-664|LEE|GET DOWN!!|speech|LEE|M
-665||Lee and Carter run back to the bomb.|stage direction||
-666|CARTER|Pick it up!|speech|CARTER|M
-667|LEE|It's your turn!|speech|LEE|M
-668|CARTER|I don't need a turn!|speech|CARTER|M
+CART, about to walk right past the package --"|stage direction|||
+664|LEE|GET DOWN!!|speech|LEE|M|True
+665||Lee and Carter run back to the bomb.|stage direction|||
+666|CARTER|Pick it up!|speech|CARTER|M|True
+667|LEE|It's your turn!|speech|LEE|M|True
+668|CARTER|I don't need a turn!|speech|CARTER|M|True
 669||"Carter picks it up, starts running with it through the hall,
-heading for the elevator."|stage direction||
-670|LEE|Throw it!|speech|LEE|M
+heading for the elevator."|stage direction|||
+670|LEE|Throw it!|speech|LEE|M|True
 671||"Carter is about to throw it in, when HE SEES AN OLDER COUPLE
-STANDING INSIDE."|stage direction||
-672|HOTEL GUESTS|Do you want us to hold the elevator?|speech|HOTEL GUESTS|?
-673|CARTER|Get the hell away from here!|speech|CARTER|M
+STANDING INSIDE."|stage direction|||
+672|HOTEL GUESTS|Do you want us to hold the elevator?|speech|HOTEL GUESTS|?|
+673|CARTER|Get the hell away from here!|speech|CARTER|M|True
 674||"Carter is still holding the bomb, doesn't know what to do
-with it --"|stage direction||
-675|LEE|Stairs!|speech|LEE|M
-676||Carter throws him the bomb, and Lee runs to the stairs --|stage direction||
-677||INT. STAIRWELL - NIGHT|location||
+with it --"|stage direction|||
+675|LEE|Stairs!|speech|LEE|M|True
+676||Carter throws him the bomb, and Lee runs to the stairs --|stage direction|||
+677||INT. STAIRWELL - NIGHT|location|||
 678||"Lee is about to throw the bomb down the stairwell -- when he
-sees TWO MAIDS WALKING toward him."|stage direction||
-679|CARTER|Get out of the building!|speech|CARTER|M
+sees TWO MAIDS WALKING toward him."|stage direction|||
+679|CARTER|Get out of the building!|speech|CARTER|M|True
 680||"Lee looks horrified as he hangs onto the package, has no
-choice but to throw it back to Carter."|stage direction||
-681|LEE|Roof!|speech|LEE|M
-682||EXT. REIGN TOWERS HOTEL - ROOF - NIGHT|location||
+choice but to throw it back to Carter."|stage direction|||
+681|LEE|Roof!|speech|LEE|M|True
+682||EXT. REIGN TOWERS HOTEL - ROOF - NIGHT|location|||
 683||"Lee and Carter burst through the roof door - Carter trying to
 hold the bomb as far away from himself as possible.
 He looks over the side for a place to dump it - the streets
-are filled with PEOPLE AND CARS."|stage direction||
-684|LEE|Wait!  There's people down there!|speech|LEE|M
-685|CARTER|There's people up here!|speech|CARTER|M
-686|LEE|Get it out of here!|speech|LEE|M
-687|CARTER|Take it!|speech|CARTER|M
+are filled with PEOPLE AND CARS."|stage direction|||
+684|LEE|Wait!  There's people down there!|speech|LEE|M|True
+685|CARTER|There's people up here!|speech|CARTER|M|True
+686|LEE|Get it out of here!|speech|LEE|M|True
+687|CARTER|Take it!|speech|CARTER|M|True
 688||"Lee takes the bomb, quickly ROLLS IT across the roof -- Lee
 and Carter diving to the ground once again as the bomb slides
 to the center of the roof - COMING TO A STOP RIGHT IN FRONT
 OF ISABELLA.  She's wearing a bathrobe now, clearly pissed
-off as she slowly bends down and picks up the package."|stage direction||
-689|ISABELLA|Get on your feet.|speech|ISABELLA|F
+off as she slowly bends down and picks up the package."|stage direction|||
+689|ISABELLA|Get on your feet.|speech|ISABELLA|F|True
 690||"Lee and Carter stand and face Isabella - watch as Isabella
-begins to open the package."|stage direction||
-691|CARTER|I wouldn't do that!!!|speech|CARTER|M
-692|LEE|It's a bomb.|speech|LEE|M
+begins to open the package."|stage direction|||
+691|CARTER|I wouldn't do that!!!|speech|CARTER|M|True
+692|LEE|It's a bomb.|speech|LEE|M|True
 693||"Isabella opens the package, removing a stack of a HUNDRED
-DOLLAR BILLS."|stage direction||
+DOLLAR BILLS."|stage direction|||
 694|ISABELLA|"You see, no bomb.  Now stay away before
 I throw you both in jail for
-obstruction."|speech|ISABELLA|F
+obstruction."|speech|ISABELLA|F|True
 695|CARTER|"Throw us in jail?  I'm about to bust you
-right now."|speech|CARTER|M
+right now."|speech|CARTER|M|True
 696|ISABELLA|"I'm an undercover agent for the United
-States Secret Service."|speech|ISABELLA|F
+States Secret Service."|speech|ISABELLA|F|True
 697|CARTER|"How do we know you're not lying?  Let me
-see your badge."|speech|CARTER|M
+see your badge."|speech|CARTER|M|True
 698||"Isabella opens her bathrobe -- WE SEE a small BADGE pinned to
-her bra."|stage direction||
-699|CARTER (CONT'D)|Let me see it again?|speech|CARTER|M
+her bra."|stage direction|||
+699|CARTER (CONT'D)|Let me see it again?|speech|CARTER|M|True
 700|LEE|"We can help you.  I'm a detective in
-Hong Kong."|speech|LEE|M
-701|ISABELLA|I know who you are, Inspector Lee.|speech|ISABELLA|F
+Hong Kong."|speech|LEE|M|True
+701|ISABELLA|I know who you are, Inspector Lee.|speech|ISABELLA|F|True
 702|LEE|"Then you know I'm not walking away from
-this case."|speech|LEE|M
-703|CARTER|Yeah, that's right.|speech|CARTER|M
+this case."|speech|LEE|M|True
+703|CARTER|Yeah, that's right.|speech|CARTER|M|True
 704|ISABELLA|"We need to get out of sight.  Come down
-to my suite."|speech|ISABELLA|F
-705||INT. ISABELLA'S SUITE - LATER|location||
-706||(she locks the door)|location||
+to my suite."|speech|ISABELLA|F|True
+705||INT. ISABELLA'S SUITE - LATER|location|||
+706||(she locks the door)|location|||
 707|ISABELLA|"Look, I've been working this case for
-months now..."|speech|ISABELLA|F
-708|CARTER|So what's your story?|speech|CARTER|M
-709|ISABELLA|They think I'm a crooked customs agent.|speech|ISABELLA|F
+months now..."|speech|ISABELLA|F|True
+708|CARTER|So what's your story?|speech|CARTER|M|True
+709|ISABELLA|They think I'm a crooked customs agent.|speech|ISABELLA|F|True
 710||"Lee examines the stack of HUNDRED DOLLAR BILLS from Hu Li's
 package.  Carter checks out the suite, pocketing some of the
-food from the mini fridge."|stage direction||
-711|LEE|Is this a payoff?|speech|LEE|M
+food from the mini fridge."|stage direction|||
+711|LEE|Is this a payoff?|speech|LEE|M|True
 712|ISABELLA|"No.  It's a sample.  You guys ever heard
-of the Superbill?"|speech|ISABELLA|F
-713|CARTER|It's a myth.  Some kind of counterfeit.|speech|CARTER|M
+of the Superbill?"|speech|ISABELLA|F|True
+713|CARTER|It's a myth.  Some kind of counterfeit.|speech|CARTER|M|True
 714|ISABELLA|"It's much more than a counterfeit.  14
 out of 15 world banks can't tell the
 difference.  The paper is Crane linen
 blend -- and the bills are printed on
-U.S. Intaglio presses."|speech|ISABELLA|F
+U.S. Intaglio presses."|speech|ISABELLA|F|True
 715|CARTER|"How're they getting into the U.S. Mint
-to use the presses?"|speech|CARTER|M
+to use the presses?"|speech|CARTER|M|True
 716|ISABELLA|"In 1959, the United States was very
 friendly with the Shah of Iran.  We
 wanted his oil, so for the Shah's
@@ -1427,166 +1427,166 @@ birthday, the government gave him a gift
 -- a U.S. Treasury Intaglio press.  The
 only one to ever leave the country.
 Five years ago Ricky Tan bought that
-press on the black market."|speech|ISABELLA|F
-717|LEE|Five years ago?!|speech|LEE|M
-718||(beat)|location||
-719|LEE|That's right before he left the force.|speech|LEE|M
-720||Lee and Carter exchange looks.|stage direction||
+press on the black market."|speech|ISABELLA|F|True
+717|LEE|Five years ago?!|speech|LEE|M|True
+718||(beat)|location|||
+719|LEE|That's right before he left the force.|speech|LEE|M|True
+720||Lee and Carter exchange looks.|stage direction|||
 721|ISABELLA|"It wasn't hard to spot the fakes until
 this past year.  Then Tan got hold of
 one of a kind Swiss made hundred dollar
-plates -- and started making superbills."|speech|ISABELLA|F
-722||(understanding)|location||
-723|LEE|And Hu Li killed him for the plates.|speech|LEE|M
+plates -- and started making superbills."|speech|ISABELLA|F|True
+722||(understanding)|location|||
+723|LEE|And Hu Li killed him for the plates.|speech|LEE|M|True
 724|ISABELLA|"Yes.  They've printed and shipped one
 hundred million dollars, and there's
-only one way to spot a fake."|speech|ISABELLA|F
+only one way to spot a fake."|speech|ISABELLA|F|True
 725||"Isabella lights a HUNDRED DOLLAR BILL on fire, and it burns
-RED."|stage direction||
+RED."|stage direction|||
 726|ISABELLA (CONT'D)|"They use an optical transfer ink from
 India that burns red -- the real ink
-burns black."|speech|ISABELLA|F
+burns black."|speech|ISABELLA|F|True
 727|CARTER|"What the hell are they going to do with
 a hundred million dollars in funny
-money?"|speech|CARTER|M
+money?"|speech|CARTER|M|True
 728|ISABELLA|"The real question is, where are the
 plates?  If we can find the plates, we
-can stop the whole operation."|speech|ISABELLA|F
-729||Isabella thinks for a beat.|stage direction||
+can stop the whole operation."|speech|ISABELLA|F|True
+729||Isabella thinks for a beat.|stage direction|||
 730|ISABELLA (CONT'D)|"Maybe that's where you can help us.
-Carter, this is your city, right?"|speech|ISABELLA|F
-731||Carter nods.|stage direction||
-732|ISABELLA (CONT'D)|And Lee, you know Hu Li and the Triads?|speech|ISABELLA|F
-733||Lee nods.|stage direction||
+Carter, this is your city, right?"|speech|ISABELLA|F|True
+731||Carter nods.|stage direction|||
+732|ISABELLA (CONT'D)|And Lee, you know Hu Li and the Triads?|speech|ISABELLA|F|True
+733||Lee nods.|stage direction|||
 734|ISABELLA (CONT'D)|"Okay, find out where Hu Li's keeping the
-plates."|speech|ISABELLA|F
-735||(hands Lee a card with a phone|location||
+plates."|speech|ISABELLA|F|True
+735||(hands Lee a card with a phone|location|||
 736|number)|"Welcome aboard, gentlemen.  From this
 moment on, you're working for the United
-States Secret Service."|speech||
+States Secret Service."|speech|||
 737||"Isabella opens the door to let Lee and Carter out.  They exit
 quickly, trying to hide their excitement.  CAMERA STAYS on
 Isabella as she takes out her CELL PHONE, punches in a
-number."|stage direction||
-738|STERLING (O.S.)|Sterling.|speech|STERLING|F
+number."|stage direction|||
+738|STERLING (O.S.)|Sterling.|speech|STERLING|F|
 739|ISABELLA|"Lee and Carter are officially out of the
-Secret Service's way..."|speech|ISABELLA|F
-740||EXT. REIGN TOWERS HOTEL - CONTINUOUS|location||
+Secret Service's way..."|speech|ISABELLA|F|True
+740||EXT. REIGN TOWERS HOTEL - CONTINUOUS|location|||
 741||"Lee and Carter, both wearing dark sunglasses, walk through
 the street trying their best to look like Secret Service
-Agents.  They approach Carter's parked VETTE."|stage direction||
+Agents.  They approach Carter's parked VETTE."|stage direction|||
 742|CARTER|"Secret Service Agent Carter.  This is my
 calling, Lee.
 Give me six months and I'll be in
-Washington protecting a white guy."|speech|CARTER|M
+Washington protecting a white guy."|speech|CARTER|M|True
 743|LEE|"We both know you would never take a
-bullet for someone else."|speech|LEE|M
+bullet for someone else."|speech|LEE|M|True
 744|CARTER|"They don't know that.  What are they
 gonna do, try and shoot the President
 during the interview?  I'll bet Isabella
 can pull some strings.  You saw the way
-she was staring at me."|speech|CARTER|M
-745|LEE|She never even looked at you.|speech|LEE|M
+she was staring at me."|speech|CARTER|M|True
+745|LEE|She never even looked at you.|speech|LEE|M|True
 746|CARTER|"You're just jealous 'cos the girl picked
 me.  I'm tall, dark and handsome, you're
-third world ugly."|speech|CARTER|M
+third world ugly."|speech|CARTER|M|True
 747|LEE|"I am not third world ugly.  Women like
-me, they think I'm cute.  Like Snoopy."|speech|LEE|M
+me, they think I'm cute.  Like Snoopy."|speech|LEE|M|True
 748|CARTER|"Snoopy is about six inches taller than
 you.  I'm sorry, Lee, you never had a
-chance."|speech|CARTER|M
+chance."|speech|CARTER|M|True
 749||"Carter's had the last word, he gets into the Vette.  Lee
-reluctantly gets in, too."|stage direction||
-750||EXT. CRENSHAW KITCHEN - CHINESE SOUL FOOD RESTAURANT - NIGHT|location||
-751||Carter's Vette pulls up in front of a hole in the wall.|stage direction||
-752||INT. CRENSHAW KITCHEN - CONTINUOUS|location||
+reluctantly gets in, too."|stage direction|||
+750||EXT. CRENSHAW KITCHEN - CHINESE SOUL FOOD RESTAURANT - NIGHT|location|||
+751||Carter's Vette pulls up in front of a hole in the wall.|stage direction|||
+752||INT. CRENSHAW KITCHEN - CONTINUOUS|location|||
 753||"Carter and Lee pass through the restaurant, only two tables
-are occupied."|stage direction||
-754||INT. KITCHEN|location||
+are occupied."|stage direction|||
+754||INT. KITCHEN|location|||
 755||"Carter and Lee enter the busy kitchen where the OWNER, a
 BLACK MAN named KENNY, is yelling in Chinese to an over
 worked waiter.  Kenny's wife, a spectacular looking Chinese
 woman, works the stove.  A couple of cute half-black, half
-Asian kids run around the kitchen."|stage direction||
-756|CARTER|Kenny!  How you doin'?|speech|CARTER|M
-757||Kenny looks up at Carter.  A cool, appraising glance.|stage direction||
+Asian kids run around the kitchen."|stage direction|||
+756|CARTER|Kenny!  How you doin'?|speech|CARTER|M|True
+757||Kenny looks up at Carter.  A cool, appraising glance.|stage direction|||
 758|CARTER (CONT'D)|"How's the action tonight?  The house
-making out okay?"|speech|CARTER|M
-759||Kenny follows as Carter opens a door to --|stage direction||
-760||INT. BACK ROOM - CONTINUOUS|location||
+making out okay?"|speech|CARTER|M|True
+759||Kenny follows as Carter opens a door to --|stage direction|||
+760||INT. BACK ROOM - CONTINUOUS|location|||
 761||"MEN seated around several card tables, playing MAH-JONGG for
 big money.  Lee and Kenny follow Carter inside.  It's very
-smokey and very crowded."|stage direction||
-762||(to Kenny)|location||
+smokey and very crowded."|stage direction|||
+762||(to Kenny)|location|||
 763|CARTER|"This is where I say I'm LAPD in a loud
 voice, they all scream and run and shit.
-Watch.  It's real funny."|speech|CARTER|M
-764||Kenny grabs Carter's shoulder, pulling him aside.|stage direction||
-765|KENNY|Come with me.|speech|KENNY|M
-766||INT. KITCHEN - CONTINUOUS|location||
-767||Kenny leads Carter and Lee in, closes the door.|stage direction||
+Watch.  It's real funny."|speech|CARTER|M|True
+764||Kenny grabs Carter's shoulder, pulling him aside.|stage direction|||
+765|KENNY|Come with me.|speech|KENNY|M|True
+766||INT. KITCHEN - CONTINUOUS|location|||
+767||Kenny leads Carter and Lee in, closes the door.|stage direction|||
 768|KENNY|"Hear you got your ass kicked in Hong
-Kong, James."|speech|KENNY|M
-769|CARTER|What??  Where'd you hear that?|speech|CARTER|M
-770|KENNY|I got my sources.|speech|KENNY|M
+Kong, James."|speech|KENNY|M|True
+769|CARTER|What??  Where'd you hear that?|speech|CARTER|M|True
+770|KENNY|I got my sources.|speech|KENNY|M|True
 771|CARTER|"And I got mine, meaning you.  Nice how
-that works out."|speech|CARTER|M
-772||(beat)|location||
+that works out."|speech|CARTER|M|True
+772||(beat)|location|||
 773|CARTER|"I'm serious this time, I'm closing this
-place down."|speech|CARTER|M
+place down."|speech|CARTER|M|True
 774|KENNY|"James, you see my kids back there?  You
 know how much I'm paying for private
 school?  How can you come in here with
 this attitude, you being little Chang's
-godfather?"|speech|KENNY|M
+godfather?"|speech|KENNY|M|True
 775|CARTER|"Little Chang is gonna have to go visit
 his daddy in jail if you don't
-cooperate."|speech|CARTER|M
+cooperate."|speech|CARTER|M|True
 776|KENNY|"Jail!?  James, you better back off.
-Badge or no badge, I'll kick your ass."|speech|KENNY|M
-777|CARTER|I'd like to see you try.|speech|CARTER|M
+Badge or no badge, I'll kick your ass."|speech|KENNY|M|True
+777|CARTER|I'd like to see you try.|speech|CARTER|M|True
 778||"Kenny takes a step back and throws a lightning fast martial
 arts move.  Lee gets in front of Carter to protect him --
-countering Kenny's move."|stage direction||
-779||(to Lee)|location||
-780|KENNY|We're on, then.|speech|KENNY|M
+countering Kenny's move."|stage direction|||
+779||(to Lee)|location|||
+780|KENNY|We're on, then.|speech|KENNY|M|True
 781||"Kenny throws out another precision martial arts sequence --
-Lee BLOCKS -- Kenny ends in an advanced fighting stance."|stage direction||
-782||(impressed)|location||
+Lee BLOCKS -- Kenny ends in an advanced fighting stance."|stage direction|||
+782||(impressed)|location|||
 783|LEE|"That's a good Twisting Tiger -- where
-did you learn that?"|speech|LEE|M
-784||They switch to Chinese.|stage direction||
-785|KENNY|Master Ching taught me.|speech|KENNY|M
-786|LEE|The Praying Mantis school, in Bejing?|speech|LEE|M
-787|KENNY|No.  Freddy Ching's, in Crenshaw.|speech|KENNY|M
-788||Lee smiles, Carter looks back and forth from Lee to Kenny.|stage direction||
+did you learn that?"|speech|LEE|M|True
+784||They switch to Chinese.|stage direction|||
+785|KENNY|Master Ching taught me.|speech|KENNY|M|True
+786|LEE|The Praying Mantis school, in Bejing?|speech|LEE|M|True
+787|KENNY|No.  Freddy Ching's, in Crenshaw.|speech|KENNY|M|True
+788||Lee smiles, Carter looks back and forth from Lee to Kenny.|stage direction|||
 789|KENNY (CONT'D)|"What are you doing hanging out with Baby
-Duck?"|speech|KENNY|M
-790|LEE|Baby Duck?|speech|LEE|M
+Duck?"|speech|KENNY|M|True
+790|LEE|Baby Duck?|speech|LEE|M|True
 791|KENNY|"That's what we all used to call him when
 he was a kid -- cause he was always
-quacking.  Never shut up."|speech|KENNY|M
-792|CARTER|I heard that.|speech|CARTER|M
-793||Lee and Kenny laugh.|stage direction||
+quacking.  Never shut up."|speech|KENNY|M|True
+792|CARTER|I heard that.|speech|CARTER|M|True
+793||Lee and Kenny laugh.|stage direction|||
 794|CARTER (CONT'D)|"Look, I need some info and I don't have
-time to play around."|speech|CARTER|M
-795|KENNY|Is this about the funny money?|speech|KENNY|M
-796|CARTER|How'd you know?|speech|CARTER|M
+time to play around."|speech|CARTER|M|True
+795|KENNY|Is this about the funny money?|speech|KENNY|M|True
+796|CARTER|How'd you know?|speech|CARTER|M|True
 797|KENNY|"You've been asking loud questions in all
 the wrong places all morning.  How come
 you always save me for last, James?
 When are you gonna learn.  Shit don't
-happen I don't know about."|speech|KENNY|M
-798|CARTER|So tell me what you know.|speech|CARTER|M
+happen I don't know about."|speech|KENNY|M|True
+798|CARTER|So tell me what you know.|speech|CARTER|M|True
 799|KENNY|"I know Teddy Wu is cranking out a pretty
 good double sawbuck -- but you knew that
-too, didn't you?"|speech|KENNY|M
+too, didn't you?"|speech|KENNY|M|True
 800|CARTER|"Yeah.  We already been there.  This is
 big, Kenny.  Benjamins.  Secret Service
 calls 'em superbills.  Banks can't even
-tell the difference."|speech|CARTER|M
-801||Kenny considers this for a moment.|stage direction||
-802|CARTER (CONT'D)|What?|speech|CARTER|M
+tell the difference."|speech|CARTER|M|True
+801||Kenny considers this for a moment.|stage direction|||
+802|CARTER (CONT'D)|What?|speech|CARTER|M|True
 803|KENNY|"One of my regulars lost fifty thousand
 dollars at the table here last week.  I
 was about to send my boys down to tune
@@ -1599,41 +1599,41 @@ job, no way he comes up with fifty grand
 in cash.
 But I tested the bills, infrared.  The
 whole thing.  And they checked out.
-100%."|speech|KENNY|M
-804|LEE|Do you still have the bills?|speech|LEE|M
+100%."|speech|KENNY|M|True
+804|LEE|Do you still have the bills?|speech|LEE|M|True
 805|KENNY|"I still have my lunch money from third
-grade."|speech|KENNY|M
-806|CARTER|Lemme see 'em.|speech|CARTER|M
+grade."|speech|KENNY|M|True
+806|CARTER|Lemme see 'em.|speech|CARTER|M|True
 807||"Kenny pushes a Chinese painting aside to reveal a WALL SAFE.
 He opens the safe and hands Carter a $100 bill.  Carter
-checks it out."|stage direction||
-808|KENNY|See.  It's perfect.|speech|KENNY|M
-809||Carter takes out a LIGHTER and holds the flame to it.|stage direction||
-810|KENNY (CONT'D)|Whoa, what are you doing?|speech|KENNY|M
-811||Kenny's question is answered as the BILL BURNS BRIGHT RED.|stage direction||
-812||(pissed off)|location||
+checks it out."|stage direction|||
+808|KENNY|See.  It's perfect.|speech|KENNY|M|True
+809||Carter takes out a LIGHTER and holds the flame to it.|stage direction|||
+810|KENNY (CONT'D)|Whoa, what are you doing?|speech|KENNY|M|True
+811||Kenny's question is answered as the BILL BURNS BRIGHT RED.|stage direction|||
+812||(pissed off)|location|||
 813|KENNY (CONT'D)|"I knew it.  The guy's name is Zing.  He
-works at the kitchen at Reign Plaza."|speech|KENNY|M
+works at the kitchen at Reign Plaza."|speech|KENNY|M|True
 814|CARTER|"All right, Kenny.  Thanks.  You're off
-the hook.  For now."|speech|CARTER|M
-815||Carter and Lee move for the door.|stage direction||
+the hook.  For now."|speech|CARTER|M|True
+815||Carter and Lee move for the door.|stage direction|||
 816|KENNY|"You sure you guys don't want to stay and
 have a bite?  My wife's got the best mu
-shu this side of Compton."|speech|KENNY|M
-817||Carter and Lee exchange a look as we CUT TO:|stage direction||
-818||EXT. REIGN PLAZA - DAY|location||
-819||Establishing.  Carter and Lee park their car and walk inside.|stage direction||
-820||EXT. REIGN SHIPPING ROOM - CONTINUOUS|location||
-821||Carter and Lee enter.|stage direction||
-822||(to a worker)|location||
+shu this side of Compton."|speech|KENNY|M|True
+817||Carter and Lee exchange a look as we CUT TO:|stage direction|||
+818||EXT. REIGN PLAZA - DAY|location|||
+819||Establishing.  Carter and Lee park their car and walk inside.|stage direction|||
+820||EXT. REIGN SHIPPING ROOM - CONTINUOUS|location|||
+821||Carter and Lee enter.|stage direction|||
+822||(to a worker)|location|||
 823|CARTER|"We're looking for a guy named Zing.  Is
-he here?"|speech|CARTER|M
+he here?"|speech|CARTER|M|True
 824||"Zing hears Carter, turns and sees them.  Then RUNS.  Carter
-and Lee exchange looks and run after him."|stage direction||
-825||INT. HALLWAY - CONTINUOUS|location||
+and Lee exchange looks and run after him."|stage direction|||
+825||INT. HALLWAY - CONTINUOUS|location|||
 826||"Zing sprints down an employee hallway, through a doorway and
-down some stairs.  Carter and Lee in pursuit."|stage direction||
-827||EXT. LOADING DOCK PLATFORM - REIGN PLAZA - CONTINUOUS|location||
+down some stairs.  Carter and Lee in pursuit."|stage direction|||
+827||EXT. LOADING DOCK PLATFORM - REIGN PLAZA - CONTINUOUS|location|||
 828||"Carter and Lee burst out the door at the bottom of the
 stairway -- coming almost face to face with --
 HU LI
@@ -1644,186 +1644,186 @@ parked beside it.
 Lee and Carter both assume fighting positions.  When most of
 the other WORKERS pull guns; other TRIAD SOLDIERS step out,
 putting their guns close on Lee and Carter.  They can't blink
-without getting mowed down."|stage direction||
-829||(in Chinese)|location||
+without getting mowed down."|stage direction|||
+829||(in Chinese)|location|||
 830|HU LI|"The great Chief Inspector Lee -- I will
 be remembered for ridding the Triads of
-your petulance."|speech|HU LI|F
-831||Hu Li savors the moment.|stage direction||
+your petulance."|speech|HU LI|F|True
+831||Hu Li savors the moment.|stage direction|||
 832|CARTER|"I hope you just said I have no business
-being here, 'cos I was just leaving."|speech|CARTER|M
+being here, 'cos I was just leaving."|speech|CARTER|M|True
 833||"Carter starts to leave, and Hu Li trains her gun on him,
 freezing him in his tracks.  Isabella slowly walks several
-feet, ending up behind Lee as she speaks."|stage direction||
+feet, ending up behind Lee as she speaks."|stage direction|||
 834|ISABELLA|"Hu Li, I think there's someone who will
-want to talk to them first."|speech|ISABELLA|F
+want to talk to them first."|speech|ISABELLA|F|True
 835||"Hu Li looks at Isabella, nods an acknowledgement.  BANG!  Lee
 falls.  Isabella's knocked him out from behind with the butt
 of her gun.
 BANG!  Carter drops to one knee as Hu Li POUNDS him across
-the jaw with her fist."|stage direction||
+the jaw with her fist."|stage direction|||
 836|CARTER|"...oh, that's a filling right there.
-That's gonna cost you."|speech|CARTER|M
-837||Hu Li lunges forward and KICKS Carter, sending him backwards.|stage direction||
-838|HU LI|Put them in the truck.|speech|HU LI|F
-839||The WORKERS pick up Lee, bring him to the back of the truck.|stage direction||
+That's gonna cost you."|speech|CARTER|M|True
+837||Hu Li lunges forward and KICKS Carter, sending him backwards.|stage direction|||
+838|HU LI|Put them in the truck.|speech|HU LI|F|True
+839||The WORKERS pick up Lee, bring him to the back of the truck.|stage direction|||
 840|CARTER|"I should kill you right now, but I'm
 gonna let you live, 'cause you're fine,
-and maybe you can be reformed."|speech|CARTER|M
-841||The WORKERS start towards Carter.  He holds up his hands.|stage direction||
+and maybe you can be reformed."|speech|CARTER|M|True
+841||The WORKERS start towards Carter.  He holds up his hands.|stage direction|||
 842|CARTER (CONT'D)|"No more hitting.  I'll get in the truck
-myself."|speech|CARTER|M
+myself."|speech|CARTER|M|True
 843||"As Carter walks towards the truck by Hu Li, they exchange a
 look of sheer hatred.  As soon as he passes by her, Hu Li
-COLDCOCKS Carter with her gun."|stage direction||
-844||EXT. LOADING DOCK PLATFORM - DAY|location||
+COLDCOCKS Carter with her gun."|stage direction|||
+844||EXT. LOADING DOCK PLATFORM - DAY|location|||
 845||"The eighteen wheeler, the limo and the black Lincoln Town car
-pull out of the loading dock, headed for the highway."|stage direction||
-846||EXT. EIGHTEEN WHEELER - DAY|location||
-847||The truck pulls onto a HIGHWAY, the LIMO close behind it.|stage direction||
-848||INT. EIGHTEEN WHEELER - TRUCK BED - DAY|location||
+pull out of the loading dock, headed for the highway."|stage direction|||
+846||EXT. EIGHTEEN WHEELER - DAY|location|||
+847||The truck pulls onto a HIGHWAY, the LIMO close behind it.|stage direction|||
+848||INT. EIGHTEEN WHEELER - TRUCK BED - DAY|location|||
 849||"LEE and CARTER are in the back with crates filled with MONEY.
 They're both in pain, trying to recover from the head blows.
-Carter is flexing his battered body."|stage direction||
-850|LEE|Are you okay?|speech|LEE|M
+Carter is flexing his battered body."|stage direction|||
+850|LEE|Are you okay?|speech|LEE|M|True
 851|CARTER|"What's the first thing I told you --
 never trust nobody.  How could you fall
-for that shit?  I knew she was dirty."|speech|CARTER|M
-852|LEE|She saved our lives.|speech|LEE|M
+for that shit?  I knew she was dirty."|speech|CARTER|M|True
+852|LEE|She saved our lives.|speech|LEE|M|True
 853|CARTER|"For how long?  Face it, Lee, she's
-playing both sides."|speech|CARTER|M
-854||Lee looks disappointed.|stage direction||
+playing both sides."|speech|CARTER|M|True
+854||Lee looks disappointed.|stage direction|||
 855|CARTER (CONT'D)|"Look, man I'm sorry.  I know you got a
-thing for her."|speech|CARTER|M
-856|LEE|Shhh, my head hurts.|speech|LEE|M
+thing for her."|speech|CARTER|M|True
+856|LEE|Shhh, my head hurts.|speech|LEE|M|True
 857|CARTER|"I'm about to be killed and you ""Shhh""
 me!  This wasn't my case, Lee.  Ricky
 Tan didn't kill my father, the Fu-Cang
 Long are not in South Central.  I didn't
-have to help you."|speech|CARTER|M
-858|LEE|Why did you help me?|speech|LEE|M
-859|CARTER|It doesn't matter.|speech|CARTER|M
-860||Lee thinks about this for a BEAT.|stage direction||
-861|LEE|I'm not used to having a partner.|speech|LEE|M
+have to help you."|speech|CARTER|M|True
+858|LEE|Why did you help me?|speech|LEE|M|True
+859|CARTER|It doesn't matter.|speech|CARTER|M|True
+860||Lee thinks about this for a BEAT.|stage direction|||
+861|LEE|I'm not used to having a partner.|speech|LEE|M|True
 862|CARTER|"We are not partners.  Between your
 daddy, my daddy, and the beating I just
 took, as far as I can tell all partners
-get you is dead."|speech|CARTER|M
-863|LEE|Well we're not friends.|speech|LEE|M
+get you is dead."|speech|CARTER|M|True
+863|LEE|Well we're not friends.|speech|LEE|M|True
 864|CARTER|"You got that right.  And we ain't
 brothers.  Maybe we should just end this
-right here."|speech|CARTER|M
-865|LEE|Fine with me.|speech|LEE|M
+right here."|speech|CARTER|M|True
+865|LEE|Fine with me.|speech|LEE|M|True
 866|CARTER|"I won't talk to you, you don't talk to
-me.  We'll die in peace."|speech|CARTER|M
-867|LEE|See you in the next world.|speech|LEE|M
-868||A BEAT OF SILENCE|stage direction||
+me.  We'll die in peace."|speech|CARTER|M|True
+867|LEE|See you in the next world.|speech|LEE|M|True
+868||A BEAT OF SILENCE|stage direction|||
 869|CARTER|"I don't believe in reincarnation.  So I
-won't see you in the next world."|speech|CARTER|M
-870|LEE|Fine.|speech|LEE|M
+won't see you in the next world."|speech|CARTER|M|True
+870|LEE|Fine.|speech|LEE|M|True
 871|CARTER|"I believe in heaven.  You people believe
-in heaven?"|speech|CARTER|M
-872|LEE|Yes.  We have heaven.|speech|LEE|M
+in heaven?"|speech|CARTER|M|True
+872|LEE|Yes.  We have heaven.|speech|LEE|M|True
 873|CARTER|"Is it the same heaven, or is it a
-Chinese heaven?"|speech|CARTER|M
-874|LEE|What's a Chinese heaven?|speech|LEE|M
+Chinese heaven?"|speech|CARTER|M|True
+874|LEE|What's a Chinese heaven?|speech|LEE|M|True
 875|CARTER|"I thought it might be like those five
 foot and under basketball leagues.  They
-don't let everybody in."|speech|CARTER|M
-876|LEE|I think we should stop talking.|speech|LEE|M
-877|CARTER|Fine by me.|speech|CARTER|M
-878||ANOTHER BEAT OF SILENCE|stage direction||
+don't let everybody in."|speech|CARTER|M|True
+876|LEE|I think we should stop talking.|speech|LEE|M|True
+877|CARTER|Fine by me.|speech|CARTER|M|True
+878||ANOTHER BEAT OF SILENCE|stage direction|||
 879|CARTER (CONT'D)|"You thinking about that girl that dumped
-you?"|speech|CARTER|M
-880|LEE|No.|speech|LEE|M
+you?"|speech|CARTER|M|True
+880|LEE|No.|speech|LEE|M|True
 881|CARTER|"If she was the right girl, you'd be
-thinking about her."|speech|CARTER|M
-882|LEE|Mind your own business.|speech|LEE|M
-883|CARTER|How was the sex?|speech|CARTER|M
+thinking about her."|speech|CARTER|M|True
+882|LEE|Mind your own business.|speech|LEE|M|True
+883|CARTER|How was the sex?|speech|CARTER|M|True
 884|LEE|"There was no sex.  She was very
 traditional.  We were waiting until we
-were married."|speech|LEE|M
+were married."|speech|LEE|M|True
 885|CARTER|"You're kidding.  No sex?  Nothing?  No
-mu-shu?"|speech|CARTER|M
-886|LEE|No mu-shu.|speech|LEE|M
-887|CARTER|What about a little king pao chicken?|speech|CARTER|M
-888|LEE|No kung pao chicken.  Never.|speech|LEE|M
-889|CARTER|Steamed dumplings?|speech|CARTER|M
+mu-shu?"|speech|CARTER|M|True
+886|LEE|No mu-shu.|speech|LEE|M|True
+887|CARTER|What about a little king pao chicken?|speech|CARTER|M|True
+888|LEE|No kung pao chicken.  Never.|speech|LEE|M|True
+889|CARTER|Steamed dumplings?|speech|CARTER|M|True
 890|LEE|"Once in a while, steamed dumplings.  But
-only when she was drunk."|speech|LEE|M
+only when she was drunk."|speech|LEE|M|True
 891|CARTER|"That's rough, man.  If I don't get
 steamed dumplings once a week, I go
-crazy."|speech|CARTER|M
+crazy."|speech|CARTER|M|True
 892|LEE|"Tell me the truth, Carter.  Do you think
-I have a good voice?"|speech|LEE|M
-893|CARTER|Are you serious?|speech|CARTER|M
-894|LEE|Forget it.  It doesn't matter.|speech|LEE|M
-895||Lee turns away from Carter.|stage direction||
+I have a good voice?"|speech|LEE|M|True
+893|CARTER|Are you serious?|speech|CARTER|M|True
+894|LEE|Forget it.  It doesn't matter.|speech|LEE|M|True
+895||Lee turns away from Carter.|stage direction|||
 896|CARTER|"As long as you're asking...I think you
-have a pretty good voice."|speech|CARTER|M
+have a pretty good voice."|speech|CARTER|M|True
 897|LEE|"I knew it.  What does she know.  You
-want me to sing something?"|speech|LEE|M
+want me to sing something?"|speech|LEE|M|True
 898|CARTER|"That depends.  How do the Fu-Cang-Long
-usually kill their victims?"|speech|CARTER|M
+usually kill their victims?"|speech|CARTER|M|True
 899|LEE|"They'll probably torture us first, shock
 our privates, then put two bullets in
 our eyes and one in the back of the
-head."|speech|LEE|M
-900|CARTER|Go ahead.  Sing your ass off.|speech|CARTER|M
-901||Lee clears his voice.|stage direction||
+head."|speech|LEE|M|True
+900|CARTER|Go ahead.  Sing your ass off.|speech|CARTER|M|True
+901||Lee clears his voice.|stage direction|||
 902|LEE|"Did you happen to see the most beautiful
 girl in the world...and if you did, was
-she crying, crying...hey!"|speech|LEE|M
-903||EXT. DESERT HIGHWAY - DAY|location||
-904||The 18-WHEELER drives by followed by the LIMO.|stage direction||
-905||INT. LIMOUSINE - DAY|location||
+she crying, crying...hey!"|speech|LEE|M|True
+903||EXT. DESERT HIGHWAY - DAY|location|||
+904||The 18-WHEELER drives by followed by the LIMO.|stage direction|||
+905||INT. LIMOUSINE - DAY|location|||
 906||"Hu Li and Isabella sit in the back of one of the limos that
-is driving behind the truck.  Hu Li is on the car phone."|stage direction||
+is driving behind the truck.  Hu Li is on the car phone."|stage direction|||
 907|HU LI|"Don't worry, the plates are safe.  Yes,
-the dragon's been fed."|speech|HU LI|F
+the dragon's been fed."|speech|HU LI|F|True
 908||"She HANGS UP and glances at Isabella, who is doing her best
-to appear completely uninterested."|stage direction||
-909||EXT. HIGHWAY - DAY|location||
-910||The LIMO splits off from the 18-WHEELER.|stage direction||
-911||INT. 18-WHEELER - TRUCK BED - CONTINUOUS|location||
+to appear completely uninterested."|stage direction|||
+909||EXT. HIGHWAY - DAY|location|||
+910||The LIMO splits off from the 18-WHEELER.|stage direction|||
+911||INT. 18-WHEELER - TRUCK BED - CONTINUOUS|location|||
 912||"Carter works at opening one of the crates.  Lee steps up,
 takes a deep breath, searches the crate looking for the sweet
 spot, and PUNCHES a hole in one of the thick boards.  They
-start prying the crate open."|stage direction||
-913|CARTER|Very nice.|speech|CARTER|M
+start prying the crate open."|stage direction|||
+913|CARTER|Very nice.|speech|CARTER|M|True
 914|LEE|"It's focus.  Every opponent has a weak
 spot.  You ignore everything around you,
 and put all your energy into one perfect
-strike."|speech|LEE|M
+strike."|speech|LEE|M|True
 915|CARTER|"I'll remember that next time I'm
-fighting a box."|speech|CARTER|M
+fighting a box."|speech|CARTER|M|True
 916||"Carter opens the crate -- it's filled with SUPERBILLS, about
-$1,000,000 worth.  He tosses a stack to Lee."|stage direction||
-917|CARTER (CONT'D)|Hello, Benjamin.|speech|CARTER|M
-918|LEE|Who's Benjamin?|speech|LEE|M
+$1,000,000 worth.  He tosses a stack to Lee."|stage direction|||
+917|CARTER (CONT'D)|Hello, Benjamin.|speech|CARTER|M|True
+918|LEE|Who's Benjamin?|speech|LEE|M|True
 919|CARTER|"Benjamin Franklin, he discovered
-electricity."|speech|CARTER|M
-920|LEE|A Chinese man discovered electricity.|speech|LEE|M
-921|CARTER|No Chinese man discovered electricity.|speech|CARTER|M
+electricity."|speech|CARTER|M|True
+920|LEE|A Chinese man discovered electricity.|speech|LEE|M|True
+921|CARTER|No Chinese man discovered electricity.|speech|CARTER|M|True
 922|LEE|"Yes he did.  He also invented the
-bicycle."|speech|LEE|M
-923|CARTER|Now that I believe.|speech|CARTER|M
-924||Carter pockets two stacks of superbills.  Lee looks at him.|stage direction||
+bicycle."|speech|LEE|M|True
+923|CARTER|Now that I believe.|speech|CARTER|M|True
+924||Carter pockets two stacks of superbills.  Lee looks at him.|stage direction|||
 925|CARTER (CONT'D)|"You never know.  Besides, I always
-wanted to die rich."|speech|CARTER|M
-926||The truck lurches.|stage direction||
-927|LEE|We're slowing down.  This must be it.|speech|LEE|M
-928|CARTER|End of the line.|speech|CARTER|M
-929|LEE|You've been a good friend, James Carter.|speech|LEE|M
+wanted to die rich."|speech|CARTER|M|True
+926||The truck lurches.|stage direction|||
+927|LEE|We're slowing down.  This must be it.|speech|LEE|M|True
+928|CARTER|End of the line.|speech|CARTER|M|True
+929|LEE|You've been a good friend, James Carter.|speech|LEE|M|True
 930|CARTER|"Oh no you don't.  Don't you be getting
 corny on me, Lee.  I'll kick your ass
-from here to Compton."|speech|CARTER|M
+from here to Compton."|speech|CARTER|M|True
 931|LEE|"You could never kick my ass.  You mama's
-boy."|speech|LEE|M
-932|CARTER|Don't you talk about my mama.|speech|CARTER|M
-933||(winks at Lee)|location||
-934|CARTER|That's more like it.|speech|CARTER|M
-935||EXT. 18-WHEELER - CONTINUOUS|location||
+boy."|speech|LEE|M|True
+932|CARTER|Don't you talk about my mama.|speech|CARTER|M|True
+933||(winks at Lee)|location|||
+934|CARTER|That's more like it.|speech|CARTER|M|True
+935||EXT. 18-WHEELER - CONTINUOUS|location|||
 936||"The truck is parked in the underground loading docks.  It's
 approached by FOUR TRIAD SOLDIERS.  Soldier #1 opens the
 TRUCK'S DOUBLE DOORS to find.
@@ -1848,103 +1848,103 @@ the first two guards.
 Carter and Lee slam the back doors SHUT -- bolting them
 CLOSED and run like hell - scrambling into what looks like
 the closest way out:
-A LARGE OPEN PIPE on the side of the tunnel."|stage direction||
-937||INT. SEWER TUNNEL - CONTINUOUS|location||
+A LARGE OPEN PIPE on the side of the tunnel."|stage direction|||
+937||INT. SEWER TUNNEL - CONTINUOUS|location|||
 938||"Lee and Carter run through - it extends out from the
-underground loading docks."|stage direction||
-939|LEE|This way.  I see some lights.|speech|LEE|M
+underground loading docks."|stage direction|||
+939|LEE|This way.  I see some lights.|speech|LEE|M|True
 940||"Lee and Carter spot a tiny sliver of light coming through a
 MANHOLE COVER.  They start climbing up the metal stairs that
-lead up to the street."|stage direction||
-941||EXT. LAS VEGAS BLVD. - DUSK|location||
+lead up to the street."|stage direction|||
+941||EXT. LAS VEGAS BLVD. - DUSK|location|||
 942||"The blvd.'s packed with PEOPLE and CARS.
 CLOSE ON
 Lee and Carter coming up from the manhole -- standing
 together in stunned disbelief as they look out at the LAS
 VEGAS STRIP.  They cover their eyes, blinded by the greatest
-light show in the world."|stage direction||
-943|LEE|Vegas...|speech|LEE|M
+light show in the world."|stage direction|||
+943|LEE|Vegas...|speech|LEE|M|True
 944|CARTER|"Lee.  I just got an idea how someone
 could launder a hundred million dollars
-in cash."|speech|CARTER|M
+in cash."|speech|CARTER|M|True
 945||"They both turn around and come FACE TO FACE WITH:
 A TEN-STORY DRAGON.  Fire shoots from its nostrils every 60
-SECONDS."|stage direction||
-946||EXT. RED DRAGON HOTEL AND CASINO - NIGHT|location||
+SECONDS."|stage direction|||
+946||EXT. RED DRAGON HOTEL AND CASINO - NIGHT|location|||
 947||"FIRE BALLS BLOW out over the strip as Lee and Carter look up
 at the RED DRAGON.  The HUGE NEON SIGN READS: GRAND OPENING -
 EVERYBODY'S A WINNER!
-Lee and Carter come out of the sewer."|stage direction||
-948|LEE|Red Dragon.|speech|LEE|M
-949|CARTER|That was the name of Ricky Tan's boat.|speech|CARTER|M
+Lee and Carter come out of the sewer."|stage direction|||
+948|LEE|Red Dragon.|speech|LEE|M|True
+949|CARTER|That was the name of Ricky Tan's boat.|speech|CARTER|M|True
 950||"Lee and Carter watch as limos pull up to the front of the
 hotel -- it's like a HOLLYWOOD PREMIERE.  The richest of the
-rich are making their way inside."|stage direction||
-951|LEE|Let's go.|speech|LEE|M
+rich are making their way inside."|stage direction|||
+951|LEE|Let's go.|speech|LEE|M|True
 952|CARTER|"Wait a second.  We can't go in like
 this.  Look at this place, we gotta look
-fly.  We gotta Mac out."|speech|CARTER|M
-953|LEE|What is Mac out?|speech|LEE|M
-954|CARTER|Follow me my Asian brother.|speech|CARTER|M
-955||Carter and Lee start to walk away.|stage direction||
+fly.  We gotta Mac out."|speech|CARTER|M|True
+953|LEE|What is Mac out?|speech|LEE|M|True
+954|CARTER|Follow me my Asian brother.|speech|CARTER|M|True
+955||Carter and Lee start to walk away.|stage direction|||
 956|CARTER (CONT'D)|"Just stay down wind, because I think you
 stepped in some serious rat shit down
-there."|speech|CARTER|M
-957||EXT. VERSACE BOUTIQUE - NIGHT|location||
-958||Lee and Carter are walking into the upscale clothing store.|stage direction||
-959||INT. VERSACE BOUTIQUE - CONTINUOUS|location||
-960||As they enter, a SALESMAN approaches them.|stage direction||
-961|SALESMAN|May I help you gentlemen?|speech|SALESMAN|?
+there."|speech|CARTER|M|True
+957||EXT. VERSACE BOUTIQUE - NIGHT|location|||
+958||Lee and Carter are walking into the upscale clothing store.|stage direction|||
+959||INT. VERSACE BOUTIQUE - CONTINUOUS|location|||
+960||As they enter, a SALESMAN approaches them.|stage direction|||
+961|SALESMAN|May I help you gentlemen?|speech|SALESMAN|?|
 962||"Carter flashes his biggest smile as he pulls out a stack of
-superbills."|stage direction||
+superbills."|stage direction|||
 963|CARTER|"Black.  42-long.  Nothing touches this
 body but pure silk.  And get my partner
 something from the children's
-department."|speech|CARTER|M
-964||Carter puts his hand on Lee's shoulder.|stage direction||
+department."|speech|CARTER|M|True
+964||Carter puts his hand on Lee's shoulder.|stage direction|||
 965|SALESMAN|"Would your partner like silk as well?  I
 personally like it when a couple
-matches."|speech|SALESMAN|?
-966||Carter takes his hand off Lee's shoulder.|stage direction||
+matches."|speech|SALESMAN|?|
+966||Carter takes his hand off Lee's shoulder.|stage direction|||
 967|CARTER|"Couple?  No, you got it wrong, there's
 no couple here.  Just two single police
-officers working a very dangerous case."|speech|CARTER|M
+officers working a very dangerous case."|speech|CARTER|M|True
 968|LEE|"Yes.  We have lots of big men chasing
-us."|speech|LEE|M
+us."|speech|LEE|M|True
 969|SALESMAN|"I'm sure all the boys are chasing you
 two.  Don't worry, I'll make you guys
-the bell of the ball."|speech|SALESMAN|?
-970||He WINKS as he walks off, and Carter looks at Lee.|stage direction||
+the bell of the ball."|speech|SALESMAN|?|
+970||He WINKS as he walks off, and Carter looks at Lee.|stage direction|||
 971|CARTER|"This is the last time I go shopping with
-you."|speech|CARTER|M
-972||EXT. RED DRAGON - NIGHT|location||
+you."|speech|CARTER|M|True
+972||EXT. RED DRAGON - NIGHT|location|||
 973||"Lee and Carter enter frame, dressed to kill - perfectly
 tailored couture Versace suits, gold watches, the whole bit.
-Le is awkward in ""player"" guise."|stage direction||
-974||(whispering)|location||
+Le is awkward in ""player"" guise."|stage direction|||
+974||(whispering)|location|||
 975|CARTER|"Remember, Lee, you're a player now.  You
-own the place."|speech|CARTER|M
+own the place."|speech|CARTER|M|True
 976||"Carter pulls out his ALTOIDS, and he and Lee each take one as
-they walk through the doors."|stage direction||
-977|LEE|I own the place.|speech|LEE|M
-978||INT. RED DRAGON - CONTINUOUS|location||
+they walk through the doors."|stage direction|||
+977|LEE|I own the place.|speech|LEE|M|True
+978||INT. RED DRAGON - CONTINUOUS|location|||
 979||"Carter STRUTS through the lobby, Lee doing his best to
 imitate Carter's pimp and roll.  THEY WALK PAST THE GIANT
-BUDDHA --"|stage direction||
+BUDDHA --"|stage direction|||
 980|CARTER|"That looks exactly like my Uncle
-Darrell."|speech|CARTER|M
+Darrell."|speech|CARTER|M|True
 981|LEE|"Buddha is the symbol of luck and good
-fortune."|speech|LEE|M
+fortune."|speech|LEE|M|True
 982|CARTER|"Buddha is the symbol for fat and lazy.
-The man has the biggest tits in Asia."|speech|CARTER|M
+The man has the biggest tits in Asia."|speech|CARTER|M|True
 983||"They are moving through the MAIN ENTRY HALL lined with TERRA
 COTTA CHINESE SOLDIERS - posed and dressed for battle.
 RICKSHAWS and BICYCLES take people through the hotel.  The
 MAIN CASINO is roped off and empty.  People crowded around
-the perimeter - a sign reads:"|stage direction||
-984|SIGN|$50,000 buy in -- EVERYBODY'S A WINNER!|speech|SIGN|M
+the perimeter - a sign reads:"|stage direction|||
+984|SIGN|$50,000 buy in -- EVERYBODY'S A WINNER!|speech|SIGN|M|
 985||"The LIGHTS DIM - a spotlight comes on and finds STEVEN REIGN
-on the balcony overlooking the ENTRANCE."|stage direction||
+on the balcony overlooking the ENTRANCE."|stage direction|||
 986|STEVEN REIGN|"A thousand years ago, a small, wealthy
 village in China hired a young Dragon to
 guard their treasure in a cave, hoping
@@ -1956,13 +1956,13 @@ bigger and stronger.  The Dragon ate so
 much and grew so big -- that he
 eventually got stuck inside the cave --
 and the treasure was stuck behind him
-for all eternity."|speech|STEVEN REIGN|M
-987||(beat)|location||
+for all eternity."|speech|STEVEN REIGN|M|True
+987||(beat)|location|||
 988|STEVEN REIGN|"Ladies and gentlemen, I have found that
 lost treasure.  It is here, inside the
 greatest casino in the world!  Welcome
 to the Red Dragon, where everybody is a
-winner!"|speech|STEVEN REIGN|M
+winner!"|speech|STEVEN REIGN|M|True
 989||"Reign smiles, flips a switch -- the CASINO COMES TO LIFE.
 Fireworks, bright lights, endless rows of tables, dealers
 waiting.
@@ -1971,181 +1971,181 @@ Chinese ACROBATS perform suspended from the ceiling and on
 the balconies above.
 Applause all around as the FLAME shoots out of the dragon's
 nostrils and the acrobats perform.  Carter and Lee walk down
-the red carpet."|stage direction||
-990||(to waitress)|location||
-991|CARTER|Bring us some twelve-year old scotch...|speech|CARTER|M
-992||(to a cigarette girl)|location||
-993|CARTER|Get us a box of your finest cigars.|speech|CARTER|M
-994||(to a change girl)|location||
-995|CARTER|Give me ten dollars in nickels.|speech|CARTER|M
-996||INT. CASINO - NIGHT|location||
+the red carpet."|stage direction|||
+990||(to waitress)|location|||
+991|CARTER|Bring us some twelve-year old scotch...|speech|CARTER|M|True
+992||(to a cigarette girl)|location|||
+993|CARTER|Get us a box of your finest cigars.|speech|CARTER|M|True
+994||(to a change girl)|location|||
+995|CARTER|Give me ten dollars in nickels.|speech|CARTER|M|True
+996||INT. CASINO - NIGHT|location|||
 997||"CLOSE ON
-Dice ROLLING on a craps table."|stage direction||
-998|CRAPS DEALER|Winner!  Seven!|speech|CRAPS DEALER|?
+Dice ROLLING on a craps table."|stage direction|||
+998|CRAPS DEALER|Winner!  Seven!|speech|CRAPS DEALER|?|True
 999||"We see BLACKJACK DEALERS BUSTING - paying out CUSTOMERS.
 Hundred dollar slot machines paying out jackpots.
 GAMBLERS winning all over the casino.  Then going to the main
-cage and exchanging their chips for SUPERBILLS."|stage direction||
+cage and exchanging their chips for SUPERBILLS."|stage direction|||
 1000|CARTER|"Look at this place, Lee.  The biggest
-front in the world."|speech|CARTER|M
+front in the world."|speech|CARTER|M|True
 1001||"As people pour into the casino, Steven Reign is making his
-way through the crowd, shaking hands and posing for pictures."|stage direction||
-1002|LEE|Carter...here comes the rich white man.|speech|LEE|M
-1003|CARTER|Wait here.  I'll handle this.|speech|CARTER|M
+way through the crowd, shaking hands and posing for pictures."|stage direction|||
+1002|LEE|Carter...here comes the rich white man.|speech|LEE|M|True
+1003|CARTER|Wait here.  I'll handle this.|speech|CARTER|M|True
 1004||"As Carter walks off, a WOMAN grabs Lee and pulls him onto the
-dance floor."|stage direction||
-1005||INT. LOUNGE - CONTINUOUS|location||
+dance floor."|stage direction|||
+1005||INT. LOUNGE - CONTINUOUS|location|||
 1006||"The woman spins to face Lee, her face half-hidden under the
-dance floor lights."|stage direction||
-1007|ISABELLA|Put your arms around me.|speech|ISABELLA|F
-1008|LEE|Excuse me?|speech|LEE|M
-1009||Isabella grabs him around the waist, pulls him close.|stage direction||
+dance floor lights."|stage direction|||
+1007|ISABELLA|Put your arms around me.|speech|ISABELLA|F|True
+1008|LEE|Excuse me?|speech|LEE|M|True
+1009||Isabella grabs him around the waist, pulls him close.|stage direction|||
 1010|ISABELLA|"Hold me close.  There's cameras
-everywhere."|speech|ISABELLA|F
+everywhere."|speech|ISABELLA|F|True
 1011||"An ASIAN BAND sings STRANGERS IN THE NIGHT as Lee tries his
 best to slow dance.  An intimate moment between Isabella and
 Lee, her face nestled in the crook of his neck, hiding her
-face."|stage direction||
-1012|LEE|What's going on?|speech|LEE|M
-1013|ISABELLA|I need your help.|speech|ISABELLA|F
+face."|stage direction|||
+1012|LEE|What's going on?|speech|LEE|M|True
+1013|ISABELLA|I need your help.|speech|ISABELLA|F|True
 1014|LEE|"Last time you needed my help I ended up
-in the back of a truck."|speech|LEE|M
+in the back of a truck."|speech|LEE|M|True
 1015|ISABELLA|"I'm undercover.  I had no choice.  You
-have to trust me."|speech|ISABELLA|F
+have to trust me."|speech|ISABELLA|F|True
 1016||"Lee starts to get into the music, moving his hips in a slow,
-sensual rhythm."|stage direction||
-1017|ISABELLA (CONT'D)|You move well.|speech|ISABELLA|F
-1018|LEE|Just trying to make it look real.|speech|LEE|M
+sensual rhythm."|stage direction|||
+1017|ISABELLA (CONT'D)|You move well.|speech|ISABELLA|F|True
+1018|LEE|Just trying to make it look real.|speech|LEE|M|True
 1019|ISABELLA|"Look over there.  That's the eye in the
-sky room."|speech|ISABELLA|F
-1020||Lee looks over her shoulder.|stage direction||
+sky room."|speech|ISABELLA|F|True
+1020||Lee looks over her shoulder.|stage direction|||
 1021|ISABELLA (CONT'D)|"Behind me is the soft count room.  We're
-pretty sure the plates are back there."|speech|ISABELLA|F
-1022|LEE|Why don't you go get them?|speech|LEE|M
-1023|ISABELLA|If I'm wrong then my cover is blown.|speech|ISABELLA|F
-1024||INT. CASINO - NIGHT|location||
+pretty sure the plates are back there."|speech|ISABELLA|F|True
+1022|LEE|Why don't you go get them?|speech|LEE|M|True
+1023|ISABELLA|If I'm wrong then my cover is blown.|speech|ISABELLA|F|True
+1024||INT. CASINO - NIGHT|location|||
 1025||"As Steven Reign makes his way through the casino, Carter
-steps right in front of him, giving him a big hug."|stage direction||
+steps right in front of him, giving him a big hug."|stage direction|||
 1026|CARTER|"Stevie, how's it going my man?  Somebody
 get a picture, we can use it for a mug
-shot."|speech|CARTER|M
+shot."|speech|CARTER|M|True
 1027|STEVEN REIGN|"Detective Carter, you always seem to
-show up where you don't belong."|speech|STEVEN REIGN|M
+show up where you don't belong."|speech|STEVEN REIGN|M|True
 1028|CARTER|"Lemme ask you something, Steven.  And I
 want the truth.  Is there any way I can
 date your daughter?  Just dinner and a
-movie, maybe go listen to some jazz..."|speech|CARTER|M
+movie, maybe go listen to some jazz..."|speech|CARTER|M|True
 1029|STEVEN REIGN|"Vegas has been my town for 30 years.  I
 crawled out from under the first rock.
 Do you really think you can intimidate
-me here?"|speech|STEVEN REIGN|M
+me here?"|speech|STEVEN REIGN|M|True
 1030|CARTER|"You're right, you're a smart guy.  Most
 counterfeiters only get ten cents on the
 dollar.  But this is an even swap.  Pure
-genius."|speech|CARTER|M
+genius."|speech|CARTER|M|True
 1031|STEVEN REIGN|"You play games with me, Detective, and
 you'll lose every time.  Don't forget.
 The odds are always in favor of the
-house."|speech|STEVEN REIGN|M
-1032||Reign walks off with his men.  Carter watches him leave.|stage direction||
-1033||INT. DANCE FLOOR - NIGHT|location||
-1034||Lee is dancing close with Isabella.|stage direction||
+house."|speech|STEVEN REIGN|M|True
+1032||Reign walks off with his men.  Carter watches him leave.|stage direction|||
+1033||INT. DANCE FLOOR - NIGHT|location|||
+1034||Lee is dancing close with Isabella.|stage direction|||
 1035|ISABELLA|"The Secret Service almost busted Reign
 at his casino in Macao, but the place
-burned down before we could move in."|speech|ISABELLA|F
-1036|LEE|How do I know I can trust you?|speech|LEE|M
-1037|ISABELLA|Dip me!|speech|ISABELLA|F
-1038||Lee dips her, holds her in his arms for a long BEAT.|stage direction||
+burned down before we could move in."|speech|ISABELLA|F|True
+1036|LEE|How do I know I can trust you?|speech|LEE|M|True
+1037|ISABELLA|Dip me!|speech|ISABELLA|F|True
+1038||Lee dips her, holds her in his arms for a long BEAT.|stage direction|||
 1039|ISABELLA (CONT'D)|"I'm asking for real now -- will you help
-the Secret Service?"|speech|ISABELLA|F
-1040|LEE|No.|speech|LEE|M
-1041||(beat)|location||
-1042|LEE|But I'll help you.|speech|LEE|M
+the Secret Service?"|speech|ISABELLA|F|True
+1040|LEE|No.|speech|LEE|M|True
+1041||(beat)|location|||
+1042|LEE|But I'll help you.|speech|LEE|M|True
 1043||"Lee holds her for a long BEAT, their lips almost touching.
 He finally lets her go, and she disappears into the crowd.
-Carter walks up, sees Lee standing alone on the dance floor."|stage direction||
-1044|CARTER|Lee, what the hell are you doing?|speech|CARTER|M
-1045|LEE|Dancing?|speech|LEE|M
+Carter walks up, sees Lee standing alone on the dance floor."|stage direction|||
+1044|CARTER|Lee, what the hell are you doing?|speech|CARTER|M|True
+1045|LEE|Dancing?|speech|LEE|M|True
 1046|CARTER|"Dancing?  I'm out here trying to strong
 arm Steven Reign, putting my life on the
 line, and you're up here dancing with
-some bimbo.  Did she have a friend?"|speech|CARTER|M
+some bimbo.  Did she have a friend?"|speech|CARTER|M|True
 1047|LEE|"It was Isabella.  She says the plates
-are in the soft count room."|speech|LEE|M
+are in the soft count room."|speech|LEE|M|True
 1048||"Lee motions to the room, where WE SEE a SECURITY GUARD
-standing in front of a small door."|stage direction||
+standing in front of a small door."|stage direction|||
 1049|CARTER|"Isabella?  Are you crazy, man?  She
 almost got us killed.  She's setting you
-up again!"|speech|CARTER|M
-1050|LEE|No.  I'm going to find out.|speech|LEE|M
+up again!"|speech|CARTER|M|True
+1050|LEE|No.  I'm going to find out.|speech|LEE|M|True
 1051|CARTER|"Wait a second.  There's guards all over
-the place.  You'll need a distraction."|speech|CARTER|M
-1052||Carter looks around the casino.|stage direction||
+the place.  You'll need a distraction."|speech|CARTER|M|True
+1052||Carter looks around the casino.|stage direction|||
 1053|CARTER (CONT'D)|"I'll go to the craps table, make a big
 scene.  When security comes over, you
-make your move."|speech|CARTER|M
-1054|LEE|Try to keep them busy for five minutes.|speech|LEE|M
-1055|CARTER|I'll give it my best shot.|speech|CARTER|M
-1056||INT. CASINO - CONTINUOUS|location||
-1057||Carter walks up to a CRAPS TABLE, everyone turning to stare.|stage direction||
+make your move."|speech|CARTER|M|True
+1054|LEE|Try to keep them busy for five minutes.|speech|LEE|M|True
+1055|CARTER|I'll give it my best shot.|speech|CARTER|M|True
+1056||INT. CASINO - CONTINUOUS|location|||
+1057||Carter walks up to a CRAPS TABLE, everyone turning to stare.|stage direction|||
 1058|CRAPS DEALER|"Sir, you're aware that we require a
 fifty-thousand dollar buy in to gamble
-here this weekend?"|speech|CRAPS DEALER|?
+here this weekend?"|speech|CRAPS DEALER|?|True
 1059||"Carter throws a HUNDRED THOUSAND in $100 BILLS onto the
-table."|stage direction||
+table."|stage direction|||
 1060|CARTER|"I saw the sign, I can read.  Now gimme a
 hundred-thousand in chips.  And a Diet
 Coke and some wash-n-dries.  Let's move,
-people, I came to play."|speech|CARTER|M
-1061||The DEALER pushes 100K worth of CHIPS in front of Carter.|stage direction||
-1062|CARTER (CONT'D)|What the hell is that?|speech|CARTER|M
-1063|CRAPS DEALER|Those are five hundred dollar chips.|speech|CRAPS DEALER|?
+people, I came to play."|speech|CARTER|M|True
+1061||The DEALER pushes 100K worth of CHIPS in front of Carter.|stage direction|||
+1062|CARTER (CONT'D)|What the hell is that?|speech|CARTER|M|True
+1063|CRAPS DEALER|Those are five hundred dollar chips.|speech|CRAPS DEALER|?|True
 1064|CARTER|"Did you give me five-hundred dollar
-chips because I'm black?"|speech|CARTER|M
-1065|CRAPS DEALER|No, I just assumed...|speech|CRAPS DEALER|?
+chips because I'm black?"|speech|CARTER|M|True
+1065|CRAPS DEALER|No, I just assumed...|speech|CRAPS DEALER|?|True
 1066|CARTER|"You assumed a brother coming in here can
 only afford five-hundred dollars a roll,
-is that right?  Are you a racist?"|speech|CARTER|M
-1067|CRAPS DEALER|No, sir.|speech|CRAPS DEALER|?
-1068||(starting to scream)|location||
+is that right?  Are you a racist?"|speech|CARTER|M|True
+1067|CRAPS DEALER|No, sir.|speech|CRAPS DEALER|?|True
+1068||(starting to scream)|location|||
 1069|CARTER|"Everyone else at the table has thousand
 dollar chips, but the black man gets the
 nickel, is that it?  Did my people
 survive two-hundred years of slavery so
 you could send us back to the cotton
 fields with five-hundred dollar chips?
-Do I look like Chicken George to you?"|speech|CARTER|M
-1070||The PIT BOSS gets on his walkie-talkie.|stage direction||
+Do I look like Chicken George to you?"|speech|CARTER|M|True
+1070||The PIT BOSS gets on his walkie-talkie.|stage direction|||
 1071|PIT BOSS|"Floor security, we have a problem at
-table nine."|speech|PIT BOSS|?
-1072||EXT. SOFT COUNT ROOM - NIGHT|location||
+table nine."|speech|PIT BOSS|?|
+1072||EXT. SOFT COUNT ROOM - NIGHT|location|||
 1073||"The SECURITY GUARD lowers his walkie-talkie, starts moving
-towards Carter's table."|stage direction||
-1074||INT. CRAPS TABLE - NIGHT|location||
-1075||TWO SECURITY GUARDS approach Carter's table.|stage direction||
+towards Carter's table."|stage direction|||
+1074||INT. CRAPS TABLE - NIGHT|location|||
+1075||TWO SECURITY GUARDS approach Carter's table.|stage direction|||
 1076|CARTER|"Answer me one question.  How come Ben
 Vereen isn't performing here at the
 hotel?  Is Ben Vereen not good enough
-for you people?"|speech|CARTER|M
+for you people?"|speech|CARTER|M|True
 1077|PIT BOSS|"Lionel Ritchie is performing here
-tonight."|speech|PIT BOSS|?
+tonight."|speech|PIT BOSS|?|
 1078|CARTER|"Lionel Ritchie hasn't been black since
-the Commodores."|speech|CARTER|M
-1079|PIT BOSS|Sir, you're going to have to calm down.|speech|PIT BOSS|?
+the Commodores."|speech|CARTER|M|True
+1079|PIT BOSS|Sir, you're going to have to calm down.|speech|PIT BOSS|?|
 1080||"Carter watches as Lee moves past the guard and makes his way
-into the soft count room."|stage direction||
+into the soft count room."|stage direction|||
 1081|CARTER|"I have a dream, where black people and
 white people can gamble together without
-getting different chips!"|speech|CARTER|M
+getting different chips!"|speech|CARTER|M|True
 1082||"A BIG CROWD has gathered as the Security Guards try and push
 their way through.  The pit boss picks up the phone, calls
-upstairs."|stage direction||
-1083|CARTER (CONT'D)|"Sing with me!  ""We shall overcome!"""|speech|CARTER|M
+upstairs."|stage direction|||
+1083|CARTER (CONT'D)|"Sing with me!  ""We shall overcome!"""|speech|CARTER|M|True
 1084||"Carter starts clapping, and the confused crowd joins in as
-the Security Guards move in."|stage direction||
+the Security Guards move in."|stage direction|||
 1085|CARTER (CONT'D)|"Thank you.  Now in the spirit of
-brotherhood, let's play craps!"|speech|CARTER|M
-1086||INT. HALLWAY - NIGHT|location||
+brotherhood, let's play craps!"|speech|CARTER|M|True
+1086||INT. HALLWAY - NIGHT|location|||
 1087||"Lee walks into the hallway, moving like a cat as he hugs the
 walls and tries to make his way to the soft count room.
 He hears noise, TWO SECURITY GUARDS coming behind him through
@@ -2165,9 +2165,9 @@ Lee sees two more cameras in the ceiling, knows his cover is
 blown.  He jumps down off the cart, is standing in front of
 the locked vault.  There's no way to get the plates.
 Isabella has set him up again.
-He turns and smiles at the confused SECURITY GUARDS."|stage direction||
+He turns and smiles at the confused SECURITY GUARDS."|stage direction|||
 1088|LEE|"Hi.  How's it going?  You guys have
-change for a twenty?"|speech|LEE|M
+change for a twenty?"|speech|LEE|M|True
 1089||"The GUARDS make their move.  And Lee starts to fight them
 down the hall, using the cart as a shield as he RAMS into TWO
 MORE GUARDS, fights them off as he turns the corner toward
@@ -2175,171 +2175,171 @@ the casino door -- but he gets slammed to the ground by a
 right cross.
 Hu Li threw the punch, a roll of quarters in her hand as she
 stands over him with FIVE TRIAD SOLDIERS.  She holds a knife
-to Lee's throat."|stage direction||
-1090||(in Chinese)|location||
-1091|HU LI|Open your mouth.|speech|HU LI|F
+to Lee's throat."|stage direction|||
+1090||(in Chinese)|location|||
+1091|HU LI|Open your mouth.|speech|HU LI|F|True
 1092||"She puts the small grenade in Lee's mouth, tapes it shut.
-She holds the detonator in her hand."|stage direction||
-1093||(continuing in Chinese)|location||
+She holds the detonator in her hand."|stage direction|||
+1093||(continuing in Chinese)|location|||
 1094|HU LI (CONT'D)|"That's a ying-tao grenade, Inspector.
 Please follow me or I'll blow 32 teeth
-into your brain."|speech|HU LI|F
-1095||INT. CASINO - CONTINUOUS|location||
+into your brain."|speech|HU LI|F|True
+1095||INT. CASINO - CONTINUOUS|location|||
 1096||"A crowd has gathered behind Carter who is at the table
-rolling dice, a huge stack of chips in front of him."|stage direction||
-1097|CRAPS DEALER|Winner six!|speech|CRAPS DEALER|?
-1098|CARTER|How much is that?|speech|CARTER|M
-1099|CRAPS DEALER|Two-hundred thousand!|speech|CRAPS DEALER|?
+rolling dice, a huge stack of chips in front of him."|stage direction|||
+1097|CRAPS DEALER|Winner six!|speech|CRAPS DEALER|?|True
+1098|CARTER|How much is that?|speech|CARTER|M|True
+1099|CRAPS DEALER|Two-hundred thousand!|speech|CRAPS DEALER|?|True
 1100|CARTER|"Two-hundred thousand dollars?  Who wants
-a hundred dollars?"|speech|CARTER|M
+a hundred dollars?"|speech|CARTER|M|True
 1101||"Carter turns to the MAN next to him, who wears a traditional
-AFRICAN ROBE and is standing with a giant blonde escort."|stage direction||
+AFRICAN ROBE and is standing with a giant blonde escort."|stage direction|||
 1102|CARTER (CONT'D)|"Here, your highness, have a hundred
-dollars.  The Viagra is on me tonight!"|speech|CARTER|M
-1103||(South African accent)|location||
-1104|GAMBLER|I am not royalty, sir.|speech|GAMBLER|?
+dollars.  The Viagra is on me tonight!"|speech|CARTER|M|True
+1103||(South African accent)|location|||
+1104|GAMBLER|I am not royalty, sir.|speech|GAMBLER|?|
 1105|CARTER|"Don't say that, we're all royalty.  My
 great grandmammy was Queen Nephertit --
 we probably cousins, man.  How much you
-got on the table?"|speech|CARTER|M
-1106|GAMBLER|One million.|speech|GAMBLER|?
+got on the table?"|speech|CARTER|M|True
+1106|GAMBLER|One million.|speech|GAMBLER|?|
 1107|CARTER|"Yeah, we definitely cousins now.  Who
-wants to blow on my hand for luck?"|speech|CARTER|M
+wants to blow on my hand for luck?"|speech|CARTER|M|True
 1108||"Carter turns to a BIG TEXAN who is standing with a GORGEOUS
-YOUNG GIRL who is falling out of her dress."|stage direction||
+YOUNG GIRL who is falling out of her dress."|stage direction|||
 1109|CARTER (CONT'D)|"Hey, Marlboro man, you mind if your lady
-blows on my hand for luck?"|speech|CARTER|M
-1110||(embarrassed)|location||
-1111|TEXAN|She's not my lady.  She's my niece.|speech|TEXAN|?
+blows on my hand for luck?"|speech|CARTER|M|True
+1110||(embarrassed)|location|||
+1111|TEXAN|She's not my lady.  She's my niece.|speech|TEXAN|?|
 1112|CARTER|"Can I come over for Thanksgiving?  Come
-on, baby, give me some luck."|speech|CARTER|M
-1113||The GIRL blows on the dice, and Carter stares down at her.|stage direction||
+on, baby, give me some luck."|speech|CARTER|M|True
+1113||The GIRL blows on the dice, and Carter stares down at her.|stage direction|||
 1114|CARTER (CONT'D)|"Nice blowing.  When's your next
-birthday, I'll be the cake."|speech|CARTER|M
-1115|TEXAN|Hey, buddy, watch yourself.|speech|TEXAN|?
+birthday, I'll be the cake."|speech|CARTER|M|True
+1115|TEXAN|Hey, buddy, watch yourself.|speech|TEXAN|?|
 1116|CARTER|"Don't threaten me.  I got friends in
 this town that will bite off your ears.
 Just sit tight, because I've got the
-dice and I am on fire!"|speech|CARTER|M
-1117||Carter throws the dice.|stage direction||
-1118|CRAPS DEALER|Winner, seven!|speech|CRAPS DEALER|?
-1119||The table erupts as Carter grabs the dice.|stage direction||
-1120|CARTER|Let it ride!|speech|CARTER|M
-1121||INT. UPSTAIRS HALLWAY - NIGHT|location||
+dice and I am on fire!"|speech|CARTER|M|True
+1117||Carter throws the dice.|stage direction|||
+1118|CRAPS DEALER|Winner, seven!|speech|CRAPS DEALER|?|True
+1119||The table erupts as Carter grabs the dice.|stage direction|||
+1120|CARTER|Let it ride!|speech|CARTER|M|True
+1121||INT. UPSTAIRS HALLWAY - NIGHT|location|||
 1122||"The elevator doors OPEN and Lee is led toward the eye in the
 sky room by Hu Li and the three Triads.  As they walk into
-the room, the Triads remain outside guarding the room."|stage direction||
-1123||INT. EYE IN THE SKY ROOM - CONTINUOUS|location||
+the room, the Triads remain outside guarding the room."|stage direction|||
+1123||INT. EYE IN THE SKY ROOM - CONTINUOUS|location|||
 1124||"FORTY VIDEO MONITORS show every inch of the hotel.  A MAN
 stands in front of the two-way mirror looking down at the
 casino, the reflection off the glass obscuring his features.
 Lee has the tape around his mouth and his hands tied behind
-his back as he's led into the room by Hu Li."|stage direction||
+his back as he's led into the room by Hu Li."|stage direction|||
 1125|RICKY TAN|"Imagine a business where people hand you
 money.  And you hand them back
-absolutely nothing."|speech|RICKY TAN|M
+absolutely nothing."|speech|RICKY TAN|M|True
 1126||"Ricky Tan - alive and well, turns around and stares at Lee.
 Isabella is standing next to him.  Lee is shocked at the
-sight of Ricky Tan alive."|stage direction||
+sight of Ricky Tan alive."|stage direction|||
 1127|RICKY TAN (CONT'D)|"Now that's a true American dream.
 Thanks to a few pieces of metal and a
-very greed driven US Customs agent."|speech|RICKY TAN|M
-1128||Ricky Tan walks toward Lee, starts to smile.|stage direction||
+very greed driven US Customs agent."|speech|RICKY TAN|M|True
+1128||Ricky Tan walks toward Lee, starts to smile.|stage direction|||
 1129|RICKY TAN (CONT'D)|"Look at you, you're ridiculous.  You
 know it didn't have to be like this.
 But it's too bad!  Like father, like
-son."|speech|RICKY TAN|M
+son."|speech|RICKY TAN|M|True
 1130||"Lee stares at Isabella for a BEAT.  Hu Li motions to one of
-the monitors."|stage direction||
-1131||(in Chinese)|location||
-1132|HU LI|He's going for the plates.|speech|HU LI|F
+the monitors."|stage direction|||
+1131||(in Chinese)|location|||
+1132|HU LI|He's going for the plates.|speech|HU LI|F|True
 1133||"Ricky Tan looks at one of the MONITORS, sees Steven Reign
 walking down a hallway, about to walk into the PENTHOUSE
-SUITE."|stage direction||
+SUITE."|stage direction|||
 1134|RICKY TAN|"Look at this old fool, what does he
-think he's doing?"|speech|RICKY TAN|M
-1135||Ricky Tan shifts his attention back to Lee.|stage direction||
+think he's doing?"|speech|RICKY TAN|M|True
+1135||Ricky Tan shifts his attention back to Lee.|stage direction|||
 1136|RICKY TAN (CONT'D)|"It's almost impossible to find a partner
 that's trustworthy and loyal.  Wouldn't
-you agree, Lee?"|speech|RICKY TAN|M
+you agree, Lee?"|speech|RICKY TAN|M|True
 1137||"ON ANOTHER SCREEN
 We see Carter at the craps table having the time of his life.
 Ricky Tan turns to walk out of the room, motioning to
-Isabella as he goes."|stage direction||
+Isabella as he goes."|stage direction|||
 1138|RICKY TAN (CONT'D)|"Well, at least you will die with honor.
-But choy Gien."|speech|RICKY TAN|M
-1139||"SUBTITLES: ""Won't see you again."""|stage direction||
-1140||INT. CASINO - CONTINUOUS|location||
+But choy Gien."|speech|RICKY TAN|M|True
+1139||"SUBTITLES: ""Won't see you again."""|stage direction|||
+1140||INT. CASINO - CONTINUOUS|location|||
 1141||"Carter has two racks of chips in front of him, a huge crowd
-surrounding him."|stage direction||
-1142|CRAPS DEALER|Winner!  Four, winner!|speech|CRAPS DEALER|?
+surrounding him."|stage direction|||
+1142|CRAPS DEALER|Winner!  Four, winner!|speech|CRAPS DEALER|?|True
 1143|CARTER|"I'm up a hundred and fifty-grand.
 That's a Ferrari.  Do they sell those
 here in the gift shop?  Somebody cash me
-out!"|speech|CARTER|M
+out!"|speech|CARTER|M|True
 1144||"Several TRIAD SOLDIERS dressed like SECURITY GUARDS approach
-Carter's table."|stage direction||
+Carter's table."|stage direction|||
 1145|PIT BOSS|"Sir, we'd like to escort you to the
-cashier."|speech|PIT BOSS|?
+cashier."|speech|PIT BOSS|?|
 1146|CARTER|"That would be great.  Don't want any of
-these rich white people to jump me."|speech|CARTER|M
+these rich white people to jump me."|speech|CARTER|M|True
 1147||"As they walk toward the door marked ""VIP ROOM"", Carter
-glances at the MEN, knows he's in deep shit."|stage direction||
-1148||INT. EYE IN THE SKY ROOM - NIGHT|location||
-1149||Ricky Tan turns to Hu Li.|stage direction||
-1150|RICKY TAN|Chai Hu Li.|speech|RICKY TAN|M
-1151||"(""Little Fox"")"|location||
-1152|RICKY TAN|Have fun.|speech|RICKY TAN|M
+glances at the MEN, knows he's in deep shit."|stage direction|||
+1148||INT. EYE IN THE SKY ROOM - NIGHT|location|||
+1149||Ricky Tan turns to Hu Li.|stage direction|||
+1150|RICKY TAN|Chai Hu Li.|speech|RICKY TAN|M|True
+1151||"(""Little Fox"")"|location|||
+1152|RICKY TAN|Have fun.|speech|RICKY TAN|M|True
 1153||"Ricky Tan walks out.  Hu Li holds the detonator up to Lee,
-plays with the button."|stage direction||
-1154||(in Chinese)|location||
+plays with the button."|stage direction|||
+1154||(in Chinese)|location|||
 1155|HU LI|"In a few minutes...you'll beg me to push
-this button."|speech|HU LI|F
+this button."|speech|HU LI|F|True
 1156||"Hu Li pulls her KNIFE, moves towards Lee.  She holds the
 blade to his face.  About to cut him.  When Isabella pulls
 her gun.
 Isabella walks toward Lee, whose hands are still tied behind
 his back.  Hu Li clutches the detonator in one hand, her
-knife in the other.  She takes a step toward Isabella."|stage direction||
-1157|ISABELLA|It's time to end this, Inspector.|speech|ISABELLA|F
+knife in the other.  She takes a step toward Isabella."|stage direction|||
+1157|ISABELLA|It's time to end this, Inspector.|speech|ISABELLA|F|True
 1158||"Isabella cocks the gun, spins back and kicks the detonator
 from Hu Li's hand -- slamming her against the wall and
-sticking the gun under her chin."|stage direction||
+sticking the gun under her chin."|stage direction|||
 1159|ISABELLA (CONT'D)|"Don't move!  United States Secret
-Service."|speech|ISABELLA|F
+Service."|speech|ISABELLA|F|True
 1160||"Hu Li WHIPS her KNIFE around, catches Isabella across the
 hand -- the GUN SLIDING across the room near the detonator --
 the TWO WOMEN fight around it.
 Lee watches them almost step on it - dives to the floor and
 rolls toward the detonator.  He's about to grab it when:
 THE TRIADS OPEN THE DOOR
-They're about to move in."|stage direction||
-1161|HU LI|Get the detonator!|speech|HU LI|F
+They're about to move in."|stage direction|||
+1161|HU LI|Get the detonator!|speech|HU LI|F|True
 1162||"The Triads go for the detonator -- as Lee gets to his feet,
 KICKS Hu Li's legs out from under her.
 One of the Triads about to pick up the detonator - but Lee
 gets to him first.  He fights with one hand tied behind his
 back.
 Hu Li and Isabella fight it out in the EYE IN THE SKY ROOM.
-Lee gets kicked towards the Eye In The Sky WINDOW."|stage direction||
-1163||INT. CASINO - CASHIER|location||
+Lee gets kicked towards the Eye In The Sky WINDOW."|stage direction|||
+1163||INT. CASINO - CASHIER|location|||
 1164||"Two security guards lead Carter away from the table when:
 CRASH!
 An AIRBORNE Lee rockets through the EYE IN THE SKY WINDOW.
 In a rain of glass, he lands HARD on the casino floor.
-The NOISE grabs everyone's attention, including:"|stage direction||
-1165|CARTER|Lee!!|speech|CARTER|M
-1166||The guards restrain him.|stage direction||
+The NOISE grabs everyone's attention, including:"|stage direction|||
+1165|CARTER|Lee!!|speech|CARTER|M|True
+1166||The guards restrain him.|stage direction|||
 1167|CARTER (CONT'D)|"Lemme ask you something.  Any of you
-ever felt $500,000 before?"|speech|CARTER|M
+ever felt $500,000 before?"|speech|CARTER|M|True
 1168||"He SLAMS THE RACK OF CHIPS ACROSS THEIR FACES -- chips flying
-as the GUARDS hit the floor."|stage direction||
-1169|CARTER (CONT'D)|Doesn't feel so good, does it?|speech|CARTER|M
-1170||INT. EYE IN THE SKY ROOM - CONTINUOUS|location||
+as the GUARDS hit the floor."|stage direction|||
+1169|CARTER (CONT'D)|Doesn't feel so good, does it?|speech|CARTER|M|True
+1170||INT. EYE IN THE SKY ROOM - CONTINUOUS|location|||
 1171||"Hu Li picks up the detonator.  WHACK!  A heeled foot kicks it
 from her grasp.  Isabella has recovered!  The detonator FLIES
-OUT THE BROKEN WINDOW."|stage direction||
-1172||INT. CASINO - CONTINUOUS|location||
+OUT THE BROKEN WINDOW."|stage direction|||
+1172||INT. CASINO - CONTINUOUS|location|||
 1173||"On his back, Lee watches the detonator SAIL OVER HIS HEAD AND
 DISAPPEAR into the crowd.  It lands on a DRINK CART.  Before
 Lee can get there, a WAITRESS changes trays and carries the
@@ -2349,15 +2349,15 @@ BLACKJACK TABLE to get a better vantage.  He can't see it,
 but he does see:
 ACROSS THE CASINO
 Carter on top of a CRAPS TABLE, keeping security guards at
-bay with a croupier stick."|stage direction||
+bay with a croupier stick."|stage direction|||
 1174|CARTER|"Black man gets on a hot streak and
-you're all trippin'?"|speech|CARTER|M
+you're all trippin'?"|speech|CARTER|M|True
 1175||"Carter and Lee see each other.  They have the same
-simultaneous though:"|stage direction||
-1176||(help!)|location||
-1177|CARTER (CONT'D)|Lee!|speech|CARTER|M
-1178||(help!)|location||
-1179|LEE|MMMMMM!!!!|speech|LEE|M
+simultaneous though:"|stage direction|||
+1176||(help!)|location|||
+1177|CARTER (CONT'D)|Lee!|speech|CARTER|M|True
+1178||(help!)|location|||
+1179|LEE|MMMMMM!!!!|speech|LEE|M|True
 1180||"Carter is Lee's only hope to get the bomb out of his mouth.
 But from here to there, a MASS OF PEOPLE.  The quickest way
 is the HIGH WAY.
@@ -2367,19 +2367,19 @@ He launches off the bent-over back of a high roller --
 landing on a RICKSHAW, SURFING IT to the tables on the other
 side.
 Carter looks around for Lee, catches a glimpse of the Eye in
-the Sky Room.  He grins."|stage direction||
-1181|CARTER|Check it out.  Catfight!|speech|CARTER|M
-1182||POW!  He socks a GUARD in the face.|stage direction||
-1183||INT. EYE IN THE SKY ROOM - CONTINUOUS|location||
+the Sky Room.  He grins."|stage direction|||
+1181|CARTER|Check it out.  Catfight!|speech|CARTER|M|True
+1182||POW!  He socks a GUARD in the face.|stage direction|||
+1183||INT. EYE IN THE SKY ROOM - CONTINUOUS|location|||
 1184||"Isabella and Hu Li are locked in battle.  Rolling to the
 floor, they both see the gun.  They scramble over each other
-to get to it first."|stage direction||
-1185||INT. CASINO - CONTINUOUS|location||
+to get to it first."|stage direction|||
+1185||INT. CASINO - CONTINUOUS|location|||
 1186||"A security guard CLIMBS on the table to level Carter when Lee
 arrives.  He kicks the guard off and turns to Carter, his
-plea MUFFLED."|stage direction||
+plea MUFFLED."|stage direction|||
 1187|CARTER|"What the HELL are you doing with tape on
-your face?"|speech|CARTER|M
+your face?"|speech|CARTER|M|True
 1188||"No time to explain -- two more security guards arrive.  Kicks
 and punches fly, but Lee CAN'T GET HIT IN THE MOUTH!  He bobs
 and weaves, holding his hands to Carter to untie them in
@@ -2389,8 +2389,8 @@ Everyone HITS THE DECK.  Carter and Lee dive on to the floor
 as panic ripples through the Casino.  People FLEE for the
 EXITS.
 THE WAITRESS DESERTS HER TRAY.  It gets knocked over and TIPS
-on the floor.  The DETONATOR LANDS feet away from Carter."|stage direction||
-1189|CARTER (CONT'D)|This can't be good.|speech|CARTER|M
+on the floor.  The DETONATOR LANDS feet away from Carter."|stage direction|||
+1189|CARTER (CONT'D)|This can't be good.|speech|CARTER|M|True
 1190||"Lee's eyes BUG - he sees it too, feet STAMPEDING past it!  A
 high heel misses it by a fraction of an inch.  He LUNGES for
 it, manages to CRADLE it in his taped hands when --
@@ -2403,9 +2403,9 @@ up the detonator, Lee knows he won't get there in time.
 Horrified, he SCREAMS at CARTER through the tape.
 Hu Li lifts the detonator.
 Carter finally pulls the TAPE OFF Lee's face.
-Lee SPITS the grenade into the air."|stage direction||
-1191||(diving on Carter)|location||
-1192|LEE|Bomb!!!|speech|LEE|M
+Lee SPITS the grenade into the air."|stage direction|||
+1191||(diving on Carter)|location|||
+1192|LEE|Bomb!!!|speech|LEE|M|True
 1193||"Hu Li HITS the TRIGGER just as it lands on a roulette table.
 KABOOM!
 The table is BLOWN OFF IT'S FOUNDATION.  Chips and cash
@@ -2413,95 +2413,95 @@ volcano.  Hu Li is blown backwards by the force of the blast.
 SHEER PANDEMONIUM grips the casino.
 AS THE SMOKE CLEARS
 Carter and Lee peer out from behind a row of slot machines.
-The place is deserted."|stage direction||
+The place is deserted."|stage direction|||
 1194|CARTER|"Why didn't you tell me you had a bomb in
-your mouth?"|speech|CARTER|M
-1195|LEE|I did!|speech|LEE|M
-1196|CARTER|No you didn't!|speech|CARTER|M
-1197|LEE|Yes I did.  I said MMMMMM!|speech|LEE|M
-1198||A hand on Carter's arm.  THIS IS SERIOUS.|stage direction||
-1199||LEE (CONT'D)|unknown||
-1200|LEE|Ricky Tan is alive.|speech|LEE|M
-1201|CARTER|What?!?!|speech|CARTER|M
-1202|LEE|We have to get to the Penthouse.|speech|LEE|M
+your mouth?"|speech|CARTER|M|True
+1195|LEE|I did!|speech|LEE|M|True
+1196|CARTER|No you didn't!|speech|CARTER|M|True
+1197|LEE|Yes I did.  I said MMMMMM!|speech|LEE|M|True
+1198||A hand on Carter's arm.  THIS IS SERIOUS.|stage direction|||
+1199||LEE (CONT'D)|unknown|||
+1200|LEE|Ricky Tan is alive.|speech|LEE|M|True
+1201|CARTER|What?!?!|speech|CARTER|M|True
+1202|LEE|We have to get to the Penthouse.|speech|LEE|M|True
 1203||"Lee jumps up, SPRINTS toward the elevators at the dragon end
-of the casino."|stage direction||
-1204|CARTER|Hold on!|speech|CARTER|M
+of the casino."|stage direction|||
+1204|CARTER|Hold on!|speech|CARTER|M|True
 1205||"Carter stuffs his pockets with chips, then races after Lee.
 But halfway up the carpet.  Carter stops.  Lee turns to see
 what is holding him up.
-Hu Li SURVIVED the blast and Carter has turned to face her."|stage direction||
-1206|CARTER (CONT'D)|You go after Ricky.  I got this.|speech|CARTER|M
-1207|LEE|Carter...|speech|LEE|M
-1208|CARTER|Just GO!|speech|CARTER|M
+Hu Li SURVIVED the blast and Carter has turned to face her."|stage direction|||
+1206|CARTER (CONT'D)|You go after Ricky.  I got this.|speech|CARTER|M|True
+1207|LEE|Carter...|speech|LEE|M|True
+1208|CARTER|Just GO!|speech|CARTER|M|True
 1209||"Lee turns and runs off past the dragon.  Unfortunately, FIVE
 TRIADS block his path.  In a flurry of PUNCHES, Lee makes
 short work of them, and races toward the elevators.
 DEAD CENTER ON THE RED CARPET - HU LI AND CARTER FACE OFF!
 Each readying in their own manner.  Hu Li carefully wraps her
 long hair into a bun on top of her head.  Carter stretches,
-flexes, ready to sting like a bee."|stage direction||
+flexes, ready to sting like a bee."|stage direction|||
 1210|CARTER (CONT'D)|"I'm not gonna hold you back this time
 just because you're a woman.  I'm gonna
-pretend you're a man."|speech|CARTER|M
+pretend you're a man."|speech|CARTER|M|True
 1211||"She pulls off her jacket, prepares to fight him in her
-undershirt."|stage direction||
+undershirt."|stage direction|||
 1212|CARTER (CONT'D)|"A very beautiful man with a perfect body
-who I'd like to take to the movies."|speech|CARTER|M
+who I'd like to take to the movies."|speech|CARTER|M|True
 1213||"She takes a sword from a Terra Cotta statue, SWINGS IT AROUND
-like a master."|stage direction||
+like a master."|stage direction|||
 1214|CARTER (CONT'D)|"I may have been absent the day we went
-over this in karate class."|speech|CARTER|M
+over this in karate class."|speech|CARTER|M|True
 1215||"Quick, Carter reaches for a fighting stick off a Terra Cotta
 soldier.  WHOOSH!  She SLICES IT IN HALF.  Carter reaches for
-another.  SLICE!  She's toying with him."|stage direction||
-1216||INT. ELEVATOR BANK - NIGHT|location||
+another.  SLICE!  She's toying with him."|stage direction|||
+1216||INT. ELEVATOR BANK - NIGHT|location|||
 1217||"Lee's in the elevator as the doors close.  SUDDENLY, a HAND
 cuts through, parting the doors.
-It's ISABELLA!  A wound on her shoulder."|stage direction||
-1218|LEE|Are you okay?|speech|LEE|M
-1219|ISABELLA|I'm fine.|speech|ISABELLA|F
+It's ISABELLA!  A wound on her shoulder."|stage direction|||
+1218|LEE|Are you okay?|speech|LEE|M|True
+1219|ISABELLA|I'm fine.|speech|ISABELLA|F|True
 1220||"She steps in, too weak and starts to fall.  Lee grabs her and
-holds her in his arms.  HE gently helps her down."|stage direction||
-1221|LEE|I didn't know which side you were on.|speech|LEE|M
-1222|ISABELLA|Now you know.|speech|ISABELLA|F
+holds her in his arms.  HE gently helps her down."|stage direction|||
+1221|LEE|I didn't know which side you were on.|speech|LEE|M|True
+1222|ISABELLA|Now you know.|speech|ISABELLA|F|True
 1223||"DING!  The elevator doors open.  Isabella holds up a ROOM KEY
 - the key to the SUITE.  Lee takes the key, backs away and
-steps into the elevator."|stage direction||
-1224|ISABELLA (CONT'D)|I'll try to get backup.  Be careful.|speech|ISABELLA|F
-1225||The elevator doors close.|stage direction||
-1226||INT. PENTHOUSE SUITE - CONTINUOUS|location||
+steps into the elevator."|stage direction|||
+1224|ISABELLA (CONT'D)|I'll try to get backup.  Be careful.|speech|ISABELLA|F|True
+1225||The elevator doors close.|stage direction|||
+1226||INT. PENTHOUSE SUITE - CONTINUOUS|location|||
 1227||"Steven Reign is closing the safe.  There are stacks of
 HUNDRED DOLLAR BILLS on his desk, which he's putting in a
 black bag along with the plates.  As he turns around, he
-comes face-to-face with Ricky Tan."|stage direction||
+comes face-to-face with Ricky Tan."|stage direction|||
 1228|RICKY TAN|"American's love to gamble.  Don't they,
-Mr. Reign?"|speech|RICKY TAN|M
+Mr. Reign?"|speech|RICKY TAN|M|True
 1229|STEVEN REIGN|"I'm cutting our deal short.  I'm
-leaving."|speech|STEVEN REIGN|M
-1230|RICKY TAN|And my plates?|speech|RICKY TAN|M
+leaving."|speech|STEVEN REIGN|M|True
+1230|RICKY TAN|And my plates?|speech|RICKY TAN|M|True
 1231|STEVEN REIGN|"They stay with me.  I'm sure you won't
-have a problem with that."|speech|STEVEN REIGN|M
+have a problem with that."|speech|STEVEN REIGN|M|True
 1232||"Reign shows Tan the gun in his belt.  Grabs the bag and
-starts to walk toward the door."|stage direction||
+starts to walk toward the door."|stage direction|||
 1233|RICKY TAN|"I enjoyed that little story you told
 about the Dragon and the treasure.  My
 mother used to tell it to me all the
 time.  Do you know the moral of that
-story, Mr. Reign?"|speech|RICKY TAN|M
-1234|STEVEN REIGN|Greed will imprison us all.|speech|STEVEN REIGN|M
-1235||Tan grabs Reign from behind and stabs him with a knife.|stage direction||
-1236|RICKY TAN|I hate that fortune cookie shit.|speech|RICKY TAN|M
+story, Mr. Reign?"|speech|RICKY TAN|M|True
+1234|STEVEN REIGN|Greed will imprison us all.|speech|STEVEN REIGN|M|True
+1235||Tan grabs Reign from behind and stabs him with a knife.|stage direction|||
+1236|RICKY TAN|I hate that fortune cookie shit.|speech|RICKY TAN|M|True
 1237||"Lee BURSTS through the suite door - watches as Reign falls
-dead to the floor.  Ricky takes the black bag off the desk."|stage direction||
-1238|LEE|Put the plates down.|speech|LEE|M
-1239||Ricky Tan looks down at the gun in Reign's belt.|stage direction||
-1240||INT. CASINO - NIGHT|location||
+dead to the floor.  Ricky takes the black bag off the desk."|stage direction|||
+1238|LEE|Put the plates down.|speech|LEE|M|True
+1239||Ricky Tan looks down at the gun in Reign's belt.|stage direction|||
+1240||INT. CASINO - NIGHT|location|||
 1241||"WHOOSH!  Another Terra Cotta fighting stick is in half in
-Carter's hands."|stage direction||
-1242|CARTER|Will you STOP?!?!|speech|CARTER|M
-1243||(picks up cocktail umbrella)|location||
-1244|CARTER|What am I supposed to fight you with?|speech|CARTER|M
+Carter's hands."|stage direction|||
+1242|CARTER|Will you STOP?!?!|speech|CARTER|M|True
+1243||(picks up cocktail umbrella)|location|||
+1244|CARTER|What am I supposed to fight you with?|speech|CARTER|M|True
 1245||"No more toying.  Hu Li CHARGES Carter, who GRABS a ROULETTE
 WHEEL as a MAKESHIFT SHIELD.  She SLICES it in HALF!  He's
 got nowhere to hide.
@@ -2513,60 +2513,60 @@ The DOUBLE-BLADED BAMBOO POLE in its hand ricochets back and
 she is PIERCED THROUGH THE SHOULDER with the blade.  Staring
 at Carter in stunned disbelief, she drops to her knees.
 Carter walks toward her, considers his options, then KICKS
-HER IN THE HEAD, knocking her out."|stage direction||
+HER IN THE HEAD, knocking her out."|stage direction|||
 1246|CARTER (CONT'D)|"When are you people gonna learn?  Don't
-mess with the brothas!"|speech|CARTER|M
+mess with the brothas!"|speech|CARTER|M|True
 1247||"WEAK in the KNEES, Carter looks to the SOUND ON HIS CHEST. He
 reaches through the slice in his jacket.  Instead of a hand
-covered in blood, it comes out with a THICK WAD OF CASH!"|stage direction||
-1248|CARTER (CONT'D)|Thank you, Benjamin!|speech|CARTER|M
-1249||Carter runs for the elevator.|stage direction||
-1250||INT. PENTHOUSE SUITE - CONTINUOUS|location||
+covered in blood, it comes out with a THICK WAD OF CASH!"|stage direction|||
+1248|CARTER (CONT'D)|Thank you, Benjamin!|speech|CARTER|M|True
+1249||Carter runs for the elevator.|stage direction|||
+1250||INT. PENTHOUSE SUITE - CONTINUOUS|location|||
 1251||"Lee is walking toward Ricky Tan, the two men circling Reign's
-body."|stage direction||
+body."|stage direction|||
 1252|RICKY TAN|"You're just like your father, Lee.  All
 these years hiding behind his badge.  I
 wanted to help him, to share with him,
 but he was too afraid of change.  When
 you think about it, I didn't really kill
-him.  I just put him out of his misery."|speech|RICKY TAN|M
-1253|LEE|Put the plates down.  It's over.|speech|LEE|M
+him.  I just put him out of his misery."|speech|RICKY TAN|M|True
+1253|LEE|Put the plates down.  It's over.|speech|LEE|M|True
 1254|RICKY TAN|"I don't think it's over.  There are
 casinos all over this country.  Let me
 make you a rich man, Lee.  Don't make
-the same mistake he did."|speech|RICKY TAN|M
-1255||Ricky glances at the gun in Reign's belt.|stage direction||
+the same mistake he did."|speech|RICKY TAN|M|True
+1255||Ricky glances at the gun in Reign's belt.|stage direction|||
 1256|LEE|"If you reach for that gun, I'm going to
-kill you."|speech|LEE|M
-1257|RICKY TAN|Don't you remember?  I'm already dead.|speech|RICKY TAN|M
+kill you."|speech|LEE|M|True
+1257|RICKY TAN|Don't you remember?  I'm already dead.|speech|RICKY TAN|M|True
 1258||"Ricky makes a play for the gun, but Lee is much too fast,
 taking the gun and pushing Ricky against the wall just as
-Carter bursts in the room."|stage direction||
+Carter bursts in the room."|stage direction|||
 1259|CARTER|"Hey, Ricky, how's it going man?  What's
-up, Lee?"|speech|CARTER|M
+up, Lee?"|speech|CARTER|M|True
 1260||"Lee has the gun pressed to Tan's head.  We've never seen him
-like this before."|stage direction||
+like this before."|stage direction|||
 1261|RICKY TAN|"Would you like me to tell you how your
-father died?"|speech|RICKY TAN|M
-1262|CARTER|Lee, you okay?|speech|CARTER|M
-1263||Lee doesn't respond.  He keeps an eye on Ricky.|stage direction||
+father died?"|speech|RICKY TAN|M|True
+1262|CARTER|Lee, you okay?|speech|CARTER|M|True
+1263||Lee doesn't respond.  He keeps an eye on Ricky.|stage direction|||
 1264|RICKY TAN|"He never begged for his life.  Or tried
 to make a deal.  All that he asked me,
 just seconds before I pulled the
 trigger, was that I promise not to kill
-you."|speech|RICKY TAN|M
+you."|speech|RICKY TAN|M|True
 1265||"Lee's finger is on the trigger -- he wants to pull the
-trigger but can't."|stage direction||
+trigger but can't."|stage direction|||
 1266|CARTER|"Lee, wait a second.  It's not worth it,
-man.  He's making you do this."|speech|CARTER|M
-1267|LEE|It's worth it to me.|speech|LEE|M
+man.  He's making you do this."|speech|CARTER|M|True
+1267|LEE|It's worth it to me.|speech|LEE|M|True
 1268|RICKY TAN|"Do you have it in you, Lee?  Or are you
 gonna spend the rest of your life hiding
-like your father?"|speech|RICKY TAN|M
+like your father?"|speech|RICKY TAN|M|True
 1269|CARTER|"C'mon, Lee.  He's going to jail.  You
-won, now just put the gun down."|speech|CARTER|M
-1270||Lee is trying to pull the trigger, but he can't.|stage direction||
-1271|RICKY TAN|That's what I thought.|speech|RICKY TAN|M
+won, now just put the gun down."|speech|CARTER|M|True
+1270||Lee is trying to pull the trigger, but he can't.|stage direction|||
+1271|RICKY TAN|That's what I thought.|speech|RICKY TAN|M|True
 1272||"Tan takes the black bag and swings it toward Lee -- the
 plates hit him across the face and knock him down.
 THE GUN IS LOOSE
@@ -2576,26 +2576,26 @@ SQUARE IN THE CHEST.
 Tan falls back, SMASHING THROUGH THE WINDOW.  Lee tries to
 grab Tan's hand, their fingers touch for a split second.
 But Tan pulls his hand away and falls 20 STORIES to the
-street below."|stage direction||
-1273||EXT. STREET - NIGHT|location||
+street below."|stage direction|||
+1273||EXT. STREET - NIGHT|location|||
 1274||"A TAXI is parked out front.  Tan's BODY SLAMS on the roof.
 SMASHING THROUGH A SIGN ON TOP THAT READS: ""EVERYBODY'S A
-WINNER!"""|stage direction||
-1275||INT. PENTHOUSE SUITE - NIGHT|location||
+WINNER!"""|stage direction|||
+1275||INT. PENTHOUSE SUITE - NIGHT|location|||
 1276||"Lee and Carter are looking down at the street, both relieved
-it's finally over.  Carter puts his hand on Lee's shoulder."|stage direction||
+it's finally over.  Carter puts his hand on Lee's shoulder."|stage direction|||
 1277|CARTER|"I don't know about you, but I need a
-wine cooler."|speech|CARTER|M
+wine cooler."|speech|CARTER|M|True
 1278||"As they turn to the door -- Hu Li is walking toward them,
 bleeding and half-dead.  She has ANOTHER BOMB IN HER HAND.
-This one twice the size of the one from earlier."|stage direction||
-1279||(in Chinese)|location||
-1280|HU LI|We'll go together, Inspector.|speech|HU LI|F
+This one twice the size of the one from earlier."|stage direction|||
+1279||(in Chinese)|location|||
+1280|HU LI|We'll go together, Inspector.|speech|HU LI|F|True
 1281|CARTER|"Please tell me she just asked for a ride
-to the airport."|speech|CARTER|M
+to the airport."|speech|CARTER|M|True
 1282||"Hu Li hits the switch - starts to smile.  Lee and Carter turn
-and RUN for the OPEN WINDOW."|stage direction||
-1283||EXT. BUILDING - NIGHT|location||
+and RUN for the OPEN WINDOW."|stage direction|||
+1283||EXT. BUILDING - NIGHT|location|||
 1284||"Lee and Carter DIVE OUT THE WINDOW, grab a cable just as the
 PENTHOUSE BLOWS!
 The FIREBALL SHOOTS out as they start to slide down the side
@@ -2607,83 +2607,83 @@ SIGN.
 It's KNOCKED LOOSE and they fall with it toward VEGAS BLVD.
 Lee and Carter hang on as they drop to the street.  A HUGE
 TRUCK speeds toward them as they hold on for their lives.
-The entire STRIP SPEEDING toward them."|stage direction||
+The entire STRIP SPEEDING toward them."|stage direction|||
 1285|LEE|"I can't believe I flew ten-thousand
-miles for this shit!!"|speech|LEE|M
+miles for this shit!!"|speech|LEE|M|True
 1286||"They lift their feet just as the TRUCK PASSES.  The sign dips
 and they fall straight down into the open sunroof of a LARGE
-STRETCH LIMO."|stage direction||
-1287||INT. LIMOUSINE - CONTINUOUS|location||
+STRETCH LIMO."|stage direction|||
+1287||INT. LIMOUSINE - CONTINUOUS|location|||
 1288||"Lee and Carter land in the back.  Slam into their seats and
 try to catch their breath.  The TWO MEN STARTING TO LAUGH
-when they realize they're alive!"|stage direction||
-1289|CARTER|We made it, man.|speech|CARTER|M
-1290|LEE|No problem.|speech|LEE|M
+when they realize they're alive!"|stage direction|||
+1289|CARTER|We made it, man.|speech|CARTER|M|True
+1290|LEE|No problem.|speech|LEE|M|True
 1291||"Lee and Carter look up to see the VERSACE SALESMAN and FOUR
 OF HIS FRIENDS sitting in the back of the limo staring at
 them.  The BOYS are all drinking champagne and dressed for a
-night on the town."|stage direction||
-1292|VERSACE SALESMAN|Well, there is a God after all.|speech|VERSACE SALESMAN|?
+night on the town."|stage direction|||
+1292|VERSACE SALESMAN|Well, there is a God after all.|speech|VERSACE SALESMAN|?|
 1293||"Lee and Carter exchange looks as the limo stops in front of
-the hotel."|stage direction||
-1294|LIMO DRIVER|Here we are.  The Red Dragon hotel.|speech|LIMO DRIVER|?
+the hotel."|stage direction|||
+1294|LIMO DRIVER|Here we are.  The Red Dragon hotel.|speech|LIMO DRIVER|?|
 1295||"In front of the hotel WE SEE FIRE TRUCKS, AMBULANCE, POLICE
-CARS and Isabella and Sterling arresting TWENTY TRIADS."|stage direction||
+CARS and Isabella and Sterling arresting TWENTY TRIADS."|stage direction|||
 1296|VERSACE SALESMAN|"We're all going gambling and then to see
 Siegried and Roy.  I hope you two are
-feeling lucky!"|speech|VERSACE SALESMAN|?
-1297||INT. LAS VEGAS AIRPORT - NIGHT|location||
+feeling lucky!"|speech|VERSACE SALESMAN|?|
+1297||INT. LAS VEGAS AIRPORT - NIGHT|location|||
 1298||"Lee is talking with a bandaged Isabella, who is standing with
 Sterling and several other SECRET SERVICE AGENTS.  Lee and
 Isabella hug goodbye.  As she walks off to board her plane,
-Lee slowly walks back to Carter who is smiling."|stage direction||
+Lee slowly walks back to Carter who is smiling."|stage direction|||
 1299|CARTER|"I saw that.  She kissed you, didn't she?
 You played it cool, though.  Walking
-away, never looking back."|speech|CARTER|M
+away, never looking back."|speech|CARTER|M|True
 1300|LEE|"She's going home to New York.  I need
-some ice."|speech|LEE|M
-1301||Lee and Carter watch as she gets on the plane.|stage direction||
-1302|CARTER|That your gate down there?|speech|CARTER|M
-1303|LEE|Yes.|speech|LEE|M
-1304|CARTER|I'm this way.  I guess this is goodbye.|speech|CARTER|M
-1305|LEE|I guess so.  Thank you, Carter.|speech|LEE|M
-1306|CARTER|You take care of yourself, Lee.|speech|CARTER|M
+some ice."|speech|LEE|M|True
+1301||Lee and Carter watch as she gets on the plane.|stage direction|||
+1302|CARTER|That your gate down there?|speech|CARTER|M|True
+1303|LEE|Yes.|speech|LEE|M|True
+1304|CARTER|I'm this way.  I guess this is goodbye.|speech|CARTER|M|True
+1305|LEE|I guess so.  Thank you, Carter.|speech|LEE|M|True
+1306|CARTER|You take care of yourself, Lee.|speech|CARTER|M|True
 1307||"Carter steps back, BOWS TO LEE.  Lee SHAKES CARTER'S HAND
-like a brother.  The two men smile.  Turn to walk away."|stage direction||
+like a brother.  The two men smile.  Turn to walk away."|stage direction|||
 1308|LEE|"Carter, wait.  There's something I want
-you to have."|speech|LEE|M
-1309||Lee pulls a BADGE from his pocket.  Hands it to Carter.|stage direction||
+you to have."|speech|LEE|M|True
+1309||Lee pulls a BADGE from his pocket.  Hands it to Carter.|stage direction|||
 1310|CARTER|"Your father's badge?  No way, man.  I
-can't take this."|speech|CARTER|M
-1311|LEE|It's okay.  I can finally let it go.|speech|LEE|M
-1312||Carter takes the badge.  Smiles.|stage direction||
+can't take this."|speech|CARTER|M|True
+1311|LEE|It's okay.  I can finally let it go.|speech|LEE|M|True
+1312||Carter takes the badge.  Smiles.|stage direction|||
 1313|CARTER|"In that case, I got something for you.
-I picked it up at the hotel."|speech|CARTER|M
-1314||Carter pulls out a WAD OF CASH.|stage direction||
-1315|LEE|What is this?|speech|LEE|M
+I picked it up at the hotel."|speech|CARTER|M|True
+1314||Carter pulls out a WAD OF CASH.|stage direction|||
+1315|LEE|What is this?|speech|LEE|M|True
 1316|CARTER|"About fifty grand.  I won it at the
-tables."|speech|CARTER|M
-1317|LEE|No, Carter.  I can't take this.|speech|LEE|M
-1318|CARTER|It's okay, I got lots more.|speech|CARTER|M
-1319||Carter pulls out another wad of cash.|stage direction||
+tables."|speech|CARTER|M|True
+1317|LEE|No, Carter.  I can't take this.|speech|LEE|M|True
+1318|CARTER|It's okay, I got lots more.|speech|CARTER|M|True
+1319||Carter pulls out another wad of cash.|stage direction|||
 1320|CARTER (CONT'D)|"They owe us, man.  That's the least they
-can do."|speech|CARTER|M
-1321|LEE|This money is evidence.|speech|LEE|M
+can do."|speech|CARTER|M|True
+1321|LEE|This money is evidence.|speech|LEE|M|True
 1322|CARTER|"Come on, Lee.  Stop being a cop for five
 minutes and live it up.  There must be
-something you want."|speech|CARTER|M
-1323||Lee looks back toward Isabella.|stage direction||
+something you want."|speech|CARTER|M|True
+1323||Lee looks back toward Isabella.|stage direction|||
 1324|LEE|"I always wanted to go to Madison Square
-Garden.  See the Knicks play."|speech|LEE|M
-1325|CARTER|New York City?|speech|CARTER|M
-1326|LEE|First class.|speech|LEE|M
-1327|CARTER|The Plaza Hotel?|speech|CARTER|M
-1328|LEE|A little Mu-shu.|speech|LEE|M
-1329|CARTER|Some Kung-Pao?|speech|CARTER|M
-1330||They look at each other, smile.|stage direction||
-1331|CARTER (CONT'D)|I could use a little vacation.|speech|CARTER|M
-1332|LEE|Amen to that, brother.|speech|LEE|M
+Garden.  See the Knicks play."|speech|LEE|M|True
+1325|CARTER|New York City?|speech|CARTER|M|True
+1326|LEE|First class.|speech|LEE|M|True
+1327|CARTER|The Plaza Hotel?|speech|CARTER|M|True
+1328|LEE|A little Mu-shu.|speech|LEE|M|True
+1329|CARTER|Some Kung-Pao?|speech|CARTER|M|True
+1330||They look at each other, smile.|stage direction|||
+1331|CARTER (CONT'D)|I could use a little vacation.|speech|CARTER|M|True
+1332|LEE|Amen to that, brother.|speech|LEE|M|True
 1333||"As Lee and Carter start to walk away together, the MUSIC
 SWELLS.  ""WAR"" starts to PLAY.  They dance their way through
 a crowd of people, their arms raised as the two friends make
-their way through the airport."|stage direction||
+their way through the airport."|stage direction|||
